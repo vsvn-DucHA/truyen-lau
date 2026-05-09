@@ -1,0 +1,105 @@
+---
+interface Chapter {
+  num: number
+  title?: string
+}
+
+interface Props {
+  slug: string
+  currentNum: number
+  chapters: Chapter[]
+}
+
+const { slug, currentNum, chapters } = Astro.props
+
+const idx = chapters.findIndex((c) => c.num === currentNum)
+const prev = idx > 0 ? chapters[idx - 1] : null
+const next = idx < chapters.length - 1 ? chapters[idx + 1] : null
+---
+
+<div class="flex items-center gap-3">
+  {
+    prev ? (
+      <a href={`/truyen/${slug}/chuong/${prev.num}`} class="nav-btn" aria-label="Chương trước">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path
+            d="M10 4L6 8l4 4"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+        <span class="hidden sm:inline">Trước</span>
+      </a>
+    ) : (
+      <span class="nav-btn" aria-disabled="true" aria-label="Chương trước">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path
+            d="M10 4L6 8l4 4"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+        <span class="hidden sm:inline">Trước</span>
+      </span>
+    )
+  }
+
+  <select
+    class="nav-select chapter-nav-select"
+    data-slug={slug}
+    aria-label="Chọn chương"
+  >
+    {
+      chapters.map((c) => (
+        <option value={c.num} selected={c.num === currentNum}>
+          Chương {c.num}{c.title ? `: ${c.title}` : ''}
+        </option>
+      ))
+    }
+  </select>
+
+  {
+    next ? (
+      <a href={`/truyen/${slug}/chuong/${next.num}`} class="nav-btn" aria-label="Chương tiếp">
+        <span class="hidden sm:inline">Tiếp</span>
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path
+            d="M6 4l4 4-4 4"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </a>
+    ) : (
+      <span class="nav-btn" aria-disabled="true" aria-label="Chương tiếp">
+        <span class="hidden sm:inline">Tiếp</span>
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path
+            d="M6 4l4 4-4 4"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </span>
+    )
+  }
+</div>
+
+<script>
+  // Chapter select dropdown — navigate on change
+  document.querySelectorAll<HTMLSelectElement>('.chapter-nav-select').forEach((select) => {
+    select.addEventListener('change', (e) => {
+      const slug = (e.target as HTMLSelectElement).dataset.slug
+      const num = (e.target as HTMLSelectElement).value
+      if (slug) window.location.href = `/truyen/${slug}/chuong/${num}`
+    })
+  })
+</script>

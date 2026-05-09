@@ -1,0 +1,198 @@
+---
+// No server-side props needed — settings are always read client-side from localStorage
+---
+
+<!-- Hidden until opened via settings:toggle event --><!-- Backdrop: hidden by default via inline style; JS sets display:flex when opening -->
+<div
+  id='settings-backdrop'
+  class='fixed inset-0 z-200 bg-ink/15 items-start justify-end pt-18 pr-4 md:pr-8'
+  style='display:none'
+>
+  <div
+    id='settings-panel'
+    class='bg-canvas border border-hairline rounded-lg p-6 w-100 shadow-[0_8px_24px_rgba(20,20,19,0.12)] flex flex-col gap-6 max-sm:w-full max-sm:fixed max-sm:bottom-0 max-sm:left-0 max-sm:right-0 max-sm:rounded-b-none'
+  >
+    <div class='flex items-center justify-between'>
+      <span class='font-body text-sm font-medium text-ink'>Cài đặt đọc</span>
+      <button
+        id='btn-settings-close'
+        class='w-7 h-7 rounded-pill text-muted text-[13px] flex items-center justify-center transition-colors hover:bg-surface-card hover:text-ink'
+        aria-label='Đóng'
+      >
+        ✕
+      </button>
+    </div>
+
+    <div class='flex flex-col gap-3'>
+      <span
+        class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+        >Phông chữ</span
+      >
+      <div class='grid grid-cols-2 gap-2'>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='garamond'
+          style="font-family: 'EB Garamond', serif"
+        >
+          EB Garamond
+        </button>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='merriweather'
+          style="font-family: 'Merriweather', serif; font-size: 13px"
+        >
+          Merriweather
+        </button>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='lora'
+          style="font-family: 'Lora', serif"
+        >
+          Lora
+        </button>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='literata'
+          style="font-family: 'Literata', serif"
+        >
+          Literata
+        </button>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='georgia'
+          style='font-family: Georgia, serif'
+        >
+          Georgia
+        </button>
+        <button
+          class='font-btn h-10 rounded-md border text-[15px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='inter'
+          style="font-family: 'Inter', sans-serif"
+        >
+          Inter
+        </button>
+        <button
+          class='font-btn col-span-2 h-10 rounded-md border text-[14px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card'
+          data-font-id='mono'
+          style="font-family: 'JetBrains Mono', monospace"
+        >
+          Monospace
+        </button>
+      </div>
+    </div>
+
+    <div class='flex flex-col gap-3'>
+      <div class='flex items-center gap-2'>
+        <span
+          class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+          >Cỡ chữ</span
+        >
+        <span id='font-size-display' class='text-sm text-body'>20px</span>
+      </div>
+      <div class='flex items-center gap-3'>
+        <span class='text-xs text-muted w-4 text-center leading-none'>A</span>
+        <input
+          id='font-size-slider'
+          type='range'
+          min='16'
+          max='28'
+          step='1'
+          value='20'
+          class='flex-1 accent-primary cursor-pointer'
+        />
+        <span class='text-lg text-muted w-4 text-center leading-none'>A</span>
+      </div>
+    </div>
+
+    <div
+      id='settings-preview'
+      class='bg-surface-soft rounded-md p-4 text-body italic leading-[1.7] min-h-15'
+      style='font-family: var(--reading-font); font-size: var(--reading-size)'
+    >
+      Trương Vũ hít một hơi thật sâu, nhắm mắt lại tĩnh tâm chờ đợi.
+    </div>
+  </div>
+</div>
+
+<script>
+  import {
+    getSettings,
+    setFontId,
+    setFontSize,
+  } from '../scripts/readingSettings.js'
+
+  const backdrop = document.getElementById('settings-backdrop')
+  const slider = document.getElementById(
+    'font-size-slider',
+  ) as HTMLInputElement | null
+  const sizeDisplay = document.getElementById('font-size-display')
+
+  function syncUI() {
+    const s = getSettings()
+    // Sync font buttons
+    document.querySelectorAll<HTMLButtonElement>('.font-btn').forEach((btn) => {
+      const isActive = btn.dataset.fontId === s.fontId
+      btn.classList.toggle('border-primary', isActive)
+      btn.classList.toggle('bg-surface-soft', isActive)
+      btn.classList.toggle('text-primary', isActive)
+      btn.classList.toggle('border-hairline', !isActive)
+      btn.classList.toggle('bg-canvas', !isActive)
+      btn.classList.toggle('text-body', !isActive)
+    })
+    // Sync slider
+    if (slider) slider.value = String(s.fontSize)
+    if (sizeDisplay) sizeDisplay.textContent = s.fontSize + 'px'
+  }
+
+  function openPanel() {
+    syncUI()
+    if (backdrop) backdrop.style.display = 'flex'
+  }
+
+  function closePanel() {
+    if (backdrop) backdrop.style.display = 'none'
+    // Notify TopNav to reset button state
+    document.dispatchEvent(new CustomEvent('settings:closed'))
+  }
+
+  // Open/close via custom event from TopNav
+  document.addEventListener('settings:toggle', () => {
+    if (
+      !backdrop ||
+      backdrop.style.display === 'none' ||
+      backdrop.style.display === ''
+    ) {
+      openPanel()
+    } else {
+      closePanel()
+    }
+  })
+
+  // Close button
+  document
+    .getElementById('btn-settings-close')
+    ?.addEventListener('click', closePanel)
+
+  // Backdrop click to close
+  backdrop?.addEventListener('click', (e) => {
+    if (e.target === backdrop) closePanel()
+  })
+
+  // Font buttons
+  document.querySelectorAll<HTMLButtonElement>('.font-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const fontId = btn.dataset.fontId
+      if (fontId) {
+        setFontId(fontId)
+        syncUI()
+      }
+    })
+  })
+
+  // Size slider
+  slider?.addEventListener('input', () => {
+    const val = Number(slider.value)
+    setFontSize(val)
+    if (sizeDisplay) sizeDisplay.textContent = val + 'px'
+  })
+</script>

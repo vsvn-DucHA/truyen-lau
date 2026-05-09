@@ -1,0 +1,38 @@
+---
+interface Props {
+  slug: string
+  title: string
+  author: string
+  synopsis: string
+  totalChapters: number
+  coverColor?: string
+  /** Progress is injected client-side; pass undefined from server */
+  progress?: { chapter: number } | null
+}
+
+const { slug, title, author, synopsis, totalChapters, coverColor = '#cc785c' } = Astro.props
+---
+
+<a
+  href={`/truyen/${slug}`}
+  class="story-card flex flex-col bg-canvas border border-hairline rounded-lg overflow-hidden transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[0_4px_16px_rgba(20,20,19,0.1)]"
+  data-slug={slug}
+>
+  <div
+    class="h-44 flex flex-col items-center justify-center gap-3 px-8 relative overflow-hidden"
+    style={`background-color: ${coverColor}`}
+  >
+    <div class="absolute inset-0 bg-linear-to-br from-white/10 to-black/15"></div>
+    <span class="relative text-[28px] text-white/70 leading-none">✦</span>
+    <span class="relative font-display text-base text-white/90 text-center leading-snug">{title}</span>
+  </div>
+  <div class="p-5 flex flex-col gap-3 flex-1">
+    <h2 class="font-display text-[22px] tracking-[-0.3px] text-ink leading-snug">{title}</h2>
+    <p class="text-[13px] font-medium text-muted">{author}</p>
+    <p class="text-sm text-body leading-relaxed line-clamp-3">{synopsis}</p>
+    <div class="flex flex-wrap gap-2 mt-auto pt-3 card-badges">
+      <span class="badge">{totalChapters} chương</span>
+      {/* Progress badge injected by client script */}
+    </div>
+  </div>
+</a>

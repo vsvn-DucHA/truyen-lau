@@ -1,0 +1,151 @@
+---
+import Layout from '../../../../layouts/Layout.astro'
+import TopNav from '../../../../components/TopNav.astro'
+import ChapterNav from '../../../../components/ChapterNav.astro'
+import ReadingSettingsPanel from '../../../../components/ReadingSettingsPanel.astro'
+import Footer from '../../../../components/Footer.astro'
+
+interface Chapter {
+  num: number
+  title?: string
+}
+
+interface Meta {
+  title: string
+  author: string
+  synopsis: string
+  totalChapters: number
+  chapters: Chapter[]
+}
+
+const WORKER_URL = import.meta.env.PUBLIC_WORKER_URL
+const WORKER_API_KEY = import.meta.env.WORKER_API_KEY
+
+const { slug, num } = Astro.params as { slug: string; num: string }
+const chapterNum = parseInt(num, 10)
+
+if (isNaN(chapterNum)) {
+  return Astro.redirect(`/truyen/${slug}`)
+}
+
+// 1. Đọc meta từ public JSON (không cần auth)
+let meta: Meta | null = null
+try {
+  const res = await fetch(new URL(`/${slug}.json`, Astro.url))
+  if (res.ok) meta = await res.json()
+} catch {
+  // graceful degradation
+}
+
+// 2. Đọc nội dung chương ở server (dùng WORKER_API_KEY server-only)
+let paragraphs: string[] = []
+let isFirstParaHead = false
+
+const padded = chapterNum.toString().padStart(4, '0')
+try {
+  console.log('apikey: ', WORKER_API_KEY)
+  const res = await fetch(`${WORKER_URL}/${slug}/${padded}.txt`, {
+    headers: { 'x-api-key': WORKER_API_KEY },
+  })
+  if (res.ok) {
+    const rawContent = await res.text()
+    const normalized = rawContent
+      .replace(/\r\n/g, '\n')
+      .replace(/\r/g, '\n')
+      .replace(/\\n/g, '\n')
+    const all = normalized
+      .split(/\n\n+/)
+      .map((p) => p.trim())
+      .filter(Boolean)
+    isFirstParaHead = all.length > 0 && /^Chương\s+\d+/i.test(all[0])
+    paragraphs = isFirstParaHead ? all.slice(1) : all
+  }
+} catch {
+  // graceful degradation
+}
+
+// 3. Xác định tiêu đề hiển thị
+const chapterTitle = meta?.chapters?.find((c) => c.num === chapterNum)?.title
+const displayTitle = chapterTitle
+  ? `Chương ${chapterNum}: ${chapterTitle}`
+  : `Chương ${chapterNum}`
+
+const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
+---
+
+<Layout title={`${displayTitle} — ${meta?.title ?? 'Truyện'}`}>
+  <TopNav title={navTitle} storySlug={slug} showSettingsBtn />
+  <ReadingSettingsPanel />
+  <main class='flex-1 w-full pb-24'>
+    {
+      meta && (
+        <div class='max-w-190 mx-auto px-4 md:px-8 py-5 border-b border-hairline-soft'>
+          <ChapterNav
+            slug={slug}
+            currentNum={chapterNum}
+            chapters={meta.chapters}
+          />
+        </div>
+      )
+    }
+
+    <article
+      class='max-w-190 mx-auto px-4 md:px-8 py-12 text-body-strong leading-[1.85]'
+      style='font-family: var(--reading-font); font-size: var(--reading-size)'
+    >
+      <h1
+        class='font-display tracking-[-0.3px] text-ink mb-10 leading-snug'
+        style='font-size: 1.9em'
+      >
+        {displayTitle}
+      </h1>
+
+      <div id='chapter-body'>
+        {
+          paragraphs.length === 0 ? (
+            <p class='text-muted text-sm'>Nội dung không khả dụng.</p>
+          ) : (
+            paragraphs.map((p) => <p class='mb-[1em]'>{p}</p>)
+          )
+        }
+      </div>
+    </article>
+
+    {
+      meta && (
+        <div class='max-w-190 mx-auto px-4 md:px-8 py-5 border-t border-hairline-soft'>
+          <ChapterNav
+            slug={slug}
+            currentNum={chapterNum}
+            chapters={meta.chapters}
+          />
+        </div>
+      )
+    }
+  </main>
+  <Footer />
+</Layout>
+
+<!-- Data carrier for client script -->
+<div
+  id='chapter-meta'
+  data-slug={slug}
+  data-chapter-num={chapterNum}
+  aria-hidden='true'
+  style='display:none'
+>
+</div>
+
+<script>
+  import { saveProgress } from '../../../../scripts/readingProgress.js'
+
+  const metaEl = document.getElementById('chapter-meta') as HTMLElement | null
+  const slug = metaEl?.dataset.slug
+  const chapterNum = Number(metaEl?.dataset.chapterNum)
+
+  window.scrollTo({ top: 0, behavior: 'instant' })
+
+  if (slug && chapterNum) {
+    saveProgress(slug, chapterNum)
+  }
+</script>

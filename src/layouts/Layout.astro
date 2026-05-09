@@ -1,0 +1,73 @@
+---
+import '../styles/global.css'
+
+interface Props {
+  title?: string
+  description?: string
+}
+
+const {
+  title = 'Truyện',
+  description = 'Đọc truyện online · Lưu tiến trình đọc tự động',
+} = Astro.props
+---
+
+<!doctype html>
+<html lang='vi'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <title>{title}</title>
+    <meta name='description' content={description} />
+    <link rel='preconnect' href='https://fonts.googleapis.com' />
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+    <link
+      href='https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,500;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400&display=swap'
+      rel='stylesheet'
+    />
+    <!-- Anti-FOUC: apply dark class, font, font-size before first paint -->
+    <script is:inline>
+      ;(function () {
+        try {
+          var s = JSON.parse(
+            localStorage.getItem('truyen_reading_settings') || '{}',
+          )
+          if (s.darkMode) document.documentElement.classList.add('dark')
+          var fontMap = {
+            merriweather: "'Merriweather', serif",
+            lora: "'Lora', serif",
+            literata: "'Literata', serif",
+            georgia: 'Georgia, serif',
+            inter: "'Inter', sans-serif",
+            mono: "'JetBrains Mono', monospace",
+          }
+          var font = fontMap[s.fontId] || "'EB Garamond', serif"
+          document.documentElement.style.setProperty('--reading-font', font)
+          document.documentElement.style.setProperty(
+            '--reading-size',
+            (s.fontSize || 20) + 'px',
+          )
+        } catch (e) {}
+      })()
+    </script>
+    <!-- Auth guard: redirect to /login if not authenticated -->
+    <script is:inline>
+      ;(function () {
+        try {
+          var key = localStorage.getItem('app_api_key')
+          if (!key) {
+            var redirect = encodeURIComponent(
+              location.pathname + location.search,
+            )
+            location.replace('/login?redirect=' + redirect)
+          }
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <div style='display:flex;flex-direction:column;min-height:100svh'>
+      <slot />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,989 @@
+{
+  "slug": "tien_tu_tra_ta_phi_kiem",
+  "title": "Tiên Tử Trả Ta Phi Kiếm",
+  "author": "Vị Thần Bí Mật",
+  "synopsis": "Sau khi dồn hết tiền tiết kiệm để mua một thanh phi kiếm, Lâm Gian chưa kịp vui mừng thì vũ khí của mình đã bị chiêu thức \"Vạn Kiếm Quy Tông\" của Xuân Tuyết Kiếm Tiên triệu hồi đi mất và trả lại dưới dạng... 8 mảnh vụn. Để đòi lại công bằng, anh chàng \"điểm tử vương\" (lắm mưu mẹo) này đã quyết định bắt đền và ép vị nữ kiếm tiên mạnh nhất phải làm thuê trả nợ cho mình. Từ đây, một hành trình tu tiên đầy hài hước và \"dở khóc dở cười\" bắt đầu giữa một gã tu sĩ nghèo lém lỉnh và một nàng kiếm tiên bất đắc dĩ.",
+  "totalChapters": 245,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Thanh phi kiếm ta mới mua mà!"
+    },
+    {
+      "num": 2,
+      "title": "Đám kiếm tu chết tiệt"
+    },
+    {
+      "num": 3,
+      "title": "Cách thức trả nợ"
+    },
+    {
+      "num": 4,
+      "title": "Ê! Ta có ý này"
+    },
+    {
+      "num": 5,
+      "title": "Chút ít chi tiết"
+    },
+    {
+      "num": 6,
+      "title": "Thành tích tu tiên của A Gian không mấy lý tưởng"
+    },
+    {
+      "num": 7,
+      "title": "Ta đã bảo là suýt chút nữa phải \"đi khách\" mà!"
+    },
+    {
+      "num": 8,
+      "title": "Linh Căn Tạo Hóa Đan"
+    },
+    {
+      "num": 9,
+      "title": "Ta CMN thật đáng chết mà!"
+    },
+    {
+      "num": 10,
+      "title": "Tìm chuyện"
+    },
+    {
+      "num": 11,
+      "title": "Đan dược ca ca luyện các ngươi đều đừng có ăn!"
+    },
+    {
+      "num": 12,
+      "title": "Ngũ Hành Kim Linh Đan"
+    },
+    {
+      "num": 13,
+      "title": "Cứ nghĩ đến lát nữa định làm gì là không nhịn được cười"
+    },
+    {
+      "num": 14,
+      "title": "Tiên nhân khai pháo h轟 hắn nương!"
+    },
+    {
+      "num": 15,
+      "title": "Kéo đầy"
+    },
+    {
+      "num": 16,
+      "title": "Thể tu"
+    },
+    {
+      "num": 17,
+      "title": "Thế này thì ta còn sống làm cái lông gà gì nữa?"
+    },
+    {
+      "num": 18,
+      "title": "Sao đầu của ngươi lại nhọn thế?"
+    },
+    {
+      "num": 19,
+      "title": "Không tiền tu cái lông gà tiên"
+    },
+    {
+      "num": 20,
+      "title": "Đánh ta bằng với đánh chính mình"
+    },
+    {
+      "num": 21,
+      "title": "Hề chính là bản thân ta"
+    },
+    {
+      "num": 22,
+      "title": "Cỏ dại tự do"
+    },
+    {
+      "num": 23,
+      "title": "Thánh Địa Lệnh Giám"
+    },
+    {
+      "num": 24,
+      "title": "Thu Hoạch Linh Thực"
+    },
+    {
+      "num": 25,
+      "title": "Xin Lỗi Tiên Sư"
+    },
+    {
+      "num": 26,
+      "title": "Luyện Đan Đại Hội"
+    },
+    {
+      "num": 27,
+      "title": "Tam Phẩm Đan Dược"
+    },
+    {
+      "num": 28,
+      "title": "Đan Thành"
+    },
+    {
+      "num": 29,
+      "title": "Tiên Thiên Hấp Linh Thánh Thể"
+    },
+    {
+      "num": 30,
+      "title": "Trúc Cơ"
+    },
+    {
+      "num": 31,
+      "title": "Đậu xanh Lâm Gian là ai?!"
+    },
+    {
+      "num": 32,
+      "title": "Rất đơn giản, ta cũng Trúc Cơ là được"
+    },
+    {
+      "num": 33,
+      "title": "Thần giáo bùng nổ"
+    },
+    {
+      "num": 34,
+      "title": "Thu đồ"
+    },
+    {
+      "num": 35,
+      "title": "Hậu mẫu xin dừng bước"
+    },
+    {
+      "num": 36,
+      "title": "Bảo Lưu Ly Quốc"
+    },
+    {
+      "num": 37,
+      "title": "Nàng mà chết thì ta cũng không sống nổi"
+    },
+    {
+      "num": 38,
+      "title": "Minh Quang Tự"
+    },
+    {
+      "num": 39,
+      "title": "Chương 39:"
+    },
+    {
+      "num": 40,
+      "title": "Tàng hình đột nhập"
+    },
+    {
+      "num": 41,
+      "title": "Tiểu yêu"
+    },
+    {
+      "num": 42,
+      "title": "Thất Diệp Nhất Chi Hoa"
+    },
+    {
+      "num": 43,
+      "title": "Vẫn còn cao thủ?"
+    },
+    {
+      "num": 44,
+      "title": "Kiếm Quán Trường Hồng!"
+    },
+    {
+      "num": 45,
+      "title": "Đồng lòng trừ ma"
+    },
+    {
+      "num": 46,
+      "title": "Đầu ngứa quá"
+    },
+    {
+      "num": 47,
+      "title": "Ngươi cứ nói xem có phải là khuynh quốc không"
+    },
+    {
+      "num": 48,
+      "title": "Chân Dương trở về"
+    },
+    {
+      "num": 49,
+      "title": "Tước đoạt thân phận môn chủ?"
+    },
+    {
+      "num": 50,
+      "title": "Cách giải quyết"
+    },
+    {
+      "num": 51,
+      "title": "Tranh giành"
+    },
+    {
+      "num": 52,
+      "title": "Sư điệt, cứu cứu"
+    },
+    {
+      "num": 53,
+      "title": "Bái sư"
+    },
+    {
+      "num": 54,
+      "title": "Ngươi nói bao nhiêu?"
+    },
+    {
+      "num": 55,
+      "title": "Thủ đoạn ngoại giao"
+    },
+    {
+      "num": 56,
+      "title": "Kẻ làm thầy chính là vì lẽ đó"
+    },
+    {
+      "num": 57,
+      "title": "Bí mật Thiên Uyên"
+    },
+    {
+      "num": 58,
+      "title": "Rất nhiều pháp môn"
+    },
+    {
+      "num": 59,
+      "title": "Đào góc tường"
+    },
+    {
+      "num": 60,
+      "title": "Có thừa khí lực và thủ đoạn"
+    },
+    {
+      "num": 61,
+      "title": "Ngươi cứ nói xem có phải cấp tốc không?"
+    },
+    {
+      "num": 62,
+      "title": "Ta TM cũng có tu la tràng?"
+    },
+    {
+      "num": 63,
+      "title": "Thiên Nhận Kiếp Chỉ? Chẳng qua cũng chỉ..."
+    },
+    {
+      "num": 64,
+      "title": "Ta đánh cược trong tay ngươi không còn kiếm khí"
+    },
+    {
+      "num": 65,
+      "title": "Phần thưởng đại tỷ thí bốn tông"
+    },
+    {
+      "num": 66,
+      "title": "Đối tượng khai hỏa, chính là ngươi nha"
+    },
+    {
+      "num": 67,
+      "title": "Luyện đan ta cho huynh bay lên luôn!"
+    },
+    {
+      "num": 68,
+      "title": "Thanh kiếm của Tam sư huynh"
+    },
+    {
+      "num": 69,
+      "title": "Mời thiên tài kiếm tu tiếp theo"
+    },
+    {
+      "num": 70,
+      "title": "Dám làm người đi đầu"
+    },
+    {
+      "num": 71,
+      "title": "Ta có bảy thắng, ưu thế tại ta"
+    },
+    {
+      "num": 72,
+      "title": "Đa Bảo đạo nhân"
+    },
+    {
+      "num": 73,
+      "title": "Đồng đạo trung nhân"
+    },
+    {
+      "num": 74,
+      "title": "Ba kiếm"
+    },
+    {
+      "num": 75,
+      "title": "Hắc tử lên tiếng!"
+    },
+    {
+      "num": 76,
+      "title": "Sư huynh của các muội sẽ không giận đó chứ?"
+    },
+    {
+      "num": 77,
+      "title": "Ngươi giỏi thì ngươi lên đi"
+    },
+    {
+      "num": 78,
+      "title": "Vậy thì huynh cũng hơi gà đấy"
+    },
+    {
+      "num": 79,
+      "title": "Đấu pháp"
+    },
+    {
+      "num": 80,
+      "title": "《Trải nghiệm có một đại sư huynh nồng nặc mùi trà xanh là như thế nào》"
+    },
+    {
+      "num": 81,
+      "title": "Sắp lên kệ rồi, đôi lời tâm sự"
+    },
+    {
+      "num": 82,
+      "title": "Đoạn Kim Thiên Cơ Háp (Canh thứ nhất, cầu đặt mua đầu tiên!!!)"
+    },
+    {
+      "num": 83,
+      "title": "Người nên sợ hãi là bọn họ (Canh thứ hai)"
+    },
+    {
+      "num": 84,
+      "title": "Kiếm... kiếm ý? (Canh thứ ba)"
+    },
+    {
+      "num": 85,
+      "title": "Cô ấy là gì của ngươi? (Canh một)"
+    },
+    {
+      "num": 86,
+      "title": "Người của Kiếm Tông tìm đến (Canh thứ hai)"
+    },
+    {
+      "num": 87,
+      "title": "Ta cũng muốn có cảm giác tham gia (Canh thứ ba)"
+    },
+    {
+      "num": 88,
+      "title": "Người quen gặp mặt (Canh một)"
+    },
+    {
+      "num": 89,
+      "title": "Ám tùng (Canh hai)"
+    },
+    {
+      "num": 90,
+      "title": "Hắn hình như nổi giận rồi? (Canh ba)"
+    },
+    {
+      "num": 91,
+      "title": "Tuyệt đối áp chế! (Canh một)"
+    },
+    {
+      "num": 92,
+      "title": "《Không Ngân》 (Canh hai)"
+    },
+    {
+      "num": 93,
+      "title": "Phân Diễn Linh Văn (Canh ba)"
+    },
+    {
+      "num": 94,
+      "title": "Muốn học à? Ta dạy ngươi nha (Canh một)"
+    },
+    {
+      "num": 95,
+      "title": "Tiên Nhất Môn Bạch Lăng Sương, thỉnh chỉ giáo (Canh hai)"
+    },
+    {
+      "num": 96,
+      "title": "Thắng! (Canh ba)"
+    },
+    {
+      "num": 97,
+      "title": "Tu tri thiếu niên lăng vân chí (Canh một)"
+    },
+    {
+      "num": 98,
+      "title": "Thượng Cửu Giới (Canh hai)"
+    },
+    {
+      "num": 99,
+      "title": "Phong khởi (Canh ba)"
+    },
+    {
+      "num": 100,
+      "title": "Vân Mộng Chi Trạch (Canh một)"
+    },
+    {
+      "num": 101,
+      "title": "Còn có hậu chiêu? (Canh hai)"
+    },
+    {
+      "num": 102,
+      "title": "Nơi Độ Kiếp (Tam canh)"
+    },
+    {
+      "num": 103,
+      "title": "Lâm Gian chia châu (Nhất canh)"
+    },
+    {
+      "num": 104,
+      "title": "Kế trong kế trong kế (Nhị canh)"
+    },
+    {
+      "num": 105,
+      "title": "Con dao găm này của ta có độc đấy (Tam canh)"
+    },
+    {
+      "num": 106,
+      "title": "Pháp khí đăng tràng (Nhất canh)"
+    },
+    {
+      "num": 107,
+      "title": "Đối phương gửi một lời mời liên kết linh thức (Nhị canh)"
+    },
+    {
+      "num": 108,
+      "title": "Ma khí ngút trời! (Tam canh)"
+    },
+    {
+      "num": 109,
+      "title": "Giây phút tuyệt mệnh (Nhất canh)"
+    },
+    {
+      "num": 110,
+      "title": "Để ta đi (Nhị canh)"
+    },
+    {
+      "num": 111,
+      "title": "Huyền Cơ Thiên Nhận! (Tam canh)"
+    },
+    {
+      "num": 112,
+      "title": "Cánh cửa phá giới (Nhất canh)"
+    },
+    {
+      "num": 113,
+      "title": "Trái tim của Xuân Tuyết (Nhị canh)"
+    },
+    {
+      "num": 114,
+      "title": "Thế giới rách nát tả tơi (Tam canh)"
+    },
+    {
+      "num": 115,
+      "title": "Sao trên đầu huynh xanh xanh thế? (Nhất canh)"
+    },
+    {
+      "num": 116,
+      "title": "Diệt sạch thiên hạ ntr! (Nhị canh)"
+    },
+    {
+      "num": 117,
+      "title": "Kiếp Tướng Thiên Ma"
+    },
+    {
+      "num": 118,
+      "title": "Đụng vào ta, coi như ngươi đụng phải tấm sắt rồi"
+    },
+    {
+      "num": 119,
+      "title": "Âm Sát"
+    },
+    {
+      "num": 120,
+      "title": "Bạch Hổ Khiếu Thiên Trận!"
+    },
+    {
+      "num": 121,
+      "title": "Vào Thiên Uyên"
+    },
+    {
+      "num": 122,
+      "title": "Đi tìm câu trả lời thôi"
+    },
+    {
+      "num": 123,
+      "title": "Mục tiêu đầu tiên"
+    },
+    {
+      "num": 124,
+      "title": "Công đức của ta, là gặp được ngươi a"
+    },
+    {
+      "num": 125,
+      "title": "《Thức Nhân Thuật》"
+    },
+    {
+      "num": 126,
+      "title": "Kiếm Háp Phân Quang Lược Ảnh"
+    },
+    {
+      "num": 127,
+      "title": "Thế ngươi thử đi"
+    },
+    {
+      "num": 128,
+      "title": "Để hắn dạy ta"
+    },
+    {
+      "num": 129,
+      "title": "Đốm lửa nhỏ"
+    },
+    {
+      "num": 130,
+      "title": "Cuốn 《Trận Điển Cơ Bản》 không hề cơ bản"
+    },
+    {
+      "num": 131,
+      "title": "《Sư huynh của tôi vừa mạnh vừa \"nỗ lực\"》"
+    },
+    {
+      "num": 132,
+      "title": "Mama nàng thơm quá"
+    },
+    {
+      "num": 133,
+      "title": "Một người bạn xã hội của cô tôi"
+    },
+    {
+      "num": 134,
+      "title": "Huyền Tẫn Triền Tâm Lộ"
+    },
+    {
+      "num": 135,
+      "title": "Ngươi cái đẳng cấp gì mà đòi luyện đan giống ta"
+    },
+    {
+      "num": 136,
+      "title": "Muốn luyện không có nghĩa là luyện được"
+    },
+    {
+      "num": 137,
+      "title": "Hi hi hi! Canh linh dược tới rồi đây"
+    },
+    {
+      "num": 138,
+      "title": "Xuất hiện"
+    },
+    {
+      "num": 139,
+      "title": "Một phường cá mè lứa"
+    },
+    {
+      "num": 140,
+      "title": "Thật và giả"
+    },
+    {
+      "num": 141,
+      "title": "Đồ đệ bị trục xuất"
+    },
+    {
+      "num": 142,
+      "title": "Điệu hổ ly sơn"
+    },
+    {
+      "num": 143,
+      "title": "Địch kích!"
+    },
+    {
+      "num": 144,
+      "title": "Nhân Đạo Minh"
+    },
+    {
+      "num": 145,
+      "title": "Nguyệt hạ kiếm vũ"
+    },
+    {
+      "num": 146,
+      "title": "Thất kiếm hợp nhất"
+    },
+    {
+      "num": 147,
+      "title": "Đào độn"
+    },
+    {
+      "num": 148,
+      "title": "Ngôn ngữ của pháp trận"
+    },
+    {
+      "num": 149,
+      "title": "Hàng chúng ta muốn, tiền lại không muốn trả"
+    },
+    {
+      "num": 150,
+      "title": "Manh mối từ đan dược"
+    },
+    {
+      "num": 151,
+      "title": "Người đàn bà lạ mặt không rõ lai lịch"
+    },
+    {
+      "num": 152,
+      "title": "Trả tiền nè"
+    },
+    {
+      "num": 153,
+      "title": "Thái thượng trưởng lão ẩn cư"
+    },
+    {
+      "num": 154,
+      "title": "Thánh nữ Hợp Hoan Tông"
+    },
+    {
+      "num": 155,
+      "title": "Quốc giáo chùa Minh Quang"
+    },
+    {
+      "num": 156,
+      "title": "Bạn của ngươi lăn lộn ở đường nào?"
+    },
+    {
+      "num": 157,
+      "title": "Đồn thổi chuyện sắc dục về Hợp Hoan Tông có tính là giả mạo học thuật không?"
+    },
+    {
+      "num": 158,
+      "title": "Đêm tập!"
+    },
+    {
+      "num": 159,
+      "title": "Tôi nên ở dưới gầm giường, không nên ở trên giường"
+    },
+    {
+      "num": 160,
+      "title": "Trà trộn"
+    },
+    {
+      "num": 161,
+      "title": "Bản sao đơn thuốc"
+    },
+    {
+      "num": 162,
+      "title": "Đạo hữu xin dừng bước"
+    },
+    {
+      "num": 163,
+      "title": "怀疑"
+    },
+    {
+      "num": 164,
+      "title": "Màn bộc bạch"
+    },
+    {
+      "num": 165,
+      "title": "Chí hướng của Quốc sư"
+    },
+    {
+      "num": 166,
+      "title": "Tập thể ngưng thị"
+    },
+    {
+      "num": 167,
+      "title": "Trung bất trung trung bất trung trung bất trung"
+    },
+    {
+      "num": 168,
+      "title": "Dĩ miếu vi trận"
+    },
+    {
+      "num": 169,
+      "title": "Tiên tử ngươi đừng vội"
+    },
+    {
+      "num": 170,
+      "title": "Tiệt trận đạo"
+    },
+    {
+      "num": 171,
+      "title": "Đắc tội phương trượng còn muốn đi?"
+    },
+    {
+      "num": 172,
+      "title": "Tương ái tương sát"
+    },
+    {
+      "num": 173,
+      "title": "Trận bàn"
+    },
+    {
+      "num": 174,
+      "title": "Hiển thánh"
+    },
+    {
+      "num": 175,
+      "title": "U ám ẩn phục"
+    },
+    {
+      "num": 176,
+      "title": "Bạo động"
+    },
+    {
+      "num": 177,
+      "title": "Kiếm tiên!"
+    },
+    {
+      "num": 178,
+      "title": "Ma hóa Dạ Xoa"
+    },
+    {
+      "num": 179,
+      "title": "Phấn bất cố thân"
+    },
+    {
+      "num": 180,
+      "title": "Ma Chủ: Chạy mau!"
+    },
+    {
+      "num": 181,
+      "title": "Bách phế đãi hưng"
+    },
+    {
+      "num": 182,
+      "title": "Công tử nơi nào nhạy cảm nhất?"
+    },
+    {
+      "num": 183,
+      "title": "Đừng có thành tiên!"
+    },
+    {
+      "num": 184,
+      "title": "Xuất phát! Trấn thủ Thiên Uyên"
+    },
+    {
+      "num": 185,
+      "title": "Thay phòng"
+    },
+    {
+      "num": 186,
+      "title": "Vào Ma Khích!"
+    },
+    {
+      "num": 187,
+      "title": "Hậu sinh khả úy"
+    },
+    {
+      "num": 188,
+      "title": "Khí quán trường hồng!"
+    },
+    {
+      "num": 189,
+      "title": "Nhân đạo hoa quang"
+    },
+    {
+      "num": 190,
+      "title": "Không Minh Thủy Tiêu"
+    },
+    {
+      "num": 191,
+      "title": "Ba chúng ta thật lợi hại"
+    },
+    {
+      "num": 192,
+      "title": "Kim Thân Ngọc Cốt"
+    },
+    {
+      "num": 193,
+      "title": "Lục Thần Châm"
+    },
+    {
+      "num": 194,
+      "title": "Kiểm kê sau trận chiến"
+    },
+    {
+      "num": 195,
+      "title": "Ánh sao?"
+    },
+    {
+      "num": 196,
+      "title": "Gặp nạn"
+    },
+    {
+      "num": 197,
+      "title": "Ngư Lân Thứ"
+    },
+    {
+      "num": 198,
+      "title": "Phân tích"
+    },
+    {
+      "num": 199,
+      "title": "Thiết Thính Phong Vân"
+    },
+    {
+      "num": 200,
+      "title": "Bổ thiên!"
+    },
+    {
+      "num": 201,
+      "title": "Trừ Ma!"
+    },
+    {
+      "num": 202,
+      "title": "Tấn thăng!"
+    },
+    {
+      "num": 203,
+      "title": "Lại vào Thiên Uyên"
+    },
+    {
+      "num": 204,
+      "title": "Sửa Chữa Pháp Trận"
+    },
+    {
+      "num": 205,
+      "title": "Các nơi thất thủ"
+    },
+    {
+      "num": 206,
+      "title": "Thánh địa lai nhân"
+    },
+    {
+      "num": 207,
+      "title": "Nghi ngờ"
+    },
+    {
+      "num": 208,
+      "title": "Tái tương kiến"
+    },
+    {
+      "num": 209,
+      "title": "Tiên tử mời"
+    },
+    {
+      "num": 210,
+      "title": "Tình nhân nhãn lý xuất Tây Thi"
+    },
+    {
+      "num": 211,
+      "title": "Cửu Giới Tranh Phong"
+    },
+    {
+      "num": 212,
+      "title": "Lưu Kim Linh Lung Tháp"
+    },
+    {
+      "num": 213,
+      "title": "Lưu Kim Linh Lung Tháp"
+    },
+    {
+      "num": 214,
+      "title": "Nhân đạo sở cầu"
+    },
+    {
+      "num": 215,
+      "title": "Ba tuổi đã đánh ngói"
+    },
+    {
+      "num": 216,
+      "title": "Kiếm Khư Bí Cảnh"
+    },
+    {
+      "num": 217,
+      "title": "Điểm giới hạn"
+    },
+    {
+      "num": 218,
+      "title": "Quyết Tuyệt"
+    },
+    {
+      "num": 219,
+      "title": "Thế nào là thiên tài?"
+    },
+    {
+      "num": 220,
+      "title": "Công khai khiêu chiến!"
+    },
+    {
+      "num": 221,
+      "title": "Kiếm Khư quy lai"
+    },
+    {
+      "num": 222,
+      "title": "Vậy xin hỏi loại đan dược này phải mua ở đâu?"
+    },
+    {
+      "num": 223,
+      "title": "Thế giới này vẫn là người tốt nhiều nha"
+    },
+    {
+      "num": 224,
+      "title": "Kiếm Môn"
+    },
+    {
+      "num": 225,
+      "title": "Vạn kiếm đảo huyền"
+    },
+    {
+      "num": 226,
+      "title": "Kiếm Ý"
+    },
+    {
+      "num": 227,
+      "title": "Vạn Tượng chi kiếm?"
+    },
+    {
+      "num": 228,
+      "title": "Đối tượng trò chuyện nhóm không có ngươi đâu"
+    },
+    {
+      "num": 229,
+      "title": "Lệ Phong Cốc"
+    },
+    {
+      "num": 230,
+      "title": "Thái Bạch Huyền Cương tăng vọt"
+    },
+    {
+      "num": 231,
+      "title": "Vạn pháp vi nhãn"
+    },
+    {
+      "num": 232,
+      "title": "Trở về"
+    },
+    {
+      "num": 233,
+      "title": "Dọn bãi?"
+    },
+    {
+      "num": 234,
+      "title": "Kiếm Khư chi vực"
+    },
+    {
+      "num": 235,
+      "title": "Mảnh vỡ ký ức"
+    },
+    {
+      "num": 236,
+      "title": "Kim Đan!"
+    },
+    {
+      "num": 237,
+      "title": "Tắm lôi tân sinh"
+    },
+    {
+      "num": 238,
+      "title": "Lục địa thần tiên"
+    },
+    {
+      "num": 239,
+      "title": "Kiếm tu thịnh sự"
+    },
+    {
+      "num": 240,
+      "title": "Con đường tu hành Kim Đan"
+    },
+    {
+      "num": 241,
+      "title": "Đại Âm Dương Đan"
+    },
+    {
+      "num": 242,
+      "title": "Địa Nguyên Đại Trận"
+    },
+    {
+      "num": 243,
+      "title": "Uy Bức"
+    },
+    {
+      "num": 244,
+      "title": "Át Chủ Bài Tung Hết"
+    },
+    {
+      "num": 245,
+      "title": "Át chủ bài tung hết"
+    }
+  ]
+}

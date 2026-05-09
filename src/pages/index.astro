@@ -1,0 +1,118 @@
+---
+import Layout from '../layouts/Layout.astro'
+import TopNav from '../components/TopNav.astro'
+import StoryCard from '../components/StoryCard.astro'
+import Footer from '../components/Footer.astro'
+
+interface Story {
+  slug: string
+  title: string
+  author: string
+  synopsis: string
+  totalChapters: number
+  coverColor?: string
+}
+
+let stories: Story[] = []
+try {
+  const res = await fetch(new URL('/stories.json', Astro.url))
+  if (res.ok) stories = await res.json()
+} catch {
+  // stories stays empty — graceful degradation
+}
+---
+
+<Layout
+  title='Truyện'
+  description='Đọc truyện online · Lưu tiến trình đọc tự động'
+>
+  <TopNav />
+  <main class='flex-1 max-w-300 mx-auto w-full px-4 md:px-8 pb-24'>
+    <div class='py-16 md:py-24 text-center'>
+      <h1
+        class='font-display text-[40px] md:text-[56px] tracking-[-1.2px] text-ink leading-[1.05] mb-4'
+      >
+        Đọc truyện
+      </h1>
+      <p class='text-base md:text-lg text-muted'>Lưu tiến trình đọc tự động</p>
+    </div>
+
+    <!-- "Đang đọc" section — populated by client script from localStorage -->
+    <section id='currently-reading' class='mb-12 hidden'>
+      <h2 class='section-label'>Đang đọc</h2>
+      <div
+        id='currently-reading-grid'
+        class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'
+      >
+      </div>
+    </section>
+
+    <section class='mb-12'>
+      <h2 class='section-label'>Tất cả truyện</h2>
+      {
+        stories.length === 0 ? (
+          <p class='text-sm text-muted'>Không có truyện nào.</p>
+        ) : (
+          <div class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
+            {stories.map((story) => (
+              <StoryCard
+                slug={story.slug}
+                title={story.title}
+                author={story.author}
+                synopsis={story.synopsis}
+                totalChapters={story.totalChapters}
+                coverColor={story.coverColor}
+              />
+            ))}
+          </div>
+        )
+      }
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  import { getAllProgress } from '../scripts/readingProgress.js'
+
+  const progress = getAllProgress()
+  const slugsWithProgress = Object.keys(progress)
+
+  if (slugsWithProgress.length > 0) {
+    // Add progress badges to all story cards
+    document
+      .querySelectorAll<HTMLAnchorElement>('.story-card')
+      .forEach((card) => {
+        const slug = card.dataset.slug
+        if (!slug) return
+        const p = progress[slug]
+        if (p?.chapter) {
+          const badgeContainer = card.querySelector('.card-badges')
+          if (badgeContainer) {
+            const badge = document.createElement('span')
+            badge.className = 'badge-coral'
+            badge.textContent = `Đang đọc · Ch.${p.chapter}`
+            badgeContainer.appendChild(badge)
+          }
+        }
+      })
+
+    // Populate "Đang đọc" section with cards that have progress
+    const readingSection = document.getElementById('currently-reading')
+    const readingGrid = document.getElementById('currently-reading-grid')
+    const allCards = document.querySelectorAll<HTMLAnchorElement>('.story-card')
+
+    const readingCards: HTMLElement[] = []
+    allCards.forEach((card) => {
+      const slug = card.dataset.slug
+      if (slug && progress[slug]?.chapter) {
+        readingCards.push(card.cloneNode(true) as HTMLElement)
+      }
+    })
+
+    if (readingCards.length > 0 && readingGrid && readingSection) {
+      readingCards.forEach((card) => readingGrid.appendChild(card))
+      readingSection.classList.remove('hidden')
+    }
+  }
+</script>
