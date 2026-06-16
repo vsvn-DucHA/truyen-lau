@@ -1,5 +1,5 @@
 {
-  "totalChapters": 549,
+  "totalChapters": 754,
   "chapters": [
     {
       "num": 1,
@@ -2178,24 +2178,844 @@
       "title": "Tam Viên Giao Bảo Phù"
     },
     {
+      "num": 545,
+      "title": "Chiến Song Quỷ"
+    },
+    {
       "num": 546,
       "title": "Kích phát Bảo Ấn"
+    },
+    {
+      "num": 547,
+      "title": "Ninh Chuyết đấu Thiên Sương"
     },
     {
       "num": 548,
       "title": "Bố cục (Sách hữu 20210111152859427 gia canh 12)"
     },
     {
+      "num": 549,
+      "title": "Thiên Địa Hợp Kích"
+    },
+    {
       "num": 550,
       "title": "Nguy cục (Bổ canh 1)"
+    },
+    {
+      "num": 551,
+      "title": "Thắng Cơ"
     },
     {
       "num": 552,
       "title": "《Thiên Sương chân quân tặng Ninh lang Tru Tà Trường Ca》"
     },
     {
+      "num": 553,
+      "title": "Ninh Trất lập đại công!"
+    },
+    {
       "num": 554,
       "title": "Tra bảo"
+    },
+    {
+      "num": 555,
+      "title": "Tân Thương Thiết Hán Giáp"
+    },
+    {
+      "num": 556,
+      "title": "Chiến Bị"
+    },
+    {
+      "num": 557,
+      "title": "Kim Hành Phế Tạng Miếu"
+    },
+    {
+      "num": 558,
+      "title": "Đấu Tướng"
+    },
+    {
+      "num": 559,
+      "title": "Cổ tu Lệ Cửu Thư"
+    },
+    {
+      "num": 560,
+      "title": "Cơ Quan Chi Uy!"
+    },
+    {
+      "num": 561,
+      "title": "Thông Thần Đương Đạo"
+    },
+    {
+      "num": 562,
+      "title": "Toàn quân xuất kích"
+    },
+    {
+      "num": 563,
+      "title": "Hỗn chiến"
+    },
+    {
+      "num": 564,
+      "title": "Ninh Truất tham chiến"
+    },
+    {
+      "num": 565,
+      "title": "Xuyên thấu chiến trường"
+    },
+    {
+      "num": 566,
+      "title": "Ninh Truất đánh điên đối thủ"
+    },
+    {
+      "num": 567,
+      "title": "Ninh Truất đại chiến Hạng Nhạc!"
+    },
+    {
+      "num": 568,
+      "title": "Ninh Truất, ngươi đang làm gì thế?!"
+    },
+    {
+      "num": 569,
+      "title": "Làn sóng phản công"
+    },
+    {
+      "num": 570,
+      "title": "Hoạt tróc nhị tướng, cuối cùng đoạt xe"
+    },
+    {
+      "num": 571,
+      "title": "Trận trảm Ma Tâm!"
+    },
+    {
+      "num": 572,
+      "title": "Tôi thực sự không phải Thạch Trung Lão Quái"
+    },
+    {
+      "num": 573,
+      "title": "Nhầm rồi!"
+    },
+    {
+      "num": 574,
+      "title": "Long Ân Báo Thân"
+    },
+    {
+      "num": 575,
+      "title": "Ninh Chuyết Đối Đầu Hạng Nhạc"
+    },
+    {
+      "num": 576,
+      "title": "Rút Quân"
+    },
+    {
+      "num": 577,
+      "title": "Nam Nhi Đương Lịch Sa Trường Huyết, Túy Vãn Thanh Phong Quán Nhật Hoa!"
+    },
+    {
+      "num": 578,
+      "title": "Đi Phi Vân Quốc Đi"
+    },
+    {
+      "num": 579,
+      "title": "Phần Tinh Khanh"
+    },
+    {
+      "num": 580,
+      "title": "Hư Không Triều Âm"
+    },
+    {
+      "num": 581,
+      "title": "Phi Giáp Xuyên Vân"
+    },
+    {
+      "num": 582,
+      "title": "Ngụy Ninh Trác ta cần gì tráng dương?"
+    },
+    {
+      "num": 583,
+      "title": "Ta là nam phi?"
+    },
+    {
+      "num": 584,
+      "title": "Cô Hồng Khách Tinh"
+    },
+    {
+      "num": 585,
+      "title": "Ngươi là người ngoại bang?"
+    },
+    {
+      "num": 586,
+      "title": "Bạch Chỉ Tiên Thành"
+    },
+    {
+      "num": 587,
+      "title": "Kẻ này sao còn ngạo mạn hơn cả ta?!"
+    },
+    {
+      "num": 588,
+      "title": "Minh Phạn"
+    },
+    {
+      "num": 589,
+      "title": "Tu vi tấn thăng"
+    },
+    {
+      "num": 590,
+      "title": "Tăng vọt!"
+    },
+    {
+      "num": 591,
+      "title": "Bản mệnh pháp khí Thông Linh Kính"
+    },
+    {
+      "num": 592,
+      "title": "Phủ Thủy (Mừng sinh nhật Ninh Trác!)"
+    },
+    {
+      "num": 593,
+      "title": "Lại bị ám sát"
+    },
+    {
+      "num": 594,
+      "title": "Cơ hội Hồn tu"
+    },
+    {
+      "num": 595,
+      "title": "Kiếp Hôi Phúc Hào"
+    },
+    {
+      "num": 596,
+      "title": "Ta không phải hung thủ!"
+    },
+    {
+      "num": 597,
+      "title": "Chân tướng"
+    },
+    {
+      "num": 598,
+      "title": "Một chọi ba!"
+    },
+    {
+      "num": 599,
+      "title": "Vạn Tượng Chân Truyền Mạnh Dao Âm"
+    },
+    {
+      "num": 600,
+      "title": "Thiên số sinh biến"
+    },
+    {
+      "num": 601,
+      "title": "Thiên Mạch Đăng"
+    },
+    {
+      "num": 602,
+      "title": "Giấy Nhân Đại Quân"
+    },
+    {
+      "num": 603,
+      "title": "Vong Xuyên Hà"
+    },
+    {
+      "num": 604,
+      "title": "La Tư Hóa Kiếp"
+    },
+    {
+      "num": 605,
+      "title": "Thiên Thụ Phù Lục"
+    },
+    {
+      "num": 606,
+      "title": "Ngọc Khánh Minh Chân Trận"
+    },
+    {
+      "num": 607,
+      "title": "Vạn Nhân Hồn"
+    },
+    {
+      "num": 608,
+      "title": "Ninh Chuyết Phó Thành Chủ"
+    },
+    {
+      "num": 609,
+      "title": "Chiêu An Hòa Đồng Cương"
+    },
+    {
+      "num": 610,
+      "title": "Ngươi Nhất Định Còn Yêu Ta"
+    },
+    {
+      "num": 611,
+      "title": "Linh Khế Luyện Bảo Trận"
+    },
+    {
+      "num": 612,
+      "title": "Mặc Trì Giáo Hóa"
+    },
+    {
+      "num": 613,
+      "title": "Chạm đến bí mật"
+    },
+    {
+      "num": 614,
+      "title": "Biến số dương thiên"
+    },
+    {
+      "num": 615,
+      "title": "《Vạn Tượng Kinh》"
+    },
+    {
+      "num": 616,
+      "title": "Đạo đồ!"
+    },
+    {
+      "num": 617,
+      "title": "Kiến quân khế cơ"
+    },
+    {
+      "num": 618,
+      "title": "Ninh Chuyết da đầu tê dại"
+    },
+    {
+      "num": 619,
+      "title": "Huyết nhục khổ nhược, cơ quan phi thăng"
+    },
+    {
+      "num": 620,
+      "title": "Ba loại quân chủng"
+    },
+    {
+      "num": 621,
+      "title": "Lựa chọn"
+    },
+    {
+      "num": 622,
+      "title": "Thời tới các phương đồng tâm lực"
+    },
+    {
+      "num": 623,
+      "title": "Không hẳn là Song tu đúng nghĩa"
+    },
+    {
+      "num": 624,
+      "title": "Quân nhu, Quân chế"
+    },
+    {
+      "num": 625,
+      "title": "Danh động một phương!"
+    },
+    {
+      "num": 626,
+      "title": "Hỷ và Bi"
+    },
+    {
+      "num": 627,
+      "title": "Cứu tinh"
+    },
+    {
+      "num": 628,
+      "title": "Mục không nhất thiết Dương Tam Nhãn"
+    },
+    {
+      "num": 629,
+      "title": "Đàm phán cứng rắn"
+    },
+    {
+      "num": 631,
+      "title": "Tổ chức thần bí"
+    },
+    {
+      "num": 632,
+      "title": "Thế này sao có thể gọi là song tu?"
+    },
+    {
+      "num": 633,
+      "title": "Quyết chiến sắp tới"
+    },
+    {
+      "num": 634,
+      "title": "Toàn lực kiến quân"
+    },
+    {
+      "num": 635,
+      "title": "Đạo đồ khó quên"
+    },
+    {
+      "num": 636,
+      "title": "Dương gian nhân họa"
+    },
+    {
+      "num": 637,
+      "title": "Âm binh công thành"
+    },
+    {
+      "num": 638,
+      "title": "Vong Xuyên Phủ Quân đấu Bi Cốt Nương Nương"
+    },
+    {
+      "num": 639,
+      "title": "Thiết Cốt Tranh đấu Bạch Cốt Ngạc Ma"
+    },
+    {
+      "num": 640,
+      "title": "Vong Xuyên Phủ Quân đấu Vô Âm Quỷ Tăng"
+    },
+    {
+      "num": 641,
+      "title": "Cự tượng Ninh Chuyết"
+    },
+    {
+      "num": 642,
+      "title": "Mạnh Dao Âm ra tay!"
+    },
+    {
+      "num": 643,
+      "title": "Vân La Sát Y"
+    },
+    {
+      "num": 644,
+      "title": "Sát nhập Âm Gian"
+    },
+    {
+      "num": 645,
+      "title": "Ninh Mẫu Chỉnh Quân"
+    },
+    {
+      "num": 646,
+      "title": "Vong Xuyên Phủ Quân đối đầu Quỷ Hỏa Phủ Quân"
+    },
+    {
+      "num": 647,
+      "title": "Họa Bì La Sát Đột Kích Tiên Thành"
+    },
+    {
+      "num": 648,
+      "title": "Triệt Quân"
+    },
+    {
+      "num": 649,
+      "title": "Vong Tình Độ, Không Hồi Tra"
+    },
+    {
+      "num": 650,
+      "title": "Vào Thành"
+    },
+    {
+      "num": 651,
+      "title": "Thỉnh Thần Trợ Lực"
+    },
+    {
+      "num": 652,
+      "title": "Ninh Chuyết, Thanh Yểm đối đầu Hàn Yên Thượng Nhân"
+    },
+    {
+      "num": 653,
+      "title": "Lâm Uyên Súc Lân"
+    },
+    {
+      "num": 654,
+      "title": "Lão Thiếu Đều Hợp"
+    },
+    {
+      "num": 655,
+      "title": "Tư Uyên Quỷ Tướng!"
+    },
+    {
+      "num": 656,
+      "title": "La Tư Trảm Địch"
+    },
+    {
+      "num": 657,
+      "title": "La Tư: Công Tử!"
+    },
+    {
+      "num": 658,
+      "title": "Cô Hồng Hàm Chúc?"
+    },
+    {
+      "num": 659,
+      "title": "Đột kích chiến trường tế đài"
+    },
+    {
+      "num": 660,
+      "title": "Địa Sát Băng Nham"
+    },
+    {
+      "num": 661,
+      "title": "Bản thể kinh tỉnh"
+    },
+    {
+      "num": 662,
+      "title": "Tích Đức đạo bảo"
+    },
+    {
+      "num": 663,
+      "title": "Đạo đồ"
+    },
+    {
+      "num": 664,
+      "title": "Phá trận?"
+    },
+    {
+      "num": 665,
+      "title": "Đưa nó đi!"
+    },
+    {
+      "num": 666,
+      "title": "Khách tinh ứng chiếu Văn Khu bắc"
+    },
+    {
+      "num": 667,
+      "title": "Tú tài gặp binh"
+    },
+    {
+      "num": 668,
+      "title": "Thông Linh Kính chiếu"
+    },
+    {
+      "num": 669,
+      "title": "Tịch Diệt Phật ảnh"
+    },
+    {
+      "num": 670,
+      "title": "Khô Vinh Đồng Bi"
+    },
+    {
+      "num": 671,
+      "title": "Phủ Quân mưu thành"
+    },
+    {
+      "num": 672,
+      "title": "Đăng đài đoạt cốt!"
+    },
+    {
+      "num": 673,
+      "title": "Nhưng là vận mệnh a"
+    },
+    {
+      "num": 674,
+      "title": "Hào kiệt chi tử bất khả tái vi tặc"
+    },
+    {
+      "num": 675,
+      "title": "Tái thiêm thiên tư!!"
+    },
+    {
+      "num": 676,
+      "title": "Lời nhắn"
+    },
+    {
+      "num": 677,
+      "title": "Thiên yếm quy đồ"
+    },
+    {
+      "num": 678,
+      "title": "Bạch Chỉ Thần Khế"
+    },
+    {
+      "num": 679,
+      "title": "Thủy Táng Tích Đức"
+    },
+    {
+      "num": 680,
+      "title": "Khởi hành"
+    },
+    {
+      "num": 681,
+      "title": "Vạn Tượng Tông"
+    },
+    {
+      "num": 682,
+      "title": "Thuê động phủ"
+    },
+    {
+      "num": 683,
+      "title": "Tông môn nội tình"
+    },
+    {
+      "num": 684,
+      "title": "Ninh Trác, ngươi phải đứng cho vững vào"
+    },
+    {
+      "num": 685,
+      "title": "Kiếm tiền"
+    },
+    {
+      "num": 686,
+      "title": "Bái thiếp"
+    },
+    {
+      "num": 687,
+      "title": "Nhãn quan của kỳ thủ"
+    },
+    {
+      "num": 688,
+      "title": "Bái phỏng"
+    },
+    {
+      "num": 689,
+      "title": "Diệu, diệu đến phát điên!"
+    },
+    {
+      "num": 690,
+      "title": "Cho ta một cơ hội báo ân"
+    },
+    {
+      "num": 691,
+      "title": "Kim Đan nịnh hót Trúc Cơ, có đúng không?"
+    },
+    {
+      "num": 692,
+      "title": "Tu vi không quyết định tất cả thắng bại"
+    },
+    {
+      "num": 693,
+      "title": "Trận Lý Khích Du Thoa"
+    },
+    {
+      "num": 694,
+      "title": "Tôn Linh Đồng mạo hiểm dò xét Sấu Ngọc Trai"
+    },
+    {
+      "num": 695,
+      "title": "Lạc Thư?!"
+    },
+    {
+      "num": 696,
+      "title": "Vân Lục Lưu Thành Phường"
+    },
+    {
+      "num": 697,
+      "title": "Tu Vi Đột Phá"
+    },
+    {
+      "num": 698,
+      "title": "Ngũ Hành Sinh Diệt Thuật"
+    },
+    {
+      "num": 699,
+      "title": "Bản Mệnh Pháp Khí Thứ Hai"
+    },
+    {
+      "num": 700,
+      "title": "Ta là thiếu niên thích chữa bệnh cứu người!"
+    },
+    {
+      "num": 701,
+      "title": "Ta không thích đấu, chỉ thích giải đấu"
+    },
+    {
+      "num": 702,
+      "title": "Ninh Trác có thể có mấy viên Kim Đan?"
+    },
+    {
+      "num": 703,
+      "title": "Đầu Lão: Công tử quan chiếu ta"
+    },
+    {
+      "num": 704,
+      "title": "Thiếu niên thân gia, Pháp bảo hơi nhiều"
+    },
+    {
+      "num": 705,
+      "title": "Tuyết Thái Nữ, Tuyết Khu Ngự"
+    },
+    {
+      "num": 706,
+      "title": "Giải đông"
+    },
+    {
+      "num": 707,
+      "title": "Thiên Sương: Để ta đi chuộc người?"
+    },
+    {
+      "num": 708,
+      "title": "Sinh tử đấu?"
+    },
+    {
+      "num": 709,
+      "title": "Tuyết Thái Linh Động"
+    },
+    {
+      "num": 710,
+      "title": "Nghiên cứu Tiểu Tuệ"
+    },
+    {
+      "num": 711,
+      "title": "Ba người đồng tu"
+    },
+    {
+      "num": 712,
+      "title": "Ma công thực sự không hợp với ta"
+    },
+    {
+      "num": 713,
+      "title": "Nho tu tiểu thí"
+    },
+    {
+      "num": 714,
+      "title": "《Mông Đồng Thư Đàm》"
+    },
+    {
+      "num": 715,
+      "title": "Vạn Tượng Dao Lạn"
+    },
+    {
+      "num": 716,
+      "title": "Mượn Bút"
+    },
+    {
+      "num": 717,
+      "title": "Lâm Mô Hội Ý"
+    },
+    {
+      "num": 718,
+      "title": "Ninh Chuyết là Nhân Kiếp của ta"
+    },
+    {
+      "num": 719,
+      "title": "Mật hội Long Thu Sơn"
+    },
+    {
+      "num": 720,
+      "title": "Trúc Khôi Tiểu Thí"
+    },
+    {
+      "num": 721,
+      "title": "《Nguyên Âm Hoàng Phiến Thư》"
+    },
+    {
+      "num": 722,
+      "title": "Danh tiếng thấp cũng có cái lợi"
+    },
+    {
+      "num": 723,
+      "title": "Nho Tu Lại Thí"
+    },
+    {
+      "num": 724,
+      "title": "Đầu huyền lương, Chùy thích cốt!"
+    },
+    {
+      "num": 725,
+      "title": "Các ngươi bốn người rốt cuộc đang làm cái gì?!"
+    },
+    {
+      "num": 726,
+      "title": "《Tùng Đào Dưỡng Khí Công》"
+    },
+    {
+      "num": 727,
+      "title": "Chế tạo Trúc Khôi, đoạt Thanh Phong"
+    },
+    {
+      "num": 728,
+      "title": "Ninh Chuyết, ta muốn ngươi làm chó cho ta!"
+    },
+    {
+      "num": 729,
+      "title": "Ty thám mê cung"
+    },
+    {
+      "num": 730,
+      "title": "Sắc dụ đại thảm bại"
+    },
+    {
+      "num": 731,
+      "title": "Gian lận, hắn gian lận!"
+    },
+    {
+      "num": 732,
+      "title": "Bàn Ti nương tử: Gâu gâu gâu!"
+    },
+    {
+      "num": 733,
+      "title": "Ninh Chuyết: Câm miệng!"
+    },
+    {
+      "num": 734,
+      "title": "Ngươi thì hiểu gì về Sưu Hồn thuật?"
+    },
+    {
+      "num": 735,
+      "title": "Công tử, ta chính là chó của ngài!"
+    },
+    {
+      "num": 736,
+      "title": "Sưu Hồn thuật hữu đại dụng"
+    },
+    {
+      "num": 737,
+      "title": "Trầm Nghiệp Chiếu Kính Biển Vấn Tâm"
+    },
+    {
+      "num": 738,
+      "title": "Bát Phong nghị sự"
+    },
+    {
+      "num": 739,
+      "title": "Hảo thiếu niên! Là mầm non tốt của chính đạo ta"
+    },
+    {
+      "num": 741,
+      "title": "Mua bán hồn phách"
+    },
+    {
+      "num": 743,
+      "title": "Ta vì chính đạo mà đốt hồn"
+    },
+    {
+      "num": 744,
+      "title": "Thiện cái rắm! Địa Phủ Phán Quan bạo tẩu"
+    },
+    {
+      "num": 746,
+      "title": "Tử này là hy vọng của chính đạo"
+    },
+    {
+      "num": 750,
+      "title": "Đây chính là Phá Hiểu Đãng Ma Phổ!"
+    },
+    {
+      "num": 751,
+      "title": "Vật vận, Nhân vận"
+    },
+    {
+      "num": 752,
+      "title": "Đắc Nhân Vận"
+    },
+    {
+      "num": 754,
+      "title": "Ban gia thiết kế"
+    },
+    {
+      "num": 756,
+      "title": "Ninh - Ban đánh cờ"
+    },
+    {
+      "num": 758,
+      "title": "Vương mệnh khởi trình"
+    },
+    {
+      "num": 760,
+      "title": "Ninh Chuyết: Ta tới để thực thi công lý"
+    },
+    {
+      "num": 762,
+      "title": "Thiên tài thực chiến"
+    },
+    {
+      "num": 763,
+      "title": "Thanh đồng đao kiếm"
+    },
+    {
+      "num": 765,
+      "title": "Ninh Chuyết: Giờ thì ta cũng biết đao kiếm hợp kích rồi"
+    },
+    {
+      "num": 767,
+      "title": "Võ Tượng"
+    },
+    {
+      "num": 769,
+      "title": "Ban Tích: Giá mà có một tấm khiên"
     }
   ]
 }
