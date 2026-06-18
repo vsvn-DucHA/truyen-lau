@@ -1,5 +1,5 @@
 {
-  "totalChapters": 754,
+  "totalChapters": 770,
   "chapters": [
     {
       "num": 1,
@@ -2518,6 +2518,10 @@
       "title": "Đàm phán cứng rắn"
     },
     {
+      "num": 630,
+      "title": "Nội gian!"
+    },
+    {
       "num": 631,
       "title": "Tổ chức thần bí"
     },
@@ -2954,8 +2958,16 @@
       "title": "Hảo thiếu niên! Là mầm non tốt của chính đạo ta"
     },
     {
+      "num": 740,
+      "title": "\"Thiên chân\" thiếu niên"
+    },
+    {
       "num": 741,
       "title": "Mua bán hồn phách"
+    },
+    {
+      "num": 742,
+      "title": "Vậy thì chói mắt đi!"
     },
     {
       "num": 743,
@@ -2966,8 +2978,24 @@
       "title": "Thiện cái rắm! Địa Phủ Phán Quan bạo tẩu"
     },
     {
+      "num": 745,
+      "title": "Ngươi đúng là khối vật liệu hỗn chính đạo!"
+    },
+    {
       "num": 746,
       "title": "Tử này là hy vọng của chính đạo"
+    },
+    {
+      "num": 747,
+      "title": "Dương danh lập vạn"
+    },
+    {
+      "num": 748,
+      "title": "Cục diện của tử này thế mà còn ở trên dự liệu của lão phu"
+    },
+    {
+      "num": 749,
+      "title": "Đây là Phá Hiểu Đãng Ma phổ!"
     },
     {
       "num": 750,
@@ -2982,20 +3010,40 @@
       "title": "Đắc Nhân Vận"
     },
     {
+      "num": 753,
+      "title": "Ninh Chuyết: Bỉ ổi! Là ai ám toán ta?"
+    },
+    {
       "num": 754,
       "title": "Ban gia thiết kế"
+    },
+    {
+      "num": 755,
+      "title": "Thực sự chỉ là vận khí sao?"
     },
     {
       "num": 756,
       "title": "Ninh - Ban đánh cờ"
     },
     {
+      "num": 757,
+      "title": "Tán bố lưu ngôn? Bất, đây là chính nghĩa yết phát"
+    },
+    {
       "num": 758,
       "title": "Vương mệnh khởi trình"
     },
     {
+      "num": 759,
+      "title": "Vương mệnh tiên tư: Vạn Yển Ma Quái!"
+    },
+    {
       "num": 760,
       "title": "Ninh Chuyết: Ta tới để thực thi công lý"
+    },
+    {
+      "num": 761,
+      "title": "Phong phạm chính đạo của thiếu niên đầu to"
     },
     {
       "num": 762,
@@ -3006,16 +3054,32 @@
       "title": "Thanh đồng đao kiếm"
     },
     {
+      "num": 764,
+      "title": "Phá Lãng Tam Điệp Đao"
+    },
+    {
       "num": 765,
       "title": "Ninh Chuyết: Giờ thì ta cũng biết đao kiếm hợp kích rồi"
+    },
+    {
+      "num": 766,
+      "title": "Võ Tượng"
     },
     {
       "num": 767,
       "title": "Võ Tượng"
     },
     {
+      "num": 768,
+      "title": "Vô Chiêu Thắng Hữu Chiêu"
+    },
+    {
       "num": 769,
       "title": "Ban Tích: Giá mà có một tấm khiên"
+    },
+    {
+      "num": 770,
+      "title": "Đao Thú Lướt Quang"
     }
   ]
 }
