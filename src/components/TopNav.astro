@@ -23,7 +23,7 @@ const {
 
 <nav
   id='top-nav'
-  class='sticky top-0 z-100 bg-canvas border-b border-hairline h-16 flex items-center px-4 md:px-8 gap-6 transition-transform duration-300 ease-out will-change-transform'
+  class='fixed inset-x-0 top-0 z-100 bg-canvas border-b border-hairline h-16 flex items-center px-4 md:px-8 gap-6 translate-y-0 transition-transform duration-300 ease-out will-change-transform'
 >
   <a href='/' class='flex items-center gap-1.5 shrink-0'>
     <span class='text-primary text-lg leading-none'>✦</span>
@@ -159,6 +159,7 @@ const {
     }
   </div>
 </nav>
+<div class='h-16 shrink-0' aria-hidden='true'></div>
 
 <script>
   import { toggleDarkMode, getSettings } from '../scripts/readingSettings.js'
@@ -222,17 +223,29 @@ const {
   let ticking = false
   let keepVisible = false
 
+  function showNav() {
+    if (!topNav) return
+    topNav.classList.remove('-translate-y-full')
+    topNav.classList.add('translate-y-0')
+  }
+
+  function hideNav() {
+    if (!topNav) return
+    topNav.classList.remove('translate-y-0')
+    topNav.classList.add('-translate-y-full')
+  }
+
   function syncNavVisibility() {
     if (!topNav) return
     const currentScrollY = window.scrollY
     const delta = currentScrollY - lastScrollY
-    const shouldHide = currentScrollY > 80 && delta > 6 && !keepVisible
-    const shouldShow = delta < -6 || currentScrollY <= 80 || keepVisible
+    const shouldHide = currentScrollY > 96 && delta > 8 && !keepVisible
+    const shouldShow = delta < -8 || currentScrollY <= 32 || keepVisible
 
     if (shouldHide) {
-      topNav.style.transform = 'translateY(-100%)'
+      hideNav()
     } else if (shouldShow) {
-      topNav.style.transform = 'translateY(0)'
+      showNav()
     }
 
     lastScrollY = currentScrollY
@@ -251,7 +264,7 @@ const {
 
   document.addEventListener('story-editor:toggle', () => {
     keepVisible = true
-    if (topNav) topNav.style.transform = 'translateY(0)'
+    showNav()
   })
 
   document.addEventListener('story-editor:closed', () => {
@@ -260,7 +273,7 @@ const {
 
   document.addEventListener('settings:toggle', () => {
     keepVisible = true
-    if (topNav) topNav.style.transform = 'translateY(0)'
+    showNav()
   })
 
   document.addEventListener('settings:closed', () => {
