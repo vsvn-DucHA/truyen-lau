@@ -1,0 +1,513 @@
+---
+interface Props {
+  slug: string
+  chapterNum: number
+  content: string
+  prompt?: string
+}
+
+const { slug, chapterNum, content, prompt = 'promt AI' } = Astro.props
+const paddedChapter = chapterNum.toString().padStart(4, '0')
+const filePath = `${slug}/${paddedChapter}.txt`
+const dataJson = JSON.stringify({
+  slug,
+  chapterNum,
+  path: filePath,
+  content,
+  prompt,
+}).replace(/</g, '\\u003c')
+---
+
+<div
+  id='story-editor-backdrop'
+  class='fixed inset-0 z-200 bg-ink/15 items-start justify-end pt-18 pr-4 md:pr-8'
+  style='display:none'
+>
+  <section
+    id='story-editor-panel'
+    class='bg-canvas border border-hairline rounded-lg w-[min(44rem,calc(100vw-2rem))] shadow-[0_8px_24px_rgba(20,20,19,0.12)] max-h-[calc(100svh-5.5rem)] overflow-hidden flex flex-col max-sm:w-full max-sm:max-h-[88svh] max-sm:fixed max-sm:bottom-0 max-sm:left-0 max-sm:right-0 max-sm:rounded-b-none'
+    aria-label='Chỉnh sửa truyện'
+  >
+    <div class='flex items-center justify-between gap-3 border-b border-hairline-soft px-5 py-4'>
+      <div class='min-w-0'>
+        <h2 class='font-body text-sm font-medium text-ink'>Chỉnh sửa truyện</h2>
+        <p
+          id='story-editor-path'
+          class='mt-1 font-mono text-[12px] text-muted overflow-hidden whitespace-nowrap text-ellipsis'
+        >
+          {filePath}
+        </p>
+      </div>
+      <button
+        id='btn-story-editor-close'
+        class='w-8 h-8 rounded-pill text-muted text-[13px] flex items-center justify-center transition-colors hover:bg-surface-card hover:text-ink shrink-0'
+        aria-label='Đóng'
+        title='Đóng'
+      >
+        ×
+      </button>
+    </div>
+
+    <div class='flex flex-col gap-4 overflow-y-auto px-5 py-5'>
+      <div class='grid grid-cols-2 gap-2'>
+        <button
+          id='btn-copy-story-content'
+          class='btn-secondary justify-center h-10 px-3 transition-all duration-200'
+          type='button'
+        >
+          Copy nội dung file
+        </button>
+        <button
+          id='btn-copy-story-prompt'
+          class='btn-secondary justify-center h-10 px-3 transition-all duration-200'
+          type='button'
+        >
+          Copy prompt
+        </button>
+      </div>
+
+      <div class='grid grid-cols-2 gap-2 rounded-md bg-surface-soft p-1'>
+        <button
+          id='story-editor-tab-replace'
+          class='story-editor-tab h-9 rounded-sm text-sm font-medium transition-colors bg-canvas text-ink shadow-[0_1px_2px_rgba(20,20,19,0.08)]'
+          type='button'
+          data-tab='replace'
+        >
+          Replace
+        </button>
+        <button
+          id='story-editor-tab-file'
+          class='story-editor-tab h-9 rounded-sm text-sm font-medium transition-colors text-muted hover:text-ink'
+          type='button'
+          data-tab='file'
+        >
+          Sửa cả file
+        </button>
+      </div>
+
+      <div id='story-editor-replace-pane' class='flex flex-col gap-3'>
+        <div class='grid grid-cols-1 sm:grid-cols-2 gap-3'>
+          <label class='flex flex-col gap-1.5'>
+            <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+              Từ cần thay
+            </span>
+            <input
+              id='story-editor-find'
+              class='h-10 rounded-md border border-hairline bg-canvas px-3 text-sm text-ink outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20'
+              type='text'
+              autocomplete='off'
+            />
+          </label>
+          <label class='flex flex-col gap-1.5'>
+            <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+              Thay bằng
+            </span>
+            <input
+              id='story-editor-replace'
+              class='h-10 rounded-md border border-hairline bg-canvas px-3 text-sm text-ink outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20'
+              type='text'
+              autocomplete='off'
+            />
+          </label>
+        </div>
+
+        <label class='inline-flex items-center gap-2 text-sm text-body w-fit'>
+          <input
+            id='story-editor-case'
+            type='checkbox'
+            class='accent-primary'
+          />
+          Phân biệt hoa thường
+        </label>
+
+        <div class='hidden items-center justify-between gap-3 rounded-md border border-hairline-soft bg-surface-soft px-3 py-2'>
+          <span id='story-editor-match-count' class='text-sm text-muted'>
+            0 kết quả
+          </span>
+          <button
+            id='btn-story-editor-preview-replace'
+            class='btn-secondary h-9 px-3'
+            type='button'
+          >
+            Áp dụng vào bản nháp
+          </button>
+        </div>
+      </div>
+
+      <div id='story-editor-file-pane' class='hidden flex-col gap-3'>
+        <label class='flex flex-col gap-1.5'>
+          <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+            Nội dung file
+          </span>
+          <textarea
+            id='story-editor-content'
+            class='min-h-[22rem] resize-y rounded-md border border-hairline bg-canvas p-3 font-mono text-[13px] leading-[1.65] text-ink outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20'
+            spellcheck='false'
+          ></textarea>
+        </label>
+      </div>
+
+      <div
+        id='story-editor-status'
+        class='hidden min-h-5 text-sm text-muted'
+        role='status'
+        aria-live='polite'
+      >
+      </div>
+    </div>
+
+    <div class='flex items-center justify-end gap-2 border-t border-hairline-soft px-5 py-4'>
+      <button
+        id='btn-story-editor-cancel'
+        class='btn-secondary h-10 px-4'
+        type='button'
+      >
+        Khôi phục
+      </button>
+      <button
+        id='btn-story-editor-save'
+        class='btn-primary h-10 px-4'
+        type='button'
+      >
+        Lưu file
+      </button>
+    </div>
+  </section>
+</div>
+
+<script type='application/json' id='story-editor-data' set:html={dataJson} />
+
+<script>
+  const UPDATE_URL = 'https://truyen-lau.fastapicloud.dev/r2/text'
+  const API_KEY_STORAGE = 'app_api_key'
+
+  const dataEl = document.getElementById('story-editor-data')
+  const editorData = dataEl?.textContent
+    ? JSON.parse(dataEl.textContent)
+    : { path: '', content: '', prompt: '' }
+
+  const initialContent = String(editorData.content ?? '')
+  let draftContent = initialContent
+  let activeTab = 'replace'
+
+  const backdrop = document.getElementById('story-editor-backdrop')
+  const closeBtn = document.getElementById('btn-story-editor-close')
+  const saveBtn = document.getElementById(
+    'btn-story-editor-save',
+  ) as HTMLButtonElement | null
+  const cancelBtn = document.getElementById('btn-story-editor-cancel')
+  const resetBtn = document.getElementById('btn-story-editor-reset')
+  const copyContentBtn = document.getElementById('btn-copy-story-content')
+  const copyPromptBtn = document.getElementById('btn-copy-story-prompt')
+  const previewReplaceBtn = document.getElementById(
+    'btn-story-editor-preview-replace',
+  )
+  const statusEl = document.getElementById('story-editor-status')
+  const textarea = document.getElementById(
+    'story-editor-content',
+  ) as HTMLTextAreaElement | null
+  const findInput = document.getElementById(
+    'story-editor-find',
+  ) as HTMLInputElement | null
+  const replaceInput = document.getElementById(
+    'story-editor-replace',
+  ) as HTMLInputElement | null
+  const caseInput = document.getElementById(
+    'story-editor-case',
+  ) as HTMLInputElement | null
+  const matchCountEl = document.getElementById('story-editor-match-count')
+  const replacePane = document.getElementById('story-editor-replace-pane')
+  const filePane = document.getElementById('story-editor-file-pane')
+
+  function setStatus(message: string, tone = 'muted') {
+    if (!statusEl) return
+    statusEl.textContent = message
+    statusEl.classList.toggle('text-error', tone === 'error')
+    statusEl.classList.toggle('text-success', tone === 'success')
+    statusEl.classList.toggle('text-muted', tone === 'muted')
+  }
+
+  function syncTextarea() {
+    if (textarea && textarea.value !== draftContent) {
+      textarea.value = draftContent
+    }
+  }
+
+  function openPanel() {
+    syncTextarea()
+    updateMatchCount()
+    if (backdrop) backdrop.style.display = 'flex'
+  }
+
+  function closePanel() {
+    if (backdrop) backdrop.style.display = 'none'
+    document.dispatchEvent(new CustomEvent('story-editor:closed'))
+  }
+
+  function setTab(tab: string) {
+    activeTab = tab
+    document
+      .querySelectorAll<HTMLButtonElement>('.story-editor-tab')
+      .forEach((btn) => {
+        const isActive = btn.dataset.tab === tab
+        btn.classList.toggle('bg-canvas', isActive)
+        btn.classList.toggle('text-ink', isActive)
+        btn.classList.toggle(
+          'shadow-[0_1px_2px_rgba(20,20,19,0.08)]',
+          isActive,
+        )
+        btn.classList.toggle('text-muted', !isActive)
+      })
+    replacePane?.classList.toggle('hidden', tab !== 'replace')
+    filePane?.classList.toggle('hidden', tab !== 'file')
+    filePane?.classList.toggle('flex', tab === 'file')
+    if (tab === 'file') syncTextarea()
+  }
+
+  function escapeRegExp(value: string) {
+    return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  }
+
+  function buildFindRegex() {
+    const findValue = findInput?.value ?? ''
+    if (!findValue) return null
+    return new RegExp(escapeRegExp(findValue), caseInput?.checked ? 'g' : 'gi')
+  }
+
+  function countMatches() {
+    const regex = buildFindRegex()
+    if (!regex) return 0
+    return draftContent.match(regex)?.length ?? 0
+  }
+
+  function updateMatchCount() {
+    const count = countMatches()
+    if (matchCountEl) matchCountEl.textContent = `${count} kết quả`
+  }
+
+  function flashCopyButton(button: Element | null) {
+    if (!(button instanceof HTMLButtonElement)) return
+    const originalText = button.textContent ?? ''
+    button.style.opacity = '0'
+    button.style.transform = 'scale(0.98)'
+    window.setTimeout(() => {
+      button.textContent = '✓ Đã copy'
+      button.classList.add('border-primary', 'text-primary', 'bg-surface-card')
+      button.style.opacity = '1'
+      button.style.transform = 'scale(1)'
+    }, 120)
+    window.setTimeout(() => {
+      button.style.opacity = '0'
+      button.style.transform = 'scale(0.98)'
+      window.setTimeout(() => {
+        button.textContent = originalText
+        button.classList.remove('border-primary', 'text-primary', 'bg-surface-card')
+        button.style.opacity = '1'
+        button.style.transform = 'scale(1)'
+      }, 120)
+    }, 9500)
+  }
+
+  function flashCopyButtonSmooth(button: Element | null) {
+    if (!(button instanceof HTMLButtonElement)) return
+    const originalText = button.textContent ?? ''
+    button.style.opacity = '0'
+    button.style.transform = 'scale(0.98)'
+    window.setTimeout(() => {
+      button.textContent = '✓ Đã copy'
+      button.classList.add(
+        'border-primary',
+        'text-primary',
+        'bg-surface-card',
+        'shadow-[0_0_0_3px_rgba(255,94,91,0.16)]',
+      )
+      button.style.opacity = '1'
+      button.style.transform = 'scale(1.03)'
+    }, 100)
+    window.setTimeout(() => {
+      button.style.opacity = '0'
+      button.style.transform = 'scale(0.98)'
+      window.setTimeout(() => {
+        button.textContent = originalText
+        button.classList.remove(
+          'border-primary',
+          'text-primary',
+          'bg-surface-card',
+          'shadow-[0_0_0_3px_rgba(255,94,91,0.16)]',
+        )
+        button.style.opacity = '1'
+        button.style.transform = 'scale(1)'
+      }, 100)
+    }, 750)
+  }
+
+  function flashButtonMessage(button: Element | null, message: string) {
+    if (!(button instanceof HTMLButtonElement)) return
+    const originalText = button.textContent ?? ''
+    button.style.opacity = '0'
+    button.style.transform = 'scale(0.98)'
+    window.setTimeout(() => {
+      button.textContent = message
+      button.classList.add(
+        'border-primary',
+        'text-primary',
+        'bg-surface-card',
+        'shadow-[0_0_0_3px_rgba(255,94,91,0.16)]',
+      )
+      button.style.opacity = '1'
+      button.style.transform = 'scale(1.03)'
+    }, 100)
+    window.setTimeout(() => {
+      button.style.opacity = '0'
+      button.style.transform = 'scale(0.98)'
+      window.setTimeout(() => {
+        button.textContent = originalText
+        button.classList.remove(
+          'border-primary',
+          'text-primary',
+          'bg-surface-card',
+          'shadow-[0_0_0_3px_rgba(255,94,91,0.16)]',
+        )
+        button.style.opacity = '1'
+        button.style.transform = 'scale(1)'
+      }, 100)
+    }, 750)
+  }
+
+  async function copyText(
+    value: string,
+    successMessage: string,
+    button?: Element | null,
+  ) {
+    try {
+      await navigator.clipboard.writeText(value)
+      flashCopyButtonSmooth(button ?? null)
+      setStatus(successMessage, 'success')
+    } catch {
+      setStatus('Không thể copy vào clipboard.', 'error')
+    }
+  }
+
+  async function saveContent() {
+    if (!saveBtn) return
+    if (activeTab === 'file' && textarea) draftContent = textarea.value
+    if (activeTab === 'replace') {
+      const regex = buildFindRegex()
+      if (regex) draftContent = draftContent.replace(regex, replaceInput?.value ?? '')
+    }
+
+    const apiKey = localStorage.getItem(API_KEY_STORAGE)
+    saveBtn.disabled = true
+    saveBtn.textContent = 'Đang lưu...'
+    setStatus('Đang cập nhật file...')
+
+    const payload = {
+      path: editorData.path,
+      content: draftContent,
+    }
+
+    try {
+      let res = await fetch(UPDATE_URL, {
+        method: 'PUT',
+        headers: {
+          'content-type': 'application/json',
+          ...(apiKey ? { 'x-api-key': apiKey } : {}),
+        },
+        body: JSON.stringify(payload),
+      })
+
+      if (res.status === 404 || res.status === 405) {
+        res = await fetch(UPDATE_URL, {
+          method: 'POST',
+          headers: {
+            'content-type': 'application/json',
+            ...(apiKey ? { 'x-api-key': apiKey } : {}),
+          },
+          body: JSON.stringify(payload),
+        })
+      }
+
+      if (!res.ok) {
+        const text = await res.text().catch(() => '')
+        throw new Error(text || `HTTP ${res.status}`)
+      }
+
+      setStatus('Đã lưu file.', 'success')
+    } catch (error) {
+      const message = error instanceof Error ? error.message : 'Lỗi không xác định'
+      setStatus(`Lưu thất bại: ${message}`, 'error')
+    } finally {
+      saveBtn.disabled = false
+      saveBtn.textContent = 'Lưu file'
+    }
+  }
+
+  document.addEventListener('story-editor:toggle', () => {
+    if (
+      !backdrop ||
+      backdrop.style.display === 'none' ||
+      backdrop.style.display === ''
+    ) {
+      openPanel()
+    } else {
+      closePanel()
+    }
+  })
+
+  document.querySelectorAll<HTMLButtonElement>('.story-editor-tab').forEach((btn) => {
+    btn.addEventListener('click', () => setTab(btn.dataset.tab ?? 'replace'))
+  })
+
+  closeBtn?.addEventListener('click', closePanel)
+  backdrop?.addEventListener('click', (event) => {
+    if (event.target === backdrop) closePanel()
+  })
+
+  if (cancelBtn) cancelBtn.textContent = 'Cancel'
+  cancelBtn?.addEventListener('click', closePanel)
+
+  copyContentBtn?.addEventListener('click', () => {
+    copyText(draftContent, 'Đã copy nội dung file.', copyContentBtn)
+  })
+
+  copyPromptBtn?.addEventListener('click', () => {
+    const prompt = String(editorData.prompt ?? '')
+    if (!prompt) {
+      flashButtonMessage(copyPromptBtn, 'Chưa có prompt')
+      setStatus('Chưa có prompt để copy.')
+      return
+    }
+    copyText(prompt, 'Đã copy prompt.', copyPromptBtn)
+  })
+
+  previewReplaceBtn?.addEventListener('click', () => {
+    const regex = buildFindRegex()
+    const replacement = replaceInput?.value ?? ''
+    const count = countMatches()
+    if (!regex || count === 0) {
+      setStatus('Không có nội dung phù hợp để thay.', 'error')
+      return
+    }
+    draftContent = draftContent.replace(regex, replacement)
+    syncTextarea()
+    updateMatchCount()
+    setStatus(`Đã áp dụng ${count} thay đổi vào bản nháp.`, 'success')
+  })
+
+  resetBtn?.addEventListener('click', () => {
+    draftContent = initialContent
+    syncTextarea()
+    updateMatchCount()
+    setStatus('Đã khôi phục bản gốc.')
+  })
+
+  textarea?.addEventListener('input', () => {
+    draftContent = textarea.value
+    updateMatchCount()
+  })
+  findInput?.addEventListener('input', updateMatchCount)
+  replaceInput?.addEventListener('input', updateMatchCount)
+  caseInput?.addEventListener('change', updateMatchCount)
+  saveBtn?.addEventListener('click', saveContent)
+  setTab('replace')
+</script>

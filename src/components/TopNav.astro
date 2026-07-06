@@ -9,13 +9,21 @@ interface Props {
   storySlug?: string
   /** When true, the settings gear icon is shown (ChapterPage only) */
   showSettingsBtn?: boolean
+  /** When true, the story editor icon is shown (ChapterPage only) */
+  showStoryEditorBtn?: boolean
 }
 
-const { title, storySlug, showSettingsBtn = false } = Astro.props
+const {
+  title,
+  storySlug,
+  showSettingsBtn = false,
+  showStoryEditorBtn = false,
+} = Astro.props
 ---
 
 <nav
-  class='sticky top-0 z-100 bg-canvas border-b border-hairline h-16 flex items-center px-4 md:px-8 gap-6'
+  id='top-nav'
+  class='sticky top-0 z-100 bg-canvas border-b border-hairline h-16 flex items-center px-4 md:px-8 gap-6 transition-transform duration-300 ease-out will-change-transform'
 >
   <a href='/' class='flex items-center gap-1.5 shrink-0'>
     <span class='text-primary text-lg leading-none'>✦</span>
@@ -78,6 +86,33 @@ const { title, storySlug, showSettingsBtn = false } = Astro.props
           stroke-linecap='round'></path>
       </svg>
     </button>
+
+    {
+      showStoryEditorBtn && (
+        <button
+          id='btn-story-editor-toggle'
+          class='w-9 h-9 rounded-pill border border-hairline bg-canvas text-muted flex items-center justify-center transition-colors hover:bg-surface-card hover:text-ink hover:border-primary'
+          aria-label='Chỉnh sửa truyện'
+          title='Chỉnh sửa truyện'
+          data-story-editor-active='false'
+        >
+          <svg
+            width='20'
+            height='20'
+            viewBox='0 0 24 24'
+            fill='none'
+            stroke='currentColor'
+            stroke-width='2'
+            stroke-linecap='round'
+            stroke-linejoin='round'
+            aria-hidden='true'
+          >
+            <path d='M12 20h9' />
+            <path d='M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z' />
+          </svg>
+        </button>
+      )
+    }
 
     {
       showSettingsBtn && (
@@ -143,18 +178,92 @@ const { title, storySlug, showSettingsBtn = false } = Astro.props
     syncDarkIcon()
   })
 
+  function setToggleState(
+    button: HTMLElement | null,
+    datasetKey: string,
+    isActive: boolean,
+  ) {
+    if (!button) return
+    button.dataset[datasetKey] = String(isActive)
+    button.classList.toggle('bg-surface-card', isActive)
+    button.classList.toggle('text-ink', isActive)
+    button.classList.toggle('border-primary', isActive)
+    button.classList.toggle('bg-canvas', !isActive)
+    button.classList.toggle('text-muted', !isActive)
+    button.classList.toggle('border-hairline', !isActive)
+  }
+
+  // Story editor panel toggle
+  const storyEditorBtn = document.getElementById('btn-story-editor-toggle')
+  storyEditorBtn?.addEventListener('click', () => {
+    const isActive = storyEditorBtn.dataset.storyEditorActive === 'true'
+    setToggleState(storyEditorBtn, 'storyEditorActive', !isActive)
+    document.dispatchEvent(new CustomEvent('story-editor:toggle'))
+  })
+
+  document.addEventListener('story-editor:closed', () => {
+    setToggleState(storyEditorBtn, 'storyEditorActive', false)
+  })
+
   // Settings panel toggle
   const settingsBtn = document.getElementById('btn-settings-toggle')
   settingsBtn?.addEventListener('click', () => {
     const isActive = settingsBtn.dataset.settingsActive === 'true'
-    settingsBtn.dataset.settingsActive = String(!isActive)
-    // Toggle button appearance
-    settingsBtn.classList.toggle('bg-surface-card', !isActive)
-    settingsBtn.classList.toggle('text-ink', !isActive)
-    settingsBtn.classList.toggle('border-primary', !isActive)
-    settingsBtn.classList.toggle('bg-canvas', isActive)
-    settingsBtn.classList.toggle('text-muted', isActive)
-    settingsBtn.classList.toggle('border-hairline', isActive)
+    setToggleState(settingsBtn, 'settingsActive', !isActive)
     document.dispatchEvent(new CustomEvent('settings:toggle'))
+  })
+
+  document.addEventListener('settings:closed', () => {
+    setToggleState(settingsBtn, 'settingsActive', false)
+  })
+
+  const topNav = document.getElementById('top-nav')
+  let lastScrollY = window.scrollY
+  let ticking = false
+  let keepVisible = false
+
+  function syncNavVisibility() {
+    if (!topNav) return
+    const currentScrollY = window.scrollY
+    const delta = currentScrollY - lastScrollY
+    const shouldHide = currentScrollY > 80 && delta > 6 && !keepVisible
+    const shouldShow = delta < -6 || currentScrollY <= 80 || keepVisible
+
+    if (shouldHide) {
+      topNav.style.transform = 'translateY(-100%)'
+    } else if (shouldShow) {
+      topNav.style.transform = 'translateY(0)'
+    }
+
+    lastScrollY = currentScrollY
+    ticking = false
+  }
+
+  window.addEventListener(
+    'scroll',
+    () => {
+      if (ticking) return
+      ticking = true
+      window.requestAnimationFrame(syncNavVisibility)
+    },
+    { passive: true },
+  )
+
+  document.addEventListener('story-editor:toggle', () => {
+    keepVisible = true
+    if (topNav) topNav.style.transform = 'translateY(0)'
+  })
+
+  document.addEventListener('story-editor:closed', () => {
+    keepVisible = false
+  })
+
+  document.addEventListener('settings:toggle', () => {
+    keepVisible = true
+    if (topNav) topNav.style.transform = 'translateY(0)'
+  })
+
+  document.addEventListener('settings:closed', () => {
+    keepVisible = false
   })
 </script>
