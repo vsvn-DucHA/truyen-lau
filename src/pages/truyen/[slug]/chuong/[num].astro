@@ -42,6 +42,7 @@ try {
 let paragraphs: string[] = []
 let isFirstParaHead = false
 let chapterContent = ''
+let rawChapterContent = ''
 
 const padded = chapterNum.toString().padStart(4, '0')
 try {
@@ -49,8 +50,8 @@ try {
     headers: { 'x-api-key': WORKER_API_KEY },
   })
   if (res.ok) {
-    const rawContent = await res.text()
-    const normalized = rawContent
+    rawChapterContent = await res.text()
+    const normalized = rawChapterContent
       .replace(/\r\n/g, '\n')
       .replace(/\r/g, '\n')
       .replace(/\\n/g, '\n')
@@ -83,7 +84,11 @@ const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
     showStoryEditorBtn
   />
   <ReadingSettingsPanel />
-  <StoryEditPanel slug={slug} chapterNum={chapterNum} content={chapterContent} />
+  <StoryEditPanel
+    slug={slug}
+    chapterNum={chapterNum}
+    content={rawChapterContent}
+  />
   <main class='flex-1 w-full pb-24'>
     {
       meta && (

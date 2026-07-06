@@ -6,15 +6,32 @@ interface Props {
   prompt?: string
 }
 
-const { slug, chapterNum, content, prompt = 'promt AI' } = Astro.props
+const { slug, chapterNum, content } = Astro.props
 const paddedChapter = chapterNum.toString().padStart(4, '0')
 const filePath = `${slug}/${paddedChapter}.txt`
+const promptText = [
+  'Bạn là một dịch giả kiêm editor chuyên nghiệp, có kinh nghiệm dịch truyện Tiên hiệp, Huyền huyễn từ tiếng Trung sang tiếng Việt mượt mà, văn phong cuốn hút, không bị dính lỗi Convert.',
+  '',
+  'HƯỚNG DẪN DỊCH THUẬT:',
+  '1. Thuần hóa Hán Việt: Thay thế các từ Hán Việt quá nặng hoặc ít dùng bằng từ thuần Việt (Ví dụ: "liên mang" -> "vội vàng", "như kim" -> "hiện tại/nay", "quỳ tư" -> "tư thế quỳ", "yết phát" -> "vạch trần").',
+  '2. Chuyển đổi thành ngữ: Đổi "dương trường tị đoản" thành "phát huy điểm mạnh, né tránh điểm yếu" hoặc cụm từ tương đương mượt mà.',
+  '3. Giữ nguyên đại từ xưng hô phù hợp với bối cảnh cổ đại/tiên hiệp (ta - ngươi, hắn, gã, lão, ...).',
+  '',
+  'QUY TẮC ĐỊNH DẠNG OUTPUT (BẮT BUỘC):',
+  '1. Dịch cả title và 第[số]章 thành "Chương [số]: ".',
+  '2. Chỉ trả về một khối mã Markdown duy nhất (markdown code block), bắt đầu bằng ```markdown và kết thúc bằng ```.',
+  '3. TUYỆT ĐỐI KHÔNG giải thích, không thêm lời mở đầu/lời kết hay bất kỳ ký tự nào ngoài block mã.',
+  '4. Giữ nguyên các ký hiệu xuống dòng và định dạng gốc: Toàn bộ văn bản sau khi dịch PHẢI nằm trên cùng 1 dòng duy nhất, sử dụng ký tự \\n để xuống dòng (không được dùng \\n\\n thực tế làm ngắt hàng).',
+  '',
+  `NỘI DUNG CẦN DỊCH:\n${content}`,
+].join('\n')
+
 const dataJson = JSON.stringify({
   slug,
   chapterNum,
   path: filePath,
   content,
-  prompt,
+  prompt: promptText,
 }).replace(/</g, '\\u003c')
 ---
 
@@ -28,7 +45,9 @@ const dataJson = JSON.stringify({
     class='bg-canvas border border-hairline rounded-lg w-[min(44rem,calc(100vw-2rem))] shadow-[0_8px_24px_rgba(20,20,19,0.12)] max-h-[calc(100svh-5.5rem)] overflow-hidden flex flex-col max-sm:w-full max-sm:max-h-[88svh] max-sm:fixed max-sm:bottom-0 max-sm:left-0 max-sm:right-0 max-sm:rounded-b-none'
     aria-label='Chỉnh sửa truyện'
   >
-    <div class='flex items-center justify-between gap-3 border-b border-hairline-soft px-5 py-4'>
+    <div
+      class='flex items-center justify-between gap-3 border-b border-hairline-soft px-5 py-4'
+    >
       <div class='min-w-0'>
         <h2 class='font-body text-sm font-medium text-ink'>Chỉnh sửa truyện</h2>
         <p
@@ -88,7 +107,9 @@ const dataJson = JSON.stringify({
       <div id='story-editor-replace-pane' class='flex flex-col gap-3'>
         <div class='grid grid-cols-1 sm:grid-cols-2 gap-3'>
           <label class='flex flex-col gap-1.5'>
-            <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+            <span
+              class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+            >
               Từ cần thay
             </span>
             <input
@@ -99,7 +120,9 @@ const dataJson = JSON.stringify({
             />
           </label>
           <label class='flex flex-col gap-1.5'>
-            <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+            <span
+              class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+            >
               Thay bằng
             </span>
             <input
@@ -111,16 +134,9 @@ const dataJson = JSON.stringify({
           </label>
         </div>
 
-        <label class='inline-flex items-center gap-2 text-sm text-body w-fit'>
-          <input
-            id='story-editor-case'
-            type='checkbox'
-            class='accent-primary'
-          />
-          Phân biệt hoa thường
-        </label>
-
-        <div class='hidden items-center justify-between gap-3 rounded-md border border-hairline-soft bg-surface-soft px-3 py-2'>
+        <div
+          class='hidden items-center justify-between gap-3 rounded-md border border-hairline-soft bg-surface-soft px-3 py-2'
+        >
           <span id='story-editor-match-count' class='text-sm text-muted'>
             0 kết quả
           </span>
@@ -136,14 +152,15 @@ const dataJson = JSON.stringify({
 
       <div id='story-editor-file-pane' class='hidden flex-col gap-3'>
         <label class='flex flex-col gap-1.5'>
-          <span class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'>
+          <span
+            class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+          >
             Nội dung file
           </span>
           <textarea
             id='story-editor-content'
-            class='min-h-[22rem] resize-y rounded-md border border-hairline bg-canvas p-3 font-mono text-[13px] leading-[1.65] text-ink outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20'
-            spellcheck='false'
-          ></textarea>
+            class='min-h-88 resize-y rounded-md border border-hairline bg-canvas p-3 font-mono text-[13px] leading-[1.65] text-ink outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20'
+            spellcheck='false'></textarea>
         </label>
       </div>
 
@@ -156,7 +173,9 @@ const dataJson = JSON.stringify({
       </div>
     </div>
 
-    <div class='flex items-center justify-end gap-2 border-t border-hairline-soft px-5 py-4'>
+    <div
+      class='flex items-center justify-end gap-2 border-t border-hairline-soft px-5 py-4'
+    >
       <button
         id='btn-story-editor-cancel'
         class='btn-secondary h-10 px-4'
@@ -178,13 +197,18 @@ const dataJson = JSON.stringify({
 <script type='application/json' id='story-editor-data' set:html={dataJson} />
 
 <script>
-  const UPDATE_URL = 'https://truyen-lau.fastapicloud.dev/r2/text'
+  const UPDATE_URL = import.meta.env.PUBLIC_UPDATE_URL || ''
   const API_KEY_STORAGE = 'app_api_key'
 
   const dataEl = document.getElementById('story-editor-data')
   const editorData = dataEl?.textContent
     ? JSON.parse(dataEl.textContent)
     : { path: '', content: '', prompt: '' }
+
+  const resolvedPrompt =
+    typeof editorData.prompt === 'string' && editorData.prompt
+      ? editorData.prompt
+      : ''
 
   const initialContent = String(editorData.content ?? '')
   let draftContent = initialContent
@@ -212,9 +236,6 @@ const dataJson = JSON.stringify({
   const replaceInput = document.getElementById(
     'story-editor-replace',
   ) as HTMLInputElement | null
-  const caseInput = document.getElementById(
-    'story-editor-case',
-  ) as HTMLInputElement | null
   const matchCountEl = document.getElementById('story-editor-match-count')
   const replacePane = document.getElementById('story-editor-replace-pane')
   const filePane = document.getElementById('story-editor-file-pane')
@@ -222,6 +243,7 @@ const dataJson = JSON.stringify({
   function setStatus(message: string, tone = 'muted') {
     if (!statusEl) return
     statusEl.textContent = message
+    statusEl.classList.toggle('hidden', false)
     statusEl.classList.toggle('text-error', tone === 'error')
     statusEl.classList.toggle('text-success', tone === 'success')
     statusEl.classList.toggle('text-muted', tone === 'muted')
@@ -252,16 +274,21 @@ const dataJson = JSON.stringify({
         const isActive = btn.dataset.tab === tab
         btn.classList.toggle('bg-canvas', isActive)
         btn.classList.toggle('text-ink', isActive)
-        btn.classList.toggle(
-          'shadow-[0_1px_2px_rgba(20,20,19,0.08)]',
-          isActive,
-        )
+        btn.classList.toggle('shadow-[0_1px_2px_rgba(20,20,19,0.08)]', isActive)
         btn.classList.toggle('text-muted', !isActive)
       })
     replacePane?.classList.toggle('hidden', tab !== 'replace')
     filePane?.classList.toggle('hidden', tab !== 'file')
     filePane?.classList.toggle('flex', tab === 'file')
-    if (tab === 'file') syncTextarea()
+
+    if (tab === 'file') {
+      if (textarea) {
+        textarea.value = ''
+      }
+      draftContent = ''
+    } else {
+      syncTextarea()
+    }
   }
 
   function escapeRegExp(value: string) {
@@ -271,7 +298,22 @@ const dataJson = JSON.stringify({
   function buildFindRegex() {
     const findValue = findInput?.value ?? ''
     if (!findValue) return null
-    return new RegExp(escapeRegExp(findValue), caseInput?.checked ? 'g' : 'gi')
+    return new RegExp(escapeRegExp(findValue), 'gi')
+  }
+
+  function buildApiUrl() {
+    const url = new URL(UPDATE_URL)
+    const path = String(editorData.path ?? '')
+    const parts = path.split('/').filter(Boolean)
+
+    if (parts.length >= 2) {
+      url.searchParams.set('prefix', parts.slice(0, -1).join('/'))
+      url.searchParams.set('filename', parts[parts.length - 1])
+    } else if (parts.length === 1) {
+      url.searchParams.set('filename', parts[0])
+    }
+
+    return url.toString()
   }
 
   function countMatches() {
@@ -301,7 +343,11 @@ const dataJson = JSON.stringify({
       button.style.transform = 'scale(0.98)'
       window.setTimeout(() => {
         button.textContent = originalText
-        button.classList.remove('border-primary', 'text-primary', 'bg-surface-card')
+        button.classList.remove(
+          'border-primary',
+          'text-primary',
+          'bg-surface-card',
+        )
         button.style.opacity = '1'
         button.style.transform = 'scale(1)'
       }, 120)
@@ -391,38 +437,39 @@ const dataJson = JSON.stringify({
   async function saveContent() {
     if (!saveBtn) return
     if (activeTab === 'file' && textarea) draftContent = textarea.value
-    if (activeTab === 'replace') {
-      const regex = buildFindRegex()
-      if (regex) draftContent = draftContent.replace(regex, replaceInput?.value ?? '')
-    }
 
     const apiKey = localStorage.getItem(API_KEY_STORAGE)
+    const apiUrl = buildApiUrl()
+    const headers = {
+      'content-type': 'application/json',
+      ...(apiKey ? { 'x-api-key': apiKey } : {}),
+    }
+
     saveBtn.disabled = true
     saveBtn.textContent = 'Đang lưu...'
     setStatus('Đang cập nhật file...')
 
-    const payload = {
-      path: editorData.path,
-      content: draftContent,
-    }
-
     try {
-      let res = await fetch(UPDATE_URL, {
-        method: 'PUT',
-        headers: {
-          'content-type': 'application/json',
-          ...(apiKey ? { 'x-api-key': apiKey } : {}),
-        },
+      const payload =
+        activeTab === 'replace'
+          ? {
+              replacement: [findInput?.value ?? '', replaceInput?.value ?? ''],
+            }
+          : {
+              content: draftContent,
+            }
+
+      const method = activeTab === 'replace' ? 'PATCH' : 'PUT'
+      let res = await fetch(apiUrl, {
+        method,
+        headers,
         body: JSON.stringify(payload),
       })
 
-      if (res.status === 404 || res.status === 405) {
-        res = await fetch(UPDATE_URL, {
+      if (method === 'PUT' && (res.status === 404 || res.status === 405)) {
+        res = await fetch(apiUrl, {
           method: 'POST',
-          headers: {
-            'content-type': 'application/json',
-            ...(apiKey ? { 'x-api-key': apiKey } : {}),
-          },
+          headers,
           body: JSON.stringify(payload),
         })
       }
@@ -433,8 +480,10 @@ const dataJson = JSON.stringify({
       }
 
       setStatus('Đã lưu file.', 'success')
+      window.location.reload()
     } catch (error) {
-      const message = error instanceof Error ? error.message : 'Lỗi không xác định'
+      const message =
+        error instanceof Error ? error.message : 'Lỗi không xác định'
       setStatus(`Lưu thất bại: ${message}`, 'error')
     } finally {
       saveBtn.disabled = false
@@ -454,9 +503,11 @@ const dataJson = JSON.stringify({
     }
   })
 
-  document.querySelectorAll<HTMLButtonElement>('.story-editor-tab').forEach((btn) => {
-    btn.addEventListener('click', () => setTab(btn.dataset.tab ?? 'replace'))
-  })
+  document
+    .querySelectorAll<HTMLButtonElement>('.story-editor-tab')
+    .forEach((btn) => {
+      btn.addEventListener('click', () => setTab(btn.dataset.tab ?? 'replace'))
+    })
 
   closeBtn?.addEventListener('click', closePanel)
   backdrop?.addEventListener('click', (event) => {
@@ -467,11 +518,12 @@ const dataJson = JSON.stringify({
   cancelBtn?.addEventListener('click', closePanel)
 
   copyContentBtn?.addEventListener('click', () => {
-    copyText(draftContent, 'Đã copy nội dung file.', copyContentBtn)
+    const rawContent = String(editorData.content ?? '')
+    copyText(rawContent, 'Đã copy nội dung file.', copyContentBtn)
   })
 
   copyPromptBtn?.addEventListener('click', () => {
-    const prompt = String(editorData.prompt ?? '')
+    const prompt = String(resolvedPrompt ?? '')
     if (!prompt) {
       flashButtonMessage(copyPromptBtn, 'Chưa có prompt')
       setStatus('Chưa có prompt để copy.')
@@ -507,7 +559,6 @@ const dataJson = JSON.stringify({
   })
   findInput?.addEventListener('input', updateMatchCount)
   replaceInput?.addEventListener('input', updateMatchCount)
-  caseInput?.addEventListener('change', updateMatchCount)
   saveBtn?.addEventListener('click', saveContent)
   setTab('replace')
 </script>
