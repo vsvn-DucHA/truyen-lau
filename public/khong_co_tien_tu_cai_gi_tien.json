@@ -1,9 +1,9 @@
 {
   "slug": "khong_co_tien_tu_cai_gi_tien",
-  "title": "Không Có Tiền Từ Cái Gì Tiền",
+  "title": "Không Có Tiền Tu Cái Gì Tiên",
   "author": "Khuyết danh",
   "synopsis": "Trương Vũ, một học sinh đứng đầu trường sơ trung ngoại ô, thi trượt vào các cao trung tiên đạo danh tiếng. Sau một đêm thực hiện nghi thức bí ẩn trên sân thượng, hắn xuyên không vào thân xác một Trương Vũ khác — người đang gánh trên vai món nợ 70 vạn đồng và không còn một xu dính túi. Trong một thế giới nơi tiên đạo thống trị tất cả, liệu hắn có thể leo lên từ con số âm?",
-  "totalChapters": 893,
+  "totalChapters": 978,
   "chapters": [
     {
       "num": 1,
@@ -19,7 +19,7 @@
     },
     {
       "num": 4,
-      "title": "Thỉnh Thần"
+      "title": "Thỉnh thần"
     },
     {
       "num": 5,
@@ -43,19 +43,19 @@
     },
     {
       "num": 10,
-      "title": "Cạnh tranh khốc liệt và Kiện Thể cấp 3"
+      "title": "Cạnh tranh khốc liệt và Kiện Thể Tam Thập Lục Thức cấp 3"
     },
     {
       "num": 11,
-      "title": "Chu Thiên Thái Khí"
+      "title": "Vận khí chu thiên"
     },
     {
       "num": 12,
-      "title": "Dũng Mãnh Tinh Tấn (Cảm ơn 'Thủy Lan' đã ủng hộ chức Minh Chủ)"
+      "title": "Dũng mãnh tinh tiến"
     },
     {
       "num": 13,
-      "title": "Pháp Giải"
+      "title": "Thi đấu Pháp thuật"
     },
     {
       "num": 14,
@@ -63,7 +63,7 @@
     },
     {
       "num": 15,
-      "title": "Tòa Nhà Trung Tâm"
+      "title": "Tòa nhà Trung tâm"
     },
     {
       "num": 16,
@@ -83,11 +83,11 @@
     },
     {
       "num": 20,
-      "title": "Tham ngộ"
+      "title": "Lĩnh hội"
     },
     {
       "num": 21,
-      "title": "Thiên Võ Luyện Tâm"
+      "title": "Thiên Võ Luyện Tâm Quyết"
     },
     {
       "num": 22,
@@ -95,7 +95,7 @@
     },
     {
       "num": 23,
-      "title": "Đàm phán"
+      "title": "Thương lượng"
     },
     {
       "num": 24,
@@ -103,15 +103,15 @@
     },
     {
       "num": 25,
-      "title": "Khí hải"
+      "title": "Khí Hải"
     },
     {
       "num": 26,
-      "title": "Đăng ký Pháp tái và kỳ thi tháng đã đến"
+      "title": "Đăng ký đấu pháp và kỳ thi tháng tới"
     },
     {
       "num": 27,
-      "title": "Nước rút giữa giờ thi"
+      "title": "Nước rút trước kỳ thi"
     },
     {
       "num": 28,
@@ -123,15 +123,15 @@
     },
     {
       "num": 30,
-      "title": "Đọ chưởng lực và thi Đạo tâm"
+      "title": "Đấu chưởng và thi Đạo tâm"
     },
     {
       "num": 31,
-      "title": "Linh Giới"
+      "title": "Linh giới"
     },
     {
       "num": 32,
-      "title": "Pháp lực và Thể dục"
+      "title": "Pháp lực và thể dục"
     },
     {
       "num": 33,
@@ -139,19 +139,19 @@
     },
     {
       "num": 34,
-      "title": "Điểm số công bố, học bá lộ diện"
+      "title": "Kết quả công bố, học bá lộ diện"
     },
     {
       "num": 35,
-      "title": "Lựa chọn và Công pháp"
+      "title": "Lựa chọn và công pháp"
     },
     {
       "num": 36,
-      "title": "Hợp đồng hạng A"
+      "title": "Hợp đồng hạng nhất"
     },
     {
       "num": 37,
-      "title": "Thiên La Địa Võng"
+      "title": "Thiên la địa võng"
     },
     {
       "num": 38,
@@ -159,31 +159,31 @@
     },
     {
       "num": 39,
-      "title": "Tâm Pháp"
+      "title": "Tâm pháp"
     },
     {
       "num": 40,
-      "title": "Tâm Pháp Vui Vẻ Và Bổ Túc Pháp Sai"
+      "title": "Tâm pháp vui vẻ và lớp bồi dưỡng thi đấu pháp lực"
     },
     {
       "num": 41,
-      "title": "Mưu Tính Và Pháp Sai Bắt Đầu"
+      "title": "Mưu tính và bắt đầu Giải đấu Pháp thuật"
     },
     {
       "num": 42,
-      "title": "Đội Hình Pháp Sai"
+      "title": "Đội hình Giải đấu Pháp thuật"
     },
     {
       "num": 43,
-      "title": "Liên Minh Và Cửa Thứ Nhất Của Pháp Sai"
+      "title": "Liên minh và vòng thi đầu tiên của Giải đấu Pháp thuật"
     },
     {
       "num": 44,
-      "title": "Phi Kiếm"
+      "title": "Phi kiếm"
     },
     {
       "num": 45,
-      "title": ""
+      "title": "Tâm sự về sách mới, xin lượt đọc tiếp theo"
     },
     {
       "num": 46,
@@ -191,11 +191,11 @@
     },
     {
       "num": 47,
-      "title": "Ngọn núi"
+      "title": "Ngọn núi lớn"
     },
     {
       "num": 48,
-      "title": "Tranh"
+      "title": "Tranh giành"
     },
     {
       "num": 49,
@@ -207,15 +207,15 @@
     },
     {
       "num": 51,
-      "title": "Thay đổi và gia tăng đầu tư"
+      "title": "Thay đổi và tăng thêm"
     },
     {
       "num": 52,
-      "title": "Sóng ngầm cuộn trào"
+      "title": "Ngầm chảy cuồn cuộn"
     },
     {
       "num": 53,
-      "title": "Thi tháng kết thúc, phong ba chớm hiện"
+      "title": "Tháng thi kết thúc, gió bão chực chờ"
     },
     {
       "num": 54,
@@ -227,11 +227,11 @@
     },
     {
       "num": 56,
-      "title": "Khảo hạch Thần Phụ"
+      "title": "Kỳ thi Thần Phụ"
     },
     {
       "num": 57,
-      "title": "Vượt qua khảo hạch, đi Tùng Dương (Cầu vé tháng)"
+      "title": "Vượt qua kỳ thi, đi đến Tung Dương (Cầu nguyệt phiếu)"
     },
     {
       "num": 58,
@@ -243,51 +243,51 @@
     },
     {
       "num": 60,
-      "title": "Lớp 10 mạnh nhất (Chương thứ ba, chương nợ)"
+      "title": "Học sinh lớp 10 mạnh nhất"
     },
     {
       "num": 61,
-      "title": "Lục Thư"
+      "title": "Triện thư"
     },
     {
       "num": 62,
-      "title": "Bái Thần"
+      "title": "Bái thần"
     },
     {
       "num": 63,
-      "title": "Oanh sát, bạn bè"
+      "title": "Đánh gục, bạn bè"
     },
     {
       "num": 64,
-      "title": "Thay đổi (Cầu phiếu tháng)"
+      "title": "Thay đổi (Cầu vé tháng)"
     },
     {
       "num": 65,
-      "title": "Bổ túc võ đạo"
+      "title": "Bồi dưỡng võ đạo"
     },
     {
       "num": 66,
-      "title": "Cạn kiệt tích lũy (Cầu phiếu tháng)"
+      "title": "Cạn kiệt tích lũy (Cầu vé tháng)"
     },
     {
       "num": 67,
-      "title": "Kỳ thi bắt đầu"
+      "title": "Bắt đầu thi đấu"
     },
     {
       "num": 68,
-      "title": "Khoảng cách, chấm điểm"
+      "title": "Khoảng cách và đánh giá"
     },
     {
       "num": 69,
-      "title": "Chia bảng"
+      "title": "Phân bảng"
     },
     {
       "num": 70,
-      "title": "Linh căn ẩn giấu"
+      "title": "Ẩn giấu linh căn"
     },
     {
       "num": 71,
-      "title": "Đừng bỏ lỡ phúc lợi hoạt động lên kệ"
+      "title": "Đừng bỏ lỡ phúc lợi hoạt động ngày ra mắt"
     },
     {
       "num": 72,
@@ -295,19 +295,19 @@
     },
     {
       "num": 73,
-      "title": "Trận chiến bát cường"
+      "title": "Vòng đấu tám người"
     },
     {
       "num": 74,
-      "title": "Dục huyết phấn chiến"
+      "title": "Chiến đấu đẫm máu"
     },
     {
       "num": 75,
-      "title": "Cuồng phong bạo vũ (Bốn chương xong xuôi cầu nguyệt phiếu)"
+      "title": "Cơn bão cuồng phong"
     },
     {
       "num": 76,
-      "title": "Nghèo, trận chiến bán kết"
+      "title": "Nghèo khó, vòng đấu tứ kết"
     },
     {
       "num": 77,
@@ -315,63 +315,63 @@
     },
     {
       "num": 78,
-      "title": "Nhị cường lộ diện (Trả nợ nguyệt phiếu 1)"
+      "title": "Tứ kết quyết định (Trả nợ phiếu tháng 1)"
     },
     {
       "num": 79,
-      "title": "Chiêu thức uy lực nhất"
+      "title": "Chiêu thức có uy lực lớn nhất"
     },
     {
       "num": 80,
-      "title": "Quán quân (Cầu vé tháng)"
+      "title": "Quán quân (Cầu phiếu tháng)"
     },
     {
       "num": 81,
-      "title": "Tống Hải Long mời tôi làm huấn luyện viên (Cảm ơn minh chủ ‘Dữ Thái Lang’)"
+      "title": "Tống Hải Long muốn thuê ta làm huấn luyện viên (Cảm ơn minh chủ 『Dữ Thái Lang』)"
     },
     {
       "num": 82,
-      "title": "Công pháp, bồi dưỡng (Cảm ơn minh chủ ‘Mạnh Da Da’)"
+      "title": "Công pháp, bồi dưỡng (Cảm ơn minh chủ 『Mạnh Da Da』)"
     },
     {
       "num": 83,
-      "title": "Suất thi đấu (Trả nợ nguyệt phiếu 2)"
+      "title": "Suất thi đấu (Trả nợ phiếu tháng 2)"
     },
     {
       "num": 84,
-      "title": "Cấp 10, làm thêm (Cảm ơn minh chủ Doflamingo)"
+      "title": "Cấp 10, làm thêm (Cảm ơn minh chủ 'Đa Phật Lãng Minh Ca')"
     },
     {
       "num": 85,
-      "title": "Làm thêm, vòng bạn bè (Cảm ơn minh chủ Cruzer)"
+      "title": "Làm thêm, vòng bạn bè (Cảm ơn minh chủ 'Cruzer')"
     },
     {
       "num": 86,
-      "title": "Cấy ghép (Cảm ơn minh chủ ‘Lhcccc’)"
+      "title": "Cấy ghép (Cảm ơn minh chủ 'Lhcccc')"
     },
     {
       "num": 87,
-      "title": "So kè, Quảng cáo (Cảm ơn minh chủ 20171123095745156)"
+      "title": "So kè, quảng cáo (Cảm ơn minh chủ 'Bạn đọc 20171123095745156')"
     },
     {
       "num": 88,
-      "title": "Quay phim, Dạy dỗ Hà Đại Hữu (Trả nợ phiếu tháng 3)"
+      "title": "Quay chụp, dạy dỗ Hà Đại Hữu"
     },
     {
       "num": 89,
-      "title": "Tà thần đàm phán (Cảm ơn minh chủ ‘Thần Tường Cửu Thương’)"
+      "title": "Đàm phán với tà thần"
     },
     {
       "num": 90,
-      "title": "Giới bổ túc bóng đêm (Cảm ơn minh chủ ‘Tiểu Hổ Rất Buồn Ngủ’)"
+      "title": "Thế giới bổ túc hắc ám (Cảm ơn minh chủ Tiểu Hổ Rất Buồn Ngủ)"
     },
     {
       "num": 91,
-      "title": "Mặt tối của Côn Khư (Cảm ơn minh chủ ‘Gia Bách Lị Thị Dã’)"
+      "title": "Mặt tối của Côn Khư (Cảm ơn minh chủ Gia Bách Ly Là Vậy)"
     },
     {
       "num": 92,
-      "title": "Học nhanh võ công (Cảm ơn minh chủ Bookfriend 20190611151400639)"
+      "title": "Cấp tốc học võ công (Cảm ơn minh chủ Bạn đọc 20190611151400639)"
     },
     {
       "num": 93,
@@ -379,7 +379,7 @@
     },
     {
       "num": 94,
-      "title": "Kinh nghiệm tiên tiến từ trường trung học trọng điểm"
+      "title": "Kinh nghiệm tiên tiến từ trường trọng điểm"
     },
     {
       "num": 95,
@@ -391,11 +391,11 @@
     },
     {
       "num": 97,
-      "title": "Chuẩn bị, nghỉ dạy (Cảm ơn minh chủ 'xXAcidXx')"
+      "title": "Chuẩn bị, nghỉ học (Cảm ơn minh chủ 『x X_Ac id_Xx』)"
     },
     {
       "num": 98,
-      "title": "Thứ gì vừa chui vào vậy?"
+      "title": "Thứ gì chui vào rồi?"
     },
     {
       "num": 99,
@@ -403,11 +403,11 @@
     },
     {
       "num": 100,
-      "title": "Vũ tử, tôi quyết định không thuê nhà nữa!"
+      "title": "Vũ Tử， ta quyết định không thuê nhà nữa!"
     },
     {
       "num": 101,
-      "title": "Hẹn giờ, tranh đoạt suất thi đấu"
+      "title": "Thời hạn đã hẹn, tranh đoạt danh ngạch thi đấu"
     },
     {
       "num": 102,
@@ -415,15 +415,15 @@
     },
     {
       "num": 103,
-      "title": "Mua Ẩn Nặc Phù, tiền đề thi đấu (Cầu phiếu tháng)"
+      "title": "Mua Ẩn Nặc Phù, trước thềm thi đấu (cầu phiếu tháng)"
     },
     {
       "num": 104,
-      "title": "Cuộc thi đến gần"
+      "title": "Thi đấu đến nơi"
     },
     {
       "num": 105,
-      "title": "Sự mở rộng của chiến trường công ty (Cầu vé tháng)"
+      "title": "Sự mở rộng của chiến trường công ty"
     },
     {
       "num": 106,
@@ -431,7 +431,7 @@
     },
     {
       "num": 107,
-      "title": "Tôi có thể sờ ông một chút không?"
+      "title": "Ta có thể chạm vào người một chút không?"
     },
     {
       "num": 108,
@@ -439,19 +439,19 @@
     },
     {
       "num": 109,
-      "title": "Xếp hạng cường độ nhục thân"
+      "title": "Xếp hạng cường độ cơ thể"
     },
     {
       "num": 110,
-      "title": "Linh hoạt (Cảm ơn minh chủ 拉拉拉拉拉拉拉拉拉伸)"
+      "title": "Linh hoạt (Cảm ơn minh chủ Kéo Kéo Kéo Kéo Kéo Kéo Kéo Kéo Kéo Giãn)"
     },
     {
       "num": 111,
-      "title": "Là anh em thì tới mượn tiền đi (Cảm ơn minh chủ 上仙齐天)"
+      "title": "Là huynh đệ thì đến vay tiền đi (Cảm ơn minh chủ Thượng Tiên Tề Thiên)"
     },
     {
       "num": 112,
-      "title": "Cuộc chiến tốc độ (Cảm ơn minh chủ 张翩翩喵伊芙)"
+      "title": "Cuộc tranh đua tốc độ (Cảm ơn minh chủ Trương Phiên Phiên Miêu Y Phù)"
     },
     {
       "num": 113,
@@ -463,15 +463,15 @@
     },
     {
       "num": 115,
-      "title": "Đột phá trước trận đấu, Thiên Không Trụ"
+      "title": "Đột phá trước trận, Thiên Không Trụ"
     },
     {
       "num": 116,
-      "title": "Ủ mưu (Cảm ơn minh chủ Bách Lý Đồng Vân)"
+      "title": "Dồn nén (Cảm ơn minh chủ Bách Lý Đồng Vân)"
     },
     {
       "num": 117,
-      "title": "Kình Thiên (Cảm ơn minh chủ Khinh Khinh Xảo Xảo Hắc Hắc)"
+      "title": "Chống trời (Cảm ơn minh chủ Khinh Khinh Xảo Xảo Ha Ha)"
     },
     {
       "num": 118,
@@ -487,19 +487,19 @@
     },
     {
       "num": 121,
-      "title": "Lịch học sắp xếp không xuể"
+      "title": "Lịch học quá tải"
     },
     {
       "num": 122,
-      "title": "Xin lỗi, A Chân (Trả nợ vé tháng 5)"
+      "title": "Xin lỗi, A Chân"
     },
     {
       "num": 123,
-      "title": "Chứng chỉ tư cách Trúc Cơ"
+      "title": "Chứng chỉ Chứng chỉ tư cách Trúc Cơ"
     },
     {
       "num": 124,
-      "title": "Tà thần bàn chuyện bí mật"
+      "title": "Tà Thần đàm đạo chuyện cơ mật"
     },
     {
       "num": 125,
@@ -507,3075 +507,3415 @@
     },
     {
       "num": 126,
-      "title": "Công Pháp, Thuê Phòng, Lạc Mộc Lam"
+      "title": "Công pháp, thuê nhà, Nhạc Mộc Lam"
     },
     {
       "num": 127,
-      "title": "Quần rách hết cả rồi (Trả nợ phiếu tháng 6)"
+      "title": ""
     },
     {
       "num": 128,
-      "title": ""
+      "title": "Quần cũng rách rồi (Trả nợ vé tháng 6)"
     },
     {
       "num": 129,
-      "title": "Vũ tử cậu thơm quá"
+      "title": "Chúc mừng năm mới, cầu vé tháng đầu tháng"
     },
     {
       "num": 130,
-      "title": "Đại Nhật hành khí, thuê nhà thành công (Cầu phiếu tháng)"
+      "title": "Vũ Tử, cậu thơm quá"
     },
     {
       "num": 131,
-      "title": "Chiến Bạch Long"
+      "title": "Tu luyện Đại Nhật Khí Hải, thuê nhà thành công (Cầu vé tháng)"
     },
     {
       "num": 132,
-      "title": "Đá mài dao, Băng Sơn Chưởng (Cầu phiếu tháng)"
+      "title": "Chiến Bạch Long"
     },
     {
       "num": 133,
-      "title": "Đại Nhật cấp 10, Cái nghèo khó chịu (Cảm ơn minh chủ 'Không Thành Cựu Hạng Lương Thành Thiếu Niên')"
+      "title": "Hòn đá mài dao, Long Tượng Băng Sơn Chưởng (Cầu vé tháng)"
     },
     {
       "num": 134,
-      "title": "Kênh dược phẩm mới, Tiên Vận đại ngôn (Cầu phiếu tháng)"
+      "title": "Đại Nhật Khí Hải mười cấp, nghèo đến khó chịu (cảm ơn minh chủ 『Không Thành Cựu Hạng Lương Thành Thiếu Niên』)"
     },
     {
       "num": 135,
-      "title": "Tìm kênh, Thiết kế hình tượng (Cảm ơn 'Thu Thủy Nhiễm Tinh Hà' đã ủng hộ minh chủ)"
+      "title": "Kênh mua thuốc mới, đại diện cho Tiên Vận (cầu vé tháng)"
     },
     {
       "num": 136,
-      "title": "Tàn Ngưu cấp 10, Sóng ngầm cuộn trào (Cảm ơn 'Thân vương Lạc Cổ Đặc' đã ủng hộ minh chủ)"
+      "title": "Tìm kênh đầu tư, thiết kế hình tượng (cảm ơn 'Thu Thủy Nhiễm Tinh Hà' đã thưởng minh chủ)"
     },
     {
       "num": 137,
-      "title": "Nhạc Bạch luân phiên, tiến bộ vượt bậc (Trả nợ phiếu tháng 7)"
+      "title": "Tàn Ngưu Xả Thân Tâm Quyết cấp 10, sóng ngầm cuộn trào (cảm ơn 'Lạc Cổ Đặc Thân Vương' đã thưởng minh chủ)"
     },
     {
       "num": 138,
-      "title": "Sự gian nan của hơi thở (Cảm ơn 'Bố của bạn đang cười rạng rỡ' đã ủng hộ minh chủ)"
+      "title": "Luân phiên Nhạc Mộc Lam, Bạch Chân Chân, tiến bộ vượt bậc (trả 7 chương nợ nguyệt phiếu)"
     },
     {
       "num": 139,
-      "title": "Căn cứ nhân giống (Cảm ơn 'Bố của bạn đang cười rạng rỡ' đã ủng hộ minh chủ 2)"
+      "title": "Hơi thở gian nan (cảm ơn 'Nhĩ Ba Ba Sảng Lãng Địa Tiếu Trứ Thuyết' đã thưởng minh chủ)"
     },
     {
       "num": 140,
-      "title": "Cao khảo kết thúc, Thiên Thiên rời đi (Trả nợ phiếu tháng 8)"
+      "title": "Khu nhân giống (cảm ơn 'Nhĩ Ba Ba Sảng Lãng Địa Tiếu Trứ Thuyết' đã thưởng minh chủ 2)"
     },
     {
       "num": 141,
-      "title": "Tạm biệt Trương Thiên Thiên, bắt đầu báo danh (Cảm ơn 'Cá heo của Rin-chan' đã ủng hộ minh chủ)"
+      "title": "Kết thúc thi cử, rời đi (trả 8 chương nợ nguyệt phiếu)"
     },
     {
       "num": 142,
-      "title": "Cải cách thi cử, kiểm tra Trúc Cơ (Cầu phiếu tháng)"
+      "title": "Chia tay Trương Phiên Phiên, bắt đầu báo danh (cảm ơn Cá Heo Của Lẫm-chan đã thưởng minh chủ)"
     },
     {
       "num": 143,
-      "title": "Trình độ mạnh nhất (Cảm ơn '啾与咪与驴与点与甜' đã ủng hộ Minh chủ)"
+      "title": "Cải cách thi cử, trắc nghiệm Trúc cơ (cầu nguyệt phiếu)"
     },
     {
       "num": 144,
-      "title": "Sắp xếp cho hắn mười tên (Cầu nguyệt phiếu)"
+      "title": "Đẳng cấp mạnh nhất (Cảm ơn 『Tưu Dữ Mị Dữ Lư Dữ Điểm Dữ Điềm』 đã thưởng minh chủ)"
     },
     {
       "num": 145,
-      "title": "Cái giá của sự từ bỏ (Cảm ơn 'sfqk' đã ủng hộ Minh Chủ)"
+      "title": "Sắp xếp cho hắn mười tên (Cầu nguyệt phiếu)"
     },
     {
       "num": 146,
-      "title": "Trương Vũ, định giá??? (Cầu nguyệt phiếu)"
+      "title": "Thông báo làm lại cốt truyện gần đây"
     },
     {
       "num": 147,
-      "title": "Làm thôi Vũ tử! Giải phóng triệt để tiềm lực tiên đạo của chúng ta nào!"
+      "title": "Thi công xong xuôi, từ ngày mai cập nhật bình thường"
     },
     {
       "num": 148,
-      "title": "Dần dần biến thành hình dạng của nội quỷ"
+      "title": "Cái giá của sự từ bỏ (Cảm ơn 'sfqk' đã thưởng minh chủ)"
     },
     {
       "num": 149,
-      "title": "Sự tiến bộ vượt bậc của Trương Vũ (Cảm ơn '所发生的给' đã ủng hộ Minh Chủ)"
+      "title": "Trương Vũ, định giá ??? (Cầu nguyệt phiếu)"
     },
     {
       "num": 150,
-      "title": "Kỹ thuật thực chiến thực thụ (Cầu nguyệt phiếu)"
+      "title": "Làm tới cùng đi Vũ Tử! Giải phóng hoàn toàn tiềm năng tiên đạo của chúng ta nào!"
     },
     {
       "num": 151,
-      "title": "Sỉ nhục Lam Lĩnh (Cảm ơn '焉渊之殇' đã ủng hộ Minh Chủ)"
+      "title": "Dần dần hình thành dáng vẻ nội gián"
     },
     {
       "num": 152,
-      "title": "Chiến Chu Triệt Trần (Cầu vé tháng)"
+      "title": "Sự thăng tiến vượt bậc của Trương Vũ"
     },
     {
       "num": 153,
-      "title": "Nhân mạch của Trương Vũ (Cảm ơn 'sfqk' đã ủng hộ Bạch Kim Minh Chủ)"
+      "title": "Kỹ thuật thực chiến thực thụ"
     },
     {
       "num": 154,
-      "title": "A Chân, sao bụng bà to ra thế? (Cầu vé tháng)"
+      "title": "Làm nhục Lam Lĩnh (Cảm ơn 『Yên Uyên Chi Thương』 đã tặng thưởng minh chủ)"
     },
     {
       "num": 155,
-      "title": "Lần tiến hóa đầu tiên của Chân linh căn"
+      "title": "Quyết đấu Chu Triệt Trần (Cầu vé tháng)"
     },
     {
       "num": 156,
-      "title": "Linh giới tu hành, Cùng Minh hiện thân"
+      "title": "Mối quan hệ của Trương Vũ (Cảm ơn 『sfqk』 đã tặng thưởng minh chủ bạc)"
     },
     {
       "num": 157,
-      "title": "A Chân mở xưởng, Trương Vũ làm thuê"
+      "title": "A Chân, sao bụng cô lại to lên vậy? (Cầu vé tháng)"
     },
     {
       "num": 158,
-      "title": "Chân Tàn Ngưu, Chân Xá Thân, Chân Tâm Pháp"
+      "title": "Lần tiến hóa đầu tiên của Chân linh căn"
     },
     {
       "num": 159,
-      "title": "Trương Vũ phát động nghi thức"
+      "title": "Tu luyện tại Linh giới, Cùng Minh hiện thân"
     },
     {
       "num": 160,
-      "title": "Tham gia vòng một kỳ thi Trúc Cơ"
+      "title": "Bạch Chân Chân mở xưởng, Trương Vũ làm thuê"
     },
     {
       "num": 161,
-      "title": "Trương Vũ bí ẩn"
+      "title": "Tàn Ngưu Xả Thân Tâm Pháp thực sự"
     },
     {
       "num": 162,
-      "title": "Sự hiệu triệu từ vị trí \"gã hề\""
+      "title": "Trương Vũ khởi động nghi thức"
     },
     {
       "num": 163,
-      "title": "Học sinh trung học mạnh nhất"
+      "title": "Tham gia vòng đầu kỳ thi trúc cơ"
     },
     {
       "num": 164,
-      "title": "Một Trương Vũ thâm sâu khó lường"
-    },
-    {
-      "num": 165,
-      "title": "Bạo thực"
-    },
-    {
-      "num": 166,
-      "title": "Sức tiêu hóa của Trương Vũ!"
-    },
-    {
-      "num": 167,
-      "title": "Tái quyết thắng bại với Ngọc Tinh Hàn"
-    },
-    {
-      "num": 168,
-      "title": "Trận cuối cùng, thi Võ Đạo"
-    },
-    {
-      "num": 169,
-      "title": "Nỗi đau lòng của Trương Vũ (Cảm ơn 'Thiên Tắc Luật' đã ủng hộ Bạch Ngân Minh Chủ)"
-    },
-    {
-      "num": 170,
-      "title": "Ta luyện thành rồi"
-    },
-    {
-      "num": 171,
-      "title": "Xuân Thu Vô Tận Thiền"
-    },
-    {
-      "num": 172,
-      "title": "Thông qua kỳ thi"
-    },
-    {
-      "num": 173,
-      "title": "Phân nhóm vòng hai, chiến ý của Dạ Lăng Tiêu"
-    },
-    {
-      "num": 174,
-      "title": "Công cụ sản xuất của Trương Vũ"
-    },
-    {
-      "num": 175,
-      "title": "Mua bán hạt giống (Cảm ơn 'A Mặc thiên thiên mô ngư' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 176,
-      "title": "Trương Vũ vất vả kiếm tiền"
-    },
-    {
-      "num": 177,
-      "title": "Kích phát tiềm năng của Ngọc Tinh Hàn"
-    },
-    {
-      "num": 178,
-      "title": "Cuộc săn bắt đầu"
-    },
-    {
-      "num": 179,
-      "title": "Sự cám dỗ mười triệu"
-    },
-    {
-      "num": 180,
-      "title": "Đòn tấn công sấm sét của Trương Vũ"
-    },
-    {
-      "num": 181,
-      "title": "Chặn đánh sáu đại cường giả"
-    },
-    {
-      "num": 182,
-      "title": "Săn bắn tà thần thành công"
-    },
-    {
-      "num": 183,
-      "title": "Vũ Thư chương mới"
-    },
-    {
-      "num": 184,
-      "title": "Tà thần tấn cấp, Tuần tra quan tâm"
-    },
-    {
-      "num": 185,
-      "title": "Trương Vũ bị thẩm vấn"
-    },
-    {
-      "num": 186,
-      "title": "Tiềm năng của Chân Chân, Nghi thức lên thân"
-    },
-    {
-      "num": 187,
-      "title": "Bá chủ điện học đường, Xuân Thu cấp 10"
-    },
-    {
-      "num": 188,
-      "title": "Hào tộc Tùng Dương, Trương Vũ bị đe dọa (Cầu vé tháng)"
-    },
-    {
-      "num": 189,
-      "title": "Từng tầng trói buộc (Cảm ơn 'Thị Hạ Vãn A' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 190,
-      "title": "Thời gian của Trương Vũ"
-    },
-    {
-      "num": 191,
-      "title": "Ẩn mình giấu vuốt, chờ đợi thời cơ"
-    },
-    {
-      "num": 192,
-      "title": "Trung Học Thánh Thể (Cầu vé tháng)"
-    },
-    {
-      "num": 193,
-      "title": "Thánh Thể hoàn thành, giấy phép dự thi"
-    },
-    {
-      "num": 194,
-      "title": "Kỳ thi Trúc Cơ đợt hai bắt đầu"
-    },
-    {
-      "num": 195,
-      "title": "Học sinh giỏi thì nên tiêm thuốc"
-    },
-    {
-      "num": 196,
-      "title": "Ba đại thần dược (Cầu vé tháng)"
-    },
-    {
-      "num": 197,
-      "title": "Một hơi nuốt hai viên"
-    },
-    {
-      "num": 198,
-      "title": "Trung Học Thánh Thể? Luyện Khí Thánh Thể! (Cầu vé tháng)"
-    },
-    {
-      "num": 199,
-      "title": "Tạm dừng thi đấu?"
-    },
-    {
-      "num": 200,
-      "title": "Dùng thuốc đệ nhất, Huyền Minh Trọng Thủy (Cầu vé tháng)"
-    },
-    {
-      "num": 201,
-      "title": "Cùng chết (Cảm ơn 'lyrical000' đã tặng thưởng Minh Chủ)"
-    },
-    {
-      "num": 202,
-      "title": "Điều kiện tu luyện tốt nhất của Trương Vũ (Cầu vé tháng)"
-    },
-    {
-      "num": 203,
-      "title": "Nhục thân học sinh cấp ba hoàn mỹ nhất (Cảm ơn 'Hu You Kuang Tu Ye Mo Dao s' đã tặng thưởng Minh Chủ)"
-    },
-    {
-      "num": 204,
-      "title": "Vòng thi Trúc Cơ thứ hai kết thúc (Cầu vé tháng)"
-    },
-    {
-      "num": 205,
-      "title": "Trương Vũ bày kế, mật tân Chính Thần (Cảm ơn ‘Thủ ngữ sư trưởng buổi hòa nhạc rap’ đã thưởng Liên minh)"
-    },
-    {
-      "num": 206,
-      "title": "Tài Thần đệ nhất, Đại học Cao đẳng (Cầu vé tháng)"
-    },
-    {
-      "num": 207,
-      "title": "An An cầu cứu, kế hoạch của Trương Vũ"
-    },
-    {
-      "num": 208,
-      "title": "Trương Vũ bị đột kích"
-    },
-    {
-      "num": 209,
-      "title": "Lôi Minh Phù, vũ trang quân dụng"
-    },
-    {
-      "num": 210,
-      "title": "Thẩm vấn Trương Vũ, Chính Thần thanh trường"
-    },
-    {
-      "num": 211,
-      "title": "Phong tỏa tập đoàn Vạn Tinh (Cảm ơn ‘Thủy Nhiễu Ngô Đồng’ đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 212,
-      "title": "Trương Vũ trong phòng hòa giải"
-    },
-    {
-      "num": 213,
-      "title": "Thu hoạch hậu hĩnh của Trương Vũ"
-    },
-    {
-      "num": 214,
-      "title": "Nguy cơ ẩn giấu, bổ túc bóng đêm"
-    },
-    {
-      "num": 215,
-      "title": "Hướng kiếm tiền nhất trong giới bổ túc bóng đêm"
-    },
-    {
-      "num": 216,
-      "title": "Sự thăng tiến vượt bậc của Trương Vũ và buổi dạy thử kim bài"
-    },
-    {
-      "num": 217,
-      "title": "Đám phế vật đến đại học còn chẳng được học (Cảm ơn ‘Liễm Túy Nhan’ đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 218,
-      "title": "Chính là cái mùi vị này"
-    },
-    {
-      "num": 219,
-      "title": "Đánh bom nghĩa địa"
-    },
-    {
-      "num": 220,
-      "title": "Thánh thai sơ thành, kỳ thi cận kề"
-    },
-    {
-      "num": 221,
-      "title": "Tung Dương loạn tượng"
-    },
-    {
-      "num": 222,
-      "title": "Thánh thai tiểu thành, xuất phát dự thi"
-    },
-    {
-      "num": 223,
-      "title": "Kỳ thi Trúc Cơ đầy rẫy khán giả?"
-    },
-    {
-      "num": 224,
-      "title": "Thần Linh Căn (Cảm ơn 'Vũ Tiên Tề Thiên' đã tặng cho Bạch Chân Chân 10 đôi tất Linh căn ngoại vi)"
-    },
-    {
-      "num": 225,
-      "title": "Công suất của Thần Linh Căn (Cảm ơn ‘nudge’ đã ủng hộ chức vị Minh chủ)"
-    },
-    {
-      "num": 226,
-      "title": "Đại chiến Dạ Lăng Tiêu"
-    },
-    {
-      "num": 227,
-      "title": "Thắng bại (Cảm ơn ‘Tạc Quang Nhân’ đã chuyển khoản cho Trương Vũ và tặng Bạch Chân Chân 8 đôi tất lụa để trở thành Minh chủ)"
-    },
-    {
-      "num": 228,
-      "title": "Pháp hài cấp dạy học"
-    },
-    {
-      "num": 229,
-      "title": "Gánh nặng của Pháp hài"
-    },
-    {
-      "num": 230,
-      "title": "Thắng bại nằm ở cửa ải thứ ba"
-    },
-    {
-      "num": 231,
-      "title": "Nhục thân cửa ải thứ ba"
-    },
-    {
-      "num": 232,
-      "title": "Thắng bại đã phân"
-    },
-    {
-      "num": 233,
-      "title": "Vượt qua âm thanh"
-    },
-    {
-      "num": 234,
-      "title": "Trương Vũ quyết chiến Dạ Lăng Tiêu"
-    },
-    {
-      "num": 235,
-      "title": "Cuối cùng cũng đạt chứng chỉ Trúc Cơ (Chương gộp hai trong một)"
-    },
-    {
-      "num": 236,
-      "title": "Phần thưởng trao tay, sóng ngầm cuộn trào"
-    },
-    {
-      "num": 237,
-      "title": "Chúc mừng Trương Vũ, Bạch Chân Chân thi đỗ chứng chỉ tư cách Trúc Cơ thành công"
-    },
-    {
-      "num": 238,
-      "title": "Danh chấn Tùng Dương (Cảm ơn ‘Tiểu Hà Mã 233’ đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 239,
-      "title": "Lĩnh vực Trúc Cơ của Trương Vũ"
-    },
-    {
-      "num": 240,
-      "title": "Hợp Hoan (Cảm ơn ‘Lộ Biên Tiểu Trù’ tặng Bạch Chân Chân 10 đôi tất linh căn ngoại vi)"
-    },
-    {
-      "num": 241,
-      "title": "Tình báo chuyên ngành"
-    },
-    {
-      "num": 242,
-      "title": "Vương tổng thực lương thiện"
-    },
-    {
-      "num": 243,
-      "title": "Khởi đầu của đại biến tầng một (Cầu nguyệt phiếu)"
-    },
-    {
-      "num": 244,
-      "title": "Trương Vũ có tiền"
-    },
-    {
-      "num": 245,
-      "title": "Trương Vũ có tư tưởng lạc hậu (Cầu nguyệt phiếu)"
-    },
-    {
-      "num": 246,
-      "title": "Cuộc sống giàu sang, Võ Đạo Thánh Thai (Cảm ơn 'qyqxxxxxxx' đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 247,
-      "title": "Nỗ lực thích ứng, tông môn hiềm khích (Cầu nguyệt phiếu)"
-    },
-    {
-      "num": 248,
-      "title": "Nhẫn nại (Cảm ơn ‘Trương Phiên Phiên meo’ Eve đã tặng Trương Phiên Phiên 10 cúp Oscar)"
-    },
-    {
-      "num": 249,
-      "title": "Nhẫn nhịn không thể nhẫn nhịn"
-    },
-    {
-      "num": 250,
-      "title": "前军用级（感谢‘笑讽嘲’打赏的盟主）"
-    },
-    {
-      "num": 251,
-      "title": "出来吧，我的备用潜力！助我筑基！"
-    },
-    {
-      "num": 252,
-      "title": "Lấy được Thiên Linh Căn (Cảm ơn ‘qyqxxxxxxx’ một lần nữa tặng thưởng Minh Chủ)"
-    },
-    {
-      "num": 253,
-      "title": "Trương Vũ Trúc Cơ"
-    },
-    {
-      "num": 254,
-      "title": "Khoảng cách giữa Luyện Khí và Trúc Cơ"
-    },
-    {
-      "num": 255,
-      "title": "Quét ngang"
-    },
-    {
-      "num": 256,
-      "title": "Khuynh Thế Hào Quyền (Cảm ơn 'Ta là một độc giả' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 257,
-      "title": "Đại chiến Vương tổng (Cầu phiếu tháng)"
-    },
-    {
-      "num": 258,
-      "title": "Thăng tiến trước trận chiến (Cảm ơn 'Ta là một độc giả' đã một lần nữa ủng hộ Minh chủ)"
-    },
-    {
-      "num": 259,
-      "title": "Độc đấu Vương Dận"
-    },
-    {
-      "num": 260,
-      "title": "Tinh Hỏa giáo đạo, Cửu Tiêu thác sát (Cảm ơn 'Chấn Tảo Thanh Hổ Phách Chủ' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 261,
-      "title": "Bại Vương Dận"
-    },
-    {
-      "num": 262,
-      "title": "Ảnh hưởng của Trương Vũ (Cảm ơn 'qyqxxxxxxx' đã ủng hộ vị Minh chủ thứ ba)"
-    },
-    {
-      "num": 263,
-      "title": "Tàn Ngưu Xả Thân là bản thiếu?"
-    },
-    {
-      "num": 264,
-      "title": "Bản đầy đủ Tàn Ngưu Xả Thân Quyết (Cảm ơn ‘Lục Đạo Thương Huyền’ đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 265,
-      "title": "Chiến lợi phẩm Lục Châu, lựa chọn phần thưởng"
-    },
-    {
-      "num": 266,
-      "title": "Thời Tàn Ma Đồng (Cảm ơn 'Trương Phiến Phiến Miêu' Eve đã tặng Trương Phiến Phiến thêm 10 cúp Oscar)"
-    },
-    {
-      "num": 267,
-      "title": "Sự giúp đỡ của Tinh Hỏa chân nhân"
-    },
-    {
-      "num": 268,
-      "title": "Thẻ thông hành linh mạch của Trương Vũ"
-    },
-    {
-      "num": 269,
-      "title": "Tà thần nhà họ Chu, cú nước rút trước kỳ thi đại học"
-    },
-    {
-      "num": 270,
-      "title": "Kỳ trân của Trương Vũ, người chị liên lạc"
-    },
-    {
-      "num": 271,
-      "title": "Thời gian hạnh phúc trôi mau"
-    },
-    {
-      "num": 272,
-      "title": "Vũ tử và tôi là thiên hạ đệ nhất hảo"
-    },
-    {
-      "num": 273,
-      "title": "Tiến về tầng hai Côn Khư"
-    },
-    {
-      "num": 274,
-      "title": "Phúc Cơ thăng cấp, qua cửa tầng hai"
-    },
-    {
-      "num": 275,
-      "title": "Bạch Chân Chân: Tôi nuôi ông nha"
-    },
-    {
-      "num": 276,
-      "title": "Hẹn ước với Bạch Chân Chân"
-    },
-    {
-      "num": 277,
-      "title": "Gặp lại Trương Phiến Phiến"
-    },
-    {
-      "num": 278,
-      "title": "Lớp Trúc Cơ"
-    },
-    {
-      "num": 279,
-      "title": "Xếp hạng đại học"
-    },
-    {
-      "num": 280,
-      "title": "Thiên phú cực kém, thuần dựa vào bối cảnh"
-    },
-    {
-      "num": 281,
-      "title": "Đại Học Thánh Thể, ai dám đụng tôi?"
-    },
-    {
-      "num": 282,
-      "title": "Học phần đại học"
-    },
-    {
-      "num": 283,
-      "title": "Sự giảng dạy kỳ Trúc Cơ"
-    },
-    {
-      "num": 284,
-      "title": "Làm thổ mộc thực sự có tiền đồ"
-    },
-    {
-      "num": 285,
-      "title": "Vũ Thư mở ra"
-    },
-    {
-      "num": 286,
-      "title": "Đạo Chủng Phổ"
-    },
-    {
-      "num": 287,
-      "title": "Đại Học Thánh Thể Cực Hạn (10/10)"
-    },
-    {
-      "num": 288,
-      "title": "Đạo Chủng Của Chị Gái"
-    },
-    {
-      "num": 289,
-      "title": "Thổ Mộc Thánh Thể, Thứ Hạng Liên Tiếp Tăng"
-    },
-    {
-      "num": 290,
-      "title": "Tự Dùng Mới 99% (Cảm ơn 'Trương Phiên Phiên meo' Eve tặng Trương Phiên Phiên 200 Hào Cảm Phù)"
-    },
-    {
-      "num": 291,
-      "title": "Nhiệm Vụ Của Nhạc Mộc Lam"
-    },
-    {
-      "num": 292,
-      "title": "Tôi Muốn Gia Nhập Nhóm Học Tập Hợp Hoan"
-    },
-    {
-      "num": 293,
-      "title": "Thi Cử Phát Huy Thất Thường, Lời Mời Công Trường"
-    },
-    {
-      "num": 294,
-      "title": "Giao Dịch Pháp Lực Ngầm"
-    },
-    {
-      "num": 295,
-      "title": "Giúp Mộc Lam, Xuống Công Trường"
-    },
-    {
-      "num": 296,
-      "title": "Công Trường"
-    },
-    {
-      "num": 297,
-      "title": "Kiếm Linh Tệ Tiêu Linh Tệ"
-    },
-    {
-      "num": 298,
-      "title": "Dòng chảy ấm áp của tình bạn đang tuôn trào"
-    },
-    {
-      "num": 299,
-      "title": "Mau lên xe! Cửa xe sắp bị hàn chết rồi (Cầu vé tháng)"
-    },
-    {
-      "num": 300,
-      "title": "Linh tệ tiêu đi sẽ quay lại bên cạnh bằng một cách khác"
-    },
-    {
-      "num": 301,
-      "title": "Sơ cấp Thổ Mộc Thánh Thể (6/6)"
-    },
-    {
-      "num": 302,
-      "title": "Chưa tắt chế độ tự động nhặt đồ, cuồng ăn nguyên liệu hoang dã"
-    },
-    {
-      "num": 303,
-      "title": "Công nhân kiểu mẫu Trương Vũ (Cầu vé tháng)"
-    },
-    {
-      "num": 304,
-      "title": "Trương Vũ chiến Doanh Tân"
-    },
-    {
-      "num": 305,
-      "title": "Đây chính là nhục thân luyện ra từ công trường (Cầu vé tháng)"
-    },
-    {
-      "num": 306,
-      "title": "Chiến tranh Đại học"
-    },
-    {
-      "num": 307,
-      "title": "Phi kiếm của Bạch Chân Chân"
-    },
-    {
-      "num": 308,
-      "title": "Công trường dã ngoại (Cảm ơn 'Ta là một độc giả' lần thứ ba thưởng Minh Chủ)"
-    },
-    {
-      "num": 309,
-      "title": "Di Sơn Thần Lực và Thanh Ti Phi Kiếm"
-    },
-    {
-      "num": 310,
-      "title": "Tỷ lệ tử vong và tỷ lệ bệnh tật"
-    },
-    {
-      "num": 311,
-      "title": "Trương Vũ ăn vụng"
-    },
-    {
-      "num": 312,
-      "title": "Thượng cấp Thổ Mộc Thánh Thể (8/8)"
-    },
-    {
-      "num": 313,
-      "title": "Trương Vũ, cậu thế này tôi sợ lắm"
-    },
-    {
-      "num": 314,
-      "title": "Chung cực Thổ Mộc Thánh Thể (Cảm ơn ‘Ngọc Diện Tiểu Tiểu Khốc Bá Vương’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 315,
-      "title": "Thi cuối kỳ"
-    },
-    {
-      "num": 316,
-      "title": "Trương Vũ VS Công Thâu Tẫn (Cảm ơn 'Nạp Đức' đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 317,
-      "title": "Để thiên kiêu đấu thiên kiêu"
-    },
-    {
-      "num": 318,
-      "title": "Cập nhật bảng xếp hạng (Cảm ơn 'Vương Hi' đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 319,
-      "title": "Thứ hạng dạy cho mọi người cách tôn trọng lẫn nhau"
-    },
-    {
-      "num": 320,
-      "title": "Công pháp Tiên môn (Cảm ơn 'Ký ức màu Lưu Ly' đã ủng hộ 14 vị Minh Chủ)"
-    },
-    {
-      "num": 321,
-      "title": "Chiến tranh và Hòa bình"
-    },
-    {
-      "num": 322,
-      "title": "Đại hào trạch và Khí vận"
-    },
-    {
-      "num": 323,
-      "title": "Xem học kỳ này tớ vượt mặt cậu như thế nào"
-    },
-    {
-      "num": 324,
-      "title": "Sức ăn của Trương Vũ"
-    },
-    {
-      "num": 325,
-      "title": "Lựa chọn dự án"
-    },
-    {
-      "num": 326,
-      "title": "Mù hộp mộ địa"
-    },
-    {
-      "num": 327,
-      "title": "Đạo tâm và Tâm ma"
-    },
-    {
-      "num": 328,
-      "title": "Đùa giỡn Trương Vũ"
-    },
-    {
-      "num": 329,
-      "title": "Vương Dận đạo tâm tan vỡ"
-    },
-    {
-      "num": 330,
-      "title": "Mọi người đều rất nhớ Vương tổng"
-    },
-    {
-      "num": 331,
-      "title": "Thổ mộc nhiệt huyết"
-    },
-    {
-      "num": 332,
-      "title": "Vũ khí bí mật, thâm hàn pháp mạch"
-    },
-    {
-      "num": 333,
-      "title": "Bạch Chân Chân luyện kiếm, Trương Vũ đang rã đông"
-    },
-    {
-      "num": 334,
-      "title": "Phát hiện ổ nhóm trồng trọt"
-    },
-    {
-      "num": 335,
-      "title": "Công dân nhiệt tình"
-    },
-    {
-      "num": 336,
-      "title": "Thu giữ và phân phối"
-    },
-    {
-      "num": 337,
-      "title": "Thái Thanh Phù Lục"
-    },
-    {
-      "num": 338,
-      "title": "Đội thi đấu"
-    },
-    {
-      "num": 339,
-      "title": "Lần gặp đầu tiên ở hội sở"
-    },
-    {
-      "num": 340,
-      "title": "Khí mạch trường lưu cấp cao (88)"
-    },
-    {
-      "num": 341,
-      "title": "Chùy Tâm Cư"
-    },
-    {
-      "num": 342,
-      "title": "Hành trình Linh Nhục Hợp Nhất"
-    },
-    {
-      "num": 343,
-      "title": "A Chân sắp tới, kỳ thi cuối kỳ cận kề, lựa chọn đạo sư"
-    },
-    {
-      "num": 344,
-      "title": "Đội công trình của Trương Vũ"
-    },
-    {
-      "num": 345,
-      "title": "Hắc công pháp"
-    },
-    {
-      "num": 346,
-      "title": "Tâm pháp thứ hai, kỳ thi bắt đầu"
-    },
-    {
-      "num": 347,
-      "title": "Học kỳ thứ nhất, kỳ thi chuyên ngành cuối cùng"
-    },
-    {
-      "num": 348,
-      "title": "Vận chuyển kịch liệt"
-    },
-    {
-      "num": 349,
-      "title": "Đại thế tất yếu, Thổ Mộc chính đạo"
-    },
-    {
-      "num": 350,
-      "title": "Thằng nhóc này chính là Thiên Sinh Thổ Mộc Thánh Thể"
-    },
-    {
-      "num": 351,
-      "title": "Trương Vũ hạng nhất"
-    },
-    {
-      "num": 352,
-      "title": "Thổ Mộc Thất Tuyệt và Thất Tuyệt Pháp Hài"
-    },
-    {
-      "num": 353,
-      "title": "Hai vị lão sư của Trương Vũ"
-    },
-    {
-      "num": 354,
-      "title": "Bí mật của Trương Vũ"
-    },
-    {
-      "num": 355,
-      "title": "Quyết định cuộc thi, Thái Thanh Phù Lục"
-    },
-    {
-      "num": 356,
-      "title": "Xiềng xích của hai chị em"
-    },
-    {
-      "num": 357,
-      "title": "Thái Thanh Điện"
-    },
-    {
-      "num": 358,
-      "title": "Bạch Chân Chân định mức tổn thất cho Nhạc Mộc Lam"
-    },
-    {
-      "num": 359,
-      "title": "Tứ tâm hợp nhất, sự chỉ dẫn của Chủ nhiệm Cao"
-    },
-    {
-      "num": 360,
-      "title": "Rời đội và đội mới"
-    },
-    {
-      "num": 361,
-      "title": "Thận quỷ, vạn nguyên"
-    },
-    {
-      "num": 362,
-      "title": "Phiên Thiên Ấn, tiết học luyện khí"
-    },
-    {
-      "num": 363,
-      "title": "Từ hôm nay bắt đầu giới sắc!"
-    },
-    {
-      "num": 364,
-      "title": "Thời kỳ hư nhược của Trương Vũ (Cảm ơn ‘Kim Thương Tượng Lư Thoa’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 365,
-      "title": "Cản đường tiên của hắn, chính là cản đường tiên của tôi (Cầu nguyệt phiếu)"
-    },
-    {
-      "num": 366,
-      "title": "Bạch Chân Chân và Trương Vũ trùng phùng (Cảm ơn Kim Thương Tượng Lư Thoa lại ủng hộ 11 minh chủ)"
-    },
-    {
-      "num": 367,
-      "title": "Đạo chủng của Bạch Chân Chân (Cầu vé tháng)"
-    },
-    {
-      "num": 368,
-      "title": "Có tiền mới có tình cảm"
-    },
-    {
-      "num": 369,
-      "title": "Bạch Chân Chân bị người người sùng bái (Cầu phiếu tháng)"
-    },
-    {
-      "num": 370,
-      "title": "Đầu cơ tiền ảo (Cảm ơn ‘Trầm Mặc Dữ Kiếm’ đã ủng hộ 12 Minh chủ)"
-    },
-    {
-      "num": 371,
-      "title": "Ta Văn Vô Nhai không phải là một người keo kiệt"
-    },
-    {
-      "num": 372,
-      "title": "Sự huyền diệu của Thanh Liên Kiếm Thai"
-    },
-    {
-      "num": 373,
-      "title": "Biệt ly, cuộc thi Thổ Mộc bắt đầu"
-    },
-    {
-      "num": 374,
-      "title": "Võ Đạo Thánh Thể (Cảm ơn ‘Ngân Hà Võ Sĩ’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 375,
-      "title": "Thất Tuyệt Biến Hóa, Cạnh Tranh Quyết Liệt"
-    },
-    {
-      "num": 376,
-      "title": "Thiên Tài Liều Mạng Trương Vũ (Cảm ơn ‘Charlotte’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 377,
-      "title": "Ném Trương Vũ Qua Đó (Cầu phiếu tháng)"
-    },
-    {
-      "num": 378,
-      "title": "Lại một môn công pháp cấp 20? (Cảm ơn ‘Mikkiii’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 379,
-      "title": "Đây là sinh viên năm hai?"
-    },
-    {
-      "num": 380,
-      "title": "Thanh máu ẩn của cuộc thi (Cảm ơn ‘hotpick’ đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 381,
-      "title": "Cuộc kịch chiến ở hiệp hai"
-    },
-    {
-      "num": 382,
-      "title": "Không có tiền thì thi đấu cái gì (Cảm ơn ‘Mèo con hay giận’ đã ủng hộ chức Minh chủ)"
-    },
-    {
-      "num": 383,
-      "title": "Đầu hàng đi"
-    },
-    {
-      "num": 384,
-      "title": "Trương Vũ - người có đóng góp lớn nhất toàn sân (Cảm ơn 'Mèo Con Cáu Kỉnh' đã tiếp tục ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 385,
-      "title": "Từ Cực Chân Quân âm thầm chỉ điểm"
-    },
-    {
-      "num": 386,
-      "title": "Đối đầu Túc Viêm Dương"
-    },
-    {
-      "num": 387,
-      "title": "Lưỡng giới phân cát, Tuần Thiên phi kiếm"
-    },
-    {
-      "num": 388,
-      "title": "Đoạn phát luyện kiếm"
-    },
-    {
-      "num": 389,
-      "title": "Kiến trúc thông minh"
-    },
-    {
-      "num": 390,
-      "title": "Đòn tấn công cuối cùng"
-    },
-    {
-      "num": 391,
-      "title": "Sự giúp đỡ của Chủ nhiệm Cao"
-    },
-    {
-      "num": 392,
-      "title": "Sự chỉ điểm giữa giờ của Từ Cực Chân Quân"
-    },
-    {
-      "num": 393,
-      "title": "Tái chiến Túc Viêm Dương"
-    },
-    {
-      "num": 394,
-      "title": "Áp chế (Cảm ơn ‘Siêu Cấp Tân’ đã thưởng Minh Chủ)"
-    },
-    {
-      "num": 395,
-      "title": "Chung kết"
-    },
-    {
-      "num": 396,
-      "title": "Trương Vũ thắng lợi"
-    },
-    {
-      "num": 397,
-      "title": "Được truyền Thất Tuyệt"
-    },
-    {
-      "num": 398,
-      "title": "Niềm vui của người chiến thắng"
-    },
-    {
-      "num": 399,
-      "title": "Kẻ bại trận, tuyệt kỹ thứ hai"
-    },
-    {
-      "num": 400,
-      "title": "Quy hoạch chứng chỉ quân sự của Trương Vũ"
-    },
-    {
-      "num": 401,
-      "title": "Lần đầu luyện khí"
-    },
-    {
-      "num": 402,
-      "title": "Hạ thấp chi phí luyện khí"
-    },
-    {
-      "num": 403,
-      "title": "Trương Vũ bận rộn"
-    },
-    {
-      "num": 404,
-      "title": "Sinh viên hệ Luyện khí"
-    },
-    {
-      "num": 405,
-      "title": "Tiên duyên"
-    },
-    {
-      "num": 406,
       "title": "Trương Vũ thần bí"
     },
     {
+      "num": 165,
+      "title": "Lời triệu hồi của vai hề"
+    },
+    {
+      "num": 166,
+      "title": "Học sinh cấp ba mạnh nhất"
+    },
+    {
+      "num": 167,
+      "title": "Trương Vũ thâm sâu khó lường"
+    },
+    {
+      "num": 168,
+      "title": "Ăn uống vô độ"
+    },
+    {
+      "num": 169,
+      "title": "Khả năng tiêu hóa của Trương Vũ!"
+    },
+    {
+      "num": 170,
+      "title": "Quyết chiến với Ngọc Tinh Hàn"
+    },
+    {
+      "num": 171,
+      "title": "Trận cuối cùng, thi võ đạo"
+    },
+    {
+      "num": 172,
+      "title": "Nỗi lòng của Trương Vũ (Cảm ơn Thiên Tắc Luật đã tặng bạc minh chủ)"
+    },
+    {
+      "num": 173,
+      "title": "Ta luyện thành rồi"
+    },
+    {
+      "num": 174,
+      "title": "Xuân Thu Vô Tận Thiền"
+    },
+    {
+      "num": 175,
+      "title": "Vượt qua kỳ thi"
+    },
+    {
+      "num": 176,
+      "title": "Chia bảng vòng hai, chiến ý của Dạ Lăng Tiêu"
+    },
+    {
+      "num": 177,
+      "title": "Công cụ sản xuất của Trương Vũ"
+    },
+    {
+      "num": 178,
+      "title": "Mua bán \"hạt giống\" (Cảm ơn 'A Mặc Thiên Thiên Mạc Ngư' đã thưởng minh chủ)"
+    },
+    {
+      "num": 179,
+      "title": "Trương Vũ vất vả kiếm tiền"
+    },
+    {
+      "num": 180,
+      "title": "Khơi dậy tiềm năng của Ngọc Tinh Hàn"
+    },
+    {
+      "num": 181,
+      "title": "Cuộc săn bắt bắt đầu"
+    },
+    {
+      "num": 182,
+      "title": "Mười triệu cám dỗ"
+    },
+    {
+      "num": 183,
+      "title": "Đòn tấn công sấm sét của Trương Vũ"
+    },
+    {
+      "num": 184,
+      "title": "Ngăn chặn sáu kẻ mạnh"
+    },
+    {
+      "num": 185,
+      "title": "Săn giết tà thần thành công"
+    },
+    {
+      "num": 186,
+      "title": "Săn thú Tà Thần thành công"
+    },
+    {
+      "num": 187,
+      "title": "Tà thần thăng cấp, tuần tra chú ý"
+    },
+    {
+      "num": 188,
+      "title": "Trương Vũ bị thẩm vấn"
+    },
+    {
+      "num": 189,
+      "title": "Tiềm lực của Bạch Chân Chân, nghi thức nhập thân"
+    },
+    {
+      "num": 190,
+      "title": "Thông báo hoạt động rút thăm trúng thưởng phiếu tháng đầu tháng 2"
+    },
+    {
+      "num": 191,
+      "title": "Bá chủ điện lực trường học, Xuân Thu Vô Tận Thiền cấp 10"
+    },
+    {
+      "num": 192,
+      "title": "Hào tộc Tung Dương, Trương Vũ bị đe dọa"
+    },
+    {
+      "num": 193,
+      "title": "Trói buộc tầng tầng (Cảm ơn 『Thị Hạ Vãn A』 đã tặng minh chủ)"
+    },
+    {
+      "num": 194,
+      "title": "Thời gian của Trương Vũ"
+    },
+    {
+      "num": 195,
+      "title": "Ẩn mình giấu vuốt, chờ đợi thời cơ"
+    },
+    {
+      "num": 196,
+      "title": "Thánh thể trung học"
+    },
+    {
+      "num": 197,
+      "title": "Thánh thể đại thành, đơn xin nghỉ thi"
+    },
+    {
+      "num": 198,
+      "title": "Kỳ thi Trúc Cơ vòng hai bắt đầu"
+    },
+    {
+      "num": 199,
+      "title": "Học sinh giỏi là phải tiêm thuốc"
+    },
+    {
+      "num": 200,
+      "title": "Ba loại thần dược (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 201,
+      "title": "Một miệng ăn hai miếng"
+    },
+    {
+      "num": 202,
+      "title": "Trung học thánh thể? Luyện khí thánh thể! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 203,
+      "title": "Tạm dừng thi cử?"
+    },
+    {
+      "num": 204,
+      "title": "Tạm dừng thi cử?"
+    },
+    {
+      "num": 205,
+      "title": "Đồng quy vu tận"
+    },
+    {
+      "num": 206,
+      "title": "Điều kiện tu luyện tốt nhất của Trương Vũ (Cầu vé tháng)"
+    },
+    {
+      "num": 207,
+      "title": "Thể xác học sinh cấp ba hoàn mỹ nhất (Cảm ơn 『Hốt Hữu Cuồng Đồ Dạ Ma Đao』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 208,
+      "title": "Kết thúc vòng thi trúc cơ thứ hai (Cầu vé tháng)"
+    },
+    {
+      "num": 209,
+      "title": "Trương Vũ bàn kế sách, Chính Thần bí mật sâu xa (Cảm ơn 'rap Phiên Dịch Thủ Ngữ Trưởng Buổi Diễn' tặng quà minh chủ)"
+    },
+    {
+      "num": 210,
+      "title": "Tài thần là trên hết, đại học và cao đẳng (Cầu vé tháng)"
+    },
+    {
+      "num": 211,
+      "title": "Lời cầu giúp của An An, kế hoạch của Trương Vũ"
+    },
+    {
+      "num": 212,
+      "title": "Trương Vũ bị tập kích bất ngờ"
+    },
+    {
+      "num": 213,
+      "title": "Lôi Minh Phù, vũ trang quân dụng"
+    },
+    {
+      "num": 214,
+      "title": "Truy hỏi Trương Vũ, Chính Thần thanh trừng"
+    },
+    {
+      "num": 215,
+      "title": "Phong tỏa Tập đoàn Vạn Tinh"
+    },
+    {
+      "num": 216,
+      "title": "Trương Vũ trong phòng điều giải"
+    },
+    {
+      "num": 217,
+      "title": "Thu hoạch dồi dào của Trương Vũ"
+    },
+    {
+      "num": 218,
+      "title": "Mối nguy ẩn giấu, bồi dưỡng trong bóng tối"
+    },
+    {
+      "num": 219,
+      "title": "Hướng kiếm tiền nhất trong giới bổ túc đen tối"
+    },
+    {
+      "num": 220,
+      "title": "Tiến bộ vượt bậc của Trương Vũ và buổi dạy thử vàng ròng"
+    },
+    {
+      "num": 221,
+      "title": "Đồ bỏ đi chưa từng học đại học (Cảm ơn 『Liễm Túy Nhan』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 222,
+      "title": "Đúng là cái mùi này rồi"
+    },
+    {
+      "num": 223,
+      "title": "Nổ nghĩa địa"
+    },
+    {
+      "num": 224,
+      "title": "Thánh thai vừa thành, kỳ thi cận kề"
+    },
+    {
+      "num": 225,
+      "title": "Cảnh tượng hỗn loạn ở Tung Dương"
+    },
+    {
+      "num": 226,
+      "title": "Thánh thai tiểu thành, xuất phát dự thi"
+    },
+    {
+      "num": 227,
+      "title": "Kỳ thi Trúc Cơ đầy ắp khán giả?"
+    },
+    {
+      "num": 228,
+      "title": "Thần linh căn (Cảm ơn 『Vũ Tiên Tề Thiên』 đã tặng Bạch Chân Chân 10 đôi tất linh căn ngoại vi)"
+    },
+    {
+      "num": 229,
+      "title": "Công suất của Thần linh căn (Cảm ơn nudge đã thưởng minh chủ)"
+    },
+    {
+      "num": 230,
+      "title": "Đại chiến Dạ Lăng Tiêu"
+    },
+    {
+      "num": 231,
+      "title": "Thắng bại (Cảm ơn Tạc Quang Nhân đã chuyển khoản cho Trương Vũ và gửi tặng 8 đôi tất lưới cho Bạch Chân Chân trở thành minh chủ)"
+    },
+    {
+      "num": 232,
+      "title": "Pháp hài cấp giảng dạy"
+    },
+    {
+      "num": 233,
+      "title": "Gánh nặng của Pháp Hài"
+    },
+    {
+      "num": 234,
+      "title": "Thắng bại nằm ở vòng ba"
+    },
+    {
+      "num": 235,
+      "title": "Phần ba về cơ thể"
+    },
+    {
+      "num": 236,
+      "title": "Thắng bại đã phân"
+    },
+    {
+      "num": 237,
+      "title": "Vượt qua âm thanh"
+    },
+    {
+      "num": 238,
+      "title": "Trương Vũ quyết chiến Dạ Lăng Tiêu"
+    },
+    {
+      "num": 239,
+      "title": "Cuối cùng cũng được chứng chỉ Trúc cơ (Chương gộp hai trong một)"
+    },
+    {
+      "num": 240,
+      "title": "Phần thưởng đã nhận, sóng ngầm cuộn trào"
+    },
+    {
+      "num": 241,
+      "title": "Chúc mừng Trương Vũ, Bạch Chân Chân thi đậu chứng chỉ Trúc cơ"
+    },
+    {
+      "num": 242,
+      "title": "Danh chấn Tung Dương (Cảm ơn 'Tiểu Hà Mã 233' đã thưởng chức minh chủ)"
+    },
+    {
+      "num": 243,
+      "title": "Trúc cơ lĩnh vực của Trương Vũ"
+    },
+    {
+      "num": 244,
+      "title": "Hợp Hoan (Cảm ơn 'Lộ Biên Tiểu Trù' đã tặng Bạch Chân Chân 10 đôi vớ linh căn ngoại trí)"
+    },
+    {
+      "num": 245,
+      "title": "Thông tin chuyên môn"
+    },
+    {
+      "num": 246,
+      "title": "Thông báo về hoạt động bốc thăm trúng thưởng phiếu tháng đầu tháng 3 (tối nay)"
+    },
+    {
+      "num": 247,
+      "title": "Tổng Vương thật thiện lương"
+    },
+    {
+      "num": 248,
+      "title": "Vương tổng, người thật nhân hậu."
+    },
+    {
+      "num": 249,
+      "title": "Trương Vũ giàu có"
+    },
+    {
+      "num": 250,
+      "title": "Trương Vũ tư tưởng lạc hậu (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 251,
+      "title": "Cuộc sống giàu sang, Võ Đạo Thánh Thai (Cảm ơn minh chủ 『qyqxxxxxxx』 đã tặng quà)"
+    },
+    {
+      "num": 252,
+      "title": "Nỗ lực thích nghi, rạn nứt trong tông môn"
+    },
+    {
+      "num": 253,
+      "title": "Nhẫn nhịn (Cảm ơn 『Trương Phiên Phiên Miêu』 Y Phu tặng Trương Phiên Phiên 10 cúp Oscar)"
+    },
+    {
+      "num": 254,
+      "title": "Không thể nhẫn nhịn được nữa"
+    },
+    {
+      "num": 255,
+      "title": "Cấp tiền quân dụng (Cảm ơn 『Tiếu Phúng Trào』 đã tặng quà minh chủ)"
+    },
+    {
+      "num": 256,
+      "title": "Ra đây đi, tiềm lực dự phòng của ta! Trợ giúp ta trúc cơ!"
+    },
+    {
+      "num": 257,
+      "title": "Hạ quyết tâm mua Thiên linh căn (Cảm ơn 『qyqxxxxxxx』 đã tiếp tục tặng quà minh chủ)"
+    },
+    {
+      "num": 258,
+      "title": "Trương Vũ trúc cơ"
+    },
+    {
+      "num": 259,
+      "title": "Sự chênh lệch giữa Luyện Khí và Trúc Cơ"
+    },
+    {
+      "num": 260,
+      "title": "Quét sạch"
+    },
+    {
+      "num": 261,
+      "title": "Khuynh Thế Hào Quyền (Cảm ơn 『Tôi Là Một Độc Giả』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 262,
+      "title": "Đại chiến Tổng Vương"
+    },
+    {
+      "num": 263,
+      "title": "Nâng cao thực lực ngay trước trận chiến (Cảm ơn 『Tôi Là Một Độc Giả』 đã tiếp tục thưởng minh chủ)"
+    },
+    {
+      "num": 264,
+      "title": "Độc đấu Vương Dận"
+    },
+    {
+      "num": 265,
+      "title": "Tinh Hỏa dạy bảo, Cửu Tiêu tranh đấu (Cảm ơn 『Chẩn Tảo Thanh Hổ Phách Chủ』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 266,
+      "title": "Đánh bại Vương Dận"
+    },
+    {
+      "num": 267,
+      "title": "Hạ gục Vương Dận"
+    },
+    {
+      "num": 268,
+      "title": "Tàn Ngưu Xả Thân là bản cắt xén?"
+    },
+    {
+      "num": 269,
+      "title": "Tàn Ngưu Xả Thân Quyết phiên bản hoàn chỉnh"
+    },
+    {
+      "num": 270,
+      "title": "Chiến lợi phẩm từ Tập đoàn Lục Châu, lựa chọn phần thưởng"
+    },
+    {
+      "num": 271,
+      "title": "Thời Tàn Ma Đồng"
+    },
+    {
+      "num": 272,
+      "title": "Sự giúp đỡ của Tinh Hỏa Chân Nhân"
+    },
+    {
+      "num": 273,
+      "title": "Giấy thông hành Linh mạch của Trương Vũ"
+    },
+    {
+      "num": 274,
+      "title": "Nhà họ Chu tà thần, cú nước rút trước kỳ thi đại học"
+    },
+    {
+      "num": 275,
+      "title": "Trương Vũ kỳ trân, tỷ tỷ liên lạc"
+    },
+    {
+      "num": 276,
+      "title": "Thời gian hạnh phúc trôi mau"
+    },
+    {
+      "num": 277,
+      "title": "Vũ Tử và ta tốt nhất thiên hạ"
+    },
+    {
+      "num": 278,
+      "title": "Đi tới tầng hai Côn Khư"
+    },
+    {
+      "num": 279,
+      "title": "Phúc Cơ thăng cấp, vượt qua tầng hai"
+    },
+    {
+      "num": 280,
+      "title": "Bạch Chân Chân: Để mẹ nuôi con"
+    },
+    {
+      "num": 281,
+      "title": "Lời hẹn với Bạch Chân Chân"
+    },
+    {
+      "num": 282,
+      "title": "Gặp lại Trương Phiên Phiên"
+    },
+    {
+      "num": 283,
+      "title": "Lớp Trúc cơ"
+    },
+    {
+      "num": 284,
+      "title": "Xếp hạng đại học"
+    },
+    {
+      "num": 285,
+      "title": "Thiên phú cực kém, hoàn toàn dựa vào gia thế"
+    },
+    {
+      "num": 286,
+      "title": "Đại học thánh thể, ai dám chọc tôi?"
+    },
+    {
+      "num": 287,
+      "title": "Khóa học đại học"
+    },
+    {
+      "num": 288,
+      "title": "Sự dạy dỗ thời kỳ Trúc cơ"
+    },
+    {
+      "num": 289,
+      "title": "Làm xây dựng đúng là có tiền đồ"
+    },
+    {
+      "num": 290,
+      "title": "Vũ Thư mở ra"
+    },
+    {
+      "num": 291,
+      "title": "Đạo Chủng Phổ"
+    },
+    {
+      "num": 292,
+      "title": "Chung cực - Đại Học Thánh Thể（10/10）"
+    },
+    {
+      "num": 293,
+      "title": "Đạo chủng của tỷ tỷ"
+    },
+    {
+      "num": 294,
+      "title": "Thổ Mộc Thánh Thể, xếp hạng liên tục tăng"
+    },
+    {
+      "num": 295,
+      "title": "Hàng 99% mới (Cảm ơn 『Trương Phiên Phiên Miêu』 Y Phù đã tặng 200 lá bùa hảo cảm cho Trương Phiên Phiên)"
+    },
+    {
+      "num": 296,
+      "title": "Nhiệm vụ của Nhạc Mộc Lam"
+    },
+    {
+      "num": 297,
+      "title": "Mình muốn gia nhập nhóm học tập Hợp Hoan"
+    },
+    {
+      "num": 298,
+      "title": "Thi cử sơ suất, lời mời đến công trường"
+    },
+    {
+      "num": 299,
+      "title": "Giao dịch Pháp lực ngầm"
+    },
+    {
+      "num": 300,
+      "title": "Giúp Nhạc Mộc Lam, xuống công trường"
+    },
+    {
+      "num": 301,
+      "title": "Công trường"
+    },
+    {
+      "num": 302,
+      "title": "Kiếm linh tệ, tiêu linh tệ"
+    },
+    {
+      "num": 303,
+      "title": "Dòng nước ấm tình bạn lan tỏa"
+    },
+    {
+      "num": 304,
+      "title": "Mau lên xe! Cửa xe sắp bị hàn chết rồi (cầu vé tháng)"
+    },
+    {
+      "num": 305,
+      "title": "Tiền linh tệ tiêu đi rồi lại đồng hành bên cạnh theo cách khác"
+    },
+    {
+      "num": 306,
+      "title": "Thổ Mộc Thánh Thể sơ cấp (66)"
+    },
+    {
+      "num": 307,
+      "title": "Quên tắt chế độ tự động nhặt, điên cuồng chén sạch nguyên liệu hoang dã"
+    },
+    {
+      "num": 308,
+      "title": "Công nhân kiểu mẫu Trương Vũ (Cầu vé tháng)"
+    },
+    {
+      "num": 309,
+      "title": "Thông báo hoạt động rút thăm trúng thưởng vé tháng đầu tháng 4 (tối nay)"
+    },
+    {
+      "num": 310,
+      "title": "Trương Vũ đấu với Doanh Tâm"
+    },
+    {
+      "num": 311,
+      "title": "Đây chính là thân thể được tôi luyện trên công trường (Cầu vé tháng)"
+    },
+    {
+      "num": 312,
+      "title": "Chiến tranh đại học"
+    },
+    {
+      "num": 313,
+      "title": "Phi kiếm của Bạch Chân Chân"
+    },
+    {
+      "num": 314,
+      "title": "Công trường nơi hoang dã"
+    },
+    {
+      "num": 315,
+      "title": "Thần lực dời núi và phi kiếm Thanh Ti Phi Kiếm"
+    },
+    {
+      "num": 316,
+      "title": "Tỷ lệ tử vong và tỷ lệ mắc bệnh"
+    },
+    {
+      "num": 317,
+      "title": "Trương Vũ lén ăn"
+    },
+    {
+      "num": 318,
+      "title": "Thổ Mộc Thánh Thể thượng cấp (8/8)"
+    },
+    {
+      "num": 319,
+      "title": "Trương Vũ, cậu thế này làm tôi sợ"
+    },
+    {
+      "num": 320,
+      "title": "Thổ Mộc Thánh Thể chung cực (Cảm ơn 'Ngọc Diện Tiểu Tiểu Khốc Bá Vương' đã tặng minh chủ)"
+    },
+    {
+      "num": 321,
+      "title": "Thi cuối kỳ"
+    },
+    {
+      "num": 322,
+      "title": "Trương Vũ VS Công Thâu Tẫn (Cảm ơn 'Nạp Đức' đã tặng minh chủ)"
+    },
+    {
+      "num": 323,
+      "title": "Để thiên kiêu đấu thiên kiêu"
+    },
+    {
+      "num": 324,
+      "title": "Xếp hạng cập nhật (Cảm ơn 『Vương Hy』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 325,
+      "title": "Xếp hạng dạy cho mọi người biết tôn trọng lẫn nhau"
+    },
+    {
+      "num": 326,
+      "title": "Công pháp tiên môn (Cảm ơn 『Hồi Ức Sắc Lưu Ly』 đã thưởng 1.4 minh chủ)"
+    },
+    {
+      "num": 327,
+      "title": "Chiến tranh và hòa bình"
+    },
+    {
+      "num": 328,
+      "title": "Đại hào trạch và khí vận"
+    },
+    {
+      "num": 329,
+      "title": "Xem học kỳ này tôi vượt mặt cậu thế nào"
+    },
+    {
+      "num": 330,
+      "title": "Sức ăn của Trương Vũ"
+    },
+    {
+      "num": 331,
+      "title": "Chọn dự án"
+    },
+    {
+      "num": 332,
+      "title": "Hộp mù nghĩa địa"
+    },
+    {
+      "num": 333,
+      "title": "Đạo tâm và tâm ma"
+    },
+    {
+      "num": 334,
+      "title": "Đùa giỡn Trương Vũ"
+    },
+    {
+      "num": 335,
+      "title": "Vương Dận đạo tâm đổ vỡ"
+    },
+    {
+      "num": 336,
+      "title": "Mọi người đều rất nhớ Tổng Vương"
+    },
+    {
+      "num": 337,
+      "title": "Nhiệt huyết Thổ mộc"
+    },
+    {
+      "num": 338,
+      "title": "Vũ khí bí mật, Pháp mạch Thâm Hàn"
+    },
+    {
+      "num": 339,
+      "title": "Bạch Chân Chân đang luyện kiếm, Trương Vũ đang rã đông"
+    },
+    {
+      "num": 340,
+      "title": "Phát hiện sào huyệt trồng trọt"
+    },
+    {
+      "num": 341,
+      "title": "Công dân nhiệt tình"
+    },
+    {
+      "num": 342,
+      "title": "Thu giữ và phân chia"
+    },
+    {
+      "num": 343,
+      "title": "Thái Thanh Phù Lục"
+    },
+    {
+      "num": 344,
+      "title": "Đội thi đấu"
+    },
+    {
+      "num": 345,
+      "title": "Lần gặp mặt đầu tiên ở hội quán"
+    },
+    {
+      "num": 346,
+      "title": "Thượng cấp - Khí Mạch Trường Lưu (8/8)"
+    },
+    {
+      "num": 347,
+      "title": "Chùy Tâm Cư"
+    },
+    {
+      "num": 348,
+      "title": "Hành trình hợp nhất linh hồn và thể xác"
+    },
+    {
+      "num": 349,
+      "title": "A Chân tới, cuối kỳ cận kề, chọn lựa đạo sư"
+    },
+    {
+      "num": 350,
+      "title": "Đội công trình của Trương Vũ"
+    },
+    {
+      "num": 351,
+      "title": "Hắc công pháp"
+    },
+    {
+      "num": 352,
+      "title": "Tâm pháp thứ hai, kỳ thi bắt đầu"
+    },
+    {
+      "num": 353,
+      "title": "Năm học thứ nhất, kỳ thi chuyên ngành cuối cùng"
+    },
+    {
+      "num": 354,
+      "title": "Vận chuyển kịch liệt"
+    },
+    {
+      "num": 355,
+      "title": "Xu thế tất yếu, chính đạo xây dựng"
+    },
+    {
+      "num": 356,
+      "title": "Người này là thiên sinh Thổ Mộc Thánh Thể"
+    },
+    {
+      "num": 357,
+      "title": "Trương Vũ đứng đầu"
+    },
+    {
+      "num": 358,
+      "title": "Thổ Mộc Thất Tuyệt và Thất Tuyệt Pháp Hài"
+    },
+    {
+      "num": 359,
+      "title": "Hai vị thầy của Trương Vũ"
+    },
+    {
+      "num": 360,
+      "title": "Bí mật của Trương Vũ"
+    },
+    {
+      "num": 361,
+      "title": "Quyết định thi đấu, Thái Thanh Phù Lục"
+    },
+    {
+      "num": 362,
+      "title": "Sợi dây liên kết giữa chị và em"
+    },
+    {
+      "num": 363,
+      "title": "Thái Thanh Điện"
+    },
+    {
+      "num": 364,
+      "title": "Bạch Chân Chân định tổn Nhạc Mộc Lam"
+    },
+    {
+      "num": 365,
+      "title": "Bốn tâm hợp nhất, sự chỉ dạy của chủ nhiệm Cao"
+    },
+    {
+      "num": 366,
+      "title": "Rời đội và đội mới"
+    },
+    {
+      "num": 367,
+      "title": "Quỷ Thận, vạn nguyên"
+    },
+    {
+      "num": 368,
+      "title": "Phiên Thiên Ấn, tiết học luyện khí"
+    },
+    {
+      "num": 369,
+      "title": "Từ hôm nay bắt đầu cai sắc!"
+    },
+    {
+      "num": 370,
+      "title": "Thông báo hoạt động rút thăm trúng thưởng phiếu tháng đầu tháng 5 (tối nay)"
+    },
+    {
+      "num": 371,
+      "title": "Thời kỳ suy nhược của Trương Vũ (Cảm ơn 'Kim thương Tượng Lư Thoa' đã thưởng minh chủ)"
+    },
+    {
+      "num": 372,
+      "title": "Cản đường tiên đạo của hắn, chính là cản đường tiên đạo của ta (cầu phiếu tháng)"
+    },
+    {
+      "num": 373,
+      "title": "Cuộc hội ngộ của Bạch Chân Chân và Trương Vũ (Cảm ơn Thợ Kim Thương Lư Thoa tiếp tục thưởng 1.1 minh chủ)"
+    },
+    {
+      "num": 374,
+      "title": "Đạo chủng của Bạch Chân Chân (Cầu phiếu tháng)"
+    },
+    {
+      "num": 375,
+      "title": "Có tiền mới có tình cảm"
+    },
+    {
+      "num": 376,
+      "title": "Bạch Chân Chân được người sùng bái (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 377,
+      "title": "Thổi giá tiền tệ (Cảm ơn 『Trầm Mặc Và Kiếm』 đã tặng 12 minh chủ)"
+    },
+    {
+      "num": 378,
+      "title": "Văn Vô Nhai ta không phải người nhỏ mọn"
+    },
+    {
+      "num": 379,
+      "title": "Sự diệu kỳ của Thanh Liên Kiếm Thai"
+    },
+    {
+      "num": 380,
+      "title": "Chia tay, cuộc thi xây dựng bắt đầu"
+    },
+    {
+      "num": 381,
+      "title": "Võ Đạo Thánh Thể (Cảm ơn 'Ngân Hà Võ Sĩ' đã donate Minh Chủ)"
+    },
+    {
+      "num": 382,
+      "title": "Bảy tuyệt chiêu biến hóa, cạnh tranh gay gắt"
+    },
+    {
+      "num": 383,
+      "title": "Thiên tài liều mạng Trương Vũ (Cảm ơn 『_Charlotte_』 đã tặng minh chủ)"
+    },
+    {
+      "num": 384,
+      "title": "Ném Trương Vũ qua đó (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 385,
+      "title": "Lại một môn công pháp cấp 20? (Cảm ơn 'Mikkiii' đã donate Minh Chủ)"
+    },
+    {
+      "num": 386,
+      "title": "Đây là năm hai ư?"
+    },
+    {
+      "num": 387,
+      "title": "Thanh máu ẩn giấu của cuộc thi (Cảm ơn 'hotpick' đã donate Minh Chủ)"
+    },
+    {
+      "num": 388,
+      "title": "Cuộc chiến ác liệt hiệp hai"
+    },
+    {
+      "num": 389,
+      "title": "Không có tiền thì thi đấu cái gì (Cảm ơn 'Mèo Con Giận Dỗi' đã donate Minh Chủ)"
+    },
+    {
+      "num": 390,
+      "title": "Đầu hàng đi"
+    },
+    {
+      "num": 391,
+      "title": "Trương Vũ, người đóng góp số một toàn trận (Cảm ơn 'Mèo Con Giận Dỗi' đã donate Minh Chủ lần nữa)"
+    },
+    {
+      "num": 392,
+      "title": "Trương Vũ, người có đóng góp cao nhất toàn trận (cảm ơn 『Mèo Con Giận Dỗi』 đã tiếp tục tặng quà minh chủ)"
+    },
+    {
+      "num": 393,
+      "title": "Sự chỉ dẫn âm thầm của Từ Cực Chân Quân"
+    },
+    {
+      "num": 394,
+      "title": "Chia cắt hai giới, Tuần Thiên Phi Kiếm"
+    },
+    {
+      "num": 395,
+      "title": "Cắt tóc luyện kiếm"
+    },
+    {
+      "num": 396,
+      "title": "Công trình thông minh"
+    },
+    {
+      "num": 397,
+      "title": "Công thế cuối cùng"
+    },
+    {
+      "num": 398,
+      "title": "Sự trợ giúp của Chủ nhiệm Cao"
+    },
+    {
+      "num": 399,
+      "title": "Sự chỉ điểm giữa giờ của Từ Cực Chân Quân"
+    },
+    {
+      "num": 400,
+      "title": "Tái chiến Túc Viêm Dương"
+    },
+    {
+      "num": 401,
+      "title": "Tái chiến Túc Viêm Dương"
+    },
+    {
+      "num": 402,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 403,
+      "title": "Thắng lợi của Trương Vũ"
+    },
+    {
+      "num": 404,
+      "title": "Được truyền thụ Thất Tuyệt"
+    },
+    {
+      "num": 405,
+      "title": "Niềm vui của người chiến thắng"
+    },
+    {
+      "num": 406,
+      "title": "Bại tướng, tuyệt chiêu thứ hai"
+    },
+    {
       "num": 407,
-      "title": "Dây chuyền nhà máy dược"
+      "title": "Kế hoạch thi lấy chứng chỉ quân sự của Trương Vũ"
     },
     {
       "num": 408,
-      "title": "Vạn Pháp Hóa Thần, tu hành thử thuốc"
+      "title": "Lần đầu tiên rèn khí"
     },
     {
       "num": 409,
-      "title": "Vì Trương Vũ, khí linh pháp bảo"
+      "title": "Cắt giảm chi phí luyện khí"
     },
     {
       "num": 410,
-      "title": "Luyến Thiên Cơ"
+      "title": "Trương Vũ bận rộn"
     },
     {
       "num": 411,
-      "title": "Tà giáo"
+      "title": "Sinh viên hệ Khoa Luyện khí"
     },
     {
       "num": 412,
-      "title": "Thượng cấp Võ đạo Thánh thể (8/8)"
+      "title": "Duyên tiên"
     },
     {
       "num": 413,
-      "title": "Một phát đáng giá bao nhiêu sinh viên cao đẳng"
+      "title": "Trương Vũ bí ẩn"
     },
     {
       "num": 414,
-      "title": "Đại giao dịch"
+      "title": "Dây chuyền sản xuất dược phẩm"
     },
     {
       "num": 415,
-      "title": "Võ đạo Thánh thể, Thái Ất Kim Dịch"
+      "title": "Vạn Pháp Hóa Thần, tu hành thử thuốc"
     },
     {
       "num": 416,
-      "title": "Kim Giáp Lực Sĩ"
+      "title": "Vì Trương Vũ, pháp bảo khí linh"
     },
     {
       "num": 417,
-      "title": "Từ Cực Hóa Thân"
+      "title": "Luyến Thiên Cơ"
     },
     {
       "num": 418,
-      "title": "Đột Phi Mạnh Tiến, Trúc Cơ Cực Hạn, Cướp Cơm"
+      "title": "Tà giáo"
     },
     {
       "num": 419,
-      "title": "Kỳ thi Luyện khí (Cảm ơn 'aghfh' đã ủng hộ Minh chủ)"
+      "title": "Thượng cấp - Võ Đạo Thánh Thể (8/8)"
     },
     {
       "num": 420,
-      "title": "Sự cám dỗ của hệ Luyện Khí (Cảm ơn thư hữu 20230821175232114)"
+      "title": "Một lần giá bằng bao nhiêu sinh viên cao đẳng"
     },
     {
       "num": 421,
-      "title": "Kỳ thi cuối kỳ năm hai (Cho 12 vị minh chủ)"
+      "title": "Giao dịch lớn"
     },
     {
       "num": 422,
-      "title": "Mỗi người một vẻ"
+      "title": "Vũ đạo thánh thể, Thái Ất Kim Dịch"
     },
     {
       "num": 423,
-      "title": "Kết thúc kỳ cuối, một đêm phất nhanh (Cầu phiếu tháng)"
+      "title": "Kim Giáp Lực Sĩ"
     },
     {
       "num": 424,
-      "title": "Diệu dụng của Tiểu Tam Hợp"
+      "title": "Hóa thân Từ Cực"
     },
     {
       "num": 425,
-      "title": "Kỳ thi chứng chỉ quân sự bắt đầu (Cầu phiếu tháng)"
+      "title": "Tiến bộ vượt bậc, giới hạn Trúc Cơ, cướp cơm"
     },
     {
       "num": 426,
-      "title": "Đồng Quỳnh Tương tăng vọt"
+      "title": "Kiểm tra luyện khí"
     },
     {
       "num": 427,
-      "title": "Thủ thành? (Cầu phiếu tháng)"
+      "title": "Sự cám dỗ của hệ Luyện Khí"
     },
     {
       "num": 428,
-      "title": "Phong tục Thổ mộc, công thế liên miên"
+      "title": "Thi cuối kỳ năm hai (và 1.2 vị minh chủ)"
     },
     {
       "num": 429,
-      "title": "Mỗi người hiển lộ thần thông, đột phá trong chiến đấu (Cầu phiếu tháng)"
-    },
-    {
-      "num": 430,
-      "title": "Thần Quân đại hôn (Cảm ơn minh chủ 'Bất tố nhân đích JO Thái Lang')"
-    },
-    {
-      "num": 431,
-      "title": "Ai có thể thắng ta?"
-    },
-    {
-      "num": 432,
-      "title": "Chiến thiên đấu địa"
-    },
-    {
-      "num": 433,
-      "title": "Cao thấp đã phân"
-    },
-    {
-      "num": 434,
-      "title": "Chuyên gia nhận xét"
-    },
-    {
-      "num": 435,
-      "title": "Báo cáo Thiên Đình"
-    },
-    {
-      "num": 436,
-      "title": "Không kìm được hừ khẽ (Cảm ơn ‘Bào Hỏa Liên’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 437,
-      "title": "Lựa chọn đạo sư Lộ tuyến tương lai"
-    },
-    {
-      "num": 438,
-      "title": "Ký hợp đồng"
-    },
-    {
-      "num": 439,
-      "title": "Công bố chứng chỉ quân sự"
-    },
-    {
-      "num": 440,
-      "title": "Cậu nhớ đừng có rêu rao, tin tức lan truyền chóng mặt"
-    },
-    {
-      "num": 441,
-      "title": "Trao bằng chứng chỉ quân sự"
-    },
-    {
-      "num": 442,
-      "title": "Hẹn ước Chân Chân"
-    },
-    {
-      "num": 443,
-      "title": "Gặp lại Vương tổng, chiến Bình Hãn"
-    },
-    {
-      "num": 444,
-      "title": "Trương Vũ, cậu lấy cái gì đấu với tôi? (Cảm ơn 'Vương Tí' đã tặng thưởng Minh Chủ)"
-    },
-    {
-      "num": 445,
-      "title": "Hãy thất bại đi (Cầu vé tháng)"
-    },
-    {
-      "num": 446,
-      "title": "Muốn biết ta thắng ngươi thế nào không?"
-    },
-    {
-      "num": 447,
-      "title": "Kẻ thắng đã thắng, kẻ bại không bại"
-    },
-    {
-      "num": 448,
-      "title": "Được truyền Tứ Tuyệt (Cảm ơn '沉迷自走棋ing' tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 449,
-      "title": "Bão tài chính"
-    },
-    {
-      "num": 450,
-      "title": "Được truyền Ngũ Tuyệt (Cảm ơn ‘Yêu fiji’ tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 451,
-      "title": "Cơ hội Thất Tuyệt, làn sóng bài trừ trí tuệ nhân tạo"
-    },
-    {
-      "num": 452,
-      "title": "Đặc sắc dạy học của Đại học Kim Hà (Cảm ơn ‘Bất Nhất Nhất Đích Yên Hỏa li’ đã thưởng Minh Chủ)"
-    },
-    {
-      "num": 453,
-      "title": "Vụ nổ tại câu lạc bộ"
-    },
-    {
-      "num": 454,
-      "title": "Thập Đại chi Đại học Kim Cương"
-    },
-    {
-      "num": 455,
-      "title": "Đảo Phiên Côn Lôn (6/6)"
-    },
-    {
-      "num": 456,
-      "title": "Kẻ bại không bại, người thắng không thắng"
-    },
-    {
-      "num": 457,
-      "title": "Thiên Côn Lôn Di Sơn Thần Lực"
-    },
-    {
-      "num": 458,
-      "title": "Vương Tổng"
-    },
-    {
-      "num": 459,
-      "title": "Trương Tổng (Cầu vé tháng)"
-    },
-    {
-      "num": 460,
-      "title": "Phúc Tổng (Cảm ơn ‘MacArthur’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 461,
-      "title": "Khoa Luyện Khí biển rộng trời cao, tái chiến Kim Cương"
-    },
-    {
-      "num": 462,
-      "title": "Hiệu trưởng đến cũng không đi thoát (Cảm ơn ‘Vi Mang Nhất Giác’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 463,
-      "title": "Trương Vũ đấu Thiền Nóng"
-    },
-    {
-      "num": 464,
-      "title": "Bại Thiền Nóng"
-    },
-    {
-      "num": 465,
-      "title": "Trương Vũ có Linh tệ tăng vọt"
-    },
-    {
-      "num": 466,
-      "title": "Thái Thanh Phù Lục cấp 2"
-    },
-    {
-      "num": 467,
-      "title": "Giải mã âm khí, song học vị"
-    },
-    {
-      "num": 468,
-      "title": "Tối ưu hóa chi phí công ty, tham gia dự án thực nghiệm trọng đại"
-    },
-    {
-      "num": 469,
-      "title": "Độ tương thích nổ biểu?"
-    },
-    {
-      "num": 470,
-      "title": "Khí linh thanh lãi"
-    },
-    {
-      "num": 471,
-      "title": "Đột phá tại chỗ"
-    },
-    {
-      "num": 472,
-      "title": "Tốc độ của Ngọc Tinh Hàn"
-    },
-    {
-      "num": 473,
-      "title": "Quảng thụ quan chú"
-    },
-    {
-      "num": 474,
-      "title": "Đại tiên duyên tới rồi (Cảm ơn minh chủ ‘Trác Yêu’)"
-    },
-    {
-      "num": 475,
-      "title": "Thánh thể của Trương Vũ, đến Thiên Kiếm"
-    },
-    {
-      "num": 476,
-      "title": "Phong vân dần nổi"
-    },
-    {
-      "num": 477,
-      "title": "Cuộc hẹn của Trương Vũ"
-    },
-    {
-      "num": 478,
-      "title": "Ta đến không đúng lúc sao (Cảm ơn ‘Ma Ma Địa Lạt’ tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 479,
-      "title": "Trao đổi và thi đấu"
-    },
-    {
-      "num": 480,
-      "title": "Thổ Mộc cũng có thể xuất hiện Kiêu Long (Cảm ơn ‘Huyền Nguyên Thanh Hoàn’ đã tặng đồng nghiệp Phúc Cơ trở thành Minh chủ)"
-    },
-    {
-      "num": 481,
-      "title": "Đột phá ngay tại trận (Cảm ơn ‘Hàm Ngư Nhất Hào’ đã chuyển cho Trương Vũ rất nhiều tiền để trở thành Minh chủ)"
-    },
-    {
-      "num": 482,
-      "title": "Ngòi nổ chiến tranh? (Cảm ơn ‘Tử Tang Lăng Phong’ tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 483,
-      "title": "Buông cái tay thối thổ mộc của ngươi ra! (Cầu phiếu tháng)"
-    },
-    {
-      "num": 484,
-      "title": "Thổ Mộc thật sự có thể xuất hiện Kiêu Long! (Cảm ơn ‘Cửu Cửu Cửu Nhị Thất’ đã tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 485,
-      "title": "Cảnh cáo và Linh căn (Cầu phiếu tháng)"
-    },
-    {
-      "num": 486,
-      "title": "Được chú ý (Cảm ơn ‘212 tự phù’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 487,
-      "title": "Thần Linh Căn và phong tỏa (Cầu phiếu tháng)"
-    },
-    {
-      "num": 488,
-      "title": "Hiệu gian (Cảm ơn ‘Cái biệt danh này tôi nghĩ trước khi ngủ’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 489,
-      "title": "Đối chất trước mặt Thần Quân (Cảm ơn ‘Cuồng Loạn Dạ Vị Ương’ đã nhồi cho Trương Vũ một đống cơm chó)"
-    },
-    {
-      "num": 490,
-      "title": "Cô ấy không giống (Cảm ơn wdd99 tặng bùa thiện cảm, tặng tiền, tặng Trương Vũ, tặng tất đen thành Minh chủ)"
-    },
-    {
-      "num": 491,
-      "title": "Hắn không giống (Cầu phiếu tháng)"
-    },
-    {
-      "num": 492,
-      "title": "Hóa Thần giáng lâm (Cảm ơn ‘Anh Đình Kiến Nguyệt’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 493,
-      "title": "Đôi bên cùng thắng (Cảm ơn ‘A Gia Sa’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 494,
-      "title": "Giá trị của việc kéo dài thọ nguyên (Cảm ơn ‘Thanh Vi Tiên Nhân’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 495,
-      "title": "Di Sơn Lực Sĩ (Cảm ơn ‘Áp Tiên Tề Thiên’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 496,
-      "title": "Đạo nhái và cương thi (Cảm ơn ‘Bác sĩ錘 cứu người chữa thương’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 497,
-      "title": "Cực Hổ ưu tú thế này sao lại bị coi thường (Cầu phiếu tháng)"
-    },
-    {
-      "num": 498,
-      "title": "Báo chi và chuẩn bị chuyển hệ (Cảm ơn ‘A Lợi Ái Đế’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 499,
-      "title": "Đại Thánh Truyền Nhân 4 (Cầu phiếu tháng)"
-    },
-    {
-      "num": 500,
-      "title": "Chân chân bản tâm Ý chí của Đại Thánh (Cảm ơn ‘Quá lộ xứng tử’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 501,
-      "title": "Thuế phồn thực và sự ràng buộc (Cảm ơn ‘Vạn Sĩ Sâm’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 502,
-      "title": "Tu Di Sơn Vương Kinh (Cảm ơn ‘Âm Nguyệt’ đã trở thành Minh chủ)"
-    },
-    {
-      "num": 503,
-      "title": "Bại bắc (Cảm ơn ‘Nhiên thiêu đích thủ chỉ’ đã trở thành Minh chủ)"
-    },
-    {
-      "num": 504,
-      "title": "Sinh viên Kiến trúc? Là ông nội Luyện khí! (Cảm ơn ‘Lang Tài’ đã tặng đồng nghiệp bùa, chuyển tiền, tặng Trương Vũ tất giấy)"
-    },
-    {
-      "num": 505,
-      "title": "Sinh viên Kiến trúc mạnh nhất (Cảm ơn ‘Độc Cô Thất Dạ’ đã thưởng Minh Chủ)"
-    },
-    {
-      "num": 506,
-      "title": "Quán quân Kiến trúc (Cảm ơn ‘Trầm mặc thị kim đích phẩm chất’ đã chuyển khoản cho Trương Vũ 10 lần)"
-    },
-    {
-      "num": 507,
-      "title": "Ở lại Kiến trúc? Hay chuyển hệ? (Cảm ơn ‘Thần Thông Đại Hùng’ đã thưởng Minh Chủ)"
-    },
-    {
-      "num": 508,
-      "title": "Tài chính cướp người (Cảm ơn ‘Anh Thư ing’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 509,
-      "title": "Tài chính là Tài chính, Vạn Pháp là Vạn Pháp (Cảm ơn ‘Nỗ lực kiếm tiền đích Tiểu Mặc’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 510,
-      "title": "Các người bắt đầu từ bao giờ? (Cảm ơn ‘tương sipid’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 511,
-      "title": "Sư phụ vô dụng, không bảo vệ được con (Cảm ơn ‘Trúc Phong Vãn Huyền’ đã thưởng Minh Chủ)"
-    },
-    {
-      "num": 512,
-      "title": "Lộ trình luyện khí, Kim Đan mấy phân"
-    },
-    {
-      "num": 513,
-      "title": "Ta không giả vờ nữa, ta là quý ngài Luyện khí"
-    },
-    {
-      "num": 514,
-      "title": "Phi thăng hệ Luyện khí"
-    },
-    {
-      "num": 515,
-      "title": "Điểm mô phỏng Kim Đan của Trương Vũ"
-    },
-    {
-      "num": 516,
-      "title": "Ai nói chuyển hệ không bằng thuần chủng (Cảm ơn ‘Tạ Long Khởi’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 517,
-      "title": "Duy trì thương hiệu cá nhân (Cảm ơn ‘Đăng Đỗ Giang Đê Phong’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 518,
-      "title": "Đỡ lấy Cực Tình Kiếm Đạo của ta (Cảm ơn ‘500 cân đích Bành Trướng Vương’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 519,
-      "title": "Các người hãy ôm chặt lấy nhau cho ta (Cảm ơn ‘Tối nay ăn gì ngon nhỉ’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 520,
-      "title": "Kéo dài đến mức thành hồn tu (Cảm ơn ‘Geineer’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 521,
-      "title": "Nhà có quỷ vào mà ông không biết sao? (Cảm ơn ‘Gia Thoại’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 522,
-      "title": "Giải quyết Lôi Cực"
-    },
-    {
-      "num": 523,
-      "title": "Luyện khí kỳ tài cấp sơ (6/6)"
-    },
-    {
-      "num": 524,
-      "title": "Chút danh tiếng (Cảm ơn ‘cuivie’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 525,
-      "title": "Cạnh tranh trực diện (Cảm ơn ‘JiEun’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 526,
-      "title": "Sao tác và Luyện khí kỳ tài cấp thượng (8/8)"
-    },
-    {
-      "num": 527,
-      "title": "Thiên tài Luyện khí Chung cực (10/10) (Cảm ơn ‘Lữ hành giả’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 528,
-      "title": "Xá lợi Phước báo và Phong tỏa (Cảm ơn ‘Tân thủ thôn thôn trưởng Thái Phàm Nhĩ’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 529,
-      "title": "Tuyến cuối của Trương Vũ (Cầu nguyệt phiếu)"
-    },
-    {
-      "num": 530,
-      "title": "Sóng ngầm cuộn trào (Cảm ơn ‘Lạc Diệp Phiên Phiên Hoa Hương Mãn Long’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 531,
-      "title": "Hóa Thần xung đột, thiên sập địa hãm"
-    },
-    {
-      "num": 532,
-      "title": "Hồn Hoàn và Thiên Công Khai Vật (Cảm ơn ‘Thủy Quá Trú Nha’ đã thưởng Minh chủ)"
-    },
-    {
-      "num": 533,
-      "title": "Vọng sư thành long và Trấn áp hỗn loạn"
-    },
-    {
-      "num": 534,
-      "title": "Trại tị nạn của Trương Vũ"
-    },
-    {
-      "num": 535,
-      "title": "Sự cố leo thang"
-    },
-    {
-      "num": 536,
-      "title": "Vũ Hóa Đồng Tử và Vô Nghiệp Lão Nhân"
-    },
-    {
-      "num": 537,
-      "title": "Côn Khứ \"0 đồng\" (Cầu vé tháng)"
-    },
-    {
-      "num": 538,
-      "title": "Hình như tôi cũng là Kim Đan (Cảm ơn ‘Dream3r’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 539,
-      "title": "Xiềng xích (Cảm ơn ‘Thiên Kiếp Ngao Diệt’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 540,
-      "title": "Ám Linh Giới"
-    },
-    {
-      "num": 541,
-      "title": "Nhóm tội phạm nhỏ của Trương Vũ"
-    },
-    {
-      "num": 542,
-      "title": "Thanh toán (Cảm ơn ‘Dạ Cảnh Thiên’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 543,
-      "title": "Tự chọn công pháp Tiên môn (Cầu vé tháng)"
-    },
-    {
-      "num": 544,
-      "title": "Bắt đầu luyện chế máy sơ hình"
-    },
-    {
-      "num": 545,
-      "title": "Mùa xuân của Thổ mộc, công ty khuếch trương"
-    },
-    {
-      "num": 546,
-      "title": "Thuê trợ lý"
-    },
-    {
-      "num": 547,
-      "title": "Hình người sơ khai (Cầu vé tháng)"
-    },
-    {
-      "num": 548,
-      "title": "Ai đang ngáng đường phía sau (Cảm ơn 'Ma Nhãn' đã trở thành minh chủ)"
-    },
-    {
-      "num": 549,
-      "title": "Quỳ gối (Cầu vé tháng)"
-    },
-    {
-      "num": 550,
-      "title": "Bí mật của Luân hồi và Thần đạo (Cảm ơn 'Ảnh Tiên Tề Thiên' đã tặng thưởng minh chủ)"
-    },
-    {
-      "num": 551,
-      "title": "Thiên Nhân Ngũ Thuế (Cầu vé tháng)"
-    },
-    {
-      "num": 552,
-      "title": "Luyện khí chính là càng nhanh càng tốt"
-    },
-    {
-      "num": 553,
-      "title": "Hành chính cũng có điểm đáng học hỏi (Cầu vé tháng)"
-    },
-    {
-      "num": 554,
-      "title": "Đạo chủng của Dạ Tinh Ly"
-    },
-    {
-      "num": 555,
-      "title": "Báo cáo máy sơ hình (Cầu vé tháng)"
-    },
-    {
-      "num": 556,
-      "title": "Con trai của Từ Cực Chân Quân?"
-    },
-    {
-      "num": 557,
-      "title": "Ban bố Chứng nhận Công trình Luyện khí Quân sự (Loại A)"
-    },
-    {
-      "num": 558,
-      "title": "Top 50 toàn trường và Nhãn Hài mới"
-    },
-    {
-      "num": 559,
-      "title": "Ta không nói thì thế gian sao biết ta có chứng nhận quân sự luyện khí?"
-    },
-    {
-      "num": 560,
-      "title": "Đám Thiên Yêu tới ăn chực"
-    },
-    {
-      "num": 561,
-      "title": "Mượn dùng con rối"
-    },
-    {
-      "num": 562,
-      "title": "Hợp đồng đối đánh"
-    },
-    {
-      "num": 563,
-      "title": "Đây thực sự là cuộc sống của sinh viên đại học sao?"
-    },
-    {
-      "num": 564,
-      "title": "Đại chuyên ngộ đạo (Cảm ơn ‘Quế Hoa Dữ Tửu’ đã trở thành minh chủ)"
-    },
-    {
-      "num": 565,
-      "title": "Sắp xếp trước giải đấu"
-    },
-    {
-      "num": 566,
-      "title": "Thâm nhập tông môn?"
-    },
-    {
-      "num": 567,
-      "title": "Hắc Ám Luân Hồi Giới"
-    },
-    {
-      "num": 568,
-      "title": "Bán pháp hài hàng hiệu bình dân (Cảm ơn ‘Nhâm Ngọ Đinh Mùi Canh Thìn Bính Tý’ đã tặng 15 minh chủ)"
-    },
-    {
-      "num": 569,
-      "title": "Từ Cực quá cưng chiều tên đồ đệ này rồi"
-    },
-    {
-      "num": 570,
-      "title": "Vậy còn cần những giám khảo như chúng ta làm gì?"
-    },
-    {
-      "num": 571,
-      "title": "Livestream và video và thiết kế theo đề bài"
-    },
-    {
-      "num": 572,
-      "title": "Bản thiết kế hoàn tất, Thử nghiệm mô phỏng (Cảm ơn ‘Mộc Bạch Kim Ngọc’ đã ủng hộ Phúc Cơ đồng nghiệp thành Minh chủ)"
-    },
-    {
-      "num": 573,
-      "title": "Xứng đáng là hạng nhất trăm trường (Cầu vé tháng)"
-    },
-    {
-      "num": 574,
-      "title": "Bảo bối của Từ Cực (Cảm ơn ‘Xà Bì Nhị Đại Cơ’ đã tặng thưởng minh chủ)"
-    },
-    {
-      "num": 575,
-      "title": "Top 20 tại đây, ai dám bắt ta?"
-    },
-    {
-      "num": 576,
-      "title": "Kinh nghiệm của Từ Cực (Cảm ơn ‘Tha Triều Nhược Thị Đồng Lâm Tuyết Cao’ đã tặng thưởng minh chủ)"
-    },
-    {
-      "num": 577,
-      "title": "Tân Cực Tình Kiếm Đạo (Cảm ơn ‘Kim Thiên Như Thử’ một lần nữa đã tặng thưởng minh chủ)"
-    },
-    {
-      "num": 578,
-      "title": "Phiên bản mới nhất của 《Thiên Địa Hoại Kiếp Vô Hình Tâm Binh》"
-    },
-    {
-      "num": 579,
-      "title": "Phương pháp đơn giản và hiệu quả nhất để đối phó với virus Song Hưu"
-    },
-    {
-      "num": 580,
-      "title": "Sao có thể là tăng lương?"
-    },
-    {
-      "num": 581,
-      "title": "Kỳ thị? Đi mà nói chuyện với Thái Hạo Thánh Luật phi kiếm của ta ấy!"
-    },
-    {
-      "num": 582,
-      "title": "Khá khen cho nghiệt súc! Dám thi công bừa bãi!"
-    },
-    {
-      "num": 583,
-      "title": "Ngăn chặn Trương Vũ"
-    },
-    {
-      "num": 584,
-      "title": "Cú chặn kinh thiên (Cảm ơn ‘Thư hữu 150617214954387’ đã ủng hộ)"
-    },
-    {
-      "num": 585,
-      "title": "Trương Vũ, cậu là người tôi tin nhất (Bạch Chân Chân tặng tất lụa trở thành Minh chủ)"
-    },
-    {
-      "num": 586,
-      "title": "Vẫn là thích dáng vẻ kiêu ngạo bất tuân lúc trước của ngươi hơn"
-    },
-    {
-      "num": 587,
-      "title": "Điều chuyển xuống cao đẳng, khu vực bình luận bị yêu tộc công chiếm"
-    },
-    {
-      "num": 588,
-      "title": "Thiết lập hình tượng kỳ thị yêu tộc cũng có điểm hay"
-    },
-    {
-      "num": 589,
-      "title": "Tiểu hữu, cứu tôi!"
-    },
-    {
-      "num": 590,
-      "title": "Thể thức thi đấu Liên giải, tranh đoạt suất tham dự (Cảm ơn 'Pháp sư của Lathander' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 591,
-      "title": "Sự kết hợp giữa Xây dựng và Phi kiếm liệu có triển vọng? (Cảm ơn ‘Hàm Chiếu Duyên’ đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 592,
-      "title": "Hợp tác với Bắc Vô Phong"
-    },
-    {
-      "num": 593,
-      "title": "Tiềm lực tiên đạo tăng vọt"
-    },
-    {
-      "num": 594,
-      "title": "Đứt lương yêu"
-    },
-    {
-      "num": 595,
-      "title": "Đặt chỗ quảng cáo trước trận đấu"
-    },
-    {
-      "num": 596,
-      "title": "Bạn chắc chắn muốn chọn cô ấy sao?"
-    },
-    {
-      "num": 597,
-      "title": "Đến lục địa nổi, Cuồng Thiên Khuynh"
-    },
-    {
-      "num": 598,
-      "title": "Gặp lại Bạch Chân Chân"
-    },
-    {
-      "num": 599,
-      "title": "Đạo Tạng"
-    },
-    {
-      "num": 600,
-      "title": "Quy tắc, Phong bão"
-    },
-    {
-      "num": 601,
-      "title": "Song kiếm hợp bích, tận hưởng ân tứ (Chương bốn nghìn chữ)"
-    },
-    {
-      "num": 602,
-      "title": "Nuốt xuống tiên tra, nội trắc công pháp (Cảm ơn ‘maleimalei’ đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 603,
-      "title": "Cuồng Thiên Khuynh! Ta phải giết ngươi a!!!"
-    },
-    {
-      "num": 604,
-      "title": "Chân Chân phi kiếm"
-    },
-    {
-      "num": 605,
-      "title": "Là ngươi thua"
-    },
-    {
-      "num": 606,
-      "title": "Xếp hạng giá trị quảng cáo"
-    },
-    {
-      "num": 607,
-      "title": "Trận đấu đồng đội, cơ hội để kẻ yếu nuốt chửng kẻ mạnh"
-    },
-    {
-      "num": 608,
-      "title": "Chiến trường phù hợp với ta nhất"
-    },
-    {
-      "num": 609,
-      "title": "Ngày thứ hai của trận đấu đồng đội"
-    },
-    {
-      "num": 610,
-      "title": "Ván cược Hóa Thần"
-    },
-    {
-      "num": 611,
-      "title": "Đại hỗn chiến (Cầu vé tháng)"
-    },
-    {
-      "num": 612,
-      "title": "Cuồng Thiên Khuynh, cứ việc tận hưởng đi (Cảm ơn ‘Đạp Hạc Trảm Thận’ đã donate Minh chủ)"
-    },
-    {
-      "num": 613,
-      "title": "Sức mạnh của mọi người (Chương 5100 chữ, 2 chương 8200, cầu phiếu tháng)"
-    },
-    {
-      "num": 614,
-      "title": "Cái xác cứng nhất (Cảm ơn bạn đọc 2021092711324876 đã donate Minh chủ)"
-    },
-    {
-      "num": 615,
-      "title": "Trương Vũ đồng học, cậu có điều gì muốn nói không (Cầu vé tháng)"
-    },
-    {
-      "num": 616,
-      "title": "Tôi muốn đưa Đạo Càn Khôn lên ngai vàng"
-    },
-    {
-      "num": 617,
-      "title": "Đây mới là cường chiêu thực sự (Cầu phiếu tháng)"
-    },
-    {
-      "num": 618,
-      "title": "Video xem càng nhiều ngưỡng kích thích càng cao"
-    },
-    {
-      "num": 619,
-      "title": "Đạo chủng của Đạo Càn Khôn"
-    },
-    {
-      "num": 620,
-      "title": ""
-    },
-    {
-      "num": 621,
-      "title": "Qua đây đi, Trương Vũ"
-    },
-    {
-      "num": 622,
-      "title": "Trương Vũ bị mọi người dòm ngó"
-    },
-    {
-      "num": 623,
-      "title": ""
-    },
-    {
-      "num": 624,
-      "title": "Phồn trịnh yêu thú"
-    },
-    {
-      "num": 625,
-      "title": "Vạn đạo kiếm khí xông Lăng Tiêu, trảm khai hỗn độn kiến thanh thiên (Chương bốn nghìn chữ)"
-    },
-    {
-      "num": 626,
-      "title": "Hàng Long"
-    },
-    {
-      "num": 627,
-      "title": "Đệ nhất chạy trốn thực sự (4500 hai chương tổng cộng 7900)"
-    },
-    {
-      "num": 628,
-      "title": "Tranh cãi Top search"
-    },
-    {
-      "num": 629,
-      "title": "《Vạn Cổ Trường Xuân Kinh》"
-    },
-    {
-      "num": 630,
-      "title": "Yêu Thánh Vạn Biến Thần Kinh, gấp! Gấp! Gấp!"
-    },
-    {
-      "num": 631,
-      "title": "Đạo chủng của Đạo ca (Cầu vé tháng)"
-    },
-    {
-      "num": 632,
-      "title": "Đám tang"
-    },
-    {
-      "num": 633,
-      "title": "Đại biến cục chưa từng có trong vạn năm"
-    },
-    {
-      "num": 634,
-      "title": "Đại học Vạn Pháp, Trương Vũ thắng!"
-    },
-    {
-      "num": 635,
-      "title": "Rồng, linh căn, thi thân"
-    },
-    {
-      "num": 636,
-      "title": "Tập đoàn Luân Hồi"
-    },
-    {
-      "num": 637,
-      "title": "Livestream, trò chuyện, khai chiến"
-    },
-    {
-      "num": 638,
-      "title": "Làm cho yêu duệ vĩ đại trở lại"
-    },
-    {
-      "num": 639,
-      "title": "Trận chiến phạt đơn"
-    },
-    {
-      "num": 640,
-      "title": "Tám cường (Cảm ơn ‘1kWh Ánh Trăng’ đã chuyển khoản cho Trương Vũ 10 lần)"
-    },
-    {
-      "num": 641,
-      "title": "Đối đánh bản quyền, khai chiến"
-    },
-    {
-      "num": 642,
-      "title": "Bí mật cốt lõi của khoa Tài chính"
-    },
-    {
-      "num": 643,
-      "title": "Khoa Tài chính vĩnh viễn không thể trở thành mạnh nhất (Chương này 4500 chữ)"
-    },
-    {
-      "num": 644,
-      "title": "Tôi, Cửu Thiên Lưu nguyện ý đưa cậu lên vương tọa (Cảm ơn minh chủ ‘JeremyGin’)"
-    },
-    {
-      "num": 645,
-      "title": "Bốn cường, con gái của Thất Tình"
-    },
-    {
-      "num": 646,
-      "title": "Cải tạo (Cảm ơn ‘Thiên Hành Đế Quân’ tặng Bạch Chân Chân 10 đôi tất lụa)"
-    },
-    {
-      "num": 647,
-      "title": "Pháp Giới và Cách mạng Tiên đạo"
-    },
-    {
-      "num": 648,
-      "title": "Sư tôn con ngộ rồi"
-    },
-    {
-      "num": 649,
-      "title": "Điều kiện mở khóa Đạo chủng, chiến đấu vì hàng vạn người dùng Cực Hổ"
-    },
-    {
-      "num": 650,
-      "title": "Nếu có thể được tận mắt chứng kiến, dù bị bắt đi tăng ca không công cũng đáng giá"
-    },
-    {
-      "num": 651,
-      "title": "Mặt trời Tiên đạo"
-    },
-    {
-      "num": 652,
-      "title": "Thế giới này điên rồi!!!"
-    },
-    {
-      "num": 653,
-      "title": "Sự tân sinh của Cuồng Thiên Khuynh"
-    },
-    {
-      "num": 654,
-      "title": "Đây chính là lựa chọn của Bạch Chân Chân tôi (Hai chương làm một)"
-    },
-    {
-      "num": 655,
-      "title": "Lựa chọn công pháp, Hiệu trưởng truyền công (Cảm ơn ‘L96A1’ đã thưởng minh chủ)"
-    },
-    {
-      "num": 656,
-      "title": "Hệ thống luân hồi mới (4000, hai chương tổng cộng 7100)"
-    },
-    {
-      "num": 657,
-      "title": "Chiến đấu vì điều gì"
-    },
-    {
-      "num": 658,
-      "title": "Hậu duệ Tiên nhân"
-    },
-    {
-      "num": 659,
-      "title": "Sinh viên hệ chính quy mạnh nhất (8300 chữ, hai chương hợp nhất)"
-    },
-    {
-      "num": 660,
-      "title": "Côn Khư cần Trương Vũ"
-    },
-    {
-      "num": 661,
-      "title": "Cùng lắm thì đánh cho từ tầng hai đến tầng sáu phá sản sạch sành sanh"
-    },
-    {
-      "num": 662,
-      "title": "Cổ phiếu Tiên đạo thực sự, Tổng công trình sư Pháp giới (Hai chương làm một)"
-    },
-    {
-      "num": 663,
-      "title": "Phú quý bất quy hương như cẩm y dạ hành"
-    },
-    {
-      "num": 664,
-      "title": "Áo gấm về làng 2 (Cảm ơn bạn đọc đã giúp nghĩ tiêu đề)"
-    },
-    {
-      "num": 665,
-      "title": "An An, Tinh Hỏa, ý tưởng của Thượng tông"
-    },
-    {
-      "num": 666,
-      "title": "Thế giới mới (Cầu vé tháng)"
-    },
-    {
-      "num": 667,
-      "title": "Lễ trao giải, Đảo Càn Khôn (Hai chương hợp nhất)"
-    },
-    {
-      "num": 668,
-      "title": "Đạo Càn Khôn (Hai chương hợp nhất)"
-    },
-    {
-      "num": 669,
-      "title": "Hãy phóng túng mà đột phá đi"
-    },
-    {
-      "num": 670,
-      "title": "Chứng chỉ Kim Đan, chiến tranh đại học"
-    },
-    {
-      "num": 671,
-      "title": "Đột phá Kim Đan (Hai hợp một)"
-    },
-    {
-      "num": 672,
-      "title": "Đảo Phiên Côn Luân, Kim Đan cao đẳng (Hợp)"
-    },
-    {
-      "num": 673,
-      "title": "Loạn thế giáng lâm (Hợp)"
-    },
-    {
-      "num": 674,
-      "title": "Thánh thể hoàn thành, nâng cấp kiểu bão hòa (Hợp)"
-    },
-    {
-      "num": 675,
-      "title": "Xin lỗi tôi chỉ muốn vọt lên Nguyên Anh"
-    },
-    {
-      "num": 676,
-      "title": "Tầng thứ năm hoàn toàn thất thủ (Cảm ơn 'Mộ Đông Thần Hi' đã tặng thưởng Minh chủ)"
-    },
-    {
-      "num": 677,
-      "title": "Công pháp Linh giới tối mã nguồn mở (Cảm ơn ‘Nhất Tiếu Thiên Tình’ đã tặng thưởng Minh chủ)"
-    },
-    {
-      "num": 678,
-      "title": "Chính Khí Quy Đổi, Bão Hòa Thức Hô Hoán Nguyên Anh (9400 Ba Trong Một)"
-    },
-    {
-      "num": 679,
-      "title": "太清境3级（感谢‘衡武’打赏盟主）"
-    },
-    {
-      "num": 680,
-      "title": "（5300，共8650差340多字到3章）"
-    },
-    {
-      "num": 681,
-      "title": "月球战争1（感谢‘LizOrange’打赏盟主）"
-    },
-    {
-      "num": 682,
-      "title": "月球战争2（感谢‘镇安寺铁牛’打赏盟主）"
-    },
-    {
-      "num": 683,
-      "title": "Thắng và bại, quyết định của Trương Vũ (8170)"
-    },
-    {
-      "num": 684,
-      "title": "Đáp lại niềm tin, đoạt lại mặt trời (7600)"
-    },
-    {
-      "num": 685,
-      "title": "Trùy phá thương khung (Cảm ơn \"Ngã tâm y cựu 210\" đã thưởng Minh chủ)"
-    },
-    {
-      "num": 686,
-      "title": "Tiên môn công pháp dĩ nhập trì (Cảm ơn \"Ngoan hầu lao nguyệt\" đã thưởng Minh chủ)"
-    },
-    {
-      "num": 687,
-      "title": "Phá Giới Chùy sửa chữa, điều chế Nguyên Anh"
-    },
-    {
-      "num": 688,
-      "title": "Bạn cũ ở công trường, hành tung của Trương Vũ"
-    },
-    {
-      "num": 689,
-      "title": "Trương Vũ đích Nguyên Anh? (Cảm ơn \"Lưu ly sắc đích hồi ức\" một lần nữa thưởng 23 cái Minh chủ)"
-    },
-    {
-      "num": 690,
-      "title": "Nguyên Anh của Trương Vũ! (Hợp)"
-    },
-    {
-      "num": 691,
-      "title": "Làm nổ tầng 25, Phá Giới Chùy đang cấp tốc tới đây (Cảm ơn minh chủ \"Cố Hữu Sư Tử\")"
-    },
-    {
-      "num": 692,
-      "title": "Chân Quân giá lâm (Cảm ơn bạn đọc 20220510150647963)"
-    },
-    {
-      "num": 693,
-      "title": "Linh giới sôi sục, các trường chấn động (Của minh chủ)"
-    },
-    {
-      "num": 694,
-      "title": "Từ Cực: Đứa trẻ này giống ta (Cảm ơn minh chủ \"Bách DROPTABLE\")"
-    },
-    {
-      "num": 695,
-      "title": "Hổ của Vạn Pháp, Cách mạng kỹ thuật (Hợp 6570)"
-    },
-    {
-      "num": 696,
-      "title": "Tà Thần Sách"
-    },
-    {
-      "num": 697,
-      "title": "Yêu Duệ Trương Vũ"
-    },
-    {
-      "num": 698,
-      "title": "Cường giả hội viên, nhiệm vụ hoàn thành (Hợp 7650)"
-    },
-    {
-      "num": 699,
-      "title": "Côn Khư địa hạ 19 tầng, Nguyên Anh Thánh Thể (Hợp 6620)"
-    },
-    {
-      "num": 700,
-      "title": "Hệ sinh thái không gian, Trương Vũ bị chú ý (Hợp nhất 6650 chữ)"
-    },
-    {
-      "num": 701,
-      "title": "Thanh Liên Kiếm Thai, quyết tâm của hệ tài chính (8930 chữ)"
-    },
-    {
-      "num": 702,
-      "title": "Kiếm thai nâng cấp, nghĩa phụ (Ba chương, 9500 cầu nguyệt phiếu)"
-    },
-    {
-      "num": 703,
-      "title": "Bảo vệ Chúc Dực nhà ta (Cảm ơn \"Tiểu Đao 1905\" đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 704,
-      "title": "Thắng! (Cầu vé tháng, hai chương kém hơn 100 chữ là tròn 8000)"
-    },
-    {
-      "num": 705,
-      "title": "Đạo hiệu của Chân Chân, nghe hiểu vỗ tay (Cảm ơn \"Lý Phó Sảnh\" đã ủng hộ Minh Chủ)"
-    },
-    {
-      "num": 706,
-      "title": "Thôn Thiên Chân Quân truyền nhân Đại Thánh (Cầu vé tháng, hôm nay tổng cộng 8500 chữ)"
-    },
-    {
-      "num": 707,
-      "title": "Nhận xét sắc sảo, đại chuyên nghịch phạt Thập Đại"
-    },
-    {
-      "num": 708,
-      "title": "Tam Giới Thập Phương Thái Hư Tuyệt Chướng cấp Nguyên Anh"
-    },
-    {
-      "num": 709,
-      "title": "Dự định của Trương Vũ (Cầu vé tháng)"
-    },
-    {
-      "num": 710,
-      "title": "Đầu ngón tay của Trương Vũ (Hợp)"
-    },
-    {
-      "num": 711,
-      "title": "Khổ cho Trảm Vân, tiếng xấu hắn gánh (Cảm ơn \"Sinh Mệnh Cầu\" đã donate Minh Chủ)"
-    },
-    {
-      "num": 712,
-      "title": "Kiếm linh công nhận (Cầu phiếu tháng, hôm nay tổng cộng 7400 chữ)"
-    },
-    {
-      "num": 713,
-      "title": "Sự thay đổi mà Trương Vũ mang lại, Thiên Đình đếm ngược (7600)"
-    },
-    {
-      "num": 714,
-      "title": "Đạo chủng thăng cấp, đặc cách Trúc Cơ, quyết chiến mở màn (7130)"
-    },
-    {
-      "num": 715,
-      "title": "Song sư truyền công (Cảm ơn \"Đổi cái tên mất một trăm tệ\" đã thưởng cho minh chủ)"
-    },
-    {
-      "num": 716,
-      "title": "Liên phá thương khung (Cảm ơn \"Thời Thiên Sứ Tìm Hiểu Một Chút\" đã thưởng cho minh chủ)"
-    },
-    {
-      "num": 717,
-      "title": "Trương Vũ xuất quan, đám tang"
-    },
-    {
-      "num": 718,
-      "title": "Đám tang Côn Khư, Trương Vũ khống chế hiện trường"
-    },
-    {
-      "num": 719,
-      "title": "Là người hay là tiên?"
-    },
-    {
-      "num": 720,
-      "title": "Thần hạ bất bại (Hôm nay tổng cộng ba chương 9000 chữ, cầu nguyệt phiếu)"
-    },
-    {
-      "num": 721,
-      "title": "Liên lạc mười trường, Chuẩn Hóa Thần?"
-    },
-    {
-      "num": 722,
-      "title": "Đếm ngược phá thiên, nghịch hút Hóa Thần (7260, viết thêm 1200 chữ)"
-    },
-    {
-      "num": 723,
-      "title": ""
-    },
-    {
-      "num": 724,
-      "title": "Ba lần gặp Trương Vũ, công pháp đen của Tiên môn (7170, viết thêm 1100 chữ)"
-    },
-    {
-      "num": 725,
-      "title": "Kế hoạch tàn sát"
-    },
-    {
-      "num": 726,
-      "title": "Di sản bùng cháy (Cảm ơn 'Ngự Pháp Giả' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 727,
-      "title": "Chân Quân đặc phê, Tiền tới! (Tăng thêm 1690 chữ)"
-    },
-    {
-      "num": 728,
-      "title": "Tiền phá thương khung! (Thiếu hơn 700 chữ là đủ ba chương, cảm ơn \"Trạch Thái\" đã thưởng Minh chủ Bạc)"
-    },
-    {
-      "num": 729,
-      "title": "Phù thiên chi khuynh (Hợp)"
-    },
-    {
-      "num": 730,
-      "title": "Quỳ xuống (Cầu nguyệt phiếu, thiếu hơn 400 chữ là đủ 8000)"
-    },
-    {
-      "num": 731,
-      "title": "Chân Quân hắn không giống (Hợp, cảm ơn 'Thụ Mục Thâm Sơn Triều' đã ủng hộ Minh chủ)"
-    },
-    {
-      "num": 732,
-      "title": ""
-    },
-    {
-      "num": 733,
-      "title": "Thiên Tru Chi Cục (Ba chương, 9200 chữ cầu nguyệt phiếu)"
-    },
-    {
-      "num": 734,
-      "title": "Bại Thôn Thiên"
-    },
-    {
-      "num": 735,
-      "title": "Đại Thánh công pháp mới"
-    },
-    {
-      "num": 736,
-      "title": "Phân thân tu hành, trực diện Tà Thần"
-    },
-    {
-      "num": 737,
-      "title": "Phỏng vấn kết thúc, phá đồ mà ra"
-    },
-    {
-      "num": 738,
-      "title": "Sư phụ, con đến rồi (Bổ sung 1500)"
-    },
-    {
-      "num": 739,
-      "title": "Thiên tai Trương Vũ (Bổ sung 1300)"
-    },
-    {
-      "num": 740,
-      "title": "Dùng một đấu trăm, chiến Trảm Tiên"
-    },
-    {
-      "num": 741,
-      "title": "Tôi của hiện tại, mạnh hơn anh"
-    },
-    {
-      "num": 742,
-      "title": "Bại Trảm Tiên, phệ tà thần"
-    },
-    {
-      "num": 743,
-      "title": "Tu Thiên (Cầu vé tháng)"
-    },
-    {
-      "num": 744,
-      "title": "Bách ức bổ thiên (Cộng thêm 1140, ngày cuối tháng này có thể đặt trước nguyệt phiếu bảo底)"
-    },
-    {
-      "num": 745,
-      "title": ""
-    },
-    {
-      "num": 746,
-      "title": "Người nghèo nhất lịch sử, hắn mới là thần (Hôm nay 6210)"
-    },
-    {
-      "num": 747,
-      "title": "Thiên đình giáng lâm (Hôm nay tổng cộng 9600 chữ 3 chương, cầu phiếu tháng)"
-    },
-    {
-      "num": 748,
-      "title": ""
-    },
-    {
-      "num": 749,
-      "title": "Tiền khả thông thần (Cảm ơn \"Thiên Mệnh Chi Thượng SSR\" đã ủng hộ Bạch Kim Minh)"
-    },
-    {
-      "num": 750,
-      "title": "Bách ức Phù Chú Chủ"
-    },
-    {
-      "num": 751,
-      "title": "Vị trí tông môn (Cảm ơn \"Con nghiện Goblin\" đã tặng Bạch Chân Chân 10 đôi tất chân)"
-    },
-    {
-      "num": 752,
-      "title": "Cơn sốt thi tông (Cảm ơn minh chủ \"Con nghiện Goblin 20241109130011914\")"
-    },
-    {
-      "num": 753,
       "title": "Mỗi người trổ tài"
     },
     {
+      "num": 430,
+      "title": "Kết thúc kỳ thi, giàu lên sau một đêm (cầu vé tháng)"
+    },
+    {
+      "num": 431,
+      "title": "Diệu dụng của Tiểu Tam Hợp"
+    },
+    {
+      "num": 432,
+      "title": "Bắt đầu thi Chứng chỉ quân sự (cầu vé tháng)"
+    },
+    {
+      "num": 433,
+      "title": "Thông báo về hoạt động bốc thăm trúng thưởng vé tháng đầu tháng 6 (tối nay)"
+    },
+    {
+      "num": 434,
+      "title": "Quỳnh Tương Tệ tăng giá chóng mặt"
+    },
+    {
+      "num": 435,
+      "title": "Thủ tháp?"
+    },
+    {
+      "num": 436,
+      "title": "Phong tục Thổ Mộc, thế công liên miên"
+    },
+    {
+      "num": 437,
+      "title": "Mỗi người một tài năng, đột phá trong chiến đấu"
+    },
+    {
+      "num": 438,
+      "title": "Thần quân đại hôn (Cảm ơn minh chủ 『Không Làm Người JO Thái Lang』)"
+    },
+    {
+      "num": 439,
+      "title": "Ai có thể thắng ta?"
+    },
+    {
+      "num": 440,
+      "title": "Chiến thiên đấu địa"
+    },
+    {
+      "num": 441,
+      "title": "Cao thấp đã phân"
+    },
+    {
+      "num": 442,
+      "title": "Chuyên gia bình luận"
+    },
+    {
+      "num": 443,
+      "title": "Báo cáo lên Thiên Đình"
+    },
+    {
+      "num": 444,
+      "title": "Không nhịn được khẽ hừ (Cảm ơn 『Phong Hỏa Liên』 đã hào phóng tặng quà Minh chủ)"
+    },
+    {
+      "num": 445,
+      "title": "Chọn lựa đạo sư, lộ trình tương lai"
+    },
+    {
+      "num": 446,
+      "title": "Ký hợp đồng"
+    },
+    {
+      "num": 447,
+      "title": "Công bố chứng chỉ quân sự"
+    },
+    {
+      "num": 448,
+      "title": "Nhớ kỹ đừng lan truyền bừa bãi, tin tức lan truyền chóng mặt"
+    },
+    {
+      "num": 449,
+      "title": "Trao tặng chứng chỉ quân sự"
+    },
+    {
+      "num": 450,
+      "title": "Lời hẹn ước chân thật"
+    },
+    {
+      "num": 451,
+      "title": "Gặp lại Vương tổng, chiến đấu với Bình Hãn"
+    },
+    {
+      "num": 452,
+      "title": "Trương Vũ, cậu dựa vào cái gì mà đấu với tôi? (Cảm ơn 『Vương Tử』 đã tặng thưởng minh chủ)"
+    },
+    {
+      "num": 453,
+      "title": "Mau bại trận đi (Cầu vé tháng)"
+    },
+    {
+      "num": 454,
+      "title": "Cho ta bại đi (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 455,
+      "title": "Người thắng đã thắng, kẻ bại không bại"
+    },
+    {
+      "num": 456,
+      "title": "Được truyền thụ tứ tuyệt (Cảm ơn 『Nghiện Cờ Tự Hành ing』 đã tặng Bạch Chân Chân 10 đôi tất dài)"
+    },
+    {
+      "num": 457,
+      "title": "Bão tố tài chính"
+    },
+    {
+      "num": 458,
+      "title": "Được truyền thụ ngũ tuyệt (Cảm ơn 『Ái Thượng fiji』 đã tặng Bạch Chân Chân 10 đôi tất dài)"
+    },
+    {
+      "num": 459,
+      "title": "Cơ hội bảy tuyệt, làn sóng bài trí tuệ"
+    },
+    {
+      "num": 460,
+      "title": "Giảng dạy đặc sắc của Kim Hà Đại Học"
+    },
+    {
+      "num": 461,
+      "title": "Vụ nổ tại câu lạc bộ"
+    },
+    {
+      "num": 462,
+      "title": "Kim Cương Đại Học trong mười trường đứng đầu"
+    },
+    {
+      "num": 463,
+      "title": "Đảo ngược Côn Lôn (6/6)"
+    },
+    {
+      "num": 464,
+      "title": "Không bại mà bại, không thắng mà thắng"
+    },
+    {
+      "num": 465,
+      "title": "Thiên Côn Lôn Di Sơn Thần Lực"
+    },
+    {
+      "num": 466,
+      "title": "Tổng Vương"
+    },
+    {
+      "num": 467,
+      "title": "Trương tổng"
+    },
+    {
+      "num": 468,
+      "title": "Tổng Phúc (Cảm ơn 『Mạch Khắc A Sắt』 đã tặng Minh chủ)"
+    },
+    {
+      "num": 469,
+      "title": "Khoa Luyện khí biển rộng trời cao, tái chiến Kim Cương"
+    },
+    {
+      "num": 470,
+      "title": "Hiệu trưởng tới cũng không thoát được (Cảm ơn 'Vi Mang Nhất Giác' đã là minh chủ)"
+    },
+    {
+      "num": 471,
+      "title": "Trương Vũ đấu Thiền Dung"
+    },
+    {
+      "num": 472,
+      "title": "Trương Vũ đấu Thiền Dung"
+    },
+    {
+      "num": 473,
+      "title": "Trương Vũ túi tiền căng phồng"
+    },
+    {
+      "num": 474,
+      "title": "Thái Thanh Phù Lục cấp 2"
+    },
+    {
+      "num": 475,
+      "title": "Giải mã Âm Khí, song bằng đại học"
+    },
+    {
+      "num": 476,
+      "title": "Tối ưu chi phí công ty, tham gia dự án thí nghiệm trọng điểm"
+    },
+    {
+      "num": 477,
+      "title": "Độ tương thích nổ bảng?"
+    },
+    {
+      "num": 478,
+      "title": "Sự ưu ái của khí linh"
+    },
+    {
+      "num": 479,
+      "title": "Đột phá tại chỗ"
+    },
+    {
+      "num": 480,
+      "title": "Tốc độ của Ngọc Tinh Hàn"
+    },
+    {
+      "num": 481,
+      "title": "Nhận được sự quan tâm"
+    },
+    {
+      "num": 482,
+      "title": "Đại tiên duyên tới rồi (Cảm ơn 『Trạc Yêu』 đã tặng Minh chủ)"
+    },
+    {
+      "num": 483,
+      "title": "Thánh thể của Trương Vũ, cập bến Thiên Kiếm Đại Học"
+    },
+    {
+      "num": 484,
+      "title": "Phong vân dần nổi"
+    },
+    {
+      "num": 485,
+      "title": "Cuộc hẹn của Trương Vũ"
+    },
+    {
+      "num": 486,
+      "title": "Tôi đến không đúng lúc à? (Cảm ơn 『Ma Ma Địa Lạt』 đã tặng 10 đôi tất dài cho Bạch Chân Chân)"
+    },
+    {
+      "num": 487,
+      "title": "Trao đổi và thi đấu"
+    },
+    {
+      "num": 488,
+      "title": "Đất đá cũng có thể hóa giao long (Cảm ơn 『Huyền Nguyên Thanh Hoàn』 đã buff cho Phúc Cơ trở thành minh chủ)"
+    },
+    {
+      "num": 489,
+      "title": "Đột phá ngay tại trận (Cảm ơn 『Cá Mặn Số Một』 đã chuyển rất nhiều tiền cho Trương Vũ trở thành minh chủ)"
+    },
+    {
+      "num": 490,
+      "title": "Ngòi nổ chiến tranh? (Cảm ơn 『Tử Tang Lăng Phong』 đã tặng 10 đôi tất cho Bạch Chân Chân)"
+    },
+    {
+      "num": 491,
+      "title": "Buông cái tay đầy mùi thổ mộc của ngươi ra! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 492,
+      "title": "Thổ mộc thật sự có thể xuất hiện giao long! (Cảm ơn 『Cửu Cửu Cửu Nhị Thất』 đã tặng 10 đôi tất cho Bạch Chân Chân)"
+    },
+    {
+      "num": 493,
+      "title": "Lời cảnh báo và linh căn (Cầu vé tháng)"
+    },
+    {
+      "num": 494,
+      "title": "Thông báo hoạt động bốc thăm trúng thưởng vé tháng đầu tháng 7 (tối nay)"
+    },
+    {
+      "num": 495,
+      "title": "Được quan tâm sát sao (Cảm ơn 『2～12ký tự』 đã thưởng Minh chủ)"
+    },
+    {
+      "num": 496,
+      "title": "Thần linh căn và lệnh phong tỏa (Cầu vé tháng)"
+    },
+    {
+      "num": 497,
+      "title": "Gián điệp trường học (Cảm ơn 『Nickname Này Tôi Nghĩ Trước Khi Ngủ』 đã thưởng Minh chủ)"
+    },
+    {
+      "num": 498,
+      "title": "Đối đầu trước mặt thần quân (Cảm ơn 『Cuồng Loạn Dạ Vị Ương』 đã nhét cho Trương Vũ một đống \"cơm chó\")"
+    },
+    {
+      "num": 499,
+      "title": "Nàng không giống vậy (Cảm ơn wdd99 đã tặng bùa hảo cảm, gửi tiền, gửi tất cho Trương Vũ để thành Minh chủ)"
+    },
+    {
+      "num": 500,
+      "title": "Cậu ta không giống vậy (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 501,
+      "title": "Hóa Thần giáng lâm (Cảm ơn 『Anh Đình Kiến Nguyệt』 đã donate Minh chủ)"
+    },
+    {
+      "num": 502,
+      "title": "Đôi bên cùng có lợi (Cảm ơn 『A Gia Sa』 đã donate Minh chủ)"
+    },
+    {
+      "num": 503,
+      "title": "Giá trị của việc kéo dài tuổi thọ (Cảm ơn 『Thanh Vi Tiên Nhân』 đã khen thưởng minh chủ)"
+    },
+    {
+      "num": 504,
+      "title": "Di Sơn Lực Sĩ (Cảm ơn 『Áp Tiên Tề Thiên』 đã tặng Minh chủ)"
+    },
+    {
+      "num": 505,
+      "title": "Đạo nhái và xác sống (Cảm ơn 『Bác Sĩ Búa Cứu Người』 đã tặng Minh chủ)"
+    },
+    {
+      "num": 506,
+      "title": "Cực Hổ tốt như vậy sao lại bị coi thường (Cầu vé tháng)"
+    },
+    {
+      "num": 507,
+      "title": "Thanh toán chi phí và chuẩn bị chuyển hệ (Cảm ơn 『A Lị Ai Đế』 đã tặng Minh chủ)"
+    },
+    {
+      "num": 508,
+      "title": "Người thừa kế của Đại Thánh 4 (Cầu vé tháng)"
+    },
+    {
+      "num": 509,
+      "title": "Bản tâm chân thật, ý chí của Đại Thánh (Cảm ơn 'Quá Lộ Xứng Tử' đã tặng minh chủ)"
+    },
+    {
+      "num": 510,
+      "title": "Thuế nhân giống và mối dây liên kết (Cảm ơn 'Mặc Kỳ Sâm' đã tặng minh chủ)"
+    },
+    {
+      "num": 511,
+      "title": "Tu Di Sơn Vương Kinh (Cảm ơn 'Âm Nguyệt' đã trở thành minh chủ)"
+    },
+    {
+      "num": 512,
+      "title": "Thất bại (Cảm ơn 'Ngón Tay Bốc Cháy' đã trở thành minh chủ)"
+    },
+    {
+      "num": 513,
+      "title": "Sinh viên khoa Thổ Mộc? Ông nội ngành Luyện Khí! (Cảm ơn 'Lang Tài' vì đã nạp tiền mua bùa và gửi tặng Trương Vũ tất vớ)"
+    },
+    {
+      "num": 514,
+      "title": "Sinh viên khoa Thổ Mộc mạnh nhất (Cảm ơn 'Độc Cô Thất Dạ' đã thưởng minh chủ)"
+    },
+    {
+      "num": 515,
+      "title": "Quán quân Thổ Mộc (Cảm ơn 'Phẩm Chất Im Lặng Là Vàng' đã chuyển khoản cho Trương Vũ 10 lần)"
+    },
+    {
+      "num": 516,
+      "title": "Ở lại khoa Thổ Mộc? Hay chuyển khoa? (Cảm ơn 'Thần Thông Đại Hùng' đã thưởng minh chủ)"
+    },
+    {
+      "num": 517,
+      "title": "Khoa Tài chính tranh người (Cảm ơn 'Anh Thưing' đã thưởng minh chủ)"
+    },
+    {
+      "num": 518,
+      "title": "Tài chính là tài chính, vạn pháp là vạn pháp (Cảm ơn 『Tiểu Mặc Chăm Kiếm Tiền』 đã tặng thưởng minh chủ)"
+    },
+    {
+      "num": 519,
+      "title": "Các người bắt đầu từ khi nào? (Cảm ơn 『Tương sipid』 đã tặng thưởng minh chủ)"
+    },
+    {
+      "num": 520,
+      "title": "Sư phụ vô dụng, không bảo vệ nổi con (Cảm ơn 『Trúc Phong Vãn Huyền』 đã tặng thưởng minh chủ)"
+    },
+    {
+      "num": 521,
+      "title": "Lộ trình luyện khí, vàng trong kim đan"
+    },
+    {
+      "num": 522,
+      "title": "Tôi không giả vờ nữa, tôi là người của khoa Luyện Khí"
+    },
+    {
+      "num": 523,
+      "title": "Phi thăng khoa Luyện Khí"
+    },
+    {
+      "num": 524,
+      "title": "Điểm mô phỏng Kim đan của Trương Vũ"
+    },
+    {
+      "num": 525,
+      "title": "Ai bảo chuyển khoa thì không bằng dòng chính (Cảm ơn 'Tạ Long Khởi' đã tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 526,
+      "title": "Bảo vệ thương hiệu cá nhân (Cảm ơn 'Đăng Độ Giang Đê Phong' đã tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 527,
+      "title": "Tiếp nhận Cực Tình Kiếm Đạo (Cảm ơn '500Vua Bành Trướng Cân' đã tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 528,
+      "title": "Các người ôm cho chặt vào (Cảm ơn 『Tối Nay Ăn Gì Đây』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 529,
+      "title": "Kéo dài thành hồn tu (Cảm ơn 『Geineer』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 530,
+      "title": "Nhà có quỷ vào mà ngươi không biết sao? (Cảm ơn 『Gia Thoại』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 531,
+      "title": "Giải quyết Lôi Cực"
+    },
+    {
+      "num": 532,
+      "title": "Kỳ tài luyện khí sơ cấp (6/6)"
+    },
+    {
+      "num": 533,
+      "title": "Có chút danh tiếng (Cảm ơn 『cui vie』 đã tặng danh hiệu minh chủ)"
+    },
+    {
+      "num": 534,
+      "title": "Cạnh tranh trực diện (Cảm ơn 『J i Eun』 đã tặng danh hiệu Minh chủ)"
+    },
+    {
+      "num": 535,
+      "title": "Trò lăng xê và Cấp cao - Kỳ tài luyện khí (8/8)"
+    },
+    {
+      "num": 536,
+      "title": "Tối thượng - Kỳ tài luyện khí (10/10) (Cảm ơn 『_Lữ Khách_』 đã tặng danh hiệu Minh chủ)"
+    },
+    {
+      "num": 537,
+      "title": "Phúc Báo Xá Lợi và sự phong tỏa (Cảm ơn 『Trưởng Làng Tân Thủ Thái Pha Nhĩ』 đã tặng danh hiệu Minh chủ)"
+    },
+    {
+      "num": 538,
+      "title": "Điểm mấu chốt của Trương Vũ (Cầu vé tháng)"
+    },
+    {
+      "num": 539,
+      "title": "Ám lưu cuồn cuộn (Cảm ơn 『Lạc Diệp Phiên Phiên Hoa Hương Mãn Long』 đã tặng danh hiệu Minh chủ)"
+    },
+    {
+      "num": 540,
+      "title": "Xung đột cấp Hóa Thần, trời sập đất lún"
+    },
+    {
+      "num": 541,
+      "title": "Hồn Hoàn cùng Thiên Công Khai Vật（Cảm tạ Thủy Quá Trú Nha đã thưởng minh chủ）"
+    },
+    {
+      "num": 542,
+      "title": "Mong thầy thành rồng và trấn áp hỗn loạn"
+    },
+    {
+      "num": 543,
+      "title": "Trại tị nạn của Trương Vũ"
+    },
+    {
+      "num": 544,
+      "title": "Tình thế leo thang"
+    },
+    {
+      "num": 545,
+      "title": "Vũ Hóa Đồng Tử và lão nhân Vô Nghiệp Giáo"
+    },
+    {
+      "num": 546,
+      "title": "\"Mua sắm 0 đồng\" tại Côn Khư"
+    },
+    {
+      "num": 547,
+      "title": "Hình như ta cũng là Kim đan (Cảm ơn 'D ream3r' đã ủng hộ minh chủ)"
+    },
+    {
+      "num": 548,
+      "title": "Sự gắn kết (Cảm ơn 'Thiên Kiếp Ao Diệt' đã ủng hộ minh chủ)"
+    },
+    {
+      "num": 549,
+      "title": "Ám Linh Giới"
+    },
+    {
+      "num": 550,
+      "title": "Nhóm tội phạm nhỏ của Trương Vũ"
+    },
+    {
+      "num": 551,
+      "title": "Thanh trừng (Cảm ơn 『Dạ Cảnh Thiên』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 552,
+      "title": "Tự chọn tiên môn công pháp (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 553,
+      "title": "Bắt đầu luyện chế máy nguyên mẫu"
+    },
+    {
+      "num": 554,
+      "title": "Mùa xuân của ngành xây dựng, công ty mở rộng"
+    },
+    {
+      "num": 555,
+      "title": "Thuê trợ lý"
+    },
+    {
+      "num": 556,
+      "title": "Bước đầu thành hình"
+    },
+    {
+      "num": 557,
+      "title": "Thông báo hoạt động rút thăm trúng thưởng phiếu tháng đầu tháng 8 (tối nay)"
+    },
+    {
+      "num": 558,
+      "title": "Ai là người cản trở phía sau (Cảm ơn 『Ma Nhãn』 đã trở thành minh chủ)"
+    },
+    {
+      "num": 559,
+      "title": "Quỳ rạp xin tha"
+    },
+    {
+      "num": 560,
+      "title": "Bí mật của luân hồi và thần đạo"
+    },
+    {
+      "num": 561,
+      "title": "Thiên nhân ngũ thuế"
+    },
+    {
+      "num": 562,
+      "title": "Luyện khí thì càng nhanh càng tốt"
+    },
+    {
+      "num": 563,
+      "title": "Làm hành chính cũng có chỗ đáng khen"
+    },
+    {
+      "num": 564,
+      "title": "Đạo chủng của Dạ Tinh Ly"
+    },
+    {
+      "num": 565,
+      "title": "Báo cáo thiết bị nguyên mẫu"
+    },
+    {
+      "num": 566,
+      "title": "Con trai của Từ Cực Chân Quân?"
+    },
+    {
+      "num": 567,
+      "title": "Trao Chứng công trình luyện khí quân sự (loại Giáp)"
+    },
+    {
+      "num": 568,
+      "title": "Top 50 toàn trường và mắt Nhãn Hài mới"
+    },
+    {
+      "num": 569,
+      "title": "Tôi không nói, người đời sao biết tôi có Chứng công trình luyện khí quân sự?"
+    },
+    {
+      "num": 570,
+      "title": "Thiên Yêu đến đòi cơm ăn"
+    },
+    {
+      "num": 571,
+      "title": "Mượn dùng con rối"
+    },
+    {
+      "num": 572,
+      "title": "Hợp đồng đánh cược"
+    },
+    {
+      "num": 573,
+      "title": "Đây thật sự là cuộc sống của sinh viên cao đẳng sao?"
+    },
+    {
+      "num": 574,
+      "title": "Cao đẳng ngộ đạo"
+    },
+    {
+      "num": 575,
+      "title": "Lót tay trước cuộc thi"
+    },
+    {
+      "num": 576,
+      "title": "Thâm nhập tông môn?"
+    },
+    {
+      "num": 577,
+      "title": "Ám luân hồi giới"
+    },
+    {
+      "num": 578,
+      "title": "Bán Pháp Hài khinh xa (Cảm ơn 『Nhâm Ngọ Đinh Mùi Canh Thìn Bính...⟧"
+    },
+    {
+      "num": 579,
+      "title": "Từ Cực Chân Quân quá mức cưng chiều đồ đệ này"
+    },
+    {
+      "num": 580,
+      "title": "Vậy chúng ta đây những giám khảo này để làm gì?"
+    },
+    {
+      "num": 581,
+      "title": "Phát trực tiếp, video và bài thi thiết kế"
+    },
+    {
+      "num": 582,
+      "title": "Thiết kế bản vẽ hoàn tất, chạy thử nghiệm mô phỏng"
+    },
+    {
+      "num": 583,
+      "title": "Xứng danh đứng đầu trăm trường (Cầu vé tháng)"
+    },
+    {
+      "num": 584,
+      "title": "Bảo bối của Từ Cực Chân Quân (Cảm ơn 『Máy Đời Hai Da Rắn』 đã tặng danh hiệu minh chủ)"
+    },
+    {
+      "num": 585,
+      "title": "Top 20 ở đây, ai dám bắt ta?"
+    },
+    {
+      "num": 586,
+      "title": "Kinh nghiệm của Từ Cực Chân Quân (Cảm ơn 『Tha Triêu Nhược Thị Đồng Lâm Kem』 đã tặng danh hiệu minh chủ)"
+    },
+    {
+      "num": 587,
+      "title": "Tân Cực Tình Kiếm Đạo (Cảm ơn 『Kim Thiên Như Thử』 lại tặng danh hiệu minh chủ)"
+    },
+    {
+      "num": 588,
+      "title": "Thiên Địa Hoại Kiếp Vô Hình Tâm Binh phiên bản mới nhất"
+    },
+    {
+      "num": 589,
+      "title": "Phương pháp đối phó virus song tu đơn giản và hiệu quả nhất"
+    },
+    {
+      "num": 590,
+      "title": "Sao có thể là tăng lương chứ?"
+    },
+    {
+      "num": 591,
+      "title": "Phân biệt đối xử? Nói chuyện với Thái Hạo Thánh Luật Phi Kiếm của tôi đi!"
+    },
+    {
+      "num": 592,
+      "title": "Hay cho con nghiệt súc! Dám tùy tiện thi công!"
+    },
+    {
+      "num": 593,
+      "title": "Ngăn chặn Trương Vũ"
+    },
+    {
+      "num": 594,
+      "title": "Một lần ngăn chặn kinh thiên (Cảm ơn 『Hữu sách 150617214954387』 đã tặng)"
+    },
+    {
+      "num": 595,
+      "title": "Trương Vũ, cậu là người ta tin tưởng nhất (Bạch Chân Chân tặng tất chân thành minh chủ)"
+    },
+    {
+      "num": 596,
+      "title": "Ta vẫn thích bộ dạng ngông cuồng của cậu lúc trước hơn"
+    },
+    {
+      "num": 597,
+      "title": "Bị đày đi trường đại học chuyên nghiệp, bình luận bị yêu tộc công phá"
+    },
+    {
+      "num": 598,
+      "title": "Xây dựng hình tượng kỳ thị yêu tộc cũng có chỗ hay của nó"
+    },
+    {
+      "num": 599,
+      "title": "Tiểu hữu, cứu ta!"
+    },
+    {
+      "num": 600,
+      "title": "Thể thức thi đấu, tranh đoạt danh sách (Cảm ơn 『Pháp Sư Của Lạc Sơn Đạt』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 601,
+      "title": "Thổ mộc thêm phi kiếm có triển vọng không (Cảm ơn 『Hàm Chiếu Duyên』 đã thưởng minh chủ)"
+    },
+    {
+      "num": 602,
+      "title": "Hợp tác với Bắc Vô Phong"
+    },
+    {
+      "num": 603,
+      "title": "Tiềm năng tiên đạo bùng nổ"
+    },
+    {
+      "num": 604,
+      "title": "Nguồn lương yêu tộc đứt đoạn"
+    },
+    {
+      "num": 605,
+      "title": "Đấu thầu quảng cáo trước thềm giải đấu"
+    },
+    {
+      "num": 606,
+      "title": "Ngươi chắc chắn muốn chọn nàng sao?"
+    },
+    {
+      "num": 607,
+      "title": "Đến nơi đảo bay, Cuồng Thiên Khuynh"
+    },
+    {
+      "num": 608,
+      "title": "Gặp lại Bạch Chân Chân"
+    },
+    {
+      "num": 609,
+      "title": "Đạo tàng"
+    },
+    {
+      "num": 610,
+      "title": "Quy tắc, bão tố"
+    },
+    {
+      "num": 611,
+      "title": "Song kiếm hợp bích, hưởng thụ ân huệ (Chương 4000 chữ)"
+    },
+    {
+      "num": 612,
+      "title": "Thôn phệ tiên tra, nội trắc công pháp (Cảm ơn 『maleimalei』 đã tặng minh chủ)"
+    },
+    {
+      "num": 613,
+      "title": "Cuồng Thiên Khuynh! Ta phải giết ngươi!!!"
+    },
+    {
+      "num": 614,
+      "title": "Chân Chân phi kiếm"
+    },
+    {
+      "num": 615,
+      "title": "Là ngươi thua rồi"
+    },
+    {
+      "num": 616,
+      "title": "Xếp hạng giá trị quảng cáo"
+    },
+    {
+      "num": 617,
+      "title": "Trận đấu đồng đội, cơ hội để kẻ yếu nuốt chửng kẻ mạnh"
+    },
+    {
+      "num": 618,
+      "title": "Chiến trường phù hợp nhất với ta"
+    },
+    {
+      "num": 619,
+      "title": "Ngày thứ hai của trận đấu đồng đội"
+    },
+    {
+      "num": 620,
+      "title": "Sự kiện quay số trúng thưởng đầu tháng 9 (tối nay): Pháp bảo mặt nạ, Định Phong Châu, hũ chứa sát khí cô đặc"
+    },
+    {
+      "num": 621,
+      "title": "Đánh cược của bậc Hóa Thần"
+    },
+    {
+      "num": 622,
+      "title": "Đại hỗn chiến (cầu vé tháng)"
+    },
+    {
+      "num": 623,
+      "title": "Cuồng Thiên Khuynh, hãy tận hưởng đi (cảm ơn『Đạp Hạc Trảm⟧)"
+    },
+    {
+      "num": 624,
+      "title": "Sức mạnh của mọi người (Chương 5100 chữ, 2 chương 8200, cầu vé tháng)"
+    },
+    {
+      "num": 625,
+      "title": "Cái xác cứng nhất (Cảm tạ đạo hữu 202109271132"
+    },
+    {
+      "num": 626,
+      "title": "Bạn học Trương Vũ, bạn có gì muốn nói không? (Cầu nguyệt phiếu"
+    },
+    {
+      "num": 627,
+      "title": "Ta muốn đưa Đạo Càn Khôn lên ngai vàng"
+    },
+    {
+      "num": 628,
+      "title": "Đây mới là chiêu mạnh thực sự (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 629,
+      "title": "Video xem càng nhiều, ngưỡng giá trị càng cao"
+    },
+    {
+      "num": 630,
+      "title": "Đạo chủng của Đạo Càn Khôn"
+    },
+    {
+      "num": 631,
+      "title": "Thông báo cập nhật muộn, khoảng ba giờ chiều"
+    },
+    {
+      "num": 632,
+      "title": "Qua đây đi, Trương Vũ"
+    },
+    {
+      "num": 633,
+      "title": "Trương Vũ, mục tiêu tranh giành của mọi người"
+    },
+    {
+      "num": 634,
+      "title": "Xóa sửa một phần, cập nhật muộn"
+    },
+    {
+      "num": 635,
+      "title": "Nhân giống yêu thú"
+    },
+    {
+      "num": 636,
+      "title": "Vạn đạo kiếm khí xông lăng tiêu, chém mở hỗn độn thấy trời xanh"
+    },
+    {
+      "num": 637,
+      "title": "Hàng long"
+    },
+    {
+      "num": 638,
+      "title": "Người chạy trốn số một đích thực"
+    },
+    {
+      "num": 639,
+      "title": "Tranh cãi trên mạng"
+    },
+    {
+      "num": 640,
+      "title": "Vạn Cổ Trường Xuân Kinh"
+    },
+    {
+      "num": 641,
+      "title": "Yêu Thánh Vạn Biến Thần Kinh, gấp! gấp! gấp!"
+    },
+    {
+      "num": 642,
+      "title": "Đạo chủng của Đạo ca (Cầu vé tháng)"
+    },
+    {
+      "num": 643,
+      "title": "Tang lễ"
+    },
+    {
+      "num": 644,
+      "title": "Biến cục lớn chưa từng có trong vạn năm"
+    },
+    {
+      "num": 645,
+      "title": "Đại học Vạn Pháp, Trương Vũ thắng!"
+    },
+    {
+      "num": 646,
+      "title": "Rồng, linh căn, thi thể"
+    },
+    {
+      "num": 647,
+      "title": "Tập đoàn luân hồi"
+    },
+    {
+      "num": 648,
+      "title": "Livestream, trò chuyện, khai chiến"
+    },
+    {
+      "num": 649,
+      "title": "Khiến yêu tộc vĩ đại trở lại"
+    },
+    {
+      "num": 650,
+      "title": "Trận chiến phạt tiền"
+    },
+    {
+      "num": 651,
+      "title": "Tám người đứng đầu (Cảm ơn 『1Ánh Trăng Kilowatt Giờ』 đã chuyển khoản cho Trương Vũ 10 lần)"
+    },
+    {
+      "num": 652,
+      "title": "Đặt cược bản quyền, khai chiến"
+    },
+    {
+      "num": 653,
+      "title": "Bí mật cốt lõi hệ tài chính"
+    },
+    {
+      "num": 654,
+      "title": "Hệ tài chính vĩnh viễn không thể trở thành mạnh nhất"
+    },
+    {
+      "num": 655,
+      "title": "Ta Cửu Thiên Lưu nguyện đưa ngươi lên vương tọa"
+    },
+    {
+      "num": 656,
+      "title": "Bốn cường, con gái của Thất Tình"
+    },
+    {
+      "num": 657,
+      "title": "Cải tạo (Cảm ơn 『Thiên Hành Đế Quân』 đã tặng Bạch Chân Chân 10"
+    },
+    {
+      "num": 658,
+      "title": "Pháp Giới và cuộc cách mạng tiên đạo"
+    },
+    {
+      "num": 659,
+      "title": "Sư tôn, con đã ngộ ra rồi"
+    },
+    {
+      "num": 660,
+      "title": "Điều kiện mở khóa Đạo chủng, chiến đấu vì muôn vàn người dùng Cực Hổ"
+    },
+    {
+      "num": 661,
+      "title": "Nếu như được xem tại chỗ, dù bị bắt đi làm thêm giờ miễn phí cũng đáng"
+    },
+    {
+      "num": 662,
+      "title": "Mặt trời tiên đạo"
+    },
+    {
+      "num": 663,
+      "title": "Bạch Chân Chân đang đại diện cho Côn Khư xuất chiến, hiện đang triệu hồi người bản địa Côn Khư"
+    },
+    {
+      "num": 664,
+      "title": "Thế giới này điên rồi!!!"
+    },
+    {
+      "num": 665,
+      "title": "Sự tái sinh của Cuồng Thiên Khuynh"
+    },
+    {
+      "num": 666,
+      "title": "Đây chính là lựa chọn của Bạch Chân Chân (Hai chương gộp làm một, 6 nghìn chữ)"
+    },
+    {
+      "num": 667,
+      "title": "Quyết định công pháp, hiệu trưởng truyền đạo (Cảm ơn L96A1)"
+    },
+    {
+      "num": 668,
+      "title": "Hệ thống luân hồi mới (4000 chữ, hai chương tổng 7100 chữ)"
+    },
+    {
+      "num": 669,
+      "title": "Vì sao mà chiến"
+    },
+    {
+      "num": 670,
+      "title": "Hậu duệ tiên nhân"
+    },
+    {
+      "num": 671,
+      "title": "Sinh viên hệ chính quy mạnh nhất"
+    },
+    {
+      "num": 672,
+      "title": "Côn Khư cần Trương Vũ"
+    },
+    {
+      "num": 673,
+      "title": "Cùng lắm thì làm cho tầng hai đến tầng sáu phá sản tất cả"
+    },
+    {
+      "num": 674,
+      "title": "Tiên đạo cổ phiếu đích thực, Tổng công trình sư Pháp Giới (Hai chương gộp làm một, 6100+)"
+    },
+    {
+      "num": 675,
+      "title": "Giàu sang không về quê, như mặc gấm đi đêm"
+    },
+    {
+      "num": 676,
+      "title": "Vinh quy bái tổ (2) (Cảm ơn đạo hữu đã giúp nghĩ tiêu đề)"
+    },
+    {
+      "num": 677,
+      "title": "An An, Tinh Hỏa Chân Nhân, suy nghĩ của Thượng Tông"
+    },
+    {
+      "num": 678,
+      "title": "Thế giới mới (Cầu vé tháng)"
+    },
+    {
+      "num": 679,
+      "title": "Lễ trao giải, đảo ngược càn khôn (Hai chương gộp một)"
+    },
+    {
+      "num": 680,
+      "title": "Rút thăm vé tháng đầu tháng 10 (Tối nay): Vạn Đạo Tượng Tông pháp hài, va li tùy chỉnh"
+    },
+    {
+      "num": 681,
+      "title": "Đạo Càn Khôn (Hai chương gộp một, 6200+)"
+    },
+    {
+      "num": 682,
+      "title": "Cứ thoải mái mà đột phá đi"
+    },
+    {
+      "num": 683,
+      "title": "Giấy phép Kim đan, đại chiến đại học"
+    },
+    {
+      "num": 684,
+      "title": "Đột phá Kim đan (Hai chương gộp một, 6170)"
+    },
+    {
+      "num": 685,
+      "title": "Đảo lộn Côn Lôn, đại học Kim Đan (gộp hai chương, 6500)"
+    },
+    {
+      "num": 686,
+      "title": "Loạn thế giáng lâm (gộp hai chương, 6500)"
+    },
+    {
+      "num": 687,
+      "title": "Thánh thể hoàn thành, nâng cấp kiểu bão hòa (gộp hai chương)"
+    },
+    {
+      "num": 688,
+      "title": "Xin lỗi, ta chỉ muốn đột phá Nguyên Anh (gộp 6100 chữ)"
+    },
+    {
+      "num": 689,
+      "title": "Tầng thứ năm thất thủ hoàn toàn (cảm ơn『Mộ Đông Thần Hi』)"
+    },
+    {
+      "num": 690,
+      "title": "Khai nguồn công pháp ở Ám Linh Giới (cảm ơn『Nhất Tiếu Thiên Tình』)"
+    },
+    {
+      "num": 691,
+      "title": "Đổi chính khí, gọi hồn Nguyên Anh kiểu bão hòa (9400 chữ)"
+    },
+    {
+      "num": 692,
+      "title": "Thái Thanh Cảnh cấp 3 (Cảm ơn 『Hành Võ』 đã tặng thưởng minh chủ)"
+    },
+    {
+      "num": 693,
+      "title": "(5300, tổng 8650 thiếu 340 chữ là tới 3 chương)"
+    },
+    {
+      "num": 694,
+      "title": "Chiến tranh Mặt Trăng (1) (Cảm ơn 『Liz Orange』 đã tặng thưởng)"
+    },
+    {
+      "num": 695,
+      "title": "Chiến tranh Mặt Trăng (2) (Cảm ơn 『Trấn An Tự Thiết Ngưu』 đã thưởng)"
+    },
+    {
+      "num": 696,
+      "title": "Thắng và bại, quyết định của Trương Vũ (Hợp nhất 8170)"
+    },
+    {
+      "num": 697,
+      "title": "Đáp lại lòng tin, đoạt lại mặt trời (Hợp nhất 7600)"
+    },
+    {
+      "num": 698,
+      "title": "Chùy phá thương khung (Cảm ơn Ngã Tâm Y Cựu 210 đã hào phóng tặng quà)"
+    },
+    {
+      "num": 699,
+      "title": "Công pháp tiên môn đã vào hồ (Cảm ơn 「Ngoan Hầu Lao Nguyệt」)"
+    },
+    {
+      "num": 700,
+      "title": "Sửa chữa Phá Giới Chùy, điều chế Nguyên Anh (Hợp nhất 6300)"
+    },
+    {
+      "num": 701,
+      "title": "Người quen cũ ở công trường, tung tích của Trương Vũ"
+    },
+    {
+      "num": 702,
+      "title": "Nguyên Anh của Trương Vũ? (Cảm ơn \"Lưu Ly Sắc Đích Hồi Ức\")"
+    },
+    {
+      "num": 703,
+      "title": "Nguyên Anh của Trương Vũ! (Gộp 6460+)"
+    },
+    {
+      "num": 704,
+      "title": "Nổ tung tầng 2-5, Phá Giới Chùy đang tới (Gộp, cảm ơn Cố Hữu Sư Tử đã liên minh)"
+    },
+    {
+      "num": 705,
+      "title": "Chân quân giá lâm (Gộp, cảm ơn Thư hữu 20220510150647963)"
+    },
+    {
+      "num": 706,
+      "title": "Linh giới sôi sục, các trường chấn động (của minh chủ)"
+    },
+    {
+      "num": 707,
+      "title": "Từ Cực: Đứa trẻ này rất giống ta (cảm ơn minh chủ \"Bách_DROP_TABLE\")"
+    },
+    {
+      "num": 708,
+      "title": "Hổ của Vạn Pháp, cách mạng kỹ thuật (gộp 6570+)"
+    },
+    {
+      "num": 709,
+      "title": "Tà Thần Sách（gộp 6200+）"
+    },
+    {
+      "num": 710,
+      "title": "Yêu Duệ Trương Vũ（gộp 6300+）"
+    },
+    {
+      "num": 711,
+      "title": "Chiến thuật làm màu, hoàn thành nhiệm vụ (Tổng 7650+)"
+    },
+    {
+      "num": 712,
+      "title": "Tầng 19 dưới lòng đất Côn Khư, Nguyên Anh Thánh Thể"
+    },
+    {
+      "num": 713,
+      "title": "Hệ sinh thái không gian, Trương Vũ được chú ý"
+    },
+    {
+      "num": 714,
+      "title": "Thanh Liên Kiếm Thai, quyết tâm của hệ tài chính"
+    },
+    {
+      "num": 715,
+      "title": "Kiếm thai thăng cấp, nghĩa phụ (hơn ba chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 716,
+      "title": "Bảo vệ Chúc Dị nhà chúng ta (Cảm ơn 'Tiểu Đao 1905' đã thưởng minh chủ)"
+    },
+    {
+      "num": 717,
+      "title": "Bảo vệ Chúc Dị phe ta (Cảm ơn Tiểu Đao 1905 đã hào phóng tặng quà minh chủ)"
+    },
+    {
+      "num": 718,
+      "title": "Thắng! (Cầu vé tháng, hai chương chênh nhau hơn 100 chữ là đủ 8000 chữ)"
+    },
+    {
+      "num": 719,
+      "title": "Thôn Thiên Chân Quân đại thánh truyền nhân (Cầu nguyệt phiếu, hôm nay tổng 8500)"
+    },
+    {
+      "num": 720,
+      "title": "Sắc bén bình luận, cao đẳng hệ nghề ngắn phản sát mười đại (Cầu nguyệt phiếu, tổng 6400+)"
+    },
+    {
+      "num": 721,
+      "title": "Sơ tháng 11 (tối nay) rút thưởng nguyệt phiếu: Giấy báo trúng tuyển có chữ ký tay bằng vàng, gối ôm ôm trọn người mô phỏng danh hiệu người bản địa Côn Khư"
+    },
+    {
+      "num": 722,
+      "title": "Tam Giới Thập Phương Thái Hư Tuyệt Chướng cấp Nguyên Anh"
+    },
+    {
+      "num": 723,
+      "title": "Dự tính của Trương Vũ (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 724,
+      "title": "Đầu ngón tay của Trương Vũ (Cầu nguyệt phiếu, tổng 6420)"
+    },
+    {
+      "num": 725,
+      "title": "Khổ một chút cho Trảm Vân, tiếng xấu để hắn gánh (Cảm ơn «Sinh"
+    },
+    {
+      "num": 726,
+      "title": "Kiếm linh công nhận (Cầu nguyệt phiếu, hôm nay tổng 7400)"
+    },
+    {
+      "num": 727,
+      "title": "Sự thay đổi do Trương Vũ mang lại, đếm ngược Thiên Đình (7600"
+    },
+    {
+      "num": 728,
+      "title": "Đạo chủng thăng cấp, đặc phê Trúc Cơ, quyết chiến mở màn"
+    },
+    {
+      "num": 729,
+      "title": "Song sư truyền công"
+    },
+    {
+      "num": 730,
+      "title": "Liên phá thương khung"
+    },
+    {
+      "num": 731,
+      "title": "Trương Vũ xuất quan, tang lễ"
+    },
+    {
+      "num": 732,
+      "title": "Tang lễ Côn Khư, Trương Vũ khống trường"
+    },
+    {
+      "num": 733,
+      "title": "Là người hay tiên?"
+    },
+    {
+      "num": 734,
+      "title": "Bất bại dưới thần (hôm nay tổng cộng ba chương 9000 chữ, cầu vé tháng)"
+    },
+    {
+      "num": 735,
+      "title": "Liên lạc mười trường, chuẩn Hóa thần?"
+    },
+    {
+      "num": 736,
+      "title": "Đếm ngược phá trời, ngược hút Hóa thần (7260, chương thêm giờ)"
+    },
+    {
+      "num": 737,
+      "title": "Vẫn chưa vừa ý nên đang sửa, ba giờ cập nhật"
+    },
+    {
+      "num": 738,
+      "title": "Ba lần gặp Trương Vũ, công pháp hắc ám của tiên môn (7170, canh thêm)"
+    },
+    {
+      "num": 739,
+      "title": "Kế hoạch tàn sát"
+    },
+    {
+      "num": 740,
+      "title": "Di sản đang thiêu đốt (Cảm ơn 'Ngự Pháp Giả' đã tặng minh chủ)"
+    },
+    {
+      "num": 741,
+      "title": "Chân quân đặc phê, tiền tới! (Căn thêm 1690+ chữ)"
+    },
+    {
+      "num": 742,
+      "title": "Dùng tiền phá vỡ vòm trời! (Thiếu hơn 700 chữ nữa là đủ ba chương, cảm ơn «Trạch Thái» đã tặng Bạch Ngân Minh)"
+    },
+    {
+      "num": 743,
+      "title": "Chống lại tòa nhà sụp đổ (Hợp)"
+    },
+    {
+      "num": 744,
+      "title": "Quỳ xuống (Cầu vé tháng, thiếu hơn 400 chữ nữa là tròn 8000 chữ)"
+    },
+    {
+      "num": 745,
+      "title": "Chân quân hắn không giống (Hợp, cảm ơn 『Thụ Mục Sâm Sơn』)"
+    },
+    {
+      "num": 746,
+      "title": "Sửa nửa tiếng vẫn chưa xong, chỉ đành xóa bớt viết lại một phần"
+    },
+    {
+      "num": 747,
+      "title": "Cục diện thiên tru (Ba chương cộng lại, hơn 9200 chữ cầu vé tháng)"
+    },
+    {
+      "num": 748,
+      "title": "Bại Thôn Thiên"
+    },
+    {
+      "num": 749,
+      "title": "Công pháp đại thánh mới"
+    },
+    {
+      "num": 750,
+      "title": "Phân thân tu hành, trực diện tà thần (Thêm chương 1600 cảm tạ)"
+    },
+    {
+      "num": 751,
+      "title": "Phỏng vấn kết thúc, phá tranh mà ra"
+    },
+    {
+      "num": 752,
+      "title": "Sư phụ, ta đến đây (Thêm chương 1500+)"
+    },
+    {
+      "num": 753,
+      "title": "Thiên tai Trương Vũ (Thêm chương 1300+)"
+    },
+    {
       "num": 754,
-      "title": "Nước rút trước kỳ thi"
+      "title": "Lấy một địch trăm, chiến Trảm Tiên"
     },
     {
       "num": 755,
-      "title": "Sơ tuyển kết thúc, còn lại mấy phần như xưa? (Cầu vé tháng)"
+      "title": "Bản thân hiện giờ của ta, mạnh hơn ngươi (cầu nguyệt phiếu)"
     },
     {
       "num": 756,
-      "title": "Tiêu chảy bụng thực sự quá đau rồi"
+      "title": "Hạ Trảm Tiên, nuốt tà thần (cầu nguyệt phiếu)"
     },
     {
       "num": 757,
-      "title": "Phục thí (Cảm ơn \"S赎\" đã tặng Cao Sùng Quang 10 giải Oscar)"
+      "title": "Sửa trời (cầu nguyệt phiếu)"
     },
     {
       "num": 758,
-      "title": "Phục thí kết thúc"
+      "title": "Bách ức bổ thiên (Cộng thêm chương 1140, ngày cuối cùng của tháng này)"
     },
     {
       "num": 759,
-      "title": "Sự trợ giúp của Chính Thần, Vô Tướng Diễn Võ (66)"
+      "title": ""
     },
     {
       "num": 760,
-      "title": "Vô Tướng Diễn Võ chung cực, húc tung thiên môn"
+      "title": "Kẻ nghèo nhất lịch sử, hắn mới là thần"
     },
     {
       "num": 761,
-      "title": "Chín bước thành công! (Thiếu hơn 100 chữ là đủ 9000, nợ chữ hôm qua cộng lãi đã trả)"
+      "title": "Thiên đình giáng lâm"
     },
     {
       "num": 762,
-      "title": "Kẻ nghèo hèn cuối cùng húc tung Thiên Môn! (Thêm chương 1000)"
+      "title": ""
     },
     {
       "num": 763,
-      "title": "Tôi Ngọc thành Vương, mười năm đèn sách cuối cùng cũng lên bờ (Chúc mọi người thi cử thuận lợi)"
+      "title": ""
     },
     {
       "num": 764,
-      "title": "Thiên địa tán ca (Cảm ơn \"Thụ Mục Thâm Sơn Triều\" đã thưởng minh chủ)"
+      "title": "Tiền có thể thông thần (Cảm ơn «Thiên Mệnh Chi Thượng SSR» đã thưởng)"
     },
     {
       "num": 765,
-      "title": "Đạo chủng? Tiên linh căn? Ký ức luân hồi?"
+      "title": "Chủ nhân trăm tỷ phù chú"
     },
     {
       "num": 766,
-      "title": "《Thư》, Pháp Giới nghiêm ngặt (Cảm ơn \"Tiêu Dao Tiên Tri Bạch\" đã ủng hộ Minh Chủ)"
+      "title": "Hôm nay chương này đã bị cắt bỏ một phần nên chữ nghĩa sẽ hơi ít, ngày mai"
     },
     {
       "num": 767,
-      "title": "Tiên linh căn mất rồi? Ngày xuất phát (Cảm ơn \"Thí Giao Kiều Hạ Thủy Kim Tịch Đáo Tương Trung\" đã ủng hộ Minh Chủ)"
+      "title": "Con đường gia nhập tông môn (Bổ sung 1000 chữ, cảm ơn 『Húc"
     },
     {
       "num": 768,
-      "title": "Đến với tông môn"
+      "title": "Vị trí tông môn（cảm ơn 「Nghiện nặng Goblin」"
     },
     {
       "num": 769,
-      "title": "Đạo thống, diện mạo mới của tông môn"
+      "title": "Cơn sốt Khảo Tông (cảm ơn hảo hữu 20241109130011914 đã làm minh chủ)"
     },
     {
       "num": 770,
-      "title": "Thiên hạ nhân ngã nhất nhân sinh chi"
+      "title": "Các Hiển Thần Thông (hôm nay thiếu hơn 900 chữ phần sau sẽ bù)"
     },
     {
       "num": 771,
-      "title": "Thông Tuệ Phường, bài tập về nhà"
+      "title": "Vô Hạn Liên Pháp Đồ, Địa Ngục Tẩy Hồn Kinh (bổ sung 600+ chữ, còn thiếu 300+)"
     },
     {
       "num": 772,
-      "title": "Bùn nhão không trát nổi tường"
+      "title": "Nước rút trước kỳ thi (bổ sung 300 chữ, còn thiếu mấy chục chữ)"
     },
     {
       "num": 773,
-      "title": "Ngự Pháp Các tới một người trẻ tuổi"
+      "title": "Sơ thí kết thúc, còn được mấy phần như trước? (Cầu vé tháng)"
     },
     {
       "num": 774,
-      "title": "Tuổi trẻ tài cao mới vào đã muốn thăng chức rồi sao?"
+      "title": ""
     },
     {
       "num": 775,
-      "title": "Năng lực làm việc xuất sắc"
+      "title": "Phúc thí (Cảm ơn \"S Thục\" tặng Cao Sùng Quang 10 Oscar)"
     },
     {
       "num": 776,
-      "title": ""
+      "title": "Phúc thí kết thúc"
     },
     {
       "num": 777,
-      "title": ""
+      "title": "Trợ giúp của chính thần, Vô tướng diễn võ (6/6)"
     },
     {
       "num": 778,
-      "title": "Dùng sức một người cuốn chết cả tổ (Cầu phiếu tháng)"
+      "title": "Tối thượng - Vô Tướng Diễn Võ, đâm mở thiên môn"
     },
     {
       "num": 779,
-      "title": "Trên vai Trương Vũ gánh vác 3 tổ (Cảm ơn \"Nam Yến minami\" đã tặng thưởng Minh chủ)"
+      "title": "Hôm nay cập nhật ít hơn, ngày mai sẽ bù thêm"
     },
     {
       "num": 780,
-      "title": "Thăng chức, điều kiện phi thăng (Cảm ơn \"17298\" đã tặng thưởng Minh chủ)"
+      "title": "Cửu Bộ Công Thành! (Thiếu hơn 100 chữ là tròn 9000, phần chữ thiếu của hôm qua cộng thêm lãi đã trả)"
     },
     {
       "num": 781,
-      "title": "Không ai hiểu Luyện Thần Quyết hơn ta"
+      "title": "Có lẽ vẫn cần thêm một tiếng nữa"
     },
     {
       "num": 782,
-      "title": "Công pháp phong tồn, đạo thống của Ngự Pháp Các (Cầu phiếu tháng)"
+      "title": "Lập tức gia hạn thêm 20 phút"
     },
     {
       "num": 783,
-      "title": "Thay tổ trưởng mới, vậy người cũ thì sao? (Cầu phiếu tháng)"
+      "title": "Tên nghèo hèn cuối cùng phá vỡ thiên môn! (Cộng thêm 1000+ chữ)"
     },
     {
       "num": 784,
-      "title": "Kiểm tra tính thích ứng"
+      "title": "Tôi luyện ngọc thành vua, mười năm đèn sách cuối cùng cũng cập bờ (Chúc mọi người thi cử thuận lợi)"
     },
     {
       "num": 785,
-      "title": "Thăng chức"
+      "title": "Khúc tán ca của đất trời (Cảm ơn 'Thụ Mục Sâm Sơn Triều' đã thưởng minh chủ)"
     },
     {
       "num": 786,
-      "title": "Phúc lợi của tổ trưởng, tranh đoạt linh cơ"
+      "title": "Đạo chủng? Tiên linh căn? Ký ức luân hồi?"
     },
     {
       "num": 787,
-      "title": "Kẻ thù, thầy giáo, Thiên Kiếm, thẩm định Tiên Môn"
+      "title": "《Sách》, pháp giới ngặt nghèo (Cảm ơn 'Tiêu Dao Tiên Chi Bạch' đã thưởng minh chủ)"
     },
     {
       "num": 788,
-      "title": "Lời mời vào nhóm"
+      "title": "Tiên linh căn Mất Rồi? Ngày Lên Đường (Cảm ơn minh chủ Thí kiêu kiều hạ thủy kim tịch đáo Tương Trung)"
     },
     {
       "num": 789,
-      "title": "Công pháp Tiên Môn cấp Trấn Phái (Cảm ơn \"Cựu Thời Nguyệt Thượng Tại\" tặng Trương Phiên Phiên 10 cúp Oscar)"
+      "title": "Đến Tông Môn"
     },
     {
       "num": 790,
-      "title": "Nhà nghiên cứu Đại Thánh? (Cầu phiếu tháng)"
+      "title": "Đạo Thống, Khí Tượng Mới Của Tông Môn"
     },
     {
       "num": 791,
-      "title": "Đại Thánh truyền nhân, hắn ở Vạn Pháp Tông! (7200)"
+      "title": "Người Trong Thiên Hạ, Ta Một Mình Sinh Ra Bọn Họ"
     },
     {
       "num": 792,
-      "title": "Vạn Pháp Tiên Tộc (Cảm ơn \"Dạ Đích y\" đã ủng hộ Minh Chủ)"
+      "title": "Thông Huệ phường, Bài Tập Về Nhà"
     },
     {
       "num": 793,
-      "title": "Cho dù là chó của ta, cũng phải đặc sự đặc biện"
+      "title": "Bùn Nhão Không Trát Lên Tường"
     },
     {
       "num": 794,
-      "title": "Công cụ chuyên dụng của Bộ Ảnh Sơ"
+      "title": "Ngự Pháp Các Có Một Người Trẻ Tuổi"
     },
     {
       "num": 795,
-      "title": "Một ngày bằng hai tháng"
+      "title": "Mới Trẻ Tuổi Đã Vào Đã Muốn Thăng Chức Cấp Rồi Á?"
     },
     {
       "num": 796,
-      "title": ""
+      "title": "Năng Lực Làm Việc Xuất Sắc"
     },
     {
       "num": 797,
-      "title": "Ta chính là Hoang Ngưu, Đại Thánh Nghiên Cứu Giả (10/10)"
+      "title": "Lịch Thi Đấu Và Phần Thưởng"
     },
     {
       "num": 798,
-      "title": "Hoang Ngưu Đại Thánh, tiên đạo thịnh thế (Cảm ơn \"Phiền bản thân không thiên phú\" đã chuyển tiền cho Trương Vũ 10 lần)"
+      "title": "Thông báo: Lì xì bồi thường vì cập nhật muộn"
     },
     {
       "num": 799,
-      "title": "Đại Thánh!"
+      "title": "Lấy Trương Vũ làm tiêu chuẩn (Chúc mọi người năm mới vui vẻ)"
     },
     {
       "num": 800,
-      "title": "Truy tung truyền nhân Đại Thánh"
+      "title": "Dùng sức một mình cuộn chết cả tổ (Cầu nguyệt phiếu)"
     },
     {
       "num": 801,
-      "title": "Đồ Thần Chứng"
+      "title": "Trương Vũ một mình gánh vác tổ 3 (Cảm ơn \"Nam Yến minami\" đã tặng thưởng minh chủ)"
     },
     {
       "num": 802,
-      "title": "Đạo chủng cấp 5, trấn phái công thành! (còn thiếu hơn 400 chữ nữa là đủ 9000 chữ)"
+      "title": "Thăng chức, điều kiện phi Cảm ơn \"17298\" đã tặng thưởng minh chủ"
     },
     {
       "num": 803,
-      "title": ""
+      "title": "Không ai hiểu Luyện Thần Quyết hơn tôi"
     },
     {
       "num": 804,
-      "title": "Truyền nhân Đại Thánh (6/6), Đạo thống của Đại Thánh (7100)"
+      "title": "Công pháp phong tồn, đạo thống của Ngự Pháp Các (Cầu nguyệt phiếu)"
     },
     {
       "num": 805,
-      "title": "Hoảng loạn như một kẻ nghèo"
+      "title": "Đổi tổ trưởng mới, vậy còn người cũ thì sao? (Cầu nguyệt phiếu)"
     },
     {
       "num": 806,
-      "title": "Hợp thể chi thuật"
+      "title": "Kiểm tra độ thích ứng"
     },
     {
       "num": 807,
-      "title": ""
+      "title": "Thăng chức"
     },
     {
       "num": 808,
-      "title": "Trương Vũ! Ngươi đang làm cái gì?! (Cầu phiếu tháng)"
+      "title": "Phúc lợi của tổ trưởng, cướp đoạt linh cơ"
     },
     {
       "num": 809,
-      "title": "Dấu ấn của Bộ Ảnh Sơ (Cầu vé tháng)"
+      "title": "Kẻ địch, thầy giáo, Thiên Kiếm, thẩm định tiên môn"
     },
     {
       "num": 810,
-      "title": ""
+      "title": "Lời mời vào tổ"
     },
     {
       "num": 811,
-      "title": "Lựa chọn của Nhạc Mộc Lam, chức vị mới của Trương Vũ"
+      "title": "Công pháp tiên môn cấp trấn phái (Cảm ơn «Cựu Thời Nguyệt Thượng Tại»)"
     },
     {
       "num": 812,
-      "title": "Nghĩa địa Cựu Nhật, di tàng của Phục Tiên Thiên (Cảm ơn \"Thương Yên Hoa\" đã tặng thưởng Minh Chủ)"
+      "title": "Truyền nhân Đại Thánh, hắn ở Vông Pháp Tông!"
     },
     {
       "num": 813,
-      "title": "【Hậu Duệ Tiên Nhân】 Cấp 2, Truyền nhân của ta"
+      "title": "Vạn Pháp Tiên Tộc (Cảm ơn \"Dạ đích y\" đã đánh thưởng Minh chủ)"
     },
     {
       "num": 814,
-      "title": "Chiếu Hồn Động Thiên, nhận chức tại phần mộ"
+      "title": "Ngay cả chó của ta, cũng phải làm việc theo thủ tục đặc biệt"
     },
     {
       "num": 815,
-      "title": "Tiếp nhận tiên thoi, xung kích Hóa Thần"
+      "title": "Công cụ chuyên dụng của Bộ Ảnh Sơ"
     },
     {
       "num": 816,
-      "title": "Hóa Thần!"
+      "title": "Một ngày bằng hai tháng"
     },
     {
       "num": 817,
-      "title": "Biến dị công pháp, Lão Triệu, Hóa Thần đạo thể (1010)"
+      "title": "Xin nghỉ, bị cảm ba ngày rồi không chịu nổi nữa"
     },
     {
       "num": 818,
-      "title": "Đâu là chính đâu là ma? (Chương vạn chữ, cầu nguyệt phiếu)"
+      "title": "Ta chính là Hoang Ngưu, nhà nghiên cứu Đại Thánh（10/10）"
     },
     {
       "num": 819,
-      "title": "【Hậu Duệ Tiên Nhân】Cấp 3 (Cảm ơn \"Giang Thượng Ca Thanh\" đã ủng hộ Minh Chủ)"
+      "title": "Hoang Ngưu Đại Thánh, Tiên Đạo Thịnh Thế (Cảm ơn \"Phiền Mình Không Thiên Phú\" đã chuyển 10 lần tiền cho Trương Vũ)"
     },
     {
       "num": 820,
-      "title": "Trực tiếp đâm chết rồi? (7400, cầu vé tháng)"
+      "title": "Đại Thánh!"
     },
     {
       "num": 821,
-      "title": "Vô tình xông vào tiên gia (7400, cầu vé tháng)"
+      "title": "Truy lùng Truyền nhân Đại Thánh"
     },
     {
       "num": 822,
-      "title": "Thiên Ma Bà Bà giá đáo"
+      "title": "Chứng Đồ Thần"
     },
     {
       "num": 823,
-      "title": "Vô đề"
+      "title": "Đạo chủng cấp 5, trấn phái công thành! (còn thiếu hơn 400 chữ nữa là tròn 9000 chữ)"
     },
     {
       "num": 824,
-      "title": "Người đời đều là ác quỷ (7000, cầu vé tháng)"
+      "title": ""
     },
     {
       "num": 825,
-      "title": "Cầu Động Thiên, Bách Hài Dũng Chủ, kỹ thuật mới (Cảm ơn minh chủ \"Tạ Tiểu Ngư\")"
+      "title": "Truyền nhân Đại Thánh (6/6), Đạo thống của Đại Thánh (7100+)"
     },
     {
       "num": 826,
-      "title": "Dây chuyền sản xuất Động Thiên của Trương Vũ (Cảm ơn \"DannySheng\" đã tặng thưởng Minh Chủ)"
+      "title": "Hoảng hốt tựa kẻ túng thiếu"
     },
     {
       "num": 827,
-      "title": "Nhân mạch Tiên đạo, đều vì lợi mà đến, Lời nguyền tai nạn lao động (1010) (7900)"
+      "title": "Thuật hợp thể"
     },
     {
       "num": 828,
-      "title": "Nhầm tưởng là Tiên gia (Cầu vé tháng)"
+      "title": "Trương Vũ! Ngươi đang làm gì vậy?! (Cầu nguyệt phiếu)"
     },
     {
       "num": 829,
-      "title": "Diễn viên chính: Trương Vũ, Thái Chân (Cảm ơn \"Thanh Chi zl\" đã thưởng làm Minh chủ)"
+      "title": "Dấu ấn của Bộ Ảnh Sơ (Cầu nguyệt phiếu)"
     },
     {
       "num": 830,
-      "title": "Lựa chọn của Thái Chân, 【Hậu Duệ Tiên Nhân】 cấp 5 (Cảm ơn \"Đào Lĩnh Đông\" đã thưởng làm Minh chủ)"
+      "title": "Thư gửi bạn đọc nhân dịp năm mới"
     },
     {
       "num": 831,
-      "title": "Sự tranh đoạt truyền thừa tiên nhân"
+      "title": "Kiếm đạo cực lạc, tương trợ hạ giới (Cảm ơn \"Con Mèo Dám Yêu Dám Hận\" đã đánh thưởng Minh Chủ)"
     },
     {
       "num": 832,
-      "title": "Tại sao lại đưa cho Trương Vũ?! (7200, cầu vé tháng)"
+      "title": "Lựa chọn của Nhạc Mộc Lam, chức vụ mới của Trương Vũ"
     },
     {
       "num": 833,
-      "title": ""
+      "title": "Bãi tha ma Cựu Nhật, di sản của Phục Tiên Thiên (Cảm ơn \"Thương Yên Hoa\" đã đánh thưởng Minh Chủ)"
     },
     {
       "num": 834,
-      "title": "Tiên nhân hậu duệ cấp 6, truyền nhân thế hệ mới (Cầu vé tháng)"
+      "title": "Hậu duệ Tiên Nhân cấp 2, truyền nhân của ta"
     },
     {
       "num": 835,
-      "title": "Trấn áp Ái Côn, nắm giữ Mê Cảnh"
+      "title": "Chiếu Hồn Động Thiên, nhận việc ở bãi tha ma"
     },
     {
       "num": 836,
-      "title": "Bộ Đạo Quân, nhờ có sự bố cục của ngài (9000, cầu vé tháng)"
+      "title": "Tiếp thu tiên thoa, xung kích Hóa Thần"
     },
     {
       "num": 837,
-      "title": "Một nhát đao đâm về phía Thái Chân"
+      "title": "Hóa Thần!"
     },
     {
       "num": 838,
-      "title": ""
+      "title": "Công pháp biến dị, lão Triệu, hóa thần đạo thể (1010)"
     },
     {
       "num": 839,
-      "title": "Anh kiệt Côn Khư Trương Vũ (Cầu nguyệt phiếu)"
+      "title": "Ai là chính, ai là ma? (Chương vạn chữ, cầu vé tháng)"
     },
     {
       "num": 840,
-      "title": "Giấc mơ Côn Khư của chúng ta (Cảm ơn \"Tiếp tục chơi bời\" đã ủng hộ Minh Chủ)"
+      "title": "Hậu duệ Tiên Nhân cấp 3 (cảm ơn «Giang Thượng Ca Thanh»)"
     },
     {
       "num": 841,
-      "title": "Phong vân hội tụ (Cảm ơn \"kk9\" đã ủng hộ Minh Chủ)"
+      "title": "Trực tiếp húc chết tươi rồi á? (7400, cầu vé tháng)"
     },
     {
       "num": 842,
-      "title": "Tu vi càng mạnh năng lực càng mạnh"
+      "title": "Lạc bước nhà tiên (7400, cầu vé tháng)"
     },
     {
       "num": 843,
-      "title": "Hang Goblin của Trương Vũ?"
+      "title": "Thiên ma nãi nãi giá đáo"
     },
     {
       "num": 844,
-      "title": "Ban quản lý có một người trẻ tuổi, hãy để xác kiện bay một lát"
+      "title": "Vô đề"
     },
     {
       "num": 845,
-      "title": "Vị lãnh đạo thân thiện với nhân viên thuê ngoài"
+      "title": "Thế gian đều ma quỷ (7000, cầu vé tháng)"
     },
     {
       "num": 846,
-      "title": "Trương Vũ Bạch Chân Chân hai người đang làm gì thế? (Cảm ơn \"Chỉ là chơi đùa thôi mà\" đã ủng hộ Minh Chủ)"
+      "title": "Cầu động thiên, trăm hài dung chủ, kỹ thuật mới (Cảm ơn"
     },
     {
       "num": 847,
-      "title": "Ta muốn đâm chết Bạch Chân Chân (Cảm ơn \"Gạch bay\" đã ủng hộ Minh Chủ)"
+      "title": "Dây chuyền sản xuất trong động thiên của Trương Vũ (Cảm ơn \"Dan ny S he"
     },
     {
       "num": 848,
-      "title": "Vây ép"
+      "title": "Mối quan hệ tiên đạo, đều vì lợi mà đến, lời nguyền tai nạn lao động"
     },
     {
       "num": 849,
-      "title": "《Hóa Thư》, kỳ thăng thiên tới, kiếm thai cấp 5 (Cầu vé tháng)"
+      "title": "Lỡ bước vào nhà tiên (cầu nguyệt phiếu)"
     },
     {
       "num": 850,
-      "title": "Toán trì khởi động, Tam nhãn thần thông cấp 5, lãnh đạo lên trước? (7200, cầu vé tháng)"
+      "title": "Diễn viên chính: Trương Vũ, Thái Chân (cảm ơn \"Thanh Chizl\")"
     },
     {
       "num": 851,
-      "title": "Lãnh đạo anh đừng kháng nữa, chúng tôi sợ (Cảm ơn \"Họa Thủy Mô Ngư Bãi Lạn Chân Quân\" đã ủng hộ)"
+      "title": "Lựa chọn của Thái Chân, Hậu duệ Tiên Nhân cấp 5 (cảm ơn"
     },
     {
       "num": 852,
-      "title": "Bộ Đạo Quân, tôi sắp không xong rồi (Cảm ơn \"Tư Niên V\" đã ủng hộ)"
+      "title": "Tranh giành truyền thừa tiên nhân"
     },
     {
       "num": 853,
-      "title": "Kinh ngạc và bồi thường"
+      "title": "Vì sao lại cho Tranh Vũ?!"
     },
     {
       "num": 854,
-      "title": "Tiền bồi thường đến tay, Đảo Phiên Côn Luân"
+      "title": "Hậu duệ Tiên Nhân cấp 6, truyền nhân thế hệ mới (cầu vé tháng)"
     },
     {
       "num": 855,
-      "title": "Công pháp kiến tạo thế giới"
+      "title": "Trấn áp Ánh Ái Khôn, chưởng quản mê cảnh"
     },
     {
       "num": 856,
-      "title": "Đạo tranh, Vạn Pháp Tiên Đế"
+      "title": "Bộ đạo quân, đa thưa nhờ có sự sắp đặt của ngài"
     },
     {
       "num": 857,
-      "title": "Trương Vũ! Ngươi muốn làm gì?!"
+      "title": "Quát đao hướng về phía Thái Chân"
     },
     {
       "num": 858,
-      "title": "Thương hải hoành lưu phương hiển anh hùng bản sắc (Cầu phiếu tháng)"
+      "title": "Cuốn gió do Trương Vũ tạo ra (cầu phiếu tháng)"
     },
     {
       "num": 859,
-      "title": "Khán thí thủ, bổ thiên liệt, vị vạn thị khai thái bình"
+      "title": "Bố cục của Ảnh Sơ, danh sách xử phạt ra lò"
     },
     {
       "num": 860,
-      "title": "Trương phó hội trưởng! Ngài cuối cùng cũng trở lại rồi! (7400, cầu vé tháng)"
+      "title": "Anh hào Côn Khư Trương Vũ (cầu phiếu tháng)"
     },
     {
       "num": 861,
-      "title": "Tiên nhân xoa đỉnh ta (Cảm ơn \"Phát 8 Phát 8 Phát\" đã chuyển tiền cho Trương Vũ 10 lần)"
+      "title": "Giấc mộng Côn Khư của chúng ta (Cảm ơn \"Cứ tiếp tục quỷ hồn\" đã..."
     },
     {
       "num": 862,
-      "title": ""
+      "title": "Phong vân hội tụ (Cảm ơn \"kk9\" đã thưởng Minh chủ)"
     },
     {
       "num": 863,
-      "title": "Tiên Đế đặc cách (Cầu vé tháng)"
+      "title": "Tu vi càng cao năng lực càng mạnh"
     },
     {
       "num": 864,
-      "title": "Hành tung của 《Vũ Thư》 (Cầu vé tháng)"
+      "title": "Hang ổ Yêu tinh của Trương Vũ?"
     },
     {
       "num": 865,
-      "title": "Pháp điều thế hệ thứ ba, Đạo tranh (Cầu vé tháng)"
+      "title": "Ban quản lý đến một người trẻ tuổi, hãy để thi thể bay một lúc"
     },
     {
       "num": 866,
-      "title": "Bộ Đạo Quân cử hiền không tránh thân, bang Hạ Súc (7200 Cầu vé tháng)"
+      "title": "Lãnh đạo thân thiện với nhân viên ngoại bào"
     },
     {
       "num": 867,
-      "title": "Kỳ hạn 3 năm của Tị Pháp Phù, ân tình của Luân Hồi Tiên Đế trả không hết"
+      "title": "Trương Vũ, Bạch Chân Chân hai người các ngươi đang làm gì đấy?"
     },
     {
       "num": 868,
-      "title": "Nhận được Tường Thần, bức thư điện tử đầu tiên với Tiên Đế (Cầu vé tháng)"
+      "title": "Ta muốn đâm chết Bạch Chân Chân"
     },
     {
       "num": 869,
-      "title": "Tối cao đạo thống, Vạn Pháp Tiên Đế: Biết rồi"
+      "title": "Vây ép"
     },
     {
       "num": 870,
-      "title": "Trên có kẻ thích, dưới tất có kẻ cuồng"
+      "title": "Sách Hóa,phi thăng kỳ sau,Kiếm Thai5 cấp (Cầu nguyệt phiếu)"
     },
     {
       "num": 871,
-      "title": "Phát dục vô hạn, chứng nhận của Triệu Thiên Hành"
+      "title": "Toán trì khởi động, tam sinh thần thông cấp 5, lãnh đạo lên trước?"
     },
     {
       "num": 872,
-      "title": "Bộ Ảnh Sơ đại trí nhược ngu, Trương bộ trưởng có tiền như vậy"
+      "title": "Lãnh đạo ngài đừng gồng nữa, chúng tôi sợ đấy (Cảm ơn \"hoạch"
     },
     {
       "num": 873,
-      "title": "Giấc mơ hồn tu Côn Khư, Khảo Tông đi lên (xin nguyệt phiếu)"
+      "title": "Bộ đạo quân, ta sắp không chịu nổi nữa"
     },
     {
       "num": 874,
-      "title": "Đều là anh em của tôi (xin nguyệt phiếu)"
+      "title": "Chấn động và bồi thường"
     },
     {
       "num": 875,
-      "title": "Đạo thống sinh khắc, tông môn sinh khắc (xin nguyệt phiếu)"
+      "title": "Tiền bồi thường về tay, lật nhào Côn Lôn"
     },
     {
       "num": 876,
-      "title": "Pháp điều chi chiến, thăng đáo đệ ngũ chức cấp (7300 cầu nguyệt"
+      "title": "Công pháp kiến tạo thế giới (Cảm ơn 'Thanh Tịnh Minh' đã tặng)"
     },
     {
       "num": 877,
-      "title": "Tăng trước tấu sau, Tiên Đế phê chuẩn đặc biệt (Cảm tạ \"Dạ Thính Vũ"
+      "title": "Đạo tranh, Vạn Pháp Tiên Đế"
     },
     {
       "num": 878,
-      "title": "Tăng lương cho hồn tu, tiếng xấu ta gánh, hàn sâu"
+      "title": "Trương Vũ! Ngươi muốn làm gì?!"
     },
     {
       "num": 879,
-      "title": "Đại quyền tại nắm, sinh tử một niệm (Cầu vé tháng)"
+      "title": "Thương hải hoành lưu phương hiển anh hùng bản sắc (cầu nguyệt phiếu)"
     },
     {
       "num": 880,
-      "title": "Cựu Nhật Tân Vương! (Cảm tạ \"Thiện Hùng Đế Thính\" đã ủng hộ Minh Chủ)"
+      "title": "Nhìn thử tay, vá trời lở, mở thái bình cho vạn thị"
     },
     {
       "num": 881,
-      "title": "Tinh Hỏa Liêu Nguyên (Cảm tạ \"Linh Hào Cơ-Dã Hỏa\" đã ủng hộ Minh Chủ)"
+      "title": "Phó hội trưởng Trương! Ngài cuối cùng cũng về rồi! (7400+, cầu nguyệt phiếu)"
     },
     {
       "num": 882,
-      "title": "Sự cẩn trọng của Bộ Ảnh Sơ, sự kìm nén lương của Trương Vũ (Cảm tạ \"Lạp Lạp Phì\" đã ủng hộ Minh Chủ)"
+      "title": "Tiên nhân vuốt đỉnh ta"
     },
     {
       "num": 883,
-      "title": "Một Trương Vũ thờ ơ với lương, ảnh hưởng sâu xa, Vũ Thư thăng cấp"
+      "title": "Tiên đế đặc phê (cầu nguyệt phiếu)"
     },
     {
       "num": 884,
-      "title": "Công pháp hắc ám trấn phái, chức năng mới của Vũ Thư (Cảm ơn \"Đầu thống chơi không được\" đã đánh thưởng Minh chủ)"
+      "title": "Tung tích của Vũ Thư (cầu nguyệt phiếu)"
     },
     {
       "num": 885,
-      "title": "Bận rộn Trương Vũ, khẽ hừ Bộ Ảnh Sơ"
+      "title": "Pháp điều thế hệ thứ ba, đạo tranh"
     },
     {
       "num": 886,
-      "title": "Ngươi muốn cưới ta? Hạ khắc thượng"
+      "title": "Đạo quân Bộ cử hiền không tránh thân, đám hạ súc (7200+ cầu nguyệt phiếu)"
     },
     {
       "num": 887,
-      "title": "Từng bước ép sát, hai nữ hòa giải, chuyển đổi pháp khiếu"
+      "title": "Phù tịch pháp ba năm hạn kỳ, ân tình của luân hồi tiên đế trả không hết"
     },
     {
       "num": 888,
-      "title": "Lựa chọn luyện pháp đồ mới, đạo chủng đạo thống?"
+      "title": "Vui vẻ thu được Tường Thần, lần đầu liên lạc qua email với tiên đế (cầu phiếu tháng)"
     },
     {
       "num": 889,
-      "title": "【Thâm Hàn Pháp Mạch】4, Vị tiên đế thứ mười một? Ta<-?(7400+ cầu nguyệt phiếu)"
+      "title": "Đạo thống tối cao, vạn Pháp tiên đế: Đã rõ"
     },
     {
       "num": 890,
-      "title": "Trương Vũ là cái quái gì?"
+      "title": "Trên ưa chuộng, dưới làm theo"
     },
     {
       "num": 891,
-      "title": "Trương Vũ hot search, Vô Lậu Chân Tiên giáng lâm (cầu vé tháng)"
+      "title": "Phát triển vô hạn, sự chứng đạo của Triệu Thiên Hành"
     },
     {
       "num": 892,
-      "title": "Định chế danh hiệu, miễn thuế kim bài (cầu vé tháng)"
+      "title": "11Hào Xin Nghỉ Một Ngày"
     },
     {
       "num": 893,
-      "title": "Tiên Đế chính là chỗ dựa lớn nhất của ta (cầu vé tháng)"
+      "title": "Bộ Ảnh Sơ đại trí nhược ngu, Trưởng phòng Trương Vũ nhiều tiền như vậy, hắn có thể sai sao?"
+    },
+    {
+      "num": 894,
+      "title": "Giấc mộng hồn tu Côn Khư, thi tông trèo lên (cầu phiếu tháng)"
+    },
+    {
+      "num": 895,
+      "title": "Đều là huynh đệ của ta (cầu phiếu tháng)"
+    },
+    {
+      "num": 896,
+      "title": "Đạo thống sinh khắc, tông môn sinh khắc (cầu phiếu tháng)"
+    },
+    {
+      "num": 897,
+      "title": "Trận chiến pháp điều, thăng lên cấp bậc chức vụ thứ 5 (7300+ cầu phiếu tháng)"
+    },
+    {
+      "num": 898,
+      "title": "Tăng lương trước báo cáo sau, tiên đế phê chuẩn đặc biệt (cảm ơn \"Đêm Nghe Mưa 0628\" đã thưởng Minh Chủ)"
+    },
+    {
+      "num": 899,
+      "title": "Tăng lương cho hồn tu, tiếng xấu cứ để ta gánh, mạch pháp thăng cấp"
+    },
+    {
+      "num": 900,
+      "title": "Đại quyền trong tay, sinh tử một niệm (cầu phiếu tháng)"
+    },
+    {
+      "num": 901,
+      "title": "Cựu Nhật Tấn Vương! (Cảm ơn 'Thiện Hùng Thích Thính' đã thưởng minh chủ)"
+    },
+    {
+      "num": 902,
+      "title": "Xin nghỉ một ngày"
+    },
+    {
+      "num": 903,
+      "title": "Tâm hỏa Cảm ơn 'Linh Hỏa - Dã Hỏa' đã thưởng minh chủ"
+    },
+    {
+      "num": 904,
+      "title": "Sự cẩn trọng của Bộ Ảnh Sơ, nỗi niềm đè nén lương bổng của Trương Vũ (Cảm ơn 'Lạp Lạp Phì' đã thưởng minh chủ)"
+    },
+    {
+      "num": 905,
+      "title": "Trương Vũ 'lãnh cảm' lương bổng, ảnh hưởng sâu xa, Vũ Thư thăng cấp"
+    },
+    {
+      "num": 906,
+      "title": "Công pháp đen trấn phái, tính năng mới của Vũ Thư (Cảm ơn 'Đầu đau chơi không nổi' đã thưởng minh chủ)"
+    },
+    {
+      "num": 907,
+      "title": "Trương Vũ bận rộn, tiếng hừ khẽ của Bộ Ảnh Sơ"
+    },
+    {
+      "num": 908,
+      "title": "Ngươi muốn cưới ta? Hạ khắc thượng"
+    },
+    {
+      "num": 909,
+      "title": "Từng bước ép sát, hai nữ làm hòa, chuyển đổi pháp khiếu"
+    },
+    {
+      "num": 910,
+      "title": "Lựa chọn đồ án liên pháp mới, đạo chủng đạo thống?"
+    },
+    {
+      "num": 911,
+      "title": "Pháp mạch Thâm Hàn 4, Vị tiên đế thứ mười một? Tôi<-?(7400+ Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 912,
+      "title": "Trương Vũ là cái thá gì?"
+    },
+    {
+      "num": 913,
+      "title": "Trương Vũ lên hot search, Vô Lậu Chân Tiên giáng lâm (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 914,
+      "title": "Định chế danh xưng, miễn thuế kim bài (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 915,
+      "title": "Tiên đế chính là hậu thuẫn lớn nhất của tôi (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 916,
+      "title": "Tiên đế chính là chỗ dựa lớn nhất của ta (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 917,
+      "title": "Đế Oa chế tạo (10/10), thu phục tà thần (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 918,
+      "title": "Nâng cấp tính năng mới cho Thái Thanh Phù Lục"
+    },
+    {
+      "num": 919,
+      "title": "Chớ chê Huyền Qua nghèo, một nhóm súc sinh hạ giới mới lên bờ"
+    },
+    {
+      "num": 920,
+      "title": "Pháp mạch Viêm Dương 3 cấp, một hồ người đuổi theo"
+    },
+    {
+      "num": 921,
+      "title": "Hạ Súc Bang bừng bừng sức sống, thực lực cuồng tăng mạnh tăng (7000+ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 922,
+      "title": "Thái Thành Công hiếu thuận, mười biến thần quang (cảm ơn \"edg\" đã tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 923,
+      "title": "Thiện ý của Thái Nguyệt Bạch, thiện ý của Bộ Ảnh Sơ (cảm ơn \"Ta yêu uống trà sữa đá\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 924,
+      "title": "Cùng Bộ Đạo Quân tham gia đào tạo pháp điều, mỗi người một vẻ"
+    },
+    {
+      "num": 925,
+      "title": "Trương Vũ không có đạo chủng? Thế giới mỏng manh (cảm ơn \"Kiến Khang ba năm\" đã tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 926,
+      "title": "Hãy đến nâng đỡ ta đi, Trương Vũ"
+    },
+    {
+      "num": 927,
+      "title": "Người không có quá khứ? Đạo chủng cấp độ siêu nguy hiểm"
+    },
+    {
+      "num": 928,
+      "title": "Ai cũng muốn Trương Vũ nâng đỡ, thế giới mà các tiên đế mong muốn?"
+    },
+    {
+      "num": 929,
+      "title": "Đạo chủng bị đánh cắp? Ngươi là người do Tiên đế phái tới phải không?"
+    },
+    {
+      "num": 930,
+      "title": "Thái Nguyệt Bạch trộm cắp thần thông, Trương Vũ xung kích Luyện Hư"
+    },
+    {
+      "num": 931,
+      "title": "Sân năng lực bùng nổ! Thái Hư đạo thể (10/10)"
+    },
+    {
+      "num": 932,
+      "title": "Độ tiên hóa (Cảm ơn minh chủ Thư hữu 20190309014339348)"
+    },
+    {
+      "num": 933,
+      "title": "Nhất chứng vĩnh chứng, Bộ Ảnh Sơ: Nhìn cho kỹ đây Trương Vũ"
+    },
+    {
+      "num": 934,
+      "title": "Một chứng vĩnh chứng, Bước Ảnh Sơ: Nhìn cho kỹ Trương Vũ (Cảm ơn «Phi Phong Bính» đã thưởng 2 minh chủ)"
+    },
+    {
+      "num": 935,
+      "title": "Thời đại thi cử lớn? Trương Vũ là hòn đá tảng? (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 936,
+      "title": "Đều là cánh chim, Đế Ngự Cửu Tiêu (6250+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 937,
+      "title": "Xin nghỉ một ngày"
+    },
+    {
+      "num": 938,
+      "title": "Xây dựng điều luật của Trương Vũ (cầu nguyệt phiếu nâng đỡ vào đầu tháng tối nay)"
+    },
+    {
+      "num": 939,
+      "title": "Sự kiện rút thăm phiếu tháng đầu tháng 6 (tối nay): Phù chú hảo cảm Đoan Ngọ, hộp đựng pháp bảo pháp hài trực quan hóa"
+    },
+    {
+      "num": 940,
+      "title": "Sâm la vạn tượng 8, Thái Nguyệt Bạch trộm đạo chủng, Trương Vũ sao chép (6800+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 941,
+      "title": "Mau đừng nói nữa, Đế Ngự Cửu Tiêu cấp 3 (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 942,
+      "title": "Điều luật thế hệ thứ ba của Trương Vũ, Sâm La Vạn Tượng (10/10) (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 943,
+      "title": "Đánh cược tất cả, lập pháp bình chọn (7000+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 944,
+      "title": "Điều luật trâu bò nhất và tồi tệ nhất (8800+ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 945,
+      "title": "Pháp điều trắng của Trương Vũ (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 946,
+      "title": "Ta muốn đóng băng toàn bộ điều luật! (Cảm ơn 'Bồ tát nho nhỏ lỡ bước vào Côn Khư' đã thưởng minh chủ)"
+    },
+    {
+      "num": 947,
+      "title": "Kiểm tra cá nhân hóa ngày quyết chiến"
+    },
+    {
+      "num": 948,
+      "title": "Mang tài nghệ bên người, chiêu bài ẩn giấu của Trương Vũ? (6770+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 949,
+      "title": "Vi phạm tiên đạo định luật"
+    },
+    {
+      "num": 950,
+      "title": "Ác ý của chúng sinh (8000+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 951,
+      "title": "Xung kích, nghịch chuyển kỹ thuật"
+    },
+    {
+      "num": 952,
+      "title": "Kịch đấu, quyết chiến 0 giờ (cảm ơn đánh giá của thư hữu 160711160335999)"
+    },
+    {
+      "num": 953,
+      "title": "Thời đại này đã lựa chọn ta! (8 liên minh thưởng)"
+    },
+    {
+      "num": 954,
+      "title": "Pháp điều đệ nhất đương thời (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 955,
+      "title": "Núi lên tận đỉnh ta làm đỉnh (cảm ơn \"Minh Giác 2567\" tặng nhẫn tình yêu chí ái của lão Cao Bạch Ngân Minh)"
+    },
+    {
+      "num": 956,
+      "title": "Pháp điều thí điểm của Trương Vũ (Cảm ơn \"Tỉnh Thạch Đầu\" đã thưởng Minh chủ)"
+    },
+    {
+      "num": 957,
+      "title": "Cục thế tiến thoái lưỡng nan (cảm ơn \"Hơi Thiên Vị Zzz\" đã thưởng Minh chủ)"
+    },
+    {
+      "num": 958,
+      "title": "Phái cải lương không phải là khu"
+    },
+    {
+      "num": 959,
+      "title": "Bộ Ảnh Sơ: Ta muốn giết sạch các người"
+    },
+    {
+      "num": 960,
+      "title": "Sự lựa chọn của Trương Vũ (Cảm ơn 'Like tặng vớ lụa Bạch Chân Chân' đã hào phóng tặng thưởng Minh chủ)"
+    },
+    {
+      "num": 961,
+      "title": "Đại giới, chúng sinh đều là kẻ cản đạo (cảm ơn \"Giang Hà Hồ Hải Ký Dư Sinh\" đã thưởng Minh chủ)"
+    },
+    {
+      "num": 962,
+      "title": "Thoát khỏi người hướng về tiên đạo, tầng nguy hiểm nhất (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 963,
+      "title": "Đánh cho một quyền mở đường, khỏi trăm quyền tới quấy"
+    },
+    {
+      "num": 964,
+      "title": "Sắp đổi trời rồi (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 965,
+      "title": ""
+    },
+    {
+      "num": 966,
+      "title": "Kiên cường không thể lay chuyển ý chí"
+    },
+    {
+      "num": 967,
+      "title": ""
+    },
+    {
+      "num": 968,
+      "title": "Tiên Đế đặc tứ, Vạn Pháp Thần Kiếm (cầu phiếu tháng)"
+    },
+    {
+      "num": 969,
+      "title": "Đòn đả kích trăm tỷ (cầu phiếu tháng)"
+    },
+    {
+      "num": 970,
+      "title": "Mục tiêu phi thăng, sâu hàn pháp mạch thăng cấp (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 971,
+      "title": "Trương Vũ tới, ta cùng ngươi đi lên (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 972,
+      "title": "Hình dạng thật sự của kim tự tháp Côn Khư, điểm khởi đầu của pháp điều (vẫn đang sửa văn, lát nữa vẫn còn một chương)"
+    },
+    {
+      "num": 973,
+      "title": "Kẻ nào cản ta, kẻ đó nghèo! (Hôm nay 2 chương tổng 8500+, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 974,
+      "title": "Một người một kiếm chấn nhiếp toàn sân (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 975,
+      "title": "Lột xác Nhạc Mộc Lam, chương mới của Vũ Thư (Cảm ơn 'Đức Thương Cạnh Linh' đã thưởng minh chủ)"
+    },
+    {
+      "num": 976,
+      "title": "Đạo chủng đạo thống, Kiến Tạo Thế Giới! (Cảm ơn 'Mộng Mị Tinh Hà' thưởng minh chủ)"
+    },
+    {
+      "num": 977,
+      "title": "Không gian vi phạm quy chế, Vân Thái Chân về tông?"
+    },
+    {
+      "num": 978,
+      "title": "Về thời gian cập nhật"
     }
   ]
 }
