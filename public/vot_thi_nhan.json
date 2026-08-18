@@ -1,2330 +1,3442 @@
 {
-  "totalChapters": 580,
+  "slug": "vot_thi_nhan",
+  "title": "Vớt Thi Nhân",
+  "author": "Thuần Khiết Đích Tiểu Long",
+  "synopsis": "Người biết ma đáng sợ, ma mới tỏ lòng người độc. Một cuốn linh dị truyền thống, lấy bối cảnh vùng sông nước thôn quê Trung Quốc thập niên 1990: nơi có những người sống bằng nghề vớt xác trôi sông, những đám tang giữa đêm, và một cậu bé sớm phải học cách nhìn thẳng vào thứ mà người lớn né tránh.",
+  "totalChapters": 690,
   "chapters": [
     {
       "num": 1,
-      "title": "Tân hôn đại hỉ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 2,
-      "title": "Khúc Phượng cầu Hoàng dang dở"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 3,
-      "title": "Sinh vào thời loạn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 4,
-      "title": "Toà thành chết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 5,
-      "title": "Xa xứ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 6,
-      "title": "Thượng Thanh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 7,
-      "title": "Người Hồ ăn thịt người"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 8,
-      "title": "Công chúa nước Triệu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 9,
-      "title": "Ngàn dặm tìm vợ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 10,
-      "title": "Hành trình gian khổ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 11,
-      "title": "Trên đường gặp bọn cướp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 12,
-      "title": "Hắc Tam"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 13,
-      "title": "Hắc Lang Tinh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 14,
-      "title": "Đạo sĩ và đầu bếp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 15,
-      "title": "Mới vào sơn môn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 16,
-      "title": "Tuyển chọn khắc nghiệt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 17,
-      "title": "Trung hiếu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 18,
-      "title": "Giải thích"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 19,
-      "title": "Thay Đạo bào"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 20,
-      "title": "Độ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 21,
-      "title": "Bái nhập Thượng Thanh tông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 22,
-      "title": "Tắm rửa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 23,
-      "title": "Lão Rùa giảng kinh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 24,
-      "title": "Thâm ý ẩn giấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 25,
-      "title": "Ngộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 26,
-      "title": "Giảng kinh xong"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 27,
-      "title": "Quán đỉnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 28,
-      "title": "Phong thái của bậc Đại đức"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 29,
-      "title": "Ý"
-    },
-    {
-      "num": 30,
-      "title": "Chân truyền"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 31,
-      "title": "Tung tích Lâm Nhược Trần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 32,
-      "title": "Kì Hoàng chi thuật"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 33,
-      "title": "Ngọc linh lung"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 34,
-      "title": "Mổ bụng rạch ngực"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 35,
-      "title": "Là Dược, ba phần độc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 36,
-      "title": "Bách độc bất xâm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 37,
-      "title": "Luyện đan chi pháp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 38,
-      "title": "Quỷ thủ quỷ bộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 39,
-      "title": "Khinh công"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 40,
-      "title": "Cửa ải thứ bảy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 41,
-      "title": "Chinh Lỗ phủ tướng quân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 42,
-      "title": "Không uổng phí kiến thức đã học"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 43,
-      "title": "Một khúc Phượng Cầu Hoàng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 44,
-      "title": "Trong tâm có Yêu Long"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 45,
-      "title": "Cứu nhầm người"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 46,
-      "title": "Áo liệm của người chết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 47,
-      "title": "Người chết truyền pháp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 48,
-      "title": "Bùa chú Tam Thanh chính tông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 49,
-      "title": "Thánh khí về tay"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 50,
-      "title": "Hoả phù"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 51,
-      "title": "Pháp thuật không truyền sáu tai"
+      "title": "(Hết quyển)"
     },
     {
       "num": 52,
-      "title": "Xuống núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 53,
-      "title": "Rượu thịt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 54,
-      "title": "Niệm tình cũ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 55,
-      "title": "Thiên Tuế đấu Giao long"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 56,
-      "title": "Trở về nước Tấn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 57,
-      "title": "Ma quỷ"
+      "title": "Nước"
     },
     {
       "num": 58,
-      "title": "Nguyên nhân hậu quả"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 59,
-      "title": "Chẩn bệnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 60,
-      "title": "Yêu vật nhập thân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 61,
-      "title": "Xà yêu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 62,
-      "title": "Phần mộ nhà họ Vương"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 63,
-      "title": "Ngôi mộ không thể đào"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 64,
-      "title": "Linh chi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 65,
-      "title": "Đến xương cốt cũng chẳng còn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 66,
-      "title": "Triệu thị ở Hán Xuyên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 67,
-      "title": "Gia phả họ Triệu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 68,
-      "title": "Bị truy nã"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 69,
-      "title": "Tây hành"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 70,
-      "title": "Tiểu trấn trong núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 71,
-      "title": "Nữ quyến lưu vong"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 72,
-      "title": "Tên ngốc không nhìn thấy bảo vật"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 73,
-      "title": "Hôn sự không môn đăng hộ đối"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 74,
-      "title": "Âm Dương tịnh thổ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 75,
-      "title": "Nữ đạo sĩ"
+      "title": "(Hết quyển)"
     },
     {
       "num": 76,
-      "title": "Tiểu đỉnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 77,
-      "title": "Long Hàm Tu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 78,
-      "title": "Cô gái người Miêu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 79,
-      "title": "Sẽ có một nữ nhi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 80,
-      "title": "Lại lên núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 81,
-      "title": "Người thủ lĩnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 82,
-      "title": "Sum họp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 83,
-      "title": "Dung luyện Ngũ Hành"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 84,
-      "title": "Ngoại Đan bí thuật"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 85,
-      "title": "Nhân vô thập toàn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 86,
-      "title": "Đặt nền móng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 87,
-      "title": "Kế đẩy lui quân địch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 88,
-      "title": "Biến cố"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 89,
-      "title": "Tâm ma ngầm hiện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 90,
-      "title": "Rời núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 91,
-      "title": "Nhà cũ của họ Hầu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 92,
-      "title": "Cây liễu có tình"
+      "title": "(tiếp)"
     },
     {
       "num": 93,
-      "title": "Cúng bái"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 94,
-      "title": "Gặp lại Thiên Tuế"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 95,
-      "title": "Hiếu bổng của lão Ngũ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 96,
-      "title": "Hàng yêu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 97,
-      "title": "Dẫn trộm vào phòng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 98,
-      "title": "Hoàng kim phất trần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 99,
-      "title": "Con ngựa già trong chuồng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 100,
-      "title": "Cha hiền con bất hiếu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 101,
-      "title": "Cơ hội trời ban"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 102,
-      "title": "Tự đề cử mình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 103,
-      "title": "Hô phong hoán vũ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 104,
-      "title": "Không nhận đãi ngộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 105,
-      "title": "Chu Quý nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 106,
-      "title": "Giết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 107,
-      "title": "Bảo hộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 108,
-      "title": "Ai mang Cương thi tới?"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 109,
-      "title": "Gặp phục kích"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 110,
-      "title": "Lôi phù"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 111,
-      "title": "Ban thưởng cung nữ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 112,
-      "title": "Âm độc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 113,
-      "title": "Yêu tăng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 114,
-      "title": "Điểu hòa thượng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 115,
-      "title": "Trợ giúp Trương Động Chi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 116,
-      "title": "Cô gái thanh lâu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 117,
-      "title": "Dục vọng khó tránh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 118,
-      "title": "Bệnh lạ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 119,
-      "title": "Dương Xuân Bạch Tuyết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 120,
-      "title": "Hoàng hậu giá lâm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 121,
-      "title": "Thiên Ninh Am"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 122,
-      "title": "Những cung nữ bị giam giữ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 123,
-      "title": "Tà vật"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 124,
-      "title": "Khúc đàn Hồ Già thập bát nhất"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 125,
-      "title": "Nơi ẩn thân của Ngô công"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 126,
-      "title": "Ngô công thế tội"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 127,
-      "title": "Trở về báo công"
+      "title": "(Hết quyển)"
     },
     {
       "num": 128,
-      "title": "Đan dược của A Cửu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 129,
-      "title": "Thời hạn đấu pháp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 130,
-      "title": "Tài đức vẹn toàn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 131,
-      "title": "Độc hỏa công tâm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 132,
-      "title": "Đấu pháp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 133,
-      "title": "Phúc Sinh Vô Lượng Thiên Tôn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 134,
-      "title": "Hòa thượng gian xảo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 135,
-      "title": "Đấu pháp kết thúc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 136,
-      "title": "Đánh Quốc sư"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 137,
-      "title": "Bị đuổi khỏi nước Tấn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 138,
-      "title": "Mộ Thanh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 139,
-      "title": "Ở ẩn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 140,
-      "title": "Người Hồ Lại đến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 141,
-      "title": "Công chúa viếng thăm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 142,
-      "title": "Hậu lễ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 143,
-      "title": "Lâm Nhược Trần trở về"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 144,
-      "title": "Từ hôn Lâm Nhược Trần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 145,
-      "title": "Từ chối"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 146,
-      "title": "Đuổi công chúa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 147,
-      "title": "Điềm xấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 148,
-      "title": "Lão Ngũ gặp nạn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 149,
-      "title": "Lấy lại công bằng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 150,
-      "title": "Giết Quảng Phổ"
+      "title": "(Hết quyển)"
     },
     {
       "num": 151,
-      "title": "Cây muốn lặng mà gió chẳng ngừng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 152,
-      "title": "Bị bao vây"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 153,
-      "title": "Đồng môn lần lượt tìm đến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 154,
-      "title": "Tam tinh giương uy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 155,
-      "title": "Có thể cứu được không?"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 156,
-      "title": "Nhận định tình hình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 157,
-      "title": "Hồn phách trở về"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 158,
-      "title": "Địa đạo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 159,
-      "title": "Tế đàn trong sông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 160,
-      "title": "Miêu tổ Xi Vưu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 161,
-      "title": "“Phát hồ Tâm, chỉ vu lễ”"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 162,
-      "title": "Hồng Mao Cự Bức (Con dơi lớn lông đỏ)"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 163,
-      "title": "Bảy mươi chín tòa tháp đá"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 164,
-      "title": "Bích Thủy Độc Long"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 165,
-      "title": "Hai cánh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 166,
-      "title": "An bài thỏa đáng"
+      "title": "(Hết quyển)"
     },
     {
       "num": 167,
-      "title": "Tự che mắt mình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 168,
-      "title": "Phá Hồn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 169,
-      "title": "Thạch Chân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 170,
-      "title": "Bảo hổ lột da"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 171,
-      "title": "Ra bắc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 172,
-      "title": "Vào cung"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 173,
-      "title": "Lấy một địch tám"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 174,
-      "title": "Hỏa Xà Thanh Lang"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 175,
-      "title": "Đại cục đã định"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 176,
-      "title": "Hộ Quốc Chân Nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 177,
-      "title": "Nhà Mộ Dung nước Yên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 178,
-      "title": "Đồng môn bất hòa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 179,
-      "title": "Tâm tình Công chúa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 180,
-      "title": "Ta đánh ngươi thì sao?"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 181,
-      "title": "Bày mưu tính kế"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 182,
-      "title": "Trở lại Vô Lượng Sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 183,
-      "title": "Hiểu ra"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 184,
-      "title": "Đông chinh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 185,
-      "title": "Đến quân doanh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 186,
-      "title": "Năm ngàn phù chú"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 187,
-      "title": "Đánh đau Lưu Thiếu Khanh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 188,
-      "title": "Trận chiến đầu tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 189,
-      "title": "Ai vì chủ nấy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 190,
-      "title": "Khổ đấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 191,
-      "title": "Sát sinh ngàn vạn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 192,
-      "title": "Hắc Thử Tinh kỳ quái"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 193,
-      "title": "Siêu độ vong hồn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 194,
-      "title": "Đại quân xuất phát"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 195,
-      "title": "Ban tên cho"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 196,
-      "title": "Bầy chuột đánh tới"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 197,
-      "title": "Hỏa trận"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 198,
-      "title": "Kình địch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 199,
-      "title": "Ngụy Phách Thiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 200,
-      "title": "Lời mời của chồn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 201,
-      "title": "Miếu Sơn Thần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 202,
-      "title": "Thu hoạch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 203,
-      "title": "Lăng mộ trăm dặm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 204,
-      "title": "Ngụy Vương Tào Tháo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 205,
-      "title": "Phá thành"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 206,
-      "title": "Tốt xấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 207,
-      "title": "Giấu diếm lương thực"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 208,
-      "title": "Mộ Dung Hồng Trang"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 209,
-      "title": "Đỉa răng nhọn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 210,
-      "title": "Dứt người vào Nam"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 211,
-      "title": "Đường lui đứt"
+      "title": "(Hết quyển)"
     },
     {
       "num": 212,
-      "title": "Cương thi làm dược"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 213,
-      "title": "Mười trọng tội"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 214,
-      "title": "Hoàng Y Lang"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 215,
-      "title": "Tư thế ngủ chết người"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 216,
-      "title": "Không phải quỷ không phải yêu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 217,
-      "title": "Quỷ dị tái hiện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 218,
-      "title": "Thi thể long phượng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 219,
-      "title": "Tiên gia ngũ phẩm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 220,
-      "title": "Hoàng Tam Thái Gia"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 221,
-      "title": "Bảy ngày nhàn rỗi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 222,
-      "title": "Đêm gặp ở thôn hoang vắng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 223,
-      "title": "Không có đường lui"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 224,
-      "title": "Huyết chiến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 225,
-      "title": "Một trận sinh tử"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 226,
-      "title": "Khắc phục hậu quả"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 227,
-      "title": "Ban hôn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 228,
-      "title": "A Cửu và Thạch Chân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 229,
-      "title": "Đoàn tụ ngắn ngủi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 230,
-      "title": "Hai cánh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 231,
-      "title": "Tứ Tượng Sát Trận"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 232,
-      "title": "Vây khốn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 233,
-      "title": "Thi thể thối rữa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 234,
-      "title": "Vung Đậu Thành Binh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 235,
-      "title": "Một cái ô"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 236,
-      "title": "Đại chiến buông xuống"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 237,
-      "title": "Một đêm cuối cùng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 238,
-      "title": "Tin mừng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 239,
-      "title": "Thảm bại"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 240,
-      "title": "Tuyệt cảnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 241,
-      "title": "Bạn cũ Hắc Tam"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 242,
-      "title": "Lão Ngũ biết bay"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 243,
-      "title": "Người phụ nữ thông minh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 244,
-      "title": "Thành sự rút lui"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 245,
-      "title": "Ban chiếu chỉ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 246,
-      "title": "Chuyện nhỏ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 247,
-      "title": "Xây đạo quán"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 248,
-      "title": "Lai lịch của A Cửu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 249,
-      "title": "Thượng Thanh quan"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 250,
-      "title": "Vĩnh Sinh Chi Địa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 251,
-      "title": "Lăng mộ Vũ Vương"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 252,
-      "title": "Chinh Tây tiên phong"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 253,
-      "title": "Phá cửa vào lăng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 254,
-      "title": "Ôn Hầu Lã Bố"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 255,
-      "title": "Lấy ngắn đánh dài"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 256,
-      "title": "Hồn phách không đầy đủ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 257,
-      "title": "Hộ vệ thủ lăng"
+      "title": "Xin phiếu tháng!"
     },
     {
       "num": 258,
-      "title": "Tỉnh ngộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 259,
-      "title": "Cầu viện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 260,
-      "title": "Điều động lao dịch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 261,
-      "title": "Vạn dân đào lăng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 262,
-      "title": "Chủ mộ thất"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 263,
-      "title": "Kim chuyên ngọc ngõa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 264,
-      "title": "Cây nấm màu vàng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 265,
-      "title": "Rời khỏi Bất Hàm Sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 266,
-      "title": "Kim phong ngọc lộ nhất triêu phùng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 267,
-      "title": "Vượt qua lôi trì"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 268,
-      "title": "Thiên Địa ngăn cách"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 269,
-      "title": "Không quên bổn phận của đạo nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 270,
-      "title": "Cửu Long Đỉnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 271,
-      "title": "Ba hoa khoác lác"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 272,
-      "title": "Sơn vũ dục lai"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 273,
-      "title": "Ngọc Thanh Tông hỏi tội"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 274,
-      "title": "Cưỡi dơi bay về Đông Nam"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 275,
-      "title": "Cắn chết hạc xám"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 276,
-      "title": "Chia binh hai đường"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 277,
-      "title": "Tính toán chu toàn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 278,
-      "title": "Mười lăm nơi nữa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 279,
-      "title": "Chuyển biến xấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 280,
-      "title": "Yêu Long sắp hiện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 281,
-      "title": "Giết chóc bắt đầu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 282,
-      "title": "Đuổi tận giết tuyệt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 283,
-      "title": "Thiên Lang Hào vô địch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 284,
-      "title": "Môi tinh cao chiếu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 285,
-      "title": "Lão đạo Thái Thanh Tông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 286,
-      "title": "Mang ngọc mắc tội"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 287,
-      "title": "Ni cô khả nghi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 288,
-      "title": "Tam tinh hội tụ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 289,
-      "title": "Càng lún càng sâu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 290,
-      "title": "Thế sự vô thường"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 291,
-      "title": "Ngọc Hành vẫn lạc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 292,
-      "title": "Tàn sát lẫn nhau"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 293,
-      "title": "Truy đuổi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 294,
-      "title": "Đuổi riết không buông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 295,
-      "title": "Đi tới Lâm Tây"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 296,
-      "title": "Huyết chiến trên bầu trời"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 297,
-      "title": "Lão Ngũ hiển uy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 298,
-      "title": "Đã sớm định trước"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 299,
-      "title": "Trên đỉnh Cửu Châu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 300,
-      "title": "Tìm được A Cửu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 301,
-      "title": "Giam cầm trên núi tuyết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 302,
-      "title": "Bình chướng linh khí"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 303,
-      "title": "Thiên Lôi truyền tin"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 304,
-      "title": "Kỳ ngộ trên núi Thái Ất"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 305,
-      "title": "Tiên Nhân Lệ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 306,
-      "title": "Một nửa thầy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 307,
-      "title": "Ăn ý"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 308,
-      "title": "Thú y"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 309,
-      "title": "Luận võ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 310,
-      "title": "Ba việc khó"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 311,
-      "title": "Độc ác"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 312,
-      "title": "Tế rượu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 313,
-      "title": "Nhỏ máu tìm rồng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 314,
-      "title": "Khoét xương lấy tuỷ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 315,
-      "title": "Ra biển"
+      "title": "Xin phiếu tháng!"
     },
     {
       "num": 316,
-      "title": "Người may mắn sống sót"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 317,
-      "title": "Ngư Long"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 318,
-      "title": "Ăn trộm trên Tiên đảo"
+      "title": "Chương 2W chữ lớn!"
     },
     {
       "num": 319,
-      "title": "Khách chiếm nhà chủ"
+      "title": "(tiếp)"
     },
     {
       "num": 320,
-      "title": "Hà Thủ Ô vạn năm"
+      "title": "(Hết quyển)"
     },
     {
       "num": 321,
-      "title": "Người chim"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 322,
-      "title": "Dạ hành nữ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 323,
-      "title": "Vạn Thọ Sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 324,
-      "title": "Thu hoạch ngoài ý muốn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 325,
-      "title": "Điệu hổ ly sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 326,
-      "title": "Cướp đoạt công khai"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 327,
-      "title": "Cô đơn giữa biển khơi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 328,
-      "title": "Nguyên Thần báo mộng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 329,
-      "title": "Long Nữ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 330,
-      "title": "Ngao Chước"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 331,
-      "title": "Nhược Trần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 332,
-      "title": "Thủy Lục Đạo Tràng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 333,
-      "title": "Tặng áo lông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 334,
-      "title": "Thiên ý là gì?"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 335,
-      "title": "Không phá thì không thể lập"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 336,
-      "title": "Ổn định cuộc sống"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 337,
-      "title": "Bắt thằn lằn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 338,
-      "title": "Trên Tuyết Sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 339,
-      "title": "Vắt óc suy nghĩ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 340,
-      "title": "Bắc Đẩu và Nam Đẩu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 341,
-      "title": "Vĩnh viễn không rời"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 342,
-      "title": "Sinh từ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 343,
-      "title": "Bước tiến đầu tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 344,
-      "title": "Yêu vật tàn phá"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 345,
-      "title": "Ngộ đạo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 346,
-      "title": "Chửi thề"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 347,
-      "title": "Là phúc hay họa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 348,
-      "title": "Đàn bà trả thù"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 349,
-      "title": "Vài lần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 350,
-      "title": "Phút chia ly"
+      "title": "Xin phiếu tháng!"
     },
     {
       "num": 351,
-      "title": "A Cửu phi thăng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 352,
-      "title": "Tìm tới cửa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 353,
-      "title": "Nội đan thần kỳ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 354,
-      "title": "Người Hán và người Hồ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 355,
-      "title": "Phiên tăng trăm tuổi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 356,
-      "title": "Trung Tây đấu pháp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 357,
-      "title": "Gọi từng người một tới"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 358,
-      "title": "Nhân tính"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 359,
-      "title": "Bờ Đông Hải"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 360,
-      "title": "Tiếng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 361,
-      "title": "Long Tộc Xích Mộc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 362,
-      "title": "Suy đoán"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 363,
-      "title": "Thánh vật thăng thiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 364,
-      "title": "Tai họa tới bất ngờ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 365,
-      "title": "Long tộc lên bờ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 366,
-      "title": "Tam Long Đông Hải"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 367,
-      "title": "Quên mình vì người khác"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 368,
-      "title": "Thủy quái"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 369,
-      "title": "Vượt gấp"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 370,
-      "title": "Đến Kiến Khang"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 371,
-      "title": "Ngàn cân treo sợi tóc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 372,
-      "title": "Nội đan Toan Nghê"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 373,
-      "title": "Trong họa có phúc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 374,
-      "title": "Gặp lại Thiên Ninh Am"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 375,
-      "title": "Cứu chữa Trương Động Chi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 376,
-      "title": "Một tay che trời"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 377,
-      "title": "Nước Tấn lâm nguy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 378,
-      "title": "Trảo Hoàng Phi Điện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 379,
-      "title": "Đền tội"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 380,
-      "title": "Căn dặn"
+      "title": "(bổ!)"
     },
     {
       "num": 381,
-      "title": "Thầy trò"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 382,
-      "title": "Hành tẩu bốn phương"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 383,
-      "title": "Bài học đầu tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 384,
-      "title": "Sư phụ lợi hại"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 385,
-      "title": "Phân chia ruộng đất"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 386,
-      "title": "Người câm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 387,
-      "title": "Bình yên ngắn ngủi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 388,
-      "title": "Âm phủ báo tin"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 389,
-      "title": "Tu vi địa tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 390,
-      "title": "Yên bình trước tận thế"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 391,
-      "title": "Tận thế giáng xuống"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 392,
-      "title": "Khơi thông dẫn nước"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 393,
-      "title": "Điệu hổ ly sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 394,
-      "title": "Thạch Thanh bị giết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 395,
-      "title": "Thẩm Quan Thanh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 396,
-      "title": "Pháp khí trấn yêu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 397,
-      "title": "Quỷ đỉnh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 398,
-      "title": "Đồ Vật từ Âm phủ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 399,
-      "title": "Mài tâm luyện tính"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 400,
-      "title": "Hộp sắt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 401,
-      "title": "Xử trí ổn thỏa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 402,
-      "title": "Long Tộc tấn công"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 403,
-      "title": "Xem chiến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 404,
-      "title": "Gặp lại kẻ thù"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 405,
-      "title": "Cao thủ giao đấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 406,
-      "title": "Đánh bại Ngao Thuật"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 407,
-      "title": "Dân tộc không mạnh mẽ, tự khắc sẽ diệt vong"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 408,
-      "title": "Thả đi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 409,
-      "title": "Người chết oan"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 410,
-      "title": "Yêu quái hòa thượng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 411,
-      "title": "Con quạ đen thần bí"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 412,
-      "title": "Theo dấu quạ đen"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 413,
-      "title": "Cô gái tóc đỏ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 414,
-      "title": "Nam Hải lên bờ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 415,
-      "title": "Con trai của Bồ Hùng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 416,
-      "title": "Tàn sát"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 417,
-      "title": "Giao đấu với Xích Long"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 418,
-      "title": "Đại trượng phu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 419,
-      "title": "Thị uy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 420,
-      "title": "Bằng hữu từ phương xa tới"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 421,
-      "title": "Đi báo tin"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 422,
-      "title": "Chuyện xưa tái hiện"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 423,
-      "title": "Như tỉnh như mơ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 424,
-      "title": "Hồi tưởng lại chuyện xưa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 425,
-      "title": "Sáu khúc nhạc tỏ tình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 426,
-      "title": "Một người phụ nữ bình thường"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 427,
-      "title": "Chính danh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 428,
-      "title": "Náo nhiệt vô cùng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 429,
-      "title": "Đóng vững trụ cột"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 430,
-      "title": "Viên phòng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 431,
-      "title": "Vô tình gặp được Thanh Thạch Mãn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 432,
-      "title": "Chợ quỷ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 433,
-      "title": "Không bằng cầm thú"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 434,
-      "title": "Hỏi tội Ngọc Thanh tông"
+      "title": "(Hết quyển)"
     },
     {
       "num": 435,
-      "title": "Sợ tội tự sát"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 436,
-      "title": "Nguyên Thần Xi Vưu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 437,
-      "title": "Nghị"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 438,
-      "title": "Thiên tai nhân họa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 439,
-      "title": "Kẻ bại hoại trong Đạo môn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 440,
-      "title": "Bắt ba ba trọng rọ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 441,
-      "title": "Nhớ tình cũ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 442,
-      "title": "Vào trận giết địch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 443,
-      "title": "Khai Dương vẫn lạc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 444,
-      "title": "Tự gây nghiệt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 445,
-      "title": "Không từ mà biệt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 446,
-      "title": "Cú mèo tới cửa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 447,
-      "title": "Câu Hồn Sứ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 448,
-      "title": "Hắc Bạch Vô Thường"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 449,
-      "title": "Quỷ trộm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 450,
-      "title": "Tử kim đan lô"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 451,
-      "title": "Đưa tiễn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 452,
-      "title": "Thương nghị kỹ càng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 453,
-      "title": "Hỏi tuổi thọ trước khi đi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 454,
-      "title": "Đại nạn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 455,
-      "title": "Xuất phát"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 456,
-      "title": "Nam Hải đông chinh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 457,
-      "title": "Khai chiến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 458,
-      "title": "Huyết chiến không trung"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 459,
-      "title": "Huyền Vũ đại trận"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 460,
-      "title": "Tiến quân truy kích"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 461,
-      "title": "Chiếu sáng ngàn dặm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 462,
-      "title": "Tù Ngưu trấn giữ cửa Khôn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 463,
-      "title": "Nhai Tí ở cửa Cấn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 464,
-      "title": "Kình địch"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 465,
-      "title": "Long tộc Hỗn Huyết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 466,
-      "title": "Khổ chiến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 467,
-      "title": "Gặp nạn ở cửa Khảm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 468,
-      "title": "Quái ngư ở cửa Tốn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 469,
-      "title": "Tiến công nhanh cửa Càn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 470,
-      "title": "Vào từ Khôn, dừng ở Càn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 471,
-      "title": "Tiến thối hạn độ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 472,
-      "title": "Phân công"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 473,
-      "title": "Tuấn kiệt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 474,
-      "title": "Thư thánh Vương Hi Chi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 475,
-      "title": "Lão Tử Hóa Hồ Kinh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 476,
-      "title": "Bí mật của Long tộc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 477,
-      "title": "Tam Muội chân hỏa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 478,
-      "title": "Gặp quỷ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 479,
-      "title": "Mưa gió sắp đến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 480,
-      "title": "Trù tính thiên hạ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 481,
-      "title": "Sinh hoạt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 482,
-      "title": "Thích khách"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 483,
-      "title": "Dị nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 484,
-      "title": "484"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 485,
-      "title": "Từ chối xuống núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 486,
-      "title": "Cảnh giới Thiên Tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 487,
-      "title": "Dòng máu độc ác"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 488,
-      "title": "Chọn cách để chết"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 489,
-      "title": "Dùng dao mổ trâu giết gà"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 490,
-      "title": "Bồ Hùng qua đời"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 491,
-      "title": "Mồng bảy tháng Giêng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 492,
-      "title": "Chuyện phiền lòng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 493,
-      "title": "Thu hồn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 494,
-      "title": "Khôn đạo Phong Nhất Lam"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 495,
-      "title": "Đạo cô và tăng nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 496,
-      "title": "Diệt Duyên hòa thượng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 497,
-      "title": "Vô tình vô nghĩa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 498,
-      "title": "Thiên Tiên giao đấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 499,
-      "title": "So đấu Nguyên Thần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 500,
-      "title": "Đánh không tỉnh ngộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 501,
-      "title": "Tư Mã Phong Bội dạy bảo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 502,
-      "title": "Con khỉ ở Phù Vân Sơn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 503,
-      "title": "Quỷ quái"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 504,
-      "title": "Lão đạo và con khỉ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 505,
-      "title": "Lão hầu vương"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 506,
-      "title": "Nơi miệng núi lửa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 507,
-      "title": "Kêu gọi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 508,
-      "title": "Thê thiếp thành đàn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 509,
-      "title": "Đuổi đến Thanh Vũ Môn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 510,
-      "title": "Bình Chướng Kim Tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 511,
-      "title": "Tiểu nhân trong mắt tiểu nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 512,
-      "title": "Hồng Linh Nhi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 513,
-      "title": "Sư thái"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 514,
-      "title": "Bắt giữ Vô Trần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 515,
-      "title": "Lại quay về Kiến Khang"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 516,
-      "title": "Ân tình nhiều năm trước"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 517,
-      "title": "Truyền pháp ở Thái Thanh Tông"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 518,
-      "title": "Độc ác"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 519,
-      "title": "Ngự khí"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 520,
-      "title": "Đấu pháp với Thiên Sương Tử"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 521,
-      "title": "Ai là hung thủ?"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 522,
-      "title": "Tạo hóa trêu người"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 523,
-      "title": "Hết đường xoay chuyển"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 524,
-      "title": "Tề tựu đông đủ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 525,
-      "title": "Trúng kế"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 526,
-      "title": "Yêu vật thượng cổ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 527,
-      "title": "Đại yêu chín đầu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 528,
-      "title": "Cửu Anh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 529,
-      "title": "Quỷ đói"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 530,
-      "title": "530"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 531,
-      "title": "Dời núi"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 532,
-      "title": "Bia đá thời thượng cổ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 533,
-      "title": "Chuẩn bị chiến đấu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 534,
-      "title": "Ba lá phù vàng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 535,
-      "title": "Viện quân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 536,
-      "title": "Đại chiến"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 537,
-      "title": "Một tấm phù vàng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 538,
-      "title": "Ngũ Hành Long Thần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 539,
-      "title": "Dầu hết đèn tắt"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 540,
-      "title": "Đại chiến kết thúc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 541,
-      "title": "Thiên địa mở ra"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 542,
-      "title": "Lựa chọn của Lão Ngũ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 543,
-      "title": "Mười tội trạng lớn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 544,
-      "title": "Thiên Đình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 545,
-      "title": "Biến cố thương tâm"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 546,
-      "title": "Mưu sau đó động"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 547,
-      "title": "Cô độc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 548,
-      "title": "Nguyên Anh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 549,
-      "title": "Phân thân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 550,
-      "title": "Nam Thiên Môn"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 551,
-      "title": "Lôi Công Điện Mẫu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 552,
-      "title": "Đô thống năm bộ"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 553,
-      "title": "Giải oan hay bức cung"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 554,
-      "title": "Trở lại Thiên Uy cung"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 555,
-      "title": "Thăng đường"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 556,
-      "title": "Phóng hoả Thiên Đình"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 557,
-      "title": "Điều binh"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 558,
-      "title": "Phong Ngự Cửu Thu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 559,
-      "title": "Ngũ Cực Chiến Thần"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 560,
-      "title": "Đại La Kim Tiên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 561,
-      "title": "Thượng Thanh tổ sư"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 562,
-      "title": "Một trăm lẻ ba ngày"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 563,
-      "title": "Phá núi làm lăng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 564,
-      "title": "Mạc Vấn tuổi trung niên"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 565,
-      "title": "Gặp lại Thạch Chân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 566,
-      "title": "Thế gian muôn màu"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 567,
-      "title": "Đạo sĩ thật giả"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 568,
-      "title": "Luận đạo"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 569,
-      "title": "Độ hóa"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 570,
-      "title": "Kéo dài thời gian"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 571,
-      "title": "Nguồn gốc sự việc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 572,
-      "title": "Giải quyết tận gốc"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 573,
-      "title": "Thích khách"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 574,
-      "title": "Âm Dương sau lưng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 575,
-      "title": "Thiếu niên tóc trắng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 576,
-      "title": "Hậu nhân"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 577,
-      "title": "Nắm chắc thắng lợi trong tay"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 578,
-      "title": "Thực tế ngỡ ngàng"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 579,
-      "title": "Bỏ chạy"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 580,
-      "title": "Chương cuối"
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 581,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 582,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 583,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 584,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 585,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 586,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 587,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 588,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 589,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 590,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 591,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 592,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 593,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 594,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 595,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 596,
+      "title": "(Hết quyển)"
+    },
+    {
+      "num": 597,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 598,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 599,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 600,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 601,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 602,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 603,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 604,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 605,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 606,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 607,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 608,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 609,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 610,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 611,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 612,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 613,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 614,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 615,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 616,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 617,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 618,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 619,
+      "title": "(Hết quyển)"
+    },
+    {
+      "num": 620,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 621,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 622,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 623,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 624,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 625,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 626,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 627,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 628,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 629,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 630,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 631,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 632,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 633,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 634,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 635,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 636,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 637,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 638,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 639,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 640,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 641,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 642,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 643,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 644,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 645,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 646,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 647,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 648,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 649,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 650,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 651,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 652,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 653,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 654,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 655,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 656,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 657,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 658,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 659,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 660,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 661,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 662,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 663,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 664,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 665,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 666,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 667,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 668,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 669,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 670,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 671,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 672,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 673,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 674,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 675,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 676,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 677,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 678,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 679,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 680,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 681,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 682,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 683,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 684,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 685,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 686,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 687,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 688,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 689,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 690,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 691,
+      "title": "",
+      "titleConfirmed": true
     }
   ],
-  "slug": "tu_duong",
-  "title": "Tử Dương",
-  "author": "Phong Ngự Cửu Thu",
-  "synopsis": "Tiên hiệp cổ điển pha lịch sử quân sự, tác phẩm của Phong Ngự Cửu Thu sau bộ Tàn Bào. Mùa đông năm 340 sau Công nguyên, bờ bắc Hoàng Hà, huyện Tây Dương sắp thất thủ trước vó ngựa người Hồ. Giữa lúc cả thành chạy loạn xuôi Nam, một thiếu niên Mạc gia vừa kịp cử hành hôn lễ vội vã — rồi bị cuốn vào thời loạn, vào con đường tu đạo Thượng Thanh và vào những cuộc chia ly mà thời cuộc áp lên số phận. Nhiều bi kịch, nhưng kết thúc có hậu.",
-  "coverColor": "#6f5b8e"
+  "coverColor": "#3f5661"
 }
