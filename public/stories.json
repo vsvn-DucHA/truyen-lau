@@ -1,42 +1,90 @@
 [
   {
+    "slug": "cau_ma",
+    "totalChapters": 1470,
+    "title": "Cầu Ma",
+    "author": "Nhĩ Căn",
+    "synopsis": "Truyện tiên hiệp của Nhĩ Căn, cùng tác giả Tiên Nghịch. Tô Minh, một thiếu niên bộ lạc, bước vào con đường tu hành giữa thế giới khắc nghiệt nơi mạnh được yếu thua. Xuyên suốt truyện là hành trình hắn theo đuổi sức mạnh và đối diện những mất mát trên đường đi.",
+    "coverColor": "#5c6b4f"
+  },
+  {
+    "slug": "cau_tha_thanh_thanh_nhan",
+    "totalChapters": 1133,
+    "title": "Cẩu Thả Thành Thánh Nhân",
+    "author": "",
+    "synopsis": "",
+    "coverColor": "#8e6f5b"
+  },
+  {
+    "slug": "co_chan_nhan",
+    "totalChapters": 1975,
+    "title": "Cổ Chân Nhân",
+    "author": "Cổ Chân Nhân",
+    "synopsis": "Người là linh của vạn vật, Cổ là tinh túy chân thật của đất trời. Tam quan bất chính, ma đầu trọng sinh. Giấc mộng năm xưa, tác phẩm mới cùng tên. Câu chuyện về một kẻ xuyên không không ngừng trọng sinh, giữa một thế giới kỳ dị của việc nuôi Cổ, luyện Cổ và dùng Cổ. Xuân Thu Thiền, Nguyệt Quang Cổ, Tửu Trùng, Nhất Khí Kim Quang Trùng, Thanh Ti Cổ, Hi Vọng Cổ… và một đại ma đầu tuyệt thế phóng túng tung hoành!",
+    "coverColor": "#5c6b4f"
+  },
+  {
+    "slug": "con_duong_ba_chu",
+    "totalChapters": 3752,
+    "title": "Con Đường Bá Chủ",
+    "author": "Akay Hau",
+    "synopsis": "Truyện tu luyện huyền huyễn của Akay Hau. Lạc Nam khởi đầu từ con số không, nhận được cơ duyên hồn thuật và từng bước gây dựng thực lực giữa một thế giới phân tranh, hướng tới đỉnh cao quyền lực. Truyện dài 3752 chương, đã hoàn.",
+    "coverColor": "#cc785c"
+  },
+  {
     "slug": "khong_co_tien_tu_cai_gi_tien",
+    "totalChapters": 978,
     "title": "Không Có Tiền Từ Cái Gì Tiên",
     "author": "Khuyết danh",
     "synopsis": "Trương Vũ, một học sinh đứng đầu trường sơ trung ngoại ô, thi trượt vào các cao trung tiên đạo danh tiếng. Sau một đêm thực hiện nghi thức bí ẩn trên sân thượng, hắn xuyên không vào thân xác một Trương Vũ khác — người đang gánh trên vai món nợ 70 vạn đồng và không còn một xu dính túi. Trong một thế giới nơi tiên đạo thống trị tất cả, liệu hắn có thể leo lên từ con số âm?",
-    "totalChapters": 978,
+    "coverColor": "#cc785c"
+  },
+  {
+    "slug": "tien_cong_khai_vat",
+    "totalChapters": 974,
+    "title": "Tiên Công Khai Vật",
+    "author": "Cổ chân nhân",
+    "synopsis": "Ninh Chuyết mang trong mình lời hứa với người mẹ quá cố, quyết tâm vượt qua mọi khó khăn để làm chủ hoàn toàn Tiên cung, trở thành người kế thừa xứng đáng và kế thừa những tinh hoa kỹ thuật tiên giới được lưu truyền lại.",
     "coverColor": "#cc785c"
   },
   {
     "slug": "tien_tu_tra_ta_phi_kiem",
-    "title": "Tiên tử, tra ta phi kiếm",
-    "author": "Khuyết danh",
-    "synopsis": "",
     "totalChapters": 245,
+    "title": "Tiên Tử Trả Ta Phi Kiếm",
+    "author": "Vị Thần Bí Mật",
+    "synopsis": "Sau khi dồn hết tiền tiết kiệm để mua một thanh phi kiếm, Lâm Gian chưa kịp vui mừng thì vũ khí của mình đã bị chiêu thức \"Vạn Kiếm Quy Tông\" của Xuân Tuyết Kiếm Tiên triệu hồi đi mất và trả lại dưới dạng... 8 mảnh vụn. Để đòi lại công bằng, anh chàng \"điểm tử vương\" (lắm mưu mẹo) này đã quyết định bắt đền và ép vị nữ kiếm tiên mạnh nhất phải làm thuê trả nợ cho mình. Từ đây, một hành trình tu tiên đầy hài hước và \"dở khóc dở cười\" bắt đầu giữa một gã tu sĩ nghèo lém lỉnh và một nàng kiếm tiên bất đắc dĩ.",
     "coverColor": "#666666"
   },
   {
-    "slug": "tien_cong_khai_vat",
-    "title": "Tiên công khai vật",
-    "author": "Cổ chân nhân",
-    "synopsis": "Trong núi lửa tồn tại một tiên cung cơ quan do cổ đại đại năng lưu lại, chờ người kế thừa. Trước lúc chết, mẹ của Ninh Chuyết liều mạng đoạt được tiên cung bảo ấn và giao lại cho hắn. Mang theo “Phật Tâm Ma Ấn”, Ninh Chuyết sở hữu khả năng điều khiển cơ quan khôi lỗi vượt xa người thường. Khi người khác phải hao tổn tâm thần để thao túng cơ quan, hắn lại có thể một người khống chế vạn vật, tung hoành như múa. Giữa thế giới tu tiên đầy âm mưu và tranh đoạt, Ninh Chuyết từng bước tiến vào tiên cung cổ đại, tranh cơ duyên, đoạt truyền thừa, lấy cơ quan thuật khai sáng con đường tu tiên độc nhất vô nhị. Một bộ tiên hiệp đậm chất mưu lược, cơ quan thuật và phong cách main thông minh đúng chất tác giả Cổ Chân Nhân.",
-    "totalChapters": 974,
-    "coverColor": "#cc785c"
-  },
-  {
-    "slug": "co_chan_nhan",
-    "title": "Cổ Chân Nhân",
-    "author": "Cổ Chân Nhân",
-    "synopsis": "Người là linh của vạn vật, Cổ là tinh túy chân thật của đất trời. Tam quan bất chính, ma đầu trọng sinh. Giấc mộng năm xưa, tác phẩm mới cùng tên. Câu chuyện về một kẻ xuyên không không ngừng trọng sinh, giữa một thế giới kỳ dị của việc nuôi Cổ, luyện Cổ và dùng Cổ. Xuân Thu Thiền, Nguyệt Quang Cổ, Tửu Trùng, Nhất Khí Kim Quang Trùng, Thanh Ti Cổ, Hi Vọng Cổ… và một đại ma đầu tuyệt thế phóng túng tung hoành!",
-    "totalChapters": 1975,
-    "coverColor": "#5c6b4f"
+    "slug": "tu_duong",
+    "totalChapters": 580,
+    "title": "Tử Dương",
+    "author": "Phong Ngự Cửu Thu",
+    "synopsis": "Tiên hiệp cổ điển pha lịch sử quân sự, tác phẩm của Phong Ngự Cửu Thu sau bộ Tàn Bào. Mùa đông năm 340 sau Công nguyên, bờ bắc Hoàng Hà, huyện Tây Dương sắp thất thủ trước vó ngựa người Hồ. Giữa lúc cả thành chạy loạn xuôi Nam, một thiếu niên Mạc gia vừa kịp cử hành hôn lễ vội vã — rồi bị cuốn vào thời loạn, vào con đường tu đạo Thượng Thanh và vào những cuộc chia ly mà thời cuộc áp lên số phận. Nhiều bi kịch, nhưng kết thúc có hậu.",
+    "coverColor": "#6f5b8e"
   },
   {
     "slug": "vot_thi_nhan",
+    "totalChapters": 690,
     "title": "Vớt Thi Nhân",
     "author": "Thuần Khiết Đích Tiểu Long",
     "synopsis": "Người biết ma đáng sợ, ma mới tỏ lòng người độc. Một cuốn linh dị truyền thống, lấy bối cảnh vùng sông nước thôn quê Trung Quốc thập niên 1990: nơi có những người sống bằng nghề vớt xác trôi sông, những đám tang giữa đêm, và một cậu bé sớm phải học cách nhìn thẳng vào thứ mà người lớn né tránh.",
-    "totalChapters": 0,
     "coverColor": "#3f5661"
+  },
+  {
+    "slug": "ai_bao_han_tu_tien",
+    "totalChapters": 1352,
+    "title": "Ai Bảo Hắn Tu Tiên",
+    "author": "Tối Bạch Đích Ô Nha",
+    "synopsis": "Tiên hiệp hài hước xoay quanh Lục Dương, đệ tử Vấn Đạo Tông, trên hành trình tu luyện đầy mưu mẹo và vận may để vươn tới đỉnh cao tiên giới. Truyện pha trộn yếu tố tiên hiệp cổ điển, những biến động dòng thời gian và một thế lực bí ẩn đứng sau hậu trường, kết thúc khi Lục Dương cùng đồng môn — trong đó có sư tỷ Vân Chi — đánh bại kẻ chủ mưu và đạt tới cảnh giới tối cao.",
+    "coverColor": ""
+  },
+  {
+    "slug": "tro_ve_lang_chai_nho_nam_1982",
+    "totalChapters": 1246,
+    "title": "Trở Về Làng Chài Nhỏ Năm 1982",
+    "author": "",
+    "synopsis": "",
+    "coverColor": "#4f6b6b"
   }
 ]
