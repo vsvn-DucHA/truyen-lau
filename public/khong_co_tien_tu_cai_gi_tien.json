@@ -1,9 +1,9 @@
 {
   "slug": "khong_co_tien_tu_cai_gi_tien",
-  "title": "Không Có Tiền Tu Cái Gì Tiên",
+  "title": "Không Có Tiền Từ Cái Gì Tiên",
   "author": "Khuyết danh",
   "synopsis": "Trương Vũ, một học sinh đứng đầu trường sơ trung ngoại ô, thi trượt vào các cao trung tiên đạo danh tiếng. Sau một đêm thực hiện nghi thức bí ẩn trên sân thượng, hắn xuyên không vào thân xác một Trương Vũ khác — người đang gánh trên vai món nợ 70 vạn đồng và không còn một xu dính túi. Trong một thế giới nơi tiên đạo thống trị tất cả, liệu hắn có thể leo lên từ con số âm?",
-  "totalChapters": 978,
+  "totalChapters": 1038,
   "chapters": [
     {
       "num": 1,
@@ -511,7 +511,8 @@
     },
     {
       "num": 127,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 128,
@@ -2315,7 +2316,7 @@
     },
     {
       "num": 578,
-      "title": "Bán Pháp Hài khinh xa (Cảm ơn 『Nhâm Ngọ Đinh Mùi Canh Thìn Bính...⟧"
+      "title": "Bán Pháp Hài khinh xa"
     },
     {
       "num": 579,
@@ -2495,7 +2496,7 @@
     },
     {
       "num": 623,
-      "title": "Cuồng Thiên Khuynh, hãy tận hưởng đi (cảm ơn『Đạp Hạc Trảm⟧)"
+      "title": "Cuồng Thiên Khuynh, hãy tận hưởng đi"
     },
     {
       "num": 624,
@@ -3039,7 +3040,8 @@
     },
     {
       "num": 759,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 760,
@@ -3051,11 +3053,13 @@
     },
     {
       "num": 762,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 763,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 764,
@@ -3099,7 +3103,8 @@
     },
     {
       "num": 774,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 775,
@@ -3299,7 +3304,8 @@
     },
     {
       "num": 824,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 825,
@@ -3863,7 +3869,8 @@
     },
     {
       "num": 965,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 966,
@@ -3871,7 +3878,8 @@
     },
     {
       "num": 967,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 968,
@@ -3916,6 +3924,247 @@
     {
       "num": 978,
       "title": "Về thời gian cập nhật"
+    },
+    {
+      "num": 979,
+      "title": "Tiên đế ban Sách, nhân sự mới trúng tuyển Khảo Tông"
+    },
+    {
+      "num": 980,
+      "title": "Pháp mạch Viêm Dương 4 cấp, thể xác tiên nhân mới (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 981,
+      "title": "Ta gánh vác tất cả! Người bất ngờ đột kích (Cảm ơn «Kim Thương Tượng Lư Toa» đã tiếp tục thưởng 2 liên minh)"
+    },
+    {
+      "num": 982,
+      "title": "Trưởng phòng Trương gánh nặng tiến lên, Trương Vũ chia làm ba! (Cầu phiếu tháng)"
+    },
+    {
+      "num": 983,
+      "title": "Ngày 1 tháng 1, Trưởng phòng Trương mang đến thời đại hoàng kim của Vạn Pháp"
+    },
+    {
+      "num": 984,
+      "title": "Ngồi cho vững, đây chính là sau thời đại hoàng kim (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 985,
+      "title": "Dẫn dắt nhân tài đặc biệt hạ giới (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 986,
+      "title": "Trương Vũ, đôi mắt của ngươi rốt cuộc nhìn được bao xa"
+    },
+    {
+      "num": 987,
+      "title": "Đạo quân ban sống, Côn Khư từ thiện (vẫn còn một chương)"
+    },
+    {
+      "num": 988,
+      "title": "Trương Vũ tiến kích (cầu phiếu tháng, hôm nay hai chương tổng cộng 1.2W+)"
+    },
+    {
+      "num": 989,
+      "title": "Các ngươi phái cải cách thực sự muốn đối địch với người trong thiên hạ sao? (Cảm ơn \"Đột Thải\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 990,
+      "title": "Pháp điều đặc đẳng, quả thực xứng đáng"
+    },
+    {
+      "num": 991,
+      "title": "Tiên đế Thiên Yêu, Thái Chân, biến dị bỗng sinh (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 992,
+      "title": "Tiên đế số 11 mới (Lát nữa còn một chương)"
+    },
+    {
+      "num": 993,
+      "title": "Bí mật của Vân Thái Chân (Xin vé tháng, hôm nay tổng cộng 1,1 vạn+ chữ)"
+    },
+    {
+      "num": 994,
+      "title": "Hậu duệ Tiên Nhân cấp 7 (6700+, cầu phiếu tháng)"
+    },
+    {
+      "num": 995,
+      "title": "Chiến pháp cao cấp, mộc mạc giản dị"
+    },
+    {
+      "num": 996,
+      "title": ""
+    },
+    {
+      "num": 997,
+      "title": "Chém xuống, đừng quay đầu ta là Bộ Ảnh Sơ (hơn 7000 chữ, cầu vé tháng)"
+    },
+    {
+      "num": 998,
+      "title": "Kết thúc, 95% (Hơn 8000 chữ, cầu vé tháng)"
+    },
+    {
+      "num": 999,
+      "title": "Tiên đế số 11 sắp bước lên ngôi vị tối cao (Cầu vé tháng)"
+    },
+    {
+      "num": 1000,
+      "title": "100%, Thức tỉnh (Cầu vé tháng)"
+    },
+    {
+      "num": 1001,
+      "title": "Chứng đạo Côn Khư, xưng đế (Vẫn còn một chương)"
+    },
+    {
+      "num": 1002,
+      "title": "Hy vọng trong tuyệt vọng (Cầu phiếu tháng)"
+    },
+    {
+      "num": 1003,
+      "title": "Thái Chân tiền bối, con là con ruột của người (cảm ơn \"Phong Cuồng Đạt Bất Lưu\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 1004,
+      "title": "Con ngoan Trương Vũ"
+    },
+    {
+      "num": 1005,
+      "title": "Tinh hỏa tương truyền, một đường tiến tới (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 1006,
+      "title": "Chia Thái Chân, cướp di sản (cảm ơn \"Phồn Hoa_Thế Mạt\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 1007,
+      "title": "Kế thừa tuyệt học của bậc thánh đi đời, Kinh chứng đạo bẩm sinh, Khai thiên! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 1008,
+      "title": "Cướp nhà, nghịch phạt"
+    },
+    {
+      "num": 1009,
+      "title": "Đi mà nói với di sản Thái Chân của ta đi (cảm ơn \"Thanh Đồ ex\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 1010,
+      "title": "Phái cải cách khó làm nên đại sự, ta ủng hộ ngươi"
+    },
+    {
+      "num": 1011,
+      "title": "Vũ Sách, để ta xem cực hạn của ngươi (Cảm ơn \"Tụy Hương 258\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 1012,
+      "title": "Thu nộp sách thiên hạ"
+    },
+    {
+      "num": 1013,
+      "title": "Lôi kiếp đặc sắc của Côn Khư (phía sau vẫn còn một chương)"
+    },
+    {
+      "num": 1014,
+      "title": "Đạo chủng mới, Bộ Ảnh Sơ vội vàng chạy tới"
+    },
+    {
+      "num": 1015,
+      "title": "Đến lượt ta làm cha, đám súc sinh hạ giới lại lớn mạnh"
+    },
+    {
+      "num": 1016,
+      "title": "Huyết mạch nghịch di truyền, độ kiếp đối cược"
+    },
+    {
+      "num": 1017,
+      "title": "Mùa hè đẹp nhất Côn Khư (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 1018,
+      "title": "Pằng pằng (phía sau hãy còn một chương)"
+    },
+    {
+      "num": 1019,
+      "title": "Thần thoại làm giàu nhanh chóng chưa từng có (cầu vé tháng)"
+    },
+    {
+      "num": 1020,
+      "title": "Lôi điện cuồn cuộn, đưa tán tu lên vị trí cao nhất (cầu vé tháng)"
+    },
+    {
+      "num": 1021,
+      "title": "Khởi động lôi kiếp thứ sáu (còn hơn 100 chữ nữa là đủ 9000, cầu vé tháng)"
+    },
+    {
+      "num": 1022,
+      "title": "Tiên đế tự mình giáng sét, thanh khoản tất cả! (cầu vé tháng)"
+    },
+    {
+      "num": 1023,
+      "title": "Thần đầu tư, mọi việc cứ tùy ý buông tay mà làm (cầu vé tháng)"
+    },
+    {
+      "num": 1024,
+      "title": "Sơ tháng 9 (tối nay) quay thưởng vé tháng: Phiếu bánh trung thu loại 298"
+    },
+    {
+      "num": 1025,
+      "title": "Lôi kiếp thứ bảy của Trương Vũ (cầu vé tháng)"
+    },
+    {
+      "num": 1026,
+      "title": "Tuyệt thế hảo nhân, thay trời hành phạt (cầu vé tháng)"
+    },
+    {
+      "num": 1027,
+      "title": "Trẫm tuyệt thế hảo kiếm (cầu vé tháng)"
+    },
+    {
+      "num": 1028,
+      "title": "Ma trận điều luật của Trương Vũ (Cầu phiếu tháng)"
+    },
+    {
+      "num": 1029,
+      "title": "Đảo lộn Côn Lôn cực hạn, Chưởng thư nhân (Cảm ơn \"Sư thúc Ngô\" đã trở thành Minh chủ)"
+    },
+    {
+      "num": 1030,
+      "title": "Vũ Thư cầu đạo, đạo thống của Ánh Tân Thiên (Phía sau vẫn còn một chương)"
+    },
+    {
+      "num": 1031,
+      "title": "Vũ Thư tiên cơ (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 1032,
+      "title": "Tăng lương gấp mười (Phía sau vẫn còn một chương)"
+    },
+    {
+      "num": 1033,
+      "title": "Quá mức ân sủng, công thư tư dụng (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 1034,
+      "title": "Trương Vũ thành ma mị Côn Khư? Tiên Binh Phủ"
+    },
+    {
+      "num": 1035,
+      "title": "Thịnh thế mã nguồn mở, tiên đạo kỳ thư người nào gặp"
+    },
+    {
+      "num": 1036,
+      "title": "Sao chép so tài, lặp lại điên cuồng"
+    },
+    {
+      "num": 1037,
+      "title": "Tự nghiên cứu bản đồ liên pháp, thu hoạch sách mới (cảm ơn \"Tử Ký Xán\" đã thưởng minh chủ)"
+    },
+    {
+      "num": 1038,
+      "title": "Liên Pháp Tổng Cương, đến từ tương lai (cầu vé tháng)"
     }
-  ]
+  ],
+  "coverColor": "#cc785c"
 }

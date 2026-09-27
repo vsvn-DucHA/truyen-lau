@@ -2707,7 +2707,8 @@
     },
     {
       "num": 676,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 677,
@@ -2755,7 +2756,8 @@
     },
     {
       "num": 688,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 689,
@@ -3901,5 +3903,6 @@
       "num": 974,
       "title": "Năm trận diễn võ, bắt đầu"
     }
-  ]
+  ],
+  "coverColor": "#cc785c"
 }

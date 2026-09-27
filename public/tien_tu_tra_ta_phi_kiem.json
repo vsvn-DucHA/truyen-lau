@@ -159,7 +159,8 @@
     },
     {
       "num": 39,
-      "title": "Chương 39:"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 40,
@@ -985,5 +986,6 @@
       "num": 245,
       "title": "Át chủ bài tung hết"
     }
-  ]
+  ],
+  "coverColor": "#666666"
 }

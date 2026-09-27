@@ -7,7 +7,8 @@
   "chapters": [
     {
       "num": 1,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 2,
@@ -575,7 +576,8 @@
     },
     {
       "num": 143,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 144,
@@ -3763,7 +3765,8 @@
     },
     {
       "num": 940,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 941,
@@ -4335,7 +4338,8 @@
     },
     {
       "num": 1083,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1084,
@@ -6519,7 +6523,8 @@
     },
     {
       "num": 1629,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1630,
@@ -6571,7 +6576,8 @@
     },
     {
       "num": 1642,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1643,
@@ -6635,11 +6641,13 @@
     },
     {
       "num": 1658,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1659,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1660,
@@ -6699,7 +6707,8 @@
     },
     {
       "num": 1674,
-      "title": "𝚬m uất (Cộng thêm chương cho minh chủ Mộng Yểm Thập Nhị)"
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1675,
@@ -6751,7 +6760,8 @@
     },
     {
       "num": 1687,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1688,
@@ -6779,7 +6789,8 @@
     },
     {
       "num": 1694,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1695,
@@ -6851,7 +6862,8 @@
     },
     {
       "num": 1712,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1713,
@@ -6879,7 +6891,8 @@
     },
     {
       "num": 1719,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1720,
@@ -7031,7 +7044,8 @@
     },
     {
       "num": 1757,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1758,
@@ -7131,7 +7145,8 @@
     },
     {
       "num": 1782,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1783,
@@ -7259,11 +7274,13 @@
     },
     {
       "num": 1814,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1815,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1816,
@@ -7359,7 +7376,8 @@
     },
     {
       "num": 1839,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1840,
@@ -7647,7 +7665,8 @@
     },
     {
       "num": 1911,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1912,
@@ -7895,7 +7914,8 @@
     },
     {
       "num": 1973,
-      "title": ""
+      "title": "",
+      "titleConfirmed": true
     },
     {
       "num": 1974,
@@ -7905,5 +7925,6 @@
       "num": 1975,
       "title": "Bị nổ cho suýt mất trí nhớ"
     }
-  ]
+  ],
+  "coverColor": "#5c6b4f"
 }

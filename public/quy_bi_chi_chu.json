@@ -1,0 +1,7098 @@
+{
+  "totalChapters": 1770,
+  "slug": "quy_bi_chi_chu",
+  "title": "Quỷ Bí Chi Chủ",
+  "author": "Ái Tiềm Thủy Đích Ô Tặc",
+  "synopsis": "Tây huyễn kỳ bí của Ái Tiềm Thủy Đích Ô Tặc. Chu Minh Thuỵ tỉnh dậy trong thân xác Klein Moretti, một sinh viên nghèo ở thế giới mang dáng dấp nước Anh thời Victoria, nơi hơi nước, súng ống và những thế lực thần bí cùng tồn tại. Để sống sót và tìm đường trở về, hắn bước vào con đường của Người phi phàm, nơi mỗi lọ ma dược là một bước gần hơn tới sức mạnh và cũng tới cơn điên loạn.",
+  "coverColor": "#7a3b3b",
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Đỏ rực"
+    },
+    {
+      "num": 2,
+      "title": "Tình trạng"
+    },
+    {
+      "num": 3,
+      "title": "Melissa"
+    },
+    {
+      "num": 4,
+      "title": "Bói toán"
+    },
+    {
+      "num": 5,
+      "title": "Nghi thức"
+    },
+    {
+      "num": 6,
+      "title": "Người phi phàm"
+    },
+    {
+      "num": 7,
+      "title": "Danh hiệu"
+    },
+    {
+      "num": 8,
+      "title": "Thời đại mới"
+    },
+    {
+      "num": 9,
+      "title": "Bút ký"
+    },
+    {
+      "num": 10,
+      "title": "Thái độ bình thường"
+    },
+    {
+      "num": 11,
+      "title": "Tài nấu nướng thực sự"
+    },
+    {
+      "num": 12,
+      "title": "Lại đến lần nữa"
+    },
+    {
+      "num": 13,
+      "title": "Kẻ gác đêm"
+    },
+    {
+      "num": 14,
+      "title": "Người thông linh"
+    },
+    {
+      "num": 15,
+      "title": "Lời mời"
+    },
+    {
+      "num": 16,
+      "title": "Chó bắt chuột"
+    },
+    {
+      "num": 17,
+      "title": "Bộ phận hành động đặc biệt"
+    },
+    {
+      "num": 18,
+      "title": "Khởi nguồn và nguyên nhân"
+    },
+    {
+      "num": 19,
+      "title": "Vật phong ấn"
+    },
+    {
+      "num": 20,
+      "title": "Dunn hay quên"
+    },
+    {
+      "num": 21,
+      "title": "Xa quê gặp bạn cũ"
+    },
+    {
+      "num": 22,
+      "title": "Danh sách đầu"
+    },
+    {
+      "num": 23,
+      "title": "Vũ khí tay trái"
+    },
+    {
+      "num": 24,
+      "title": "Tiết kiệm chăm lo cho gia đình"
+    },
+    {
+      "num": 25,
+      "title": "Giáo đường"
+    },
+    {
+      "num": 26,
+      "title": "Luyện tập"
+    },
+    {
+      "num": 27,
+      "title": "Bữa tối của ba anh em"
+    },
+    {
+      "num": 28,
+      "title": "Hội mật tu"
+    },
+    {
+      "num": 29,
+      "title": "\"Nghề nghiệp\" và nhà ở đều là chuyện nghiêm túc"
+    },
+    {
+      "num": 30,
+      "title": "Khởi đầu mới"
+    },
+    {
+      "num": 31,
+      "title": "Ma dược"
+    },
+    {
+      "num": 32,
+      "title": "Linh thị"
+    },
+    {
+      "num": 33,
+      "title": "\"Công tắc\""
+    },
+    {
+      "num": 34,
+      "title": "Thù lao chi trước"
+    },
+    {
+      "num": 35,
+      "title": "Trao đổi thông tin"
+    },
+    {
+      "num": 36,
+      "title": "Một vấn đề đơn giản"
+    },
+    {
+      "num": 37,
+      "title": "Câu lạc bộ"
+    },
+    {
+      "num": 38,
+      "title": "Kẻ đam mê nghiệp dư"
+    },
+    {
+      "num": 39,
+      "title": "Kỹ xảo thú vị"
+    },
+    {
+      "num": 40,
+      "title": "Khoá Thần Bí Học"
+    },
+    {
+      "num": 41,
+      "title": "Audrey và Susie"
+    },
+    {
+      "num": 42,
+      "title": "Quản gia Clea"
+    },
+    {
+      "num": 43,
+      "title": "Tìm người"
+    },
+    {
+      "num": 44,
+      "title": "Số mệnh"
+    },
+    {
+      "num": 45,
+      "title": "Quay lại"
+    },
+    {
+      "num": 46,
+      "title": "Tranh chân dung"
+    },
+    {
+      "num": 47,
+      "title": "Neil thiếu tiền"
+    },
+    {
+      "num": 48,
+      "title": "Hanas Fansent"
+    },
+    {
+      "num": 49,
+      "title": "Thuật xem bói"
+    },
+    {
+      "num": 50,
+      "title": "Biện pháp trả tiền của Neil"
+    },
+    {
+      "num": 51,
+      "title": "Nghi thức ma pháp mộc mạc"
+    },
+    {
+      "num": 52,
+      "title": "Khán giả"
+    },
+    {
+      "num": 53,
+      "title": "Người lắng nghe"
+    },
+    {
+      "num": 54,
+      "title": "Người tới xem bói đầu tiên"
+    },
+    {
+      "num": 55,
+      "title": "Gợi ý"
+    },
+    {
+      "num": 56,
+      "title": "Cuộc giết chóc và chạy trốn trên biển"
+    },
+    {
+      "num": 57,
+      "title": "Tu chỉnh và tổng kết"
+    },
+    {
+      "num": 58,
+      "title": "Mạch suy nghĩ"
+    },
+    {
+      "num": 59,
+      "title": "Thuở ban đầu của Russel"
+    },
+    {
+      "num": 60,
+      "title": "\"Phiến đá khinh nhờn\" thứ hai"
+    },
+    {
+      "num": 61,
+      "title": "Ký hiệu kỳ quái"
+    },
+    {
+      "num": 62,
+      "title": "Đề nghị của &amp;quot;thầy bói&amp;quot;"
+    },
+    {
+      "num": 63,
+      "title": "Giải mộng"
+    },
+    {
+      "num": 64,
+      "title": "Kẻ xúi giục"
+    },
+    {
+      "num": 65,
+      "title": "Tư liệu người phi phàm"
+    },
+    {
+      "num": 66,
+      "title": "Giáo phái ma nữ"
+    },
+    {
+      "num": 67,
+      "title": "&amp;quot;Lời hồi đáp&amp;quot;"
+    },
+    {
+      "num": 68,
+      "title": "&amp;quot;Quái vật&amp;quot;"
+    },
+    {
+      "num": 69,
+      "title": "Bùa hộ mệnh"
+    },
+    {
+      "num": 70,
+      "title": "&amp;quot;2 - 049&amp;quot; đã tới"
+    },
+    {
+      "num": 71,
+      "title": "Hiện tượng đình trệ"
+    },
+    {
+      "num": 72,
+      "title": "Lần theo dấu vết"
+    },
+    {
+      "num": 73,
+      "title": "Khai màn trận chiến"
+    },
+    {
+      "num": 74,
+      "title": "Riel Bieber"
+    },
+    {
+      "num": 75,
+      "title": "Tự cứu"
+    },
+    {
+      "num": 76,
+      "title": "Xử lý hậu quả"
+    },
+    {
+      "num": 77,
+      "title": "Vật còn sót lại"
+    },
+    {
+      "num": 78,
+      "title": "Bóng ma tâm lý"
+    },
+    {
+      "num": 79,
+      "title": "Tiếng lẩm bẩm lại xuất hiện"
+    },
+    {
+      "num": 80,
+      "title": "Lời mời dự tiệc tối"
+    },
+    {
+      "num": 81,
+      "title": "Nghe danh đã lâu giờ mớii gặp"
+    },
+    {
+      "num": 82,
+      "title": "Hiệu thuốc thảo dược"
+    },
+    {
+      "num": 83,
+      "title": "Điêu khắc"
+    },
+    {
+      "num": 84,
+      "title": "Elizabeth"
+    },
+    {
+      "num": 85,
+      "title": "Cấp bách"
+    },
+    {
+      "num": 86,
+      "title": "Khẩn cầu"
+    },
+    {
+      "num": 87,
+      "title": "Dặn dò"
+    },
+    {
+      "num": 88,
+      "title": "Báo cáo"
+    },
+    {
+      "num": 89,
+      "title": "Nhiệm vụ đơn giản"
+    },
+    {
+      "num": 90,
+      "title": "Thứ hắn &amp;quot;nhìn thấy&amp;quot;"
+    },
+    {
+      "num": 91,
+      "title": "Giải quyết"
+    },
+    {
+      "num": 92,
+      "title": "&amp;quot;Chuyên gia tâm lý học&amp;quot;"
+    },
+    {
+      "num": 93,
+      "title": "Nhật ký mới"
+    },
+    {
+      "num": 94,
+      "title": "Hiền giả ẩn nặc"
+    },
+    {
+      "num": 95,
+      "title": "&amp;quot;Người khẩn cầu&amp;quot;"
+    },
+    {
+      "num": 96,
+      "title": "Suy đoán của Daly"
+    },
+    {
+      "num": 97,
+      "title": "Thầy dạy giác đấu"
+    },
+    {
+      "num": 98,
+      "title": "Thầy Azcot"
+    },
+    {
+      "num": 99,
+      "title": "Ống Khói Đỏ"
+    },
+    {
+      "num": 100,
+      "title": "Giải mã biểu tượng"
+    },
+    {
+      "num": 101,
+      "title": "Manh mối ngoài ý muốn"
+    },
+    {
+      "num": 102,
+      "title": "Thương nhân vải vóc"
+    },
+    {
+      "num": 103,
+      "title": "Người nghe theo trái tim"
+    },
+    {
+      "num": 104,
+      "title": "Ngài Z"
+    },
+    {
+      "num": 105,
+      "title": "Thông Linh"
+    },
+    {
+      "num": 106,
+      "title": "Họa sĩ Klein"
+    },
+    {
+      "num": 107,
+      "title": "Filth"
+    },
+    {
+      "num": 108,
+      "title": "Đêm Khuya"
+    },
+    {
+      "num": 109,
+      "title": "Suy Luận"
+    },
+    {
+      "num": 110,
+      "title": "Xác Nhận"
+    },
+    {
+      "num": 111,
+      "title": "Gặp hụt"
+    },
+    {
+      "num": 112,
+      "title": "Lời giải thích của Azcot"
+    },
+    {
+      "num": 113,
+      "title": "Lời nhờ vả"
+    },
+    {
+      "num": 114,
+      "title": "Tiêu chuẩn thành viên"
+    },
+    {
+      "num": 115,
+      "title": "Tên tội phạm lừa đảo"
+    },
+    {
+      "num": 116,
+      "title": "Con của Lanlus"
+    },
+    {
+      "num": 117,
+      "title": "Tiếp xúc"
+    },
+    {
+      "num": 118,
+      "title": "Tháng tám"
+    },
+    {
+      "num": 119,
+      "title": "Phố dưới chân chính"
+    },
+    {
+      "num": 120,
+      "title": "Trại tế bần"
+    },
+    {
+      "num": 121,
+      "title": "&amp;quot;Suy đoán&amp;quot; của Leonard"
+    },
+    {
+      "num": 122,
+      "title": "Ngôi nhà mục tiêu"
+    },
+    {
+      "num": 123,
+      "title": "Trận chiến siêu phàm"
+    },
+    {
+      "num": 124,
+      "title": "Công việc hậu cần"
+    },
+    {
+      "num": 125,
+      "title": "Ý tưởng của kẻ to gan"
+    },
+    {
+      "num": 126,
+      "title": "Xem bói không phải thứ vạn năng"
+    },
+    {
+      "num": 127,
+      "title": "Tạo dấu hiệu"
+    },
+    {
+      "num": 128,
+      "title": "Ngài Kẻ Khờ bần cùng"
+    },
+    {
+      "num": 129,
+      "title": "Người mất khống chế"
+    },
+    {
+      "num": 130,
+      "title": "Tụ hội bí ẩn ở Backlund"
+    },
+    {
+      "num": 131,
+      "title": "Giao dịch"
+    },
+    {
+      "num": 132,
+      "title": "Gặp lại &amp;quot;Quái Vật&amp;quot;"
+    },
+    {
+      "num": 133,
+      "title": "Bùa chú đắt đỏ"
+    },
+    {
+      "num": 134,
+      "title": "Vượt qua 1 phút"
+    },
+    {
+      "num": 135,
+      "title": "Bức tranh Nam tước"
+    },
+    {
+      "num": 136,
+      "title": "Klein khó xử"
+    },
+    {
+      "num": 137,
+      "title": "Tòa thành Bạch Ngân"
+    },
+    {
+      "num": 138,
+      "title": "Đường tắt &amp;quot;người khổng lồ&amp;quot;"
+    },
+    {
+      "num": 139,
+      "title": "Nghiên cứu &amp;quot;3 - 0782&amp;quot;"
+    },
+    {
+      "num": 140,
+      "title": "Kẻ hăng hái lao vào chỗ chết"
+    },
+    {
+      "num": 141,
+      "title": "Ác mộng"
+    },
+    {
+      "num": 142,
+      "title": "Liên tưởng"
+    },
+    {
+      "num": 143,
+      "title": "Công cụ phiên dịch đồng thời thương hiệu Kẻ Khờ"
+    },
+    {
+      "num": 144,
+      "title": "Giao dịch tay ba"
+    },
+    {
+      "num": 145,
+      "title": "Lời mời hợp tác"
+    },
+    {
+      "num": 146,
+      "title": "Đói khát ngọ nguậy"
+    },
+    {
+      "num": 147,
+      "title": "Kẻ tới thăm đêm khuya"
+    },
+    {
+      "num": 148,
+      "title": "Người đưa tin"
+    },
+    {
+      "num": 149,
+      "title": "Lời dẫn dắt rõ ràng"
+    },
+    {
+      "num": 150,
+      "title": "Phát hiện của Azcot"
+    },
+    {
+      "num": 151,
+      "title": "Lời thỉnh cầu của Klein"
+    },
+    {
+      "num": 152,
+      "title": "Thử nghiệm không tệ"
+    },
+    {
+      "num": 153,
+      "title": "Phần trải đường cuối cùng"
+    },
+    {
+      "num": 154,
+      "title": "Chia sẻ &amp;quot;kinh nghiệm&amp;quot;"
+    },
+    {
+      "num": 155,
+      "title": "Vội vã gặp nhau"
+    },
+    {
+      "num": 156,
+      "title": "Melissa biết suy xét lâu dài"
+    },
+    {
+      "num": 157,
+      "title": "Vật phẩm trong mơ"
+    },
+    {
+      "num": 158,
+      "title": "Lo trước khỏi hoạ"
+    },
+    {
+      "num": 159,
+      "title": "&amp;quot;Ban thưởng&amp;quot; và &amp;quot;Hiến tế&amp;quot;"
+    },
+    {
+      "num": 160,
+      "title": "Nắm bắt cơ hội"
+    },
+    {
+      "num": 161,
+      "title": "Lăng tẩm đảo ngược"
+    },
+    {
+      "num": 162,
+      "title": "Nắng gắt"
+    },
+    {
+      "num": 163,
+      "title": "Đủ các loại dấu hiệu"
+    },
+    {
+      "num": 164,
+      "title": "Kẻ đáng thương"
+    },
+    {
+      "num": 165,
+      "title": "Lời bia mộ"
+    },
+    {
+      "num": 166,
+      "title": "Đánh giá"
+    },
+    {
+      "num": 167,
+      "title": "Thánh vật"
+    },
+    {
+      "num": 168,
+      "title": "Ma dược &amp;quot;Tên Hề&amp;quot;"
+    },
+    {
+      "num": 169,
+      "title": "Năng lực mới"
+    },
+    {
+      "num": 170,
+      "title": "Chiếc còi đồng"
+    },
+    {
+      "num": 171,
+      "title": "Thăng chức, tăng lương"
+    },
+    {
+      "num": 172,
+      "title": "&amp;quot;Khám nghiệm tử thi&amp;quot;"
+    },
+    {
+      "num": 173,
+      "title": "Trở thành xác sống"
+    },
+    {
+      "num": 174,
+      "title": "Phu nhân Sharon"
+    },
+    {
+      "num": 175,
+      "title": "Suy đoán"
+    },
+    {
+      "num": 176,
+      "title": "Thư từ"
+    },
+    {
+      "num": 177,
+      "title": "Tình huống bất ngờ"
+    },
+    {
+      "num": 178,
+      "title": "Dự định tiếp theo"
+    },
+    {
+      "num": 179,
+      "title": "Ca ngợi ngài Kẻ Khờ"
+    },
+    {
+      "num": 180,
+      "title": "Người thông minh luôn nghĩ quá nhiều"
+    },
+    {
+      "num": 181,
+      "title": "Một trạng thái khác"
+    },
+    {
+      "num": 182,
+      "title": "Kẻ ngao du - Klein"
+    },
+    {
+      "num": 183,
+      "title": "Khóa học thông linh"
+    },
+    {
+      "num": 184,
+      "title": "Phía sau cánh cửa"
+    },
+    {
+      "num": 185,
+      "title": "Thế giới tâm linh"
+    },
+    {
+      "num": 186,
+      "title": "Đội trưởng đẹp trai"
+    },
+    {
+      "num": 187,
+      "title": "Thầy Azcot khuyên bảo"
+    },
+    {
+      "num": 188,
+      "title": "Vũ hội"
+    },
+    {
+      "num": 189,
+      "title": "Khẩn cầu và đáp lại"
+    },
+    {
+      "num": 190,
+      "title": "Phối hợp năng lực"
+    },
+    {
+      "num": 191,
+      "title": "Động cơ không rõ"
+    },
+    {
+      "num": 192,
+      "title": "Coi trọng"
+    },
+    {
+      "num": 193,
+      "title": "Kết thúc sự việc"
+    },
+    {
+      "num": 194,
+      "title": "Lẻn vào"
+    },
+    {
+      "num": 195,
+      "title": "“Chuyên gia mở khóa” Klein"
+    },
+    {
+      "num": 196,
+      "title": "Chiếc gương của Người thông linh"
+    },
+    {
+      "num": 197,
+      "title": "Hành động"
+    },
+    {
+      "num": 198,
+      "title": "Sở trường đặc biệt"
+    },
+    {
+      "num": 199,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 200,
+      "title": "Ma Nữ Hoan Du"
+    },
+    {
+      "num": 201,
+      "title": "Hỏi thăm"
+    },
+    {
+      "num": 202,
+      "title": "Xác nhận tình huống"
+    },
+    {
+      "num": 203,
+      "title": "&amp;quot;Dị chủng&amp;quot;"
+    },
+    {
+      "num": 204,
+      "title": "Người đến thăm"
+    },
+    {
+      "num": 205,
+      "title": "Bố trí khẩn cấp"
+    },
+    {
+      "num": 206,
+      "title": "Vật phong ấn cấp 2"
+    },
+    {
+      "num": 207,
+      "title": "Người bảo vệ"
+    },
+    {
+      "num": 208,
+      "title": "Tiếng khóc"
+    },
+    {
+      "num": 209,
+      "title": "Ánh sáng"
+    },
+    {
+      "num": 210,
+      "title": "Câu chuyện"
+    },
+    {
+      "num": 211,
+      "title": "Tang lễ"
+    },
+    {
+      "num": 212,
+      "title": "Kẻ báo thù"
+    },
+    {
+      "num": 213,
+      "title": "Gặp lại lần cuối"
+    },
+    {
+      "num": 214,
+      "title": "Vùng đất hy vọng"
+    },
+    {
+      "num": 215,
+      "title": "Phu nhân Sammer"
+    },
+    {
+      "num": 216,
+      "title": "Tụ hội không thay đổi"
+    },
+    {
+      "num": 217,
+      "title": "Miêu tả của ngài &amp;quot;Cửa&amp;quot;"
+    },
+    {
+      "num": 218,
+      "title": "Thường thức miễn phí"
+    },
+    {
+      "num": 219,
+      "title": "Giải thích"
+    },
+    {
+      "num": 220,
+      "title": "Nghi thức hiến tế của Klein"
+    },
+    {
+      "num": 221,
+      "title": "Hội Tarot cao cấp"
+    },
+    {
+      "num": 222,
+      "title": "Đơn ủy thác đầu tiên"
+    },
+    {
+      "num": 223,
+      "title": "Ba chuyện"
+    },
+    {
+      "num": 224,
+      "title": "Thần Bí Thám Tử Tư"
+    },
+    {
+      "num": 225,
+      "title": "Dẫn dắt không dấu vết"
+    },
+    {
+      "num": 226,
+      "title": "Hugh hoảng sợ"
+    },
+    {
+      "num": 227,
+      "title": "Nhà phát minh Repad"
+    },
+    {
+      "num": 228,
+      "title": "Kẻ chủ mưu"
+    },
+    {
+      "num": 229,
+      "title": "Lựa chọn mức nguy hiểm nhẹ nhất"
+    },
+    {
+      "num": 230,
+      "title": "Thẩm vấn"
+    },
+    {
+      "num": 231,
+      "title": "Lỗ vốn"
+    },
+    {
+      "num": 232,
+      "title": "Quán rượu người dũng cảm"
+    },
+    {
+      "num": 233,
+      "title": "Nhìn người đừng chỉ nhìn bề ngoài"
+    },
+    {
+      "num": 234,
+      "title": "Đêm trăng tròn"
+    },
+    {
+      "num": 235,
+      "title": "Thứ 2 bận rộn"
+    },
+    {
+      "num": 236,
+      "title": "Ủy thác trong hội"
+    },
+    {
+      "num": 237,
+      "title": "Danh sách 2"
+    },
+    {
+      "num": 238,
+      "title": "Rồng Ảo Tưởng"
+    },
+    {
+      "num": 239,
+      "title": "&amp;quot;Tụ hội&amp;quot; của riêng mỗi người"
+    },
+    {
+      "num": 240,
+      "title": "Cược may mắn"
+    },
+    {
+      "num": 241,
+      "title": "Tiếng nói ô uế"
+    },
+    {
+      "num": 242,
+      "title": "Beckron"
+    },
+    {
+      "num": 243,
+      "title": "Bắt gian"
+    },
+    {
+      "num": 244,
+      "title": "Người tiếp nhận"
+    },
+    {
+      "num": 245,
+      "title": "Xác nhận"
+    },
+    {
+      "num": 246,
+      "title": "Điềm báo kỳ quái"
+    },
+    {
+      "num": 247,
+      "title": "Ngọn nguồn mọi chuyện"
+    },
+    {
+      "num": 248,
+      "title": "Song phương chờ đợi"
+    },
+    {
+      "num": 249,
+      "title": "Ám sát"
+    },
+    {
+      "num": 250,
+      "title": "Kinh nghiệm tìm chết phong phú"
+    },
+    {
+      "num": 251,
+      "title": "Thu hoạch"
+    },
+    {
+      "num": 252,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 253,
+      "title": "Nghĩ ngợi thâu đêm"
+    },
+    {
+      "num": 254,
+      "title": "Các phương"
+    },
+    {
+      "num": 255,
+      "title": "Chuyên gia nhiếp ảnh"
+    },
+    {
+      "num": 256,
+      "title": "Gặp lại Thầy Thuốc"
+    },
+    {
+      "num": 257,
+      "title": "&amp;quot;2-081&amp;quot;"
+    },
+    {
+      "num": 258,
+      "title": "Vụ án giết người"
+    },
+    {
+      "num": 259,
+      "title": "Kiến trúc dưới mặt đất"
+    },
+    {
+      "num": 260,
+      "title": "Bức tượng quái dị"
+    },
+    {
+      "num": 261,
+      "title": "Căn phòng cuối cùng"
+    },
+    {
+      "num": 262,
+      "title": "Mộng"
+    },
+    {
+      "num": 263,
+      "title": "Linh cảm và thử nghiệm"
+    },
+    {
+      "num": 264,
+      "title": "Tụ hội 5 người"
+    },
+    {
+      "num": 265,
+      "title": "Lá bài Khinh Nhờn"
+    },
+    {
+      "num": 266,
+      "title": "Ủy thác của Thế Giới"
+    },
+    {
+      "num": 267,
+      "title": "Kẻ xướng người họa"
+    },
+    {
+      "num": 268,
+      "title": "Nghĩa trang và bệnh viện"
+    },
+    {
+      "num": 269,
+      "title": "Manh mối về hội Tâm Lý Luyện Kim"
+    },
+    {
+      "num": 270,
+      "title": "Phóng viên"
+    },
+    {
+      "num": 271,
+      "title": "Golden Rose"
+    },
+    {
+      "num": 272,
+      "title": "Quan sát lẫn nhau"
+    },
+    {
+      "num": 273,
+      "title": "Bán phối phương"
+    },
+    {
+      "num": 274,
+      "title": "Vũ khí phi phàm"
+    },
+    {
+      "num": 275,
+      "title": "Gia tộc Pound"
+    },
+    {
+      "num": 276,
+      "title": "Rafter Pound"
+    },
+    {
+      "num": 277,
+      "title": "Quyết định phương án"
+    },
+    {
+      "num": 278,
+      "title": "Miễn phí?"
+    },
+    {
+      "num": 279,
+      "title": "Vui quá hóa buồn"
+    },
+    {
+      "num": 280,
+      "title": "Bước đầu tiên"
+    },
+    {
+      "num": 281,
+      "title": "Manh mối"
+    },
+    {
+      "num": 282,
+      "title": "Đây chính là quận Đông"
+    },
+    {
+      "num": 283,
+      "title": "Công hội Bến Tàu"
+    },
+    {
+      "num": 284,
+      "title": "Run rẩy theo bản năng"
+    },
+    {
+      "num": 285,
+      "title": "Tháp chuông lúc nửa đêm"
+    },
+    {
+      "num": 286,
+      "title": "Nụ cười châm biếm"
+    },
+    {
+      "num": 287,
+      "title": "Tử chiến"
+    },
+    {
+      "num": 288,
+      "title": "Hiện trường đầy tính biểu tượng"
+    },
+    {
+      "num": 289,
+      "title": "Suy đoán và điều tra"
+    },
+    {
+      "num": 290,
+      "title": "Ở bên cạnh thúc đẩy"
+    },
+    {
+      "num": 291,
+      "title": "Chứng kiến cho bên bán"
+    },
+    {
+      "num": 292,
+      "title": "Trao đổi tin tức"
+    },
+    {
+      "num": 293,
+      "title": "Lo lắng của Derek"
+    },
+    {
+      "num": 294,
+      "title": "Thượng Tướng Ánh Sao"
+    },
+    {
+      "num": 295,
+      "title": "Vật liệu đầy đủ"
+    },
+    {
+      "num": 296,
+      "title": "Ảo Thuật Gia"
+    },
+    {
+      "num": 297,
+      "title": "Lời thì thầm đêm trăng tròn"
+    },
+    {
+      "num": 298,
+      "title": "Lại thêm một vụ"
+    },
+    {
+      "num": 299,
+      "title": "Búng tay"
+    },
+    {
+      "num": 300,
+      "title": "Linh vũ"
+    },
+    {
+      "num": 301,
+      "title": "Đánh thức"
+    },
+    {
+      "num": 302,
+      "title": "Manh mối"
+    },
+    {
+      "num": 303,
+      "title": "Tay mơ"
+    },
+    {
+      "num": 304,
+      "title": "Lông vũ"
+    },
+    {
+      "num": 305,
+      "title": "Hội giao lưu thám tử"
+    },
+    {
+      "num": 306,
+      "title": "Giám mục &amp;#039;Người Khổng Lồ&amp;#039;"
+    },
+    {
+      "num": 307,
+      "title": "Kỵ Sĩ Bình Minh"
+    },
+    {
+      "num": 308,
+      "title": "Ảo Thuật Gia có chuẩn bị"
+    },
+    {
+      "num": 309,
+      "title": "Hai chọn một"
+    },
+    {
+      "num": 310,
+      "title": "Ủy ban điều tra ô nhiễm không khí"
+    },
+    {
+      "num": 311,
+      "title": "Quan sát lẫn nhau"
+    },
+    {
+      "num": 312,
+      "title": "Ngụy trang thất bại"
+    },
+    {
+      "num": 313,
+      "title": "Thần linh cổ xưa"
+    },
+    {
+      "num": 314,
+      "title": "Khả năng"
+    },
+    {
+      "num": 315,
+      "title": "Trở lại giáo đường Bội Thu"
+    },
+    {
+      "num": 316,
+      "title": "Đừng biểu diễn lúc chưa chuẩn bị"
+    },
+    {
+      "num": 317,
+      "title": "Triển lãm tưởng niệm Russel"
+    },
+    {
+      "num": 318,
+      "title": "Phương pháp nghiệm chứng"
+    },
+    {
+      "num": 319,
+      "title": "Chuyến phiêu lưu của Audrey"
+    },
+    {
+      "num": 320,
+      "title": "Hành động"
+    },
+    {
+      "num": 321,
+      "title": "Ảo thuật &amp;quot;Biến mất người&amp;quot;"
+    },
+    {
+      "num": 322,
+      "title": "Buổi tối kích thích"
+    },
+    {
+      "num": 323,
+      "title": "Thần chú mở bài"
+    },
+    {
+      "num": 324,
+      "title": "&amp;quot;Bề tôi&amp;quot; trong tưởng tượng và thực tế"
+    },
+    {
+      "num": 325,
+      "title": "Vấn đề của giáo viên dạy cưỡi ngựa"
+    },
+    {
+      "num": 326,
+      "title": "Lời khuyên &amp;quot;chuyên nghiệp&amp;quot;"
+    },
+    {
+      "num": 327,
+      "title": "Gặp trên đường"
+    },
+    {
+      "num": 328,
+      "title": "Vụ án kết thúc"
+    },
+    {
+      "num": 329,
+      "title": "Vết cào"
+    },
+    {
+      "num": 330,
+      "title": "Lý niệm của Sharon và Marik"
+    },
+    {
+      "num": 331,
+      "title": "Kẻ bị nguyền rủa"
+    },
+    {
+      "num": 332,
+      "title": "Giấy công chứng"
+    },
+    {
+      "num": 333,
+      "title": "Người theo dõi"
+    },
+    {
+      "num": 334,
+      "title": "Đạn"
+    },
+    {
+      "num": 335,
+      "title": "Thăm dò phố Virdi"
+    },
+    {
+      "num": 336,
+      "title": "Gia tộc Abraham"
+    },
+    {
+      "num": 337,
+      "title": "Tìm người"
+    },
+    {
+      "num": 338,
+      "title": "Klein kinh nghiệm phong phú"
+    },
+    {
+      "num": 339,
+      "title": "Bác sĩ tâm lý"
+    },
+    {
+      "num": 340,
+      "title": "Quá khứ"
+    },
+    {
+      "num": 341,
+      "title": "Trao đổi riêng"
+    },
+    {
+      "num": 342,
+      "title": "&amp;#039;Kẻ già đời&amp;#039; Arges"
+    },
+    {
+      "num": 343,
+      "title": "Bằng chính mình"
+    },
+    {
+      "num": 344,
+      "title": "Vung tiền như rác"
+    },
+    {
+      "num": 345,
+      "title": "‘Trâm Ngực Thái Dương’"
+    },
+    {
+      "num": 346,
+      "title": "Ảo Thuật Gia trước khi lên sân khấu"
+    },
+    {
+      "num": 347,
+      "title": "Xác Sống và Người Sói"
+    },
+    {
+      "num": 348,
+      "title": "Oan Hồn đáng sợ"
+    },
+    {
+      "num": 349,
+      "title": "Bình Độc Tố"
+    },
+    {
+      "num": 350,
+      "title": "Pháo hoa rực rỡ"
+    },
+    {
+      "num": 351,
+      "title": "&amp;quot;Trò chơi&amp;quot; vấn đáp"
+    },
+    {
+      "num": 352,
+      "title": "Bữa sáng"
+    },
+    {
+      "num": 353,
+      "title": "Thời nay không giống với ngày trước"
+    },
+    {
+      "num": 354,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 355,
+      "title": "Kẻ ngoại lai"
+    },
+    {
+      "num": 356,
+      "title": "Phí cung cấp thông tin"
+    },
+    {
+      "num": 357,
+      "title": "Tiếp xúc với yến tiệc"
+    },
+    {
+      "num": 358,
+      "title": "Nỗi lo của ‘Mặt Trời’"
+    },
+    {
+      "num": 359,
+      "title": "Kẻ Nghịch Thần"
+    },
+    {
+      "num": 360,
+      "title": "Một vấn đề nan giải"
+    },
+    {
+      "num": 361,
+      "title": "Con trùng trong suốt"
+    },
+    {
+      "num": 362,
+      "title": "Nghi thức mật khế"
+    },
+    {
+      "num": 363,
+      "title": "Địa vị cấp cao"
+    },
+    {
+      "num": 364,
+      "title": "Giáo đường Thanh Bình"
+    },
+    {
+      "num": 365,
+      "title": "Ma cà rồng có sở thích đặc biệt"
+    },
+    {
+      "num": 366,
+      "title": "Dã tâm của ‘Người Treo Ngược’"
+    },
+    {
+      "num": 367,
+      "title": "Thư đe dọa"
+    },
+    {
+      "num": 368,
+      "title": "Nước đi bất thường"
+    },
+    {
+      "num": 369,
+      "title": "Ám thị"
+    },
+    {
+      "num": 370,
+      "title": "Khán giả tán thưởng"
+    },
+    {
+      "num": 371,
+      "title": "Fan hâm mộ đầu tiên của thám tử Moriarty"
+    },
+    {
+      "num": 372,
+      "title": "Sự kiện mất tích"
+    },
+    {
+      "num": 373,
+      "title": "Tìm người"
+    },
+    {
+      "num": 374,
+      "title": "Mộng du nhân tạo"
+    },
+    {
+      "num": 375,
+      "title": "Thao tác đáng kinh ngạc của “Tà Thần”"
+    },
+    {
+      "num": 376,
+      "title": "Ngài Hellas"
+    },
+    {
+      "num": 377,
+      "title": "Bữa tối của Capim"
+    },
+    {
+      "num": 378,
+      "title": "Buổi biểu diễn bắt đầu"
+    },
+    {
+      "num": 379,
+      "title": "Phân khúc chính của ma thuật"
+    },
+    {
+      "num": 380,
+      "title": "Hạ màn"
+    },
+    {
+      "num": 381,
+      "title": "Suy đoán"
+    },
+    {
+      "num": 382,
+      "title": "Hiệp Đạo"
+    },
+    {
+      "num": 383,
+      "title": "Trở về nhà"
+    },
+    {
+      "num": 384,
+      "title": "Tự mình điều tra mình"
+    },
+    {
+      "num": 385,
+      "title": "Một câu chuyện về tình yêu"
+    },
+    {
+      "num": 386,
+      "title": "Một cơn ác mộng"
+    },
+    {
+      "num": 387,
+      "title": "Đặc thù của Linh giới"
+    },
+    {
+      "num": 388,
+      "title": "Thăm dò cảnh mơ"
+    },
+    {
+      "num": 389,
+      "title": "Kẻ Gác Đêm"
+    },
+    {
+      "num": 390,
+      "title": "Mong chờ"
+    },
+    {
+      "num": 391,
+      "title": "Nhà hàng hải Russel vĩ đại"
+    },
+    {
+      "num": 392,
+      "title": "Nghe ‘Mặt Trời’ nhỏ kể chuyện"
+    },
+    {
+      "num": 393,
+      "title": "Trùng thời gian"
+    },
+    {
+      "num": 394,
+      "title": "“kiến thức về linh giới”"
+    },
+    {
+      "num": 395,
+      "title": "Đặc tính phi phàm “Quan Trị An”"
+    },
+    {
+      "num": 396,
+      "title": "Hội Anh Em Tịnh Quang"
+    },
+    {
+      "num": 397,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 398,
+      "title": "Cây nấm mê hoặc"
+    },
+    {
+      "num": 399,
+      "title": "Kẻ bị ô nhiễm"
+    },
+    {
+      "num": 400,
+      "title": "“Tân thủ” trưởng thành"
+    },
+    {
+      "num": 401,
+      "title": "Thần khải"
+    },
+    {
+      "num": 402,
+      "title": "Đào bới"
+    },
+    {
+      "num": 403,
+      "title": "Số mệnh của một thám tử tư"
+    },
+    {
+      "num": 404,
+      "title": "Dặn dò"
+    },
+    {
+      "num": 405,
+      "title": "“Tà giáo”"
+    },
+    {
+      "num": 406,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 407,
+      "title": "Bề tôi thật"
+    },
+    {
+      "num": 408,
+      "title": "Giả thuyết táo bạo"
+    },
+    {
+      "num": 409,
+      "title": "Tháng 12"
+    },
+    {
+      "num": 410,
+      "title": "Framis Cage"
+    },
+    {
+      "num": 411,
+      "title": "Dồn dập kéo đến"
+    },
+    {
+      "num": 412,
+      "title": "Thư"
+    },
+    {
+      "num": 413,
+      "title": "Khách đến chơi nhà"
+    },
+    {
+      "num": 414,
+      "title": "Sứ Đồ Dục Vọng"
+    },
+    {
+      "num": 415,
+      "title": "Chiếc nhẫn"
+    },
+    {
+      "num": 416,
+      "title": "Tích cực nhân tích cực thành tiêu cực"
+    },
+    {
+      "num": 417,
+      "title": "Harolds"
+    },
+    {
+      "num": 418,
+      "title": "Sức mạnh của tâm linh"
+    },
+    {
+      "num": 419,
+      "title": "Tâm nguyện"
+    },
+    {
+      "num": 420,
+      "title": "Gia tộc ác ma"
+    },
+    {
+      "num": 421,
+      "title": "Vật liệu đắt đỏ"
+    },
+    {
+      "num": 422,
+      "title": "Jason thực sự"
+    },
+    {
+      "num": 423,
+      "title": "Gió nổi lên"
+    },
+    {
+      "num": 424,
+      "title": "Thay đổi câu hỏi"
+    },
+    {
+      "num": 425,
+      "title": "Dưới đóa hoa hồng"
+    },
+    {
+      "num": 426,
+      "title": "1-042"
+    },
+    {
+      "num": 427,
+      "title": "Lựa chọn của thời đại"
+    },
+    {
+      "num": 428,
+      "title": "Kẻ gánh tội thay"
+    },
+    {
+      "num": 429,
+      "title": "Các phe"
+    },
+    {
+      "num": 430,
+      "title": "Một ngày mới"
+    },
+    {
+      "num": 431,
+      "title": "Chết đuối cũng không thể vớ bừa cọc"
+    },
+    {
+      "num": 432,
+      "title": "Sinh vật khế ước"
+    },
+    {
+      "num": 433,
+      "title": "Người môi giới thông tin"
+    },
+    {
+      "num": 434,
+      "title": "Lăng mộ và treo thưởng"
+    },
+    {
+      "num": 435,
+      "title": "Hiệu ứng tụ hợp"
+    },
+    {
+      "num": 436,
+      "title": "Yêu cầu của Klein"
+    },
+    {
+      "num": 437,
+      "title": "Cáo phó"
+    },
+    {
+      "num": 438,
+      "title": "Lời mời"
+    },
+    {
+      "num": 439,
+      "title": "Hoàng tử phóng khoáng"
+    },
+    {
+      "num": 440,
+      "title": "Gia tộc Thiên Sứ"
+    },
+    {
+      "num": 441,
+      "title": "Gia tăng “con đường”"
+    },
+    {
+      "num": 442,
+      "title": "Nhiệm vụ thăm dò"
+    },
+    {
+      "num": 443,
+      "title": "Màn biểu diễn của một người"
+    },
+    {
+      "num": 444,
+      "title": "Xưng tội"
+    },
+    {
+      "num": 445,
+      "title": "“Livestream”"
+    },
+    {
+      "num": 446,
+      "title": "Phong cách chiến đấu của Trái Tim Máy Móc"
+    },
+    {
+      "num": 447,
+      "title": "Chân dung"
+    },
+    {
+      "num": 448,
+      "title": "Lai lịch khả thi của Amon"
+    },
+    {
+      "num": 449,
+      "title": "Lựa chọn tốt hơn"
+    },
+    {
+      "num": 450,
+      "title": "Chia tiền"
+    },
+    {
+      "num": 451,
+      "title": "“Người Không Mặt”"
+    },
+    {
+      "num": 452,
+      "title": "Quyết định của Benson"
+    },
+    {
+      "num": 453,
+      "title": "Cầu thang"
+    },
+    {
+      "num": 454,
+      "title": "Mình là ai?"
+    },
+    {
+      "num": 455,
+      "title": "Kẻ cầu cứu"
+    },
+    {
+      "num": 456,
+      "title": "Đóng vai ma"
+    },
+    {
+      "num": 457,
+      "title": "Thông tin do ác linh cung cấp"
+    },
+    {
+      "num": 458,
+      "title": "Một Huyết tộc cổ đại"
+    },
+    {
+      "num": 459,
+      "title": "Bỏ lỡ"
+    },
+    {
+      "num": 460,
+      "title": "Vòng tuần hoàn thăm dò"
+    },
+    {
+      "num": 461,
+      "title": "‘Người Treo Ngược’ tốt bụng và nhiệt tình"
+    },
+    {
+      "num": 462,
+      "title": "Kỳ tích là gì?"
+    },
+    {
+      "num": 463,
+      "title": "Tự hỏi tự đáp"
+    },
+    {
+      "num": 464,
+      "title": "Tư vấn"
+    },
+    {
+      "num": 465,
+      "title": "Emlyn kiên trì"
+    },
+    {
+      "num": 466,
+      "title": "Kẻ Nuốt Đuôi"
+    },
+    {
+      "num": 467,
+      "title": "Hưởng ứng bị trì hoãn"
+    },
+    {
+      "num": 468,
+      "title": "Mặt Trăng"
+    },
+    {
+      "num": 469,
+      "title": "Nữ Vương Ma Cà Rồng"
+    },
+    {
+      "num": 470,
+      "title": "Danh xưng"
+    },
+    {
+      "num": 471,
+      "title": "Sự chuẩn bị của Klein"
+    },
+    {
+      "num": 472,
+      "title": "Tai họa ngầm"
+    },
+    {
+      "num": 473,
+      "title": "Người không mặt"
+    },
+    {
+      "num": 474,
+      "title": "Câu chuyện của Edessak"
+    },
+    {
+      "num": 475,
+      "title": "Quý cô Tuyệt Vọng"
+    },
+    {
+      "num": 476,
+      "title": "Những cành cây khô"
+    },
+    {
+      "num": 477,
+      "title": "“Kẻ Khờ” có ngàn nỗi lo"
+    },
+    {
+      "num": 478,
+      "title": "Vật Phong Ấn cấp 0 hành động"
+    },
+    {
+      "num": 479,
+      "title": "Nụ cười khó hiểu"
+    },
+    {
+      "num": 480,
+      "title": "Phần thưởng của sự trung thực"
+    },
+    {
+      "num": 481,
+      "title": "Số liệu và con người"
+    },
+    {
+      "num": 482,
+      "title": "Tống cựu nghênh tân"
+    },
+    {
+      "num": 483,
+      "title": "Tổng kết Quyển 2"
+    },
+    {
+      "num": 484,
+      "title": "Danh tính mới"
+    },
+    {
+      "num": 485,
+      "title": "Phi đối xứng"
+    },
+    {
+      "num": 486,
+      "title": "Thông tin phong phú"
+    },
+    {
+      "num": 487,
+      "title": "Phỏng đoán của Klein"
+    },
+    {
+      "num": 488,
+      "title": "Hội Tarot trưởng thành"
+    },
+    {
+      "num": 489,
+      "title": "Chi phí sinh hoạt"
+    },
+    {
+      "num": 490,
+      "title": "Đề xuất bị giữ lại"
+    },
+    {
+      "num": 491,
+      "title": "Lời khuyên của một cựu thủy thủ"
+    },
+    {
+      "num": 492,
+      "title": "Sherlock Moriarty trong báo cáo điều tra"
+    },
+    {
+      "num": 493,
+      "title": "Nhà thám hiểm"
+    },
+    {
+      "num": 494,
+      "title": "Đi săn"
+    },
+    {
+      "num": 495,
+      "title": "Một miếng cá Người"
+    },
+    {
+      "num": 496,
+      "title": "Truyền thuyết về kho báu"
+    },
+    {
+      "num": 497,
+      "title": "Biển cả đầy hứa hẹn"
+    },
+    {
+      "num": 498,
+      "title": "Tường treo thưởng"
+    },
+    {
+      "num": 499,
+      "title": "Thiết lập nhân vật"
+    },
+    {
+      "num": 500,
+      "title": "Mời chào"
+    },
+    {
+      "num": 501,
+      "title": "Thẩm vấn ‘Cá Mập Trắng’"
+    },
+    {
+      "num": 502,
+      "title": "Mồi nhử"
+    },
+    {
+      "num": 503,
+      "title": "Hình ảnh trong hồi ức của Azik"
+    },
+    {
+      "num": 504,
+      "title": "Con tin"
+    },
+    {
+      "num": 505,
+      "title": "Đoàn hải tặc Đầu Lâu Đỏ"
+    },
+    {
+      "num": 506,
+      "title": "Đầy tớ trị giá 3000 bảng"
+    },
+    {
+      "num": 507,
+      "title": "Viện Bảo Tàng Thời Tiết"
+    },
+    {
+      "num": 508,
+      "title": "Cảng Bansy trong gió"
+    },
+    {
+      "num": 509,
+      "title": "Đừng ra ngoài"
+    },
+    {
+      "num": 510,
+      "title": "Thỉnh cầu"
+    },
+    {
+      "num": 511,
+      "title": "Giám mục trở về"
+    },
+    {
+      "num": 512,
+      "title": "“Hào quang phản đồ” (*)"
+    },
+    {
+      "num": 513,
+      "title": "Sự việc kết thúc?"
+    },
+    {
+      "num": 514,
+      "title": "Hù dọa"
+    },
+    {
+      "num": 515,
+      "title": "Truyền thuyết về Cổ Thần"
+    },
+    {
+      "num": 516,
+      "title": "Đều có thu hoạch"
+    },
+    {
+      "num": 517,
+      "title": "Suy đoán của ‘Người Treo Ngược’"
+    },
+    {
+      "num": 518,
+      "title": "Thành Khảng Khái"
+    },
+    {
+      "num": 519,
+      "title": "Trên bờ vực cái chết"
+    },
+    {
+      "num": 520,
+      "title": "Đặt tên"
+    },
+    {
+      "num": 521,
+      "title": "Thượng Tướng Đẫm Máu"
+    },
+    {
+      "num": 522,
+      "title": "Giả thiết táo bạo"
+    },
+    {
+      "num": 523,
+      "title": "Thuộc địa"
+    },
+    {
+      "num": 524,
+      "title": "Hợp tác"
+    },
+    {
+      "num": 525,
+      "title": "Gặp mặt"
+    },
+    {
+      "num": 526,
+      "title": "Squall tỉnh táo"
+    },
+    {
+      "num": 527,
+      "title": "Giấc Mơ Vĩnh Hằng"
+    },
+    {
+      "num": 528,
+      "title": "Tốc chiến"
+    },
+    {
+      "num": 529,
+      "title": "Chăn thả"
+    },
+    {
+      "num": 530,
+      "title": "Ăn ý"
+    },
+    {
+      "num": 531,
+      "title": "Tư liệu văn hiến"
+    },
+    {
+      "num": 532,
+      "title": "Trường phái diễn xuất"
+    },
+    {
+      "num": 533,
+      "title": "Vị “ngoại quốc”"
+    },
+    {
+      "num": 534,
+      "title": "Ngài 4200 bảng"
+    },
+    {
+      "num": 535,
+      "title": "Lớp học trong mơ"
+    },
+    {
+      "num": 536,
+      "title": "Yêu thích giảng dạy"
+    },
+    {
+      "num": 537,
+      "title": "Tín ngưỡng bản địa"
+    },
+    {
+      "num": 538,
+      "title": "Linh cảm quá cao"
+    },
+    {
+      "num": 539,
+      "title": "Xua tan"
+    },
+    {
+      "num": 540,
+      "title": "Hành động đêm khuya"
+    },
+    {
+      "num": 541,
+      "title": "Áp chế"
+    },
+    {
+      "num": 542,
+      "title": "Khách tới thăm"
+    },
+    {
+      "num": 543,
+      "title": "Bayam trong giờ giới nghiêm"
+    },
+    {
+      "num": 544,
+      "title": "Sự thật ngoài dự tính"
+    },
+    {
+      "num": 545,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 546,
+      "title": "Cấp chuyên gia"
+    },
+    {
+      "num": 547,
+      "title": "Kalvetua điên cuồng phẫn nộ"
+    },
+    {
+      "num": 548,
+      "title": "Linh giới"
+    },
+    {
+      "num": 549,
+      "title": "Tư tế"
+    },
+    {
+      "num": 550,
+      "title": "Kỹ thuật đối phó với sinh vật khổng lồ"
+    },
+    {
+      "num": 551,
+      "title": "Tinh Linh cấp cao"
+    },
+    {
+      "num": 552,
+      "title": "Tác dụng phụ của Vật Phong Ấn"
+    },
+    {
+      "num": 553,
+      "title": "Mười Điều Răn"
+    },
+    {
+      "num": 554,
+      "title": "Trù tính lớn"
+    },
+    {
+      "num": 555,
+      "title": "Nỗ lực của Danitz"
+    },
+    {
+      "num": 556,
+      "title": "Đóng vai thần"
+    },
+    {
+      "num": 557,
+      "title": "“Điện tín” tới vào đêm khuya"
+    },
+    {
+      "num": 558,
+      "title": "Phân biệt đối xử"
+    },
+    {
+      "num": 559,
+      "title": "Tự kỷ ám thị"
+    },
+    {
+      "num": 560,
+      "title": "Tìm kiếm điều dị thường"
+    },
+    {
+      "num": 561,
+      "title": "Gặp trên đường"
+    },
+    {
+      "num": 562,
+      "title": "‘Người Treo Ngược’ bị nhổ lông dê (*)"
+    },
+    {
+      "num": 563,
+      "title": "“Hội nghị tuyển dụng”"
+    },
+    {
+      "num": 564,
+      "title": "Elaine"
+    },
+    {
+      "num": 565,
+      "title": "“Sự quan tâm” của “Kẻ Khờ”"
+    },
+    {
+      "num": 566,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 567,
+      "title": "Người theo đuổi tri thức"
+    },
+    {
+      "num": 568,
+      "title": "Con Mắt Dòm Ngó Bí Ẩn"
+    },
+    {
+      "num": 569,
+      "title": "Chi tiết trên quần áo"
+    },
+    {
+      "num": 570,
+      "title": "Ngọn nguồn mọi chuyện"
+    },
+    {
+      "num": 571,
+      "title": "Các “thần linh” phụ thuộc"
+    },
+    {
+      "num": 572,
+      "title": "Nhìn mầm biết cây"
+    },
+    {
+      "num": 573,
+      "title": "Không thừa nhận cũng không phủ nhận"
+    },
+    {
+      "num": 574,
+      "title": "Áp lực rất lớn"
+    },
+    {
+      "num": 575,
+      "title": "Tụng niệm tên của ta"
+    },
+    {
+      "num": 576,
+      "title": "Dạy đối nhân xử thế trong thực tế"
+    },
+    {
+      "num": 577,
+      "title": "Bất thành"
+    },
+    {
+      "num": 578,
+      "title": "Tàu Mộng Tưởng Hoàng Kim"
+    },
+    {
+      "num": 579,
+      "title": "Phòng sưu tập của ‘Trung Tướng Núi Băng’"
+    },
+    {
+      "num": 580,
+      "title": "Cuốn sách từ hơn 3000 năm trước"
+    },
+    {
+      "num": 581,
+      "title": "“Bắt cóc”"
+    },
+    {
+      "num": 582,
+      "title": "Câu hỏi học thuật"
+    },
+    {
+      "num": 583,
+      "title": "Kẻ Xảo Ngôn"
+    },
+    {
+      "num": 584,
+      "title": "Vừa nhập tâm vừa tách bạch"
+    },
+    {
+      "num": 585,
+      "title": "Khiêu khích"
+    },
+    {
+      "num": 586,
+      "title": "Đường lui"
+    },
+    {
+      "num": 587,
+      "title": "Vật tế"
+    },
+    {
+      "num": 588,
+      "title": "Mua thuốc"
+    },
+    {
+      "num": 589,
+      "title": "Từ biệt và gặp lại"
+    },
+    {
+      "num": 590,
+      "title": "Rối rắm"
+    },
+    {
+      "num": 591,
+      "title": "Người Quen Cũ"
+    },
+    {
+      "num": 592,
+      "title": "“Châm ngòi”"
+    },
+    {
+      "num": 593,
+      "title": "Giới hạn cuối cùng của Arrodes"
+    },
+    {
+      "num": 594,
+      "title": "Dùng đồ một cách hữu hiệu"
+    },
+    {
+      "num": 595,
+      "title": "Một tuần ba thăng cấp"
+    },
+    {
+      "num": 596,
+      "title": "Biện pháp"
+    },
+    {
+      "num": 597,
+      "title": "Ủy thác của ‘Thế Giới’"
+    },
+    {
+      "num": 598,
+      "title": "Lĩnh vực"
+    },
+    {
+      "num": 599,
+      "title": "Manh mối"
+    },
+    {
+      "num": 600,
+      "title": "Phương án của Klein"
+    },
+    {
+      "num": 601,
+      "title": "Tiền bất chính từ trên trời rơi xuống"
+    },
+    {
+      "num": 602,
+      "title": "“Long uy”"
+    },
+    {
+      "num": 603,
+      "title": "Dọn bãi"
+    },
+    {
+      "num": 604,
+      "title": "Tự mình dọa mình"
+    },
+    {
+      "num": 605,
+      "title": "Tiếng tăm vang dội"
+    },
+    {
+      "num": 606,
+      "title": "Điều kiện"
+    },
+    {
+      "num": 607,
+      "title": "Kẻ địch khác biệt"
+    },
+    {
+      "num": 608,
+      "title": "“Phán định”"
+    },
+    {
+      "num": 609,
+      "title": "Đe dọa"
+    },
+    {
+      "num": 610,
+      "title": "Phát hiện ra sự dị thường"
+    },
+    {
+      "num": 611,
+      "title": "Chuyên nghiệp"
+    },
+    {
+      "num": 612,
+      "title": "Đến thăm"
+    },
+    {
+      "num": 613,
+      "title": "Ném xúc xắc"
+    },
+    {
+      "num": 614,
+      "title": "Nghị viên Vận Mệnh"
+    },
+    {
+      "num": 615,
+      "title": "Tới tay"
+    },
+    {
+      "num": 616,
+      "title": "Cuộc điều tra của Leonard"
+    },
+    {
+      "num": 617,
+      "title": "Hiệp hội Hỗ trợ Nhà thám hiểm"
+    },
+    {
+      "num": 618,
+      "title": "Sương mù xám trắng"
+    },
+    {
+      "num": 619,
+      "title": "Trong cái rủi có cái may"
+    },
+    {
+      "num": 620,
+      "title": "Adam thần bí"
+    },
+    {
+      "num": 621,
+      "title": "Tình nguyện viên"
+    },
+    {
+      "num": 622,
+      "title": "Không nói nên lời"
+    },
+    {
+      "num": 623,
+      "title": "Nhiệm vụ thế thân"
+    },
+    {
+      "num": 624,
+      "title": "Dạ tiệc ở Dinh Thống đốc"
+    },
+    {
+      "num": 625,
+      "title": "Khế ước tạm thời"
+    },
+    {
+      "num": 626,
+      "title": "Đêm đầu tiên"
+    },
+    {
+      "num": 627,
+      "title": "Cảnh báo"
+    },
+    {
+      "num": 628,
+      "title": "Ngày thành công đầu tiên"
+    },
+    {
+      "num": 629,
+      "title": "Quyết định của “Emilius”"
+    },
+    {
+      "num": 630,
+      "title": "Đêm khuya"
+    },
+    {
+      "num": 631,
+      "title": "Cấm chỉ"
+    },
+    {
+      "num": 632,
+      "title": "Giáo phái Thiên Thể"
+    },
+    {
+      "num": 633,
+      "title": "Dòng thời gian"
+    },
+    {
+      "num": 634,
+      "title": "Ba ngày đi vắng"
+    },
+    {
+      "num": 635,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 636,
+      "title": "Hai hình thái ký sinh"
+    },
+    {
+      "num": 637,
+      "title": "Thành Trắng"
+    },
+    {
+      "num": 638,
+      "title": "Gặp mặt"
+    },
+    {
+      "num": 639,
+      "title": "Kẻ Đồ Sát"
+    },
+    {
+      "num": 640,
+      "title": "Tàu Tương Lai"
+    },
+    {
+      "num": 641,
+      "title": "Chuyên Gia Độc Tố"
+    },
+    {
+      "num": 642,
+      "title": "Danh sách"
+    },
+    {
+      "num": 643,
+      "title": "Nữ hải tặc"
+    },
+    {
+      "num": 644,
+      "title": "Miệng giếng nhân loại không thể lọt qua"
+    },
+    {
+      "num": 645,
+      "title": "Một công ba việc"
+    },
+    {
+      "num": 646,
+      "title": "“Bói gương ma” phiên bản Klein"
+    },
+    {
+      "num": 647,
+      "title": "Tiếng cười"
+    },
+    {
+      "num": 648,
+      "title": "Biện pháp trấn tĩnh"
+    },
+    {
+      "num": 649,
+      "title": "Sách Ma Pháp Của Lehmanor"
+    },
+    {
+      "num": 650,
+      "title": "Vùng biển phế tích"
+    },
+    {
+      "num": 651,
+      "title": "Trưa và tối"
+    },
+    {
+      "num": 652,
+      "title": "Tu viện đen"
+    },
+    {
+      "num": 653,
+      "title": "Anderson xui xẻo"
+    },
+    {
+      "num": 654,
+      "title": "Gặp lại"
+    },
+    {
+      "num": 655,
+      "title": "Manh mối về mỹ nhân ngư"
+    },
+    {
+      "num": 656,
+      "title": "Mặt nồi tay nhọ"
+    },
+    {
+      "num": 657,
+      "title": "Tù nhân và lính canh"
+    },
+    {
+      "num": 658,
+      "title": "Phân tích cảnh mơ"
+    },
+    {
+      "num": 659,
+      "title": "Biến dị điên cuồng"
+    },
+    {
+      "num": 660,
+      "title": "Sinh mệnh lực khủng bố (1)"
+    },
+    {
+      "num": 661,
+      "title": "Sinh mệnh lực khủng bố (2)"
+    },
+    {
+      "num": 662,
+      "title": "55.000 bảng"
+    },
+    {
+      "num": 663,
+      "title": "Năng lực phi phàm rất mạnh (1)"
+    },
+    {
+      "num": 664,
+      "title": "Năng lực phi phàm rất mạnh (2)"
+    },
+    {
+      "num": 665,
+      "title": "Sau mặt nạ"
+    },
+    {
+      "num": 666,
+      "title": "Tới gần"
+    },
+    {
+      "num": 667,
+      "title": "Khí tràng cường đại (1)"
+    },
+    {
+      "num": 668,
+      "title": "Khí tràng cường đại (2)"
+    },
+    {
+      "num": 669,
+      "title": "Sợ bóng sợ gió"
+    },
+    {
+      "num": 670,
+      "title": "Giành giật từng giây (1)"
+    },
+    {
+      "num": 671,
+      "title": "Giành giật từng giây (2)"
+    },
+    {
+      "num": 672,
+      "title": "Dây linh thể"
+    },
+    {
+      "num": 673,
+      "title": "Trấn Hạ Ngọ (1)"
+    },
+    {
+      "num": 674,
+      "title": "Trấn Hạ Ngọ (2)"
+    },
+    {
+      "num": 675,
+      "title": "Đảo văn (1)"
+    },
+    {
+      "num": 676,
+      "title": "Đảo văn (2)"
+    },
+    {
+      "num": 677,
+      "title": "Tự tin có lẽ là khuyết điểm"
+    },
+    {
+      "num": 678,
+      "title": "Trao đổi tình báo (1)"
+    },
+    {
+      "num": 679,
+      "title": "Trao đổi tình báo (2)"
+    },
+    {
+      "num": 680,
+      "title": "Kẻ sám hối"
+    },
+    {
+      "num": 681,
+      "title": "Cái tên thứ tư"
+    },
+    {
+      "num": 682,
+      "title": "Quan sát (1)"
+    },
+    {
+      "num": 683,
+      "title": "Quan sát (2)"
+    },
+    {
+      "num": 684,
+      "title": "Chữ bằng máu"
+    },
+    {
+      "num": 685,
+      "title": "Rời thuyền (1)"
+    },
+    {
+      "num": 686,
+      "title": "Rời thuyền (2)"
+    },
+    {
+      "num": 687,
+      "title": "Liên lạc cảm tình"
+    },
+    {
+      "num": 688,
+      "title": "Ba phương giao dịch (1)"
+    },
+    {
+      "num": 689,
+      "title": "Ba phương giao dịch (2)"
+    },
+    {
+      "num": 690,
+      "title": "Mãnh hổ lạc địa thức"
+    },
+    {
+      "num": 691,
+      "title": "Gõ (1)"
+    },
+    {
+      "num": 692,
+      "title": "Gõ (2)"
+    },
+    {
+      "num": 693,
+      "title": "Thỉnh cầu giết người"
+    },
+    {
+      "num": 694,
+      "title": "Ý nghĩ mới (1)"
+    },
+    {
+      "num": 695,
+      "title": "Ý nghĩ mới (2)"
+    },
+    {
+      "num": 696,
+      "title": "Trả lời từ mặt nào đó"
+    },
+    {
+      "num": 697,
+      "title": "Kiếm \"thức ăn\" (1)"
+    },
+    {
+      "num": 698,
+      "title": "Kiếm \"thức ăn\" (2)"
+    },
+    {
+      "num": 699,
+      "title": "Thì ra mày cũng ở trong này"
+    },
+    {
+      "num": 700,
+      "title": "Tao ngộ chiến (1)"
+    },
+    {
+      "num": 701,
+      "title": "Tao ngộ chiến (2)"
+    },
+    {
+      "num": 702,
+      "title": "Từ chậm trễ đến rơi rụng"
+    },
+    {
+      "num": 703,
+      "title": "Nghi thức khó có thể hoàn thành (1)\\"
+    },
+    {
+      "num": 704,
+      "title": "Nghi thức khó có thể hoàn thành (2)"
+    },
+    {
+      "num": 705,
+      "title": "Kẻ lẩm bẩm"
+    },
+    {
+      "num": 706,
+      "title": "Không đến (1)"
+    },
+    {
+      "num": 707,
+      "title": "Không đến (2)"
+    },
+    {
+      "num": 708,
+      "title": "Vậy là xong rồi?"
+    },
+    {
+      "num": 709,
+      "title": "Tiểu thư tín sứ"
+    },
+    {
+      "num": 710,
+      "title": "Chạm mặt (1)"
+    },
+    {
+      "num": 711,
+      "title": "Chạm mặt (2)"
+    },
+    {
+      "num": 712,
+      "title": "Người hiềm nghi"
+    },
+    {
+      "num": 713,
+      "title": "Thử"
+    },
+    {
+      "num": 714,
+      "title": "Đọc xong liền đốt (1)"
+    },
+    {
+      "num": 715,
+      "title": "Đọc xong liền đốt (2)"
+    },
+    {
+      "num": 716,
+      "title": "Tương phản rõ ràng"
+    },
+    {
+      "num": 717,
+      "title": "Người thủ hộ Người khổng lồ (1)"
+    },
+    {
+      "num": 718,
+      "title": "Người thủ hộ Người khổng lồ (2)"
+    },
+    {
+      "num": 719,
+      "title": "Tiến độ câu chuyện"
+    },
+    {
+      "num": 720,
+      "title": "Vị Vua Thiên Sứ thứ năm (1)"
+    },
+    {
+      "num": 721,
+      "title": "Vị Vua Thiên Sứ thứ năm (2)"
+    },
+    {
+      "num": 722,
+      "title": "Chiến BOSS"
+    },
+    {
+      "num": 723,
+      "title": "Ăn ý (1)"
+    },
+    {
+      "num": 724,
+      "title": "Ăn ý (2)"
+    },
+    {
+      "num": 725,
+      "title": "Người khổng lồ vĩnh viễn không lùi bước"
+    },
+    {
+      "num": 726,
+      "title": "Câu chuyện kết thúc (1)"
+    },
+    {
+      "num": 727,
+      "title": "Câu chuyện kết thúc (2)"
+    },
+    {
+      "num": 728,
+      "title": "Tạ lễ"
+    },
+    {
+      "num": 729,
+      "title": "Lai lịch"
+    },
+    {
+      "num": 730,
+      "title": "Sinh vật thần thoại (1)"
+    },
+    {
+      "num": 731,
+      "title": "Sinh vật thần thoại (2)"
+    },
+    {
+      "num": 732,
+      "title": "Người nam kia"
+    },
+    {
+      "num": 733,
+      "title": "Thỉnh cầu của Danis (1)"
+    },
+    {
+      "num": 734,
+      "title": "Thỉnh cầu của Danis (2)"
+    },
+    {
+      "num": 735,
+      "title": "Súng ngắn giá trị 9.000 bảng"
+    },
+    {
+      "num": 736,
+      "title": "Airland nhắc nhở"
+    },
+    {
+      "num": 737,
+      "title": "Phương án (1)"
+    },
+    {
+      "num": 738,
+      "title": "Phương án (2)"
+    },
+    {
+      "num": 739,
+      "title": "Gió bão đột kích"
+    },
+    {
+      "num": 740,
+      "title": "Arges trung thành và tận tâm (1)"
+    },
+    {
+      "num": 741,
+      "title": "Arges trung thành và tận tâm (2)"
+    },
+    {
+      "num": 742,
+      "title": "Ba vấn đề"
+    },
+    {
+      "num": 743,
+      "title": "Nhật kí mới (1)"
+    },
+    {
+      "num": 744,
+      "title": "Nhật kí mới (2)"
+    },
+    {
+      "num": 745,
+      "title": "Điên cuồng lúc tuổi già"
+    },
+    {
+      "num": 746,
+      "title": "Đảo cùng di tích (1)"
+    },
+    {
+      "num": 747,
+      "title": "Đảo cùng di tích (2)"
+    },
+    {
+      "num": 748,
+      "title": "\"Thế giới\" cùng hiệp đạo"
+    },
+    {
+      "num": 749,
+      "title": "Nhân vật trong sách (1)"
+    },
+    {
+      "num": 750,
+      "title": "Nhân vật trong sách (2)"
+    },
+    {
+      "num": 751,
+      "title": "Hành trình cảnh trong mơ"
+    },
+    {
+      "num": 752,
+      "title": "Triết học gia (1)"
+    },
+    {
+      "num": 753,
+      "title": "Triết học gia (2)"
+    },
+    {
+      "num": 754,
+      "title": "Klein dẫn đường"
+    },
+    {
+      "num": 755,
+      "title": "Đêm không bình tĩnh (1)"
+    },
+    {
+      "num": 756,
+      "title": "Chương 840"
+    },
+    {
+      "num": 757,
+      "title": "Hôm nay lại làm một chuyện tốt"
+    },
+    {
+      "num": 758,
+      "title": "Hàm nghĩa chân chính của nhắc nhở"
+    },
+    {
+      "num": 759,
+      "title": "Sáng sớm (1)"
+    },
+    {
+      "num": 760,
+      "title": "Sáng sớm (2)"
+    },
+    {
+      "num": 761,
+      "title": "Chuẩn bị rất quan trọng"
+    },
+    {
+      "num": 762,
+      "title": "Người may mắn (1)"
+    },
+    {
+      "num": 763,
+      "title": "Người may mắn (2)"
+    },
+    {
+      "num": 764,
+      "title": "Tố chất tam liên"
+    },
+    {
+      "num": 765,
+      "title": "Loạn (1)"
+    },
+    {
+      "num": 766,
+      "title": "Loạn (2)"
+    },
+    {
+      "num": 767,
+      "title": "Xử lý tai hoạ ngầm"
+    },
+    {
+      "num": 768,
+      "title": "Thu hoạch (1)"
+    },
+    {
+      "num": 769,
+      "title": "Thu hoạch (2)"
+    },
+    {
+      "num": 770,
+      "title": "Điểm cuối"
+    },
+    {
+      "num": 771,
+      "title": "Ghi chép trở về"
+    },
+    {
+      "num": 772,
+      "title": "Những người bạn cũ (1)"
+    },
+    {
+      "num": 773,
+      "title": "Những người bạn cũ (2)"
+    },
+    {
+      "num": 774,
+      "title": "Lại thăm dò"
+    },
+    {
+      "num": 775,
+      "title": "Ba cái ghế (1)"
+    },
+    {
+      "num": 776,
+      "title": "Ba cái ghế (2)"
+    },
+    {
+      "num": 777,
+      "title": "Chính thức lộ diện"
+    },
+    {
+      "num": 778,
+      "title": "Ngày thường của phú ông"
+    },
+    {
+      "num": 779,
+      "title": "Gặp gỡ và chưa gặp gỡ (1)"
+    },
+    {
+      "num": 780,
+      "title": "Gặp gỡ và chưa gặp gỡ (2)"
+    },
+    {
+      "num": 781,
+      "title": "Tự tiến cử"
+    },
+    {
+      "num": 782,
+      "title": "Quản gia (1)"
+    },
+    {
+      "num": 783,
+      "title": "Quản gia (2)"
+    },
+    {
+      "num": 784,
+      "title": "Xác định"
+    },
+    {
+      "num": 785,
+      "title": "Một tờ nhật ký (1)"
+    },
+    {
+      "num": 786,
+      "title": "Một tờ nhật ký (2)"
+    },
+    {
+      "num": 787,
+      "title": "Bán ra"
+    },
+    {
+      "num": 788,
+      "title": "Tri thức chẳng khác nào tiền tài (1)"
+    },
+    {
+      "num": 789,
+      "title": "Tri thức chẳng khác nào tiền tài (2)"
+    },
+    {
+      "num": 790,
+      "title": "Buổi tối tương tự"
+    },
+    {
+      "num": 791,
+      "title": "Thủ sát"
+    },
+    {
+      "num": 792,
+      "title": "Kẻ xướng người họa (1)"
+    },
+    {
+      "num": 793,
+      "title": "Kẻ xướng người họa (2)"
+    },
+    {
+      "num": 794,
+      "title": "Quyền lực của \"Ánh trăng\""
+    },
+    {
+      "num": 795,
+      "title": "Hấp dẫn"
+    },
+    {
+      "num": 796,
+      "title": "Hàm súc kiểu Ruen (1)"
+    },
+    {
+      "num": 797,
+      "title": "Hàm súc kiểu Ruen (2)"
+    },
+    {
+      "num": 798,
+      "title": "Cảnh cáo"
+    },
+    {
+      "num": 799,
+      "title": "Giám mục đến gặp (1)"
+    },
+    {
+      "num": 800,
+      "title": "Giám mục đến gặp (2)"
+    },
+    {
+      "num": 801,
+      "title": "Lời mời"
+    },
+    {
+      "num": 802,
+      "title": "\"Tiếp tuyến viên\" (1)"
+    },
+    {
+      "num": 803,
+      "title": "\"Tiếp tuyến viên\" (2)"
+    },
+    {
+      "num": 804,
+      "title": "Đại thánh lễ"
+    },
+    {
+      "num": 805,
+      "title": "Gặp trong mộng (1)"
+    },
+    {
+      "num": 806,
+      "title": "Gặp trong mộng (2)"
+    },
+    {
+      "num": 807,
+      "title": "Trả giá luôn luôn có hồi báo"
+    },
+    {
+      "num": 808,
+      "title": "Lần khiêu vũ đầu tiên (1)"
+    },
+    {
+      "num": 809,
+      "title": "Lần khiêu vũ đầu tiên (2)"
+    },
+    {
+      "num": 810,
+      "title": "Vòng tròn quan hệ thật nhỏ"
+    },
+    {
+      "num": 811,
+      "title": "Người tốt chuyện tốt (1)"
+    },
+    {
+      "num": 812,
+      "title": "Người tốt chuyện tốt (2)"
+    },
+    {
+      "num": 813,
+      "title": "Hội phục quốc"
+    },
+    {
+      "num": 814,
+      "title": "Ngài X"
+    },
+    {
+      "num": 815,
+      "title": "Lần đầu thẩm tra (1)"
+    },
+    {
+      "num": 816,
+      "title": "Lần đầu thẩm tra (2)"
+    },
+    {
+      "num": 817,
+      "title": "Lại đến thứ hai"
+    },
+    {
+      "num": 818,
+      "title": "Chư thần"
+    },
+    {
+      "num": 819,
+      "title": "Chuyển đạt (1)"
+    },
+    {
+      "num": 820,
+      "title": "Chuyển đạt (2)"
+    },
+    {
+      "num": 821,
+      "title": "Người thông minh \"đối thoại\""
+    },
+    {
+      "num": 822,
+      "title": "Hiến tế chính mình"
+    },
+    {
+      "num": 823,
+      "title": "Đứa nhỏ phải có bộ dáng của đứa nhỏ (1)"
+    },
+    {
+      "num": 824,
+      "title": "Đứa nhỏ phải có bộ dáng của đứa nhỏ (2)"
+    },
+    {
+      "num": 825,
+      "title": "Kẻ ăn cắp vận mệnh"
+    },
+    {
+      "num": 826,
+      "title": "Dị thường của Walter (1)"
+    },
+    {
+      "num": 827,
+      "title": "Dị thường của Walter (2)"
+    },
+    {
+      "num": 828,
+      "title": "Phần thêm vào"
+    },
+    {
+      "num": 829,
+      "title": "Manh mối"
+    },
+    {
+      "num": 830,
+      "title": "Lợi dụng (1)"
+    },
+    {
+      "num": 831,
+      "title": "Lợi dụng (2)"
+    },
+    {
+      "num": 832,
+      "title": "Chuẩn bị trước"
+    },
+    {
+      "num": 833,
+      "title": "Phối trí phát rồ (1)"
+    },
+    {
+      "num": 834,
+      "title": "Phối trí phát rồ (2)"
+    },
+    {
+      "num": 835,
+      "title": "Một cộng một lớn hơn hai"
+    },
+    {
+      "num": 836,
+      "title": "Một súng (1)"
+    },
+    {
+      "num": 837,
+      "title": "Một súng (2)"
+    },
+    {
+      "num": 838,
+      "title": "Rút tay"
+    },
+    {
+      "num": 839,
+      "title": "Hiệu quả xấu"
+    },
+    {
+      "num": 840,
+      "title": "Tối thứ bảy (1)"
+    },
+    {
+      "num": 841,
+      "title": "Tối thứ bảy (2)"
+    },
+    {
+      "num": 842,
+      "title": "Kỹ xảo trao đổi"
+    },
+    {
+      "num": 843,
+      "title": "Bình phong bị làm xấu (1)"
+    },
+    {
+      "num": 844,
+      "title": "Bình phong bị làm xấu (2)"
+    },
+    {
+      "num": 845,
+      "title": "Phát hiện của Triss"
+    },
+    {
+      "num": 846,
+      "title": "Báo số tiền giả (1)"
+    },
+    {
+      "num": 847,
+      "title": "Báo số tiền giả (2)"
+    },
+    {
+      "num": 848,
+      "title": "Lời khuyên bảo của Dorian"
+    },
+    {
+      "num": 849,
+      "title": "Lối đi bí mật (1)"
+    },
+    {
+      "num": 850,
+      "title": "Lối đi bí mật (2)"
+    },
+    {
+      "num": 851,
+      "title": "Thứ hai của mỗi người"
+    },
+    {
+      "num": 852,
+      "title": "Phần kết thúc của nhật ký (1)"
+    },
+    {
+      "num": 853,
+      "title": "Phần kết thúc của nhật ký (2)"
+    },
+    {
+      "num": 854,
+      "title": "Hình thức mới"
+    },
+    {
+      "num": 855,
+      "title": "Quyền lực của \"Kẻ Khờ\" (1)"
+    },
+    {
+      "num": 856,
+      "title": "Quyền lực của \"Kẻ Khờ\" (2)"
+    },
+    {
+      "num": 857,
+      "title": "Người tới thăm bất ngờ"
+    },
+    {
+      "num": 858,
+      "title": "Đầu tư ngắn hạn (1)"
+    },
+    {
+      "num": 859,
+      "title": "Đầu tư ngắn hạn (2)"
+    },
+    {
+      "num": 860,
+      "title": "Kiên nhẫn"
+    },
+    {
+      "num": 861,
+      "title": "Dần dần thuần thục (1)"
+    },
+    {
+      "num": 862,
+      "title": "Dần dần thuần thục (2)"
+    },
+    {
+      "num": 863,
+      "title": "Casimir"
+    },
+    {
+      "num": 864,
+      "title": "Dạo chơi chốn cũ (1)"
+    },
+    {
+      "num": 865,
+      "title": "Dạo chơi chốn cũ (2)"
+    },
+    {
+      "num": 866,
+      "title": "Nhìn lén"
+    },
+    {
+      "num": 867,
+      "title": "Tinh thần trở nên \"tốt\""
+    },
+    {
+      "num": 868,
+      "title": "Van xin (1)"
+    },
+    {
+      "num": 869,
+      "title": "Van xin (2)"
+    },
+    {
+      "num": 870,
+      "title": "Biện pháp tiếp theo"
+    },
+    {
+      "num": 871,
+      "title": "Chính danh"
+    },
+    {
+      "num": 872,
+      "title": "Đội khảo cổ"
+    },
+    {
+      "num": 873,
+      "title": "Gặp nhau (1)"
+    },
+    {
+      "num": 874,
+      "title": "Gặp nhau (2)"
+    },
+    {
+      "num": 875,
+      "title": "Nửa đêm vào đảo (1)"
+    },
+    {
+      "num": 876,
+      "title": "Nửa đêm vào đảo (2)"
+    },
+    {
+      "num": 877,
+      "title": "Vận may hơi kém"
+    },
+    {
+      "num": 878,
+      "title": "Tiếng ca đòi mạng (1)"
+    },
+    {
+      "num": 879,
+      "title": "Tiếng ca đòi mạng (2)"
+    },
+    {
+      "num": 880,
+      "title": "Nguy cơ trong bóng tối"
+    },
+    {
+      "num": 881,
+      "title": "Giáo đường của ai (1)"
+    },
+    {
+      "num": 882,
+      "title": "Giáo đường của ai (2)"
+    },
+    {
+      "num": 883,
+      "title": "Bức họa trong sảnh mộ táng"
+    },
+    {
+      "num": 884,
+      "title": "Một góc độ khác của thần thoại (1)"
+    },
+    {
+      "num": 885,
+      "title": "Một góc độ khác của thần thoại (2)"
+    },
+    {
+      "num": 886,
+      "title": "Bạo quân"
+    },
+    {
+      "num": 887,
+      "title": "Không thấy nữa (1)"
+    },
+    {
+      "num": 888,
+      "title": "Không thấy nữa (2)"
+    },
+    {
+      "num": 889,
+      "title": "Tái dựng lại các chi tiết"
+    },
+    {
+      "num": 890,
+      "title": "Hoàn thành giao dịch (1)"
+    },
+    {
+      "num": 891,
+      "title": "Hoàn thành giao dịch (2)"
+    },
+    {
+      "num": 892,
+      "title": "Các khách mời"
+    },
+    {
+      "num": 893,
+      "title": "Nhắc nhở (1)"
+    },
+    {
+      "num": 894,
+      "title": "Nhắc nhở (2)"
+    },
+    {
+      "num": 895,
+      "title": "Gửi tặng"
+    },
+    {
+      "num": 896,
+      "title": "Lần thứ hai hoảng hốt (1)"
+    },
+    {
+      "num": 897,
+      "title": "Lần thứ hai hoảng hốt (2)"
+    },
+    {
+      "num": 898,
+      "title": "Ấn ký tinh thần"
+    },
+    {
+      "num": 899,
+      "title": "Vẫn còn (1)"
+    },
+    {
+      "num": 900,
+      "title": "Vẫn còn (2)"
+    },
+    {
+      "num": 901,
+      "title": "Hội Tarot trưởng thành"
+    },
+    {
+      "num": 902,
+      "title": "Chấn động (1)"
+    },
+    {
+      "num": 903,
+      "title": "Chấn động (2)"
+    },
+    {
+      "num": 904,
+      "title": "Hẹn trước"
+    },
+    {
+      "num": 905,
+      "title": "Suy nghĩ bị quên mất (1)"
+    },
+    {
+      "num": 906,
+      "title": "Suy nghĩ bị quên mất (2)"
+    },
+    {
+      "num": 907,
+      "title": "Người đến kẻ đi"
+    },
+    {
+      "num": 908,
+      "title": "Khúc nhạc trong đêm (1)"
+    },
+    {
+      "num": 909,
+      "title": "Khúc nhạc trong đêm (2)"
+    },
+    {
+      "num": 910,
+      "title": "Đến tháng sáu (1)"
+    },
+    {
+      "num": 911,
+      "title": "Đến tháng sáu (2)"
+    },
+    {
+      "num": 912,
+      "title": "Đột nhập"
+    },
+    {
+      "num": 913,
+      "title": "Gần trong gang tấc (1)"
+    },
+    {
+      "num": 914,
+      "title": "Gần trong gang tấc (2)"
+    },
+    {
+      "num": 915,
+      "title": "Thị trấn nhỏ (1)"
+    },
+    {
+      "num": 916,
+      "title": "Thị trấn nhỏ (2)"
+    },
+    {
+      "num": 917,
+      "title": "Chuyện cần phải chú ý"
+    },
+    {
+      "num": 918,
+      "title": "Vận may"
+    },
+    {
+      "num": 919,
+      "title": "Bóng dáng lui tới (1)"
+    },
+    {
+      "num": 920,
+      "title": "Bóng dáng lui tới (2)"
+    },
+    {
+      "num": 921,
+      "title": "\"Đưa thức ăn\""
+    },
+    {
+      "num": 922,
+      "title": "Kẻ bị treo (1)"
+    },
+    {
+      "num": 923,
+      "title": "Kẻ bị treo (2)"
+    },
+    {
+      "num": 924,
+      "title": "Hình ảnh lỗ hổng lịch sử"
+    },
+    {
+      "num": 925,
+      "title": "Hậu duệ cổ thần"
+    },
+    {
+      "num": 926,
+      "title": "Phát huy ưu thế (1)"
+    },
+    {
+      "num": 927,
+      "title": "Phát huy ưu thế (2)"
+    },
+    {
+      "num": 928,
+      "title": "Kiềm chế lẫn nhau"
+    },
+    {
+      "num": 929,
+      "title": "Phía sau cửa"
+    },
+    {
+      "num": 930,
+      "title": "Nấm thần kỳ (1)"
+    },
+    {
+      "num": 931,
+      "title": "Nấm thần kỳ (2)"
+    },
+    {
+      "num": 932,
+      "title": "Phù hiệu nào (1)"
+    },
+    {
+      "num": 933,
+      "title": "Phù hiệu nào (2)"
+    },
+    {
+      "num": 934,
+      "title": "Trở về"
+    },
+    {
+      "num": 935,
+      "title": "Điều tra mục tiêu"
+    },
+    {
+      "num": 936,
+      "title": "Cái tên ẩn giấu trong hồ sơ (1)"
+    },
+    {
+      "num": 937,
+      "title": "Cái tên ẩn giấu trong hồ sơ (2)"
+    },
+    {
+      "num": 938,
+      "title": "Hại cùng cá trong chậu"
+    },
+    {
+      "num": 939,
+      "title": "Tiền khám bệnh"
+    },
+    {
+      "num": 940,
+      "title": "Ma quỷ tại chi tiết (1)"
+    },
+    {
+      "num": 941,
+      "title": "Ma quỷ tại chi tiết (2)"
+    },
+    {
+      "num": 942,
+      "title": "Làm ăn mới của Dwayne Dantes"
+    },
+    {
+      "num": 943,
+      "title": "Nói thẳng (1)"
+    },
+    {
+      "num": 944,
+      "title": "Nói thẳng (2)"
+    },
+    {
+      "num": 945,
+      "title": "So đấu kinh nghiệm nói chuyện"
+    },
+    {
+      "num": 946,
+      "title": "Xưng tội"
+    },
+    {
+      "num": 947,
+      "title": "Khách mới đến (1)"
+    },
+    {
+      "num": 948,
+      "title": "Khách mới đến (2)"
+    },
+    {
+      "num": 949,
+      "title": "Vệ sĩ tới cửa"
+    },
+    {
+      "num": 950,
+      "title": "Cảm khái"
+    },
+    {
+      "num": 951,
+      "title": "Chơi lớn (1)"
+    },
+    {
+      "num": 952,
+      "title": "Chơi lớn (2)"
+    },
+    {
+      "num": 953,
+      "title": "Cây nấm mới"
+    },
+    {
+      "num": 954,
+      "title": "Ngựa nổi điên"
+    },
+    {
+      "num": 955,
+      "title": "Furth mộng (1)"
+    },
+    {
+      "num": 956,
+      "title": "Furth mộng (2)"
+    },
+    {
+      "num": 957,
+      "title": "Thiện tâm nhắc nhở"
+    },
+    {
+      "num": 958,
+      "title": "Tiệc tối từ thiện (1)"
+    },
+    {
+      "num": 959,
+      "title": "Tiệc tối từ thiện (2)"
+    },
+    {
+      "num": 960,
+      "title": "Diễn viên cùng Người quan sát"
+    },
+    {
+      "num": 961,
+      "title": "Đề nghị của Bá tước Hall (1)"
+    },
+    {
+      "num": 962,
+      "title": "Đề nghị của Bá tước Hall (2)"
+    },
+    {
+      "num": 963,
+      "title": "Cố hương"
+    },
+    {
+      "num": 964,
+      "title": "Nhiệm vụ điều tra"
+    },
+    {
+      "num": 965,
+      "title": "Vỏ bọc công cộng (1)"
+    },
+    {
+      "num": 966,
+      "title": "Vỏ bọc công cộng (2)"
+    },
+    {
+      "num": 967,
+      "title": "Tố giác hắn!"
+    },
+    {
+      "num": 968,
+      "title": "Vấn đề đánh thẳng trong lòng"
+    },
+    {
+      "num": 969,
+      "title": "Xử lý công việc"
+    },
+    {
+      "num": 970,
+      "title": "Kết quả thông linh"
+    },
+    {
+      "num": 971,
+      "title": "Câu thông không dấu vết (1)"
+    },
+    {
+      "num": 972,
+      "title": "Câu thông không dấu vết (2)"
+    },
+    {
+      "num": 973,
+      "title": "Không nói cái gì cả"
+    },
+    {
+      "num": 974,
+      "title": "Xác ướp"
+    },
+    {
+      "num": 975,
+      "title": "Xác ướp (2)"
+    },
+    {
+      "num": 976,
+      "title": "Thuật dời họa"
+    },
+    {
+      "num": 977,
+      "title": "Cạm bẫy của ai"
+    },
+    {
+      "num": 978,
+      "title": "Câu hỏi của Arodes (1)"
+    },
+    {
+      "num": 979,
+      "title": "Câu hỏi của Arodes (2)"
+    },
+    {
+      "num": 980,
+      "title": "Hai tầng mục đích"
+    },
+    {
+      "num": 981,
+      "title": "Kẻ lặng lẽ (1)"
+    },
+    {
+      "num": 982,
+      "title": "Kẻ lặng lẽ (2)"
+    },
+    {
+      "num": 983,
+      "title": "Vở kịch” bắt đầu"
+    },
+    {
+      "num": 984,
+      "title": "Trung tâm quỷ kế (1)"
+    },
+    {
+      "num": 985,
+      "title": "Trung tâm quỷ kế (2)"
+    },
+    {
+      "num": 986,
+      "title": "Bán Thần đánh giá"
+    },
+    {
+      "num": 987,
+      "title": "Đã định là gặp nhau (1)"
+    },
+    {
+      "num": 988,
+      "title": "Đã định là gặp nhau (2)"
+    },
+    {
+      "num": 989,
+      "title": "Hai phong thư"
+    },
+    {
+      "num": 990,
+      "title": "Chuẩn bị trước khi đi"
+    },
+    {
+      "num": 991,
+      "title": "Bóng dáng quen thuộc (1)"
+    },
+    {
+      "num": 992,
+      "title": "Bóng dáng quen thuộc (2)"
+    },
+    {
+      "num": 993,
+      "title": "Thoáng nhìn kinh hồn"
+    },
+    {
+      "num": 994,
+      "title": "Nhắc nhở mọi người (1)"
+    },
+    {
+      "num": 995,
+      "title": "Nhắc nhở mọi người (2)"
+    },
+    {
+      "num": 996,
+      "title": "Không cần quản hắn"
+    },
+    {
+      "num": 997,
+      "title": "Giáo đường nhỏ kỳ quái (1)"
+    },
+    {
+      "num": 998,
+      "title": "Giáo đường nhỏ kỳ quái (2)"
+    },
+    {
+      "num": 999,
+      "title": "Đều tự \"lý giải\""
+    },
+    {
+      "num": 1000,
+      "title": "Thực vật như tóc (1)"
+    },
+    {
+      "num": 1001,
+      "title": "Thực vật như tóc (2)"
+    },
+    {
+      "num": 1002,
+      "title": "Gặp lại"
+    },
+    {
+      "num": 1003,
+      "title": "Rốt cuộc yên tâm (1)"
+    },
+    {
+      "num": 1004,
+      "title": "Rốt cuộc yên tâm (2)"
+    },
+    {
+      "num": 1005,
+      "title": "Dailey thử"
+    },
+    {
+      "num": 1006,
+      "title": "Thủ tịch ám chỉ"
+    },
+    {
+      "num": 1007,
+      "title": "Hồi báo (1)"
+    },
+    {
+      "num": 1008,
+      "title": "Hồi báo (2)"
+    },
+    {
+      "num": 1009,
+      "title": "Linh giới Biển cuồng bạo"
+    },
+    {
+      "num": 1010,
+      "title": "\"Tự tiến cử\" (1)"
+    },
+    {
+      "num": 1011,
+      "title": "\"Tự tiến cử\" (2)"
+    },
+    {
+      "num": 1012,
+      "title": "Người giấy biến dị"
+    },
+    {
+      "num": 1013,
+      "title": "Bóng đen (1)"
+    },
+    {
+      "num": 1014,
+      "title": "Bóng đen (2)"
+    },
+    {
+      "num": 1015,
+      "title": "Giám mục loại hình học giả (1)"
+    },
+    {
+      "num": 1016,
+      "title": "Giám mục loại hình học giả (2)"
+    },
+    {
+      "num": 1017,
+      "title": "Phân tích"
+    },
+    {
+      "num": 1018,
+      "title": "Khu mù của tư duy"
+    },
+    {
+      "num": 1019,
+      "title": "Leonard nhắc nhở (1)"
+    },
+    {
+      "num": 1020,
+      "title": "Leonard nhắc nhở (2)"
+    },
+    {
+      "num": 1021,
+      "title": "Lực lượng huyền học"
+    },
+    {
+      "num": 1022,
+      "title": "Không lưu vấn đề (1)"
+    },
+    {
+      "num": 1023,
+      "title": "Không lưu vấn đề (2)"
+    },
+    {
+      "num": 1024,
+      "title": "Ỷ vào vận may"
+    },
+    {
+      "num": 1025,
+      "title": "Con đường \"Quái vật\" (1)"
+    },
+    {
+      "num": 1026,
+      "title": "Con đường \"Quái vật\" (2)"
+    },
+    {
+      "num": 1027,
+      "title": "Hình ảnh kỳ dị"
+    },
+    {
+      "num": 1028,
+      "title": "Lai lịch \"Thợ thủ công\" (1)"
+    },
+    {
+      "num": 1029,
+      "title": "Lai lịch \"Thợ thủ công\" (2)"
+    },
+    {
+      "num": 1030,
+      "title": "Công tác chuẩn bị của Klein"
+    },
+    {
+      "num": 1031,
+      "title": "Tiếng hô ở chỗ sâu trong lăng tẩm"
+    },
+    {
+      "num": 1032,
+      "title": "Một cái \"tôi\" khác (1)"
+    },
+    {
+      "num": 1033,
+      "title": "Một cái \"tôi\" khác (2)"
+    },
+    {
+      "num": 1034,
+      "title": "Tới gần không thể ngăn cản"
+    },
+    {
+      "num": 1035,
+      "title": "Ba sự lựa chọn"
+    },
+    {
+      "num": 1036,
+      "title": "Suy đoán cùng ý tưởng (1)"
+    },
+    {
+      "num": 1037,
+      "title": "Suy đoán cùng ý tưởng (2)"
+    },
+    {
+      "num": 1038,
+      "title": "Suy luận \"hoàn mỹ\" (1)"
+    },
+    {
+      "num": 1039,
+      "title": "Suy luận \"hoàn mỹ\" (2)"
+    },
+    {
+      "num": 1040,
+      "title": "Lai lịch của Calderon"
+    },
+    {
+      "num": 1041,
+      "title": "Lễ phép đệ nhất (1)"
+    },
+    {
+      "num": 1042,
+      "title": "Lễ phép đệ nhất (2)"
+    },
+    {
+      "num": 1043,
+      "title": "Nấm cùng cá"
+    },
+    {
+      "num": 1044,
+      "title": "Di chứng (1)"
+    },
+    {
+      "num": 1045,
+      "title": "Di chứng (2)"
+    },
+    {
+      "num": 1046,
+      "title": "Yếu tố đệ nhất hành động mạo hiểm"
+    },
+    {
+      "num": 1047,
+      "title": "Chọn \"Quần áo\" (1)"
+    },
+    {
+      "num": 1048,
+      "title": "Chọn \"Quần áo\" (2)"
+    },
+    {
+      "num": 1049,
+      "title": "Thành thị đi xuống"
+    },
+    {
+      "num": 1050,
+      "title": "Oai \"Bạo quân\" (1)"
+    },
+    {
+      "num": 1051,
+      "title": "Oai \"Bạo quân\" (2)"
+    },
+    {
+      "num": 1052,
+      "title": "Lầm đường"
+    },
+    {
+      "num": 1053,
+      "title": "Hồn thể chân thật (1)"
+    },
+    {
+      "num": 1054,
+      "title": "Hồn thể chân thật (2)"
+    },
+    {
+      "num": 1055,
+      "title": "Tổ chức cũ"
+    },
+    {
+      "num": 1056,
+      "title": "Phương pháp mới thu hoạch tình báo (1)"
+    },
+    {
+      "num": 1057,
+      "title": "Phương pháp mới thu hoạch tình báo (2)"
+    },
+    {
+      "num": 1058,
+      "title": "Da mặt khá mỏng"
+    },
+    {
+      "num": 1059,
+      "title": "Điểm giống nhau của ác linh (1)"
+    },
+    {
+      "num": 1060,
+      "title": "Điểm giống nhau của ác linh (2)"
+    },
+    {
+      "num": 1061,
+      "title": "Một cộng một lớn hơn hai"
+    },
+    {
+      "num": 1062,
+      "title": "\"Hội hợp\" (1)"
+    },
+    {
+      "num": 1063,
+      "title": "\"Hội hợp\" (2)"
+    },
+    {
+      "num": 1064,
+      "title": "Không muốn bỏ qua"
+    },
+    {
+      "num": 1065,
+      "title": "Mấy ngày sau (1)"
+    },
+    {
+      "num": 1066,
+      "title": "Mấy ngày sau (2)"
+    },
+    {
+      "num": 1067,
+      "title": "Hạ bút"
+    },
+    {
+      "num": 1068,
+      "title": "Mồi câu (1)"
+    },
+    {
+      "num": 1069,
+      "title": "Mồi câu (2)"
+    },
+    {
+      "num": 1070,
+      "title": "Một câu chuyện"
+    },
+    {
+      "num": 1071,
+      "title": "Phát triển phù hợp logic (1)"
+    },
+    {
+      "num": 1072,
+      "title": "Phát triển phù hợp logic (2)"
+    },
+    {
+      "num": 1073,
+      "title": "Nguyền rủa của thần"
+    },
+    {
+      "num": 1074,
+      "title": "Màn thứ ba (1)"
+    },
+    {
+      "num": 1075,
+      "title": "Màn thứ ba (2)"
+    },
+    {
+      "num": 1076,
+      "title": "Màn thứ bốn"
+    },
+    {
+      "num": 1077,
+      "title": "Câu chuyện kết thúc (1)"
+    },
+    {
+      "num": 1078,
+      "title": "Câu chuyện kết thúc (2)"
+    },
+    {
+      "num": 1079,
+      "title": "Một cái ban ân, hoặc là, một cái nguyền rủa (1)"
+    },
+    {
+      "num": 1080,
+      "title": "Một cái ban ân, hoặc là, một cái nguyền rủa (2)"
+    },
+    {
+      "num": 1081,
+      "title": "Đến nhà khám bệnh (1)"
+    },
+    {
+      "num": 1082,
+      "title": "Đến nhà khám bệnh (2)"
+    },
+    {
+      "num": 1083,
+      "title": "Ý nghĩa của sự tồn tại"
+    },
+    {
+      "num": 1084,
+      "title": "Phương hướng điều tra (1)"
+    },
+    {
+      "num": 1085,
+      "title": "Phương hướng điều tra (2)"
+    },
+    {
+      "num": 1086,
+      "title": "Giữ bí mật"
+    },
+    {
+      "num": 1087,
+      "title": "Rút bài (1)"
+    },
+    {
+      "num": 1088,
+      "title": "Rút bài (2)"
+    },
+    {
+      "num": 1089,
+      "title": "Thế giới thực"
+    },
+    {
+      "num": 1090,
+      "title": "Lời tiên đoán"
+    },
+    {
+      "num": 1091,
+      "title": "Pháo đài cổ kỳ lạ (1)"
+    },
+    {
+      "num": 1092,
+      "title": "Pháo đài cổ kỳ lạ (2)"
+    },
+    {
+      "num": 1093,
+      "title": "Oán linh xa xưa"
+    },
+    {
+      "num": 1094,
+      "title": "Thứ phía sau cánh cửa (1)"
+    },
+    {
+      "num": 1095,
+      "title": "Thứ phía sau cánh cửa (2)"
+    },
+    {
+      "num": 1096,
+      "title": "Nhận thức một chút"
+    },
+    {
+      "num": 1097,
+      "title": "Ghi chú (1)"
+    },
+    {
+      "num": 1098,
+      "title": "Ghi chú (2)"
+    },
+    {
+      "num": 1099,
+      "title": "Không phải người mới nào cũng giống nhau"
+    },
+    {
+      "num": 1100,
+      "title": "\"Kẻ Khờ\" than thở (1)"
+    },
+    {
+      "num": 1101,
+      "title": "\"Kẻ Khờ\" than thở (2)"
+    },
+    {
+      "num": 1102,
+      "title": "Nhắc nhở bằng cách báo cho biết"
+    },
+    {
+      "num": 1103,
+      "title": "Bị biết được (1)"
+    },
+    {
+      "num": 1104,
+      "title": "Bị biết được (2)"
+    },
+    {
+      "num": 1105,
+      "title": "Vấn đề của tin tức"
+    },
+    {
+      "num": 1106,
+      "title": "Nguyên nhân cái chết của Medici (1)"
+    },
+    {
+      "num": 1107,
+      "title": "Nguyên nhân cái chết của Medici (2)"
+    },
+    {
+      "num": 1108,
+      "title": "Nguy cơ ngắn ngủi"
+    },
+    {
+      "num": 1109,
+      "title": "Chuyến tàu (1)"
+    },
+    {
+      "num": 1110,
+      "title": "Chuyến tàu (2)"
+    },
+    {
+      "num": 1111,
+      "title": "\"Thần dụ\""
+    },
+    {
+      "num": 1112,
+      "title": "Thánh giả \"giáng trần\""
+    },
+    {
+      "num": 1113,
+      "title": "Công tước (1)"
+    },
+    {
+      "num": 1114,
+      "title": "Công tước (2)"
+    },
+    {
+      "num": 1115,
+      "title": "Thiên phú quyên tiền"
+    },
+    {
+      "num": 1116,
+      "title": "Khắc chế (1)"
+    },
+    {
+      "num": 1117,
+      "title": "Khắc chế (2)"
+    },
+    {
+      "num": 1118,
+      "title": "Hồi ức của Nast"
+    },
+    {
+      "num": 1119,
+      "title": "Thiên sứ mới (1)"
+    },
+    {
+      "num": 1120,
+      "title": "Thiên sứ mới (2)"
+    },
+    {
+      "num": 1121,
+      "title": "Thế giới tâm linh"
+    },
+    {
+      "num": 1122,
+      "title": "Mùi vị quen thuộc (1)"
+    },
+    {
+      "num": 1123,
+      "title": "Mùi vị quen thuộc (2)"
+    },
+    {
+      "num": 1124,
+      "title": "Chương 1208"
+    },
+    {
+      "num": 1125,
+      "title": "Lần đầu giảng đạo (1)"
+    },
+    {
+      "num": 1126,
+      "title": "Lần đầu giảng đạo (2)"
+    },
+    {
+      "num": 1127,
+      "title": "Món quà"
+    },
+    {
+      "num": 1128,
+      "title": "Niềm vui của cuộc sống (1)"
+    },
+    {
+      "num": 1129,
+      "title": "Niềm vui của cuộc sống (2)"
+    },
+    {
+      "num": 1130,
+      "title": "Lựa chọn đối tượng ký sinh"
+    },
+    {
+      "num": 1131,
+      "title": "Quyết định của Herrell (1)"
+    },
+    {
+      "num": 1132,
+      "title": "Quyết định của Herrell (2)"
+    },
+    {
+      "num": 1133,
+      "title": "\"Quỷ pháp sư\" gặp \"Kẻ ký sinh\""
+    },
+    {
+      "num": 1134,
+      "title": "Dùng tên của ngươi (1)"
+    },
+    {
+      "num": 1135,
+      "title": "Dùng tên của ngươi (2)"
+    },
+    {
+      "num": 1136,
+      "title": "Câu trả lời tích cực"
+    },
+    {
+      "num": 1137,
+      "title": "Quyến giả \"Bí Ẩn\" (1)"
+    },
+    {
+      "num": 1138,
+      "title": "Quyến giả \"Bí Ẩn\" (2)"
+    },
+    {
+      "num": 1139,
+      "title": "\"Tính lây nhiễm\" của ký sinh"
+    },
+    {
+      "num": 1140,
+      "title": "\"Kiểm kê thanh lý\" (1)"
+    },
+    {
+      "num": 1141,
+      "title": "\"Kiểm kê thanh lý\" (2)"
+    },
+    {
+      "num": 1142,
+      "title": "Hành động chung (1)"
+    },
+    {
+      "num": 1143,
+      "title": "Hành động chung (2)"
+    },
+    {
+      "num": 1144,
+      "title": "\"Đạo sư\" Arges"
+    },
+    {
+      "num": 1145,
+      "title": "Sợ hãi trong lòng (1)"
+    },
+    {
+      "num": 1146,
+      "title": "Sợ hãi trong lòng (2)"
+    },
+    {
+      "num": 1147,
+      "title": "Nghi thức không có \"đáp lại\""
+    },
+    {
+      "num": 1148,
+      "title": "Lời chúc mừng của Arodes (1)"
+    },
+    {
+      "num": 1149,
+      "title": "Lời chúc mừng của Arodes (2)"
+    },
+    {
+      "num": 1150,
+      "title": "Một khả năng khác"
+    },
+    {
+      "num": 1151,
+      "title": "Khúc dạo đầu (1)"
+    },
+    {
+      "num": 1152,
+      "title": "Khúc dạo đầu (2)"
+    },
+    {
+      "num": 1153,
+      "title": "\"Người liên thể\""
+    },
+    {
+      "num": 1154,
+      "title": "Bày bố (1)"
+    },
+    {
+      "num": 1155,
+      "title": "Bày bố (2)"
+    },
+    {
+      "num": 1156,
+      "title": "\"Thần bài\" Dwayne"
+    },
+    {
+      "num": 1157,
+      "title": "Xây dựng mối quan hệ (1)"
+    },
+    {
+      "num": 1158,
+      "title": "Xây dựng mối quan hệ (2)"
+    },
+    {
+      "num": 1159,
+      "title": "Xúi giục"
+    },
+    {
+      "num": 1160,
+      "title": "Nhạc dạo (1)"
+    },
+    {
+      "num": 1161,
+      "title": "Nhạc dạo (2)"
+    },
+    {
+      "num": 1162,
+      "title": "Chương nhạc số một"
+    },
+    {
+      "num": 1163,
+      "title": "Chương nhạc số 2 (1)"
+    },
+    {
+      "num": 1164,
+      "title": "Chương nhạc số 2 (2)"
+    },
+    {
+      "num": 1165,
+      "title": "Nhạc dạo"
+    },
+    {
+      "num": 1166,
+      "title": "Chương nhạc số 3 (1)"
+    },
+    {
+      "num": 1167,
+      "title": "Chương nhạc số 3 (2)"
+    },
+    {
+      "num": 1168,
+      "title": "Chương nhạc số 4"
+    },
+    {
+      "num": 1169,
+      "title": "Chương cuối và kết thúc (1)"
+    },
+    {
+      "num": 1170,
+      "title": "Chương cuối và kết thúc (2)"
+    },
+    {
+      "num": 1171,
+      "title": "Khắc phục hậu quả"
+    },
+    {
+      "num": 1172,
+      "title": "Phân phối"
+    },
+    {
+      "num": 1173,
+      "title": "Quà tặng luôn luôn phải trả lại (1)"
+    },
+    {
+      "num": 1174,
+      "title": "Quà tặng luôn luôn phải trả lại (2)"
+    },
+    {
+      "num": 1175,
+      "title": "Phí cố vấn (1)"
+    },
+    {
+      "num": 1176,
+      "title": "Phí cố vấn (2)"
+    },
+    {
+      "num": 1177,
+      "title": "Một nhắc nhở khác của Russell"
+    },
+    {
+      "num": 1178,
+      "title": "Ngày 1 tháng 9 (1)"
+    },
+    {
+      "num": 1179,
+      "title": "Ngày 1 tháng 9 (2)"
+    },
+    {
+      "num": 1180,
+      "title": "Sự trưởng thành của mỗi người (1)"
+    },
+    {
+      "num": 1181,
+      "title": "Sự trưởng thành của mỗi người (2)"
+    },
+    {
+      "num": 1182,
+      "title": "Bước chân của chiến tranh (1)\\"
+    },
+    {
+      "num": 1183,
+      "title": "Bước chân của chiến tranh (2)"
+    },
+    {
+      "num": 1184,
+      "title": "Tin tức về Linh Giáo Đoàn"
+    },
+    {
+      "num": 1185,
+      "title": "Trang viên Bài Ca Hoa Hồng (1)"
+    },
+    {
+      "num": 1186,
+      "title": "Trang viên Bài Ca Hoa Hồng (2)"
+    },
+    {
+      "num": 1187,
+      "title": "Không lường được"
+    },
+    {
+      "num": 1188,
+      "title": "Kiên nhẫn (1)"
+    },
+    {
+      "num": 1189,
+      "title": "Kiên nhẫn (2)"
+    },
+    {
+      "num": 1190,
+      "title": "Thủ đoạn của ma nữ"
+    },
+    {
+      "num": 1191,
+      "title": "Giá chữ thập (1)"
+    },
+    {
+      "num": 1192,
+      "title": "Giá chữ thập (2)"
+    },
+    {
+      "num": 1193,
+      "title": "Đáp án"
+    },
+    {
+      "num": 1194,
+      "title": "Cái chết của Mason Deere (1)"
+    },
+    {
+      "num": 1195,
+      "title": "Cái chết của Mason Deere (2)"
+    },
+    {
+      "num": 1196,
+      "title": "Năng khiếu nghệ thuật truyền thống"
+    },
+    {
+      "num": 1197,
+      "title": "Dị biến mang tính ngẫu nhiên (1)"
+    },
+    {
+      "num": 1198,
+      "title": "Dị biến mang tính ngẫu nhiên (2)"
+    },
+    {
+      "num": 1199,
+      "title": "Hai lần cấm đoán"
+    },
+    {
+      "num": 1200,
+      "title": "Lừa gạt (1)"
+    },
+    {
+      "num": 1201,
+      "title": "Lừa gạt (2)"
+    },
+    {
+      "num": 1202,
+      "title": "Tự cứu (1)"
+    },
+    {
+      "num": 1203,
+      "title": "Tự cứu (2)"
+    },
+    {
+      "num": 1204,
+      "title": "Di tích số 1"
+    },
+    {
+      "num": 1205,
+      "title": "Liên hiệp hành động (1)"
+    },
+    {
+      "num": 1206,
+      "title": "Liên hiệp hành động (2)"
+    },
+    {
+      "num": 1207,
+      "title": "Tính khả năng"
+    },
+    {
+      "num": 1208,
+      "title": "Người tịnh hóa cường lực (1)"
+    },
+    {
+      "num": 1209,
+      "title": "Người tịnh hóa cường lực (2)"
+    },
+    {
+      "num": 1210,
+      "title": "Phải có ánh sáng"
+    },
+    {
+      "num": 1211,
+      "title": "Thu hoạch (1)"
+    },
+    {
+      "num": 1212,
+      "title": "Thu hoạch (2)"
+    },
+    {
+      "num": 1213,
+      "title": "Nhật ký đến sớm"
+    },
+    {
+      "num": 1214,
+      "title": "Sự phát triển của \"dự đoán\" (1)"
+    },
+    {
+      "num": 1215,
+      "title": "Sự phát triển của \"dự đoán\" (2)"
+    },
+    {
+      "num": 1216,
+      "title": "Vấn đề của Hermann (1)"
+    },
+    {
+      "num": 1217,
+      "title": "Vấn đề của Hermann (2)"
+    },
+    {
+      "num": 1218,
+      "title": "Danh sách"
+    },
+    {
+      "num": 1219,
+      "title": "Hi vọng (1)"
+    },
+    {
+      "num": 1220,
+      "title": "Hi vọng (2)"
+    },
+    {
+      "num": 1221,
+      "title": "Mặt biển yên tĩnh"
+    },
+    {
+      "num": 1222,
+      "title": "Nữ vương"
+    },
+    {
+      "num": 1223,
+      "title": "Kế hoạch ở các góc độ khác nhau (1)"
+    },
+    {
+      "num": 1224,
+      "title": "Kế hoạch ở các góc độ khác nhau (2)"
+    },
+    {
+      "num": 1225,
+      "title": "Tâm tư của mỗi người"
+    },
+    {
+      "num": 1226,
+      "title": "Đặt mình trong dòng nước xiết (1)"
+    },
+    {
+      "num": 1227,
+      "title": "Đặt mình trong dòng nước xiết (2)"
+    },
+    {
+      "num": 1228,
+      "title": "Hành giả giấc mơ"
+    },
+    {
+      "num": 1229,
+      "title": "Một lần \"thử thách\" (1)"
+    },
+    {
+      "num": 1230,
+      "title": "Một lần \"thử thách\" (2)"
+    },
+    {
+      "num": 1231,
+      "title": "Gió bão đầu não"
+    },
+    {
+      "num": 1232,
+      "title": "\"Gián điệp\" thật giả (1)"
+    },
+    {
+      "num": 1233,
+      "title": "\"Gián điệp\" thật giả (2)"
+    },
+    {
+      "num": 1234,
+      "title": "Trực giác của \"Người quan sát\" (1)"
+    },
+    {
+      "num": 1235,
+      "title": "Trực giác của \"Người quan sát\" (2)"
+    },
+    {
+      "num": 1236,
+      "title": "Giỏi dùng thôi miên"
+    },
+    {
+      "num": 1237,
+      "title": "Con đường khác nhau, phong cách khác nhau (1)"
+    },
+    {
+      "num": 1238,
+      "title": "Con đường khác nhau, phong cách khác nhau (2)"
+    },
+    {
+      "num": 1239,
+      "title": "Ba đánh một (1)"
+    },
+    {
+      "num": 1240,
+      "title": "Ba đánh một (2)"
+    },
+    {
+      "num": 1241,
+      "title": "Hội trưởng"
+    },
+    {
+      "num": 1242,
+      "title": "Nghi thức \"đo ni đóng giày\" (1)"
+    },
+    {
+      "num": 1243,
+      "title": "Nghi thức \"đo ni đóng giày\" (2)"
+    },
+    {
+      "num": 1244,
+      "title": "Mạch suy nghĩ"
+    },
+    {
+      "num": 1245,
+      "title": "\"Ma quỷ\" thực sự (1)"
+    },
+    {
+      "num": 1246,
+      "title": "\"Ma quỷ\" thực sự (2)"
+    },
+    {
+      "num": 1247,
+      "title": "Người siêu phàm và người bình thường"
+    },
+    {
+      "num": 1248,
+      "title": "Người công cụ (1)"
+    },
+    {
+      "num": 1249,
+      "title": "Người công cụ (2)"
+    },
+    {
+      "num": 1250,
+      "title": "Quyền lực của \"Ánh trăng\""
+    },
+    {
+      "num": 1251,
+      "title": "Bí mật bị che giấu (1)"
+    },
+    {
+      "num": 1252,
+      "title": "Bí mật bị che giấu (2)"
+    },
+    {
+      "num": 1253,
+      "title": "Giấc mơ của ai (1)"
+    },
+    {
+      "num": 1254,
+      "title": "Giấc mơ của ai (2)"
+    },
+    {
+      "num": 1255,
+      "title": "\"Giảng bài\" trực tuyến"
+    },
+    {
+      "num": 1256,
+      "title": "Tay trái của chúa (1)"
+    },
+    {
+      "num": 1257,
+      "title": "Tay trái của chúa (2)"
+    },
+    {
+      "num": 1258,
+      "title": "Lôi kéo quan hệ"
+    },
+    {
+      "num": 1259,
+      "title": "Kẻ dạo chơi tinh không (1)"
+    },
+    {
+      "num": 1260,
+      "title": "Kẻ dạo chơi tinh không (2)"
+    },
+    {
+      "num": 1261,
+      "title": "Cái tên quen thuộc"
+    },
+    {
+      "num": 1262,
+      "title": "Biên niên sử Tinh linh (1)"
+    },
+    {
+      "num": 1263,
+      "title": "Biên niên sử Tinh linh (2)"
+    },
+    {
+      "num": 1264,
+      "title": "Chi tiết không hợp lý"
+    },
+    {
+      "num": 1265,
+      "title": "\"Đáy biển\" (1)"
+    },
+    {
+      "num": 1266,
+      "title": "\"Đáy biển\" (2)"
+    },
+    {
+      "num": 1267,
+      "title": "Có lẽ là thật"
+    },
+    {
+      "num": 1268,
+      "title": "Đại sảnh thành thực (1)"
+    },
+    {
+      "num": 1269,
+      "title": "Đại sảnh thành thực (2)"
+    },
+    {
+      "num": 1270,
+      "title": "Tiếng la hét sau cửa"
+    },
+    {
+      "num": 1271,
+      "title": "Ba khả năng (1)"
+    },
+    {
+      "num": 1272,
+      "title": "Ba khả năng (2)"
+    },
+    {
+      "num": 1273,
+      "title": "Đáp án của vấn đề"
+    },
+    {
+      "num": 1274,
+      "title": "Không có hồi đáp (1)"
+    },
+    {
+      "num": 1275,
+      "title": "Không có hồi đáp (2)"
+    },
+    {
+      "num": 1276,
+      "title": "Lời đề nghị của Dorian"
+    },
+    {
+      "num": 1277,
+      "title": "Bốn lựa chọn (1)"
+    },
+    {
+      "num": 1278,
+      "title": "Bốn lựa chọn (2)"
+    },
+    {
+      "num": 1279,
+      "title": "Bí mật được che giấu"
+    },
+    {
+      "num": 1280,
+      "title": "Người làm vườn siêng năng (1)"
+    },
+    {
+      "num": 1281,
+      "title": "Người làm vườn siêng năng (2)"
+    },
+    {
+      "num": 1282,
+      "title": "Suy nghĩ về sắm vai"
+    },
+    {
+      "num": 1283,
+      "title": "Người trở về (1)"
+    },
+    {
+      "num": 1284,
+      "title": "Người trở về (2)"
+    },
+    {
+      "num": 1285,
+      "title": "Bất thình lình"
+    },
+    {
+      "num": 1286,
+      "title": "Backlund hỗn loạn (1)"
+    },
+    {
+      "num": 1287,
+      "title": "Backlund hỗn loạn (2)"
+    },
+    {
+      "num": 1288,
+      "title": "Mọi người trong chiến tranh"
+    },
+    {
+      "num": 1289,
+      "title": "Phân tích tình hình (1)"
+    },
+    {
+      "num": 1290,
+      "title": "Phân tích tình hình (2)"
+    },
+    {
+      "num": 1291,
+      "title": "Suy luận rất đơn giản (1)"
+    },
+    {
+      "num": 1292,
+      "title": "Suy luận rất đơn giản (2)"
+    },
+    {
+      "num": 1293,
+      "title": "Thái độ của thần linh"
+    },
+    {
+      "num": 1294,
+      "title": "Âm thầm lẩn trốn (1)"
+    },
+    {
+      "num": 1295,
+      "title": "Âm thầm lẩn trốn (2)"
+    },
+    {
+      "num": 1296,
+      "title": "Lựa chọn gian nan"
+    },
+    {
+      "num": 1297,
+      "title": "Những câu chuyện quỷ quái (1)"
+    },
+    {
+      "num": 1298,
+      "title": "Những câu chuyện quỷ quái (2)"
+    },
+    {
+      "num": 1299,
+      "title": "Tự hỏi"
+    },
+    {
+      "num": 1300,
+      "title": "Người buồn cười"
+    },
+    {
+      "num": 1301,
+      "title": "Các Thiên sứ của \"Kẻ Khờ\" (1)"
+    },
+    {
+      "num": 1302,
+      "title": "Chương 1386"
+    },
+    {
+      "num": 1303,
+      "title": "Cửa đột phá"
+    },
+    {
+      "num": 1304,
+      "title": "Bản sắc và diễn xuất (1)"
+    },
+    {
+      "num": 1305,
+      "title": "Bản sắc và diễn xuất (2)"
+    },
+    {
+      "num": 1306,
+      "title": "Hợp tác"
+    },
+    {
+      "num": 1307,
+      "title": "Cảnh khốn cùng khác nhau (1)"
+    },
+    {
+      "num": 1308,
+      "title": "Cảnh khốn cùng khác nhau (2)"
+    },
+    {
+      "num": 1309,
+      "title": "Tích lũy cống hiến"
+    },
+    {
+      "num": 1310,
+      "title": "1368 (1)"
+    },
+    {
+      "num": 1311,
+      "title": "1368 (2)"
+    },
+    {
+      "num": 1312,
+      "title": "Một quyển"
+    },
+    {
+      "num": 1313,
+      "title": "Thù lao đặc biệt (1)"
+    },
+    {
+      "num": 1314,
+      "title": "Thù lao đặc biệt (2)"
+    },
+    {
+      "num": 1315,
+      "title": "Đuổi hổ nuốt sói (1)"
+    },
+    {
+      "num": 1316,
+      "title": "Đuổi hổ nuốt sói (2)"
+    },
+    {
+      "num": 1317,
+      "title": "Ám chỉ"
+    },
+    {
+      "num": 1318,
+      "title": "Chỗ mâu thuẫn (1)"
+    },
+    {
+      "num": 1319,
+      "title": "Chỗ mâu thuẫn (2)"
+    },
+    {
+      "num": 1320,
+      "title": "Nhật ký mấu chốt"
+    },
+    {
+      "num": 1321,
+      "title": "Tương tác (1)"
+    },
+    {
+      "num": 1322,
+      "title": "Tương tác (2)"
+    },
+    {
+      "num": 1323,
+      "title": "Ung dung"
+    },
+    {
+      "num": 1324,
+      "title": "Gia đình lộn xộn (1)"
+    },
+    {
+      "num": 1325,
+      "title": "Gia đình lộn xộn (2)"
+    },
+    {
+      "num": 1326,
+      "title": "Kiên nhẫn"
+    },
+    {
+      "num": 1327,
+      "title": "Thông \"linh\" (1)"
+    },
+    {
+      "num": 1328,
+      "title": "Thông \"linh\" (2)"
+    },
+    {
+      "num": 1329,
+      "title": "\"Cao thủ poker\""
+    },
+    {
+      "num": 1330,
+      "title": "Bút ký lữ hành (1)"
+    },
+    {
+      "num": 1331,
+      "title": "Bút ký lữ hành (2)"
+    },
+    {
+      "num": 1332,
+      "title": "Người trông coi hùng mạnh (1)"
+    },
+    {
+      "num": 1333,
+      "title": "Người trông coi hùng mạnh (2)"
+    },
+    {
+      "num": 1334,
+      "title": "Ý chí còn sót lại"
+    },
+    {
+      "num": 1335,
+      "title": "Bên trong vương đình (1)"
+    },
+    {
+      "num": 1336,
+      "title": "Bên trong vương đình (2)"
+    },
+    {
+      "num": 1337,
+      "title": "Sự theo dõi quen thuộc"
+    },
+    {
+      "num": 1338,
+      "title": "Tổ chức mạnh nhất (1)"
+    },
+    {
+      "num": 1339,
+      "title": "Tổ chức mạnh nhất (2)"
+    },
+    {
+      "num": 1340,
+      "title": "Nỗi sợ của Klein (1)"
+    },
+    {
+      "num": 1341,
+      "title": "Nỗi sợ của Klein (2)"
+    },
+    {
+      "num": 1342,
+      "title": "Phối hợp ăn ý (1)"
+    },
+    {
+      "num": 1343,
+      "title": "Phối hợp ăn ý (2)"
+    },
+    {
+      "num": 1344,
+      "title": "Người săn đuổi vương đình"
+    },
+    {
+      "num": 1345,
+      "title": "Nhược điểm (1)"
+    },
+    {
+      "num": 1346,
+      "title": "Nhược điểm (2)"
+    },
+    {
+      "num": 1347,
+      "title": "Chỉ thị của \"Kẻ Khờ\" (1)"
+    },
+    {
+      "num": 1348,
+      "title": "Chỉ thị của \"Kẻ Khờ\" (2)"
+    },
+    {
+      "num": 1349,
+      "title": "Sau khi thăm dò"
+    },
+    {
+      "num": 1350,
+      "title": "Cường hóa đội ngũ (1)"
+    },
+    {
+      "num": 1351,
+      "title": "Cường hóa đội ngũ (2)"
+    },
+    {
+      "num": 1352,
+      "title": "Thời cơ"
+    },
+    {
+      "num": 1353,
+      "title": "\"Bất ngờ\""
+    },
+    {
+      "num": 1354,
+      "title": "\"Nguyên bảo\" (1)"
+    },
+    {
+      "num": 1355,
+      "title": "\"Nguyên bảo\" (2)"
+    },
+    {
+      "num": 1356,
+      "title": "Cuối cùng cũng có thành quả"
+    },
+    {
+      "num": 1357,
+      "title": "Áp lực (1)"
+    },
+    {
+      "num": 1358,
+      "title": "Áp lực (2)"
+    },
+    {
+      "num": 1359,
+      "title": "Tin tức như bão táp"
+    },
+    {
+      "num": 1360,
+      "title": "Giao dịch khó nói (1)"
+    },
+    {
+      "num": 1361,
+      "title": "Giao dịch khó nói (2)"
+    },
+    {
+      "num": 1362,
+      "title": "Giữa sân khấu"
+    },
+    {
+      "num": 1363,
+      "title": "Tụng niệm (1)"
+    },
+    {
+      "num": 1364,
+      "title": "Tụng niệm (2)"
+    },
+    {
+      "num": 1365,
+      "title": "Ngài \"Gate\""
+    },
+    {
+      "num": 1366,
+      "title": "Mùi hương (1)"
+    },
+    {
+      "num": 1367,
+      "title": "Mùi hương (2)"
+    },
+    {
+      "num": 1368,
+      "title": "Lời đồn trong niên đại xa xưa (1)"
+    },
+    {
+      "num": 1369,
+      "title": "Lời đồn trong niên đại xa xưa (2)"
+    },
+    {
+      "num": 1370,
+      "title": "Trong lịch sử"
+    },
+    {
+      "num": 1371,
+      "title": "\"Học giả cổ đại\" (1)"
+    },
+    {
+      "num": 1372,
+      "title": "\"Học giả cổ đại\" (2)"
+    },
+    {
+      "num": 1373,
+      "title": "Một hình thức làm bạn khác (1)"
+    },
+    {
+      "num": 1374,
+      "title": "Một hình thức làm bạn khác (2)"
+    },
+    {
+      "num": 1375,
+      "title": "Tính toán"
+    },
+    {
+      "num": 1376,
+      "title": "Mùa đông (1)"
+    },
+    {
+      "num": 1377,
+      "title": "Mùa đông (2)"
+    },
+    {
+      "num": 1378,
+      "title": "Báo động trước (1)"
+    },
+    {
+      "num": 1379,
+      "title": "Báo động trước (2)"
+    },
+    {
+      "num": 1380,
+      "title": "Phát triển hợp lý"
+    },
+    {
+      "num": 1381,
+      "title": "Suýt chút nữa"
+    },
+    {
+      "num": 1382,
+      "title": "Ba mũi tên cùng bắn ra (1)"
+    },
+    {
+      "num": 1383,
+      "title": "Ba mũi tên cùng bắn ra (2)"
+    },
+    {
+      "num": 1384,
+      "title": "Kẻ buôn thần bán thánh thực sự (1)"
+    },
+    {
+      "num": 1385,
+      "title": "Kẻ buôn thần bán thánh thực sự (2)"
+    },
+    {
+      "num": 1386,
+      "title": "Hỗn loạn"
+    },
+    {
+      "num": 1387,
+      "title": "Chưa muộn (1)"
+    },
+    {
+      "num": 1388,
+      "title": "Chưa muộn (2)"
+    },
+    {
+      "num": 1389,
+      "title": "Chạy trốn (1)"
+    },
+    {
+      "num": 1390,
+      "title": "Chạy trốn (2)"
+    },
+    {
+      "num": 1391,
+      "title": "Phi nước đại"
+    },
+    {
+      "num": 1392,
+      "title": "Đánh lừa (1)"
+    },
+    {
+      "num": 1393,
+      "title": "Đánh lừa (2)"
+    },
+    {
+      "num": 1394,
+      "title": "\"Sai lầm\" (1)"
+    },
+    {
+      "num": 1395,
+      "title": "\"Sai lầm\" (2)"
+    },
+    {
+      "num": 1396,
+      "title": "Lối đi hoàng hôn"
+    },
+    {
+      "num": 1397,
+      "title": "Cho anh một cơ hội (1)"
+    },
+    {
+      "num": 1398,
+      "title": "Cho anh một cơ hội (2)"
+    },
+    {
+      "num": 1399,
+      "title": "Đi trong bóng đêm"
+    },
+    {
+      "num": 1400,
+      "title": "Suy tư (1)"
+    },
+    {
+      "num": 1401,
+      "title": "Suy tư (2)"
+    },
+    {
+      "num": 1402,
+      "title": "Phong cách (1)"
+    },
+    {
+      "num": 1403,
+      "title": "Phong cách (2)"
+    },
+    {
+      "num": 1404,
+      "title": "Giác ngộ"
+    },
+    {
+      "num": 1405,
+      "title": "Chứng thực (1)"
+    },
+    {
+      "num": 1406,
+      "title": "Chứng thực (2)"
+    },
+    {
+      "num": 1407,
+      "title": "Có tiến bộ"
+    },
+    {
+      "num": 1408,
+      "title": "Đếm ngược thời gian (1)"
+    },
+    {
+      "num": 1409,
+      "title": "Đếm ngược thời gian (2)"
+    },
+    {
+      "num": 1410,
+      "title": "Lời tiên đoán (1)"
+    },
+    {
+      "num": 1411,
+      "title": "Lời tiên đoán (2)"
+    },
+    {
+      "num": 1412,
+      "title": "Tiếp cận"
+    },
+    {
+      "num": 1413,
+      "title": "\"Làm càn\" (1)"
+    },
+    {
+      "num": 1414,
+      "title": "\"Làm càn\" (2)"
+    },
+    {
+      "num": 1415,
+      "title": "Đội hình hoành tráng"
+    },
+    {
+      "num": 1416,
+      "title": "Tên của nó (1)"
+    },
+    {
+      "num": 1417,
+      "title": "Tên của nó (2)"
+    },
+    {
+      "num": 1418,
+      "title": "Khi những ngôi sao trở về vị trí cũ (1)"
+    },
+    {
+      "num": 1419,
+      "title": "Khi những ngôi sao trở về vị trí cũ (2)"
+    },
+    {
+      "num": 1420,
+      "title": "Mỏ neo của ta"
+    },
+    {
+      "num": 1421,
+      "title": "Tính toán của Klein (1)"
+    },
+    {
+      "num": 1422,
+      "title": "Tính toán của Klein (2)"
+    },
+    {
+      "num": 1423,
+      "title": "Nghi thức (1)"
+    },
+    {
+      "num": 1424,
+      "title": "Nghi thức (2)"
+    },
+    {
+      "num": 1425,
+      "title": "Vị thứ ba"
+    },
+    {
+      "num": 1426,
+      "title": "\"Thản nhiên\" (1)"
+    },
+    {
+      "num": 1427,
+      "title": "\"Thản nhiên\" (2)"
+    },
+    {
+      "num": 1428,
+      "title": "Đề nghị"
+    },
+    {
+      "num": 1429,
+      "title": "Kết hợp hành động (1)"
+    },
+    {
+      "num": 1430,
+      "title": "Kết hợp hành động (2)"
+    },
+    {
+      "num": 1431,
+      "title": "Ý tưởng rất quan trọng"
+    },
+    {
+      "num": 1432,
+      "title": "Âm mưu ngoài sáng (1)"
+    },
+    {
+      "num": 1433,
+      "title": "Âm mưu ngoài sáng (2)"
+    },
+    {
+      "num": 1434,
+      "title": "Tôi có một quyến giả"
+    },
+    {
+      "num": 1435,
+      "title": "Hai tay chuẩn bị (1)"
+    },
+    {
+      "num": 1436,
+      "title": "Thành cổ North (1)"
+    },
+    {
+      "num": 1437,
+      "title": "Thành cổ North (2)"
+    },
+    {
+      "num": 1438,
+      "title": "Thánh ngôn"
+    },
+    {
+      "num": 1439,
+      "title": "Ưu thế của Klein (1)"
+    },
+    {
+      "num": 1440,
+      "title": "Ưu thế của Klein (2)"
+    },
+    {
+      "num": 1441,
+      "title": "\"Ghi lại\""
+    },
+    {
+      "num": 1442,
+      "title": "Tái hiện (1)"
+    },
+    {
+      "num": 1443,
+      "title": "Tái hiện (2)"
+    },
+    {
+      "num": 1444,
+      "title": "Cơ hội và mạo hiểm cùng tồn tại (1)"
+    },
+    {
+      "num": 1445,
+      "title": "Cơ hội và mạo hiểm cùng tồn tại (2)"
+    },
+    {
+      "num": 1446,
+      "title": "Thay đổi"
+    },
+    {
+      "num": 1447,
+      "title": "Mặt dày (1)"
+    },
+    {
+      "num": 1448,
+      "title": "Mặt dày (2)"
+    },
+    {
+      "num": 1449,
+      "title": "Ngày lễ mùa đông"
+    },
+    {
+      "num": 1450,
+      "title": "Cộng hưởng (1)"
+    },
+    {
+      "num": 1451,
+      "title": "Cộng hưởng (2)"
+    },
+    {
+      "num": 1452,
+      "title": "Nắm chắc tâm lý"
+    },
+    {
+      "num": 1453,
+      "title": "Mỗi người nắm chắc chức trách của mình (1)"
+    },
+    {
+      "num": 1454,
+      "title": "Mỗi người nắm chắc chức trách của mình (2)"
+    },
+    {
+      "num": 1455,
+      "title": "Hướng đông"
+    },
+    {
+      "num": 1456,
+      "title": "Sư tử vồ thỏ (1)"
+    },
+    {
+      "num": 1457,
+      "title": "Sư tử vồ thỏ (2)"
+    },
+    {
+      "num": 1458,
+      "title": "Cấp \"linh hồn\""
+    },
+    {
+      "num": 1459,
+      "title": "\"Vịt con xấu xí\" (1)"
+    },
+    {
+      "num": 1460,
+      "title": "\"Vịt con xấu xí\" (2)"
+    },
+    {
+      "num": 1461,
+      "title": "Gió bão tâm linh (1)"
+    },
+    {
+      "num": 1462,
+      "title": "Gió bão tâm linh (2)"
+    },
+    {
+      "num": 1463,
+      "title": "\"Cuồng loạn\""
+    },
+    {
+      "num": 1464,
+      "title": "Chiếc hộp chẳng lành (1)"
+    },
+    {
+      "num": 1465,
+      "title": "Chiếc hộp chẳng lành (2)"
+    },
+    {
+      "num": 1466,
+      "title": "Tính ngẫu nhiên"
+    },
+    {
+      "num": 1467,
+      "title": "Chuyên nghiệp (1)"
+    },
+    {
+      "num": 1468,
+      "title": "Chuyên nghiệp (2)"
+    },
+    {
+      "num": 1469,
+      "title": "Hội Tarot"
+    },
+    {
+      "num": 1470,
+      "title": "Thu hoạch (1)"
+    },
+    {
+      "num": 1471,
+      "title": "Thu hoạch (2)"
+    },
+    {
+      "num": 1472,
+      "title": "Bất kể sống chết (1)"
+    },
+    {
+      "num": 1473,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 1474,
+      "title": "Cạm bẫy dài đến 1.000 năm"
+    },
+    {
+      "num": 1475,
+      "title": "Toàn là cáo già (1)"
+    },
+    {
+      "num": 1476,
+      "title": "Toàn là cáo già (2)"
+    },
+    {
+      "num": 1477,
+      "title": "Dorian quyết đoán"
+    },
+    {
+      "num": 1478,
+      "title": "Sự yên tĩnh rất lâu không thấy (1)"
+    },
+    {
+      "num": 1479,
+      "title": "Sự yên tĩnh rất lâu không thấy (2)"
+    },
+    {
+      "num": 1480,
+      "title": "Hai lựa chọn"
+    },
+    {
+      "num": 1481,
+      "title": "Thành Mặt Trăng (1)"
+    },
+    {
+      "num": 1482,
+      "title": "Thành Mặt Trăng (2)"
+    },
+    {
+      "num": 1483,
+      "title": "Tưởng tượng"
+    },
+    {
+      "num": 1484,
+      "title": "Truyền bá hào quang (1)"
+    },
+    {
+      "num": 1485,
+      "title": "Truyền bá hào quang (2)"
+    },
+    {
+      "num": 1486,
+      "title": "Âm thanh (1)"
+    },
+    {
+      "num": 1487,
+      "title": "Âm thanh (2)"
+    },
+    {
+      "num": 1488,
+      "title": "Thời gian chưa tới"
+    },
+    {
+      "num": 1489,
+      "title": "Kiên nhẫn cuối cùng cũng có hồi đáp (1)"
+    },
+    {
+      "num": 1490,
+      "title": "Kiên nhẫn cuối cùng cũng có hồi đáp (2)"
+    },
+    {
+      "num": 1491,
+      "title": "Nấm"
+    },
+    {
+      "num": 1492,
+      "title": "Manh mối (1)"
+    },
+    {
+      "num": 1493,
+      "title": "Manh mối (2)"
+    },
+    {
+      "num": 1494,
+      "title": "Đổi một mục tiêu"
+    },
+    {
+      "num": 1495,
+      "title": "Một tấm \"màn sân khấu\" (1)"
+    },
+    {
+      "num": 1496,
+      "title": "Một tấm \"màn sân khấu\" (2)"
+    },
+    {
+      "num": 1497,
+      "title": "Lời nhắn"
+    },
+    {
+      "num": 1498,
+      "title": "\"Sở nghiên cứu\" (1)"
+    },
+    {
+      "num": 1499,
+      "title": "\"Sở nghiên cứu\" (2)"
+    },
+    {
+      "num": 1500,
+      "title": "Cấp bậc đó"
+    },
+    {
+      "num": 1501,
+      "title": "Suy đoán về tận thế (1)"
+    },
+    {
+      "num": 1502,
+      "title": "Suy đoán về tận thế (2)\\"
+    },
+    {
+      "num": 1503,
+      "title": "Khuyên giải (1)"
+    },
+    {
+      "num": 1504,
+      "title": "Khuyên giải (2)"
+    },
+    {
+      "num": 1505,
+      "title": "Phát nấm"
+    },
+    {
+      "num": 1506,
+      "title": "Nghi thức triệu hồi (1)"
+    },
+    {
+      "num": 1507,
+      "title": "Nghi thức triệu hồi (2)"
+    },
+    {
+      "num": 1508,
+      "title": "Chúc mừng"
+    },
+    {
+      "num": 1509,
+      "title": "Trưng cầu ý kiến (1)"
+    },
+    {
+      "num": 1510,
+      "title": "Trưng cầu ý kiến (2)"
+    },
+    {
+      "num": 1511,
+      "title": "Gặp lại"
+    },
+    {
+      "num": 1512,
+      "title": "\"Đến thăm\" khắp nơi (1)"
+    },
+    {
+      "num": 1513,
+      "title": "\"Đến thăm\" khắp nơi (2)"
+    },
+    {
+      "num": 1514,
+      "title": "So sánh"
+    },
+    {
+      "num": 1515,
+      "title": "Hai chỗ (1)"
+    },
+    {
+      "num": 1516,
+      "title": "Hai chỗ (2)"
+    },
+    {
+      "num": 1517,
+      "title": "Hình chiếu \"giáng trần\""
+    },
+    {
+      "num": 1518,
+      "title": "Phụ trợ tốt nhất (1)"
+    },
+    {
+      "num": 1519,
+      "title": "Phụ trợ tốt nhất (2)"
+    },
+    {
+      "num": 1520,
+      "title": "Cùng hành động"
+    },
+    {
+      "num": 1521,
+      "title": "Phân phối (1)"
+    },
+    {
+      "num": 1522,
+      "title": "Phân phối (2)"
+    },
+    {
+      "num": 1523,
+      "title": "Phỏng đoán"
+    },
+    {
+      "num": 1524,
+      "title": "Truyền thụ và kế thừa (1)"
+    },
+    {
+      "num": 1525,
+      "title": "Truyền thụ và kế thừa (2)"
+    },
+    {
+      "num": 1526,
+      "title": "\"Thủy triều\""
+    },
+    {
+      "num": 1527,
+      "title": "Thần đèn (1)"
+    },
+    {
+      "num": 1528,
+      "title": "Thần đèn (2)"
+    },
+    {
+      "num": 1529,
+      "title": "Hành động mê hoặc của nhân loại (1)"
+    },
+    {
+      "num": 1530,
+      "title": "Hành động mê hoặc của nhân loại (2)"
+    },
+    {
+      "num": 1531,
+      "title": "Bận nhưng không cuống"
+    },
+    {
+      "num": 1532,
+      "title": "Nguyện vọng (1)"
+    },
+    {
+      "num": 1533,
+      "title": "Nguyện vọng (2)"
+    },
+    {
+      "num": 1534,
+      "title": "Không cần triệu hồi cũng có thể giúp đỡ"
+    },
+    {
+      "num": 1535,
+      "title": "Nghe theo tâm nguyện (1)"
+    },
+    {
+      "num": 1536,
+      "title": "Nghe theo tâm nguyện (2)"
+    },
+    {
+      "num": 1537,
+      "title": "Cuối cùng (1)"
+    },
+    {
+      "num": 1538,
+      "title": "Cuối cùng (2)"
+    },
+    {
+      "num": 1539,
+      "title": "Chờ đợi 1.000 năm"
+    },
+    {
+      "num": 1540,
+      "title": "Thể hiện uy lực (1)"
+    },
+    {
+      "num": 1541,
+      "title": "Thể hiện uy lực (2)"
+    },
+    {
+      "num": 1542,
+      "title": "Phía sau cửa"
+    },
+    {
+      "num": 1543,
+      "title": "Biến hóa (1)"
+    },
+    {
+      "num": 1544,
+      "title": "Biến hóa (2)"
+    },
+    {
+      "num": 1545,
+      "title": "Ngài Thằng Hề"
+    },
+    {
+      "num": 1546,
+      "title": "Chúc bình an (1)"
+    },
+    {
+      "num": 1547,
+      "title": "Chúc bình an (2)"
+    },
+    {
+      "num": 1548,
+      "title": "Làm màu"
+    },
+    {
+      "num": 1549,
+      "title": "Châm biếm bản thân (1)"
+    },
+    {
+      "num": 1550,
+      "title": "Châm biếm bản thân (2)"
+    },
+    {
+      "num": 1551,
+      "title": "Ta có, ngươi không có (1)"
+    },
+    {
+      "num": 1552,
+      "title": "Ta có, ngươi không có (2)"
+    },
+    {
+      "num": 1553,
+      "title": "Quá yếu"
+    },
+    {
+      "num": 1554,
+      "title": "Thiên biến (1)"
+    },
+    {
+      "num": 1555,
+      "title": "Thiên biến (2)"
+    },
+    {
+      "num": 1556,
+      "title": "Vùng đất ngủ say"
+    },
+    {
+      "num": 1557,
+      "title": "Biết hết (1)"
+    },
+    {
+      "num": 1558,
+      "title": "Biết hết (2)"
+    },
+    {
+      "num": 1559,
+      "title": "Không có ai là ngoại lệ"
+    },
+    {
+      "num": 1560,
+      "title": "Bản chất của kẻ địch (1)"
+    },
+    {
+      "num": 1561,
+      "title": "Bản chất của kẻ địch (2)"
+    },
+    {
+      "num": 1562,
+      "title": "Lớp bảo vệ cuối cùng (1)"
+    },
+    {
+      "num": 1563,
+      "title": "Lớp bảo vệ cuối cùng (2)"
+    },
+    {
+      "num": 1564,
+      "title": "Tiếp tục"
+    },
+    {
+      "num": 1565,
+      "title": "Chiến sĩ (1)"
+    },
+    {
+      "num": 1566,
+      "title": "Chiến sĩ (2)"
+    },
+    {
+      "num": 1567,
+      "title": "Ánh sáng (1)"
+    },
+    {
+      "num": 1568,
+      "title": "Ánh sáng (2)"
+    },
+    {
+      "num": 1569,
+      "title": "Hoan nghênh"
+    },
+    {
+      "num": 1570,
+      "title": "\"Kỳ tích sư \" (1)"
+    },
+    {
+      "num": 1571,
+      "title": "\"Kỳ tích sư \" (2)"
+    },
+    {
+      "num": 1572,
+      "title": "Lực \"Nguyện vọng\" (1)"
+    },
+    {
+      "num": 1573,
+      "title": "Lực \"Nguyện vọng\" (2)"
+    },
+    {
+      "num": 1574,
+      "title": "\"Đến gặp\""
+    },
+    {
+      "num": 1575,
+      "title": "Bảy luồng sáng (1)"
+    },
+    {
+      "num": 1576,
+      "title": "Bảy luồng sáng (2)"
+    },
+    {
+      "num": 1577,
+      "title": "\"Mùa xuân\""
+    },
+    {
+      "num": 1578,
+      "title": "Arodes đáng thương (1)"
+    },
+    {
+      "num": 1579,
+      "title": "Arodes đáng thương (2)"
+    },
+    {
+      "num": 1580,
+      "title": "Thế cục ổn định (1)"
+    },
+    {
+      "num": 1581,
+      "title": "Thế cục ổn định (2)"
+    },
+    {
+      "num": 1582,
+      "title": "Lữ trình mới"
+    },
+    {
+      "num": 1583,
+      "title": "Ma thuật sư lưu lạc (1)"
+    },
+    {
+      "num": 1584,
+      "title": "Ma thuật sư lưu lạc (2)"
+    },
+    {
+      "num": 1585,
+      "title": "Tầng cấp biến hóa"
+    },
+    {
+      "num": 1586,
+      "title": "Nhắc nhở (1)"
+    },
+    {
+      "num": 1587,
+      "title": "Nhắc nhở (2)"
+    },
+    {
+      "num": 1588,
+      "title": "Cảm giác bức thiết"
+    },
+    {
+      "num": 1589,
+      "title": "Ngẫu nhiên gặp ở thành phố nhỏ (1)"
+    },
+    {
+      "num": 1590,
+      "title": "Ngẫu nhiên gặp ở thành phố nhỏ (2)"
+    },
+    {
+      "num": 1591,
+      "title": "Dị biến (1)"
+    },
+    {
+      "num": 1592,
+      "title": "Dị biến (2)"
+    },
+    {
+      "num": 1593,
+      "title": "Tội danh"
+    },
+    {
+      "num": 1594,
+      "title": "Dần dần gia tăng (1)"
+    },
+    {
+      "num": 1595,
+      "title": "Dần dần gia tăng (2)"
+    },
+    {
+      "num": 1596,
+      "title": "Lỗ hổng hạn chế"
+    },
+    {
+      "num": 1597,
+      "title": "Ai cũng đừng nghĩ rời khỏi (1)"
+    },
+    {
+      "num": 1598,
+      "title": "Ai cũng đừng nghĩ rời khỏi (2)"
+    },
+    {
+      "num": 1599,
+      "title": "Cách cũ dùng mới (1)"
+    },
+    {
+      "num": 1600,
+      "title": "Cách cũ dùng mới (2)"
+    },
+    {
+      "num": 1601,
+      "title": "Hướng dẫn"
+    },
+    {
+      "num": 1602,
+      "title": "Tình báo mấu chốt (1)"
+    },
+    {
+      "num": 1603,
+      "title": "Tình báo mấu chốt (2)"
+    },
+    {
+      "num": 1604,
+      "title": "\"Lừa gạt\" (1)"
+    },
+    {
+      "num": 1605,
+      "title": "\"Lừa gạt\" (2)"
+    },
+    {
+      "num": 1606,
+      "title": "Hoàn thành nguyện vọng"
+    },
+    {
+      "num": 1607,
+      "title": "Hai nghi thức (1)"
+    },
+    {
+      "num": 1608,
+      "title": "Hai nghi thức (2)"
+    },
+    {
+      "num": 1609,
+      "title": "Mới vào"
+    },
+    {
+      "num": 1610,
+      "title": "Bức tranh ác ma (1)"
+    },
+    {
+      "num": 1611,
+      "title": "Bức tranh ác ma (2)"
+    },
+    {
+      "num": 1612,
+      "title": "Đối thoại (1)"
+    },
+    {
+      "num": 1613,
+      "title": "Đối thoại (2)"
+    },
+    {
+      "num": 1614,
+      "title": "Hậu quả chiến tranh ở tiền tuyến"
+    },
+    {
+      "num": 1615,
+      "title": "Người yêu thiên văn học (1)"
+    },
+    {
+      "num": 1616,
+      "title": "Người yêu thiên văn học (2)"
+    },
+    {
+      "num": 1617,
+      "title": "\"Rừng\" của kỳ tích"
+    },
+    {
+      "num": 1618,
+      "title": "Rời khỏi (1)"
+    },
+    {
+      "num": 1619,
+      "title": "Rời khỏi (2)"
+    },
+    {
+      "num": 1620,
+      "title": "Sữa và mật (1)"
+    },
+    {
+      "num": 1621,
+      "title": "Sữa và mật (2)"
+    },
+    {
+      "num": 1622,
+      "title": "Người thứ tư"
+    },
+    {
+      "num": 1623,
+      "title": "\"Cuộc sống mới\" (1)"
+    },
+    {
+      "num": 1624,
+      "title": "\"Cuộc sống mới\" (2)"
+    },
+    {
+      "num": 1625,
+      "title": "Cảnh tượng trong lời tiên đoán (1)"
+    },
+    {
+      "num": 1626,
+      "title": "Cảnh tượng trong lời tiên đoán (2)"
+    },
+    {
+      "num": 1627,
+      "title": "Hoạt hóa"
+    },
+    {
+      "num": 1628,
+      "title": "Tầm quan trọng của suy nghĩ (1)"
+    },
+    {
+      "num": 1629,
+      "title": "Tầm quan trọng của suy nghĩ (2)"
+    },
+    {
+      "num": 1630,
+      "title": "Bóng đen"
+    },
+    {
+      "num": 1631,
+      "title": "Phong ấn (1)"
+    },
+    {
+      "num": 1632,
+      "title": "Phong ấn (2)"
+    },
+    {
+      "num": 1633,
+      "title": "Gặp mặt"
+    },
+    {
+      "num": 1634,
+      "title": "Tạm biệt (1)"
+    },
+    {
+      "num": 1635,
+      "title": "Tạm biệt (2)"
+    },
+    {
+      "num": 1636,
+      "title": "Đến nhà phụ đạo"
+    },
+    {
+      "num": 1637,
+      "title": "Sứ giả (1)"
+    },
+    {
+      "num": 1638,
+      "title": "Sứ giả (2)"
+    },
+    {
+      "num": 1639,
+      "title": "Nhiệm vụ mới (1)"
+    },
+    {
+      "num": 1640,
+      "title": "Nhiệm vụ mới (2)"
+    },
+    {
+      "num": 1641,
+      "title": "Máy tự động hoàn thành ước nguyện"
+    },
+    {
+      "num": 1642,
+      "title": "Nguyện vọng thứ 3 (1)"
+    },
+    {
+      "num": 1643,
+      "title": "Nguyện vọng thứ 3 (2)"
+    },
+    {
+      "num": 1644,
+      "title": "Khi kỳ tích chỉ có thể là một"
+    },
+    {
+      "num": 1645,
+      "title": "Tổng kết báo cáo (1)"
+    },
+    {
+      "num": 1646,
+      "title": "Tổng kết báo cáo (2)"
+    },
+    {
+      "num": 1647,
+      "title": "Thành phố xa lạ (1)"
+    },
+    {
+      "num": 1648,
+      "title": "Thành phố xa lạ (2)"
+    },
+    {
+      "num": 1649,
+      "title": "\"Ngạo mạn\""
+    },
+    {
+      "num": 1650,
+      "title": "Bảy vị ủy viên (1)"
+    },
+    {
+      "num": 1651,
+      "title": "Bảy vị ủy viên (2)"
+    },
+    {
+      "num": 1652,
+      "title": "\"Thần chú hộ mệnh\""
+    },
+    {
+      "num": 1653,
+      "title": "Bưu kiện tâm linh (1)"
+    },
+    {
+      "num": 1654,
+      "title": "Bưu kiện tâm linh (2)"
+    },
+    {
+      "num": 1655,
+      "title": "Sáu con đường đặc thù"
+    },
+    {
+      "num": 1656,
+      "title": "Gặp chuyện không quyết, kéo dài thời gian trước (1)"
+    },
+    {
+      "num": 1657,
+      "title": "Gặp chuyện không quyết, kéo dài thời gian trước (2)"
+    },
+    {
+      "num": 1658,
+      "title": "Phát triển kế hoạch lớn"
+    },
+    {
+      "num": 1659,
+      "title": "Xử lý (1)"
+    },
+    {
+      "num": 1660,
+      "title": "Xử lý (2)"
+    },
+    {
+      "num": 1661,
+      "title": "Sau hơn nửa năm"
+    },
+    {
+      "num": 1662,
+      "title": "\"Thánh lễ\" thành công (1)"
+    },
+    {
+      "num": 1663,
+      "title": "\"Thánh lễ\" thành công (2)"
+    },
+    {
+      "num": 1664,
+      "title": "Ba phương án (1)"
+    },
+    {
+      "num": 1665,
+      "title": "Ba phương án (2)"
+    },
+    {
+      "num": 1666,
+      "title": "Bản lĩnh dưới sân khấu"
+    },
+    {
+      "num": 1667,
+      "title": "Buổi đêm không có sự khác thường (1)"
+    },
+    {
+      "num": 1668,
+      "title": "Buổi đêm không có sự khác thường (2)"
+    },
+    {
+      "num": 1669,
+      "title": "Vào ở"
+    },
+    {
+      "num": 1670,
+      "title": "Giúp người làm niềm vui (1)"
+    },
+    {
+      "num": 1671,
+      "title": "Giúp người làm niềm vui (2)"
+    },
+    {
+      "num": 1672,
+      "title": "Nửa đêm kinh hãi"
+    },
+    {
+      "num": 1673,
+      "title": "Hiện thân (1)"
+    },
+    {
+      "num": 1674,
+      "title": "Hiện thân (2)"
+    },
+    {
+      "num": 1675,
+      "title": "Đêm trăng"
+    },
+    {
+      "num": 1676,
+      "title": "\"Tôi\" (1)"
+    },
+    {
+      "num": 1677,
+      "title": "\"Tôi\" (2)"
+    },
+    {
+      "num": 1678,
+      "title": "Qua lại"
+    },
+    {
+      "num": 1679,
+      "title": "Phản ứng dây chuyền (1)"
+    },
+    {
+      "num": 1680,
+      "title": "Phản ứng dây chuyền (2)"
+    },
+    {
+      "num": 1681,
+      "title": "Thăm dò"
+    },
+    {
+      "num": 1682,
+      "title": "Sau cánh cửa (1)"
+    },
+    {
+      "num": 1683,
+      "title": "Sau cánh cửa (2)"
+    },
+    {
+      "num": 1684,
+      "title": "Ký sự du lịch"
+    },
+    {
+      "num": 1685,
+      "title": "Trong mơ (1)"
+    },
+    {
+      "num": 1686,
+      "title": "Trong mơ (2)"
+    },
+    {
+      "num": 1687,
+      "title": "Cùng lúc (1)"
+    },
+    {
+      "num": 1688,
+      "title": "Cùng lúc (2)"
+    },
+    {
+      "num": 1689,
+      "title": "Dệt ác mộng"
+    },
+    {
+      "num": 1690,
+      "title": "Nhân tính (1)"
+    },
+    {
+      "num": 1691,
+      "title": "Nhân tính (2)"
+    },
+    {
+      "num": 1692,
+      "title": "Lại gặp mặt"
+    },
+    {
+      "num": 1693,
+      "title": "Đặc thù của \"Nhà không tưởng\" (1)"
+    },
+    {
+      "num": 1694,
+      "title": "Đặc thù của \"Nhà không tưởng\" (2)"
+    },
+    {
+      "num": 1695,
+      "title": "",
+      "titleConfirmed": true
+    },
+    {
+      "num": 1696,
+      "title": "Chuẩn bị cho nghi thức (1)"
+    },
+    {
+      "num": 1697,
+      "title": "Chuẩn bị cho nghi thức (2)"
+    },
+    {
+      "num": 1698,
+      "title": "\"Cửa\""
+    },
+    {
+      "num": 1699,
+      "title": "Nguyện vọng (1)"
+    },
+    {
+      "num": 1700,
+      "title": "Nguyện vọng (2)"
+    },
+    {
+      "num": 1701,
+      "title": "Nắm lấy cơ hội (1)"
+    },
+    {
+      "num": 1702,
+      "title": "Nắm lấy cơ hội (2)"
+    },
+    {
+      "num": 1703,
+      "title": "\"Người hầu của quỷ bí\""
+    },
+    {
+      "num": 1704,
+      "title": "Hi sinh (1)"
+    },
+    {
+      "num": 1705,
+      "title": "Hi sinh (2)"
+    },
+    {
+      "num": 1706,
+      "title": "Đêm ấy (1)"
+    },
+    {
+      "num": 1707,
+      "title": "Đêm ấy (2)"
+    },
+    {
+      "num": 1708,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 1709,
+      "title": "Cấp bách (1)"
+    },
+    {
+      "num": 1710,
+      "title": "Cấp bách (2)"
+    },
+    {
+      "num": 1711,
+      "title": "Gặp mặt"
+    },
+    {
+      "num": 1712,
+      "title": "Đối thoại (1)"
+    },
+    {
+      "num": 1713,
+      "title": "Đối thoại (2)"
+    },
+    {
+      "num": 1714,
+      "title": "Sáng sớm"
+    },
+    {
+      "num": 1715,
+      "title": "Lựa chọn (1)"
+    },
+    {
+      "num": 1716,
+      "title": "Lựa chọn (2)"
+    },
+    {
+      "num": 1717,
+      "title": "Hợp sức hành động"
+    },
+    {
+      "num": 1718,
+      "title": "Chứng kiến (1)"
+    },
+    {
+      "num": 1719,
+      "title": "Chứng kiến (2)"
+    },
+    {
+      "num": 1720,
+      "title": "Phương án điều trị"
+    },
+    {
+      "num": 1721,
+      "title": "Phái hành động (1)"
+    },
+    {
+      "num": 1722,
+      "title": "Phái hành động (2)"
+    },
+    {
+      "num": 1723,
+      "title": "Phá hủy (1)"
+    },
+    {
+      "num": 1724,
+      "title": "Phá hủy (2)"
+    },
+    {
+      "num": 1725,
+      "title": "Bố trí"
+    },
+    {
+      "num": 1726,
+      "title": "Nhánh sông (1)"
+    },
+    {
+      "num": 1727,
+      "title": "Nhánh sông (2)"
+    },
+    {
+      "num": 1728,
+      "title": "Dấu ấn tử vong"
+    },
+    {
+      "num": 1729,
+      "title": "Hành động lớn (1)"
+    },
+    {
+      "num": 1730,
+      "title": "Hành động lớn (2)"
+    },
+    {
+      "num": 1731,
+      "title": "Quyết đoán"
+    },
+    {
+      "num": 1732,
+      "title": "Ai là bạn, ai là địch (1)"
+    },
+    {
+      "num": 1733,
+      "title": "Ai là bạn, ai là địch (2)"
+    },
+    {
+      "num": 1734,
+      "title": "Tác dụng khác của \"Thần đèn cầu nguyện\""
+    },
+    {
+      "num": 1735,
+      "title": "Đối diện (1)"
+    },
+    {
+      "num": 1736,
+      "title": "Đối diện (2)"
+    },
+    {
+      "num": 1737,
+      "title": "Ngựa gỗ vận mệnh (1)"
+    },
+    {
+      "num": 1738,
+      "title": "Ngựa gỗ vận mệnh (2)"
+    },
+    {
+      "num": 1739,
+      "title": "Bắt đầu dung nạp (1)"
+    },
+    {
+      "num": 1740,
+      "title": "Bắt đầu dung nạp (2)"
+    },
+    {
+      "num": 1741,
+      "title": "Nửa \"Cựu nhật\""
+    },
+    {
+      "num": 1742,
+      "title": "Lời vô nghĩa điên cuồng (1)"
+    },
+    {
+      "num": 1743,
+      "title": "Lời vô nghĩa điên cuồng (2)"
+    },
+    {
+      "num": 1744,
+      "title": "Thay đổi kế hoạch (1)"
+    },
+    {
+      "num": 1745,
+      "title": "Thay đổi kế hoạch (2)"
+    },
+    {
+      "num": 1746,
+      "title": "Hợp sức"
+    },
+    {
+      "num": 1747,
+      "title": "Một kỳ tích (1)"
+    },
+    {
+      "num": 1748,
+      "title": "Một kỳ tích (2)"
+    },
+    {
+      "num": 1749,
+      "title": "Quyền lực (1)"
+    },
+    {
+      "num": 1750,
+      "title": "Quyền lực (2)"
+    },
+    {
+      "num": 1751,
+      "title": "\"Ưu thế\" sân nhà (1)"
+    },
+    {
+      "num": 1752,
+      "title": "\"Ưu thế\" sân nhà (2)"
+    },
+    {
+      "num": 1753,
+      "title": "Đặt ra quy tắc"
+    },
+    {
+      "num": 1754,
+      "title": "Khái niệm hóa (1)"
+    },
+    {
+      "num": 1755,
+      "title": "Khái niệm hóa (2)"
+    },
+    {
+      "num": 1756,
+      "title": "\"Điên\""
+    },
+    {
+      "num": 1757,
+      "title": "Đường hẹp (1)"
+    },
+    {
+      "num": 1758,
+      "title": "Đường hẹp (2)"
+    },
+    {
+      "num": 1759,
+      "title": "Biện pháp (1)"
+    },
+    {
+      "num": 1760,
+      "title": "Biện pháp (2)"
+    },
+    {
+      "num": 1761,
+      "title": "Tụ hội lâm thời"
+    },
+    {
+      "num": 1762,
+      "title": "Ủy thác của “Kẻ Khờ” (1)"
+    },
+    {
+      "num": 1763,
+      "title": "Ủy thác của “Kẻ Khờ” (2)"
+    },
+    {
+      "num": 1764,
+      "title": "Hỏi đáp"
+    },
+    {
+      "num": 1765,
+      "title": "Đối mặt (1)"
+    },
+    {
+      "num": 1766,
+      "title": "Đối mặt (2)"
+    },
+    {
+      "num": 1767,
+      "title": "Hôm qua không còn"
+    },
+    {
+      "num": 1768,
+      "title": "Nơi giấc mộng bắt đầu (1)"
+    },
+    {
+      "num": 1769,
+      "title": "Nơi giấc mộng bắt đầu (2)"
+    },
+    {
+      "num": 1770,
+      "title": "Hành trình mới (Trọn Bộ)"
+    }
+  ]
+}
