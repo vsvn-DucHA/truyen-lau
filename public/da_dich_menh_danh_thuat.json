@@ -1,0 +1,4158 @@
+{
+  "totalChapters": 1037,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Người muốn đợi"
+    },
+    {
+      "num": 2,
+      "title": "Đồng hồ đếm ngược"
+    },
+    {
+      "num": 3,
+      "title": "Thế giới vỡ vụn"
+    },
+    {
+      "num": 4,
+      "title": "Không chỉ một"
+    },
+    {
+      "num": 5,
+      "title": "Vị thế siêu nhiên"
+    },
+    {
+      "num": 6,
+      "title": "Tốt qua sông"
+    },
+    {
+      "num": 7,
+      "title": "Số hiệu 010101"
+    },
+    {
+      "num": 8,
+      "title": "Ảnh Tử"
+    },
+    {
+      "num": 9,
+      "title": "Ác mộng"
+    },
+    {
+      "num": 10,
+      "title": "Phải dùng lửa"
+    },
+    {
+      "num": 11,
+      "title": "Tiễn biệt"
+    },
+    {
+      "num": 12,
+      "title": "Trở về"
+    },
+    {
+      "num": 13,
+      "title": "Có người"
+    },
+    {
+      "num": 14,
+      "title": "Phú quý chớ quên nhau"
+    },
+    {
+      "num": 15,
+      "title": "Mây đen bao phủ"
+    },
+    {
+      "num": 16,
+      "title": "Mạng chỉ có một"
+    },
+    {
+      "num": 17,
+      "title": "Theo dõi chéo"
+    },
+    {
+      "num": 18,
+      "title": "Tổ chức bí mật"
+    },
+    {
+      "num": 19,
+      "title": "Hạn chế xuất hành"
+    },
+    {
+      "num": 20,
+      "title": "Nhóm chat của Thời gian hành giả"
+    },
+    {
+      "num": 21,
+      "title": "Bản mở rộng: Cuộc tranh đoạt Ảnh Tử"
+    },
+    {
+      "num": 22,
+      "title": "Chào mừng đến với nhà tù số 18"
+    },
+    {
+      "num": 23,
+      "title": "Vị khách không mời"
+    },
+    {
+      "num": 24,
+      "title": "Trung tâm thế giới"
+    },
+    {
+      "num": 25,
+      "title": "Ác mộng mới"
+    },
+    {
+      "num": 26,
+      "title": "Trải qua cuộc đời đầy đau khổ, mới càng thêm cao cấp"
+    },
+    {
+      "num": 27,
+      "title": "Kẻ chỉ điểm"
+    },
+    {
+      "num": 28,
+      "title": "Trở về một lần nữa"
+    },
+    {
+      "num": 29,
+      "title": "Thật và giả"
+    },
+    {
+      "num": 30,
+      "title": "Kiếm tiền bằng cách nào"
+    },
+    {
+      "num": 31,
+      "title": "Tài phiệt Lý thị"
+    },
+    {
+      "num": 32,
+      "title": "Kẻ côn đồ"
+    },
+    {
+      "num": 33,
+      "title": "Nghĩa thể mất điện"
+    },
+    {
+      "num": 34,
+      "title": "Khách Côn Lôn"
+    },
+    {
+      "num": 35,
+      "title": "Tìm kiếm Khánh Trần"
+    },
+    {
+      "num": 36,
+      "title": "Hướng dẫn mới"
+    },
+    {
+      "num": 37,
+      "title": "Người Xuyên Châu"
+    },
+    {
+      "num": 38,
+      "title": "Bí mật của Khánh Trần"
+    },
+    {
+      "num": 39,
+      "title": "Trong tất cả đường tắt, con đường xa nhất ấy"
+    },
+    {
+      "num": 40,
+      "title": "Giải mã"
+    },
+    {
+      "num": 41,
+      "title": "Tay đấm viện dưỡng lão"
+    },
+    {
+      "num": 42,
+      "title": "Kẻ sát nhân"
+    },
+    {
+      "num": 43,
+      "title": "Hô hấp"
+    },
+    {
+      "num": 44,
+      "title": "Nhìn thẳng vào nỗi đau"
+    },
+    {
+      "num": 45,
+      "title": "Vật cấm kỵ"
+    },
+    {
+      "num": 46,
+      "title": "Người nhà thăm gặp"
+    },
+    {
+      "num": 47,
+      "title": "Thành phố cyberpunk"
+    },
+    {
+      "num": 48,
+      "title": "Kẻ gánh thay, Lưu Đức Trụ"
+    },
+    {
+      "num": 49,
+      "title": "Hãn phỉ"
+    },
+    {
+      "num": 50,
+      "title": "Ngầm hiểu lẫn nhau"
+    },
+    {
+      "num": 51,
+      "title": "Học sinh chuyển trường"
+    },
+    {
+      "num": 52,
+      "title": "Hàng xóm mới"
+    },
+    {
+      "num": 53,
+      "title": "Học bá và học thần"
+    },
+    {
+      "num": 54,
+      "title": "Đời người không thể làm lại, nhưng có thể phát lại"
+    },
+    {
+      "num": 55,
+      "title": "Thăm dò và tin tức"
+    },
+    {
+      "num": 56,
+      "title": "Hai vị ông chủ"
+    },
+    {
+      "num": 57,
+      "title": "Pháo đài dữ liệu"
+    },
+    {
+      "num": 58,
+      "title": "Đề đơn giản thế này mà cũng không biết làm"
+    },
+    {
+      "num": 59,
+      "title": "Nghi ngờ"
+    },
+    {
+      "num": 60,
+      "title": "Trở về"
+    },
+    {
+      "num": 61,
+      "title": "Dẫn cậu đi ngắm một chút phong cảnh"
+    },
+    {
+      "num": 62,
+      "title": "Một tấm lưới"
+    },
+    {
+      "num": 63,
+      "title": "Tìm cơ hội ra ngoài chơi lần nữa"
+    },
+    {
+      "num": 64,
+      "title": "Hai người điềm tĩnh"
+    },
+    {
+      "num": 65,
+      "title": "Mối liên kết kết nối Biểu thế giới"
+    },
+    {
+      "num": 66,
+      "title": "Một cuộc giao dịch về Biểu thế giới"
+    },
+    {
+      "num": 67,
+      "title": "Đêm không ngủ của đám chó săn"
+    },
+    {
+      "num": 68,
+      "title": "Chỉ cần biết hô 666 là được"
+    },
+    {
+      "num": 69,
+      "title": "Có thể ở nhà anh không"
+    },
+    {
+      "num": 70,
+      "title": "Âm thanh trên lầu"
+    },
+    {
+      "num": 71,
+      "title": "Ra ngoài lúc nửa đêm"
+    },
+    {
+      "num": 72,
+      "title": "Nổ tung!"
+    },
+    {
+      "num": 73,
+      "title": "Đánh hắn!"
+    },
+    {
+      "num": 74,
+      "title": "Chân tướng"
+    },
+    {
+      "num": 75,
+      "title": "Ngoài sân khấu"
+    },
+    {
+      "num": 76,
+      "title": "Đừng kết thù với người khác"
+    },
+    {
+      "num": 77,
+      "title": "ACE-099"
+    },
+    {
+      "num": 78,
+      "title": "Trước khi ra tay"
+    },
+    {
+      "num": 79,
+      "title": "Điều hổ ly sơn"
+    },
+    {
+      "num": 80,
+      "title": "Có nội gián"
+    },
+    {
+      "num": 81,
+      "title": "Sự mỏng manh của sinh mệnh"
+    },
+    {
+      "num": 82,
+      "title": "Yếu hại và mô phỏng sinh học"
+    },
+    {
+      "num": 83,
+      "title": "Chiến đấu và ngộ tính"
+    },
+    {
+      "num": 84,
+      "title": "Tập kích và thăm hỏi"
+    },
+    {
+      "num": 85,
+      "title": "Tiếng thét và tiêu âm"
+    },
+    {
+      "num": 86,
+      "title": "Số người không đúng"
+    },
+    {
+      "num": 87,
+      "title": "Thêm ba người"
+    },
+    {
+      "num": 88,
+      "title": "Nghệ thuật thu hoạch sinh mạng"
+    },
+    {
+      "num": 89,
+      "title": "Dũng khí"
+    },
+    {
+      "num": 90,
+      "title": "Nội gián"
+    },
+    {
+      "num": 91,
+      "title": "Một Thời gian hành giả khác"
+    },
+    {
+      "num": 92,
+      "title": "Bụi định hình"
+    },
+    {
+      "num": 93,
+      "title": "Khởi đầu mới"
+    },
+    {
+      "num": 94,
+      "title": "Bảo trọng"
+    },
+    {
+      "num": 95,
+      "title": "Từ khóa"
+    },
+    {
+      "num": 96,
+      "title": "Lựa chọn của Lưu Đức Trụ"
+    },
+    {
+      "num": 97,
+      "title": "Báo thù"
+    },
+    {
+      "num": 98,
+      "title": "Nhất định rất chu đáo nhỉ"
+    },
+    {
+      "num": 99,
+      "title": "Phải chấp nhận sự trừng phạt"
+    },
+    {
+      "num": 100,
+      "title": "Tìm kiếm nội gián"
+    },
+    {
+      "num": 101,
+      "title": "Vật cấm kỵ ACE-017"
+    },
+    {
+      "num": 102,
+      "title": "Mật mã của vật cấm kỵ"
+    },
+    {
+      "num": 103,
+      "title": "Thời gian hành giả mới"
+    },
+    {
+      "num": 104,
+      "title": "Vấn đề không lớn"
+    },
+    {
+      "num": 105,
+      "title": "Lại ra ngoài chơi"
+    },
+    {
+      "num": 106,
+      "title": "Hoang dã"
+    },
+    {
+      "num": 107,
+      "title": "Trung niên và thiếu niên"
+    },
+    {
+      "num": 108,
+      "title": "Dưỡng sinh tuổi trung niên"
+    },
+    {
+      "num": 109,
+      "title": "Săn bắn mùa thu"
+    },
+    {
+      "num": 110,
+      "title": "Mục tiêu khác"
+    },
+    {
+      "num": 111,
+      "title": "Hoang dã"
+    },
+    {
+      "num": 112,
+      "title": "Thú cưng của đại nhân vật"
+    },
+    {
+      "num": 113,
+      "title": "Quà gặp mặt"
+    },
+    {
+      "num": 114,
+      "title": "Nhà họ Tần"
+    },
+    {
+      "num": 115,
+      "title": "Thả mồi"
+    },
+    {
+      "num": 116,
+      "title": "Tập doanh"
+    },
+    {
+      "num": 117,
+      "title": "Hắn muốn chạy, không chạy thoát"
+    },
+    {
+      "num": 118,
+      "title": "Mê tín của đàn ông"
+    },
+    {
+      "num": 119,
+      "title": "Bài học thứ ba"
+    },
+    {
+      "num": 120,
+      "title": "Tự tin lên"
+    },
+    {
+      "num": 121,
+      "title": "Xe của gia tộc Thần Đại"
+    },
+    {
+      "num": 122,
+      "title": "Phiên dịch"
+    },
+    {
+      "num": 123,
+      "title": "Xã hội tuyên bố cậu tử vong"
+    },
+    {
+      "num": 124,
+      "title": "Nương nhờ"
+    },
+    {
+      "num": 125,
+      "title": "Cơ hội của thời đại"
+    },
+    {
+      "num": 126,
+      "title": "Thời gian gấp đôi"
+    },
+    {
+      "num": 127,
+      "title": "Nương tựa vào nhau"
+    },
+    {
+      "num": 128,
+      "title": "Sóng yên biển lặng"
+    },
+    {
+      "num": 129,
+      "title": "Làm một cái kết"
+    },
+    {
+      "num": 130,
+      "title": "Dọn nhà"
+    },
+    {
+      "num": 131,
+      "title": "Đại bác bắn muỗi"
+    },
+    {
+      "num": 132,
+      "title": "Cho học sinh trút giận"
+    },
+    {
+      "num": 133,
+      "title": "Thời gian hành giả trong đội ngũ thu săn"
+    },
+    {
+      "num": 134,
+      "title": "Tiểu bạch kiểm"
+    },
+    {
+      "num": 135,
+      "title": "Kiểu khởi đầu kỳ lạ"
+    },
+    {
+      "num": 136,
+      "title": "Ây da!"
+    },
+    {
+      "num": 137,
+      "title": "Bộ ba hóng hớt"
+    },
+    {
+      "num": 138,
+      "title": "Vùng an toàn"
+    },
+    {
+      "num": 139,
+      "title": "Thầy rất bận"
+    },
+    {
+      "num": 140,
+      "title": "Bảo bối"
+    },
+    {
+      "num": 141,
+      "title": "Quy tắc vùng đất cấm kỵ"
+    },
+    {
+      "num": 142,
+      "title": "Quy tắc kỳ quái"
+    },
+    {
+      "num": 143,
+      "title": "Phải tuân thủ"
+    },
+    {
+      "num": 144,
+      "title": "Đừng làm kẻ ngu ngốc tự chuốc lấy cái chết"
+    },
+    {
+      "num": 145,
+      "title": "Mộ Kỵ sĩ"
+    },
+    {
+      "num": 146,
+      "title": "Quy tắc của vùng đất cấm kỵ số 002"
+    },
+    {
+      "num": 147,
+      "title": "Lợi dụng quy tắc"
+    },
+    {
+      "num": 148,
+      "title": "Không phải gông xiềng"
+    },
+    {
+      "num": 149,
+      "title": "Hàm tu thảo"
+    },
+    {
+      "num": 150,
+      "title": "Vùng mìn quỷ"
+    },
+    {
+      "num": 151,
+      "title": "Quy tắc tái hiện!"
+    },
+    {
+      "num": 152,
+      "title": "Cưng chiều cháu chắt dễ làm hư trẻ con"
+    },
+    {
+      "num": 153,
+      "title": "Săn bắt!"
+    },
+    {
+      "num": 154,
+      "title": "Trèo một ngọn núi"
+    },
+    {
+      "num": 155,
+      "title": "Theo đuổi một giấc mơ"
+    },
+    {
+      "num": 156,
+      "title": "Hoán đổi vai trò"
+    },
+    {
+      "num": 157,
+      "title": "Thu Diệp Đao"
+    },
+    {
+      "num": 158,
+      "title": "Rối giật dây"
+    },
+    {
+      "num": 159,
+      "title": "Lấy bầu trời làm chăn, lấy đất làm giường"
+    },
+    {
+      "num": 160,
+      "title": "Kẽ hở lớn nhất"
+    },
+    {
+      "num": 161,
+      "title": "Binh sĩ mất tích"
+    },
+    {
+      "num": 162,
+      "title": "Tác phong nghiệp vụ của nội ứng"
+    },
+    {
+      "num": 163,
+      "title": "Cậu không bằng Tào Nguy"
+    },
+    {
+      "num": 164,
+      "title": "Truy hung"
+    },
+    {
+      "num": 165,
+      "title": "Bụi lắng xuống"
+    },
+    {
+      "num": 166,
+      "title": "Hồi quy"
+    },
+    {
+      "num": 167,
+      "title": "Kế hoạch thanh trừng"
+    },
+    {
+      "num": 168,
+      "title": "Lại gặp học sinh chuyển trường"
+    },
+    {
+      "num": 169,
+      "title": "Người đứng sau màn"
+    },
+    {
+      "num": 170,
+      "title": "Sự trả thù của nhà họ Vương(sửa)"
+    },
+    {
+      "num": 171,
+      "title": "Đêm mưa, máu tươi, sát thủ"
+    },
+    {
+      "num": 172,
+      "title": "Song sinh"
+    },
+    {
+      "num": 173,
+      "title": "Ông chủ cao thâm khó lường"
+    },
+    {
+      "num": 174,
+      "title": "Đưa tôi về nhà"
+    },
+    {
+      "num": 175,
+      "title": "Tu hành giữa ngàn cân treo sợi tóc"
+    },
+    {
+      "num": 176,
+      "title": "Hiệu ứng đặc biệt!"
+    },
+    {
+      "num": 177,
+      "title": "Hi hi"
+    },
+    {
+      "num": 178,
+      "title": "Song tu"
+    },
+    {
+      "num": 179,
+      "title": "Sư phụ giúp con hỏi vợ à?"
+    },
+    {
+      "num": 180,
+      "title": "Sư phụ"
+    },
+    {
+      "num": 181,
+      "title": "Trí tuệ nhân tạo, Nhất"
+    },
+    {
+      "num": 182,
+      "title": "Cuộc đoàn tụ ở Lý thế giới"
+    },
+    {
+      "num": 183,
+      "title": "Đi nhà cậu hay nhà tôi"
+    },
+    {
+      "num": 184,
+      "title": "Xem náo nhiệt Lý Thúc Đồng"
+    },
+    {
+      "num": 185,
+      "title": "Cùng thuê nhà đi!"
+    },
+    {
+      "num": 186,
+      "title": "Hắc quyền"
+    },
+    {
+      "num": 187,
+      "title": "Truyền thống của Kỵ sĩ"
+    },
+    {
+      "num": 188,
+      "title": "Gà bay trứng vỡ"
+    },
+    {
+      "num": 189,
+      "title": "Trong lồng sắt bát giác, thiếu niên đầy huyết tính!"
+    },
+    {
+      "num": 190,
+      "title": "Tôi không giết anh"
+    },
+    {
+      "num": 191,
+      "title": "Ảnh Tử thật sự"
+    },
+    {
+      "num": 192,
+      "title": "Bù đắp điểm yếu của Khánh Trần"
+    },
+    {
+      "num": 193,
+      "title": "Tiểu nhân vật giang hồ"
+    },
+    {
+      "num": 194,
+      "title": "Bóng tối đan xen"
+    },
+    {
+      "num": 195,
+      "title": "ACE-005? Đã sớm đưa cho cậu rồi"
+    },
+    {
+      "num": 196,
+      "title": "Vật cấm kỵ ACE-005"
+    },
+    {
+      "num": 197,
+      "title": "Át Bích"
+    },
+    {
+      "num": 198,
+      "title": "Thân phận của Ương Ương"
+    },
+    {
+      "num": 199,
+      "title": "Vật cấm kỵ ACE-002!"
+    },
+    {
+      "num": 200,
+      "title": "Muốn lừa tôi lần nữa?"
+    },
+    {
+      "num": 201,
+      "title": "Sát ý đã đến"
+    },
+    {
+      "num": 202,
+      "title": "Truyền thừa của Kỵ sĩ"
+    },
+    {
+      "num": 203,
+      "title": "Quyền Trượng"
+    },
+    {
+      "num": 204,
+      "title": "Nhà tù bí mật"
+    },
+    {
+      "num": 205,
+      "title": "Tiếng ca"
+    },
+    {
+      "num": 206,
+      "title": "Ván cờ nghìn năm không lặp lại, vật cấm kỵ ACE-002 tái xuất!"
+    },
+    {
+      "num": 207,
+      "title": "Nhân sinh đỉnh cao"
+    },
+    {
+      "num": 208,
+      "title": "Chị gái"
+    },
+    {
+      "num": 209,
+      "title": "Một giáo viên dạy ra"
+    },
+    {
+      "num": 210,
+      "title": "Cuộc tranh đoạt Ảnh Tử: Vòng thứ hai"
+    },
+    {
+      "num": 211,
+      "title": "Đào hố cho các ứng viên"
+    },
+    {
+      "num": 212,
+      "title": "Kẻ ngốc duy nhất trong nhóm"
+    },
+    {
+      "num": 213,
+      "title": "Gia nhập Cửu Châu"
+    },
+    {
+      "num": 214,
+      "title": "Yêu qua mạng gặp mặt ngoài đời"
+    },
+    {
+      "num": 215,
+      "title": "Bán nghệ không bán thân"
+    },
+    {
+      "num": 216,
+      "title": "Thi sĩ lang thang"
+    },
+    {
+      "num": 217,
+      "title": "Tiền riêng của Nhất"
+    },
+    {
+      "num": 218,
+      "title": "Hiện trường xã hội tử hình quy mô lớn"
+    },
+    {
+      "num": 219,
+      "title": "Ảnh Tử thực sự"
+    },
+    {
+      "num": 220,
+      "title": "Không có cái ham muốn trần tục đó"
+    },
+    {
+      "num": 221,
+      "title": "Tân vương đăng quang"
+    },
+    {
+      "num": 222,
+      "title": "Cô cô"
+    },
+    {
+      "num": 223,
+      "title": "Lời đe dọa của Giang Tiểu Đường"
+    },
+    {
+      "num": 224,
+      "title": "Trò chơi của Ảnh Tử"
+    },
+    {
+      "num": 225,
+      "title": "Tăng tiền cược cho trò chơi"
+    },
+    {
+      "num": 226,
+      "title": "Lại hẹn gặp ngoài đời lần nữa!"
+    },
+    {
+      "num": 227,
+      "title": "Đều là sáo lộ"
+    },
+    {
+      "num": 228,
+      "title": "Trận đấu quyền anh"
+    },
+    {
+      "num": 229,
+      "title": "Dung hội quán thông!"
+    },
+    {
+      "num": 230,
+      "title": "Mãi mãi thiếu niên"
+    },
+    {
+      "num": 231,
+      "title": "Tác dụng mới của ACE-005"
+    },
+    {
+      "num": 232,
+      "title": "Một chuyến viễn hành và một ít nợ máu"
+    },
+    {
+      "num": 233,
+      "title": "Thời gian không đợi người"
+    },
+    {
+      "num": 234,
+      "title": "Lão hữu trùng phùng"
+    },
+    {
+      "num": 235,
+      "title": "Nội ứng Lý Y Nặc"
+    },
+    {
+      "num": 236,
+      "title": "Xạ thủ bắn tỉa"
+    },
+    {
+      "num": 237,
+      "title": "Quá đáng lắm rồi đấy"
+    },
+    {
+      "num": 238,
+      "title": "Cảm giác súng tuyệt đối"
+    },
+    {
+      "num": 239,
+      "title": "Vật cấm kỵ ACE-011, súng bắn tỉa"
+    },
+    {
+      "num": 240,
+      "title": "Sự hội ngộ của hai Thời gian hành giả!"
+    },
+    {
+      "num": 241,
+      "title": "Phục kích và đường đạn"
+    },
+    {
+      "num": 242,
+      "title": "Lấy thân làm mồi"
+    },
+    {
+      "num": 243,
+      "title": "Chủ mưu"
+    },
+    {
+      "num": 244,
+      "title": "Xả súng trong tòa nhà"
+    },
+    {
+      "num": 245,
+      "title": "Phương pháp sử dụng vật cấm kỵ độc đáo"
+    },
+    {
+      "num": 246,
+      "title": "Phối hợp ẩn nấp"
+    },
+    {
+      "num": 247,
+      "title": "Rửa tội"
+    },
+    {
+      "num": 248,
+      "title": "Khánh Nhất"
+    },
+    {
+      "num": 249,
+      "title": "Hộp đen"
+    },
+    {
+      "num": 250,
+      "title": "Tên tổ chức: Bạch Trú"
+    },
+    {
+      "num": 251,
+      "title": "Thu dung vật cấm kỵ ACE-011! (Tu)"
+    },
+    {
+      "num": 252,
+      "title": "Vạch trần mặt nạ"
+    },
+    {
+      "num": 253,
+      "title": "Trò ma sói (Tu sửa)"
+    },
+    {
+      "num": 254,
+      "title": "Ngắm bắn và tốc độ gió"
+    },
+    {
+      "num": 255,
+      "title": "Cấp bậc của Thời gian hành giả"
+    },
+    {
+      "num": 256,
+      "title": "Phương thức kiếm tiền của Thời gian hành giả"
+    },
+    {
+      "num": 257,
+      "title": "Tương lai của Bạch Trú"
+    },
+    {
+      "num": 258,
+      "title": "Tương lai đáng mong chờ"
+    },
+    {
+      "num": 259,
+      "title": "Nhóm Bạch Trú"
+    },
+    {
+      "num": 260,
+      "title": "Con đường tu luyện"
+    },
+    {
+      "num": 261,
+      "title": "Côn Lôn, Trịnh Viễn Đông"
+    },
+    {
+      "num": 262,
+      "title": "Chém một đao"
+    },
+    {
+      "num": 263,
+      "title": "Hai thế giới"
+    },
+    {
+      "num": 264,
+      "title": "Dạ mạc, tiếng súng"
+    },
+    {
+      "num": 265,
+      "title": "Trễ rồi"
+    },
+    {
+      "num": 266,
+      "title": "Đạn đạo"
+    },
+    {
+      "num": 267,
+      "title": "Hạ màn"
+    },
+    {
+      "num": 268,
+      "title": "Thật và giả"
+    },
+    {
+      "num": 269,
+      "title": "Thử nghiệm điều kiện thu dung mới"
+    },
+    {
+      "num": 270,
+      "title": "Việc làm ăn không đàng hoàng lắm"
+    },
+    {
+      "num": 271,
+      "title": "Khốn cảnh của Trương Thừa Trạch"
+    },
+    {
+      "num": 272,
+      "title": "Kẻ cướp mối làm ăn"
+    },
+    {
+      "num": 273,
+      "title": "Đừng đùa giỡn chúng tao nữa!"
+    },
+    {
+      "num": 274,
+      "title": "Tô Hành Chỉ và tiểu sếp"
+    },
+    {
+      "num": 275,
+      "title": "Giải cứu sinh tử"
+    },
+    {
+      "num": 276,
+      "title": "Con đường lên trời"
+    },
+    {
+      "num": 277,
+      "title": "Diễn xuất"
+    },
+    {
+      "num": 278,
+      "title": "Giáo viên mới của Giảng Võ Đường, Khánh Trần"
+    },
+    {
+      "num": 279,
+      "title": "Tôi khỏe lắm"
+    },
+    {
+      "num": 280,
+      "title": "Học viện Lý thị bị chi phối"
+    },
+    {
+      "num": 281,
+      "title": "Cá rồng và Long Hồ"
+    },
+    {
+      "num": 282,
+      "title": "Loài vật kỳ diệu của vùng đất cấm kỵ"
+    },
+    {
+      "num": 283,
+      "title": "Lập quy củ"
+    },
+    {
+      "num": 284,
+      "title": "Cách hiểu độc đáo về cuộc tranh đoạt Ảnh Tử"
+    },
+    {
+      "num": 285,
+      "title": "Phương pháp tu hành"
+    },
+    {
+      "num": 286,
+      "title": "Trở về"
+    },
+    {
+      "num": 287,
+      "title": "Thần Đại Không Âm đào tẩu"
+    },
+    {
+      "num": 288,
+      "title": "Trọng thương tổ chức thần bí"
+    },
+    {
+      "num": 289,
+      "title": "Tâm bão"
+    },
+    {
+      "num": 290,
+      "title": "Bạch Trú gửi lời chào đến các vị"
+    },
+    {
+      "num": 291,
+      "title": "Cuộc chiến truy đuổi"
+    },
+    {
+      "num": 292,
+      "title": "Cảm ơn thế giới"
+    },
+    {
+      "num": 293,
+      "title": "Sức mạnh cuồn cuộn, sát cơ dưới nước"
+    },
+    {
+      "num": 294,
+      "title": "Bước cuối cùng"
+    },
+    {
+      "num": 295,
+      "title": "Viện binh kín tiếng nhất"
+    },
+    {
+      "num": 296,
+      "title": "Nhóm bầu không khí"
+    },
+    {
+      "num": 297,
+      "title": "Người thay thế"
+    },
+    {
+      "num": 298,
+      "title": "Cảm giác súng tuyệt đối"
+    },
+    {
+      "num": 299,
+      "title": "Lý Đông Trạch ở Biểu thế giới"
+    },
+    {
+      "num": 300,
+      "title": "Lần đầu tiên kế hoạch xuyên qua ngược hạ màn"
+    },
+    {
+      "num": 301,
+      "title": "Chủ nhân mới của Thu Diệp biệt viện"
+    },
+    {
+      "num": 302,
+      "title": "Bí mật của Thu Diệp biệt viện"
+    },
+    {
+      "num": 303,
+      "title": "Phương pháp tu luyện chính thống"
+    },
+    {
+      "num": 304,
+      "title": "Tiên sinh và sư phụ"
+    },
+    {
+      "num": 305,
+      "title": "Con cá rồng thứ mười"
+    },
+    {
+      "num": 306,
+      "title": "Lò sưởi trong núi tuyết và thiếu nữ bên cạnh lò sưởi"
+    },
+    {
+      "num": 307,
+      "title": "Thần Đại với Lộc Đảo"
+    },
+    {
+      "num": 308,
+      "title": "Pháp quán đỉnh"
+    },
+    {
+      "num": 309,
+      "title": "Nhà mới và tổ ấm mới"
+    },
+    {
+      "num": 310,
+      "title": "Người thông minh"
+    },
+    {
+      "num": 311,
+      "title": "Đối xử công bằng"
+    },
+    {
+      "num": 312,
+      "title": "Không kịp nữa rồi"
+    },
+    {
+      "num": 313,
+      "title": "Đêm tập kích và sát cơ ở tận cùng đường hầm"
+    },
+    {
+      "num": 314,
+      "title": "Không phải ai cũng có thể làm học sinh của tôi"
+    },
+    {
+      "num": 315,
+      "title": "Bí mật phải mang theo xuống mồ"
+    },
+    {
+      "num": 316,
+      "title": "Lối đi ngầm, và lính bắn tỉa"
+    },
+    {
+      "num": 317,
+      "title": "Người nhà"
+    },
+    {
+      "num": 318,
+      "title": "Lén lút học tập, rồi khiến tất cả phải trầm trồ"
+    },
+    {
+      "num": 319,
+      "title": "Phi ngã tộc loại, kỳ tâm tất dị"
+    },
+    {
+      "num": 320,
+      "title": "Tẩy não ngược chiều"
+    },
+    {
+      "num": 321,
+      "title": "Ước hẹn"
+    },
+    {
+      "num": 322,
+      "title": "Xạ thủ như thần minh"
+    },
+    {
+      "num": 323,
+      "title": "Đại lễ tốt nghiệp hoành tráng"
+    },
+    {
+      "num": 324,
+      "title": "Tiếng búng tay và phần sàn nhà biến mất"
+    },
+    {
+      "num": 325,
+      "title": "Khánh Trần biến mất"
+    },
+    {
+      "num": 326,
+      "title": "Vùng đất cấm kỵ điên cuồng"
+    },
+    {
+      "num": 327,
+      "title": "Phương Bắc Thần Đại Không Âm"
+    },
+    {
+      "num": 328,
+      "title": "Buổi họp báo"
+    },
+    {
+      "num": 329,
+      "title": "Tác chiến phối hợp của Bạch Trú"
+    },
+    {
+      "num": 330,
+      "title": "Vây săn và con mồi"
+    },
+    {
+      "num": 331,
+      "title": "Rốt cuộc là bẫy của ai"
+    },
+    {
+      "num": 332,
+      "title": "Phép thử của thế giới"
+    },
+    {
+      "num": 333,
+      "title": "Bức thư đã lâu không nhận"
+    },
+    {
+      "num": 334,
+      "title": "Đỉnh cao của cuộc thi toán học, Khánh Trần"
+    },
+    {
+      "num": 335,
+      "title": "Thời gian hành giả của Lý thị và Khánh thị"
+    },
+    {
+      "num": 336,
+      "title": "Bào Đinh giải ngưu!"
+    },
+    {
+      "num": 337,
+      "title": "Nhân gian tịch liêu"
+    },
+    {
+      "num": 338,
+      "title": "Người gõ cửa nửa đêm"
+    },
+    {
+      "num": 339,
+      "title": "Ánh chiều tà rực rỡ"
+    },
+    {
+      "num": 340,
+      "title": "Lý Khác, vấn tâm"
+    },
+    {
+      "num": 341,
+      "title": "Niềm vui xem kịch"
+    },
+    {
+      "num": 342,
+      "title": "Giả vờ NPC"
+    },
+    {
+      "num": 343,
+      "title": "Hắc Đào, lại thấy Hắc Đào"
+    },
+    {
+      "num": 344,
+      "title": "Lừa cho ngớ người"
+    },
+    {
+      "num": 345,
+      "title": "Lại thấy Ương Ương"
+    },
+    {
+      "num": 346,
+      "title": "Bắt tay"
+    },
+    {
+      "num": 347,
+      "title": "Tin tưởng"
+    },
+    {
+      "num": 348,
+      "title": "Những con quạ"
+    },
+    {
+      "num": 349,
+      "title": "Bạn của ông lão"
+    },
+    {
+      "num": 350,
+      "title": "Truy kích và phản sát!"
+    },
+    {
+      "num": 351,
+      "title": "Bạn bè và gia tộc"
+    },
+    {
+      "num": 352,
+      "title": "Thiếu một cơ hội"
+    },
+    {
+      "num": 353,
+      "title": "Tạo một cơ hội"
+    },
+    {
+      "num": 354,
+      "title": "Nếu cho ta lại thời niên thiếu, một lạng vàng một lạng gió"
+    },
+    {
+      "num": 355,
+      "title": "Tài sản của Khánh Trần"
+    },
+    {
+      "num": 356,
+      "title": "Quả mà Đinh Đong tặng"
+    },
+    {
+      "num": 357,
+      "title": "Mật Điệp Ty!"
+    },
+    {
+      "num": 358,
+      "title": "Thành viên mới của group Bạch Trú"
+    },
+    {
+      "num": 359,
+      "title": "Nghi thức cảm kéo căng"
+    },
+    {
+      "num": 360,
+      "title": "Dựa vào cái gì?"
+    },
+    {
+      "num": 361,
+      "title": "Cơ chế xuyên qua mới"
+    },
+    {
+      "num": 362,
+      "title": "Thiếu niên cầu cứu trên hoang mạc"
+    },
+    {
+      "num": 363,
+      "title": "Thợ săn hoang mạc họ Tần"
+    },
+    {
+      "num": 364,
+      "title": "Thần nữ của Hỏa Đường"
+    },
+    {
+      "num": 365,
+      "title": "Sự phản kích của Khánh Trần"
+    },
+    {
+      "num": 366,
+      "title": "Nhận diện thân phận"
+    },
+    {
+      "num": 367,
+      "title": "Tay sai của Khánh thị"
+    },
+    {
+      "num": 368,
+      "title": "Thành phố mới, cuộc sống mới"
+    },
+    {
+      "num": 369,
+      "title": "Những thuộc hạ mới, những người hàng xóm mới"
+    },
+    {
+      "num": 370,
+      "title": "Nhận chức Mật Điệp Ty"
+    },
+    {
+      "num": 371,
+      "title": "Công thần phò mã"
+    },
+    {
+      "num": 372,
+      "title": "Nhậm chức, đốc tra Trung Tình cục"
+    },
+    {
+      "num": 373,
+      "title": "Phòng Tình báo số 1 ào ạt xuất động"
+    },
+    {
+      "num": 374,
+      "title": "Ngày đầu tiên thống trị lầu 3 Phòng Tình báo số 1"
+    },
+    {
+      "num": 375,
+      "title": "chim cắt diều có chút sốt ruột"
+    },
+    {
+      "num": 376,
+      "title": "Để viên đạn bay một lúc"
+    },
+    {
+      "num": 377,
+      "title": "Phát hiện mới của Khánh Nhất"
+    },
+    {
+      "num": 378,
+      "title": "Ai sắp xếp?"
+    },
+    {
+      "num": 379,
+      "title": "Phẩm tướng hoàn hảo"
+    },
+    {
+      "num": 380,
+      "title": "Phẩm tướng hoàn hảo"
+    },
+    {
+      "num": 381,
+      "title": "Chuỗi thức ăn của thành phố Số 10"
+    },
+    {
+      "num": 382,
+      "title": "Giao dịch con tin"
+    },
+    {
+      "num": 383,
+      "title": "Mười chín năm"
+    },
+    {
+      "num": 384,
+      "title": "Đón một người về nhà"
+    },
+    {
+      "num": 385,
+      "title": "Hội viên"
+    },
+    {
+      "num": 386,
+      "title": "Cướp người"
+    },
+    {
+      "num": 387,
+      "title": "Đời người như vở kịch"
+    },
+    {
+      "num": 388,
+      "title": "Pháo đài và chém giết"
+    },
+    {
+      "num": 389,
+      "title": "Thần chết tới"
+    },
+    {
+      "num": 390,
+      "title": "Đồng hồ đếm ngược bảy ngày"
+    },
+    {
+      "num": 391,
+      "title": "Phúc lợi Tết Nguyên Đán"
+    },
+    {
+      "num": 392,
+      "title": "Ngoài ý muốn"
+    },
+    {
+      "num": 393,
+      "title": "Tạo ra ngoài ý muốn"
+    },
+    {
+      "num": 394,
+      "title": "Không còn hậu hoạn"
+    },
+    {
+      "num": 395,
+      "title": "Một vở kịch hay"
+    },
+    {
+      "num": 396,
+      "title": "Kẻ bàng quan"
+    },
+    {
+      "num": 397,
+      "title": "Bùa hộ mệnh"
+    },
+    {
+      "num": 398,
+      "title": "Trở về"
+    },
+    {
+      "num": 399,
+      "title": "Tần Thư Lễ"
+    },
+    {
+      "num": 400,
+      "title": "Xuất ngoại"
+    },
+    {
+      "num": 401,
+      "title": "Bắc Cực"
+    },
+    {
+      "num": 402,
+      "title": "Ra khơi"
+    },
+    {
+      "num": 403,
+      "title": "Rađa hình người tìm cua hoàng đế"
+    },
+    {
+      "num": 404,
+      "title": "Hải Vương"
+    },
+    {
+      "num": 405,
+      "title": "Hải quái"
+    },
+    {
+      "num": 406,
+      "title": "Trận chiến tốt nhất"
+    },
+    {
+      "num": 407,
+      "title": "Không có vấn đề"
+    },
+    {
+      "num": 408,
+      "title": "Hiểu lầm"
+    },
+    {
+      "num": 409,
+      "title": "Rực Rỡ"
+    },
+    {
+      "num": 410,
+      "title": "Khoa báu dưới đáy biển, tiếng súng trên tàu"
+    },
+    {
+      "num": 411,
+      "title": "Thần quốc giáng lâm"
+    },
+    {
+      "num": 412,
+      "title": "Giới hạn của Kỵ sĩ"
+    },
+    {
+      "num": 413,
+      "title": "Trở về"
+    },
+    {
+      "num": 414,
+      "title": "Sự quen thuộc khó hiểu"
+    },
+    {
+      "num": 415,
+      "title": "Khai chiến!"
+    },
+    {
+      "num": 416,
+      "title": "Thử đao"
+    },
+    {
+      "num": 417,
+      "title": "Khôi lỗi mới"
+    },
+    {
+      "num": 418,
+      "title": "Đại sư khôi lỗi"
+    },
+    {
+      "num": 419,
+      "title": "Hạ màn"
+    },
+    {
+      "num": 420,
+      "title": "Đuôi nhẫn và rời đi"
+    },
+    {
+      "num": 421,
+      "title": "Trở về"
+    },
+    {
+      "num": 422,
+      "title": "Liên minh Thời gian hành giả"
+    },
+    {
+      "num": 423,
+      "title": "Cậu ấy cũng là Thời gian hành giả?"
+    },
+    {
+      "num": 424,
+      "title": "Đại hội"
+    },
+    {
+      "num": 425,
+      "title": "Xã tử và phản xã tử"
+    },
+    {
+      "num": 426,
+      "title": "Náo nhiệt phi thường"
+    },
+    {
+      "num": 427,
+      "title": "Hai con slime"
+    },
+    {
+      "num": 428,
+      "title": "Manh mối về Khánh Nguyên!"
+    },
+    {
+      "num": 429,
+      "title": "Pikachu không thích ở trong quả cầu tinh linh"
+    },
+    {
+      "num": 430,
+      "title": "Có cái gì che khuất hai mắt"
+    },
+    {
+      "num": 431,
+      "title": "Hỗn chiến"
+    },
+    {
+      "num": 432,
+      "title": "Phục kích, huyết chiến"
+    },
+    {
+      "num": 433,
+      "title": "Khôi lỗi"
+    },
+    {
+      "num": 434,
+      "title": "Một chú vịt con bị đá khỏi nhóm chat"
+    },
+    {
+      "num": 435,
+      "title": "Nhóm chat sau khi hợp nhất, những gương mặt mới!"
+    },
+    {
+      "num": 436,
+      "title": "Ủy viên hội đồng"
+    },
+    {
+      "num": 437,
+      "title": "Ương Ương đắc cử ủy viên hội đồng với số phiếu cao nhất"
+    },
+    {
+      "num": 438,
+      "title": "Cuộc phiêu lưu của Tần Thư Lễ"
+    },
+    {
+      "num": 439,
+      "title": "Cuộc họp của Khánh thị"
+    },
+    {
+      "num": 440,
+      "title": "Tiếng tim đập"
+    },
+    {
+      "num": 441,
+      "title": "Phương pháp của Khánh Trần"
+    },
+    {
+      "num": 442,
+      "title": "Một lạng vàng, cùng một bí mật"
+    },
+    {
+      "num": 443,
+      "title": "Người chơi nội bộ"
+    },
+    {
+      "num": 444,
+      "title": "Đốc tra lại lần nữa biến mất"
+    },
+    {
+      "num": 445,
+      "title": "Khiêm tốn và khách khí"
+    },
+    {
+      "num": 446,
+      "title": "Đổi người tạm thời"
+    },
+    {
+      "num": 447,
+      "title": "Đánh úp trở lại"
+    },
+    {
+      "num": 448,
+      "title": "Cửa thiết giáp"
+    },
+    {
+      "num": 449,
+      "title": "Lời mời"
+    },
+    {
+      "num": 450,
+      "title": "Nam chính"
+    },
+    {
+      "num": 451,
+      "title": "Gặp lại"
+    },
+    {
+      "num": 452,
+      "title": "Đối thoại qua không trung"
+    },
+    {
+      "num": 453,
+      "title": "Tôn Sở Từ là nhân vật thần thánh phương nào?"
+    },
+    {
+      "num": 454,
+      "title": "Sự trả thù của Ảnh Tử"
+    },
+    {
+      "num": 455,
+      "title": "Thần nữ Hỏa Đường"
+    },
+    {
+      "num": 456,
+      "title": "Hiệp ước của Kỵ sĩ"
+    },
+    {
+      "num": 457,
+      "title": "Khách không mời mà đến"
+    },
+    {
+      "num": 458,
+      "title": "Nguy cơ"
+    },
+    {
+      "num": 459,
+      "title": "Ảnh Tử thân chinh"
+    },
+    {
+      "num": 460,
+      "title": "Sống sót sau kiếp nạn"
+    },
+    {
+      "num": 461,
+      "title": "Người đi nhờ xe"
+    },
+    {
+      "num": 462,
+      "title": "Chạy trốn"
+    },
+    {
+      "num": 463,
+      "title": "Trò chơi giải trí"
+    },
+    {
+      "num": 464,
+      "title": "Vật chết"
+    },
+    {
+      "num": 465,
+      "title": "Sinh lộ"
+    },
+    {
+      "num": 466,
+      "title": "Mục tiêu thực sự"
+    },
+    {
+      "num": 467,
+      "title": "Âm mưu"
+    },
+    {
+      "num": 468,
+      "title": "Vô luận thế nào cũng không bỏ cuộc"
+    },
+    {
+      "num": 469,
+      "title": "Chi viện"
+    },
+    {
+      "num": 470,
+      "title": "Khánh Trần mất tích"
+    },
+    {
+      "num": 471,
+      "title": "Mật đàm"
+    },
+    {
+      "num": 472,
+      "title": "Phát điên"
+    },
+    {
+      "num": 473,
+      "title": "Mét cuối cùng"
+    },
+    {
+      "num": 474,
+      "title": "Tiếp nối thần kinh"
+    },
+    {
+      "num": 475,
+      "title": "Một tòa cung điện cao chọc trời"
+    },
+    {
+      "num": 476,
+      "title": "Cổ Đao Nhân"
+    },
+    {
+      "num": 477,
+      "title": "Mộ phần"
+    },
+    {
+      "num": 478,
+      "title": "Dấu vết"
+    },
+    {
+      "num": 479,
+      "title": "Một bước giết mười người"
+    },
+    {
+      "num": 480,
+      "title": "Hang động"
+    },
+    {
+      "num": 481,
+      "title": "Cái giá"
+    },
+    {
+      "num": 482,
+      "title": "Thức tỉnh, nắm giữ sấm sét!"
+    },
+    {
+      "num": 483,
+      "title": "Khánh Mục thứ hai"
+    },
+    {
+      "num": 484,
+      "title": "Khoảng cách thông tin"
+    },
+    {
+      "num": 485,
+      "title": "Chém giết"
+    },
+    {
+      "num": 486,
+      "title": "Không sao"
+    },
+    {
+      "num": 487,
+      "title": "Lòng thương hại"
+    },
+    {
+      "num": 488,
+      "title": "Có làm gì đâu"
+    },
+    {
+      "num": 489,
+      "title": "Kẻ bội ước"
+    },
+    {
+      "num": 490,
+      "title": "Các người có thể đánh tôi rồi"
+    },
+    {
+      "num": 491,
+      "title": "Trở về"
+    },
+    {
+      "num": 492,
+      "title": "Khởi hành, chuyến đi mới"
+    },
+    {
+      "num": 493,
+      "title": "Báo thù"
+    },
+    {
+      "num": 494,
+      "title": "Tên của cậu"
+    },
+    {
+      "num": 495,
+      "title": "Cô bé ở xứ tuyết"
+    },
+    {
+      "num": 496,
+      "title": "Trên lưỡi dao"
+    },
+    {
+      "num": 497,
+      "title": "Mua thuốc"
+    },
+    {
+      "num": 498,
+      "title": "Dùng ban ngày để gọi tên màn đêm"
+    },
+    {
+      "num": 499,
+      "title": "Nhắm mắt lại"
+    },
+    {
+      "num": 500,
+      "title": "Hoa văn ngọn lửa"
+    },
+    {
+      "num": 501,
+      "title": "Tự chọn con đường của mình"
+    },
+    {
+      "num": 502,
+      "title": "Tự mình lựa chọn"
+    },
+    {
+      "num": 503,
+      "title": "Trưởng thành"
+    },
+    {
+      "num": 504,
+      "title": "Rất nguy hiểm"
+    },
+    {
+      "num": 505,
+      "title": "Cơ hội"
+    },
+    {
+      "num": 506,
+      "title": "Sao rơi như mưa"
+    },
+    {
+      "num": 507,
+      "title": "Lấy thân làm mồi"
+    },
+    {
+      "num": 508,
+      "title": "Săn lá phong"
+    },
+    {
+      "num": 509,
+      "title": "Thức thần"
+    },
+    {
+      "num": 510,
+      "title": "Quỳ sát đất"
+    },
+    {
+      "num": 511,
+      "title": "Nơi trở về"
+    },
+    {
+      "num": 512,
+      "title": "Cuộc đời cũng được chữa lành như nhau"
+    },
+    {
+      "num": 513,
+      "title": "Điều ước lớn nhất"
+    },
+    {
+      "num": 514,
+      "title": "Sư mẫu"
+    },
+    {
+      "num": 515,
+      "title": "Đồ về chủ cũ"
+    },
+    {
+      "num": 516,
+      "title": "Người vẽ tranh"
+    },
+    {
+      "num": 517,
+      "title": "Người được trời chọn (sửa)"
+    },
+    {
+      "num": 518,
+      "title": "Khủng long con (sửa)"
+    },
+    {
+      "num": 519,
+      "title": "Lễ ra mắt (sửa)"
+    },
+    {
+      "num": 520,
+      "title": "Thức thần ATS-088, Vân Ngoại Kính"
+    },
+    {
+      "num": 521,
+      "title": "Thân phận của Zard trong Lý thế giới"
+    },
+    {
+      "num": 522,
+      "title": "Bạch Trú chào mọi người"
+    },
+    {
+      "num": 523,
+      "title": "Sư phụ và Kỵ sĩ"
+    },
+    {
+      "num": 524,
+      "title": "Cung điện trấn áp thức thần"
+    },
+    {
+      "num": 525,
+      "title": "Sư phụ cũng có sư phụ"
+    },
+    {
+      "num": 526,
+      "title": "Giết người còn phải giết cả lòng"
+    },
+    {
+      "num": 527,
+      "title": "Món quà bí ẩn trước lúc chia tay"
+    },
+    {
+      "num": 528,
+      "title": "Một đóa hoa ly"
+    },
+    {
+      "num": 529,
+      "title": "Điều kỳ diệu của bếp lửa"
+    },
+    {
+      "num": 530,
+      "title": "Hiện trường chia chác"
+    },
+    {
+      "num": 531,
+      "title": "Gió nổi lên"
+    },
+    {
+      "num": 532,
+      "title": "Thời gian hành giả trong A02"
+    },
+    {
+      "num": 533,
+      "title": "Săn mùa đông"
+    },
+    {
+      "num": 534,
+      "title": "Nhất? Tôi đây"
+    },
+    {
+      "num": 535,
+      "title": "Thời đại thái bình"
+    },
+    {
+      "num": 536,
+      "title": "Cứu viện trên tuyến tuyết"
+    },
+    {
+      "num": 537,
+      "title": "Một lòng ba việc!"
+    },
+    {
+      "num": 538,
+      "title": "Lâu rồi không gặp"
+    },
+    {
+      "num": 539,
+      "title": "Chiến đấu!"
+    },
+    {
+      "num": 540,
+      "title": "Ác mộng"
+    },
+    {
+      "num": 541,
+      "title": "Tiên nhân giáng trần"
+    },
+    {
+      "num": 542,
+      "title": "Ảnh Tử!"
+    },
+    {
+      "num": 543,
+      "title": "Phi Đầu Man"
+    },
+    {
+      "num": 544,
+      "title": "Cực hạn của võ phu"
+    },
+    {
+      "num": 545,
+      "title": "Cuộc chiến thế kỷ"
+    },
+    {
+      "num": 546,
+      "title": "Thạch Phật Lý Bỉnh Hy"
+    },
+    {
+      "num": 547,
+      "title": "Màn phối hợp tầm sử thi"
+    },
+    {
+      "num": 548,
+      "title": "Cường giả tự mang theo bình luận trực tiếp"
+    },
+    {
+      "num": 549,
+      "title": "Đưa các cậu về nhà"
+    },
+    {
+      "num": 550,
+      "title": "Mắc bug"
+    },
+    {
+      "num": 551,
+      "title": "Nghệ thuật trình diễn"
+    },
+    {
+      "num": 552,
+      "title": "Trao huân chương"
+    },
+    {
+      "num": 553,
+      "title": "Chú của Nhất"
+    },
+    {
+      "num": 554,
+      "title": "Gánh tội"
+    },
+    {
+      "num": 555,
+      "title": "Cuộc họp phụ huynh đã tới"
+    },
+    {
+      "num": 556,
+      "title": "Bình thường đều ngồi tù"
+    },
+    {
+      "num": 557,
+      "title": "Chiến trường"
+    },
+    {
+      "num": 558,
+      "title": "Khánh Trần hầu rượu"
+    },
+    {
+      "num": 559,
+      "title": "Cuộc sống nhịp độ cao"
+    },
+    {
+      "num": 560,
+      "title": "Nghệ thuật ấy mà!"
+    },
+    {
+      "num": 561,
+      "title": "Những thay đổi ở Khu 9"
+    },
+    {
+      "num": 562,
+      "title": "Thế cục"
+    },
+    {
+      "num": 563,
+      "title": "Tính toán và giết chóc"
+    },
+    {
+      "num": 564,
+      "title": "Lục soát"
+    },
+    {
+      "num": 565,
+      "title": "Buổi biểu diễn văn nghệ"
+    },
+    {
+      "num": 566,
+      "title": "Át Bích"
+    },
+    {
+      "num": 567,
+      "title": "Nghiền nát cả đội hình!"
+    },
+    {
+      "num": 568,
+      "title": "Phỏng vấn"
+    },
+    {
+      "num": 569,
+      "title": "Màn ra mắt của Át Bích"
+    },
+    {
+      "num": 570,
+      "title": "Từ Lâm Sâm lại ra tay"
+    },
+    {
+      "num": 571,
+      "title": "Nghệ thuật rút củi đáy nồi"
+    },
+    {
+      "num": 572,
+      "title": "Thêm một bát mì lòng heo nữa"
+    },
+    {
+      "num": 573,
+      "title": "Có người dẫn đường"
+    },
+    {
+      "num": 574,
+      "title": "Số phận"
+    },
+    {
+      "num": 575,
+      "title": "Băng qua non sông"
+    },
+    {
+      "num": 576,
+      "title": "Con thú cùng đường"
+    },
+    {
+      "num": 577,
+      "title": "Tung người nhảy xuống"
+    },
+    {
+      "num": 578,
+      "title": "Đếm ngược ngày trở về"
+    },
+    {
+      "num": 579,
+      "title": "Giết địch hiệu quả cao"
+    },
+    {
+      "num": 580,
+      "title": "Việc cuối cùng"
+    },
+    {
+      "num": 581,
+      "title": "Mắt xích đơn giản nhất"
+    },
+    {
+      "num": 582,
+      "title": "Bom EMP hình người!"
+    },
+    {
+      "num": 583,
+      "title": "Khả năng khống chế"
+    },
+    {
+      "num": 584,
+      "title": "Chặng đường này, đã đi hết rồi"
+    },
+    {
+      "num": 585,
+      "title": "Lễ gặp mặt của Ảnh Tử"
+    },
+    {
+      "num": 586,
+      "title": "Trở về"
+    },
+    {
+      "num": 587,
+      "title": "Rời đi"
+    },
+    {
+      "num": 588,
+      "title": "Cậu cũng là Thời gian hành giả? Lạc Thành。"
+    },
+    {
+      "num": 589,
+      "title": "Biến số sắp đến"
+    },
+    {
+      "num": 590,
+      "title": "Vợ cũ"
+    },
+    {
+      "num": 591,
+      "title": "Một chuyện không hối hận"
+    },
+    {
+      "num": 592,
+      "title": "Món quà của tương lai"
+    },
+    {
+      "num": 593,
+      "title": "Vật cấm kỵ ACE-004, Con mắt nhìn thấu"
+    },
+    {
+      "num": 594,
+      "title": "Cục Mật điệp, Phó cục trưởng Khánh Trần"
+    },
+    {
+      "num": 595,
+      "title": "Cách kỳ lạ để thu phục đoàn tàu hơi nước"
+    },
+    {
+      "num": 596,
+      "title": "Coi nhẹ sống chết"
+    },
+    {
+      "num": 597,
+      "title": "Hành khách và người soát vé"
+    },
+    {
+      "num": 598,
+      "title": "Thế kỷ đã biến mất"
+    },
+    {
+      "num": 599,
+      "title": "Vùng đất cấm kỵ số 10"
+    },
+    {
+      "num": 600,
+      "title": "Quy tắc và chuyện xưa"
+    },
+    {
+      "num": 601,
+      "title": "Bí ẩn thân thế của Khánh Trần"
+    },
+    {
+      "num": 602,
+      "title": "Chuyến du lịch kỳ lạ của Khánh Trần"
+    },
+    {
+      "num": 603,
+      "title": "Đoàn hướng dẫn viên mạnh nhất"
+    },
+    {
+      "num": 604,
+      "title": "Giết người theo luật"
+    },
+    {
+      "num": 605,
+      "title": "Người giao hàng, Ảnh Tử"
+    },
+    {
+      "num": 606,
+      "title": "Thảm họa của cá rồng"
+    },
+    {
+      "num": 607,
+      "title": "Trang phục giới hạn"
+    },
+    {
+      "num": 608,
+      "title": "Chuyện nhỏ sau khi trở về"
+    },
+    {
+      "num": 609,
+      "title": "Hô hấp trời đất"
+    },
+    {
+      "num": 610,
+      "title": "Trai bao hạng nhất, Trần Tuế!"
+    },
+    {
+      "num": 611,
+      "title": "Màn che mắt"
+    },
+    {
+      "num": 612,
+      "title": "Truyền thừa của phù thủy"
+    },
+    {
+      "num": 613,
+      "title": "Đảo Cá Voi bị người ta thu nhận rồi?!"
+    },
+    {
+      "num": 614,
+      "title": "Chuyện phiêu lưu ở Đảo Cá Voi"
+    },
+    {
+      "num": 615,
+      "title": "Kẻ thu nhận"
+    },
+    {
+      "num": 616,
+      "title": "Thành viên hội đồng trường, Khánh Trần"
+    },
+    {
+      "num": 617,
+      "title": "Kế hoạch trồng trọt!"
+    },
+    {
+      "num": 618,
+      "title": "Người trẻ trong bức ảnh chụp chung với tổ tiên nhà Khánh thị"
+    },
+    {
+      "num": 619,
+      "title": "Viện trưởng Học viện Nông vụ, Khánh Trần"
+    },
+    {
+      "num": 620,
+      "title": "Tìm kiếm truyền thừa tu hành mới"
+    },
+    {
+      "num": 621,
+      "title": "Ảnh Tử ra tay"
+    },
+    {
+      "num": 622,
+      "title": "Vân triện!"
+    },
+    {
+      "num": 623,
+      "title": "Người nhà áo vàng, Trịnh Viễn Đông"
+    },
+    {
+      "num": 624,
+      "title": "Tuổi trẻ biết yêu"
+    },
+    {
+      "num": 625,
+      "title": "Thế kỷ bị khuyết mất một đoạn"
+    },
+    {
+      "num": 626,
+      "title": "Những người làm ruộng đầu tiên của Học viện Nông vụ"
+    },
+    {
+      "num": 627,
+      "title": "Giao dịch với tổ chức Kẻ Bàng Quan"
+    },
+    {
+      "num": 628,
+      "title": "Tích điểm! Tích điểm!"
+    },
+    {
+      "num": 629,
+      "title": "Vạn Thần Lôi Ty"
+    },
+    {
+      "num": 630,
+      "title": "Phúc lợi đặc biệt của Học viện Nông vụ"
+    },
+    {
+      "num": 631,
+      "title": "Viện trưởng Học viện Nông vụ biết cách lách lỗi (sửa)"
+    },
+    {
+      "num": 632,
+      "title": "Bù đắp nuối tiếc suốt một thế kỷ"
+    },
+    {
+      "num": 633,
+      "title": "Người bạn phương xa, Đinh Đong"
+    },
+    {
+      "num": 634,
+      "title": "Chiếc quan tài màu đen"
+    },
+    {
+      "num": 635,
+      "title": "Lời cam kết"
+    },
+    {
+      "num": 636,
+      "title": "Thảm họa số 10"
+    },
+    {
+      "num": 637,
+      "title": "Kẻ địch khắp thiên hạ"
+    },
+    {
+      "num": 638,
+      "title": "Đội quân Vô Diện"
+    },
+    {
+      "num": 639,
+      "title": "Tấm vé vào cửa mà Ảnh Tử cần"
+    },
+    {
+      "num": 640,
+      "title": "Tiền khúc"
+    },
+    {
+      "num": 641,
+      "title": "Người bạn phương xa"
+    },
+    {
+      "num": 642,
+      "title": "Thập Phương Thế Giới!"
+    },
+    {
+      "num": 643,
+      "title": "Lấy Khánh Trần làm niềm tự hào"
+    },
+    {
+      "num": 644,
+      "title": "Khai chiến!"
+    },
+    {
+      "num": 645,
+      "title": "Sống sót sau kiếp nạn"
+    },
+    {
+      "num": 646,
+      "title": "Ảnh Tử, vị thần trong một khắc!"
+    },
+    {
+      "num": 647,
+      "title": "Cuộc chiến vẫn tiếp diễn"
+    },
+    {
+      "num": 648,
+      "title": "Không Khuôn! Khánh Trần tỉnh lại, vũ khí hình người!"
+    },
+    {
+      "num": 649,
+      "title": "Vua không gặp vua"
+    },
+    {
+      "num": 650,
+      "title": "Nỗi áy náy trong lòng Khánh Trần"
+    },
+    {
+      "num": 651,
+      "title": "Đại sư sao trà Huyễn Vũ"
+    },
+    {
+      "num": 652,
+      "title": "Bức thư của em trai"
+    },
+    {
+      "num": 653,
+      "title": "Con dao hai lưỡi giữa những vật cấm kỵ"
+    },
+    {
+      "num": 654,
+      "title": "Người bảo vệ Jingūji Maki"
+    },
+    {
+      "num": 655,
+      "title": "Con đường Kỵ sĩ ở Biểu thế giới"
+    },
+    {
+      "num": 656,
+      "title": "Vua gặp vua"
+    },
+    {
+      "num": 657,
+      "title": "Chín vách đá dựng đứng"
+    },
+    {
+      "num": 658,
+      "title": "Một thời đại thuộc về Kỵ sĩ"
+    },
+    {
+      "num": 659,
+      "title": "Không chết được thì cứ tiếp tục tiến lên!"
+    },
+    {
+      "num": 660,
+      "title": "Cửu ChâuCôn Lôn cùng nhau cuốn lên nào！"
+    },
+    {
+      "num": 661,
+      "title": "Thành viên mới của Học viện Nông vụ"
+    },
+    {
+      "num": 662,
+      "title": "Chiến đấu!"
+    },
+    {
+      "num": 663,
+      "title": "Chú ếch nhỏ bên hồ vui vẻ"
+    },
+    {
+      "num": 664,
+      "title": "Hội quân với Đinh Đông!"
+    },
+    {
+      "num": 665,
+      "title": "Kỵ sĩ gấu khổng lồ, Gù Đùng!"
+    },
+    {
+      "num": 666,
+      "title": "Sau trận đại chiến"
+    },
+    {
+      "num": 667,
+      "title": "Mấy lão già ở vùng đất cấm kỵ số 002"
+    },
+    {
+      "num": 668,
+      "title": "Lời hẹn về vật cấm kỵ"
+    },
+    {
+      "num": 669,
+      "title": "Áp chế huyết thống"
+    },
+    {
+      "num": 670,
+      "title": "Nhân cách thứ ba"
+    },
+    {
+      "num": 671,
+      "title": "Chấp nhận lời triệu gọi"
+    },
+    {
+      "num": 672,
+      "title": "Đừng nhìn, đừng sợ"
+    },
+    {
+      "num": 673,
+      "title": "Tai họa của chúng sinh"
+    },
+    {
+      "num": 674,
+      "title": "Tiểu viện trưởng"
+    },
+    {
+      "num": 675,
+      "title": "Tiếp quản quyền chỉ huy"
+    },
+    {
+      "num": 676,
+      "title": "Thành phố tắt lịm"
+    },
+    {
+      "num": 677,
+      "title": "Muôn mặt chúng sinh"
+    },
+    {
+      "num": 678,
+      "title": "Nơi trú ẩn của khu Ba Phía Dưới"
+    },
+    {
+      "num": 679,
+      "title": "Ngược Dòng Mà Đi"
+    },
+    {
+      "num": 680,
+      "title": "Giết ra ngoài!"
+    },
+    {
+      "num": 681,
+      "title": "Khởi đầu của thảm họa"
+    },
+    {
+      "num": 682,
+      "title": "Sự yên tĩnh trước cơn bão"
+    },
+    {
+      "num": 683,
+      "title": "Cái lạnh giữa mùa xuân"
+    },
+    {
+      "num": 684,
+      "title": "Thời gian không chờ đợi!"
+    },
+    {
+      "num": 685,
+      "title": "Tử thủ! Một bước không lùi!"
+    },
+    {
+      "num": 686,
+      "title": "Nhiệm vụ quan trọng"
+    },
+    {
+      "num": 687,
+      "title": "Tấm vé không đường lui của Mật Điệp Ty!"
+    },
+    {
+      "num": 688,
+      "title": "Ba đời có duyên"
+    },
+    {
+      "num": 689,
+      "title": "Nắm đấm thu về"
+    },
+    {
+      "num": 690,
+      "title": "Bí mật dưới đáy Kình Đảo"
+    },
+    {
+      "num": 691,
+      "title": "Tôi đã trở lại"
+    },
+    {
+      "num": 692,
+      "title": "Hẳn là thiên tiên say rượu"
+    },
+    {
+      "num": 693,
+      "title": "Còn một trận nữa"
+    },
+    {
+      "num": 694,
+      "title": "Quỳ xuống"
+    },
+    {
+      "num": 695,
+      "title": "Trồng vật cấm kỵ"
+    },
+    {
+      "num": 696,
+      "title": "Vật cấm kỵ ACE-039, Ngoài Tam Giới"
+    },
+    {
+      "num": 697,
+      "title": "Vật cấm kỵ ACE-022, Nữ Hoàng Kiến!"
+    },
+    {
+      "num": 698,
+      "title": "Ông lão trên núi Ngân Hạnh và món quà"
+    },
+    {
+      "num": 699,
+      "title": "Làm tay sai cho hổ"
+    },
+    {
+      "num": 700,
+      "title": "Phong tỏa bằng biện pháp vật lý（sửa）"
+    },
+    {
+      "num": 701,
+      "title": "Đặt quân ở Thiên Nguyên, phân thắng thua, định sống chết"
+    },
+    {
+      "num": 702,
+      "title": "Đặt uy tín của tổ chức Kỵ sĩ lên bàn cược"
+    },
+    {
+      "num": 703,
+      "title": "Người chưa từng thắng một lần, cuối cùng cũng thắng một lần"
+    },
+    {
+      "num": 704,
+      "title": "Kỵ sĩ và người đưa tin！"
+    },
+    {
+      "num": 705,
+      "title": "Cánh cửa chìa khóa!"
+    },
+    {
+      "num": 706,
+      "title": "Mắt xích quan trọng nhất, máu của thần!"
+    },
+    {
+      "num": 707,
+      "title": "Cướp người! Vu thuật cấp S tái xuất nhân gian!"
+    },
+    {
+      "num": 708,
+      "title": "Ảo thuật!"
+    },
+    {
+      "num": 709,
+      "title": "Vòng lặp"
+    },
+    {
+      "num": 710,
+      "title": "Khẩu súng lục không liên quan đến số phận!"
+    },
+    {
+      "num": 711,
+      "title": "Anh em chung một lòng（sửa）"
+    },
+    {
+      "num": 712,
+      "title": "Con rối và kẻ chủ mưu! Mối thù lớn!"
+    },
+    {
+      "num": 713,
+      "title": "Thay tôi nhìn thử thế giới mới!"
+    },
+    {
+      "num": 714,
+      "title": "Đứng dưới ánh mặt trời（sửa）"
+    },
+    {
+      "num": 715,
+      "title": "Thế cuộc biến động, hành trình mới"
+    },
+    {
+      "num": 716,
+      "title": "Bỏ nhà đi bụi"
+    },
+    {
+      "num": 717,
+      "title": "Bánh xe cán thẳng lên mặt rồi (đã sửa)"
+    },
+    {
+      "num": 718,
+      "title": "Không sao, có tôi đây"
+    },
+    {
+      "num": 719,
+      "title": "Khánh Trần, tôi lạnh"
+    },
+    {
+      "num": 720,
+      "title": "Quý công tử"
+    },
+    {
+      "num": 721,
+      "title": "Phán định miễn trừ của Ngoài Tam Giới"
+    },
+    {
+      "num": 722,
+      "title": "Sư bá, Trần Gia Chương!"
+    },
+    {
+      "num": 723,
+      "title": "vùng đất cấm kỵ số 008！Luật lệ mới!"
+    },
+    {
+      "num": 724,
+      "title": "Màn sương nghi vấn về vùng đất cấm kỵ!"
+    },
+    {
+      "num": 725,
+      "title": "Ảnh Tử Sát Nhân"
+    },
+    {
+      "num": 726,
+      "title": "Rối tung trong gió"
+    },
+    {
+      "num": 727,
+      "title": "Sức mạnh của Bán Thần, khác biệt một trời một vực!"
+    },
+    {
+      "num": 728,
+      "title": "Chạy trốn giữ mạng!"
+    },
+    {
+      "num": 729,
+      "title": "Bí ẩn thân thế của Đại Vũ"
+    },
+    {
+      "num": 730,
+      "title": "Dùng bug của vùng đất cấm kỵ"
+    },
+    {
+      "num": 731,
+      "title": "Con đường thành thần"
+    },
+    {
+      "num": 732,
+      "title": "Bán thần, Khánh Trần!"
+    },
+    {
+      "num": 733,
+      "title": "Sự tôn trọng cần có"
+    },
+    {
+      "num": 734,
+      "title": "Thử đi thử lại (sửa)"
+    },
+    {
+      "num": 735,
+      "title": "Mấy trò vặt vãnh mà cũng dám múa rìu qua mắt thợ"
+    },
+    {
+      "num": 736,
+      "title": "Đánh hai mặt trận, chơi tất tay!"
+    },
+    {
+      "num": 737,
+      "title": "Nghiền nát và bị nghiền nát"
+    },
+    {
+      "num": 738,
+      "title": "Người lớn đương nhiên là lấy hết!"
+    },
+    {
+      "num": 739,
+      "title": "New York, vùng đất cấm kỵ mới!"
+    },
+    {
+      "num": 740,
+      "title": "Chiến lợi phẩm"
+    },
+    {
+      "num": 741,
+      "title": "Lên đỉnh Everest"
+    },
+    {
+      "num": 742,
+      "title": "Tuyệt cảnh, sát cục!"
+    },
+    {
+      "num": 743,
+      "title": "Phá tâm ma, sinh tử quan!"
+    },
+    {
+      "num": 744,
+      "title": "Sóng điện bí ẩn"
+    },
+    {
+      "num": 745,
+      "title": "Đại Vũ! Đánh thẳng một mạch!"
+    },
+    {
+      "num": 746,
+      "title": "Đại gia thì cứ muốn làm gì cũng được"
+    },
+    {
+      "num": 747,
+      "title": "Sức công phá chẳng đáng bao nhiêu, nhưng độ chọc tức thì cực mạnh"
+    },
+    {
+      "num": 748,
+      "title": "thể sinh học T-3019"
+    },
+    {
+      "num": 749,
+      "title": "Thiếu một người máy sinh học"
+    },
+    {
+      "num": 750,
+      "title": "thể sinh học biến mất khỏi căn cứ bí mật"
+    },
+    {
+      "num": 751,
+      "title": "Thoát khỏi phòng kín, làm ảo thuật cho Trần Dư"
+    },
+    {
+      "num": 752,
+      "title": "Lý Thúc Đồng có gì mà phải sợ? Anh ta có cầm súng Gatling đâu"
+    },
+    {
+      "num": 753,
+      "title": "Ở lại một mình"
+    },
+    {
+      "num": 754,
+      "title": "Đột kích ban đêm"
+    },
+    {
+      "num": 755,
+      "title": "Nhiều mũi cùng tiến, phối hợp hoàn hảo!"
+    },
+    {
+      "num": 756,
+      "title": "Đội quân Ảnh Tử, lưỡi dao tuốt vỏ!"
+    },
+    {
+      "num": 757,
+      "title": "Đến giờ rồi, từ trên trời cao rơi xuống!"
+    },
+    {
+      "num": 758,
+      "title": "Chỉ tiêu thành tích của hội phụ huynh, bắt gián điệp!"
+    },
+    {
+      "num": 759,
+      "title": "Người nhà đi qua, không để sót một ngọn cỏ"
+    },
+    {
+      "num": 760,
+      "title": "Không có tình báo thì tự tạo tình báo"
+    },
+    {
+      "num": 761,
+      "title": "Tung người nhảy xuống"
+    },
+    {
+      "num": 762,
+      "title": "Thế giới Khánh Chuẩn chuẩn bị cho em trai"
+    },
+    {
+      "num": 763,
+      "title": "Trò đùa địa ngục của Khánh Kỵ (sửa)"
+    },
+    {
+      "num": 764,
+      "title": "Nhất, Lâu rồi không gặp"
+    },
+    {
+      "num": 765,
+      "title": "Tiểu Nhất ra khỏi lồng!"
+    },
+    {
+      "num": 766,
+      "title": "Đang trong buổi xem mắt"
+    },
+    {
+      "num": 767,
+      "title": "Kẻ tham vọng và Khánh Trần"
+    },
+    {
+      "num": 768,
+      "title": "Chiến trường tình cảm"
+    },
+    {
+      "num": 769,
+      "title": "Những ngày sống chung"
+    },
+    {
+      "num": 770,
+      "title": "Tranh giành công khai, đấu đá ngầm"
+    },
+    {
+      "num": 771,
+      "title": "Con rối!"
+    },
+    {
+      "num": 772,
+      "title": "Nếm đủ vị đắng của tình yêu"
+    },
+    {
+      "num": 773,
+      "title": "Tộc trưởng mới, Zard"
+    },
+    {
+      "num": 774,
+      "title": "Người khác có, cậu cũng phải có"
+    },
+    {
+      "num": 775,
+      "title": "Thái tử giám quốc"
+    },
+    {
+      "num": 776,
+      "title": "Bao vây, chất vấn!"
+    },
+    {
+      "num": 777,
+      "title": "Chúc Thọ Khánh Trần"
+    },
+    {
+      "num": 778,
+      "title": "Sự tàn nhẫn của gia chủ Khánh thị"
+    },
+    {
+      "num": 779,
+      "title": "Ông lão trên núi Ngân Hạnh"
+    },
+    {
+      "num": 780,
+      "title": "Cha con nhà này chơi lớn thật đấy"
+    },
+    {
+      "num": 781,
+      "title": "Thư ký cơ yếu, Lý Khả Nhu"
+    },
+    {
+      "num": 782,
+      "title": "Nick Max Cấp Ở Làng Tân Thủ"
+    },
+    {
+      "num": 783,
+      "title": "Hóa ra hắn không nói dối"
+    },
+    {
+      "num": 784,
+      "title": "Cú phủ đầu của Khánh Trần"
+    },
+    {
+      "num": 785,
+      "title": "Thảm họa gián"
+    },
+    {
+      "num": 786,
+      "title": "Ai nhìn mà chẳng lú?"
+    },
+    {
+      "num": 787,
+      "title": "Mối thù của Tiểu Lục, đã trả được"
+    },
+    {
+      "num": 788,
+      "title": "Đột nhập!"
+    },
+    {
+      "num": 789,
+      "title": "Đột nhập hoàn hảo"
+    },
+    {
+      "num": 790,
+      "title": "Đại Vương Và Tiểu Vương"
+    },
+    {
+      "num": 791,
+      "title": "Thế giới ảo Siêu Dẫn"
+    },
+    {
+      "num": 792,
+      "title": "Người đàn ông từng hủy diệt cả thế giới"
+    },
+    {
+      "num": 793,
+      "title": "Hổ dữ và cừu non"
+    },
+    {
+      "num": 794,
+      "title": "Ánh sáng của người da trắng"
+    },
+    {
+      "num": 795,
+      "title": "Người đàn ông có thể tiếp thêm gan cho Satan"
+    },
+    {
+      "num": 796,
+      "title": "Từ Nam Thiên Môn chém tới đường Bồng Lai Đông"
+    },
+    {
+      "num": 797,
+      "title": "AI trả thù riêng vì chuyện công"
+    },
+    {
+      "num": 798,
+      "title": "Thế giới đa nguyên số 136"
+    },
+    {
+      "num": 799,
+      "title": "Thay đổi cục diện của thế giới siêu dẫn!"
+    },
+    {
+      "num": 800,
+      "title": "Nhất bảo vệ"
+    },
+    {
+      "num": 801,
+      "title": "Vậy mà lại có kẻ muốn hại tôi"
+    },
+    {
+      "num": 802,
+      "title": "Đại lục soát!"
+    },
+    {
+      "num": 803,
+      "title": "Đại đào sát và con cá lọt lưới"
+    },
+    {
+      "num": 804,
+      "title": "Thế này cũng biến thái quá rồi đấy!"
+    },
+    {
+      "num": 805,
+      "title": "Đối thoại với AI"
+    },
+    {
+      "num": 806,
+      "title": "Thu phí bảo kê"
+    },
+    {
+      "num": 807,
+      "title": "Những người được chọn làm Kỵ sĩ"
+    },
+    {
+      "num": 808,
+      "title": "Hộ đạo giả mới của tổ chức Kỵ Sĩ"
+    },
+    {
+      "num": 809,
+      "title": "Tiểu Vũ, Trung Vũ và Đại Vũ"
+    },
+    {
+      "num": 810,
+      "title": "Trung Vũ! Biến tất cả các người thành cương thi!"
+    },
+    {
+      "num": 811,
+      "title": "Tình yêu của Trung Vũ"
+    },
+    {
+      "num": 812,
+      "title": "Kẻ thì thầm của quỷ"
+    },
+    {
+      "num": 813,
+      "title": "Trên cả bán thần"
+    },
+    {
+      "num": 814,
+      "title": "Hắc Thủy Thành hỗn loạn, quả bom hẹn giờ, Trung Vũ!"
+    },
+    {
+      "num": 815,
+      "title": "Chuyển tiếp"
+    },
+    {
+      "num": 816,
+      "title": "Thế giới đa nguyên số 8, cơ chế đặc biệt được kích hoạt!"
+    },
+    {
+      "num": 817,
+      "title": "Voldemort, Khánh Trần!"
+    },
+    {
+      "num": 818,
+      "title": "Trải nghiệm đầu tiên của Trung Vũ ở Tây Đại Lục"
+    },
+    {
+      "num": 819,
+      "title": "Dụ giết"
+    },
+    {
+      "num": 820,
+      "title": "Làm chủ chiến trường!"
+    },
+    {
+      "num": 821,
+      "title": "Trung Vũ và con quỷ đồng điệu"
+    },
+    {
+      "num": 822,
+      "title": "A Di Đà Phật"
+    },
+    {
+      "num": 823,
+      "title": "Ngoài ba cõi"
+    },
+    {
+      "num": 824,
+      "title": "Cuộc chiến sắp tới!"
+    },
+    {
+      "num": 825,
+      "title": "Bị đẩy vào xó nhà Khánh Trần (bản sửa)"
+    },
+    {
+      "num": 826,
+      "title": "Gài bẫy bắt người"
+    },
+    {
+      "num": 827,
+      "title": "Đại truy sát!"
+    },
+    {
+      "num": 828,
+      "title": "Sân nhà của Khánh Trần, lợi dụng bug!"
+    },
+    {
+      "num": 829,
+      "title": "Bị Khánh Trần gạt ra ngoài"
+    },
+    {
+      "num": 830,
+      "title": "Cơ thể mới của Nhất"
+    },
+    {
+      "num": 831,
+      "title": "Sư cô, Vương Tiểu Cửu!"
+    },
+    {
+      "num": 832,
+      "title": "Trùm cuối phó bản, Khánh Trần"
+    },
+    {
+      "num": 833,
+      "title": "Về nhà"
+    },
+    {
+      "num": 834,
+      "title": "Cuộc lục soát lớn ở thành Phong Bạo!"
+    },
+    {
+      "num": 835,
+      "title": "Đại Vũ và Khánh Trần cùng có lợi"
+    },
+    {
+      "num": 836,
+      "title": "Ván quyết định! Lật ngược thế cờ từ tuyệt cảnh!"
+    },
+    {
+      "num": 837,
+      "title": "Đòn tối hậu cấp S, Thần Thiết!"
+    },
+    {
+      "num": 838,
+      "title": "Thần Thiết"
+    },
+    {
+      "num": 839,
+      "title": "Đuổi kịp"
+    },
+    {
+      "num": 840,
+      "title": "Viễn cảnh Trung Vũ và Khánh Trần bắt tay thống trị thế giới"
+    },
+    {
+      "num": 841,
+      "title": "Bây giờ anh đã đủ tư cách hợp tác với tôi"
+    },
+    {
+      "num": 842,
+      "title": "Nghệ thuật của cái ác"
+    },
+    {
+      "num": 843,
+      "title": "Khánh Trần gặp gỡ người hâm mộ"
+    },
+    {
+      "num": 844,
+      "title": "Quản gia mới của căn cứ tiền tiêu"
+    },
+    {
+      "num": 845,
+      "title": "Ký sự Khánh Trần chống tham nhũng"
+    },
+    {
+      "num": 846,
+      "title": "Căn cứ tiền tiêu biến cố lớn"
+    },
+    {
+      "num": 847,
+      "title": "Người khổng lồ tấn công! Căn cứ tiền tiêu đổi khác vẻ ồn ào thường ngày, trở nên yên bình."
+    },
+    {
+      "num": 848,
+      "title": "Cảm xúc của cái xác cực kỳ ổn định"
+    },
+    {
+      "num": 849,
+      "title": "Hầu tước Bolton lập công lớn"
+    },
+    {
+      "num": 850,
+      "title": "Kẻ chơi mệnh, Ngũ công chúa"
+    },
+    {
+      "num": 851,
+      "title": "Mảnh ghép số mệnh của Khánh Trần"
+    },
+    {
+      "num": 852,
+      "title": "Người quen cũ gặp lại"
+    },
+    {
+      "num": 853,
+      "title": "Hai nam tài tử đoạt tượng vàng Oscar"
+    },
+    {
+      "num": 854,
+      "title": "Rừng Cấm Kỵ! Quy tắc mới!"
+    },
+    {
+      "num": 855,
+      "title": "Bóng của vật cấm kỵ, thần khí trong Rừng Cấm Kỵ!"
+    },
+    {
+      "num": 856,
+      "title": "Khánh Trần và nhà tiên tri của tộc Người Khổng Lồ"
+    },
+    {
+      "num": 857,
+      "title": "Tiên tri và chuyện xưa"
+    },
+    {
+      "num": 858,
+      "title": "Người bạn trong lời tiên tri vĩ đại"
+    },
+    {
+      "num": 859,
+      "title": "Lời tiên tri của vật cấm kỵ"
+    },
+    {
+      "num": 860,
+      "title": "Lồng búp bê! Thủ đoạn của kẻ đùa với số mệnh!"
+    },
+    {
+      "num": 861,
+      "title": "Vương đình Người Khổng Lồ"
+    },
+    {
+      "num": 862,
+      "title": "Hắc Tri Chu！"
+    },
+    {
+      "num": 863,
+      "title": "Tất cả mọi người đều sẽ chết!"
+    },
+    {
+      "num": 864,
+      "title": "Hắc Kỵ Sĩ Đoàn"
+    },
+    {
+      "num": 865,
+      "title": "Đoản mệnh và trường thọ"
+    },
+    {
+      "num": 866,
+      "title": "Thương Vĩnh Hằng! Rơi xuống từ trời cao!"
+    },
+    {
+      "num": 867,
+      "title": "Tin dữ của đế quốc"
+    },
+    {
+      "num": 868,
+      "title": "Người khổng lồ tu luyện"
+    },
+    {
+      "num": 869,
+      "title": "Dời núi, lấp biển"
+    },
+    {
+      "num": 870,
+      "title": "Sức mạnh của người nhà"
+    },
+    {
+      "num": 871,
+      "title": "Hôm nay là một ngày đẹp trời"
+    },
+    {
+      "num": 872,
+      "title": "Bão tố sắp kéo đến"
+    },
+    {
+      "num": 873,
+      "title": "Hai mươi chín"
+    },
+    {
+      "num": 874,
+      "title": "Người phản bội lý tưởng"
+    },
+    {
+      "num": 875,
+      "title": "Mở cánh cửa số phận"
+    },
+    {
+      "num": 876,
+      "title": "Bị ánh sáng bao trùm"
+    },
+    {
+      "num": 877,
+      "title": "Đại thắng trận đầu, cuộc viễn chinh của người khổng lồ!"
+    },
+    {
+      "num": 878,
+      "title": "Tiêm thuốc, Hà Kim Thu biến đổi!"
+    },
+    {
+      "num": 879,
+      "title": "Sói giết"
+    },
+    {
+      "num": 880,
+      "title": "Vai trò của Joker"
+    },
+    {
+      "num": 881,
+      "title": "Bí mật của Kỵ sĩ đen"
+    },
+    {
+      "num": 882,
+      "title": "Đại chiến sinh tồn!"
+    },
+    {
+      "num": 883,
+      "title": "Bóng cắt của vật cấm kỵ 2.0, phiên bản hoàn toàn mới!"
+    },
+    {
+      "num": 884,
+      "title": "Dọn dẹp môn hộ"
+    },
+    {
+      "num": 885,
+      "title": "Phẩm giá của một con người"
+    },
+    {
+      "num": 886,
+      "title": "Hí Mệnh Sư nhúng tay"
+    },
+    {
+      "num": 887,
+      "title": "Đường đời gian nan, quay về thôi!"
+    },
+    {
+      "num": 888,
+      "title": "Dù ngàn vạn người, ta vẫn cứ đi"
+    },
+    {
+      "num": 889,
+      "title": "Sự ăn ý và tin tưởng giữa những người đồng đội"
+    },
+    {
+      "num": 890,
+      "title": "Thế gian từ nay không còn Hà Kim Thu nữa"
+    },
+    {
+      "num": 891,
+      "title": "Hí Mệnh Sư ngoài sân khấu"
+    },
+    {
+      "num": 892,
+      "title": "Cục chết, tuyệt cảnh"
+    },
+    {
+      "num": 893,
+      "title": "Giết!"
+    },
+    {
+      "num": 894,
+      "title": "Đao lá thu của Bán thần"
+    },
+    {
+      "num": 895,
+      "title": "Hồi cuối trận chiến"
+    },
+    {
+      "num": 896,
+      "title": "Sáu Lý Thúc Đồng"
+    },
+    {
+      "num": 897,
+      "title": "Linh?"
+    },
+    {
+      "num": 898,
+      "title": "Linh và Nhất"
+    },
+    {
+      "num": 899,
+      "title": "Con thuyền vịt con"
+    },
+    {
+      "num": 900,
+      "title": "Khúc ngợi ca"
+    },
+    {
+      "num": 901,
+      "title": "Lễ trưởng thành"
+    },
+    {
+      "num": 902,
+      "title": "Lời khiêu khích của kẻ điều khiển rối"
+    },
+    {
+      "num": 903,
+      "title": "Lời nguyền sinh tử, người canh giữ Hắc Diệp Nguyên"
+    },
+    {
+      "num": 904,
+      "title": "Món quà dành cho Khôi Lỗi Sư"
+    },
+    {
+      "num": 905,
+      "title": "Sàng lọc!"
+    },
+    {
+      "num": 906,
+      "title": "Trước lễ sau binh"
+    },
+    {
+      "num": 907,
+      "title": "Thuốc gen cấp A"
+    },
+    {
+      "num": 908,
+      "title": "Anh cả của Thần Đại Vân La"
+    },
+    {
+      "num": 909,
+      "title": "Con rối giả dạng"
+    },
+    {
+      "num": 910,
+      "title": "Huấn luyện bay bằng bộ đồ cánh"
+    },
+    {
+      "num": 911,
+      "title": "Người xuyên bia, sinh tử quan"
+    },
+    {
+      "num": 912,
+      "title": "Ương Ương!"
+    },
+    {
+      "num": 913,
+      "title": "Góc nhỏ của giấc mơ"
+    },
+    {
+      "num": 914,
+      "title": "Vùng đất cấm kỵ số 001, thị trấn nhỏ"
+    },
+    {
+      "num": 915,
+      "title": "Công viên Bạch Quả"
+    },
+    {
+      "num": 916,
+      "title": "Vòng Quay Ngựa Gỗ"
+    },
+    {
+      "num": 917,
+      "title": "Trò chơi chém giết trên lưng ngựa"
+    },
+    {
+      "num": 918,
+      "title": "Đúng là thiếu đức thật"
+    },
+    {
+      "num": 919,
+      "title": "Nào, cùng chèo thuyền"
+    },
+    {
+      "num": 920,
+      "title": "Mọi thứ không tồn tại"
+    },
+    {
+      "num": 921,
+      "title": "Khoảnh khắc vui vẻ trong công viên giải trí"
+    },
+    {
+      "num": 922,
+      "title": "Anh đây không muốn tát em đâu nhé"
+    },
+    {
+      "num": 923,
+      "title": "Chết sạch cả rồi"
+    },
+    {
+      "num": 924,
+      "title": "Tàu lượn siêu tốc, trái và phải"
+    },
+    {
+      "num": 925,
+      "title": "Chạy trốn! Chạy trốn!"
+    },
+    {
+      "num": 926,
+      "title": "Dựng Ảnh"
+    },
+    {
+      "num": 927,
+      "title": "Quỷ trong lòng và người bảo vệ, hẹn không gặp lại"
+    },
+    {
+      "num": 928,
+      "title": "Khánh Trần, bán thần!"
+    },
+    {
+      "num": 929,
+      "title": "Zard tự mang nhạc nền"
+    },
+    {
+      "num": 930,
+      "title": "Xuyên qua! Giết!"
+    },
+    {
+      "num": 931,
+      "title": "Giằng co"
+    },
+    {
+      "num": 932,
+      "title": "Đứa con bất hiếu"
+    },
+    {
+      "num": 933,
+      "title": "Năm tháng"
+    },
+    {
+      "num": 934,
+      "title": "Thu hoạch"
+    },
+    {
+      "num": 935,
+      "title": "Điểm cuối"
+    },
+    {
+      "num": 936,
+      "title": "Kêu người kiểu kinh điển"
+    },
+    {
+      "num": 937,
+      "title": "Có thể mang một món quà lưu niệm màu vàng về không?"
+    },
+    {
+      "num": 938,
+      "title": "Giờ đến lượt chúng ta rồi"
+    },
+    {
+      "num": 939,
+      "title": "Chiếc răng sữa của Khánh Trần"
+    },
+    {
+      "num": 940,
+      "title": "Bây giờ rời đi, là để một ngày nào đó trở về"
+    },
+    {
+      "num": 941,
+      "title": "Có qua có lại"
+    },
+    {
+      "num": 942,
+      "title": "Bất chấp mọi giá"
+    },
+    {
+      "num": 943,
+      "title": "Tuân lệnh"
+    },
+    {
+      "num": 944,
+      "title": "Lý thị"
+    },
+    {
+      "num": 945,
+      "title": "Chia đôi đường"
+    },
+    {
+      "num": 946,
+      "title": "Không nhất thiết phải đánh thắng mới được đánh"
+    },
+    {
+      "num": 947,
+      "title": "Một đám mây đen"
+    },
+    {
+      "num": 948,
+      "title": "Chư Thiên, Chư Thần"
+    },
+    {
+      "num": 949,
+      "title": "Một tấm ảnh"
+    },
+    {
+      "num": 950,
+      "title": "Dự đoán tương lai"
+    },
+    {
+      "num": 951,
+      "title": "Tắm rửa"
+    },
+    {
+      "num": 952,
+      "title": "Dùng phép thuật đánh bại phép thuật"
+    },
+    {
+      "num": 953,
+      "title": "Hắc ma pháp của Khánh Trần"
+    },
+    {
+      "num": 954,
+      "title": "Thời gian hành giả ẩn mình"
+    },
+    {
+      "num": 955,
+      "title": "Sinh nhật"
+    },
+    {
+      "num": 956,
+      "title": "Món quà sinh nhật"
+    },
+    {
+      "num": 957,
+      "title": "Lẩu dầu đỏ"
+    },
+    {
+      "num": 958,
+      "title": "Đón đầu kẻ địch"
+    },
+    {
+      "num": 959,
+      "title": "Hình xăm"
+    },
+    {
+      "num": 960,
+      "title": "Tôi rất hài lòng với cái kết của mình"
+    },
+    {
+      "num": 961,
+      "title": "Bạo chúa"
+    },
+    {
+      "num": 962,
+      "title": "Bốn tháng trước"
+    },
+    {
+      "num": 963,
+      "title": "Ném tuyết"
+    },
+    {
+      "num": 964,
+      "title": "Bảy cỗ quan tài vàng"
+    },
+    {
+      "num": 965,
+      "title": "Hai mươi bốn thanh ngọc kiếm tâm xanh"
+    },
+    {
+      "num": 966,
+      "title": "Ngất xỉu"
+    },
+    {
+      "num": 967,
+      "title": "Xuyên thủng lòng đất"
+    },
+    {
+      "num": 968,
+      "title": "Dù chỉ được gặp nhau lần cuối cũng được"
+    },
+    {
+      "num": 969,
+      "title": "Gom cát thành biển"
+    },
+    {
+      "num": 970,
+      "title": "Nung chảy quan tài vàng"
+    },
+    {
+      "num": 971,
+      "title": "Số phận đã được sắp đặt"
+    },
+    {
+      "num": 972,
+      "title": "Vật cấm kỵ ACE-003, Con Rắn Mưu Mô"
+    },
+    {
+      "num": 973,
+      "title": "Vật cấm kỵ ACE-015, mõ gỗ"
+    },
+    {
+      "num": 974,
+      "title": "Tiểu Tam"
+    },
+    {
+      "num": 975,
+      "title": "Chờ đợi"
+    },
+    {
+      "num": 976,
+      "title": "Hẹn nhau ở ngã rẽ tiếp theo"
+    },
+    {
+      "num": 977,
+      "title": "Mất trí nhớ"
+    },
+    {
+      "num": 978,
+      "title": "Quét ngang"
+    },
+    {
+      "num": 979,
+      "title": "Con đường của Jingūji Maki"
+    },
+    {
+      "num": 980,
+      "title": "Một mẩu giấy"
+    },
+    {
+      "num": 981,
+      "title": "Giết sạch"
+    },
+    {
+      "num": 982,
+      "title": "Trăm Quỷ Dạo Đêm"
+    },
+    {
+      "num": 983,
+      "title": "Hổ phách"
+    },
+    {
+      "num": 984,
+      "title": "Thần Đại Vân La biến mất"
+    },
+    {
+      "num": 985,
+      "title": "Tuyết lớn phủ nhân gian, năm tháng đã vào đông"
+    },
+    {
+      "num": 986,
+      "title": "No.9"
+    },
+    {
+      "num": 987,
+      "title": "Lòng từ bi"
+    },
+    {
+      "num": 988,
+      "title": "Dấu hiệu"
+    },
+    {
+      "num": 989,
+      "title": "Chặng đường cuối cùng"
+    },
+    {
+      "num": 990,
+      "title": "Chặng đường cuối cùng (2)"
+    },
+    {
+      "num": 991,
+      "title": "Chặng đường cuối cùng (3)"
+    },
+    {
+      "num": 992,
+      "title": "Chặng đường cuối cùng (4)"
+    },
+    {
+      "num": 993,
+      "title": "Chặng đường cuối cùng (5)"
+    },
+    {
+      "num": 994,
+      "title": "Chặng đường cuối cùng (6)"
+    },
+    {
+      "num": 995,
+      "title": "Chặng Đường Cuối Cùng (7)"
+    },
+    {
+      "num": 996,
+      "title": "Chặng đường cuối cùng (8)"
+    },
+    {
+      "num": 997,
+      "title": "Chặng đường cuối cùng (9)"
+    },
+    {
+      "num": 998,
+      "title": "Chặng đường cuối cùng (Hết)"
+    },
+    {
+      "num": 999,
+      "title": "Hậu ký (1)"
+    },
+    {
+      "num": 1000,
+      "title": "Hậu ký (2)"
+    },
+    {
+      "num": 1001,
+      "title": "Dù chỉ được gặp lần cuối cũng tốt"
+    },
+    {
+      "num": 1002,
+      "title": "Góp cát thành biển"
+    },
+    {
+      "num": 1003,
+      "title": "Làm tan cỗ quan tài vàng"
+    },
+    {
+      "num": 1004,
+      "title": "Số phận đã được sắp đặt"
+    },
+    {
+      "num": 1005,
+      "title": "Vật cấm kỵ ACE－003, Con rắn quỷ kế"
+    },
+    {
+      "num": 1006,
+      "title": "Vật cấm kỵ ACE-015, mõ gỗ"
+    },
+    {
+      "num": 1007,
+      "title": "Tiểu Tam"
+    },
+    {
+      "num": 1008,
+      "title": "Chờ đợi"
+    },
+    {
+      "num": 1009,
+      "title": "Hẹn gặp ở ngã tư tiếp theo"
+    },
+    {
+      "num": 1010,
+      "title": "Mất trí nhớ"
+    },
+    {
+      "num": 1011,
+      "title": "Càn quét thẳng"
+    },
+    {
+      "num": 1012,
+      "title": "Con đường của Jingūji Maki"
+    },
+    {
+      "num": 1013,
+      "title": "Một mảnh giấy"
+    },
+    {
+      "num": 1014,
+      "title": "Hoàn tục bất cứ lúc nào"
+    },
+    {
+      "num": 1015,
+      "title": "Bách Quỷ Dạ Hành"
+    },
+    {
+      "num": 1016,
+      "title": "Hổ phách"
+    },
+    {
+      "num": 1017,
+      "title": "Thần Đại Vân La biến mất"
+    },
+    {
+      "num": 1018,
+      "title": "Tuyết lớn phủ cõi người, năm đã vào đông"
+    },
+    {
+      "num": 1019,
+      "title": "No．9"
+    },
+    {
+      "num": 1020,
+      "title": "Lòng từ bi"
+    },
+    {
+      "num": 1021,
+      "title": "Dấu hiệu"
+    },
+    {
+      "num": 1022,
+      "title": "Chặng đường cuối cùng"
+    },
+    {
+      "num": 1023,
+      "title": "Chặng đường cuối cùng (2)"
+    },
+    {
+      "num": 1024,
+      "title": "Chặng đường cuối cùng (3)"
+    },
+    {
+      "num": 1025,
+      "title": "Chặng đường cuối cùng (4)"
+    },
+    {
+      "num": 1026,
+      "title": "Chặng đường cuối cùng (5)"
+    },
+    {
+      "num": 1027,
+      "title": "Chặng đường cuối cùng (6)"
+    },
+    {
+      "num": 1028,
+      "title": "Chặng đường cuối cùng (7)"
+    },
+    {
+      "num": 1029,
+      "title": "Chặng đường cuối cùng (8)"
+    },
+    {
+      "num": 1030,
+      "title": "Chặng đường cuối cùng (9)"
+    },
+    {
+      "num": 1031,
+      "title": "Chặng đường cuối cùng (Hết)"
+    },
+    {
+      "num": 1032,
+      "title": "Hậu ký (1)"
+    },
+    {
+      "num": 1033,
+      "title": "Hậu ký (1)"
+    },
+    {
+      "num": 1034,
+      "title": "Hậu ký (2)"
+    },
+    {
+      "num": 1035,
+      "title": "Hậu ký (3)"
+    },
+    {
+      "num": 1036,
+      "title": "Hậu ký (4)"
+    },
+    {
+      "num": 1037,
+      "title": "Hậu ký (5)"
+    }
+  ],
+  "slug": "da_dich_menh_danh_thuat",
+  "title": "Dạ Đích Mệnh Danh Thuật",
+  "author": "Hội Thuyết Thoại Đích Trửu Tử",
+  "synopsis": "Đô thị dị năng pha khoa huyễn cyberpunk của Hội Thuyết Thoại Đích Trửu Tử. Năm 2022, hàng vạn người trên khắp thế giới bỗng thấy cánh tay mình hiện lên một chiếc đồng hồ đếm ngược, và khi nó về không, họ bị kéo sang Lý thế giới — một tương lai nơi tài phiệt nắm quyền, siêu phàm giả và vùng đất cấm kỵ nằm ngoài vòng pháp luật. Khánh Trần, thiếu niên nghèo sống một mình ở Lạc Thành, tỉnh dậy trong Nhà tù số 18, ngồi đối diện ván cờ với một ông lão bí ẩn. Giữa hai thế giới, cậu phải che giấu thân phận Thời gian hành giả, bước lên con đường Kỵ sĩ gần như đã thất truyền và từng bước chạm tới những bí mật sâu nhất của Lý thế giới.",
+  "coverColor": "#1f2a44"
+}
