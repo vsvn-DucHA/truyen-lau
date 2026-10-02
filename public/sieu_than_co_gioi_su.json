@@ -1,0 +1,5866 @@
+{
+  "totalChapters": 1464,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Tân sinh"
+    },
+    {
+      "num": 2,
+      "title": "Hệ Cơ giới"
+    },
+    {
+      "num": 3,
+      "title": "Đời người như kịch, tất cả đều nhờ diễn xuất"
+    },
+    {
+      "num": 4,
+      "title": "Sáu mươi vạn kinh nghiệm!"
+    },
+    {
+      "num": 5,
+      "title": "Cánh tay động lực hạng nhẹ!"
+    },
+    {
+      "num": 6,
+      "title": "Bắt đầu hành động!"
+    },
+    {
+      "num": 7,
+      "title": "Kinh ngạc"
+    },
+    {
+      "num": 8,
+      "title": "Xã hội anh Tiêu, người ác nói lắm"
+    },
+    {
+      "num": 9,
+      "title": "Giao chiến kịch liệt"
+    },
+    {
+      "num": 10,
+      "title": "Dạ Kiêu"
+    },
+    {
+      "num": 11,
+      "title": "Trời nếu có tình trời cũng già, ta vì anh Tiêu..."
+    },
+    {
+      "num": 12,
+      "title": "Thân phận của nguyên chủ"
+    },
+    {
+      "num": 13,
+      "title": "Khu định cư của dân du mục"
+    },
+    {
+      "num": 14,
+      "title": "Thời đại cũ và thời đại mới"
+    },
+    {
+      "num": 15,
+      "title": "Trộm"
+    },
+    {
+      "num": 16,
+      "title": "Ác mộng"
+    },
+    {
+      "num": 17,
+      "title": "Giết"
+    },
+    {
+      "num": 18,
+      "title": "Ngươi không biết thế giới rộng lớn nhường nào"
+    },
+    {
+      "num": 19,
+      "title": "Tiền thưởng triệu đô! Nhiệm vụ cấp A!"
+    },
+    {
+      "num": 20,
+      "title": "Vượt biên"
+    },
+    {
+      "num": 21,
+      "title": "Nghe nói ông già đánh cờ là một kiểu mô-típ"
+    },
+    {
+      "num": 22,
+      "title": "Chân tay giả sinh học"
+    },
+    {
+      "num": 23,
+      "title": "Đâm sau lưng đồng đội"
+    },
+    {
+      "num": 24,
+      "title": "Nước? Không tồn tại!"
+    },
+    {
+      "num": 25,
+      "title": "Kiến thức mới"
+    },
+    {
+      "num": 26,
+      "title": "Robot · Kỵ binh"
+    },
+    {
+      "num": 27,
+      "title": "Kẻ truy sát, màn thăm dò cuối cùng"
+    },
+    {
+      "num": 28,
+      "title": "Ghen tị"
+    },
+    {
+      "num": 29,
+      "title": "Trở mặt"
+    },
+    {
+      "num": 30,
+      "title": "Uy lực của Du Kỵ Binh"
+    },
+    {
+      "num": 31,
+      "title": "Diệt khẩu"
+    },
+    {
+      "num": 32,
+      "title": "Khua môi múa mép"
+    },
+    {
+      "num": 33,
+      "title": "Giá trị của hắn"
+    },
+    {
+      "num": 34,
+      "title": "Lười biếng phát tác, không muốn đặt tiêu đề……"
+    },
+    {
+      "num": 35,
+      "title": "Hàn Tiêu"
+    },
+    {
+      "num": 36,
+      "title": "Bản vẽ mới và sự hợp tác"
+    },
+    {
+      "num": 37,
+      "title": "Tính tình cổ quái"
+    },
+    {
+      "num": 38,
+      "title": "Tiểu đội hành động mật"
+    },
+    {
+      "num": 39,
+      "title": "Lần đầu hành động (trên)"
+    },
+    {
+      "num": 40,
+      "title": "Lần đầu hành động (giữa)"
+    },
+    {
+      "num": 41,
+      "title": "Hành động đầu tiên (phần dưới)"
+    },
+    {
+      "num": 42,
+      "title": "Sự nhòm ngó của bộ phận nghiên cứu"
+    },
+    {
+      "num": 43,
+      "title": "Cướp thành tích (Trên)"
+    },
+    {
+      "num": 44,
+      "title": "Cướp thành tích (Dưới)"
+    },
+    {
+      "num": 45,
+      "title": "Gây chuyện"
+    },
+    {
+      "num": 46,
+      "title": "Hòa giải"
+    },
+    {
+      "num": 47,
+      "title": "Phóng tay phá bĩnh"
+    },
+    {
+      "num": 48,
+      "title": "Tiến cấp!"
+    },
+    {
+      "num": 49,
+      "title": "Đội trưởng xuất viện"
+    },
+    {
+      "num": 50,
+      "title": "Hành động cứu viện (Phần 1)"
+    },
+    {
+      "num": 51,
+      "title": "Hành động cứu viện (Phần cuối)"
+    },
+    {
+      "num": 52,
+      "title": "Thu hoạch"
+    },
+    {
+      "num": 53,
+      "title": "Dòng ngầm"
+    },
+    {
+      "num": 54,
+      "title": "Sự tiến công của đợt mở server chính thức"
+    },
+    {
+      "num": 55,
+      "title": "Ngày đầu tiên của đám gà mờ"
+    },
+    {
+      "num": 56,
+      "title": "Sự tiếp xúc loại thứ ba"
+    },
+    {
+      "num": 57,
+      "title": "Hạn mức phần thưởng nhiệm vụ"
+    },
+    {
+      "num": 58,
+      "title": "Hố sâu tiền sử"
+    },
+    {
+      "num": 59,
+      "title": "Nhiệm vụ hạng B của người chơi"
+    },
+    {
+      "num": 60,
+      "title": "Ám sát khẩn cấp!"
+    },
+    {
+      "num": 61,
+      "title": "Món quà này, tôi nhận nhé"
+    },
+    {
+      "num": 62,
+      "title": "Chặn bắt"
+    },
+    {
+      "num": 63,
+      "title": "Nội trắc kết thúc, mục tiêu xác định"
+    },
+    {
+      "num": 64,
+      "title": "Cuồng nhiệt học tập!"
+    },
+    {
+      "num": 65,
+      "title": "Mặt nạ quang học mô phỏng thông minh"
+    },
+    {
+      "num": 66,
+      "title": "Toàn diện cải trang (Một)"
+    },
+    {
+      "num": 67,
+      "title": "Toàn diện cải trang (Hai)"
+    },
+    {
+      "num": 68,
+      "title": "Toàn diện cải trang (Ba)"
+    },
+    {
+      "num": 69,
+      "title": "Xuất phát…… trước khi đi"
+    },
+    {
+      "num": 70,
+      "title": "Trên xe"
+    },
+    {
+      "num": 71,
+      "title": "Dã thú: Bố mày mạnh bạo đấy"
+    },
+    {
+      "num": 72,
+      "title": "Nhiệm vụ phe phái"
+    },
+    {
+      "num": 73,
+      "title": "Thử thám"
+    },
+    {
+      "num": 74,
+      "title": "Chia tay hành động"
+    },
+    {
+      "num": 75,
+      "title": "Hacker"
+    },
+    {
+      "num": 76,
+      "title": "Bất thường và bắn tỉa"
+    },
+    {
+      "num": 77,
+      "title": "Sát thủ rừng tối"
+    },
+    {
+      "num": 78,
+      "title": "Xảo thỏ tam quật"
+    },
+    {
+      "num": 79,
+      "title": "Hắn rất khả nghi"
+    },
+    {
+      "num": 80,
+      "title": "Táo bạo hành động"
+    },
+    {
+      "num": 81,
+      "title": "Có một loại bug gọi là Ziggs"
+    },
+    {
+      "num": 82,
+      "title": "Bị chơi một vố đau"
+    },
+    {
+      "num": 83,
+      "title": "Phân cấp siêu năng giả ở Tinh Hải"
+    },
+    {
+      "num": 84,
+      "title": "Tự bạo"
+    },
+    {
+      "num": 85,
+      "title": "Chặn đánh!"
+    },
+    {
+      "num": 86,
+      "title": "Triết học một kích"
+    },
+    {
+      "num": 87,
+      "title": "Kế hoạch thực sự!"
+    },
+    {
+      "num": 88,
+      "title": "Ảnh hưởng"
+    },
+    {
+      "num": 89,
+      "title": "Vẫn còn ba tháng nữa là mở server..."
+    },
+    {
+      "num": 90,
+      "title": "Ủy thác đầu tiên"
+    },
+    {
+      "num": 91,
+      "title": "Sát thủ cấp Bọ Cạp"
+    },
+    {
+      "num": 92,
+      "title": "Người hành hương"
+    },
+    {
+      "num": 93,
+      "title": "Thiết phục"
+    },
+    {
+      "num": 94,
+      "title": "Cầu viện"
+    },
+    {
+      "num": 95,
+      "title": "Phản hướng tư duy"
+    },
+    {
+      "num": 96,
+      "title": "Bất ngờ chưa? Có ngạc nhiên không?"
+    },
+    {
+      "num": 97,
+      "title": "Thừa cơ đánh vào"
+    },
+    {
+      "num": 98,
+      "title": "Đường ngầm"
+    },
+    {
+      "num": 99,
+      "title": "Phỉ La Ni Á"
+    },
+    {
+      "num": 100,
+      "title": "Giao chiến"
+    },
+    {
+      "num": 101,
+      "title": "Phải tin tưởng khoa học"
+    },
+    {
+      "num": 102,
+      "title": "Huyết thanh"
+    },
+    {
+      "num": 103,
+      "title": "Có người nhanh chân đến trước"
+    },
+    {
+      "num": 104,
+      "title": "Chuyên chưởng khuôn mẫu —— Sinh mệnh bền bỉ!"
+    },
+    {
+      "num": 105,
+      "title": "Sài Tư La Đức"
+    },
+    {
+      "num": 106,
+      "title": "Một phần lệnh chinh triệu, Du kỵ binh thế hệ thứ hai"
+    },
+    {
+      "num": 107,
+      "title": "Nhiệm vụ bảo vệ kỳ quái"
+    },
+    {
+      "num": 108,
+      "title": "Vòng thứ ba"
+    },
+    {
+      "num": 109,
+      "title": "Lực vãng cuồng lan"
+    },
+    {
+      "num": 110,
+      "title": "Nhân vật chính của Hải Lan Tinh"
+    },
+    {
+      "num": 111,
+      "title": "[Ý chí thiêu đốt]"
+    },
+    {
+      "num": 112,
+      "title": "Nhân vật cấp sáu mươi"
+    },
+    {
+      "num": 113,
+      "title": "Sự xuất hiện bất ngờ của Cục Mười Ba"
+    },
+    {
+      "num": 114,
+      "title": "Yêu cầu ẩn không ngờ tới"
+    },
+    {
+      "num": 115,
+      "title": "Nhiệm vụ hồ thưởng tiện đường"
+    },
+    {
+      "num": 116,
+      "title": "Toàn đầu óc là những pha thao tác lầy lội"
+    },
+    {
+      "num": 117,
+      "title": "Ẩn Yêu tập kích"
+    },
+    {
+      "num": 118,
+      "title": "Vũ khí động năng điện từ"
+    },
+    {
+      "num": 119,
+      "title": "Tro tàn chớp giật!"
+    },
+    {
+      "num": 120,
+      "title": "Phong tình của ba phát súng đó!"
+    },
+    {
+      "num": 121,
+      "title": "Quá nhiều khô khan đến mức không nghĩ ra nổi tiêu đề!"
+    },
+    {
+      "num": 122,
+      "title": "Gây chuyện nào! Gây chuyện nào!"
+    },
+    {
+      "num": 123,
+      "title": "Hạt giống nảy mầm: Có câu này tôi nhất định phải nói!"
+    },
+    {
+      "num": 124,
+      "title": "Mở server chính thức đến"
+    },
+    {
+      "num": 125,
+      "title": "Chúng ta đã bỏ lỡ cái gì vậy?!"
+    },
+    {
+      "num": 126,
+      "title": "Hố đến mức không thể tưởng tượng nổi"
+    },
+    {
+      "num": 127,
+      "title": "Nanh vuốt của chủ nghĩa tư bản"
+    },
+    {
+      "num": 128,
+      "title": "Móc xích liên hoàn"
+    },
+    {
+      "num": 129,
+      "title": "Phong vân cuồn cuộn ở giới thể thao điện tử"
+    },
+    {
+      "num": 130,
+      "title": "Bước đầu giăng lưới rộng khắp"
+    },
+    {
+      "num": 131,
+      "title": "Lỗ nặng"
+    },
+    {
+      "num": 132,
+      "title": "Người như Tử thần, đạn là lưỡi hái"
+    },
+    {
+      "num": 133,
+      "title": "Hệ Cơ giới mạnh ghê nha (nói mỉa)"
+    },
+    {
+      "num": 134,
+      "title": "Cuối cùng cũng tìm được anh, may mà không bỏ cuộc"
+    },
+    {
+      "num": 135,
+      "title": "A, mùi hương quen thuộc"
+    },
+    {
+      "num": 136,
+      "title": "Tình hình chiến sự ngàn cân treo sợi tóc"
+    },
+    {
+      "num": 137,
+      "title": "Hắc U Linh xen ngang (Phần 1)"
+    },
+    {
+      "num": 138,
+      "title": "Hắc U Linh xen ngang (Phần 2)"
+    },
+    {
+      "num": 139,
+      "title": "Hắc U Linh xen ngang (Phần 3)"
+    },
+    {
+      "num": 140,
+      "title": "Viện binh"
+    },
+    {
+      "num": 141,
+      "title": "Giao thủ"
+    },
+    {
+      "num": 142,
+      "title": "Dịch chuyển tức thời là con dao hai lưỡi"
+    },
+    {
+      "num": 143,
+      "title": "Hóa thành tro tàn tôi cũng nhận ra anh"
+    },
+    {
+      "num": 144,
+      "title": "Thu hoạch và ảnh hưởng"
+    },
+    {
+      "num": 145,
+      "title": "Tiến hướng con đường BOSS"
+    },
+    {
+      "num": 146,
+      "title": "Bùng nổ!"
+    },
+    {
+      "num": 147,
+      "title": "Ý tưởng về cơ giáp hạng nhẹ"
+    },
+    {
+      "num": 148,
+      "title": "Gió nổi"
+    },
+    {
+      "num": 149,
+      "title": "《 Tinh Hải Thời Báo 》 (Một)"
+    },
+    {
+      "num": 150,
+      "title": "《 Tinh Hải Thời Báo 》 (Hai)"
+    },
+    {
+      "num": 151,
+      "title": "Thú tập kích quy mô nhỏ"
+    },
+    {
+      "num": 152,
+      "title": "Cơ giới sư cận chiến, siêu ngầu"
+    },
+    {
+      "num": 153,
+      "title": "Nội tình thao tác"
+    },
+    {
+      "num": 154,
+      "title": "Kẻ dò tìm của Áo Phất Mai Lạp"
+    },
+    {
+      "num": 155,
+      "title": "Kẻ sở hữu trái Mặt Mũi"
+    },
+    {
+      "num": 156,
+      "title": "Đội ngũ dự bị +1"
+    },
+    {
+      "num": 157,
+      "title": "Khắc tinh!"
+    },
+    {
+      "num": 158,
+      "title": "Ngọa hổ tàng long"
+    },
+    {
+      "num": 159,
+      "title": "Người nhà"
+    },
+    {
+      "num": 160,
+      "title": "Tiêu Kim"
+    },
+    {
+      "num": 161,
+      "title": "Trật tự sinh ra từ chốn hoang dã"
+    },
+    {
+      "num": 162,
+      "title": "Ôn dịch đá cuội và cách nuôi dưỡng phóng khoáng"
+    },
+    {
+      "num": 163,
+      "title": "Trao đổi"
+    },
+    {
+      "num": 164,
+      "title": "Vật liệu nội cốt cách"
+    },
+    {
+      "num": 165,
+      "title": "Vẫn đen đủi như mọi khi"
+    },
+    {
+      "num": 166,
+      "title": "Dị nhân (Một)"
+    },
+    {
+      "num": 167,
+      "title": "Dị nhân (Hai)"
+    },
+    {
+      "num": 168,
+      "title": "Người dẫn đường tân thủ?"
+    },
+    {
+      "num": 169,
+      "title": "Tập đầu tiên của 《Nhật ký thám hiểm Tinh Hải》"
+    },
+    {
+      "num": 170,
+      "title": "Phong ba giao dịch (Một)"
+    },
+    {
+      "num": 171,
+      "title": "Phong ba giao dịch (Hai)"
+    },
+    {
+      "num": 172,
+      "title": "Bản Ni Tề: Ta có một câu..."
+    },
+    {
+      "num": 173,
+      "title": "Ngươi không thấy ta"
+    },
+    {
+      "num": 174,
+      "title": "Khuê Xà · Cải (Chương này khá nhiều chỉ số, không thích có thể bỏ qua)"
+    },
+    {
+      "num": 175,
+      "title": "BOSS Thú Vương"
+    },
+    {
+      "num": 176,
+      "title": "Cơ giáp thực chiến"
+    },
+    {
+      "num": 177,
+      "title": "Sự kiện dị nhân bắt đầu"
+    },
+    {
+      "num": 178,
+      "title": "Lên men"
+    },
+    {
+      "num": 179,
+      "title": "Viện nghiên cứu"
+    },
+    {
+      "num": 180,
+      "title": "Cướp bóc"
+    },
+    {
+      "num": 181,
+      "title": "Kẻ xấu tự có kẻ xấu trị"
+    },
+    {
+      "num": 182,
+      "title": "Dao động"
+    },
+    {
+      "num": 183,
+      "title": "Thuốc"
+    },
+    {
+      "num": 184,
+      "title": "Oa, nghĩ tên còn đau đầu hơn viết"
+    },
+    {
+      "num": 185,
+      "title": "Nhưng không có tiêu đề còn đau khổ hơn"
+    },
+    {
+      "num": 186,
+      "title": "Mà không có tiêu đề thì còn đau đầu hơn"
+    },
+    {
+      "num": 187,
+      "title": "Bất ngờ (2)"
+    },
+    {
+      "num": 188,
+      "title": "Đều là kẻ địch"
+    },
+    {
+      "num": 189,
+      "title": "“Vụ ám sát đáng sợ”"
+    },
+    {
+      "num": 190,
+      "title": "Tuyến chính ẩn (1)"
+    },
+    {
+      "num": 191,
+      "title": "Tuyến chính ẩn (2)"
+    },
+    {
+      "num": 192,
+      "title": "Cốt truyện chính ẩn (Phần 3)"
+    },
+    {
+      "num": 193,
+      "title": "Trêu chọc"
+    },
+    {
+      "num": 194,
+      "title": "Muốn hố thì hố cho đậm"
+    },
+    {
+      "num": 195,
+      "title": "Chiêu bài bán kèm đỉnh chảo, bố mày đây chắc chắn dùng đến già"
+    },
+    {
+      "num": 196,
+      "title": "Ngày mai Thất tịch, tôi rất khó chịu"
+    },
+    {
+      "num": 197,
+      "title": "Phản ứng từ các phía (1)"
+    },
+    {
+      "num": 198,
+      "title": "Các bên phản ứng (Hai)"
+    },
+    {
+      "num": 199,
+      "title": "Aurora"
+    },
+    {
+      "num": 200,
+      "title": "Phá trăm triệu!"
+    },
+    {
+      "num": 201,
+      "title": "Bắc Châu"
+    },
+    {
+      "num": 202,
+      "title": "Áo Phất Mai Lạp (1)"
+    },
+    {
+      "num": 203,
+      "title": "Áo Phất Mai Lạp (2)"
+    },
+    {
+      "num": 204,
+      "title": "Áo Phất Mai Lạp (3)"
+    },
+    {
+      "num": 205,
+      "title": "Ám sát!"
+    },
+    {
+      "num": 206,
+      "title": "Kẻ chủ mưu thật sự (1)"
+    },
+    {
+      "num": 207,
+      "title": "Kẻ chủ mưu thật sự (2)"
+    },
+    {
+      "num": 208,
+      "title": "Kẻ chủ mưu thật sự (3)"
+    },
+    {
+      "num": 209,
+      "title": "Kẻ chủ mưu thật sự (4)"
+    },
+    {
+      "num": 210,
+      "title": "Kẻ chủ mưu (5)"
+    },
+    {
+      "num": 211,
+      "title": "Chân tướng (Sáu)"
+    },
+    {
+      "num": 212,
+      "title": "Người kế nhiệm mới"
+    },
+    {
+      "num": 213,
+      "title": "Trai cò tranh nhau"
+    },
+    {
+      "num": 214,
+      "title": "Rời đi"
+    },
+    {
+      "num": 215,
+      "title": "Chủ tuyến sục sôi"
+    },
+    {
+      "num": 216,
+      "title": "Ủy viên mạng đen, Trợ lý hầm trú ẩn thứ ba"
+    },
+    {
+      "num": 217,
+      "title": "Người chơi tiến giai"
+    },
+    {
+      "num": 218,
+      "title": "Hóa ra Hắc U Linh lại là người như thế này"
+    },
+    {
+      "num": 219,
+      "title": "Sự bạo lực của Cơ giới sư!"
+    },
+    {
+      "num": 220,
+      "title": "Đến nơi"
+    },
+    {
+      "num": 221,
+      "title": "Người chơi tụ tập"
+    },
+    {
+      "num": 222,
+      "title": "Tám phương tới người! (Thượng)"
+    },
+    {
+      "num": 223,
+      "title": "Bát phương tùng sinh! (Hạ)"
+    },
+    {
+      "num": 224,
+      "title": "Ám ảnh liệp thực khuế"
+    },
+    {
+      "num": 225,
+      "title": "Phức hợp tinh thể bức xạ"
+    },
+    {
+      "num": 226,
+      "title": "Phá nhà à?!"
+    },
+    {
+      "num": 227,
+      "title": "Thu hoạch sào huyệt"
+    },
+    {
+      "num": 228,
+      "title": "Trao đổi"
+    },
+    {
+      "num": 229,
+      "title": "Vạn sự khởi đầu nan"
+    },
+    {
+      "num": 230,
+      "title": "Nhân vật quan trọng bản 2.0, dược tề sư Nhất Diệp Thanh"
+    },
+    {
+      "num": 231,
+      "title": "Lục quốc viễn chinh!"
+    },
+    {
+      "num": 232,
+      "title": "Chiến tranh Hải Lam Tinh!"
+    },
+    {
+      "num": 233,
+      "title": "Cấp 60!"
+    },
+    {
+      "num": 234,
+      "title": "Con đường thuê mướn"
+    },
+    {
+      "num": 235,
+      "title": "Thâm nhập (Một)"
+    },
+    {
+      "num": 236,
+      "title": "Thâm nhập (Hai)"
+    },
+    {
+      "num": 237,
+      "title": "Thâm nhập (Ba)"
+    },
+    {
+      "num": 238,
+      "title": "Kết nối thần kinh (Thượng)"
+    },
+    {
+      "num": 239,
+      "title": "Kết nối thần kinh (Hạ)"
+    },
+    {
+      "num": 240,
+      "title": "Sóng to gió lớn"
+    },
+    {
+      "num": 241,
+      "title": "Ngoài ý muốn?"
+    },
+    {
+      "num": 242,
+      "title": "Sát thủ vô song (Thượng)"
+    },
+    {
+      "num": 243,
+      "title": "Sát thủ vô song (Dưới)"
+    },
+    {
+      "num": 244,
+      "title": "Một cỗ bài tẩy khác"
+    },
+    {
+      "num": 245,
+      "title": "Thế bí"
+    },
+    {
+      "num": 246,
+      "title": "Giống y đúc, Hắc U Linh!"
+    },
+    {
+      "num": 247,
+      "title": "Chân · Vô song!"
+    },
+    {
+      "num": 248,
+      "title": "Cả thế giới chấn động (Thượng)"
+    },
+    {
+      "num": 249,
+      "title": "Cả thế giới chấn động (Hạ)"
+    },
+    {
+      "num": 250,
+      "title": "Trung tâm vòng xoáy I (Cảm ơn minh chủ của hengly~)"
+    },
+    {
+      "num": 251,
+      "title": "Tâm bão (2) (Cảm ơn đại gia hào phóng của Vua Cá Mặn Bì Bì!)"
+    },
+    {
+      "num": 252,
+      "title": "Tâm bão (3)"
+    },
+    {
+      "num": 253,
+      "title": "Đây là một câu chuyện tình yêu"
+    },
+    {
+      "num": 254,
+      "title": "Tách ra"
+    },
+    {
+      "num": 255,
+      "title": "Điệu hổ ly sơn"
+    },
+    {
+      "num": 256,
+      "title": "Phá vây (Một)"
+    },
+    {
+      "num": 257,
+      "title": "Phá vây (Hai)"
+    },
+    {
+      "num": 258,
+      "title": "Phá vây (Ba)"
+    },
+    {
+      "num": 259,
+      "title": "Tiếp ứng, bẫy chết!"
+    },
+    {
+      "num": 260,
+      "title": "Viện binh ngoài dự liệu!"
+    },
+    {
+      "num": 261,
+      "title": "Tiến hóa! (Cảm ơn đại gia Chiếc Bánh Bao Lớn Màu Xanh đã tặng thưởng~)"
+    },
+    {
+      "num": 262,
+      "title": "Một búa định đoạt!"
+    },
+    {
+      "num": 263,
+      "title": "Gương mặt xa lạ"
+    },
+    {
+      "num": 264,
+      "title": "Ánh mắt ghi khắc lịch sử"
+    },
+    {
+      "num": 265,
+      "title": "Yêu cầu chuyển chức giai đoạn sau"
+    },
+    {
+      "num": 266,
+      "title": "Nguồn gốc của Mệnh Mầm"
+    },
+    {
+      "num": 267,
+      "title": "Tình báo ra tay, bước ngoặt chiến tranh"
+    },
+    {
+      "num": 268,
+      "title": "Nếu tôi là tiêu đề, ông sẽ yêu tôi chứ…"
+    },
+    {
+      "num": 269,
+      "title": "Người chơi ở đây siêu nhiệt tình, tôi cực kỳ thích nơi này"
+    },
+    {
+      "num": 270,
+      "title": "Bố cục thành chính, kế hoạch hành động"
+    },
+    {
+      "num": 271,
+      "title": "Cơ giáp mới — Đằng Xà! (Chương này có khá nhiều dữ liệu)"
+    },
+    {
+      "num": 272,
+      "title": "Tiềm năng chưa biết"
+    },
+    {
+      "num": 273,
+      "title": "Tôn chỉ của chúng ta là: Gây chuyện!!"
+    },
+    {
+      "num": 274,
+      "title": "Hẹn chiến"
+    },
+    {
+      "num": 275,
+      "title": "Xã hội, xã hội"
+    },
+    {
+      "num": 276,
+      "title": "Hộp cơ giới của hắc u linh (Thượng)"
+    },
+    {
+      "num": 277,
+      "title": "Hòm máy móc của Hắc U Linh (giữa)"
+    },
+    {
+      "num": 278,
+      "title": "Chiếc Rương Cơ Giới của Hắc U Linh（Hạ）"
+    },
+    {
+      "num": 279,
+      "title": "Vận may mới là chân lý"
+    },
+    {
+      "num": 280,
+      "title": "Tinh Hải Thời Báo: Khả năng khác của cốt truyện chính"
+    },
+    {
+      "num": 281,
+      "title": "Hạn chế của [nhân vật cốt truyện]"
+    },
+    {
+      "num": 282,
+      "title": "Đường cùng của Mầm Mống"
+    },
+    {
+      "num": 283,
+      "title": "Bất đồng"
+    },
+    {
+      "num": 284,
+      "title": "Khúc cuối (Thượng)"
+    },
+    {
+      "num": 285,
+      "title": "Khúc cuối (Hạ)"
+    },
+    {
+      "num": 286,
+      "title": "Quyền tạo phó bản"
+    },
+    {
+      "num": 287,
+      "title": "Thời kỳ bình ổn của Hải Lân Tinh và người đến từ Áo Phất Mai Lạp"
+    },
+    {
+      "num": 288,
+      "title": "Vòng dây chuyền thương mại mới (Phần 1) (Cảm ơn Tước Thế Bàng đã tặng Minh chủ!)"
+    },
+    {
+      "num": 289,
+      "title": "Vòng chuỗi thương mại mới (dưới)"
+    },
+    {
+      "num": 290,
+      "title": "Gà mờ"
+    },
+    {
+      "num": 291,
+      "title": "Bốn bản thiết kế"
+    },
+    {
+      "num": 292,
+      "title": "Cầu đánh âm thanh (Cảm ơn minh chủ Phi Phi Giáp Không Cập Nhật)"
+    },
+    {
+      "num": 293,
+      "title": "Giải đấu chuyên nghiệp Tinh Hải lần thứ nhất, khai mạc!"
+    },
+    {
+      "num": 294,
+      "title": "Sự kiện thịnh yến (Thượng)"
+    },
+    {
+      "num": 295,
+      "title": "Sự kiện thịnh yến (Hạ)"
+    },
+    {
+      "num": 296,
+      "title": "Chấn động!"
+    },
+    {
+      "num": 297,
+      "title": "Trận khai mạc, Hạo Thiên xuất trận!"
+    },
+    {
+      "num": 298,
+      "title": "Đối đầu"
+    },
+    {
+      "num": 299,
+      "title": "Thằng Nhóc Đầu Sắt"
+    },
+    {
+      "num": 300,
+      "title": "Cuồng Đao xuất trận"
+    },
+    {
+      "num": 301,
+      "title": "Giải đấu chính thức, bảng tử thần"
+    },
+    {
+      "num": 302,
+      "title": "Mất tích chủ tuyến ẩn"
+    },
+    {
+      "num": 303,
+      "title": "Danh sách vào vòng chung kết, dự định mới"
+    },
+    {
+      "num": 304,
+      "title": "Người Ca Đóa Lạp, khách phương xa từ bầu trời"
+    },
+    {
+      "num": 305,
+      "title": "Rơi xuống"
+    },
+    {
+      "num": 306,
+      "title": "Bùng nổ!"
+    },
+    {
+      "num": 307,
+      "title": "Tù nhân ngoài hành tinh"
+    },
+    {
+      "num": 308,
+      "title": "Giao dịch"
+    },
+    {
+      "num": 309,
+      "title": "Mọi thứ đã sẵn sàng"
+    },
+    {
+      "num": 310,
+      "title": "Tối hậu thư của Thụy Lam, quyết định của Bản Ni Đặc"
+    },
+    {
+      "num": 311,
+      "title": "Mị lực của tôi không thể thấp thế này được"
+    },
+    {
+      "num": 312,
+      "title": "Người chơi và thế giới quan"
+    },
+    {
+      "num": 313,
+      "title": "Tuyển chọn"
+    },
+    {
+      "num": 314,
+      "title": "Cậu đại gia Hàn mãi mãi là đại gia Hàn!"
+    },
+    {
+      "num": 315,
+      "title": "Nhiệm vụ hâm nóng đại kiếp nạn (trên)"
+    },
+    {
+      "num": 316,
+      "title": "Nhiệm vụ hâm nóng đại kiếp nạn (dưới)"
+    },
+    {
+      "num": 317,
+      "title": "Lên trời"
+    },
+    {
+      "num": 318,
+      "title": "Sáu nước ngẩn ngơ"
+    },
+    {
+      "num": 319,
+      "title": "Đoản Giác Tinh (Cảm ơn Điệp viên 518 đã hào phóng tặng quà thưởng Đại minh chủ!)"
+    },
+    {
+      "num": 320,
+      "title": "Kế hoạch phát triển và kẻ nhặt rác"
+    },
+    {
+      "num": 321,
+      "title": "Lục Kỵ Sĩ, Vô Cốt Điểu"
+    },
+    {
+      "num": 322,
+      "title": "Tấn công!"
+    },
+    {
+      "num": 323,
+      "title": "Nguy cơ và phân binh"
+    },
+    {
+      "num": 324,
+      "title": "Mở rộng lợi nhuận, tính chủ quan năng động"
+    },
+    {
+      "num": 325,
+      "title": "Ổ phục kích này hoàn toàn tự nhiên"
+    },
+    {
+      "num": 326,
+      "title": "Kẻ đứng sau thuê người"
+    },
+    {
+      "num": 327,
+      "title": "Hạ sát"
+    },
+    {
+      "num": 328,
+      "title": "Thùng vàng đầu tiên và hệ thống danh vọng"
+    },
+    {
+      "num": 329,
+      "title": "Nút giao Chu Bá Lợi!"
+    },
+    {
+      "num": 330,
+      "title": "Nghèo khiến tôi vui"
+    },
+    {
+      "num": 331,
+      "title": "Quy hoạch cốt lõi, khởi nguyên Hắc Tinh! (1)"
+    },
+    {
+      "num": 332,
+      "title": "Quy hoạch cốt lõi, khởi nguyên Hắc Tinh! (2)"
+    },
+    {
+      "num": 333,
+      "title": "Kế hoạch cốt lõi, nguồn gốc Hắc Tinh! (3)"
+    },
+    {
+      "num": 334,
+      "title": "Quy hoạch cốt lõi, nguồn gốc Hắc Tinh!"
+    },
+    {
+      "num": 335,
+      "title": "Mồi nhữ nạp tiền"
+    },
+    {
+      "num": 336,
+      "title": "Vườn ươm của hệ Cơ giới!"
+    },
+    {
+      "num": 337,
+      "title": "Chiến sĩ quy về, lại gặp Kỵ sĩ xanh"
+    },
+    {
+      "num": 338,
+      "title": "Kỹ sư quân khí"
+    },
+    {
+      "num": 339,
+      "title": "Chuẩn bị theo trường phái quân đoàn"
+    },
+    {
+      "num": 340,
+      "title": "Tai họa dữ dội ập đến"
+    },
+    {
+      "num": 341,
+      "title": "Sửa chữa chiến trường, mục tiêu bản vẽ"
+    },
+    {
+      "num": 342,
+      "title": "Ý nghĩ ẩn giấu"
+    },
+    {
+      "num": 343,
+      "title": "Sự rạn nứt ngầm"
+    },
+    {
+      "num": 344,
+      "title": "Lại gặp lừa gạt (Thượng)"
+    },
+    {
+      "num": 345,
+      "title": "Lại gặp trò lừa bịp (hạ)"
+    },
+    {
+      "num": 346,
+      "title": "Mâu thuẫn và phân kỳ, thời kỳ cuối thảm họa"
+    },
+    {
+      "num": 347,
+      "title": "Tăng thù lao"
+    },
+    {
+      "num": 348,
+      "title": "Chắc chắn là yêu rồi"
+    },
+    {
+      "num": 349,
+      "title": "Cả tộc chấn động! (Thượng)"
+    },
+    {
+      "num": 350,
+      "title": "Cả tộc chấn động! (Hạ)"
+    },
+    {
+      "num": 351,
+      "title": "Tổng kết"
+    },
+    {
+      "num": 352,
+      "title": "Nguyện Hắc Tinh phù hộ ngươi"
+    },
+    {
+      "num": 353,
+      "title": "Bố cục bàng lớn, đặt quân cờ giữa chốn sao trời — Độ phì nhiêu của đất là then chốt"
+    },
+    {
+      "num": 354,
+      "title": "Dụ dỗ đại hán"
+    },
+    {
+      "num": 355,
+      "title": "Bùng nổ! (Thượng)"
+    },
+    {
+      "num": 356,
+      "title": "Bùng nổ! (Hạ)"
+    },
+    {
+      "num": 357,
+      "title": "Tin tức đột phát, tiền thưởng của quý tộc vũ trụ"
+    },
+    {
+      "num": 358,
+      "title": "Cơ khí mới, mục tiêu mới"
+    },
+    {
+      "num": 359,
+      "title": "Lời mời từ Thiên Hoàn"
+    },
+    {
+      "num": 360,
+      "title": "Cắm cờ tôi là dân chuyên nghiệp"
+    },
+    {
+      "num": 361,
+      "title": "“Thử sức”"
+    },
+    {
+      "num": 362,
+      "title": "Góc tối không thấy (Thượng)"
+    },
+    {
+      "num": 363,
+      "title": "Góc tối không thấy (Hạ)"
+    },
+    {
+      "num": 364,
+      "title": "đảo nổi Long Thản và vượt qua cấp A"
+    },
+    {
+      "num": 365,
+      "title": "Đừng sợ, cứ khô thôi"
+    },
+    {
+      "num": 366,
+      "title": "Chợ nô lệ"
+    },
+    {
+      "num": 367,
+      "title": "A La Hi Á, kỳ quan vũ trụ?"
+    },
+    {
+      "num": 368,
+      "title": "Hỗn chiến"
+    },
+    {
+      "num": 369,
+      "title": "Hạt châu rơi rụng"
+    },
+    {
+      "num": 370,
+      "title": "Biến dị, [Long Tọa] Ngải Mặc Ti!"
+    },
+    {
+      "num": 371,
+      "title": "Đối xử khác biệt"
+    },
+    {
+      "num": 372,
+      "title": "Nhập hội (Thượng)"
+    },
+    {
+      "num": 373,
+      "title": "Nhập bọn (Hạ)"
+    },
+    {
+      "num": 374,
+      "title": "Bạn tốt Ám Tinh đã online"
+    },
+    {
+      "num": 375,
+      "title": "Lấy uy tín làm đầu, làm ăn đàng hoàng"
+    },
+    {
+      "num": 376,
+      "title": "Cơ thể cứng cáp!"
+    },
+    {
+      "num": 377,
+      "title": "Thừa cơ đục nước béo cò!"
+    },
+    {
+      "num": 378,
+      "title": "Lộ bí mật, Ám Tinh bại lộ"
+    },
+    {
+      "num": 379,
+      "title": "Nô lệ? Tôi có thấy ai đâu nhỉ"
+    },
+    {
+      "num": 380,
+      "title": "Giải phóng"
+    },
+    {
+      "num": 381,
+      "title": "Đến trước một bước (Thượng)"
+    },
+    {
+      "num": 382,
+      "title": "Đến trước một bước (Hạ)"
+    },
+    {
+      "num": 383,
+      "title": "Vẫn rất xuất sắc, cúp không cho sờ"
+    },
+    {
+      "num": 384,
+      "title": "Mẫu hạm Ám Tinh"
+    },
+    {
+      "num": 385,
+      "title": "Giết người diệt khẩu, tình thế xoay chuyển"
+    },
+    {
+      "num": 386,
+      "title": "Chuyên chưởng thăng cấp, tập kích"
+    },
+    {
+      "num": 387,
+      "title": "Giống như cậu, nhân chứng!"
+    },
+    {
+      "num": 388,
+      "title": "Đằng Xà, vỡ!"
+    },
+    {
+      "num": 389,
+      "title": "Mày rốt cuộc là con quái vật gì vậy?!"
+    },
+    {
+      "num": 390,
+      "title": "A La Hi Á, nhiệm vụ liên hoàn cấp A (Thượng)"
+    },
+    {
+      "num": 391,
+      "title": "A La Hi Á, nhiệm vụ liên hoàn cấp A (Hạ)"
+    },
+    {
+      "num": 392,
+      "title": "Hạm đội ập đến"
+    },
+    {
+      "num": 393,
+      "title": "Bàn về sự tu dưỡng của lão tài xế"
+    },
+    {
+      "num": 394,
+      "title": "Tốc độ và say tàu"
+    },
+    {
+      "num": 395,
+      "title": "Trận chiến truy đuổi (1)"
+    },
+    {
+      "num": 396,
+      "title": "Trận chiến truy đuổi (2)"
+    },
+    {
+      "num": 397,
+      "title": "Hạm đội tới nơi"
+    },
+    {
+      "num": 398,
+      "title": "Đụng độ, các phe chú ý"
+    },
+    {
+      "num": 399,
+      "title": "Cụt tay và thức tỉnh"
+    },
+    {
+      "num": 400,
+      "title": "Long Tọa giáng lâm!"
+    },
+    {
+      "num": 401,
+      "title": "Phó bản mới"
+    },
+    {
+      "num": 402,
+      "title": "Chất vấn"
+    },
+    {
+      "num": 403,
+      "title": "Danh tiếng tăng vọt, bàn giao cho Ca Đóa Lạp"
+    },
+    {
+      "num": 404,
+      "title": "Ba liên phát, nguồn gốc đại sự kiện!"
+    },
+    {
+      "num": 405,
+      "title": "Đẩy trách nhiệm (Thượng)"
+    },
+    {
+      "num": 406,
+      "title": "Vứt nồi (Hạ)"
+    },
+    {
+      "num": 407,
+      "title": "Ý tưởng về lưu phái mới (Cảm ơn sự ủng hộ của Thanh Sơn 2567!)"
+    },
+    {
+      "num": 408,
+      "title": "Mở rộng quy mô"
+    },
+    {
+      "num": 409,
+      "title": "Chương Phần Hắc Tinh: Tập 3, Nhục Bao Phiền Não"
+    },
+    {
+      "num": 410,
+      "title": "Khởi đầu chịu khổ"
+    },
+    {
+      "num": 411,
+      "title": "Vượt cấp đâu phải anh thích vượt là vượt được đâu"
+    },
+    {
+      "num": 412,
+      "title": "Sống sót"
+    },
+    {
+      "num": 413,
+      "title": "Hệ thống chiến thuật mới (1)"
+    },
+    {
+      "num": 414,
+      "title": "Hệ thống chiến thuật mới (Giữa)"
+    },
+    {
+      "num": 415,
+      "title": "Hệ thống chiến thuật mới (Dưới)"
+    },
+    {
+      "num": 416,
+      "title": "Tổng kết và kế hoạch giai đoạn tiếp theo"
+    },
+    {
+      "num": 417,
+      "title": "Chín tháng sau, Mộ Chi Tinh"
+    },
+    {
+      "num": 418,
+      "title": "Thứ không có được vĩnh viễn vẫn luôn xao động (Trên)"
+    },
+    {
+      "num": 419,
+      "title": "Thứ không có được vĩnh viễn vẫn luôn xao động (Dưới)"
+    },
+    {
+      "num": 420,
+      "title": "Giao dịch bất ngờ"
+    },
+    {
+      "num": 421,
+      "title": "Thiết bị bóc tách gen siêu năng và thẻ nhân vật tạm thời"
+    },
+    {
+      "num": 422,
+      "title": "Dấu hiệu dị hóa, trận chung kết mở màn"
+    },
+    {
+      "num": 423,
+      "title": "Phèn la ra mắt"
+    },
+    {
+      "num": 424,
+      "title": "Một vòng ra mắt, nghiền nát mở màn"
+    },
+    {
+      "num": 425,
+      "title": "Trợt qua nửa chặng đường, dược tề năng lực của Hắc Tinh"
+    },
+    {
+      "num": 426,
+      "title": "Người chơi dạng BOSS! (Phần trên)"
+    },
+    {
+      "num": 427,
+      "title": "Người chơi dạng BOSS! (Phần dưới)"
+    },
+    {
+      "num": 428,
+      "title": "Đôi bên cùng lật bài ngửa"
+    },
+    {
+      "num": 429,
+      "title": "Vào chung kết, nhiệm vụ áp tải vật tư của Long Tàn"
+    },
+    {
+      "num": 430,
+      "title": "Hạ độc ám sát"
+    },
+    {
+      "num": 431,
+      "title": "Mối thù từ quá khứ (Phần trên)"
+    },
+    {
+      "num": 432,
+      "title": "Đến từ quá khứ báo thù (Giữa)"
+    },
+    {
+      "num": 433,
+      "title": "Đến từ quá khứ báo thù (Dưới)"
+    },
+    {
+      "num": 434,
+      "title": "Cha (Trên)"
+    },
+    {
+      "num": 435,
+      "title": "Cha (Dưới)"
+    },
+    {
+      "num": 436,
+      "title": "Khởi đầu của mười năm"
+    },
+    {
+      "num": 437,
+      "title": "Giải đấu kết thúc, bản cập nhật đã cận kề"
+    },
+    {
+      "num": 438,
+      "title": "Nữ thần may mắn lần thứ N sải bước bay"
+    },
+    {
+      "num": 439,
+      "title": "Cập nhật phiên bản 1.0 (Thượng)"
+    },
+    {
+      "num": 440,
+      "title": "Cập nhật phiên bản 1.0 (Giữa)"
+    },
+    {
+      "num": 441,
+      "title": "Cập nhật phiên bản 1.0 (Dưới)"
+    },
+    {
+      "num": 442,
+      "title": "Tư duy tiến tiến hóa đi lệch hướng"
+    },
+    {
+      "num": 443,
+      "title": "Trộm nhà"
+    },
+    {
+      "num": 444,
+      "title": "Thần Tinh và nhiệm vụ bức tượng (trên)"
+    },
+    {
+      "num": 445,
+      "title": "Thần Tinh và nhiệm vụ tượng điêu khắc (2)"
+    },
+    {
+      "num": 446,
+      "title": "Nhật ký ghi nhớ: Cấu trúc giảm xóc bên trong khoang thả dù cần phải gia cố……"
+    },
+    {
+      "num": 447,
+      "title": "Ta cũng có một ngày bị xem là người ngoài hành tinh"
+    },
+    {
+      "num": 448,
+      "title": "Nhớ năm xưa, huynh đệ ta cũng là người từng chém từ Nam Thiên Môn một mạch tới đường Bồng Lai Đông đó nha..."
+    },
+    {
+      "num": 449,
+      "title": "Vạn phu mạc khai!"
+    },
+    {
+      "num": 450,
+      "title": "Chà, tên nghèo kiết xác dát vàng!"
+    },
+    {
+      "num": 451,
+      "title": "Huyền học không cứu nổi thế giới (Cảm ơn minh chủ Thiên Vũ Thiên Nguyệt!!)"
+    },
+    {
+      "num": 452,
+      "title": "Tập kích!"
+    },
+    {
+      "num": 453,
+      "title": "Chủ nhân thực sự"
+    },
+    {
+      "num": 454,
+      "title": "Song sinh và viện thủ"
+    },
+    {
+      "num": 455,
+      "title": "Nhiệm vụ ẩn, Quyết định"
+    },
+    {
+      "num": 456,
+      "title": "Ái chà, ăn giáo Âu đây!"
+    },
+    {
+      "num": 457,
+      "title": "Cán bộ cấp B thứ hai"
+    },
+    {
+      "num": 458,
+      "title": "Sự quan tâm đến từ vùng sao xa xôi"
+    },
+    {
+      "num": 459,
+      "title": "Thuộc tính thấp, không đại diện cho ta không đẹp"
+    },
+    {
+      "num": 460,
+      "title": "Tinh du thú (Thượng)"
+    },
+    {
+      "num": 461,
+      "title": "Tinh du thú (Hạ)"
+    },
+    {
+      "num": 462,
+      "title": "Sủng vật (Thượng)"
+    },
+    {
+      "num": 463,
+      "title": "Sủng vật (Hạ)"
+    },
+    {
+      "num": 464,
+      "title": "Cho nên, nếu phong cách của Ca Đóa Lạp bảo thủ hơn một chút thì vốn chẳng có Ám Tinh"
+    },
+    {
+      "num": 465,
+      "title": "Sống thêm một giây với trời, ta có phép thuật ta tự hào"
+    },
+    {
+      "num": 466,
+      "title": "Hai tháng"
+    },
+    {
+      "num": 467,
+      "title": "Thiếu niên biết yêu à, mau đi tạo dựng kỳ tích"
+    },
+    {
+      "num": 468,
+      "title": "Bốn lần quang huy liên tiếp"
+    },
+    {
+      "num": 469,
+      "title": "Gen giải phóng, kiến thức cấp cao!"
+    },
+    {
+      "num": 470,
+      "title": "Kinh nghiệm tiêu hóa hoàn toàn!"
+    },
+    {
+      "num": 471,
+      "title": "Phá Toái Liệt Quang (Phần trên)"
+    },
+    {
+      "num": 472,
+      "title": "Phá Toái Liệt Quang (Giữa)"
+    },
+    {
+      "num": 473,
+      "title": "Phá Toái Liệt Quang (Hạ)"
+    },
+    {
+      "num": 474,
+      "title": "Cánh cửa của Phá Toái Tinh Khảo, Nặc Lý Âu Tư! (Cảm ơn đại gia Thiên Kỳ Bách Quái đã thưởng lớn!)"
+    },
+    {
+      "num": 475,
+      "title": "Người Ca Đóa Lạp kỳ quái"
+    },
+    {
+      "num": 476,
+      "title": "Tập kích"
+    },
+    {
+      "num": 477,
+      "title": "Không muốn dùng \"Ám lưu dũng động\" làm tiêu đề"
+    },
+    {
+      "num": 478,
+      "title": "Dù ở thời đại nào, có một loại sách không bao giờ lỗi thời"
+    },
+    {
+      "num": 479,
+      "title": "Biết gì về chớp hiện không?"
+    },
+    {
+      "num": 480,
+      "title": "Tiên tri trường sinh, Y Tác · Cáp Thụy Khẳng"
+    },
+    {
+      "num": 481,
+      "title": "Cảm ơn"
+    },
+    {
+      "num": 482,
+      "title": "Cái bẫy"
+    },
+    {
+      "num": 483,
+      "title": "Cầu viện và chiêu mộ"
+    },
+    {
+      "num": 484,
+      "title": "Xen ngang"
+    },
+    {
+      "num": 485,
+      "title": "Cơ giới sư nào cũng chơi bẩn khi đã dọn sân từ trước"
+    },
+    {
+      "num": 486,
+      "title": "Trận chiến ác liệt"
+    },
+    {
+      "num": 487,
+      "title": "Không mang họ Kiệt thì ngã không chết đâu"
+    },
+    {
+      "num": 488,
+      "title": "Rút lui"
+    },
+    {
+      "num": 489,
+      "title": "A Nỗ Nhĩ: Hố người vãi chưởng, cút!"
+    },
+    {
+      "num": 490,
+      "title": "Mâu thuẫn gay gắt"
+    },
+    {
+      "num": 491,
+      "title": "Chào mừng trở lại"
+    },
+    {
+      "num": 492,
+      "title": "Lai lịch của A La Hi Á (Thượng)"
+    },
+    {
+      "num": 493,
+      "title": "Lai lịch của A La Hi Á (Hạ)"
+    },
+    {
+      "num": 494,
+      "title": "Kế hoạch khẩn cấp"
+    },
+    {
+      "num": 495,
+      "title": "Trận chiến Nặc Lý Âu Tư (Một)"
+    },
+    {
+      "num": 496,
+      "title": "Trận chiến Nặc Lý Âu Tư (Hai)"
+    },
+    {
+      "num": 497,
+      "title": "Trận chiến Nặc Lý Âu Tư (Ba)"
+    },
+    {
+      "num": 498,
+      "title": "Trận chiến Nặc Lý Âu Tư (Bốn)"
+    },
+    {
+      "num": 499,
+      "title": "Trận chiến Nặc Lý Âu Tư (Năm)"
+    },
+    {
+      "num": 500,
+      "title": "Đảo ngược"
+    },
+    {
+      "num": 501,
+      "title": "Tôi đã mất đi khả năng bị lừa"
+    },
+    {
+      "num": 502,
+      "title": "Sự bàng hoàng của Ám Tinh"
+    },
+    {
+      "num": 503,
+      "title": "Ảnh hưởng và kế hoạch"
+    },
+    {
+      "num": 504,
+      "title": "Kêu gọi đầu tư"
+    },
+    {
+      "num": 505,
+      "title": "Chọn địa điểm xây dựng căn cứ"
+    },
+    {
+      "num": 506,
+      "title": "Sản xuất hàng loạt, xây dựng và điềm báo dị hóa"
+    },
+    {
+      "num": 507,
+      "title": "Bố cục bắt đầu phát huy tác dụng"
+    },
+    {
+      "num": 508,
+      "title": "Phiên bản mới, giai đoạn mới"
+    },
+    {
+      "num": 509,
+      "title": "Người chơi trở về, thảm họa dị hóa bùng nổ toàn diện"
+    },
+    {
+      "num": 510,
+      "title": "Hắc Tinh trở về! (Gộp chung)"
+    },
+    {
+      "num": 511,
+      "title": "Làm vẻ như gió, luôn bên cạnh ta"
+    },
+    {
+      "num": 512,
+      "title": "Trùng phùng"
+    },
+    {
+      "num": 513,
+      "title": "Chân tướng của thảm họa dị hóa"
+    },
+    {
+      "num": 514,
+      "title": "Cây lúa chín khao khát lưỡi liềm"
+    },
+    {
+      "num": 515,
+      "title": "Tôi vung dao này xuống, ví tiền của các cậu có thể sẽ xẹp lép"
+    },
+    {
+      "num": 516,
+      "title": "Xưa nay tình cảm sâu đậm giữ chẳng nổi, luôn có những chiêu trò được lòng người"
+    },
+    {
+      "num": 517,
+      "title": "Lục quốc cầu viện"
+    },
+    {
+      "num": 518,
+      "title": "Quân cọc trên bàn đàm phán chính là tương lai"
+    },
+    {
+      "num": 519,
+      "title": "Đảo Tang Chung (Thượng)"
+    },
+    {
+      "num": 520,
+      "title": "Đảo Tang Chung (Hạ)"
+    },
+    {
+      "num": 521,
+      "title": "Truy tìm nguồn gốc, vòng cuối cùng"
+    },
+    {
+      "num": 522,
+      "title": "Phương thức chiến đấu mới (Thượng)"
+    },
+    {
+      "num": 523,
+      "title": "Phương thức chiến đấu mới (Dưới)"
+    },
+    {
+      "num": 524,
+      "title": "Hela"
+    },
+    {
+      "num": 525,
+      "title": "Aurora"
+    },
+    {
+      "num": 526,
+      "title": "Đội cứu viện Ca Đóa Lạp"
+    },
+    {
+      "num": 527,
+      "title": "Sơn vũ dục lai"
+    },
+    {
+      "num": 528,
+      "title": "Tân tuyến sách dữ uẩn nhưỡng"
+    },
+    {
+      "num": 529,
+      "title": "Hoang đường đích chân tương (thượng)"
+    },
+    {
+      "num": 530,
+      "title": "Hoang đường đích chân tương (hạ)"
+    },
+    {
+      "num": 531,
+      "title": "Tiến giai, Cơ giới sư ảo!"
+    },
+    {
+      "num": 532,
+      "title": "Rất có lý khí thế đào chân tường"
+    },
+    {
+      "num": 533,
+      "title": "Không giận, một chút cũng không giận"
+    },
+    {
+      "num": 534,
+      "title": "Hành động bắt đầu"
+    },
+    {
+      "num": 535,
+      "title": "Nguy cơ cận kề"
+    },
+    {
+      "num": 536,
+      "title": "Tập kích (Thượng)"
+    },
+    {
+      "num": 537,
+      "title": "Tập kích (Hạ)"
+    },
+    {
+      "num": 538,
+      "title": "Truy kích và sự đánh đổi"
+    },
+    {
+      "num": 539,
+      "title": "Xâm nhập ảo (Thượng)"
+    },
+    {
+      "num": 540,
+      "title": "Xâm nhập ảo (Hạ)"
+    },
+    {
+      "num": 541,
+      "title": "Chọc tôi một nhát mà lại muốn chuồn, không có cửa đâu"
+    },
+    {
+      "num": 542,
+      "title": "Cho cậu cơ hội nói lại lần nữa"
+    },
+    {
+      "num": 543,
+      "title": "Hiệu ứng cánh bướm"
+    },
+    {
+      "num": 544,
+      "title": "Thảm họa dị hóa giai đoạn hai"
+    },
+    {
+      "num": 545,
+      "title": "\"Cảm quan\""
+    },
+    {
+      "num": 546,
+      "title": "Bước tiếp theo của Ám Tinh"
+    },
+    {
+      "num": 547,
+      "title": "Sự kiện vành Trường Hồ Tọa, thời cơ đã đến"
+    },
+    {
+      "num": 548,
+      "title": "Dòm ngó"
+    },
+    {
+      "num": 549,
+      "title": "Đang trên đường tự tìm cái chết"
+    },
+    {
+      "num": 550,
+      "title": "Đã đến lúc lấy chiếc máy ép trái cây phủ bụi đã lâu ra rồi"
+    },
+    {
+      "num": 551,
+      "title": "Sự hiếu kỳ của Ngải Mặc Ti"
+    },
+    {
+      "num": 552,
+      "title": "Ám Tinh: Vững vàng, chúng ta có thể thắng!"
+    },
+    {
+      "num": 553,
+      "title": "Đàm phán"
+    },
+    {
+      "num": 554,
+      "title": "Đã đến lúc thể hiện kỹ năng tự não bổ chân chính rồi"
+    },
+    {
+      "num": 555,
+      "title": "Phản ứng từ các phía"
+    },
+    {
+      "num": 556,
+      "title": "Vừa ra vẻ cái là biết ngay cao thủ kỳ cựu (cảm ơn Nửa Cốc Sữa Ma Lực đã tài trợ minh chủ)"
+    },
+    {
+      "num": 557,
+      "title": "Hoàn tất nghiên cứu, chủ động xuất kích"
+    },
+    {
+      "num": 558,
+      "title": "Cuộc chiến thời gian"
+    },
+    {
+      "num": 559,
+      "title": "Mưa rào, khóa chặt"
+    },
+    {
+      "num": 560,
+      "title": "Nhiệm vụ BOSS"
+    },
+    {
+      "num": 561,
+      "title": "Quân đoàn cơ giáp · Cận vệ thú máy!"
+    },
+    {
+      "num": 562,
+      "title": "Tiêu hủy"
+    },
+    {
+      "num": 563,
+      "title": "Phất · Âu Hoàng · Con Của Khí Vận · Đinh"
+    },
+    {
+      "num": 564,
+      "title": "Khởi đầu cơn bão!"
+    },
+    {
+      "num": 565,
+      "title": "Viện binh bất ngờ"
+    },
+    {
+      "num": 566,
+      "title": "Tàu sân mẹ của anh rất đẹp, bây giờ nó là hình dáng của tôi rồi"
+    },
+    {
+      "num": 567,
+      "title": "Kẻ buôn tình báo tiền đồ vô lượng"
+    },
+    {
+      "num": 568,
+      "title": "Nguy cơ giáng lâm!"
+    },
+    {
+      "num": 569,
+      "title": "Cỗ máy, tới!"
+    },
+    {
+      "num": 570,
+      "title": "Vây công"
+    },
+    {
+      "num": 571,
+      "title": "Sao lại đánh hoài không chết thế này?!"
+    },
+    {
+      "num": 572,
+      "title": "Cứng đầu chống đỡ chủ pháo?! (Thượng) (Cảm ơn vạn thưởng của thiên kì bách quái!)"
+    },
+    {
+      "num": 573,
+      "title": "Cứng rắn đỡ một phát chủ pháo?! (Giữa)"
+    },
+    {
+      "num": 574,
+      "title": "Cứng rắn đỡ một phát chủ pháo?! (Dưới)"
+    },
+    {
+      "num": 575,
+      "title": "Tổng kết nhiệm vụ, trù bị kế hoạch (Cảm ơn trăm kỳ lạ mười vạn thưởng!)"
+    },
+    {
+      "num": 576,
+      "title": "Luôn muốn làm một quả tin tức lớn"
+    },
+    {
+      "num": 577,
+      "title": "Các bên quan tâm, Hắc Tinh quân đoàn"
+    },
+    {
+      "num": 578,
+      "title": "Bước vào cấp Thiên Tai!"
+    },
+    {
+      "num": 579,
+      "title": "Đừng thấy hôm nay nhảy nhót vui, cẩn thận ngày mai thanh toán sổ sách"
+    },
+    {
+      "num": 580,
+      "title": "Khởi hành"
+    },
+    {
+      "num": 581,
+      "title": "Làm mới nhận thức"
+    },
+    {
+      "num": 582,
+      "title": "Phản công bắt đầu"
+    },
+    {
+      "num": 583,
+      "title": "Chiến quả chiến tranh thường đã được định đoạt từ trước khi bắt đầu"
+    },
+    {
+      "num": 584,
+      "title": "Kẻ sót lưới"
+    },
+    {
+      "num": 585,
+      "title": "Kẻ đứng sau màn nổi mặt nước"
+    },
+    {
+      "num": 586,
+      "title": "Tiền thanh toán về tay"
+    },
+    {
+      "num": 587,
+      "title": "Cuồng Viên"
+    },
+    {
+      "num": 588,
+      "title": "Ban huân chương"
+    },
+    {
+      "num": 589,
+      "title": "Ghi vào sử sách"
+    },
+    {
+      "num": 590,
+      "title": "Ảnh hưởng nhiều bên"
+    },
+    {
+      "num": 591,
+      "title": "Chuyển chủ thành, giai đoạn mới (Cảm ơn minh chủ Thần Mã Ngã Thảo đã thưởng hai mươi mươi mốt vạn!)"
+    },
+    {
+      "num": 592,
+      "title": "Đầu tư từ Nặc Lý Âu Tư"
+    },
+    {
+      "num": 593,
+      "title": "Sự kiện bất ngờ"
+    },
+    {
+      "num": 594,
+      "title": "Cuộc tập kích của Mã Trát Khắc Tư! (Thượng)"
+    },
+    {
+      "num": 595,
+      "title": "Cuộc tập kích của Mã Trát Khắc Tư! (Hạ)"
+    },
+    {
+      "num": 596,
+      "title": "Kế hoãn binh và dắt sói vào nhà"
+    },
+    {
+      "num": 597,
+      "title": "Đơn đao phó hội"
+    },
+    {
+      "num": 598,
+      "title": "Một mìnhVShạm đội"
+    },
+    {
+      "num": 599,
+      "title": "Đi vào quỹ đạo, bản đồ mở rộng"
+    },
+    {
+      "num": 600,
+      "title": "Tàn dư Ám Tinh"
+    },
+    {
+      "num": 601,
+      "title": "Tỏi tây mới mẻ đã xuất hiện, làm sao có thể giậm chân tại chỗ"
+    },
+    {
+      "num": 602,
+      "title": "Cảm giác cơ khí hoàn hảo"
+    },
+    {
+      "num": 603,
+      "title": "Cơ giới toàn diện đổi mới!"
+    },
+    {
+      "num": 604,
+      "title": "Dự cảm bất lành... phần lớn sẽ thành sự thật"
+    },
+    {
+      "num": 605,
+      "title": "Lời mời của bá chủ, bản đồ Tinh Hải Vỡ"
+    },
+    {
+      "num": 606,
+      "title": "Lĩnh vực chiến tranh"
+    },
+    {
+      "num": 607,
+      "title": "Khiêu khích"
+    },
+    {
+      "num": 608,
+      "title": "Thử dò la"
+    },
+    {
+      "num": 609,
+      "title": "Lãnh thổ mới, đặc sứ đế quốc"
+    },
+    {
+      "num": 610,
+      "title": "NTR ngay trước mặt"
+    },
+    {
+      "num": 611,
+      "title": "Tỉ thí ước định"
+    },
+    {
+      "num": 612,
+      "title": "Trận chiến tiêu hao?"
+    },
+    {
+      "num": 613,
+      "title": "Đánh một hồi liền chuyển xanh"
+    },
+    {
+      "num": 614,
+      "title": "Tụ hội chính thức"
+    },
+    {
+      "num": 615,
+      "title": "Quà tặng của Austin"
+    },
+    {
+      "num": 616,
+      "title": "Kết thúc buổi tụ hội, chuyến đi Tô Ni Nhĩ"
+    },
+    {
+      "num": 617,
+      "title": "Người nguyên thủy của tinh cầu Tô Ni Nhĩ!"
+    },
+    {
+      "num": 618,
+      "title": "Chuyển chức!"
+    },
+    {
+      "num": 619,
+      "title": "Nhiệm vụ chính tuyến cấp A của Tô Ni Nhĩ"
+    },
+    {
+      "num": 620,
+      "title": "Mầm móng của văn minh"
+    },
+    {
+      "num": 621,
+      "title": "Chủng tộc có tiềm năng cực cao (cảm ơn liltan đã thưởng mười vạn cho minh chủ!)"
+    },
+    {
+      "num": 622,
+      "title": "Phương án thứ hai, di dời liên sao"
+    },
+    {
+      "num": 623,
+      "title": "Kéo một nhóm, đánh một nhóm (Thượng)"
+    },
+    {
+      "num": 624,
+      "title": "Lôi kéo một nhóm, đánh một nhóm (Hạ)"
+    },
+    {
+      "num": 625,
+      "title": "Bộ lạc mạnh nhất, thả vũ khí sinh hóa"
+    },
+    {
+      "num": 626,
+      "title": "Khải hoàn"
+    },
+    {
+      "num": 627,
+      "title": "Hắc Linh tộc"
+    },
+    {
+      "num": 628,
+      "title": "Hai năm sau"
+    },
+    {
+      "num": 629,
+      "title": "Kẻ Săn Giết Thần Bí"
+    },
+    {
+      "num": 630,
+      "title": "Tình trạng phát triển và nút thắt"
+    },
+    {
+      "num": 631,
+      "title": "Màn mở đầu của thủy triều đỏ, sự thuê mướn của văn minh cấp tinh đoàn"
+    },
+    {
+      "num": 632,
+      "title": "Cơ giáp khủng mới là sự lãng mạn của đàn ông"
+    },
+    {
+      "num": 633,
+      "title": "Lời mời và cuộc tập kích lập thế lực"
+    },
+    {
+      "num": 634,
+      "title": "Chiến tranh cấp Thiên Tai"
+    },
+    {
+      "num": 635,
+      "title": "Cắm cho cô một con mắt, từ nay cô là đồng đội của tôi"
+    },
+    {
+      "num": 636,
+      "title": "Không sờ [Fuding] thì sao quay thưởng"
+    },
+    {
+      "num": 637,
+      "title": "Hồng triều loạn thế, phong vân chớm nổi (thượng)"
+    },
+    {
+      "num": 638,
+      "title": "Thời loạn thủy triều đỏ, phong vân dần nổi (Hạ)"
+    },
+    {
+      "num": 639,
+      "title": "Thiên phú này dễ dùng đến mức không muốn thăng cấp nữa a! (Cảm ơn 'Quỷ Quỷ Treo Trên Cây' vì khoản thưởng mười vạn!)"
+    },
+    {
+      "num": 640,
+      "title": "Phục kích"
+    },
+    {
+      "num": 641,
+      "title": "Cao địa đường giữa, tới giao tranh"
+    },
+    {
+      "num": 642,
+      "title": "Phản công"
+    },
+    {
+      "num": 643,
+      "title": "Nghiền ép và giá họa"
+    },
+    {
+      "num": 644,
+      "title": "Kẻ cổ đại"
+    },
+    {
+      "num": 645,
+      "title": "Đại hội liên sao Tinh Hải lần thứ hai"
+    },
+    {
+      "num": 646,
+      "title": "Luyện binh"
+    },
+    {
+      "num": 647,
+      "title": "Sức bền cao cấp"
+    },
+    {
+      "num": 648,
+      "title": "Vượt qua vòng khu vực"
+    },
+    {
+      "num": 649,
+      "title": "Quần trào"
+    },
+    {
+      "num": 650,
+      "title": "Mốc son"
+    },
+    {
+      "num": 651,
+      "title": "Mùa giải thứ hai, kết thúc"
+    },
+    {
+      "num": 652,
+      "title": "Cập nhật phiên bản, khởi đầu mười năm"
+    },
+    {
+      "num": 653,
+      "title": "Kế hoạch mười năm, nhiệm vụ cốt truyện chính nhận trước mười năm"
+    },
+    {
+      "num": 654,
+      "title": "Chiến lực cơ giới tăng gấp bội"
+    },
+    {
+      "num": 655,
+      "title": "Trận chiến thứ nhất"
+    },
+    {
+      "num": 656,
+      "title": "Tình thế nguy cấp chính là cơ hội"
+    },
+    {
+      "num": 657,
+      "title": "Thuận gió cười hì hì, ngược gió giấu chim nhỏ"
+    },
+    {
+      "num": 658,
+      "title": "Lấy một địch tám!"
+    },
+    {
+      "num": 659,
+      "title": "Một đòn có tiêu chuẩn cấp siêu A!"
+    },
+    {
+      "num": 660,
+      "title": "Độ truyền thuyết: Thân thể bất diệt"
+    },
+    {
+      "num": 661,
+      "title": "Tầng thứ mới, một hòn đá dấy lên ngàn lớp sóng"
+    },
+    {
+      "num": 662,
+      "title": "Sức mạnh chiến đấu cơ giới tăng gấp bội"
+    },
+    {
+      "num": 663,
+      "title": "Tình huống đột phát"
+    },
+    {
+      "num": 664,
+      "title": "Lai lịch của Lạp Cơ, ác ý tiềm ẩn"
+    },
+    {
+      "num": 665,
+      "title": "Nghiền ép"
+    },
+    {
+      "num": 666,
+      "title": "Vòng thứ ba"
+    },
+    {
+      "num": 667,
+      "title": "Tình huống đột phát"
+    },
+    {
+      "num": 668,
+      "title": "Mối quan hệ thân thiết của tôi vượt ngoài sức tưởng tượng của ông"
+    },
+    {
+      "num": 669,
+      "title": "Mai phục và phản mai phục"
+    },
+    {
+      "num": 670,
+      "title": "Trẻ con chơi trò gia đình"
+    },
+    {
+      "num": 671,
+      "title": "Tôi biết cô!"
+    },
+    {
+      "num": 672,
+      "title": "Sáng tỏ bỗng chốc"
+    },
+    {
+      "num": 673,
+      "title": "Có kinh ngạc không, có bất ngờ không?"
+    },
+    {
+      "num": 674,
+      "title": "Giao tranh ác liệt và thảm họa"
+    },
+    {
+      "num": 675,
+      "title": "Tiến hóa vượt bậc!"
+    },
+    {
+      "num": 676,
+      "title": "Úp nồi"
+    },
+    {
+      "num": 677,
+      "title": "Yêu cầu chuyển chức, mượn đề phát huy"
+    },
+    {
+      "num": 678,
+      "title": "Phất Đinh ngưu bức!"
+    },
+    {
+      "num": 679,
+      "title": "Bình A cứu thế giới"
+    },
+    {
+      "num": 680,
+      "title": "Hết lờ đờ, trọng trách đè vai"
+    },
+    {
+      "num": 681,
+      "title": "Điểm yếu của Hắc Tinh"
+    },
+    {
+      "num": 682,
+      "title": "Chiến thuật vô lại, một bộ combo tiễn đi!"
+    },
+    {
+      "num": 683,
+      "title": "Định đoạt thắng cục"
+    },
+    {
+      "num": 684,
+      "title": "Hội nghị sau chiến trận, luận công ban thưởng"
+    },
+    {
+      "num": 685,
+      "title": "Kế hoạch của Bá Giả"
+    },
+    {
+      "num": 686,
+      "title": "Thủ lĩnh Ám Tinh và Phương Chu Kẻ Sa Đọa"
+    },
+    {
+      "num": 687,
+      "title": "Muốn nương gió trời nổi lên, hẹ tây tựa mây tuôn! (Trên)"
+    },
+    {
+      "num": 688,
+      "title": "Muốn nương gió trời nổi lên, hẹ tây tựa mây tuôn! (Dưới)"
+    },
+    {
+      "num": 689,
+      "title": "Ba năm"
+    },
+    {
+      "num": 690,
+      "title": "Người tiếp nhiệm"
+    },
+    {
+      "num": 691,
+      "title": "Một ngày không bị ám sát, ta thấy người khó chịu vô cùng"
+    },
+    {
+      "num": 692,
+      "title": "Anh đây là muốn dẫn em đi tư bới à!"
+    },
+    {
+      "num": 693,
+      "title": "Vững như chó già"
+    },
+    {
+      "num": 694,
+      "title": "Tình trạng hiện tại của quân đoàn và mục tiêu kỳ nghỉ"
+    },
+    {
+      "num": 695,
+      "title": "Giao tiếp và dọn đường"
+    },
+    {
+      "num": 696,
+      "title": "Phân bón hỗn hợp Lạc Sắt Lâm"
+    },
+    {
+      "num": 697,
+      "title": "Kế hoạch của Bá Giả"
+    },
+    {
+      "num": 698,
+      "title": "Mớ rau hẹ này bị nội thương rồi, hay là…"
+    },
+    {
+      "num": 699,
+      "title": "Phân bón hỗn hợp Lạc Sắt Lâm"
+    },
+    {
+      "num": 700,
+      "title": "Nanh vuốt bất ngờ lộ ra"
+    },
+    {
+      "num": 701,
+      "title": "Mớ rau hẹ này bị nội thương rồi, hay là…"
+    },
+    {
+      "num": 702,
+      "title": "Ngươi cứ tham lam, ông đây là Hồ Hán San"
+    },
+    {
+      "num": 703,
+      "title": "Nồi đen không phải anh muốn vứt, muốn vứt là vứt được"
+    },
+    {
+      "num": 704,
+      "title": "Giao nộp"
+    },
+    {
+      "num": 705,
+      "title": "A, tôi đã thành hình dáng của Hắc Tinh rồi"
+    },
+    {
+      "num": 706,
+      "title": "Phiên bản mới — Thủy triều đỏ!"
+    },
+    {
+      "num": 707,
+      "title": "Tiêu tiền khiến tôi vui vẻ"
+    },
+    {
+      "num": 708,
+      "title": "Đế quốc Xích Hồng: Kệ xác nhà ngươi, Klento"
+    },
+    {
+      "num": 709,
+      "title": "Thủ lĩnh Ám Tinh ngơ ngác"
+    },
+    {
+      "num": 710,
+      "title": "Phong trào cải tạo kỳ thị"
+    },
+    {
+      "num": 711,
+      "title": "Đoạn kết của Ám Tinh, sự hiến dâng của thủ lĩnh"
+    },
+    {
+      "num": 712,
+      "title": "Phần thưởng nhiệm vụ cấp S!"
+    },
+    {
+      "num": 713,
+      "title": "Kinh nghiệm cạn sạch"
+    },
+    {
+      "num": 714,
+      "title": "Bảy năm"
+    },
+    {
+      "num": 715,
+      "title": "Phiên bản mới — Thủy triều đỏ!"
+    },
+    {
+      "num": 716,
+      "title": "Lột xác"
+    },
+    {
+      "num": 717,
+      "title": "Biện pháp chống trộm của ruộng tỏi tây (Cảm ơn minh chủ ccc11111 đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 718,
+      "title": "Bón phân (Cảm ơn lòng tốt của Nguyệt Thượng đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 719,
+      "title": "Người chơi: Mình kiếm được đậm vl rồi!"
+    },
+    {
+      "num": 720,
+      "title": "Thế giới không thiếu người “thông minh”"
+    },
+    {
+      "num": 721,
+      "title": "Xuất chinh"
+    },
+    {
+      "num": 722,
+      "title": "Tiền mới là vũ khí đáng sợ nhất"
+    },
+    {
+      "num": 723,
+      "title": "Phân bón"
+    },
+    {
+      "num": 724,
+      "title": "Ám toán"
+    },
+    {
+      "num": 725,
+      "title": "Tây Tư Khoa"
+    },
+    {
+      "num": 726,
+      "title": "Độc tố niệm lực"
+    },
+    {
+      "num": 727,
+      "title": "Sân nhà phụ ma cùng xuất sơn"
+    },
+    {
+      "num": 728,
+      "title": "Quân Đoàn Truy Nã"
+    },
+    {
+      "num": 729,
+      "title": "Bảo vật vũ trụ, khối lập phương tiến hóa"
+    },
+    {
+      "num": 730,
+      "title": "Quy đội"
+    },
+    {
+      "num": 731,
+      "title": "Kế hoạch bồi dưỡng song hoa hồng côn"
+    },
+    {
+      "num": 732,
+      "title": "Giăng lưới bắt cá"
+    },
+    {
+      "num": 733,
+      "title": "Dẫn dắt sai lầm"
+    },
+    {
+      "num": 734,
+      "title": "Tiến hóa! Cưỡi ngựa phi nước đại trên con đường thịt trâu!"
+    },
+    {
+      "num": 735,
+      "title": "Sinh mệnh vũ trụ, kế hoạch mở rộng ruộng rau"
+    },
+    {
+      "num": 736,
+      "title": "Biến đổi"
+    },
+    {
+      "num": 737,
+      "title": "Suy nghĩ của Tử Tinh (Cảm ơn 'Ánh Trăng Phơi Lòng Người' đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 738,
+      "title": "Khách đến"
+    },
+    {
+      "num": 739,
+      "title": "Khách lớn dạo thôn tân thủ (Cảm ơn khoản thưởng 100 ngàn của Huyễn Mộng Vĩnh Vô Huy!)"
+    },
+    {
+      "num": 740,
+      "title": "Thiên tài bị văn minh chôn vùi"
+    },
+    {
+      "num": 741,
+      "title": "Một pháo thu công"
+    },
+    {
+      "num": 742,
+      "title": "Tin tức từ Cáp La Pháp Nhĩ"
+    },
+    {
+      "num": 743,
+      "title": "Ý đồ của Dị Thần"
+    },
+    {
+      "num": 744,
+      "title": "Thác Mã Nhĩ"
+    },
+    {
+      "num": 745,
+      "title": "Tinh cầu Mạch Tích Bá và Tập đoàn Đá Tảng Đỉnh Phong"
+    },
+    {
+      "num": 746,
+      "title": "Ánh sáng vĩnh hằng và sự quan tâm của Tắc Địch Mỗ (Cảm ơn Thích Thánh Ma đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 747,
+      "title": "Mục tiêu, khối lập phương tiến hóa! (Cảm ơn Khải Cương đã thưởng lớn Bạch Ngân Minh một triệu!)"
+    },
+    {
+      "num": 748,
+      "title": "Muốn chạy? Nào có dễ dàng như vậy!"
+    },
+    {
+      "num": 749,
+      "title": "Lời chiêu mộ bất ngờ"
+    },
+    {
+      "num": 750,
+      "title": "Đã đến"
+    },
+    {
+      "num": 751,
+      "title": "Đế hoàng Cơ giới sư!"
+    },
+    {
+      "num": 752,
+      "title": "Ra tay trước chiếm thế cường"
+    },
+    {
+      "num": 753,
+      "title": "Mắt tôi bị mù rồi sao?!"
+    },
+    {
+      "num": 754,
+      "title": "Củ khoai nóng phỏng tay và việc lo xa"
+    },
+    {
+      "num": 755,
+      "title": "Tối ưu gen và dã tâm"
+    },
+    {
+      "num": 756,
+      "title": "Không phải huynh đệ nhắm vào cậu, tại sao cậu lại quá mức hấp dẫn"
+    },
+    {
+      "num": 757,
+      "title": "Giống như những giọt mưa rơi trên thảo nguyên xanh ngát"
+    },
+    {
+      "num": 758,
+      "title": "Tân sinh!"
+    },
+    {
+      "num": 759,
+      "title": "Lột xác, chủng tộc độc quyền!"
+    },
+    {
+      "num": 760,
+      "title": "Giao thiệp"
+    },
+    {
+      "num": 761,
+      "title": "Không khéo, mông của tôi, ông PY không tới đâu"
+    },
+    {
+      "num": 762,
+      "title": "Kịch chiến"
+    },
+    {
+      "num": 763,
+      "title": "Phong vân nung nấu"
+    },
+    {
+      "num": 764,
+      "title": "Khúc dạo đầu lật đổ cục diện"
+    },
+    {
+      "num": 765,
+      "title": "Phúc lợi và tổ chức Cận vệ quan"
+    },
+    {
+      "num": 766,
+      "title": "Tuyên bố (Thượng)"
+    },
+    {
+      "num": 767,
+      "title": "Tuyên bố (Hạ) (Cảm ơn Vô Thường Đông Nhật đã thưởng hai mươi lăm vạn!)"
+    },
+    {
+      "num": 768,
+      "title": "Chấn động!"
+    },
+    {
+      "num": 769,
+      "title": "Tự lập môn hộ"
+    },
+    {
+      "num": 770,
+      "title": "Mày thọ được bao lâu, tao gọi người tới đây!"
+    },
+    {
+      "num": 771,
+      "title": "Đàm phán và dòng ngầm"
+    },
+    {
+      "num": 772,
+      "title": "Động thái tinh vực"
+    },
+    {
+      "num": 773,
+      "title": "Tiêu điểm tiềm năng tiêu xài chính là sướng (cảm ơn Viêm Lôi Nộ Linh đã thưởng hai mươi vạn!)"
+    },
+    {
+      "num": 774,
+      "title": "Khai chiến!"
+    },
+    {
+      "num": 775,
+      "title": "Giao thủ (Cảm ơn 'Tảo Dầu Trà Ái Hoàn Tử' đã thưởng lớn mười vạn tệ!)"
+    },
+    {
+      "num": 776,
+      "title": "Bùng nổ"
+    },
+    {
+      "num": 777,
+      "title": "Phản chế"
+    },
+    {
+      "num": 778,
+      "title": "Đồng minh của ngươi không tệ, giây tiếp theo……"
+    },
+    {
+      "num": 779,
+      "title": "Vàng tự mọc trong ruộng nhà mình!"
+    },
+    {
+      "num": 780,
+      "title": "Đề nghị của Dị Thần"
+    },
+    {
+      "num": 781,
+      "title": "Khúc xen giữa, vị khách không mời mà đến ngoài dự liệu"
+    },
+    {
+      "num": 782,
+      "title": "Kẻ dẫn đầu thời đại tương lai"
+    },
+    {
+      "num": 783,
+      "title": "Chủ động rút quân!"
+    },
+    {
+      "num": 784,
+      "title": "Phản ứng diễn đàn, chương trình chuyên đề"
+    },
+    {
+      "num": 785,
+      "title": "Nịnh hót đến cực hạn chính là tất cả"
+    },
+    {
+      "num": 786,
+      "title": "Dùng mặt kiếm nhiệm vụ"
+    },
+    {
+      "num": 787,
+      "title": "Di dời và đàm phán"
+    },
+    {
+      "num": 788,
+      "title": "Gặp gỡ và mục tiêu"
+    },
+    {
+      "num": 789,
+      "title": "Nhiệm vụ chính tuyến — Thiểm Diệu Thế Giới"
+    },
+    {
+      "num": 790,
+      "title": "Bản đồ lợi ích toàn tinh vực"
+    },
+    {
+      "num": 791,
+      "title": "Thái Ni · A Môn Lạc Tư"
+    },
+    {
+      "num": 792,
+      "title": "Vàng tự mọc trong ruộng nhà mình!"
+    },
+    {
+      "num": 793,
+      "title": "Dùng mặt làm nhiệm vụ"
+    },
+    {
+      "num": 794,
+      "title": "Mục tiêu"
+    },
+    {
+      "num": 795,
+      "title": "Kế hoạch"
+    },
+    {
+      "num": 796,
+      "title": "Cổng sao liên vực"
+    },
+    {
+      "num": 797,
+      "title": "Mẫu tinh của Đế quốc"
+    },
+    {
+      "num": 798,
+      "title": "“Nguyên thủ Đế quốc” Ô Lan Thụy Nhĩ, “Hắc Đế” Khắc Lạc Đế"
+    },
+    {
+      "num": 799,
+      "title": "Gây áp lực và quyền lên tiếng"
+    },
+    {
+      "num": 800,
+      "title": "Tỉ thí"
+    },
+    {
+      "num": 801,
+      "title": "Ăn cơm, đi ngủ, đánh Dị Thần"
+    },
+    {
+      "num": 802,
+      "title": "Không phải ngẫu nhiên"
+    },
+    {
+      "num": 803,
+      "title": "Bản thể (cảm ơn sofia Nhược Băng đã thưởng một trăm ngàn tệ cho Minh chủ!)"
+    },
+    {
+      "num": 804,
+      "title": "Áp đảo (cảm ơn Một Chú Ong Nhỏ đã thưởng một trăm ngàn tệ cho Minh chủ!)"
+    },
+    {
+      "num": 805,
+      "title": "Chiếm trước cơ hội, manh mối bị lộ"
+    },
+    {
+      "num": 806,
+      "title": "Thẻ nhân vật Dị Thần · Trầm tịch siêu năng"
+    },
+    {
+      "num": 807,
+      "title": "Vung liềm vào đám hẹ hoang dã"
+    },
+    {
+      "num": 808,
+      "title": "Thu hút và lựa chọn, lập trường của công hội"
+    },
+    {
+      "num": 809,
+      "title": "Tri thức đỉnh chêm — Hỏa Chủng Sinh Mệnh Cơ Giới! (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 810,
+      "title": "Hỏa chủng thức tỉnh, nguồn gốc sinh mệnh cơ giới"
+    },
+    {
+      "num": 811,
+      "title": "Trộm rau làm ta vui vẻ"
+    },
+    {
+      "num": 812,
+      "title": "Yêu cầu của Ngải Mặc Ti"
+    },
+    {
+      "num": 813,
+      "title": "Người chơi: Tôi không muốn kết bạn. Hàn Tiêu: Không, các cậu muốn"
+    },
+    {
+      "num": 814,
+      "title": "Thiên tài giao tế"
+    },
+    {
+      "num": 815,
+      "title": "Đạo sư đỉnh cao hệ Cơ giới"
+    },
+    {
+      "num": 816,
+      "title": "Khai hoang"
+    },
+    {
+      "num": 817,
+      "title": "Black-sheep-wall!"
+    },
+    {
+      "num": 818,
+      "title": "Tuyến đường khám phá đặc biệt"
+    },
+    {
+      "num": 819,
+      "title": "Chủ tuyến bắt đầu cùng kẻ vượt biên"
+    },
+    {
+      "num": 820,
+      "title": "Rađa tự động dò địch hiệu Y Tác"
+    },
+    {
+      "num": 821,
+      "title": "Thóp"
+    },
+    {
+      "num": 822,
+      "title": "Thổ dân"
+    },
+    {
+      "num": 823,
+      "title": "Quê hương"
+    },
+    {
+      "num": 824,
+      "title": "Sự kiện ẩn ngoài ý muốn?"
+    },
+    {
+      "num": 825,
+      "title": "\"Binh đoàn Đại Vũ Trụ\""
+    },
+    {
+      "num": 826,
+      "title": "Hội đồng Văn minh Vành Đai Tan Vỡ"
+    },
+    {
+      "num": 827,
+      "title": "Hành động quân sự thuộc về người chơi"
+    },
+    {
+      "num": 828,
+      "title": "A Đề Ma: Quân đoàn Hắc Tinh, không tệ"
+    },
+    {
+      "num": 829,
+      "title": "Vây công Thiên Tai"
+    },
+    {
+      "num": 830,
+      "title": "Thủ sát"
+    },
+    {
+      "num": 831,
+      "title": "[Nhà Thám Hiểm Công Huân]"
+    },
+    {
+      "num": 832,
+      "title": "Hội đồng Văn minh Vành Đai Tan Vỡ"
+    },
+    {
+      "num": 833,
+      "title": "Dấu vết của Giáo phái Hư Linh"
+    },
+    {
+      "num": 834,
+      "title": "Bốn tháng"
+    },
+    {
+      "num": 835,
+      "title": "Hổ Phách Thời Không"
+    },
+    {
+      "num": 836,
+      "title": "Người chứng kiến cuối cùng"
+    },
+    {
+      "num": 837,
+      "title": "Di sản và thử nghiệm của Đấng Khởi Đầu"
+    },
+    {
+      "num": 838,
+      "title": "Biến cố và huyền học (Cảm ơn minh chủ Tiêu Hồn Nhất Kiếm đã thưởng mười vạn!)"
+    },
+    {
+      "num": 839,
+      "title": "Hiệu ứng cánh bướm lớn nhất! Khủng hoảng hậu kỳ xuất hiện trước thời hạn!"
+    },
+    {
+      "num": 840,
+      "title": "Dị Thần mưu đồ tiến giai, nhập cuộc sớm!"
+    },
+    {
+      "num": 841,
+      "title": "Dấu vết địch"
+    },
+    {
+      "num": 842,
+      "title": "Hiện thân!"
+    },
+    {
+      "num": 843,
+      "title": "Biến cố kinh hoàng! (Cảm ơn minh chủ Ta Là Trích Tiên Mười Vạn Thưởng!)"
+    },
+    {
+      "num": 844,
+      "title": "Nghênh chiến!"
+    },
+    {
+      "num": 845,
+      "title": "Hậu thủ ngoại viện! (Cảm ơn minh chủ Bột Giấy Của Tiệm Bánh Bao với mười ba vạn thưởng!)"
+    },
+    {
+      "num": 846,
+      "title": "Vạn Thần Quyền Trượng! (Cảm ơn minh chủ Chú Kiến Đen Nhỏ Yên Lặng với mười vạn thưởng!)"
+    },
+    {
+      "num": 847,
+      "title": "Hổ Phách Thời Không, xuất thế!"
+    },
+    {
+      "num": 848,
+      "title": "Dị Thần mưu đồ tiến giai, nhập cuộc sớm!"
+    },
+    {
+      "num": 849,
+      "title": "Thắng bại mấu chốt!"
+    },
+    {
+      "num": 850,
+      "title": "Thiên phú mới, phản phác!"
+    },
+    {
+      "num": 851,
+      "title": "Bức lui"
+    },
+    {
+      "num": 852,
+      "title": "Báo cáo"
+    },
+    {
+      "num": 853,
+      "title": "Thống kê và thu hoạch, Chủ Tể Cơ Giới sư"
+    },
+    {
+      "num": 854,
+      "title": "Nguyên thủ lôi kéo, thời khắc phản kích!"
+    },
+    {
+      "num": 855,
+      "title": "Mưu tính của Cáp Cơ Sâm"
+    },
+    {
+      "num": 856,
+      "title": "Binh khí sứ đồ cùng tri thức cuối cùng mới"
+    },
+    {
+      "num": 857,
+      "title": "Hành động của Ngải Mặc Ti"
+    },
+    {
+      "num": 858,
+      "title": "Đáp lễ!"
+    },
+    {
+      "num": 859,
+      "title": "Trấn giữ, mời khách và công bố"
+    },
+    {
+      "num": 860,
+      "title": "Biến động cục diện liên sao cùng quân cờ ẩn"
+    },
+    {
+      "num": 861,
+      "title": "Một chữ thảm to tướng"
+    },
+    {
+      "num": 862,
+      "title": "Quái tên đỏ xin dừng bước!"
+    },
+    {
+      "num": 863,
+      "title": "Lộ tung tích"
+    },
+    {
+      "num": 864,
+      "title": "Sa lưới"
+    },
+    {
+      "num": 865,
+      "title": "Khép lại một đoạn và gây sức ép"
+    },
+    {
+      "num": 866,
+      "title": "Tộc Thần Đồng Tinh, thị uy"
+    },
+    {
+      "num": 867,
+      "title": "Gỡ định vị, giết người còn tru tâm"
+    },
+    {
+      "num": 868,
+      "title": "Liên bang Quang Huy: Tưởng thật là ta đang lướt nước à?"
+    },
+    {
+      "num": 869,
+      "title": "Hứng thú của Cơ Quốc"
+    },
+    {
+      "num": 870,
+      "title": "Cướp việc làm ăn và giữa phiên bản"
+    },
+    {
+      "num": 871,
+      "title": "Tiệc tùng và yêu cầu"
+    },
+    {
+      "num": 872,
+      "title": "Tộc Thần Đồng Tinh, thị uy"
+    },
+    {
+      "num": 873,
+      "title": "Bế quan"
+    },
+    {
+      "num": 874,
+      "title": "Không thể phá giải"
+    },
+    {
+      "num": 875,
+      "title": "Hàn đại kỹ sư: Đang bế quan, miễn phiền"
+    },
+    {
+      "num": 876,
+      "title": "Người theo dõi bí ẩn của người chơi"
+    },
+    {
+      "num": 877,
+      "title": "Nghi ngờ"
+    },
+    {
+      "num": 878,
+      "title": "Đánh hổ động uy và kết thúc thời gian phạt"
+    },
+    {
+      "num": 879,
+      "title": "Thư Linh Giáo Phái, cảm ơn nhé (Giọng Phạm Vĩ)"
+    },
+    {
+      "num": 880,
+      "title": "Thư Linh Giáo Phái, cảm ơn nhé (Giọng Phạm Vĩ)"
+    },
+    {
+      "num": 881,
+      "title": "Gặp mặt, hoàn thành vòng thứ hai"
+    },
+    {
+      "num": 882,
+      "title": "Phá băng và điều kiện, lần đầu gặp gỡ của Cơ Quốc"
+    },
+    {
+      "num": 883,
+      "title": "Thăm dò và biến cố bất ngờ"
+    },
+    {
+      "num": 884,
+      "title": "Sức ảnh hưởng nhen nhóm, sóng gió bắt đầu nổi lên"
+    },
+    {
+      "num": 885,
+      "title": "Tài sản chính trị, mượn thế đã thành!"
+    },
+    {
+      "num": 886,
+      "title": "Đội ngũ được xác lập"
+    },
+    {
+      "num": 887,
+      "title": "Tương lai Nguyên thủ Đế quốc"
+    },
+    {
+      "num": 888,
+      "title": "Sự chuẩn bị của Dị Thần"
+    },
+    {
+      "num": 889,
+      "title": "Kích hoạt nhiệm vụ"
+    },
+    {
+      "num": 890,
+      "title": "Phương án và cuộc gặp"
+    },
+    {
+      "num": 891,
+      "title": "Phiên bản tiến hóa của Dị Thần"
+    },
+    {
+      "num": 892,
+      "title": "Lộ diện"
+    },
+    {
+      "num": 893,
+      "title": "Biến số then chốt của hành động"
+    },
+    {
+      "num": 894,
+      "title": "Thu hoạch, khải hoàn"
+    },
+    {
+      "num": 895,
+      "title": "Nâng cấp chuyên tinh"
+    },
+    {
+      "num": 896,
+      "title": "Sự kiện “Dị Thần Vẫn Lạc”"
+    },
+    {
+      "num": 897,
+      "title": "Ảnh hưởng sự kiện"
+    },
+    {
+      "num": 898,
+      "title": "Lòng dân và độ công nhận (Cảm ơn Bạch Phát Tam Thiên Trượng đã là minh chủ)"
+    },
+    {
+      "num": 899,
+      "title": "Vĩnh Hằng năng lượng và hẹ chất lượng cao"
+    },
+    {
+      "num": 900,
+      "title": "Manh mối của Hỗn Độn Bí Năng, cách dùng mới của khối lập phương tiến hóa"
+    },
+    {
+      "num": 901,
+      "title": "Totem tiến hóa (cảm ơn minh chủ Trương Vệ Vũ đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 902,
+      "title": "Đẹp là điều tôi muốn, mà mạnh cũng là điều tôi muốn, hai cái không thể có được cả hai, đành vứt bỏ cái mạnh để chọn cái đẹp vậy"
+    },
+    {
+      "num": 903,
+      "title": "Lời mời của Ngải Mặc Ti"
+    },
+    {
+      "num": 904,
+      "title": "Cảnh báo Long Thản oanh kích"
+    },
+    {
+      "num": 905,
+      "title": "Giao thủ"
+    },
+    {
+      "num": 906,
+      "title": "Hứng thú (Cảm ơn hai vị minh chủ Ngư Kiến Thiên Tấn và Hạo Tiểu Mặc đã thưởng lớn mười vạn tệ!)"
+    },
+    {
+      "num": 907,
+      "title": "Cố nhân (Cảm ơn minh chủ Ngư Kiến Thiên Tấn đã thưởng lớn mười hai vạn tệ!)"
+    },
+    {
+      "num": 908,
+      "title": "Một năm rưỡi (Sửa)"
+    },
+    {
+      "num": 909,
+      "title": "Công Trình Học Cơ Giới Tối Thượng"
+    },
+    {
+      "num": 910,
+      "title": "Khai mạc giải đấu"
+    },
+    {
+      "num": 911,
+      "title": "Cảnh cáo"
+    },
+    {
+      "num": 912,
+      "title": "Câu cá chấp pháp"
+    },
+    {
+      "num": 913,
+      "title": "Tám đội mạnh quốc tế, nhân phẩm bùng nổ"
+    },
+    {
+      "num": 914,
+      "title": "Thủy triều ngầm cuồn cuộn"
+    },
+    {
+      "num": 915,
+      "title": "Cảm giác cơ khí cao cấp, chuyến viếng thăm của tập đoàn Vô Hạn"
+    },
+    {
+      "num": 916,
+      "title": "Thẻ nhân vật Hắc Tinh —Bất diệt chi khu!"
+    },
+    {
+      "num": 917,
+      "title": "Hội sư chung kết"
+    },
+    {
+      "num": 918,
+      "title": "Triển vọng và cập nhật phiên bản (Thượng) (Cảm ơn đại minh chủ ZAISIN đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 919,
+      "title": "Triển vọng và cập nhật phiên bản (Hạ)"
+    },
+    {
+      "num": 920,
+      "title": "Cấp 300 và hai mươi lần rút thưởng"
+    },
+    {
+      "num": 921,
+      "title": "Gặp gỡ"
+    },
+    {
+      "num": 922,
+      "title": "Hồ ly già và thuyết khách"
+    },
+    {
+      "num": 923,
+      "title": "Vạch trần tận gốc"
+    },
+    {
+      "num": 924,
+      "title": "Lời từ biệt của Hela"
+    },
+    {
+      "num": 925,
+      "title": "Địa bàn đợt đầu"
+    },
+    {
+      "num": 926,
+      "title": "Sáng Thế Sáng Chói Vòng thứ nhất hoàn thành"
+    },
+    {
+      "num": 927,
+      "title": "Tri thức tề bị!"
+    },
+    {
+      "num": 928,
+      "title": "Chuẩn bị hoàn tất, xây dựng bắt đầu"
+    },
+    {
+      "num": 929,
+      "title": "Phôi thai của ba đại thiên tai"
+    },
+    {
+      "num": 930,
+      "title": "Rắc rối xuất hiện"
+    },
+    {
+      "num": 931,
+      "title": "Tiềm năng cổ phiếu cấp Siêu A"
+    },
+    {
+      "num": 932,
+      "title": "Tinh Hải Pokemon"
+    },
+    {
+      "num": 933,
+      "title": "Anh gan to thật đấy"
+    },
+    {
+      "num": 934,
+      "title": "Liềm giặt khéo, tỏi tây cắt đến già"
+    },
+    {
+      "num": 935,
+      "title": "Đối phó Tác La Kim, ý tưởng về tập đoàn phụ thuộc"
+    },
+    {
+      "num": 936,
+      "title": "Phất Đinh: Vận may tốt đúng là phiền phức……"
+    },
+    {
+      "num": 937,
+      "title": "Đi dạo một vòng cũng có thể đụng phải cơ duyên"
+    },
+    {
+      "num": 938,
+      "title": "Âm mưu trong bóng tối"
+    },
+    {
+      "num": 939,
+      "title": "Sự việc bùng nổ, náo loạn"
+    },
+    {
+      "num": 940,
+      "title": "Nhúng tay, trấn áp"
+    },
+    {
+      "num": 941,
+      "title": "Chạy? Chạy được không?!"
+    },
+    {
+      "num": 942,
+      "title": "Ân tình và biểu thái"
+    },
+    {
+      "num": 943,
+      "title": "Hộp mê hoặc"
+    },
+    {
+      "num": 944,
+      "title": "Yêu ma hút tâm"
+    },
+    {
+      "num": 945,
+      "title": "Tiến giai cấp 300! Thời kỳ lột xác!"
+    },
+    {
+      "num": 946,
+      "title": "Thần Tọa Cơ giới sư!"
+    },
+    {
+      "num": 947,
+      "title": "Gây chuyện"
+    },
+    {
+      "num": 948,
+      "title": "Hành động cao điệu, chiến thư hạ đạt!"
+    },
+    {
+      "num": 949,
+      "title": "Hiện thân, nhập trận!"
+    },
+    {
+      "num": 950,
+      "title": "Thần minh cơ giới!"
+    },
+    {
+      "num": 951,
+      "title": "Đánh đập điên cuồng"
+    },
+    {
+      "num": 952,
+      "title": "Tâm thái bạo tạc"
+    },
+    {
+      "num": 953,
+      "title": "Lỗ Tấn: Mỗi một tên nhục thuẫn, đều có một trái tim muốn gây sát thương"
+    },
+    {
+      "num": 954,
+      "title": "Dầm dề ngầm lại... xấp xỉ trào dâng"
+    },
+    {
+      "num": 955,
+      "title": "Kế hoạch giáo dục (sửa)"
+    },
+    {
+      "num": 956,
+      "title": "Sự nhắm nh mục của Cơ Quốc"
+    },
+    {
+      "num": 957,
+      "title": "Cuộc sống học viện của Niêu Thiên Tôn"
+    },
+    {
+      "num": 958,
+      "title": "Xâm nhập mạnh mẽ"
+    },
+    {
+      "num": 959,
+      "title": "Cải ta biết, ngươi đều biết?"
+    },
+    {
+      "num": 960,
+      "title": "Mạch Ni Tốn đúng là một người tốt (thật lòng đấy)"
+    },
+    {
+      "num": 961,
+      "title": "Được và mất"
+    },
+    {
+      "num": 962,
+      "title": "Xin hãy gọi tôi là Hàn Không Lỗ"
+    },
+    {
+      "num": 963,
+      "title": "Chủ đề thời đại"
+    },
+    {
+      "num": 964,
+      "title": "Cảm giác cơ giới hoàn mỹ"
+    },
+    {
+      "num": 965,
+      "title": "Giai đoạn khám phá thứ hai lên sóng"
+    },
+    {
+      "num": 966,
+      "title": "Quỹ tích vận mệnh thay đổi"
+    },
+    {
+      "num": 967,
+      "title": "Hình ảnh thu nhỏ của lịch sử khám phá"
+    },
+    {
+      "num": 968,
+      "title": "Người quen và giao tranh (Cảm ơn minh chủ Phi Vũ Lê Hoa đã thưởng mười vạn!)"
+    },
+    {
+      "num": 969,
+      "title": "Móc hắc công nghệ trong đũng quần"
+    },
+    {
+      "num": 970,
+      "title": "Công nghệ cắt gọt không thời gian"
+    },
+    {
+      "num": 971,
+      "title": "Nilo: Cơ giới sư không thích cận chiến chính là không có linh hồn"
+    },
+    {
+      "num": 972,
+      "title": "Tên trộm vặt"
+    },
+    {
+      "num": 973,
+      "title": "An bài rõ ràng mồn một"
+    },
+    {
+      "num": 974,
+      "title": "Nhiệm vụ phát sinh"
+    },
+    {
+      "num": 975,
+      "title": "Đạo diễn Hàn"
+    },
+    {
+      "num": 976,
+      "title": "Ý tưởng về song trọng cơ cảm"
+    },
+    {
+      "num": 977,
+      "title": "Không đường trốn chạy (Cảm ơn minh chủ Kỳ Thật Ngọ Khiếu Đặng Gia Gia vì phần thưởng mười vạn!)"
+    },
+    {
+      "num": 978,
+      "title": "Định số và bất định số"
+    },
+    {
+      "num": 979,
+      "title": "Thanh toán"
+    },
+    {
+      "num": 980,
+      "title": "Thẩm vấn và di nguyện"
+    },
+    {
+      "num": 981,
+      "title": "Chứng Nhận Lãnh Tụ"
+    },
+    {
+      "num": 982,
+      "title": "Kẻ giật dây đứng sau"
+    },
+    {
+      "num": 983,
+      "title": "Xử quyết"
+    },
+    {
+      "num": 984,
+      "title": "Di dân và manh mối"
+    },
+    {
+      "num": 985,
+      "title": "Thứ Thần Giả, linh kiện bộ trang phục màu vàng"
+    },
+    {
+      "num": 986,
+      "title": "Nhà nào nhiều tình báo mật, tìm Cơ Quốc ở Cựu Nhật Tinh Hà"
+    },
+    {
+      "num": 987,
+      "title": "Chặt đay cắt đay nhanh chóng gọn gàng"
+    },
+    {
+      "num": 988,
+      "title": "Ghi vào sổ nhỏ"
+    },
+    {
+      "num": 989,
+      "title": "Trộm gà không thành lại mất nắm gạo"
+    },
+    {
+      "num": 990,
+      "title": "Tinh Hải lịch năm 729 (Cảm ơn minh chủ CzLB 200000 thưởng!)"
+    },
+    {
+      "num": 991,
+      "title": "Thủy triều lên (Một)"
+    },
+    {
+      "num": 992,
+      "title": "Thủy triều lên (Hai)"
+    },
+    {
+      "num": 993,
+      "title": "Xe buýt trong cấp Thiên Tai"
+    },
+    {
+      "num": 994,
+      "title": "Ba đổi một?"
+    },
+    {
+      "num": 995,
+      "title": "Bài toán khó"
+    },
+    {
+      "num": 996,
+      "title": "Bài toán của kẻ đầu sắt"
+    },
+    {
+      "num": 997,
+      "title": "Phong vân dần khởi"
+    },
+    {
+      "num": 998,
+      "title": "Trở về và nghênh chiến"
+    },
+    {
+      "num": 999,
+      "title": "Nữ thần Tử vong"
+    },
+    {
+      "num": 1000,
+      "title": "Trận đầu thắng lợi"
+    },
+    {
+      "num": 1001,
+      "title": "Ngóng chờ"
+    },
+    {
+      "num": 1002,
+      "title": "Một môn song siêu A"
+    },
+    {
+      "num": 1003,
+      "title": "“Mặt mũi”"
+    },
+    {
+      "num": 1004,
+      "title": "Đánh nhừ tử"
+    },
+    {
+      "num": 1005,
+      "title": "Quy luật đẫm máu ẩn giấu"
+    },
+    {
+      "num": 1006,
+      "title": "Lên server"
+    },
+    {
+      "num": 1007,
+      "title": "Dây dẫn được chôn xuống, phiên bản mở ra"
+    },
+    {
+      "num": 1008,
+      "title": "Lên server"
+    },
+    {
+      "num": 1009,
+      "title": "Máy chủ thế giới, bắt đầu trả thù"
+    },
+    {
+      "num": 1010,
+      "title": "Không đôi co mập mờ với ngươi, đánh ngươi thì sao chứ"
+    },
+    {
+      "num": 1011,
+      "title": "Phát súng đầu tiên của thế giới Tinh Lơi"
+    },
+    {
+      "num": 1012,
+      "title": "Người tốt nha! (Cảm ơn minh chủ Hoa Tuyết Giám đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 1013,
+      "title": "Quay lại nghề cũ, quen đường quen nẻo"
+    },
+    {
+      "num": 1014,
+      "title": "Báo Tinh Hải, sự điều tiết đằng sau hậu trường của đại kỹ sư Hàn"
+    },
+    {
+      "num": 1015,
+      "title": "Sự khiêu khích của Qua Lỗ Thản"
+    },
+    {
+      "num": 1016,
+      "title": "Võ đạo gia đỉnh cao"
+    },
+    {
+      "num": 1017,
+      "title": "Trăm phần trăm đối lập"
+    },
+    {
+      "num": 1018,
+      "title": "Tổn thọ cùng mây đen"
+    },
+    {
+      "num": 1019,
+      "title": "Quang Huy: Đừng trách anh em tuyệt tình, chỉ trách chị dâu quá quyến rũ"
+    },
+    {
+      "num": 1020,
+      "title": "Địa vị ngày càng trỗi dậy của người chơi"
+    },
+    {
+      "num": 1021,
+      "title": "Ác ma ư"
+    },
+    {
+      "num": 1022,
+      "title": "Linh hồn nhị ngũ tử cháy bừng bừng"
+    },
+    {
+      "num": 1023,
+      "title": "Nhảy việc"
+    },
+    {
+      "num": 1024,
+      "title": "Năng lượng trị liệu tiến giai —— kéo dài tuổi thọ"
+    },
+    {
+      "num": 1025,
+      "title": "Ruộng lúa mở rộng"
+    },
+    {
+      "num": 1026,
+      "title": "Lột xác thần tính"
+    },
+    {
+      "num": 1027,
+      "title": "Hoàng giả và đại đế chi bào"
+    },
+    {
+      "num": 1028,
+      "title": "Dự tính của đế quốc"
+    },
+    {
+      "num": 1029,
+      "title": "Động thái của đối thủ cạnh tranh"
+    },
+    {
+      "num": 1030,
+      "title": "Con đường tiến hóa gian nan cùng xuất thế"
+    },
+    {
+      "num": 1031,
+      "title": "Bọ ngựa bắt ve, chim sẻ rình sau"
+    },
+    {
+      "num": 1032,
+      "title": "Bí Chủ: Ta chưa từng thấy kẻ nào xui xẻo thế này"
+    },
+    {
+      "num": 1033,
+      "title": "\"Tiểu đệ có nhiều hơn nữa, cũng vẫn là solo\" —— Trích từ danh ngôn kinh điển của Cơ giới sư"
+    },
+    {
+      "num": 1034,
+      "title": "Nện cho đồng đội một trận nhừ tử"
+    },
+    {
+      "num": 1035,
+      "title": "Mua một tặng một?"
+    },
+    {
+      "num": 1036,
+      "title": "Cao Đức đau trứng"
+    },
+    {
+      "num": 1037,
+      "title": "Chiêu mộ"
+    },
+    {
+      "num": 1038,
+      "title": "Túc địch của vận mệnh Dị Thần! (Cảm ơn minh chủ Ma Ha Vô Lượng 0 đã thưởng 100000!)"
+    },
+    {
+      "num": 1039,
+      "title": "Kế hoạch bồi dưỡng Dị Thần cùng người chế tạo bảo vật vũ trụ"
+    },
+    {
+      "num": 1040,
+      "title": "Nhắm vào"
+    },
+    {
+      "num": 1041,
+      "title": "Chiêu trò tái hiện"
+    },
+    {
+      "num": 1042,
+      "title": "Ba đường quyền, đánh cho ngươi khóc thét"
+    },
+    {
+      "num": 1043,
+      "title": "Bùng nổ"
+    },
+    {
+      "num": 1044,
+      "title": "Dòng ngầm cùng vật mang"
+    },
+    {
+      "num": 1045,
+      "title": "Địch xuất"
+    },
+    {
+      "num": 1046,
+      "title": "Cường công cùng diễn viên"
+    },
+    {
+      "num": 1047,
+      "title": "Đa phương hành động, phong vân hội tụ (Cảm ơn đại minh chủ Thanh Ninh Tử đã thưởng mười vạn!)"
+    },
+    {
+      "num": 1048,
+      "title": "Kỹ năng truyền thống"
+    },
+    {
+      "num": 1049,
+      "title": "Ảnh đế (Cảm ơn minh chủ Độc giả 20190708054703944!)"
+    },
+    {
+      "num": 1050,
+      "title": "Bản tôn giáng lâm"
+    },
+    {
+      "num": 1051,
+      "title": "Bùng nổ"
+    },
+    {
+      "num": 1052,
+      "title": "Hắc Tinh tôi đây, không hack! (Cảm ơn đại gia Tái Tam Tu Trọng Sự đã tặng một triệu bạc!)"
+    },
+    {
+      "num": 1053,
+      "title": "Tổn binh thiệt tướng"
+    },
+    {
+      "num": 1054,
+      "title": "Xông vẫn phải xông thôi"
+    },
+    {
+      "num": 1055,
+      "title": "Kẻ khởi xướng"
+    },
+    {
+      "num": 1056,
+      "title": "Khách quý một vị (cảm ơn Thanh Ninh Tử đã là minh chủ cúng mười vạn tiền thưởng!)"
+    },
+    {
+      "num": 1057,
+      "title": "Bụi định hình (cảm ơn Bì Bì Giáp Mà Hai Chương đã là minh chủ cúng mười vạn tiền thưởng!)"
+    },
+    {
+      "num": 1058,
+      "title": "Ảnh hưởng"
+    },
+    {
+      "num": 1059,
+      "title": "Trận chiến phong thần (cảm ơn Thanh Ninh Tử đã là minh chủ cúng mười vạn tiền thưởng!)"
+    },
+    {
+      "num": 1060,
+      "title": "Kết toán phần thưởng (Cảm ơn 'Tái Tam Tu Trọng Sự' đã thưởng 58 vạn!)"
+    },
+    {
+      "num": 1061,
+      "title": "Quy hoạch, sinh nhật (Cảm ơn đại gia Họa Sách Tỷ Tỷ đã thưởng minh chủ 10 vạn!)"
+    },
+    {
+      "num": 1062,
+      "title": "Để cứu vãn vũ trụ, ta quyết định trở thành…… (Cảm ơn đại gia Bạch Y Nhiễm Sương Hoa y đã thưởng minh chủ 10 vạn!)"
+    },
+    {
+      "num": 1063,
+      "title": "Nhiệm vụ có độ khó phá vỡ tận trời (Cảm ơn đại gia Thanh Ninh Tử đã thưởng minh chủ 10 vạn!)"
+    },
+    {
+      "num": 1064,
+      "title": "Sói bị vây tiêu"
+    },
+    {
+      "num": 1065,
+      "title": "Đế quốc nhượng bộ, vũ trụ cuồng hoan"
+    },
+    {
+      "num": 1066,
+      "title": "Tôi sẽ cho cậu một điều kiện không thể chối từ"
+    },
+    {
+      "num": 1067,
+      "title": "Vòi tiền"
+    },
+    {
+      "num": 1068,
+      "title": "Công khai tỏ tình và vấn đề hội trưởng"
+    },
+    {
+      "num": 1069,
+      "title": "Mục tiêu săn sát của Hắc Đế"
+    },
+    {
+      "num": 1070,
+      "title": "Thế giới thứ nguyên thứ cấp"
+    },
+    {
+      "num": 1071,
+      "title": "Mốc son lịch sử Hư Không Chinh Phục Giả"
+    },
+    {
+      "num": 1072,
+      "title": "Cuộc gặp gỡ"
+    },
+    {
+      "num": 1073,
+      "title": "Hệ thống mới mà hạt thánh quang mang lại"
+    },
+    {
+      "num": 1074,
+      "title": "Vừa thoát hang hổ, lại vào hang sói"
+    },
+    {
+      "num": 1075,
+      "title": "Thế lực không nên xuất hiện ở thời đại này (Cảm ơn minh chủ Thương Hải Nhất Thanh Meo 1 đã thưởng 100.000!)"
+    },
+    {
+      "num": 1076,
+      "title": "Thánh Ước và kẻ khởi nguyên"
+    },
+    {
+      "num": 1077,
+      "title": "Minh Thổ và truyền thừa"
+    },
+    {
+      "num": 1078,
+      "title": "Thu hoạch bội thu"
+    },
+    {
+      "num": 1079,
+      "title": "Khắc Tô Da: Cậu tới hái trộm rau à?"
+    },
+    {
+      "num": 1080,
+      "title": "Cột mốc và người có tiếng nói"
+    },
+    {
+      "num": 1081,
+      "title": "Trở về"
+    },
+    {
+      "num": 1082,
+      "title": "Trao đổi và thành lập (Cảm ơn bạn miêu thử khống của hội trưởng với phần thưởng mười vạn!)"
+    },
+    {
+      "num": 1083,
+      "title": "Hiệp hội ảnh hưởng và Thánh Quang túc chủ"
+    },
+    {
+      "num": 1084,
+      "title": "Vật chủ hoàn hảo và mồi nhử"
+    },
+    {
+      "num": 1085,
+      "title": "Kẻ lão luyện số hai nào cũng muốn gác trên đầu số một (cảm ơn Minh chủ Đừng biết tôi là ai với phần thưởng hai mươi vạn!)"
+    },
+    {
+      "num": 1086,
+      "title": "Tìm được tổ chức rồi"
+    },
+    {
+      "num": 1087,
+      "title": "Sự đau trứng của Thánh Ước (cảm ơn phần thưởng hai triệu bốn trăm bảy mươi vạn của Tái Tam Tu Trọng Sự!)"
+    },
+    {
+      "num": 1088,
+      "title": "Cúp Hắc Tinh (Cảm ơn Minh chủ Thanh Ninh Tử đã thưởng lớn mười vạn!)"
+    },
+    {
+      "num": 1089,
+      "title": "Giác ngộ của tỏi tây"
+    },
+    {
+      "num": 1090,
+      "title": "Vạch trần (Cảm ơn bạn đọc 120801155936313 đã thưởng hai mươi vạn!)"
+    },
+    {
+      "num": 1091,
+      "title": "Khai mạc"
+    },
+    {
+      "num": 1092,
+      "title": "Dòng ngầm từ nơi xa"
+    },
+    {
+      "num": 1093,
+      "title": "Hộp ma Pandora"
+    },
+    {
+      "num": 1094,
+      "title": "Thần tính lột xác giai đoạn năm và hiệu ứng cánh bướm"
+    },
+    {
+      "num": 1095,
+      "title": "Đường vận mệnh bị nhiễu động"
+    },
+    {
+      "num": 1096,
+      "title": "Xin lỗi, kẻ kịch thấu chính là muốn làm gì thì làm"
+    },
+    {
+      "num": 1097,
+      "title": "Người Lập Thệ: Nhất định có nội gián!"
+    },
+    {
+      "num": 1098,
+      "title": "Can thiệp thực tại và mối nguy ẩn giấu (bản chỉnh sửa)"
+    },
+    {
+      "num": 1099,
+      "title": "Thảm họa bùng phát sớm"
+    },
+    {
+      "num": 1100,
+      "title": "Tập kết"
+    },
+    {
+      "num": 1101,
+      "title": "Những dòng ngầm từ các phía (Cảm ơn đạo hữu Fudaozun đã thưởng minh chủ một trăm vạn!)"
+    },
+    {
+      "num": 1102,
+      "title": "Liềm pháp chuẩn xác, một nhát một củ cải"
+    },
+    {
+      "num": 1103,
+      "title": "Ung thư vũ trụ, chất xúc tác của thảm họa"
+    },
+    {
+      "num": 1104,
+      "title": "Chấp pháp câu cá sao?! (Cảm ơn minh chủ Thanh Ninh Tử vì phần thưởng mười vạn!)"
+    },
+    {
+      "num": 1105,
+      "title": "Rút củi dưới đáy nồi và sự trấn áp"
+    },
+    {
+      "num": 1106,
+      "title": "Khoa học không xong, huyền học bù vào"
+    },
+    {
+      "num": 1107,
+      "title": "Đại Hiền Giả Cơ Giới"
+    },
+    {
+      "num": 1108,
+      "title": "Bí mật chỉ một người biết"
+    },
+    {
+      "num": 1109,
+      "title": "Đối sách"
+    },
+    {
+      "num": 1110,
+      "title": "Mạch Ni Tốn: Ta thiếu cảm giác an toàn"
+    },
+    {
+      "num": 1111,
+      "title": "Cạm bẫy và truy kích"
+    },
+    {
+      "num": 1112,
+      "title": "Đối đầu và đàm phán"
+    },
+    {
+      "num": 1113,
+      "title": "Sự lựa chọn của thời đại"
+    },
+    {
+      "num": 1114,
+      "title": "Song thần giáng lâm"
+    },
+    {
+      "num": 1115,
+      "title": "Cơ giới sư mạnh nhất hỏa lực toàn khai"
+    },
+    {
+      "num": 1116,
+      "title": "Cậu nạp tiền, tôi bật hack, đôi bên đều có tương lai tươi sáng (Cảm ơn phần thưởng một trăm nghìn của Thanh Ninh Tử!)"
+    },
+    {
+      "num": 1117,
+      "title": "Đắc đạo nhiều trợ"
+    },
+    {
+      "num": 1118,
+      "title": "Đào góc tường"
+    },
+    {
+      "num": 1119,
+      "title": "Móc sạch bảo bối của lão Mạc Đầu"
+    },
+    {
+      "num": 1120,
+      "title": "Cố vấn đặc ước"
+    },
+    {
+      "num": 1121,
+      "title": "Biến hóa và công bố"
+    },
+    {
+      "num": 1122,
+      "title": "Bản vẽ tàn khuyết"
+    },
+    {
+      "num": 1123,
+      "title": "Nội gián ở trạng thái chồng chất"
+    },
+    {
+      "num": 1124,
+      "title": "Thông tin về Thánh sở"
+    },
+    {
+      "num": 1125,
+      "title": "Giải hòa bình Stuart"
+    },
+    {
+      "num": 1126,
+      "title": "Tác hợp và tiên tri"
+    },
+    {
+      "num": 1127,
+      "title": "Tra không có người này"
+    },
+    {
+      "num": 1128,
+      "title": "Trạng thái thông tin chiều không gian cao và tự chui đầu vào lưới"
+    },
+    {
+      "num": 1129,
+      "title": "Thăm dò và tình báo"
+    },
+    {
+      "num": 1130,
+      "title": "Tôi giao cô ấy cho cậu đấy"
+    },
+    {
+      "num": 1131,
+      "title": "Cuộc họp định kỳ và trêu chọc"
+    },
+    {
+      "num": 1132,
+      "title": "Đối đầu gay gắt"
+    },
+    {
+      "num": 1133,
+      "title": "Đó chắc chắn là Hắc Tinh giả"
+    },
+    {
+      "num": 1134,
+      "title": "Các anh em, đến lượt chúng ta cứu Quân đoàn Hắc Tinh rồi!"
+    },
+    {
+      "num": 1135,
+      "title": "Đây, chính là yêu"
+    },
+    {
+      "num": 1136,
+      "title": "Cơ Quốc! Nộp mạng đây!"
+    },
+    {
+      "num": 1137,
+      "title": "Người chơi không quậy phá chính là không có linh hồn"
+    },
+    {
+      "num": 1138,
+      "title": "Sự coi trọng của đại lãnh đạo"
+    },
+    {
+      "num": 1139,
+      "title": "Tên khốn này quả thật không có liêm sỉ"
+    },
+    {
+      "num": 1140,
+      "title": "Bản vẽ mới và tiến độ thế giới thụ"
+    },
+    {
+      "num": 1141,
+      "title": "Suy luận không có kẽ hở (Hôm nay số chữ chương hơi “có lộc”)"
+    },
+    {
+      "num": 1142,
+      "title": "Sơ tâm cùng hợp tác, ẩn giấu tuyến cốt truyện"
+    },
+    {
+      "num": 1143,
+      "title": "Hồ điệp: Có thể đừng ngày nào cũng bắt ta vỗ cánh không?"
+    },
+    {
+      "num": 1144,
+      "title": "Đệ tam thánh sở cùng kế hoạch thức tỉnh"
+    },
+    {
+      "num": 1145,
+      "title": "Thọ huân cùng làm khó"
+    },
+    {
+      "num": 1146,
+      "title": "Chỉ muốn tạo một tin lớn"
+    },
+    {
+      "num": 1147,
+      "title": "Yêu cầu tham chiến của Tam đại văn minh"
+    },
+    {
+      "num": 1148,
+      "title": "Lời tiên tri về Đứa Con Vận Mệnh"
+    },
+    {
+      "num": 1149,
+      "title": "Quy định chống lũng đoạn và nhiệm vụ cốt truyện chế tạo (Cảm ơn minh chủ Đông Đông tiểu ca!)"
+    },
+    {
+      "num": 1150,
+      "title": "Tác Tể, ngươi lật xe rồi!"
+    },
+    {
+      "num": 1151,
+      "title": "Ung thư vũ trụ khiến người ta sợ hãi (cảm ơn người ở dưới cây ngô đồng đã thưởng đại minh chủ mười vạn!)"
+    },
+    {
+      "num": 1152,
+      "title": "Bố cục"
+    },
+    {
+      "num": 1153,
+      "title": "Khốn cảnh của Ngân Cách"
+    },
+    {
+      "num": 1154,
+      "title": "Người chơi cờ"
+    },
+    {
+      "num": 1155,
+      "title": "Mưu tính cứu nước đường vòng"
+    },
+    {
+      "num": 1156,
+      "title": "Chuyển Hồn Nghi"
+    },
+    {
+      "num": 1157,
+      "title": "Ký sinh cùng đột biến"
+    },
+    {
+      "num": 1158,
+      "title": "Lời tiên tri về Đứa Con Vận Mệnh"
+    },
+    {
+      "num": 1159,
+      "title": "Long Tọa ngược lân"
+    },
+    {
+      "num": 1160,
+      "title": "Mò kim đáy biển chính là sở trường của ta (cảm ơn Minh chủ Vương Tư mười vạn thưởng!)"
+    },
+    {
+      "num": 1161,
+      "title": "Mâu thuẫn ngược dời của Ma Đa"
+    },
+    {
+      "num": 1162,
+      "title": "Manh mối và nồi đen"
+    },
+    {
+      "num": 1163,
+      "title": "Mạch Ni Tốn dao động"
+    },
+    {
+      "num": 1164,
+      "title": "Gặp gỡ và đối đầu"
+    },
+    {
+      "num": 1165,
+      "title": "Mạch Ni Tốn dao động"
+    },
+    {
+      "num": 1166,
+      "title": "Tội đồ"
+    },
+    {
+      "num": 1167,
+      "title": "Chém nát!"
+    },
+    {
+      "num": 1168,
+      "title": "Tôi chưa chắc đã lời, nhưng ông chắc chắn lỗ sặc máu (Cảm ơn đại lão Thanh Ninh Tử đã tặng bạc minh chủ!)"
+    },
+    {
+      "num": 1169,
+      "title": "Ai ai cũng có thể là Cơ Quốc"
+    },
+    {
+      "num": 1170,
+      "title": "Chuyện của tín đồ, sao có thể tính là phản bội (Cảm ơn Bạch Ngân Minh của không nghiêm túc viết liền livestream đánh đòn Bì Bì Giáp)"
+    },
+    {
+      "num": 1171,
+      "title": "Lai lịch của Chuyển Hồn Nghi, kỹ năng tổ hợp chợt lóe linh quang"
+    },
+    {
+      "num": 1172,
+      "title": "Ba hơi khí Mạch Ni Tốn"
+    },
+    {
+      "num": 1173,
+      "title": "Giáng lâm tiền tuyến"
+    },
+    {
+      "num": 1174,
+      "title": "Nghiền ép quân đội"
+    },
+    {
+      "num": 1175,
+      "title": "Đây là kỹ thuật các người đã bỏ lỡ"
+    },
+    {
+      "num": 1176,
+      "title": "Thấm sâu và công tâm"
+    },
+    {
+      "num": 1177,
+      "title": "Phe chống đối ngóc đầu"
+    },
+    {
+      "num": 1178,
+      "title": "Đàn hạc khởi động"
+    },
+    {
+      "num": 1179,
+      "title": "Ám sát"
+    },
+    {
+      "num": 1180,
+      "title": "Mày thật mẹ nó là một thiên tài nhỏ"
+    },
+    {
+      "num": 1181,
+      "title": "Các người chỉ nghĩ đến tầng thứ nhất, thực ra tôi đã ở tầng thứ năm rồi"
+    },
+    {
+      "num": 1182,
+      "title": "Bị loại"
+    },
+    {
+      "num": 1183,
+      "title": "Sát thủ không muốn làm mãng phu không phải là một sát thủ tốt"
+    },
+    {
+      "num": 1184,
+      "title": "Quốc chiến"
+    },
+    {
+      "num": 1185,
+      "title": "Võ đạo gia: Hiện tại nước mắt chảy trong mắt, đều là lúc chọn nghề não đã úng nước"
+    },
+    {
+      "num": 1186,
+      "title": "Tác La Kim: Hắc Tinh! Thao tác của ngươi, ta đã học được rồi!"
+    },
+    {
+      "num": 1187,
+      "title": "Kịch bản không viết như thế này! (Cảm ơn minh chủ Nhất Sinh Tức Mặc đã thưởng một trăm nghìn!)"
+    },
+    {
+      "num": 1188,
+      "title": "Cảm ơn sự hỗ trợ của Tác Tể"
+    },
+    {
+      "num": 1189,
+      "title": "Thăng tiến"
+    },
+    {
+      "num": 1190,
+      "title": "Thuộc tính bùng nổ"
+    },
+    {
+      "num": 1191,
+      "title": "Bí văn thần tính lột xác và nhiệm vụ độ khó cực cao"
+    },
+    {
+      "num": 1192,
+      "title": "Không gian quỷ dị"
+    },
+    {
+      "num": 1193,
+      "title": "Hệ thống chiến tranh di động"
+    },
+    {
+      "num": 1194,
+      "title": "Phát hiện khó tin, nhiệm vụ ẩn cấp S (cảm ơn Minh chủ Trần Cốc Tạp Sự đã thưởng ba mươi ba vạn!)"
+    },
+    {
+      "num": 1195,
+      "title": "Đội truy bắt"
+    },
+    {
+      "num": 1196,
+      "title": "Dị bảo thất hiệu"
+    },
+    {
+      "num": 1197,
+      "title": "Bí văn (Thượng)"
+    },
+    {
+      "num": 1198,
+      "title": "Bí văn (Hạ) (Cảm ơn Bạch Đích Đậu Đậu đã làm minh chủ mười vạn thưởng!)"
+    },
+    {
+      "num": 1199,
+      "title": "Cuống lên rồi (Cảm ơn Đỗ Tiểu Sanh đã làm minh chủ ba mươi vạn thưởng!!)"
+    },
+    {
+      "num": 1200,
+      "title": "Kho báu công nghệ và bắt đầu hành động"
+    },
+    {
+      "num": 1201,
+      "title": "Thánh sở phục hồi và điều hổ ly sơn"
+    },
+    {
+      "num": 1202,
+      "title": "Tập kích"
+    },
+    {
+      "num": 1203,
+      "title": "Người nhận gậy"
+    },
+    {
+      "num": 1204,
+      "title": "Sứ mệnh mới"
+    },
+    {
+      "num": 1205,
+      "title": "Trở về"
+    },
+    {
+      "num": 1206,
+      "title": "Vòng chung kết và tấu hề"
+    },
+    {
+      "num": 1207,
+      "title": "Vương triều ra đời"
+    },
+    {
+      "num": 1208,
+      "title": "Phỏng vấn và dự đoán"
+    },
+    {
+      "num": 1209,
+      "title": "Thề ước giả trở về"
+    },
+    {
+      "num": 1210,
+      "title": "Khôi phục người ban sơ"
+    },
+    {
+      "num": 1211,
+      "title": "Người Lập Thệ: Ta ngu người rồi"
+    },
+    {
+      "num": 1212,
+      "title": "Ý định hợp tác"
+    },
+    {
+      "num": 1213,
+      "title": "Thời đại thay đổi rồi"
+    },
+    {
+      "num": 1214,
+      "title": "Tay nghề lão luyện (Cảm ơn Thanh Ninh Tử Minh chủ vì phần thưởng hai trăm vạn!)"
+    },
+    {
+      "num": 1215,
+      "title": "Khóa học hủy diệt sự tự tin"
+    },
+    {
+      "num": 1216,
+      "title": "Sát thủ người cao tuổi"
+    },
+    {
+      "num": 1217,
+      "title": "Khói lửa chiến tranh che trời, Cao Đức biến động (cảm ơn lingcu đã thưởng chức Minh chủ trăm vạn!)"
+    },
+    {
+      "num": 1218,
+      "title": "[Dị năng · Tân sinh]"
+    },
+    {
+      "num": 1219,
+      "title": "Suy luận và mối họa ngầm"
+    },
+    {
+      "num": 1220,
+      "title": "Giải phóng (Cảm ơn đại lão Bóng Hình Xinh Đẹp đã thưởng 100.000!)"
+    },
+    {
+      "num": 1221,
+      "title": "Binh không yếm trá"
+    },
+    {
+      "num": 1222,
+      "title": "Sự giằng co và đón chào tân binh (Cảm ơn đại gia Bạch kim 'Ấu Nhi Viên Nhất Bả Thủ' đã thưởng lớn mười vạn tệ!)"
+    },
+    {
+      "num": 1223,
+      "title": "Khuấy đục nước"
+    },
+    {
+      "num": 1224,
+      "title": "Nghi ngờ và tập kích"
+    },
+    {
+      "num": 1225,
+      "title": "Đừng giả vờ nữa, ta biết ngươi là ai"
+    },
+    {
+      "num": 1226,
+      "title": "Phong cách của tôi càng ngày càng giống phản diện"
+    },
+    {
+      "num": 1227,
+      "title": "Sự việc và ngỡ ngàng"
+    },
+    {
+      "num": 1228,
+      "title": "Vừa ăn cướp vừa la làng"
+    },
+    {
+      "num": 1229,
+      "title": "Người sói lên chức cảnh sát"
+    },
+    {
+      "num": 1230,
+      "title": "Sói cảnh sát chốt phiếu"
+    },
+    {
+      "num": 1231,
+      "title": "Bậc thầy dẫn nhịp"
+    },
+    {
+      "num": 1232,
+      "title": "Mọi chuyện đã ngã ngũ (Cảm ơn đại lão Cô Chu Nguyệt Dạ đã thưởng 100.000 minh chủ!)"
+    },
+    {
+      "num": 1233,
+      "title": "Đế quốc thay ngôi, nguyên thủ mới (Cảm ơn minh chủ tôn quý Mộ Đạt Khắc Nhĩ đã thưởng mười vạn!)"
+    },
+    {
+      "num": 1234,
+      "title": "Người kế thừa Minh Thổ"
+    },
+    {
+      "num": 1235,
+      "title": "Con đường chưa từng nghĩ tới"
+    },
+    {
+      "num": 1236,
+      "title": "Đại kế hoạch của Tác La Kim (Cảm ơn minh chủ Đông Qua Ái đã thưởng 100.000!)"
+    },
+    {
+      "num": 1237,
+      "title": "Khảo sát và quyết toán"
+    },
+    {
+      "num": 1238,
+      "title": "Cảm ứng của Tác Tể"
+    },
+    {
+      "num": 1239,
+      "title": "Cuộc phiêu lưu kỳ lạ của Tác Tác (thượng)"
+    },
+    {
+      "num": 1240,
+      "title": "Cuộc phiêu lưu kỳ diệu của Tác Tác (phần giữa)"
+    },
+    {
+      "num": 1241,
+      "title": "Cuộc phiêu lưu kỳ diệu của Tác La Kim (hạ)"
+    },
+    {
+      "num": 1242,
+      "title": "Thánh Ước: Diễn kịch, chúng tôi nghiêm túc đấy!"
+    },
+    {
+      "num": 1243,
+      "title": "Trấn áp"
+    },
+    {
+      "num": 1244,
+      "title": "Minh Thổ hoan nghênh bạn"
+    },
+    {
+      "num": 1245,
+      "title": "Thẳng thắn và nghi ngờ"
+    },
+    {
+      "num": 1246,
+      "title": "Thôn tính"
+    },
+    {
+      "num": 1247,
+      "title": "Tinh Hải lịch năm 780"
+    },
+    {
+      "num": 1248,
+      "title": "Bốn mươi năm"
+    },
+    {
+      "num": 1249,
+      "title": "Cứng đầu"
+    },
+    {
+      "num": 1250,
+      "title": "Thời đại của Hắc Tinh"
+    },
+    {
+      "num": 1251,
+      "title": "Tiến vào"
+    },
+    {
+      "num": 1252,
+      "title": "Thời đại của Hắc Tinh"
+    },
+    {
+      "num": 1253,
+      "title": "Những điều mắt thấy tai nghe ở Thánh Sở thứ ba (hạ)"
+    },
+    {
+      "num": 1254,
+      "title": "Nhiệm vụ vòng bốn và lần hồi sinh thứ hai"
+    },
+    {
+      "num": 1255,
+      "title": "Châm ngòi"
+    },
+    {
+      "num": 1256,
+      "title": "Lập uy và răn đe"
+    },
+    {
+      "num": 1257,
+      "title": "Thăm dò và đón người mới"
+    },
+    {
+      "num": 1258,
+      "title": "Cách ứng phó của Ba Nền Văn Minh"
+    },
+    {
+      "num": 1259,
+      "title": "Thời thế đổi thay"
+    },
+    {
+      "num": 1260,
+      "title": "Cách ứng phó của Ba Nền Văn Minh"
+    },
+    {
+      "num": 1261,
+      "title": "Thần tính của Cơ giới, mưu đồ của Siêu Tinh Đoàn"
+    },
+    {
+      "num": 1262,
+      "title": "Dòng chảy ngầm lại cuộn lên rồi"
+    },
+    {
+      "num": 1263,
+      "title": "Bộ kích hoạt kỳ ngộ của Phất Đinh"
+    },
+    {
+      "num": 1264,
+      "title": "Thần tính của Cơ giới, mưu đồ của siêu tinh đoàn"
+    },
+    {
+      "num": 1265,
+      "title": "Phất Đinh du hành"
+    },
+    {
+      "num": 1266,
+      "title": "《Dự đoán trước》"
+    },
+    {
+      "num": 1267,
+      "title": "Anh hùng thiên hạ, hết thảy đều nằm trong tay ta"
+    },
+    {
+      "num": 1268,
+      "title": "Khởi động"
+    },
+    {
+      "num": 1269,
+      "title": "Phiên bản mới, Kỷ nguyên Hắc Tinh! (Cảm ơn minh chủ Thanh Ninh Tử!)"
+    },
+    {
+      "num": 1270,
+      "title": "Nghệ thuật quản lý rau hẹ và mưu đồ xâm nhập"
+    },
+    {
+      "num": 1271,
+      "title": "Tiến bộ vượt bậc và bất ngờ"
+    },
+    {
+      "num": 1272,
+      "title": "Kẻ phản bội và người quen"
+    },
+    {
+      "num": 1273,
+      "title": "Đàm phán"
+    },
+    {
+      "num": 1274,
+      "title": "Hàn Tiêu: Không sai, tôi mới là Cơ Quốc thật sự"
+    },
+    {
+      "num": 1275,
+      "title": "Tu thành chính quả"
+    },
+    {
+      "num": 1276,
+      "title": "Chuỗi phúc lợi liên hoàn, bài chém rau hẹ"
+    },
+    {
+      "num": 1277,
+      "title": "Trừng phạt"
+    },
+    {
+      "num": 1278,
+      "title": "Họp bàn và kẻ dự phòng"
+    },
+    {
+      "num": 1279,
+      "title": "Rút khỏi hội và điều kiện"
+    },
+    {
+      "num": 1280,
+      "title": "Dùng tay không bắt sói và màn thăm dò kín đáo của ba nền văn minh lớn"
+    },
+    {
+      "num": 1281,
+      "title": "Aurora (gạch đi)……Phất Đinh kỳ ngộ ký"
+    },
+    {
+      "num": 1282,
+      "title": "Muốn có thêm một ông anh rể không?"
+    },
+    {
+      "num": 1283,
+      "title": "Aurora (gạch đi)……Phất Đinh kỳ ngộ ký"
+    },
+    {
+      "num": 1284,
+      "title": "Lai lịch kinh người"
+    },
+    {
+      "num": 1285,
+      "title": "Bóng tối của Thế Giới Thụ, cỗ máy có giá trị phi thường"
+    },
+    {
+      "num": 1286,
+      "title": "Một mũi tên xuyên mây"
+    },
+    {
+      "num": 1287,
+      "title": "Đại chiến công hội"
+    },
+    {
+      "num": 1288,
+      "title": "Không coi ai ra gì"
+    },
+    {
+      "num": 1289,
+      "title": "Trở mặt?"
+    },
+    {
+      "num": 1290,
+      "title": "Phản ứng và thái độ"
+    },
+    {
+      "num": 1291,
+      "title": "Kẻ xấu và chỗ dựa"
+    },
+    {
+      "num": 1292,
+      "title": "Tinh Hải loạn hay không, Hắc Tinh nói là được"
+    },
+    {
+      "num": 1293,
+      "title": "Tệp ký ức và chuyên tài riêng đầu tiên"
+    },
+    {
+      "num": 1294,
+      "title": "Chìa khóa thứ hai và hành động xâm nhập"
+    },
+    {
+      "num": 1295,
+      "title": "Vây công"
+    },
+    {
+      "num": 1296,
+      "title": "Đột nhập kho dữ liệu và biến số"
+    },
+    {
+      "num": 1297,
+      "title": "Bất đồng"
+    },
+    {
+      "num": 1298,
+      "title": "Cơn bão ập đến"
+    },
+    {
+      "num": 1299,
+      "title": "Biến động bất ngờ"
+    },
+    {
+      "num": 1300,
+      "title": "Đàm phán và tối hậu thư"
+    },
+    {
+      "num": 1301,
+      "title": "Ám tử và thử thách"
+    },
+    {
+      "num": 1302,
+      "title": "Trận áp đảo"
+    },
+    {
+      "num": 1303,
+      "title": "Lấy chiến nuôi chiến và trò mới"
+    },
+    {
+      "num": 1304,
+      "title": "Trận chiến khốc liệt"
+    },
+    {
+      "num": 1305,
+      "title": "Kẻ chọn thần vượt chuẩn, Quốc Khí Hư Linh mạnh khủng khiếp (Cảm ơn phần thưởng 100.000 của minh chủ Thanh Ninh Tử!)"
+    },
+    {
+      "num": 1306,
+      "title": "Bại trận (Cảm ơn đại gia Bì Bì Giáp đã thưởng mười vạn! Quả là ngắn mà yếu, ai cũng biết!)"
+    },
+    {
+      "num": 1307,
+      "title": "Biến cố (Cảm ơn đại ca bóng hình xinh đẹp đã thưởng 100.000 minh chủ!)"
+    },
+    {
+      "num": 1308,
+      "title": "Cược một phen"
+    },
+    {
+      "num": 1309,
+      "title": "Thẳng thắn nói rõ (Cảm ơn minh chủ 110.000 thưởng của Khải Cương!)"
+    },
+    {
+      "num": 1310,
+      "title": "Đàm phán, giai đoạn mới"
+    },
+    {
+      "num": 1311,
+      "title": "Đánh thức (Cảm ơn OuuuuI đã thưởng 500.000 minh chủ!)"
+    },
+    {
+      "num": 1312,
+      "title": "Dẫn trước"
+    },
+    {
+      "num": 1313,
+      "title": "Phản ứng"
+    },
+    {
+      "num": 1314,
+      "title": "Biến động"
+    },
+    {
+      "num": 1315,
+      "title": "Cảm ứng của Đứa Con Vận Mệnh"
+    },
+    {
+      "num": 1316,
+      "title": "Tranh chấp"
+    },
+    {
+      "num": 1317,
+      "title": "Lập quốc và lên đường"
+    },
+    {
+      "num": 1318,
+      "title": "Không chỗ trốn"
+    },
+    {
+      "num": 1319,
+      "title": "Kiên quyết"
+    },
+    {
+      "num": 1320,
+      "title": "Bí mật và kẻ truy đuổi"
+    },
+    {
+      "num": 1321,
+      "title": "Du kích"
+    },
+    {
+      "num": 1322,
+      "title": "Dùng lực phá xảo"
+    },
+    {
+      "num": 1323,
+      "title": "Thoát thân và nỗi kiêng dè"
+    },
+    {
+      "num": 1324,
+      "title": "Nhân quả"
+    },
+    {
+      "num": 1325,
+      "title": "Khúc dạo"
+    },
+    {
+      "num": 1326,
+      "title": "Dẫn đường"
+    },
+    {
+      "num": 1327,
+      "title": "Nhận ra"
+    },
+    {
+      "num": 1328,
+      "title": "Chặn giết"
+    },
+    {
+      "num": 1329,
+      "title": "Công khai và hưởng ứng"
+    },
+    {
+      "num": 1330,
+      "title": "Tính toán và kẻ địch đến"
+    },
+    {
+      "num": 1331,
+      "title": "Chạm trán và điều chỉnh"
+    },
+    {
+      "num": 1332,
+      "title": "Tập kết"
+    },
+    {
+      "num": 1333,
+      "title": "Lợi thế tình báo"
+    },
+    {
+      "num": 1334,
+      "title": "Cường giả mạnh nhất của Thế Giới Thụ"
+    },
+    {
+      "num": 1335,
+      "title": "Giao chiến"
+    },
+    {
+      "num": 1336,
+      "title": "Kịch chiến (thượng)"
+    },
+    {
+      "num": 1337,
+      "title": "Kịch chiến (Hạ)"
+    },
+    {
+      "num": 1338,
+      "title": "Đòn phối hợp, phiên bản nâng cấp cùng xuống Hoàng Tuyền"
+    },
+    {
+      "num": 1339,
+      "title": "Khó nhằn"
+    },
+    {
+      "num": 1340,
+      "title": "Thế thắng"
+    },
+    {
+      "num": 1341,
+      "title": "Có sữa là mẹ"
+    },
+    {
+      "num": 1342,
+      "title": "Một mẻ béo bở của Minh Thổ"
+    },
+    {
+      "num": 1343,
+      "title": "Kiềm chế và tiến vào"
+    },
+    {
+      "num": 1344,
+      "title": "Vơ vét và tâm tư"
+    },
+    {
+      "num": 1345,
+      "title": "Lôi Nhĩ Ba dải phòng hộ không gian (Cảm ơn Minh chủ CLV Quất Tử đã thưởng mười bảy vạn!)"
+    },
+    {
+      "num": 1346,
+      "title": "Giằng co"
+    },
+    {
+      "num": 1347,
+      "title": "Trở về và kho báu kỹ thuật"
+    },
+    {
+      "num": 1348,
+      "title": "Hồi sinh và bày tỏ lập trường"
+    },
+    {
+      "num": 1349,
+      "title": "Xung đột"
+    },
+    {
+      "num": 1350,
+      "title": "Nói thật cũng chẳng ai tin"
+    },
+    {
+      "num": 1351,
+      "title": "Ông cháu và sự nhận ra"
+    },
+    {
+      "num": 1352,
+      "title": "Di cư và lời thách đấu (Cảm ơn minh chủ đã thưởng mười vạn nhân kỳ nghỉ xem lại!)"
+    },
+    {
+      "num": 1353,
+      "title": "Võ đạo gia chưa bao giờ làm người ta thất vọng"
+    },
+    {
+      "num": 1354,
+      "title": "Lựa chọn của Phan Nhĩ Cống và đợt tấn công mới"
+    },
+    {
+      "num": 1355,
+      "title": "Định Thụ Vương"
+    },
+    {
+      "num": 1356,
+      "title": "Chiến tranh tiêu hao và thế yếu"
+    },
+    {
+      "num": 1357,
+      "title": "Cuộc va chạm lần hai, vị Thụ Vương chưa từng biết"
+    },
+    {
+      "num": 1358,
+      "title": "Phong ấn tư duy, Hyperion xuất trận"
+    },
+    {
+      "num": 1359,
+      "title": "Tâm Thụ Vương lắm mồm và kế hoạch phong ấn"
+    },
+    {
+      "num": 1360,
+      "title": "Coi cái chết như về nhà và canh bạc (Cảm ơn minh chủ Thiên _ Huyễn đã thưởng 120.000!)"
+    },
+    {
+      "num": 1361,
+      "title": "Định Thụ Vương: Cái bình nước của anh, tôi bao thầu!"
+    },
+    {
+      "num": 1362,
+      "title": "Giấc xuân không dấu vết, kỳ chuẩn bị chiến đấu cuối cùng"
+    },
+    {
+      "num": 1363,
+      "title": "Quyết tâm và bóng tối"
+    },
+    {
+      "num": 1364,
+      "title": "Tập huấn và dị thường"
+    },
+    {
+      "num": 1365,
+      "title": "Vô Giới Chi Vương"
+    },
+    {
+      "num": 1366,
+      "title": "Giao dịch bất ngờ"
+    },
+    {
+      "num": 1367,
+      "title": "Kỳ ngộ và lời nói dối"
+    },
+    {
+      "num": 1368,
+      "title": "Hào quang may mắn, mãi mãi là thần!"
+    },
+    {
+      "num": 1369,
+      "title": "Hiện trạng của cổ phiếu tiềm năng"
+    },
+    {
+      "num": 1370,
+      "title": "Nghi kỵ và phản ứng"
+    },
+    {
+      "num": 1371,
+      "title": "Thuyết phục và trở về"
+    },
+    {
+      "num": 1372,
+      "title": "Hóa ra anh lừa là bọn tôi!"
+    },
+    {
+      "num": 1373,
+      "title": "Ván cược do thiên phú định đoạt"
+    },
+    {
+      "num": 1374,
+      "title": "Thù oán của ngươi liên quan quái gì đến ta"
+    },
+    {
+      "num": 1375,
+      "title": "Đánh một trận và lập uy"
+    },
+    {
+      "num": 1376,
+      "title": "Lung lay và năng lực khiêu khích"
+    },
+    {
+      "num": 1377,
+      "title": "Người may mắn đến cả nhiệm vụ thăng cấp cũng khác người"
+    },
+    {
+      "num": 1378,
+      "title": "Cơ hội thăng hoa, Chốn cuối của tàn hồn"
+    },
+    {
+      "num": 1379,
+      "title": "Siêu cấp A Phất Đinh"
+    },
+    {
+      "num": 1380,
+      "title": "Hela bế quan tu dưỡng, kinh nghiệm đã đầy"
+    },
+    {
+      "num": 1381,
+      "title": "Cửa ải tiến giai, vũ trụ bao la"
+    },
+    {
+      "num": 1382,
+      "title": "Giao dịch"
+    },
+    {
+      "num": 1383,
+      "title": "Di lực Siêu Thần, ý thức tàn lưu"
+    },
+    {
+      "num": 1384,
+      "title": "Tọa độ"
+    },
+    {
+      "num": 1385,
+      "title": "Tai ương công nghệ, bộ phát sóng u năng"
+    },
+    {
+      "num": 1386,
+      "title": "Thăng bậc thần hóa, tiến hóa chủng tộc!"
+    },
+    {
+      "num": 1387,
+      "title": "Trời đất cùng ta sinh ra, vạn vật cùng ta hợp nhất"
+    },
+    {
+      "num": 1388,
+      "title": "Hư Linh: Cảm giác không lỗ, mà còn lời chút đỉnh (Cảm ơn minh chủ Ta Là Trích Tiên Nhân đã thưởng mười vạn!)"
+    },
+    {
+      "num": 1389,
+      "title": "Bản vẽ truyền thừa và ngả bài"
+    },
+    {
+      "num": 1390,
+      "title": "Cuộc họp và tiến giai"
+    },
+    {
+      "num": 1391,
+      "title": "Gậy ông đập lưng ông"
+    },
+    {
+      "num": 1392,
+      "title": "Tôm nõn tim heo"
+    },
+    {
+      "num": 1393,
+      "title": "Đánh thường nghiền nát"
+    },
+    {
+      "num": 1394,
+      "title": "Kế thừa"
+    },
+    {
+      "num": 1395,
+      "title": "Xếp lại thứ bậc, đại ca từ trên trời rơi xuống"
+    },
+    {
+      "num": 1396,
+      "title": "Thần khí quần chiến và lời thỉnh cầu"
+    },
+    {
+      "num": 1397,
+      "title": "Lần thử của Hư Linh"
+    },
+    {
+      "num": 1398,
+      "title": "Cắt lỗ (Cảm ơn minh chủ Khải Cương đã thưởng mười vạn!)"
+    },
+    {
+      "num": 1399,
+      "title": "Một tiếng hô vang"
+    },
+    {
+      "num": 1400,
+      "title": "Ra đời lăn lộn, sớm muộn gì cũng phải trả"
+    },
+    {
+      "num": 1401,
+      "title": "Bóng tối giáng lâm"
+    },
+    {
+      "num": 1402,
+      "title": "Biến đổi và tình thế"
+    },
+    {
+      "num": 1403,
+      "title": "Giao phong"
+    },
+    {
+      "num": 1404,
+      "title": "Hình thái mới của Hela"
+    },
+    {
+      "num": 1405,
+      "title": "Địch Nhĩ Long: Kéo thù hận, tôi là dân chuyên nghiệp"
+    },
+    {
+      "num": 1406,
+      "title": "Trấn Thụ Vương: Đây đều là âm mưu, đừng hòng gài được ta!"
+    },
+    {
+      "num": 1407,
+      "title": "Câu cá và ứng phó"
+    },
+    {
+      "num": 1408,
+      "title": "Cảm ứng đặc biệt, Xu Xà chào đời"
+    },
+    {
+      "num": 1409,
+      "title": "Biến số ẩn giấu"
+    },
+    {
+      "num": 1410,
+      "title": "Kẻ ẩn nấp"
+    },
+    {
+      "num": 1411,
+      "title": "Biến cố"
+    },
+    {
+      "num": 1412,
+      "title": "Giao chiến và xuất thế"
+    },
+    {
+      "num": 1413,
+      "title": "Phục kích"
+    },
+    {
+      "num": 1414,
+      "title": "Sức chiến đấu nghiền ép và Thụ Thần khuyết tật"
+    },
+    {
+      "num": 1415,
+      "title": "Kịch chiến và khoảng cách"
+    },
+    {
+      "num": 1416,
+      "title": "Bí mật và sự thật"
+    },
+    {
+      "num": 1417,
+      "title": "Hàn Tiêu: Cảm ơn bạn hiền đã tặng sát thủ giản"
+    },
+    {
+      "num": 1418,
+      "title": "Nỗi bực của Siêu Tinh Đoàn, cập nhật phiên bản"
+    },
+    {
+      "num": 1419,
+      "title": "Lên server và manh mối"
+    },
+    {
+      "num": 1420,
+      "title": "Nghi ngờ"
+    },
+    {
+      "num": 1421,
+      "title": "Dương mưu"
+    },
+    {
+      "num": 1422,
+      "title": "Bên thứ ba và món nợ phải trả"
+    },
+    {
+      "num": 1423,
+      "title": "Thể diện của Võ đạo gia"
+    },
+    {
+      "num": 1424,
+      "title": "Nghênh chiến và mưu tính"
+    },
+    {
+      "num": 1425,
+      "title": "Đàm phán và thuyết khách"
+    },
+    {
+      "num": 1426,
+      "title": "Cảm ứng của Ô Nhĩ Nặc Tư"
+    },
+    {
+      "num": 1427,
+      "title": "Phát hiện bất ngờ"
+    },
+    {
+      "num": 1428,
+      "title": "Âm mưu ám sát"
+    },
+    {
+      "num": 1429,
+      "title": "Quyết tâm của Harrison"
+    },
+    {
+      "num": 1430,
+      "title": "Cứu viện và ôm cây đợi thỏ"
+    },
+    {
+      "num": 1431,
+      "title": "Hào quang nghịch hướng"
+    },
+    {
+      "num": 1432,
+      "title": "Trộm gà không thành còn mất nắm gạo"
+    },
+    {
+      "num": 1433,
+      "title": "Hiệu lệnh phản công (Cảm ơn đại lão Hồ Trung Nhật Nguyệt Tụ Lý Càn Khôn đã tặng Hoàng Kim Minh!)"
+    },
+    {
+      "num": 1434,
+      "title": "Phản công"
+    },
+    {
+      "num": 1435,
+      "title": "Quyết chiến đường cùng"
+    },
+    {
+      "num": 1436,
+      "title": "Giải phóng quán vị"
+    },
+    {
+      "num": 1437,
+      "title": "Cố lên nào, anh trai chơi rễ cây!"
+    },
+    {
+      "num": 1438,
+      "title": "Dầu cạn, đèn tàn"
+    },
+    {
+      "num": 1439,
+      "title": "Lỡ mất cơ hội, liều chết một phen"
+    },
+    {
+      "num": 1440,
+      "title": "Chia chác không đều, cảnh quen thuộc ai cũng mong thấy"
+    },
+    {
+      "num": 1441,
+      "title": "Tính toán bước tiếp theo và cảnh còn người mất"
+    },
+    {
+      "num": 1442,
+      "title": "Tình thế mới và sự nhẹ nhõm"
+    },
+    {
+      "num": 1443,
+      "title": "“Nước sôi lửa bỏng”"
+    },
+    {
+      "num": 1444,
+      "title": "Sự thành lập của Siêu Năng Thánh Vực"
+    },
+    {
+      "num": 1445,
+      "title": "Bàn giao và ý tưởng cày quyền hạn"
+    },
+    {
+      "num": 1446,
+      "title": "Trao huân chương và tiến vào"
+    },
+    {
+      "num": 1447,
+      "title": "Bí văn mới và mỗi người một ngả"
+    },
+    {
+      "num": 1448,
+      "title": "Chúng ta là người từng trải qua sóng to gió lớn đấy"
+    },
+    {
+      "num": 1449,
+      "title": "Tôi dần hiểu ra tất cả (Cảm ơn minh chủ của Trợ Thủ Tác Giả đã thưởng mười vạn!)"
+    },
+    {
+      "num": 1450,
+      "title": "Suy đoán và phỏng đoán"
+    },
+    {
+      "num": 1451,
+      "title": "Lựa chọn và tiến vào"
+    },
+    {
+      "num": 1452,
+      "title": "Cái gì? Thế Giới Thụ đánh tới rồi ư?!"
+    },
+    {
+      "num": 1453,
+      "title": "Gậy ông đập lưng ông"
+    },
+    {
+      "num": 1454,
+      "title": "Khô cành gãy cội"
+    },
+    {
+      "num": 1455,
+      "title": "Offline và trở về"
+    },
+    {
+      "num": 1456,
+      "title": "Phương án"
+    },
+    {
+      "num": 1457,
+      "title": "Mỏ neo thông tin (1)"
+    },
+    {
+      "num": 1458,
+      "title": "Điểm neo thông tin (2)"
+    },
+    {
+      "num": 1459,
+      "title": "Mỏ neo thông tin (3)"
+    },
+    {
+      "num": 1460,
+      "title": "Mỏ neo thông tin (4)"
+    },
+    {
+      "num": 1461,
+      "title": "Mỏ neo thông tin (5)"
+    },
+    {
+      "num": 1462,
+      "title": "Tiếp sức cuối cùng, bước ngoặt vận mệnh (hết)"
+    },
+    {
+      "num": 1463,
+      "title": "Hạt giống nảy mầm (1)"
+    },
+    {
+      "num": 1464,
+      "title": "Ngoại truyện: Hạt giống nảy mầm (2)"
+    }
+  ],
+  "slug": "sieu_than_co_gioi_su",
+  "title": "Siêu Thần Cơ Giới Sư",
+  "author": "Tề Bội Giáp",
+  "synopsis": "Khoa huyễn võng du của Tề Bội Giáp. Hàn Tiêu, một tay cày thuê lão làng của game online Tinh Hải, bị ném vào thế giới game từ trước ngày mở server chính thức, trở thành một NPC nhưng vẫn giữ nguyên bảng thuộc tính của người chơi. Chọn con đường Cơ giới sư, hắn dựa vào hiểu biết của kiếp trước để từng bước vươn lên giữa những nền văn minh liên sao, đến khi người chơi bất tử tràn vào vũ trụ, cái tên Hắc Tinh đã trở thành huyền thoại.",
+  "coverColor": "#2d4a6e"
+}
