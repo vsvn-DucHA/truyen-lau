@@ -73,6 +73,8 @@ const displayTitle = chapterTitle
   ? `Chương ${chapterNum}: ${chapterTitle}`
   : `Chương ${chapterNum}`
 
+const chapterList = meta?.chapters ?? []
+const nextChapter = chapterList[chapterList.findIndex((c) => c.num === chapterNum) + 1]
 const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
 ---
 
@@ -124,6 +126,12 @@ const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
       </div>
     </article>
 
+    <div class='max-w-190 mx-auto px-4 md:px-8 pb-6 flex justify-center'>
+      <button id='btn-finished' class='btn-secondary text-sm'>
+        Đánh dấu đã đọc xong truyện
+      </button>
+    </div>
+
     {
       meta && (
         <div class='max-w-190 mx-auto px-4 md:px-8 py-5 border-t border-hairline-soft'>
@@ -136,6 +144,18 @@ const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
       )
     }
   </main>
+  {
+    nextChapter && (
+      <a
+        href={`/truyen/${slug}/chuong/${nextChapter.num}`}
+        class='float-next'
+        aria-label='Chương tiếp'
+      >
+        <img src='/next-mascot.png' alt='' class='float-next-char' width='136' draggable='false' />
+        <span class='float-next-label'>Tiếp ▶</span>
+      </a>
+    )
+  }
   <Footer />
 </Layout>
 
@@ -150,7 +170,7 @@ const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
 </div>
 
 <script>
-  import { saveProgress } from '../../../../scripts/readingProgress.js'
+  import { saveProgress, isFinished, setFinished } from '../../../../scripts/readingProgress.js'
 
   const metaEl = document.getElementById('chapter-meta') as HTMLElement | null
   const slug = metaEl?.dataset.slug
@@ -160,5 +180,19 @@ const navTitle = meta ? `${meta.title} · ${displayTitle}` : displayTitle
 
   if (slug && chapterNum) {
     saveProgress(slug, chapterNum)
+  }
+
+  const btnFinished = document.getElementById('btn-finished')
+  if (btnFinished && slug) {
+    const render = () => {
+      btnFinished.textContent = isFinished(slug)
+        ? '✓ Đã đọc xong (bấm để bỏ đánh dấu)'
+        : 'Đánh dấu đã đọc xong truyện'
+    }
+    render()
+    btnFinished.addEventListener('click', () => {
+      setFinished(slug, !isFinished(slug))
+      render()
+    })
   }
 </script>

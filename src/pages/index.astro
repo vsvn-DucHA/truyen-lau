@@ -20,6 +20,13 @@ try {
 } catch {
   // stories stays empty — graceful degradation
 }
+
+const tabs = [
+  ['reading', 'Đang đọc'],
+  ['unread', 'Chưa đọc'],
+  ['finished', 'Đã đọc xong'],
+  ['all', 'Toàn bộ'],
+]
 ---
 
 <Layout
@@ -28,32 +35,38 @@ try {
 >
   <TopNav />
   <main class='flex-1 max-w-300 mx-auto w-full px-4 md:px-8 pb-24'>
-    <div class='py-16 md:py-24 text-center'>
-      <h1
-        class='font-display text-[40px] md:text-[56px] tracking-[-1.2px] text-ink leading-[1.05] mb-4'
-      >
-        Đọc truyện
-      </h1>
-      <p class='text-base md:text-lg text-muted'>Lưu tiến trình đọc tự động</p>
+    <div class='pt-24 pb-6 md:pt-28'>
+      <input
+        id='story-search'
+        type='search'
+        placeholder='Tìm truyện theo tên hoặc tác giả...'
+        class='w-full h-11 px-4 rounded-md border border-hairline bg-canvas text-ink text-[15px] outline-none focus:border-primary'
+        autocomplete='off'
+      />
+      <div id='story-tabs' class='flex gap-2 mt-4 overflow-x-auto pb-1'>
+        {
+          tabs.map(([id, label]) => (
+            <button
+              class='tab-btn shrink-0 h-9 px-4 rounded-pill border border-hairline bg-canvas text-body text-sm transition-colors'
+              data-tab={id}
+            >
+              {label}
+              <span class='tab-count ml-1 opacity-70' />
+            </button>
+          ))
+        }
+      </div>
     </div>
 
-    <!-- "Đang đọc" section — populated by client script from localStorage -->
-    <section id='currently-reading' class='mb-12 hidden'>
-      <h2 class='section-label'>Đang đọc</h2>
-      <div
-        id='currently-reading-grid'
-        class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'
-      >
-      </div>
-    </section>
-
-    <section class='mb-12'>
-      <h2 class='section-label'>Tất cả truyện</h2>
+    <section>
       {
         stories.length === 0 ? (
           <p class='text-sm text-muted'>Không có truyện nào.</p>
         ) : (
-          <div class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
+          <div
+            id='story-grid'
+            class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'
+          >
             {stories.map((story) => (
               <StoryCard
                 slug={story.slug}
@@ -67,6 +80,9 @@ try {
           </div>
         )
       }
+      <p id='empty-msg' class='text-sm text-muted hidden py-8 text-center'>
+        Không có truyện nào trong mục này.
+      </p>
     </section>
   </main>
   <Footer />
@@ -75,44 +91,101 @@ try {
 <script>
   import { getAllProgress } from '../scripts/readingProgress.js'
 
+  type Status = 'reading' | 'unread' | 'finished'
+  type Tab = Status | 'all'
+
   const progress = getAllProgress()
-  const slugsWithProgress = Object.keys(progress)
+  const cards = Array.from(
+    document.querySelectorAll<HTMLAnchorElement>('.story-card'),
+  )
+  const search = document.getElementById('story-search') as HTMLInputElement
+  const emptyMsg = document.getElementById('empty-msg')
+  const tabBtns = Array.from(
+    document.querySelectorAll<HTMLButtonElement>('.tab-btn'),
+  )
 
-  if (slugsWithProgress.length > 0) {
-    // Add progress badges to all story cards
-    document
-      .querySelectorAll<HTMLAnchorElement>('.story-card')
-      .forEach((card) => {
-        const slug = card.dataset.slug
-        if (!slug) return
-        const p = progress[slug]
-        if (p?.chapter) {
-          const badgeContainer = card.querySelector('.card-badges')
-          if (badgeContainer) {
-            const badge = document.createElement('span')
-            badge.className = 'badge-coral'
-            badge.textContent = `Đang đọc · Ch.${p.chapter}`
-            badgeContainer.appendChild(badge)
-          }
-        }
-      })
+  const norm = (t: string) =>
+    t
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
+      .replace(/đ/g, 'd')
 
-    // Populate "Đang đọc" section with cards that have progress
-    const readingSection = document.getElementById('currently-reading')
-    const readingGrid = document.getElementById('currently-reading-grid')
-    const allCards = document.querySelectorAll<HTMLAnchorElement>('.story-card')
-
-    const readingCards: HTMLElement[] = []
-    allCards.forEach((card) => {
-      const slug = card.dataset.slug
-      if (slug && progress[slug]?.chapter) {
-        readingCards.push(card.cloneNode(true) as HTMLElement)
-      }
-    })
-
-    if (readingCards.length > 0 && readingGrid && readingSection) {
-      readingCards.forEach((card) => readingGrid.appendChild(card))
-      readingSection.classList.remove('hidden')
-    }
+  function statusOf(slug: string): Status {
+    const p = progress[slug]
+    if (p?.finished) return 'finished'
+    if (p?.chapter) return 'reading'
+    return 'unread'
   }
+
+  // Progress badges
+  cards.forEach((card) => {
+    const slug = card.dataset.slug!
+    const st = statusOf(slug)
+    const box = card.querySelector('.card-badges')
+    if (!box || st === 'unread') return
+    const badge = document.createElement('span')
+    badge.className = 'badge-coral'
+    badge.textContent =
+      st === 'finished' ? 'Đã đọc xong' : `Đang đọc · Ch.${progress[slug].chapter}`
+    box.appendChild(badge)
+  })
+
+  // Most recently read first
+  const grid = document.getElementById('story-grid')
+  if (grid) {
+    cards
+      .filter((c) => progress[c.dataset.slug!]?.updatedAt)
+      .sort((a, b) =>
+        progress[a.dataset.slug!].updatedAt.localeCompare(
+          progress[b.dataset.slug!].updatedAt,
+        ),
+      )
+      .forEach((c) => grid.prepend(c))
+  }
+
+  const counts: Record<Tab, number> = {
+    reading: 0,
+    unread: 0,
+    finished: 0,
+    all: cards.length,
+  }
+  cards.forEach((c) => counts[statusOf(c.dataset.slug!)]++)
+  tabBtns.forEach((b) => {
+    const el = b.querySelector('.tab-count')
+    if (el) el.textContent = String(counts[b.dataset.tab as Tab])
+  })
+
+  // Always open on "Đang đọc"
+  let tab: Tab = 'reading'
+
+  function render() {
+    const q = norm(search.value.trim())
+    let shown = 0
+    cards.forEach((card) => {
+      const okTab = tab === 'all' || statusOf(card.dataset.slug!) === tab
+      const okQuery = !q || norm(card.textContent ?? '').includes(q)
+      const show = okTab && okQuery
+      card.style.display = show ? '' : 'none'
+      if (show) shown++
+    })
+    emptyMsg?.classList.toggle('hidden', shown > 0)
+    tabBtns.forEach((b) => {
+      const active = b.dataset.tab === tab
+      b.classList.toggle('bg-primary', active)
+      b.classList.toggle('text-white', active)
+      b.classList.toggle('border-primary', active)
+      b.classList.toggle('bg-canvas', !active)
+      b.classList.toggle('text-body', !active)
+    })
+  }
+
+  tabBtns.forEach((b) =>
+    b.addEventListener('click', () => {
+      tab = b.dataset.tab as Tab
+      render()
+    }),
+  )
+  search.addEventListener('input', render)
+  render()
 </script>

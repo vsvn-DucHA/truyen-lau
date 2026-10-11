@@ -256,4 +256,57 @@
       cursor: default;
     }
   }
+
+  /* ── Floating next-chapter button (anime mascot, mobile reading) ── */
+  .float-next {
+    display: none;
+    position: fixed;
+    top: 60%;
+    z-index: 50;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    background: none;
+    border: 0;
+    -webkit-tap-highlight-color: transparent;
+    filter: drop-shadow(0 4px 8px rgba(20, 20, 19, 0.3));
+    animation: float-bob 2.4s ease-in-out infinite;
+
+    &:active {
+      transform: scale(0.92);
+    }
+  }
+  html[data-float-next='left'] .float-next {
+    display: flex;
+    left: 0.5rem;
+  }
+  html[data-float-next='right'] .float-next {
+    display: flex;
+    right: 0.5rem;
+  }
+  .float-next-label {
+    margin-top: -0.4rem;
+    padding: 0.1rem 0.6rem;
+    border-radius: 999px;
+    background: #ff6fa5;
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    animation: float-pulse 1.2s ease-in-out infinite;
+  }
+  .float-next-char {
+    width: 8.5rem;
+    height: auto;
+    pointer-events: none;
+    /* white character: add a dark outline so it reads on light backgrounds */
+    filter: drop-shadow(0 0 1px #3a3a3a) drop-shadow(0 0 2px #3a3a3a);
+  }
+  @keyframes float-bob {
+    0%, 100% { transform: translateY(0) rotate(-3deg); }
+    50% { transform: translateY(-10px) rotate(3deg); }
+  }
+  @keyframes float-pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(1.1); }
+  }
 }

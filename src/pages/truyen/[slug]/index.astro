@@ -79,6 +79,7 @@ const pageTitle = meta ? meta.title : 'Truyện'
                     Mới nhất · Ch.{latestChap.num}
                   </a>
                 )}
+                <button id="btn-finished" class="btn-secondary">Đánh dấu đã đọc xong</button>
               </div>
             </div>
           </div>
@@ -166,13 +167,27 @@ const pageTitle = meta ? meta.title : 'Truyện'
 </Layout>
 
 <script>
-  import { getProgress } from '../../../scripts/readingProgress.js'
+  import { getProgress, isFinished, setFinished } from '../../../scripts/readingProgress.js'
 
   const actions = document.getElementById('story-actions') as HTMLElement | null
   const slug = actions?.dataset.slug
   if (!slug) { /* no-op — story actions element not found */ }
   else {
   const progress = getProgress(slug)
+
+  const btnFinished = document.getElementById('btn-finished')
+  if (btnFinished) {
+    const render = () => {
+      btnFinished.textContent = isFinished(slug)
+        ? '✓ Đã đọc xong (bỏ đánh dấu)'
+        : 'Đánh dấu đã đọc xong'
+    }
+    render()
+    btnFinished.addEventListener('click', () => {
+      setFinished(slug, !isFinished(slug))
+      render()
+    })
+  }
 
   if (progress?.chapter) {
     // Upgrade "Đọc từ đầu" to "Đọc tiếp"

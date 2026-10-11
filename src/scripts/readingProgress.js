@@ -25,7 +25,19 @@ export function getProgress(slug) {
 
 export function saveProgress(slug, chapter) {
   const all = readAll()
-  all[slug] = { chapter, updatedAt: new Date().toISOString() }
+  // Keep the "finished" flag so re-reading a finished story doesn't move it back
+  all[slug] = { ...all[slug], chapter, updatedAt: new Date().toISOString() }
+  writeAll(all)
+}
+
+export function isFinished(slug) {
+  return Boolean(readAll()[slug]?.finished)
+}
+
+/** Mark/unmark a story as finished. Works even if the story has no progress yet. */
+export function setFinished(slug, finished) {
+  const all = readAll()
+  all[slug] = { ...all[slug], finished, updatedAt: new Date().toISOString() }
   writeAll(all)
 }
 

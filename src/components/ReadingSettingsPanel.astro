@@ -104,6 +104,18 @@
       </div>
     </div>
 
+    <div class='flex flex-col gap-3'>
+      <span
+        class='text-[12px] font-medium text-muted uppercase tracking-[1.2px]'
+        >Nút "Chương tiếp" nổi</span
+      >
+      <div class='grid grid-cols-3 gap-2'>
+        <button class='float-btn h-10 rounded-md border text-[14px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card' data-float='off'>Tắt</button>
+        <button class='float-btn h-10 rounded-md border text-[14px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card' data-float='left'>Trái</button>
+        <button class='float-btn h-10 rounded-md border text-[14px] transition-colors border-hairline bg-canvas text-body hover:bg-surface-card' data-float='right'>Phải</button>
+      </div>
+    </div>
+
     <div
       id='settings-preview'
       class='bg-surface-soft rounded-md p-4 text-body italic leading-[1.7] min-h-15'
@@ -119,6 +131,7 @@
     getSettings,
     setFontId,
     setFontSize,
+    setFloatNext,
   } from '../scripts/readingSettings.js'
 
   const backdrop = document.getElementById('settings-backdrop')
@@ -132,6 +145,15 @@
     // Sync font buttons
     document.querySelectorAll<HTMLButtonElement>('.font-btn').forEach((btn) => {
       const isActive = btn.dataset.fontId === s.fontId
+      btn.classList.toggle('border-primary', isActive)
+      btn.classList.toggle('bg-surface-soft', isActive)
+      btn.classList.toggle('text-primary', isActive)
+      btn.classList.toggle('border-hairline', !isActive)
+      btn.classList.toggle('bg-canvas', !isActive)
+      btn.classList.toggle('text-body', !isActive)
+    })
+    document.querySelectorAll<HTMLButtonElement>('.float-btn').forEach((btn) => {
+      const isActive = btn.dataset.float === s.floatNext
       btn.classList.toggle('border-primary', isActive)
       btn.classList.toggle('bg-surface-soft', isActive)
       btn.classList.toggle('text-primary', isActive)
@@ -186,6 +208,14 @@
         setFontId(fontId)
         syncUI()
       }
+    })
+  })
+
+  // Floating next-button position
+  document.querySelectorAll<HTMLButtonElement>('.float-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      setFloatNext(btn.dataset.float as 'off' | 'left' | 'right')
+      syncUI()
     })
   })
 

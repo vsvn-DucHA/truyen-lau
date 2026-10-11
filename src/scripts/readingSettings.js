@@ -16,9 +16,9 @@ export const FONT_OPTIONS = [
   { id: 'mono',         label: 'Mono',         family: "'JetBrains Mono', monospace" },
 ]
 
-const DEFAULT = { fontId: 'garamond', fontSize: 20, darkMode: false }
+const DEFAULT = { fontId: 'garamond', fontSize: 20, darkMode: false, floatNext: 'off' }
 
-/** @type {{ fontId: string, fontSize: number, darkMode: boolean }} */
+/** @type {{ fontId: string, fontSize: number, darkMode: boolean, floatNext: 'off'|'left'|'right' }} */
 let settings = DEFAULT
 
 function load() {
@@ -39,6 +39,7 @@ function applyToDOM() {
   const font = FONT_OPTIONS.find((f) => f.id === settings.fontId) ?? FONT_OPTIONS[0]
   root.style.setProperty('--reading-font', font.family)
   root.style.setProperty('--reading-size', settings.fontSize + 'px')
+  root.dataset.floatNext = settings.floatNext
 }
 
 // Initialize on module load — applies font/size vars and syncs dark class
@@ -65,6 +66,13 @@ export function setFontId(fontId) {
 
 export function setFontSize(fontSize) {
   settings = { ...settings, fontSize }
+  persist()
+  applyToDOM()
+}
+
+/** @param {'off'|'left'|'right'} floatNext */
+export function setFloatNext(floatNext) {
+  settings = { ...settings, floatNext }
   persist()
   applyToDOM()
 }
