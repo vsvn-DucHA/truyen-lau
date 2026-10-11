@@ -1,0 +1,4410 @@
+{
+  "totalChapters": 1100,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Uống rượu không lái xe"
+    },
+    {
+      "num": 2,
+      "title": "Cậu là ai?"
+    },
+    {
+      "num": 3,
+      "title": "Hóa ra vẫn là hàng xóm"
+    },
+    {
+      "num": 4,
+      "title": "Nữ thần cá diếc nhỏ"
+    },
+    {
+      "num": 5,
+      "title": "Con trai nhà mình cũng lớn rồi"
+    },
+    {
+      "num": 6,
+      "title": "Cuộc nói chuyện trong quán bánh bao"
+    },
+    {
+      "num": 7,
+      "title": "Nhìn sắc mặt ông đây mà làm việc"
+    },
+    {
+      "num": 8,
+      "title": "Tình cờ gặp nhau"
+    },
+    {
+      "num": 9,
+      "title": "Cậu đã hứa với bố tôi là sẽ chăm sóc tôi mà!"
+    },
+    {
+      "num": 10,
+      "title": "Ha, đàn ông!"
+    },
+    {
+      "num": 11,
+      "title": "Chuyện bên ga tàu"
+    },
+    {
+      "num": 12,
+      "title": "303 cũng có chút gì đó"
+    },
+    {
+      "num": 13,
+      "title": "Trần Hán Thăng, đồ nói dối"
+    },
+    {
+      "num": 14,
+      "title": "Cẩm nang trọng sinh đúng cách"
+    },
+    {
+      "num": 15,
+      "title": "Đại học phải quẩy"
+    },
+    {
+      "num": 16,
+      "title": "Người mới cuối cùng cũng ký hợp đồng rồi! (Tiện thể nói một chút về Đại Thời Đại 1994)"
+    },
+    {
+      "num": 17,
+      "title": "Tôi muốn làm lớp trưởng (thêm chương vì đã ký hợp đồng)"
+    },
+    {
+      "num": 18,
+      "title": "Mỗi người một vẻ (Bản thêm chương theo yêu cầu của minh chủ A Nam)"
+    },
+    {
+      "num": 19,
+      "title": "Cô gái như kho báu (phần thêm dành cho minh chủ kasimking)"
+    },
+    {
+      "num": 20,
+      "title": "Con trai biết ăn nói đều là kẻ lừa đảo"
+    },
+    {
+      "num": 21,
+      "title": "Cậu đè lên tóc tôi rồi"
+    },
+    {
+      "num": 22,
+      "title": "Chuyện công và chuyện riêng (minh chủ của “Tên này sắp nghịch thiên rồi”)"
+    },
+    {
+      "num": 23,
+      "title": "Ngày nào cũng diễn đủ trò"
+    },
+    {
+      "num": 24,
+      "title": "Tôi phải nghiêm túc suy nghĩ một chút"
+    },
+    {
+      "num": 25,
+      "title": "Bước đầu tiên của cuộc trường chinh vạn dặm"
+    },
+    {
+      "num": 26,
+      "title": "Lớp trưởng họ Đường, ngọt đến xót lòng"
+    },
+    {
+      "num": 27,
+      "title": "Tổng tài bá đạo"
+    },
+    {
+      "num": 28,
+      "title": "Bố đây giờ là lớp trưởng"
+    },
+    {
+      "num": 29,
+      "title": "Cảm ơn cậu vì đã chịu cố gắng vì tớ"
+    },
+    {
+      "num": 30,
+      "title": "Lần đầu trốn học"
+    },
+    {
+      "num": 31,
+      "title": "Yêu đương chẳng bằng chơi game"
+    },
+    {
+      "num": 32,
+      "title": "Báo thù không để qua đêm"
+    },
+    {
+      "num": 33,
+      "title": "Đánh cược bằng danh nghĩa phó bộ trưởng"
+    },
+    {
+      "num": 34,
+      "title": "Khi chiêu cũ không còn tác dụng (Đại ca Trương Vệ Vũ)"
+    },
+    {
+      "num": 35,
+      "title": "Một phen ba lần trắc trở (Mạch truyện liền nhau nên tôi đăng luôn một lượt.)"
+    },
+    {
+      "num": 36,
+      "title": "May mà không chảy máu"
+    },
+    {
+      "num": 37,
+      "title": "Tân phó bộ trưởng"
+    },
+    {
+      "num": 38,
+      "title": "Một hiểu lầm đầy mê hoặc"
+    },
+    {
+      "num": 39,
+      "title": "Người phụ nữ đã đau lòng"
+    },
+    {
+      "num": 40,
+      "title": "Các bậc phụ huynh bắt đầu sốt ruột"
+    },
+    {
+      "num": 41,
+      "title": "Chiếc ví tiền cũ rỗng tuếch"
+    },
+    {
+      "num": 42,
+      "title": "Đến nhà thăm hỏi"
+    },
+    {
+      "num": 43,
+      "title": "Duyên, thật đúng là chẳng thể nói thành lời"
+    },
+    {
+      "num": 44,
+      "title": "Hổ Nữu"
+    },
+    {
+      "num": 45,
+      "title": "Nửa đường tiếp tay"
+    },
+    {
+      "num": 46,
+      "title": "Lấy mềm thắng cứng, nước chảy đá mòn (Cây sung nhà tôi)"
+    },
+    {
+      "num": 47,
+      "title": "Thuốc Trung Hoa nhạt quá"
+    },
+    {
+      "num": 48,
+      "title": "Party xem phim quẩy lên nào"
+    },
+    {
+      "num": 49,
+      "title": "Lời tự thú của một gã trai tồi (Chamberlain7 Minh)"
+    },
+    {
+      "num": 50,
+      "title": "Có rượu mà chẳng có chuyện gì"
+    },
+    {
+      "num": 51,
+      "title": "Vác cả dự án đi bàn chuyện hợp tác"
+    },
+    {
+      "num": 52,
+      "title": "Cầm nhầm kịch bản"
+    },
+    {
+      "num": 53,
+      "title": "Son môi"
+    },
+    {
+      "num": 54,
+      "title": "Sau chuyện mới tỏ lòng càng thêm chân thành"
+    },
+    {
+      "num": 55,
+      "title": "Cải bẹ trộn ớt giòn rụm"
+    },
+    {
+      "num": 56,
+      "title": "Chúc ngủ ngon là một bài tình ca nho nhỏ"
+    },
+    {
+      "num": 57,
+      "title": "Tóm lại đều là vẽ bánh"
+    },
+    {
+      "num": 58,
+      "title": "Mưa dầm thấm lâu"
+    },
+    {
+      "num": 59,
+      "title": "Tôi có thể dùng điện thoại bằng một tay"
+    },
+    {
+      "num": 60,
+      "title": "Tuổi trẻ chính là đem lời đường mật ra bán mà"
+    },
+    {
+      "num": 61,
+      "title": "Ngọt ngào là chuyện lớn, đáng yêu là chuyện nhỏ, người ở bên mới là người khổ nhất"
+    },
+    {
+      "num": 62,
+      "title": "Đồ đôi"
+    },
+    {
+      "num": 63,
+      "title": "Đây chính là làm ăn (chương thêm do đại gia Tây Đường Bao Tử ủng hộ)"
+    },
+    {
+      "num": 64,
+      "title": "Quần hiệp Kim Dung ở F tòa 101（lingcu minh chủ）"
+    },
+    {
+      "num": 65,
+      "title": "Bán thân trả nợ Trần Hán Thăng"
+    },
+    {
+      "num": 66,
+      "title": "Tình yêu QQ"
+    },
+    {
+      "num": 67,
+      "title": "Cô gái ngõ mèo"
+    },
+    {
+      "num": 68,
+      "title": "Miệng đàn ông, toàn là lời nói dối"
+    },
+    {
+      "num": 69,
+      "title": "Nhật ký vi hành của Lương Mỹ Quyên (phần thưởng thêm của minh chủ Joyek)"
+    },
+    {
+      "num": 70,
+      "title": "Lên như diều gặp gió"
+    },
+    {
+      "num": 71,
+      "title": "Đã không tránh được thì sớm muộn cũng gặp nhau"
+    },
+    {
+      "num": 72,
+      "title": "Đối diện xuyên thấu"
+    },
+    {
+      "num": 73,
+      "title": "Hai đôi găng tay"
+    },
+    {
+      "num": 74,
+      "title": "Quan hệ bạn học"
+    },
+    {
+      "num": 75,
+      "title": "Có 27 người giống bọn tôi"
+    },
+    {
+      "num": 76,
+      "title": "Chiến lược quảng bá 101 (1)"
+    },
+    {
+      "num": 77,
+      "title": "Kế hoạch quảng bá 101 (2)"
+    },
+    {
+      "num": 78,
+      "title": "Kế hoạch quảng bá 101 (3) (Bạc đầu sói đen tiên phong)"
+    },
+    {
+      "num": 79,
+      "title": "Trên người cậu có mùi nước hoa của cô ấy"
+    },
+    {
+      "num": 80,
+      "title": "Người đầu tiên bỏ cuộc"
+    },
+    {
+      "num": 81,
+      "title": "Cuộc gặp mặt ngượng ngùng"
+    },
+    {
+      "num": 82,
+      "title": "Tóc đen thẳng dài"
+    },
+    {
+      "num": 83,
+      "title": "Trai đểu và gái đểu"
+    },
+    {
+      "num": 84,
+      "title": "Tôi muốn châm thuốc giúp cậu"
+    },
+    {
+      "num": 85,
+      "title": "Rượu chẳng phải rượu ngon, tiệc chẳng phải tiệc lành"
+    },
+    {
+      "num": 86,
+      "title": "Cậu có thể cặn bã với tôi một lần không?"
+    },
+    {
+      "num": 87,
+      "title": "Trung tâm thu nhận những cô gái không bình thường"
+    },
+    {
+      "num": 88,
+      "title": "Hỏa Tiễn 101"
+    },
+    {
+      "num": 89,
+      "title": "Tôi đang chờ một đoạn BGM dành riêng cho mình"
+    },
+    {
+      "num": 90,
+      "title": "Đốt cháy BGM của tôi!"
+    },
+    {
+      "num": 91,
+      "title": "Khắp nơi trong cuộc sống đều có cẩu lương (thêm chương)"
+    },
+    {
+      "num": 92,
+      "title": "Trận tuyết nghiêm túc (Thượng)"
+    },
+    {
+      "num": 93,
+      "title": "Trận tuyết nghiêm túc (giữa)"
+    },
+    {
+      "num": 94,
+      "title": "Trận tuyết nghiêm túc (Hạ)"
+    },
+    {
+      "num": 95,
+      "title": "Ăn may vớ được hạng nhì"
+    },
+    {
+      "num": 96,
+      "title": "Tra nam sợ nhất là ngày lễ"
+    },
+    {
+      "num": 97,
+      "title": "Sóng gió đêm Giáng Sinh (bù thêm cho minh chủ đời thứ ba của web văn)"
+    },
+    {
+      "num": 98,
+      "title": "Sinh viên ba tốt cấp trường từ trên trời rơi xuống"
+    },
+    {
+      "num": 99,
+      "title": "Nghỉ Tết không về nhà"
+    },
+    {
+      "num": 100,
+      "title": "Quan hệ chính là sức sản xuất"
+    },
+    {
+      "num": 101,
+      "title": "「Blastoise」Vương Tử Bác"
+    },
+    {
+      "num": 102,
+      "title": "Không muốn làm trai đểu"
+    },
+    {
+      "num": 103,
+      "title": "Cậu gánh hành lý, tôi dắt ngựa"
+    },
+    {
+      "num": 104,
+      "title": "Người trong tim"
+    },
+    {
+      "num": 105,
+      "title": "Hóa ra thật sự có một cô em họ"
+    },
+    {
+      "num": 106,
+      "title": "Một đêm ở Xuyên Du (thượng)"
+    },
+    {
+      "num": 107,
+      "title": "Một đêm ở Xuyên Du (hạ)"
+    },
+    {
+      "num": 108,
+      "title": "12 điểm Toán cao cấp"
+    },
+    {
+      "num": 109,
+      "title": "Kẻ vô lại trong cuộc sống"
+    },
+    {
+      "num": 110,
+      "title": "Một sự cố nho nhỏ trong buổi tụ họp"
+    },
+    {
+      "num": 111,
+      "title": "Phiên bản 2002 lấy thân báo đáp"
+    },
+    {
+      "num": 112,
+      "title": "Tuyết lành báo hiệu năm được mùa"
+    },
+    {
+      "num": 113,
+      "title": "Một tài khoản bị bỏ xó"
+    },
+    {
+      "num": 114,
+      "title": "Tình cảnh trớ trêu (Phần 1)"
+    },
+    {
+      "num": 115,
+      "title": "Lời tâm sự ngày lên kệ: Chưa tính số đặt trước, chỉ mong một"
+    },
+    {
+      "num": 116,
+      "title": "Tu La tràng (hạ)"
+    },
+    {
+      "num": 117,
+      "title": "Trưởng bộ phận mới"
+    },
+    {
+      "num": 118,
+      "title": "Xe giả"
+    },
+    {
+      "num": 119,
+      "title": "Tôi muốn mua cho cậu một chiếc xe"
+    },
+    {
+      "num": 120,
+      "title": "Trân trọng những điều giản dị"
+    },
+    {
+      "num": 121,
+      "title": "Đội hình ban đầu của Hỏa Tiễn 101"
+    },
+    {
+      "num": 122,
+      "title": "Coi tôi là cây ATM chắc?"
+    },
+    {
+      "num": 123,
+      "title": "Mùa xuân nồng mùi giấm"
+    },
+    {
+      "num": 124,
+      "title": "800 đồng và 80 đồng"
+    },
+    {
+      "num": 125,
+      "title": "Củ cải rau xanh, mỗi người một sở thích"
+    },
+    {
+      "num": 126,
+      "title": "Giăng bẫy"
+    },
+    {
+      "num": 127,
+      "title": "Tôi là kẻ xấu xa"
+    },
+    {
+      "num": 128,
+      "title": "Trần Hán Thăng không xứng với nữ Bồ Tát"
+    },
+    {
+      "num": 129,
+      "title": "Các em gái tân sinh viên của cả khoa (Cầu vé tháng)"
+    },
+    {
+      "num": 130,
+      "title": "Nhất định phải ôm cái đùi to nhất"
+    },
+    {
+      "num": 131,
+      "title": "Tôi là người đại diện pháp nhân Trịnh Quan Đề"
+    },
+    {
+      "num": 132,
+      "title": "Cảnh hỗn loạn vì cách ly"
+    },
+    {
+      "num": 133,
+      "title": "Thần tiên và kiếp nạn"
+    },
+    {
+      "num": 134,
+      "title": "Trong cửa ngoài cửa"
+    },
+    {
+      "num": 135,
+      "title": "Tôi cũng có thể gọi cậu là Tiểu Trần không?"
+    },
+    {
+      "num": 136,
+      "title": "Tôi với gió xuân đều là khách qua đường"
+    },
+    {
+      "num": 137,
+      "title": ""
+    },
+    {
+      "num": 138,
+      "title": "Đến gây chuyện"
+    },
+    {
+      "num": 139,
+      "title": "Cô em khóa dưới bướng bỉnh"
+    },
+    {
+      "num": 140,
+      "title": "Gọi bố cũng chẳng thiệt gì"
+    },
+    {
+      "num": 141,
+      "title": "Chữ ký QQ đúng là thứ hay ho"
+    },
+    {
+      "num": 142,
+      "title": "Gió Đông này là quân bài tốt"
+    },
+    {
+      "num": 143,
+      "title": "Nhìn mây trời phía xa kìa"
+    },
+    {
+      "num": 144,
+      "title": "Không cặn bã thì chẳng thành trai hư"
+    },
+    {
+      "num": 145,
+      "title": "Ai cô lập ai?"
+    },
+    {
+      "num": 146,
+      "title": "Anh đây cũng đâu có dễ dàng gì"
+    },
+    {
+      "num": 147,
+      "title": "Nghiên cứu Thẩm Ấu Sở"
+    },
+    {
+      "num": 148,
+      "title": "Một câu “Lâu rồi không gặp”"
+    },
+    {
+      "num": 149,
+      "title": "Những «người yêu cũ» ăn ý"
+    },
+    {
+      "num": 150,
+      "title": "Người đẹp trong cơn say"
+    },
+    {
+      "num": 151,
+      "title": "Phụ nữ ai cũng sống theo cảm tính"
+    },
+    {
+      "num": 152,
+      "title": "Chỉ lưu một số điện thoại trên chiếc điện thoại Tiểu Linh Thông"
+    },
+    {
+      "num": 153,
+      "title": "Ai mới là người hiểu luật đây?"
+    },
+    {
+      "num": 154,
+      "title": "Giúp cậu làm anh hùng"
+    },
+    {
+      "num": 155,
+      "title": "Đừng gọi chị, phải gọi mẹ"
+    },
+    {
+      "num": 156,
+      "title": "Diễn hỏng rồi"
+    },
+    {
+      "num": 157,
+      "title": "Anh ấy không cần tôi nữa"
+    },
+    {
+      "num": 158,
+      "title": "Đêm mơ màng (1)"
+    },
+    {
+      "num": 159,
+      "title": "Đêm mơ màng (2)"
+    },
+    {
+      "num": 160,
+      "title": "Đêm mơ màng (hạ)"
+    },
+    {
+      "num": 161,
+      "title": ""
+    },
+    {
+      "num": 162,
+      "title": "Câu chuyện tình yêu nơi sân trường"
+    },
+    {
+      "num": 163,
+      "title": "Không so sánh thì không biết ai hơn ai"
+    },
+    {
+      "num": 164,
+      "title": "Thầy Kim và lớp trưởng Kim"
+    },
+    {
+      "num": 165,
+      "title": "Lời tự giới thiệu dưới ánh bình minh"
+    },
+    {
+      "num": 166,
+      "title": "Nghệ thuật ăn nói"
+    },
+    {
+      "num": 167,
+      "title": "Đi làm thuê là chuyện không thể nào"
+    },
+    {
+      "num": 168,
+      "title": "Bạn thân khác giới"
+    },
+    {
+      "num": 169,
+      "title": "Hắn đúng là kiểu ngoài lạnh trong nóng"
+    },
+    {
+      "num": 170,
+      "title": "Cơn ghen mình chẳng có tư cách để ghen mới là chua nhất"
+    },
+    {
+      "num": 171,
+      "title": "Nếu cô chưa từng gặp Trần Hán Thăng"
+    },
+    {
+      "num": 172,
+      "title": "Gã trai tồi sống phóng khoáng"
+    },
+    {
+      "num": 173,
+      "title": "Kho báu rồi sẽ tỏa sáng"
+    },
+    {
+      "num": 174,
+      "title": "Mình cũng chen chân vào giới văn hóa"
+    },
+    {
+      "num": 175,
+      "title": "Đập cửa hàng"
+    },
+    {
+      "num": 176,
+      "title": "Nhìn tôi đỉnh không? (Sách hay thật, nhất định"
+    },
+    {
+      "num": 177,
+      "title": "Có lẽ vì tôi xinh chăng?"
+    },
+    {
+      "num": 178,
+      "title": "Cứu lấy một tâm hồn trẻ tuổi"
+    },
+    {
+      "num": 179,
+      "title": "Tôi cũng không cần!"
+    },
+    {
+      "num": 180,
+      "title": "Trần Hán Thăng còn thảm hơn cả chó liếm（cầu nguyệt phiếu và"
+    },
+    {
+      "num": 181,
+      "title": "Mặt cười nói lý lẽ, trở mặt nói quy củ"
+    },
+    {
+      "num": 182,
+      "title": "Sổ tiết kiệm"
+    },
+    {
+      "num": 183,
+      "title": "Quán trà sữa trong sân vận động"
+    },
+    {
+      "num": 184,
+      "title": "Cư sĩ đòi thêm tiền"
+    },
+    {
+      "num": 185,
+      "title": "Tra nam hà tất làm khó tra nam"
+    },
+    {
+      "num": 186,
+      "title": "Cuộc khảo sát liên tiếp gặp chuyện ngoài ý muốn"
+    },
+    {
+      "num": 187,
+      "title": "Sao anh ta lại ở đây? (Thêm chương, xin nguyệt phiếu)"
+    },
+    {
+      "num": 188,
+      "title": "Không phải nợ đào hoa"
+    },
+    {
+      "num": 189,
+      "title": "Sở trường của bố"
+    },
+    {
+      "num": 190,
+      "title": "Hướng dẫn sống ảo ở quán bar chân thật nhất (Mọi người đừng đọc"
+    },
+    {
+      "num": 191,
+      "title": "Đòn chí mạng dành cho kẻ si tình"
+    },
+    {
+      "num": 192,
+      "title": "Trần đại sư dạy học tại chỗ"
+    },
+    {
+      "num": 193,
+      "title": "Giúp cậu trả thù, thấy sao?"
+    },
+    {
+      "num": 194,
+      "title": "Mối họa chốn nhân gian"
+    },
+    {
+      "num": 195,
+      "title": "Quả báo đến rồi"
+    },
+    {
+      "num": 196,
+      "title": "Hội thao mùa thu ngọt ngào"
+    },
+    {
+      "num": 197,
+      "title": "Cơm chó quá dữ"
+    },
+    {
+      "num": 198,
+      "title": "Tuổi trẻ là phải quậy"
+    },
+    {
+      "num": 199,
+      "title": "Bảng tiến độ mở rộng của Hỏa Tiễn 101"
+    },
+    {
+      "num": 200,
+      "title": "Phòng chứa đồ bên sân vận động (Xin lỗi vì hôm nay đăng muộn,)"
+    },
+    {
+      "num": 201,
+      "title": "Đứa ngốc"
+    },
+    {
+      "num": 202,
+      "title": "Quán trà sữa có linh hồn"
+    },
+    {
+      "num": 203,
+      "title": "Tra nam là gì?"
+    },
+    {
+      "num": 204,
+      "title": "Ngưỡng cửa tình yêu 10 triệu tệ"
+    },
+    {
+      "num": 205,
+      "title": "Chuyện nhỏ nơi phố nhỏ"
+    },
+    {
+      "num": 206,
+      "title": "10 triệu mà cũng chỉ là đàn em"
+    },
+    {
+      "num": 207,
+      "title": "Xe Hạ Lợi nhỏ cũng có ngày lên mặt"
+    },
+    {
+      "num": 208,
+      "title": "Tôi đáng lẽ phải ở dưới gầm xe, chứ không nên ngồi trong xe"
+    },
+    {
+      "num": 209,
+      "title": "Nghe đại ca kể chuyện"
+    },
+    {
+      "num": 210,
+      "title": "Uống nhiều nước ấm"
+    },
+    {
+      "num": 211,
+      "title": "Chúc ngủ ngon, đồ đáng ghét"
+    },
+    {
+      "num": 212,
+      "title": "Định hướng tương lai"
+    },
+    {
+      "num": 213,
+      "title": ""
+    },
+    {
+      "num": 214,
+      "title": "Say rồi mới có cơ hội"
+    },
+    {
+      "num": 215,
+      "title": "Tôi muốn tất.GIF"
+    },
+    {
+      "num": 216,
+      "title": "Chị đại Khổng"
+    },
+    {
+      "num": 217,
+      "title": "Bà chủ ngơ ngơ"
+    },
+    {
+      "num": 218,
+      "title": "Nâng tầm gu thẩm mỹ của cả Tài Viện"
+    },
+    {
+      "num": 219,
+      "title": "Vô Gian Đạo của gã trai đểu cáng (Xin nguyệt phiếu!)"
+    },
+    {
+      "num": 220,
+      "title": "Thứ bảy, rạp phim không đóng cửa (Thêm chương, cầu vé tháng!)"
+    },
+    {
+      "num": 221,
+      "title": "Gieo nhân nào gặt quả nấy, quả báo của cậu chính là tôi"
+    },
+    {
+      "num": 222,
+      "title": "Hôm nay trời trở lạnh, nhớ mặc ấm"
+    },
+    {
+      "num": 223,
+      "title": "Đủ kiểu trò lắt léo"
+    },
+    {
+      "num": 224,
+      "title": "Phòng cũng không xuể"
+    },
+    {
+      "num": 225,
+      "title": "Chỉ ôm em nói chuyện thôi (minh chủ Vănzai)"
+    },
+    {
+      "num": 226,
+      "title": "Không ngờ chứ, lại lật xe rồi!"
+    },
+    {
+      "num": 227,
+      "title": "Anh muốn có thêm con dâu, hay muốn bớt đi một đứa con trai"
+    },
+    {
+      "num": 228,
+      "title": "Trong lòng anh, em đứng thứ hai (Xin vé tháng với nào, xin đó)"
+    },
+    {
+      "num": 229,
+      "title": ""
+    },
+    {
+      "num": 230,
+      "title": "Phòng ký túc xá toàn mấy đứa ngốc mà vui（Hôm nay ba chương, cảm ơn）"
+    },
+    {
+      "num": 231,
+      "title": "Hồ Lâm Ngữ muốn trở thành cô gái kho báu"
+    },
+    {
+      "num": 232,
+      "title": "Tôi là anh Thị của cậu (Minh chủ của Mộc Tú Lan Hương OvO)"
+    },
+    {
+      "num": 233,
+      "title": "Nhà của Trịnh Quan Đề"
+    },
+    {
+      "num": 234,
+      "title": "Tin nhắn “Có đó không?” của kẻ si tình"
+    },
+    {
+      "num": 235,
+      "title": "Chiếc hộp Pandora"
+    },
+    {
+      "num": 236,
+      "title": "Quán trà sữa khai trương rồi"
+    },
+    {
+      "num": 237,
+      "title": "Thương Nghiên Nghiên là một cô gái tốt (Momentos Minh)"
+    },
+    {
+      "num": 238,
+      "title": "Nhịn nhường không giải quyết được vấn đề"
+    },
+    {
+      "num": 239,
+      "title": "Thù mới hận cũ"
+    },
+    {
+      "num": 240,
+      "title": "Bàn không xong thì làm sao?"
+    },
+    {
+      "num": 241,
+      "title": "Ăn xiên que đến mẻ mất một chiếc răng"
+    },
+    {
+      "num": 242,
+      "title": "Giả làm bạn trai của cậu?（Minh Bách Ca Liệu Loạn）"
+    },
+    {
+      "num": 243,
+      "title": "Cung Nhân Mã vừa phóng khoáng vừa thú vị"
+    },
+    {
+      "num": 244,
+      "title": "Tiêu Dung Ngư VS La Tuyền"
+    },
+    {
+      "num": 245,
+      "title": "「Tiểu Trần」 không phải ai cũng gọi được"
+    },
+    {
+      "num": 246,
+      "title": "Tình cảm của tên trai đểu cứ như ngắm hoa trong sương"
+    },
+    {
+      "num": 247,
+      "title": "Starbucks và khoai lang nướng"
+    },
+    {
+      "num": 248,
+      "title": "Cậu là người tốt"
+    },
+    {
+      "num": 249,
+      "title": "Bé là bé, cục cưng là cục cưng"
+    },
+    {
+      "num": 250,
+      "title": "Tạm biệt, công chúa họ Trịnh"
+    },
+    {
+      "num": 251,
+      "title": "Dáng vẻ của cậu trong mắt người khác"
+    },
+    {
+      "num": 252,
+      "title": "Khoe ân ái, chết sớm"
+    },
+    {
+      "num": 253,
+      "title": "Điều ước của tôi là thế giới hòa bình（ An Tĩnh Mỹ"
+    },
+    {
+      "num": 254,
+      "title": "Tôi không muốn thấy cậu bị người ta chửi"
+    },
+    {
+      "num": 255,
+      "title": "Cơ hội của Vương Tử Bác"
+    },
+    {
+      "num": 256,
+      "title": "Kho báu xuất hiện sớm hơn hai năm rưỡi"
+    },
+    {
+      "num": 257,
+      "title": "Gã trai đểu thật sự (Mừng 90 minh chủ rồi, còn 10"
+    },
+    {
+      "num": 258,
+      "title": "Xin chào, tôi tên là Trần Hán Thăng (Nguyện vinh quang của bạn...)"
+    },
+    {
+      "num": 259,
+      "title": "Báo thù đang tiến hành (Thượng)"
+    },
+    {
+      "num": 260,
+      "title": "Trả đũa đang tiến hành (giữa)"
+    },
+    {
+      "num": 261,
+      "title": "Lúc trả đũa đang diễn ra (hạ)"
+    },
+    {
+      "num": 262,
+      "title": "Kẻ xấu ắt có kẻ xấu trị"
+    },
+    {
+      "num": 263,
+      "title": "Ai cũng đang diễn"
+    },
+    {
+      "num": 264,
+      "title": "Cuộc nói chuyện ba bên chính thức bắt đầu"
+    },
+    {
+      "num": 265,
+      "title": "Tôi có thể khiến hắn tự kỷ luôn đấy (Minh chủ Vương Thủ Trung)"
+    },
+    {
+      "num": 266,
+      "title": "Thần hộ mệnh của nữ sinh Tài Viện（của Thấy bụi cũng an nhiên）"
+    },
+    {
+      "num": 267,
+      "title": "Hai tháng của Trần Hán Thăng, trăm minh chủ của các bạn."
+    },
+    {
+      "num": 268,
+      "title": "Ngày Thẩm Ấu Sở ngẩng đầu lên"
+    },
+    {
+      "num": 269,
+      "title": "Sắp xếp La Tuyền"
+    },
+    {
+      "num": 270,
+      "title": "Những ngôi sao nhỏ trong lọ"
+    },
+    {
+      "num": 271,
+      "title": "Sao cứ phải chèn ép nhau đến thế"
+    },
+    {
+      "num": 272,
+      "title": "Tôi cược trong súng của cậu không có đạn"
+    },
+    {
+      "num": 273,
+      "title": "Kẻ si tình có tính hay lấy lòng"
+    },
+    {
+      "num": 274,
+      "title": "Hạnh phúc ấm áp"
+    },
+    {
+      "num": 275,
+      "title": "Uống rượu xong mặt đau"
+    },
+    {
+      "num": 276,
+      "title": "Lại làm chó liếm, tôi sẽ đảo ngược họ luôn"
+    },
+    {
+      "num": 277,
+      "title": "Xung phong cứ để cậu, lật kèo có tôi"
+    },
+    {
+      "num": 278,
+      "title": "Câu chuyện tình yêu học đường"
+    },
+    {
+      "num": 279,
+      "title": "Cuộc đời lúc nào cũng không ngừng đứng trước những lựa chọn"
+    },
+    {
+      "num": 280,
+      "title": "Ý nghĩa của nửa tiếng cuối"
+    },
+    {
+      "num": 281,
+      "title": "Cây lửa pháo hoa của gã trai đểu"
+    },
+    {
+      "num": 282,
+      "title": "Tôi đã đi 99 bước vì cậu, cậu không thể bước thêm một bước sao?"
+    },
+    {
+      "num": 283,
+      "title": "Kẻ xấu thật sự"
+    },
+    {
+      "num": 284,
+      "title": "Chuyện đánh nhau"
+    },
+    {
+      "num": 285,
+      "title": "Tiểu Trần vui giận thất thường"
+    },
+    {
+      "num": 286,
+      "title": "Vừa dụ sinh viên đại học, vừa lừa con bé"
+    },
+    {
+      "num": 287,
+      "title": "Ăn gian còn giở trò"
+    },
+    {
+      "num": 288,
+      "title": "Người là của tôi, nhà máy cũng là của tôi"
+    },
+    {
+      "num": 289,
+      "title": "Một dấu chấm câu cũng không thể tin"
+    },
+    {
+      "num": 290,
+      "title": "Nơi làm việc chính là một cuộc đấu ngầm"
+    },
+    {
+      "num": 291,
+      "title": "Trịnh Bố Tư của Trung Quốc (minh chủ Phất Y Khứ RR)"
+    },
+    {
+      "num": 292,
+      "title": "Hỏa Tiễn 101 cuối cùng cũng bị lộ"
+    },
+    {
+      "num": 293,
+      "title": "Phụ nữ 30 tuổi"
+    },
+    {
+      "num": 294,
+      "title": "Mười năm"
+    },
+    {
+      "num": 295,
+      "title": "Đánh cược cho cô nếm mùi bị trai tệ một lần"
+    },
+    {
+      "num": 296,
+      "title": "Bạn đồng hành khởi nghiệp của sinh viên"
+    },
+    {
+      "num": 297,
+      "title": "Quan niệm hôn nhân của những gia đình nhỏ"
+    },
+    {
+      "num": 298,
+      "title": "Sự cố nho nhỏ trong lần đầu đi ngâm chân"
+    },
+    {
+      "num": 299,
+      "title": "Nhật ký xem mắt của gái ế tuổi băm"
+    },
+    {
+      "num": 300,
+      "title": "Cậu có thể kiếm được, nhưng tôi tuyệt đối không lỗ"
+    },
+    {
+      "num": 301,
+      "title": "Thế gian tươi đẹp, từng vòng từng vòng đều gắn với em"
+    },
+    {
+      "num": 302,
+      "title": ""
+    },
+    {
+      "num": 303,
+      "title": "Chiêu trò của cô nàng lăng nhăng"
+    },
+    {
+      "num": 304,
+      "title": "Tôi đến xem mắt"
+    },
+    {
+      "num": 305,
+      "title": "Không mời tôi lên nhà ngồi một lát à?"
+    },
+    {
+      "num": 306,
+      "title": "Sức hút của nhân cách Trần Hán Thăng"
+    },
+    {
+      "num": 307,
+      "title": "Trang điểm đậm có chủ ý"
+    },
+    {
+      "num": 308,
+      "title": "Giáo sư già, hoa khôi trường và tên lưu manh"
+    },
+    {
+      "num": 309,
+      "title": "Quan niệm tình yêu của cô nàng kiêu kỳ"
+    },
+    {
+      "num": 310,
+      "title": "Mối quan hệ của người trưởng thành"
+    },
+    {
+      "num": 311,
+      "title": "Chấn động, công ty Thâm Thông vậy mà sắp phá sản rồi!"
+    },
+    {
+      "num": 312,
+      "title": "Những cú đánh và viên kẹo trong cuộc sống"
+    },
+    {
+      "num": 313,
+      "title": "Khi em già đi, tóc đã bạc trắng"
+    },
+    {
+      "num": 314,
+      "title": "Mầm mống thân phận tương lai của Tiêu Dung Ngư và Thẩm Ấu Sở"
+    },
+    {
+      "num": 315,
+      "title": "Tấm lòng lãng mạn"
+    },
+    {
+      "num": 316,
+      "title": "Mối quan hệ gia đình khép kín kiểu Trung Quốc"
+    },
+    {
+      "num": 317,
+      "title": "Trong nhóm có thêm một cô nàng trà xanh"
+    },
+    {
+      "num": 318,
+      "title": "Gợi ý từ Lượng Kiếm"
+    },
+    {
+      "num": 319,
+      "title": "Cuối năm có quá nhiều việc"
+    },
+    {
+      "num": 320,
+      "title": "Double kill (Chờ đêm nay Tiểu Phượng Hoàng)"
+    },
+    {
+      "num": 321,
+      "title": "Trần Hán Thăng năm nhất nghiên cứu sinh Đông Đại, xin được chỉ giáo"
+    },
+    {
+      "num": 322,
+      "title": "Sao tôi lại thành họ hàng rồi?"
+    },
+    {
+      "num": 323,
+      "title": "Trời ơi, Tiểu Ngư Nhi quên Trần Hán Thăng rồi!"
+    },
+    {
+      "num": 324,
+      "title": "Có gì thì nằm xuống nói"
+    },
+    {
+      "num": 325,
+      "title": "Làm sao để môn nào cũng “được 80 điểm”"
+    },
+    {
+      "num": 326,
+      "title": "Thủ đoạn của trai đểu cao tay"
+    },
+    {
+      "num": 327,
+      "title": "Cái gọi là “cao cấp” chính là không được xa rời đời sống"
+    },
+    {
+      "num": 328,
+      "title": "Bắt đầu từ hôm nay, tôi lại có thêm một điều để ghen tị với cậu"
+    },
+    {
+      "num": 329,
+      "title": ""
+    },
+    {
+      "num": 330,
+      "title": "Lúc bị kiểm tra, phải làm thế nào?"
+    },
+    {
+      "num": 331,
+      "title": "Ừm?"
+    },
+    {
+      "num": 332,
+      "title": "Phụ nữ đúng là thích lôi chuyện cũ ra nói"
+    },
+    {
+      "num": 333,
+      "title": "Hùng hổ xông thẳng vào năm 2004"
+    },
+    {
+      "num": 334,
+      "title": "Lần đầu đi máy bay, làm sao giả vờ như mình thường xuyên đi"
+    },
+    {
+      "num": 335,
+      "title": "Yêu nhau không nên giấu giếm"
+    },
+    {
+      "num": 336,
+      "title": "Cách đoán đồng xu kiểu họ Trần"
+    },
+    {
+      "num": 337,
+      "title": "Một đóa hoa trong núi"
+    },
+    {
+      "num": 338,
+      "title": "Tình yêu giữa những chuyện cơm áo gạo tiền"
+    },
+    {
+      "num": 339,
+      "title": "Cứ để các người khóc, tôi ngủ phần tôi"
+    },
+    {
+      "num": 340,
+      "title": "Này, cái đồ yêu quái vừa đáng ghét vừa đáng yêu này!"
+    },
+    {
+      "num": 341,
+      "title": "Cậu đó là thèm người ta thì có!"
+    },
+    {
+      "num": 342,
+      "title": "Rốt cuộc là họ nào (Cảm ơn Hạ rực rỡ tâm sinh chút)"
+    },
+    {
+      "num": 343,
+      "title": "Niềm vui nho nhỏ của một gia đình"
+    },
+    {
+      "num": 344,
+      "title": "Cái nhìn từ trên cao của chiếc Land Rover (Cảm ơn Tiểu Phi Thảm đã..."
+    },
+    {
+      "num": 345,
+      "title": "Hai đòn chí mạng từ bà nội Tiêu"
+    },
+    {
+      "num": 346,
+      "title": "Trần Tra Nam VS Người Sắt"
+    },
+    {
+      "num": 347,
+      "title": "Mua xe rồi cãi nhau một trận, hoàn hảo!"
+    },
+    {
+      "num": 348,
+      "title": "Trần ca có mười tám khúc quanh trong chiêu trò của mình (Cảm ơn năm"
+    },
+    {
+      "num": 349,
+      "title": "Bà cụ thú vị và đáng yêu"
+    },
+    {
+      "num": 350,
+      "title": "Mượn tiền (Cảm ơn minh chủ Đông Thành thôn trưởng đã thưởng)"
+    },
+    {
+      "num": 351,
+      "title": "Sờ một cái mất 8000"
+    },
+    {
+      "num": 352,
+      "title": "Người đàn ông đứng sau một người phụ nữ (Cảm ơn Đông Thiên Phiên Thiên)"
+    },
+    {
+      "num": 353,
+      "title": "Yêu nhau rồi lại chém nhau"
+    },
+    {
+      "num": 354,
+      "title": "Thêm nữa thì thật sự chịu không nổi (Cảm ơn Mộc Mộc Đát)"
+    },
+    {
+      "num": 355,
+      "title": "Trong đời người, rồi sẽ gặp một vài người không có tình cảm,"
+    },
+    {
+      "num": 356,
+      "title": "Chuyện đối nhân xử thế của Trần Hán Thăng (Cảm ơn Lá rụng bay)"
+    },
+    {
+      "num": 357,
+      "title": "Em gái của Trần Hán Thăng"
+    },
+    {
+      "num": 358,
+      "title": "Cuộc sống đáng yêu và tươi đẹp quá đi mất (Cảm ơn Đỗ Tiểu"
+    },
+    {
+      "num": 359,
+      "title": "Thế giới rất dịu dàng, cứ làm một kẻ phàm tục tham tiền háo sắc"
+    },
+    {
+      "num": 360,
+      "title": "Thế giới rất dịu dàng, cứ làm một kẻ phàm tục tham tiền háo sắc"
+    },
+    {
+      "num": 361,
+      "title": "Chuyện ma phòng 602 Học viện Tài chính"
+    },
+    {
+      "num": 362,
+      "title": "Sự khôn ngoan của trai đểu (Cảm ơn minh chủ The Đường đã ủng hộ)"
+    },
+    {
+      "num": 363,
+      "title": "Ngày đầu tiên đi học sau kỳ nghỉ đông"
+    },
+    {
+      "num": 364,
+      "title": "Được như ý nguyện"
+    },
+    {
+      "num": 365,
+      "title": ""
+    },
+    {
+      "num": 366,
+      "title": "Kỹ thuật dỗ con gái hết giận"
+    },
+    {
+      "num": 367,
+      "title": "Đàn ông có tiền là hư (Cảm ơn bạn đọc “Cảm ơn thế này lợi hại”)"
+    },
+    {
+      "num": 368,
+      "title": "Chuyện cũ của lão Trần"
+    },
+    {
+      "num": 369,
+      "title": "Năm tháng như nước chảy, cũng chẳng bằng người vợ đầu của tôi (Cảm"
+    },
+    {
+      "num": 370,
+      "title": "Tôi muốn trở thành người phụ nữ như chị"
+    },
+    {
+      "num": 371,
+      "title": "Cậu lại gọi tôi là người đàn ông tốt à? (Cảm ơn vì đã vô vị"
+    },
+    {
+      "num": 372,
+      "title": "Nói về trò lắt léo, vẫn phải gọi anh Trần là sư phụ"
+    },
+    {
+      "num": 373,
+      "title": "Đàm phán làm ăn, đâu đâu cũng là bẫy (Cảm ơn Bạch"
+    },
+    {
+      "num": 374,
+      "title": "Sự cố phát thanh ở đài truyền thanh (Xin vé, xin vé)"
+    },
+    {
+      "num": 375,
+      "title": "Cục giấy nhàu nhĩ đáng ngờ (Cảm ơn mọi người đã bỏ phiếu)"
+    },
+    {
+      "num": 376,
+      "title": "Thẩm Ấu Sở ngoan ngoãn và Tiêu Dung Ngư chua xót"
+    },
+    {
+      "num": 377,
+      "title": "Cuộc gặp tình cờ ở cầu Sư Tử"
+    },
+    {
+      "num": 378,
+      "title": "Gia đình giàu có không con và ăn chay"
+    },
+    {
+      "num": 379,
+      "title": "Bạn thân khác giới, tớ muốn ôm cậu"
+    },
+    {
+      "num": 380,
+      "title": "Hơi ấm của một bát bún tiết vịt (Cảm ơn ☆)"
+    },
+    {
+      "num": 381,
+      "title": "Vụ “tranh sủng” đầy ngượng ngùng"
+    },
+    {
+      "num": 382,
+      "title": "Nữ phóng viên đài truyền hình (Cảm ơn Diệp·Diệp Minh"
+    },
+    {
+      "num": 383,
+      "title": "Khi gió hoa trăng tuyết gặp phải hiện thực"
+    },
+    {
+      "num": 384,
+      "title": "Chết thật rồi (Cảm ơn minh chủ “Cô bé kem” đã tặng"
+    },
+    {
+      "num": 385,
+      "title": "Dỗ con gái, tôi rành nhất!"
+    },
+    {
+      "num": 386,
+      "title": "Sinh nhật tuổi hai mươi của cô gái Song Ngư"
+    },
+    {
+      "num": 387,
+      "title": "Chúng ta nói chuyện về đàn ông, cậu cũng muốn nghe à?"
+    },
+    {
+      "num": 388,
+      "title": "La Tuyền bệnh kiều và quân sư đầu chó Hồ Lâm Ngữ"
+    },
+    {
+      "num": 389,
+      "title": "Không phải cứ muốn chiếm lợi của sếp Trần là chiếm được"
+    },
+    {
+      "num": 390,
+      "title": "Một bát nước phải san cho đều"
+    },
+    {
+      "num": 391,
+      "title": "Con cái là ruột thịt của cha mẹ (Cảm ơn Khinh Y)"
+    },
+    {
+      "num": 392,
+      "title": "Người dẫn chương trình đám cưới trị giá 200 đồng"
+    },
+    {
+      "num": 393,
+      "title": "Vào làng lặng lẽ, đừng nổ súng"
+    },
+    {
+      "num": 394,
+      "title": "Bạch nguyệt quang của tôi, chúc mừng sinh nhật!"
+    },
+    {
+      "num": 395,
+      "title": "Cô con gái nuôi hai mươi năm, từ nay đã trưởng thành"
+    },
+    {
+      "num": 396,
+      "title": "Có chỗ dựa thì muốn làm gì cũng được"
+    },
+    {
+      "num": 397,
+      "title": "「Đại ma vương」 nhà họ Trần"
+    },
+    {
+      "num": 398,
+      "title": "Con trai, con không xứng với Tiêu Dung Ngư (Đại chương bao)"
+    },
+    {
+      "num": 399,
+      "title": "Chuẩn bị về Tài viện làm màu"
+    },
+    {
+      "num": 400,
+      "title": "Muốn gây chuyện à? Tôi chiều cậu!"
+    },
+    {
+      "num": 401,
+      "title": "Buổi tán gẫu trong ký túc xá đã lâu không có"
+    },
+    {
+      "num": 402,
+      "title": "Tôi thật sự không định làm tra nữ"
+    },
+    {
+      "num": 403,
+      "title": ""
+    },
+    {
+      "num": 404,
+      "title": "Đàn ông trưởng thành đeo thẻ tay"
+    },
+    {
+      "num": 405,
+      "title": "Ngôi sao của Đại học Tài chính Trần Hán Thăng"
+    },
+    {
+      "num": 406,
+      "title": "Tiêu Dung Ngư bình thường chẳng có gì lạ, Trần Hán Thăng kiếm chút tiền còm"
+    },
+    {
+      "num": 407,
+      "title": "Tuổi thanh xuân của ai mà chẳng từng ngây ngô?"
+    },
+    {
+      "num": 408,
+      "title": "Thực hành đối phó gái đểu (1)"
+    },
+    {
+      "num": 409,
+      "title": "Thực tế dạy cách đối phó với gái đểu (2)"
+    },
+    {
+      "num": 410,
+      "title": "Thực chiến đối phó gái đểu (phần cuối)"
+    },
+    {
+      "num": 411,
+      "title": "Nội hàm «quan bản vị» của hội sinh viên"
+    },
+    {
+      "num": 412,
+      "title": "Thế lực của Trần Hán Thăng ở Tài Đại"
+    },
+    {
+      "num": 413,
+      "title": "Tân sinh viên Học viện Giáo dục Quốc tế lịch sự"
+    },
+    {
+      "num": 414,
+      "title": "Tôi muốn đánh một vụ kiện xuyên quốc gia (Cảm ơn lấy tên)"
+    },
+    {
+      "num": 415,
+      "title": "Khả năng ứng biến của tên đàn ông tồi"
+    },
+    {
+      "num": 416,
+      "title": "Trước kia khinh thường, giờ lại ngưỡng mộ"
+    },
+    {
+      "num": 417,
+      "title": "Phát hiện mới của Hoàng Tuệ"
+    },
+    {
+      "num": 418,
+      "title": "Kẻ nhát gan trong tình yêu (Phần 1)"
+    },
+    {
+      "num": 419,
+      "title": "Kẻ hèn nhát trong tình yêu (Hạ)"
+    },
+    {
+      "num": 420,
+      "title": "Làm một tên khờ chịu chơi có gu"
+    },
+    {
+      "num": 421,
+      "title": "Khăn quàng đỏ của gã trai tồi (Cảm ơn một chữ cũng không sửa..."
+    },
+    {
+      "num": 422,
+      "title": "Hai bà mẹ và hai cô con dâu"
+    },
+    {
+      "num": 423,
+      "title": "Thành phố lắm trò, tôi muốn về quê"
+    },
+    {
+      "num": 424,
+      "title": "Người tốt nào cũng chẳng có nguyên tắc, kẻ xấu thì thích trở mặt lúc nào cũng được"
+    },
+    {
+      "num": 425,
+      "title": "Đám họ hàng ngu ngốc này đúng là chẳng đỡ nổi (Cảm ơn"
+    },
+    {
+      "num": 426,
+      "title": "Trách tôi để mọi người ăn no quá rồi"
+    },
+    {
+      "num": 427,
+      "title": "Em có mấy ông bố tốt?"
+    },
+    {
+      "num": 428,
+      "title": "Thật ra, Trần Hán Thăng chê tôi"
+    },
+    {
+      "num": 429,
+      "title": "Lời của sếp Trần, đến một dấu chấm câu cũng không thể tin"
+    },
+    {
+      "num": 430,
+      "title": "Bữa tối sinh nhật đơn giản"
+    },
+    {
+      "num": 431,
+      "title": "Tòa nhà nghìn trượng dựng từ mặt đất"
+    },
+    {
+      "num": 432,
+      "title": "Kỳ nghỉ hè từ năm hai lên năm ba (xin vé tháng)"
+    },
+    {
+      "num": 433,
+      "title": "Trần Hán Thăng “ngoan ngoãn”"
+    },
+    {
+      "num": 434,
+      "title": "Tôi cũng biết nói đạo lý sáo rỗng mà"
+    },
+    {
+      "num": 435,
+      "title": "Mong năm tháng có thể quay đầu"
+    },
+    {
+      "num": 436,
+      "title": ""
+    },
+    {
+      "num": 437,
+      "title": "Trần Hán Thăng vừa lễ phép vừa ham học"
+    },
+    {
+      "num": 438,
+      "title": "Lừa cả hai đầu là xong chuyện"
+    },
+    {
+      "num": 439,
+      "title": "Lên nào, Pikachu (Cảm ơn tế mặc tiên sinh của"
+    },
+    {
+      "num": 440,
+      "title": "Lên cơn (Xin phiếu, xin phiếu)"
+    },
+    {
+      "num": 441,
+      "title": "Đêm nay chẳng yên ổn (Thượng)"
+    },
+    {
+      "num": 442,
+      "title": "Đêm nay chẳng được yên bình (giữa)"
+    },
+    {
+      "num": 443,
+      "title": "Đêm nay chẳng yên ổn (hạ)"
+    },
+    {
+      "num": 444,
+      "title": "Cô có muốn về nhà với tôi không?"
+    },
+    {
+      "num": 445,
+      "title": "Lưu Bằng Phi, Trần Hán Thăng gọi anh gánh tiếng xấu kìa!"
+    },
+    {
+      "num": 446,
+      "title": "Thượng đế thích phụ nữ diêm dúa"
+    },
+    {
+      "num": 447,
+      "title": "Khởi đầu của tháng năm sông núi (Xin vé, xin vé)"
+    },
+    {
+      "num": 448,
+      "title": "Giả như, tòa nhà cao ngất ấy sụp xuống"
+    },
+    {
+      "num": 449,
+      "title": "Bạn học và bạn bè (Cảm ơn minh chủ CLV Quýt Tử)"
+    },
+    {
+      "num": 450,
+      "title": "Người đầu tiên rời đi"
+    },
+    {
+      "num": 451,
+      "title": "Lần cuối cùng dùng tiền đè người trong năm 2004"
+    },
+    {
+      "num": 452,
+      "title": "Trỗi dậy, đỉnh cao và lụi tàn"
+    },
+    {
+      "num": 453,
+      "title": "Trần Hán Thăng đỉnh vãi (Cảm ơn Mục 々 Dương đã góp minh chủ)"
+    },
+    {
+      "num": 454,
+      "title": "Vương Tử Bác cứng như thép"
+    },
+    {
+      "num": 455,
+      "title": "Trước hết phải dẹp được ông lớn trong trường"
+    },
+    {
+      "num": 456,
+      "title": "Bạn học, cậu muốn được giữ lại học cao học không?（Cầu phiếu, cầu...）"
+    },
+    {
+      "num": 457,
+      "title": "Tuyên bố chính thức “phá sản”"
+    },
+    {
+      "num": 458,
+      "title": "「Phá sản」Cô gái báu vật của Chu Ký"
+    },
+    {
+      "num": 459,
+      "title": "「Phá sản」Tình bạn cùng lớp của Chu Ký"
+    },
+    {
+      "num": 460,
+      "title": "「Phá sản」Nhật ký tuần: Chiến trường Tu La"
+    },
+    {
+      "num": 461,
+      "title": "Điều binh khiển tướng, đối phó tu la tràng"
+    },
+    {
+      "num": 462,
+      "title": "Một cái ôm, Tu La tràng biến thành cảnh ấm áp"
+    },
+    {
+      "num": 463,
+      "title": "Vô địch cũng là một nỗi cô đơn"
+    },
+    {
+      "num": 464,
+      "title": "Ngày chó liếm cũng có lúc tỉnh ngộ (Cảm ơn Nhuận Sinh"
+    },
+    {
+      "num": 465,
+      "title": "Tử Bác, cố lên!"
+    },
+    {
+      "num": 466,
+      "title": "Tiểu Trần, tôi đá Hoàng Tuệ rồi"
+    },
+    {
+      "num": 467,
+      "title": ""
+    },
+    {
+      "num": 468,
+      "title": "Tôi muốn giở trò với cô bạn thân họ Trịnh một phen"
+    },
+    {
+      "num": 469,
+      "title": "Bạn thân, không khách sáo"
+    },
+    {
+      "num": 470,
+      "title": "Trần Hán Thăng cố tình gây chuyện"
+    },
+    {
+      "num": 471,
+      "title": "Kẻ phản diện đầu tiên sau khi phá sản lại là người nhà"
+    },
+    {
+      "num": 472,
+      "title": "Chạy đi nào, Lương Thái Hậu!"
+    },
+    {
+      "num": 473,
+      "title": "Hai chuyện vui chưa đủ, ba chuyện vui góp lại"
+    },
+    {
+      "num": 474,
+      "title": "Trần Hán Thăng, tôi có bạn trai rồi"
+    },
+    {
+      "num": 475,
+      "title": "Xin chào, từng thấy kẻ dê xồm chưa?"
+    },
+    {
+      "num": 476,
+      "title": "Có tiền thì cũng đâu đáng bị kỳ thị"
+    },
+    {
+      "num": 477,
+      "title": "Cô gái kho báu và Trần ngốc"
+    },
+    {
+      "num": 478,
+      "title": "Bạch nguyệt quang và Tiểu Trần"
+    },
+    {
+      "num": 479,
+      "title": "Bạn thân của tôi, bạn nối khố của cậu"
+    },
+    {
+      "num": 480,
+      "title": "Gái đểu là chất xúc tác giúp con trai trưởng thành"
+    },
+    {
+      "num": 481,
+      "title": ""
+    },
+    {
+      "num": 482,
+      "title": "Kho báu và bạch nguyệt quang, cả hai cô ấy đều đang cùng nhau trưởng thành"
+    },
+    {
+      "num": 483,
+      "title": "「Chủ tịch Thẩm」 và 「Tổng giám đốc Hồ」 có tố chất làm ăn"
+    },
+    {
+      "num": 484,
+      "title": "Thứ thu hút ánh mắt đàn ông nhất là tất đen"
+    },
+    {
+      "num": 485,
+      "title": "「Uống nhiều nước ấm」 là cách xóa tan mọi khó khăn"
+    },
+    {
+      "num": 486,
+      "title": "Khi những cô gái xinh đẹp tụ lại xuất hiện (Cảm ơn"
+    },
+    {
+      "num": 487,
+      "title": "Mọi chuyện đều là một sự sắp đặt vừa vặn"
+    },
+    {
+      "num": 488,
+      "title": "Bốn đóa hoa của văn phòng luật (Cảm ơn Dư Nhĩ Bạch Thủ)"
+    },
+    {
+      "num": 489,
+      "title": "Chiêu trò mất nết đến gãy chân (Thượng)"
+    },
+    {
+      "num": 490,
+      "title": "Trò đểu đau cả chân (2)"
+    },
+    {
+      "num": 491,
+      "title": "Chiêu trò đỉnh của chóp (Hạ)"
+    },
+    {
+      "num": 492,
+      "title": "Cô bạn thân Trịnh Quan Đề chỉ biết chơi đùa tình cảm"
+    },
+    {
+      "num": 493,
+      "title": "Lời hẹn"
+    },
+    {
+      "num": 494,
+      "title": "Bạn của phụ nữ Trần Hán Thăng"
+    },
+    {
+      "num": 495,
+      "title": "Đằng nào sau này cũng là của Tiêu Dung Ngư!"
+    },
+    {
+      "num": 496,
+      "title": "Trong cuộc sống lúc nào cũng có một hai chuyện ngoài ý muốn"
+    },
+    {
+      "num": 497,
+      "title": "Khoảng thời gian anh bị người ta cướp mất"
+    },
+    {
+      "num": 498,
+      "title": ""
+    },
+    {
+      "num": 499,
+      "title": "Những “lời nói dối” hợp tình hợp lý của trai đểu"
+    },
+    {
+      "num": 500,
+      "title": "Nếu cậu có 500 nghìn (Cảm ơn ông Lưu)"
+    },
+    {
+      "num": 501,
+      "title": "「Cô công nhân nhà máy」có giá trị 500 nghìn tệ"
+    },
+    {
+      "num": 502,
+      "title": "Đại diện “nữ quyền” Hồ Lâm Ngữ"
+    },
+    {
+      "num": 503,
+      "title": "Làm màu gặp sét đánh"
+    },
+    {
+      "num": 504,
+      "title": "Ngựa tốt không ăn cỏ cũ"
+    },
+    {
+      "num": 505,
+      "title": "Cô gái trông giống Vương Tổ Hiền"
+    },
+    {
+      "num": 506,
+      "title": "Huyền học về cuộc gọi của người yêu và vợ"
+    },
+    {
+      "num": 507,
+      "title": "Vương Tử Bác, cậu ấy không được tính là người à?"
+    },
+    {
+      "num": 508,
+      "title": "Cô bạn gái hai mươi phút (Xin vé, xin vé)"
+    },
+    {
+      "num": 509,
+      "title": ""
+    },
+    {
+      "num": 510,
+      "title": "Những mảng hài đen trong cuộc sống"
+    },
+    {
+      "num": 511,
+      "title": "Ông chủ, gọi tôi đắt lắm đấy"
+    },
+    {
+      "num": 512,
+      "title": "Chơi game không, Yasuo tôi cân tất"
+    },
+    {
+      "num": 513,
+      "title": "Vì em, anh chịu gió lạnh"
+    },
+    {
+      "num": 514,
+      "title": "Thế này thì mặt dày quá rồi đấy"
+    },
+    {
+      "num": 515,
+      "title": "Cậu có thể giả làm bạn trai, nói với tôi vài câu được không?"
+    },
+    {
+      "num": 516,
+      "title": "Nhìn thế giới dưới góc nhìn của “mẹ ruột”"
+    },
+    {
+      "num": 517,
+      "title": "Áp lực đến từ Thái hậu Lương"
+    },
+    {
+      "num": 518,
+      "title": "Có vợ quên mẹ"
+    },
+    {
+      "num": 519,
+      "title": ""
+    },
+    {
+      "num": 520,
+      "title": "Hiệu trưởng trường Tài chính muốn mách lẻo"
+    },
+    {
+      "num": 521,
+      "title": "Theo vai vế, cô ấy phải gọi mẹ là bà nội"
+    },
+    {
+      "num": 522,
+      "title": "Dì ơi, cháu có thai với Trần Hán Thăng rồi"
+    },
+    {
+      "num": 523,
+      "title": "Vui vẻ làm bố à?"
+    },
+    {
+      "num": 524,
+      "title": "Lão Trần đồng chí sáng suốt, rộng lượng"
+    },
+    {
+      "num": 525,
+      "title": "Lương Thái hậu có công lớn nhất (Thượng)"
+    },
+    {
+      "num": 526,
+      "title": "Bà Lương có công lớn nhất (giữa)"
+    },
+    {
+      "num": 527,
+      "title": "Lương Thái hậu có công lớn nhất (hạ)"
+    },
+    {
+      "num": 528,
+      "title": "Hai mặt cuộc đời của công chúa Trịnh Quan Đề"
+    },
+    {
+      "num": 529,
+      "title": "Trịnh Quan Đề thật oai!"
+    },
+    {
+      "num": 530,
+      "title": "Lương Mỹ Quyên thật sự muốn làm bà nội"
+    },
+    {
+      "num": 531,
+      "title": "Hay là... cứ chốt Thẩm Ấu Sở đi!"
+    },
+    {
+      "num": 532,
+      "title": "Kim Dương Minh và Đông Nhi"
+    },
+    {
+      "num": 533,
+      "title": "Đỉnh cao của nghệ thuật khen người"
+    },
+    {
+      "num": 534,
+      "title": "Cơ hội để Vương Tử Bác trưởng thành lần thứ hai"
+    },
+    {
+      "num": 535,
+      "title": "Tận tay dạy cậu cách làm quen với người khác giới"
+    },
+    {
+      "num": 536,
+      "title": "Phục bút và mưu mẹo"
+    },
+    {
+      "num": 537,
+      "title": "Xin lỗi, tổ chức đã chọn anh rồi!"
+    },
+    {
+      "num": 538,
+      "title": "Hết đường lại thấy đường!"
+    },
+    {
+      "num": 539,
+      "title": "Xương ngựa của thiên kim"
+    },
+    {
+      "num": 540,
+      "title": "Giáng sinh, làm sao để ở bên cả hai cô ấy cho chu toàn nhất"
+    },
+    {
+      "num": 541,
+      "title": "Trăng rất sáng, sáng cũng chẳng ích gì, chẳng ích gì vẫn cứ sáng"
+    },
+    {
+      "num": 542,
+      "title": "Câu chuyện tình yêu của Tiểu Kim"
+    },
+    {
+      "num": 543,
+      "title": "Cáo già lọc lõi Trần Hán Thăng"
+    },
+    {
+      "num": 544,
+      "title": "Những tạp niệm làm thay đổi số phận"
+    },
+    {
+      "num": 545,
+      "title": "Lúc tủi thân, đáng sợ nhất là lời an ủi của người khác"
+    },
+    {
+      "num": 546,
+      "title": "Từ nay về sau, tôi cũng là người lái Land Rover rồi"
+    },
+    {
+      "num": 547,
+      "title": "Kẻ làm công cụ thảm nhất"
+    },
+    {
+      "num": 548,
+      "title": "Ngẩng đầu là địa ngục, cúi đầu cũng là địa ngục"
+    },
+    {
+      "num": 549,
+      "title": "“Trai bao” của các hoa khôi"
+    },
+    {
+      "num": 550,
+      "title": "Ăn cơm mềm, đúng là thơm thật!"
+    },
+    {
+      "num": 551,
+      "title": "Bốn đóa hoa khiến người ta thèm thuồng"
+    },
+    {
+      "num": 552,
+      "title": "Quả Xác Điện Tử"
+    },
+    {
+      "num": 553,
+      "title": "Vụ tụ tập gây rối thảm nhất lịch sử"
+    },
+    {
+      "num": 554,
+      "title": "Ông chủ tội nghiệp, suốt ngày bị lừa"
+    },
+    {
+      "num": 555,
+      "title": "Trần Hán Thăng càng ngày càng không đáng tin (xin phiếu xin"
+    },
+    {
+      "num": 556,
+      "title": "Doanh nghiệp lưu manh, ông chủ lưu manh"
+    },
+    {
+      "num": 557,
+      "title": "Xin lỗi, trước đây tôi từng muốn làm người tốt"
+    },
+    {
+      "num": 558,
+      "title": "Ông chủ diễn sâu và cô thư ký diễn sâu"
+    },
+    {
+      "num": 559,
+      "title": "Tình yêu ngọt ngào ở khắp mọi nơi"
+    },
+    {
+      "num": 560,
+      "title": "Trận đánh đầu tiên giữa Quả Xác Điện Tử và Tân Thế Kỷ"
+    },
+    {
+      "num": 561,
+      "title": "Dùng mánh khóe là giải quyết được hết mấy chuyện không phục"
+    },
+    {
+      "num": 562,
+      "title": "Cho thời gian thêm chút thời gian, đợi chuyện đã qua thực sự qua đi,"
+    },
+    {
+      "num": 563,
+      "title": "Chúng ta mãi mãi là bạn thân tốt của nhau"
+    },
+    {
+      "num": 564,
+      "title": "Lời nói dối vốn tự nhiên mà có, cao tay đôi khi cũng chỉ tình cờ nghĩ ra"
+    },
+    {
+      "num": 565,
+      "title": "Triết lý sống của Trần Hán Thăng"
+    },
+    {
+      "num": 566,
+      "title": "Mỗi khi tôi nhớ em, bầu trời sẽ bay một bông tuyết"
+    },
+    {
+      "num": 567,
+      "title": ""
+    },
+    {
+      "num": 568,
+      "title": "Đàn ông càng đẹp trai, càng biết nói dối"
+    },
+    {
+      "num": 569,
+      "title": "「Vương Tổng」nghe vẫn oách hơn 「Vương Công」"
+    },
+    {
+      "num": 570,
+      "title": "Gọi một tiếng “bố” làm nóng không khí"
+    },
+    {
+      "num": 571,
+      "title": "Giở trò ăn vạ với Trần Hán Thăng, cô đủ tư cách à?"
+    },
+    {
+      "num": 572,
+      "title": "Đàn ông đích thực thì phải đứng giữa tâm vụ nổ!"
+    },
+    {
+      "num": 573,
+      "title": "Dù sao thì đây cũng chỉ là một vụ làm ăn thôi"
+    },
+    {
+      "num": 574,
+      "title": "Trần Trư, em muốn anh nhìn thấu chút mạnh mẽ giả vờ của em cơ!"
+    },
+    {
+      "num": 575,
+      "title": "Tình yêu ngọt ngào, Häagen-Dazs ngọt ngào"
+    },
+    {
+      "num": 576,
+      "title": "Tôi làm được, nhưng tôi cũng muốn hôn cậu"
+    },
+    {
+      "num": 577,
+      "title": "Mong mỗi người đều được đối xử dịu dàng (xin vé xin"
+    },
+    {
+      "num": 578,
+      "title": "Nói móc người khác mà chẳng cần văng tục"
+    },
+    {
+      "num": 579,
+      "title": "Ký ức tuổi thơ của A Ninh và Quách Giai Tuệ"
+    },
+    {
+      "num": 580,
+      "title": "Người diễn sâu số một của Tài Đại"
+    },
+    {
+      "num": 581,
+      "title": "Kho báu thuộc về Đại Ma Vương"
+    },
+    {
+      "num": 582,
+      "title": "Tình yêu tuổi trẻ mới là thứ khiến người ta rung động nhất"
+    },
+    {
+      "num": 583,
+      "title": "Hai cha con có EQ cao"
+    },
+    {
+      "num": 584,
+      "title": "Chúng ta đều là những người bình thường"
+    },
+    {
+      "num": 585,
+      "title": "Tôi đi giúp mấy cô em dán câu đối, đâu có quá đáng gì đâu"
+    },
+    {
+      "num": 586,
+      "title": "Trước tiên lừa bạch nguyệt quang, sau đó lại dụ cô bạn thân"
+    },
+    {
+      "num": 587,
+      "title": "Thứ tự ẩn sau việc dán câu đối"
+    },
+    {
+      "num": 588,
+      "title": "Giữa muôn vàn lời nói dối, vẫn có một chút dịu dàng"
+    },
+    {
+      "num": 589,
+      "title": "Năm 2005, hy vọng 「Trần mỗ mỗ」 biến thành 「Giám đốc Trần」"
+    },
+    {
+      "num": 590,
+      "title": "Những người thân vừa thật thà vừa phiền phức"
+    },
+    {
+      "num": 591,
+      "title": "Năm ấy hai mươi mốt, họp lớp, thấp bé đến mức..."
+    },
+    {
+      "num": 592,
+      "title": "Năm ấy hai mươi mốt, họp lớp, hèn mọn như"
+    },
+    {
+      "num": 593,
+      "title": "Thanh xuân rồi sẽ qua đi của chúng ta"
+    },
+    {
+      "num": 594,
+      "title": "Những ông bố bà mẹ vừa đáng yêu vừa sĩ diện"
+    },
+    {
+      "num": 595,
+      "title": "Quả Xác Điện Tử âm thầm phát triển (Cảm ơn vì đã không"
+    },
+    {
+      "num": 596,
+      "title": ""
+    },
+    {
+      "num": 597,
+      "title": "Người đi công tác là tôi, người dậy sớm lại là em"
+    },
+    {
+      "num": 598,
+      "title": "Phụ nữ tắm 2 tệ, đàn ông tắm 400 tệ"
+    },
+    {
+      "num": 599,
+      "title": "“Di sản” của bạn thân họ Trịnh"
+    },
+    {
+      "num": 600,
+      "title": "Thỉnh thoảng lại rải vài manh mối cho “tu la tràng”"
+    },
+    {
+      "num": 601,
+      "title": "La sư muội cố chấp điên cuồng"
+    },
+    {
+      "num": 602,
+      "title": "Anh là người hùng của em! (Cảm ơn vì không nể tình)"
+    },
+    {
+      "num": 603,
+      "title": "Chuyện sau cú gậy đó"
+    },
+    {
+      "num": 604,
+      "title": "Kế hoạch Địa Cầu Lưu Lạc"
+    },
+    {
+      "num": 605,
+      "title": "Đời sống đại học thật tuyệt!"
+    },
+    {
+      "num": 606,
+      "title": "Dì họ Trịnh và bố Trần"
+    },
+    {
+      "num": 607,
+      "title": "“Tín đồ vỏ sò”, ý tưởng tiếp thị đi trước mười năm"
+    },
+    {
+      "num": 608,
+      "title": "Dì Trịnh bị vỏ hạt làm tức ngất"
+    },
+    {
+      "num": 609,
+      "title": "Ông chủ Quả Xác mua mì ăn liền mà không có gói gia vị (Cầu"
+    },
+    {
+      "num": 610,
+      "title": "Từng người một, toàn là những pha xử lý như thần tiên (xin vé, xin vé)"
+    },
+    {
+      "num": 611,
+      "title": "Bị đời vả mới là người thầy tốt nhất"
+    },
+    {
+      "num": 612,
+      "title": "Không có điều kiện thì tạo điều kiện để cậu nghi ngờ người khác"
+    },
+    {
+      "num": 613,
+      "title": "Luôn có kẻ gian muốn hại trẫm!"
+    },
+    {
+      "num": 614,
+      "title": "Em khóa dưới khoa Phát thanh do bà dì ba giới thiệu?"
+    },
+    {
+      "num": 615,
+      "title": "Nắng không gắt, gió vừa hay, đúng lúc để làm màu"
+    },
+    {
+      "num": 616,
+      "title": "602 Kẻ nằm vùng và phượng hoàng trong phòng 602"
+    },
+    {
+      "num": 617,
+      "title": "Sếp Trần muốn một cô gái trẻ đẹp"
+    },
+    {
+      "num": 618,
+      "title": "Tôi muốn được nhìn thấy ngày cậu kết hôn"
+    },
+    {
+      "num": 619,
+      "title": "Người phụ nữ duy nhất có thể đấu độ “đểu” với Trần Hán Thăng"
+    },
+    {
+      "num": 620,
+      "title": "Muốn giải sầu, chỉ có massage"
+    },
+    {
+      "num": 621,
+      "title": "Tôi xấu trai, nhưng lòng tôi dịu dàng"
+    },
+    {
+      "num": 622,
+      "title": "Đều tại cái tên Hồng Sĩ Dũng khốn kiếp!"
+    },
+    {
+      "num": 623,
+      "title": "Một chiếc MP4, soi ra đủ kiểu sinh viên đại học"
+    },
+    {
+      "num": 624,
+      "title": "Bài hát hay nhất trên đời (xin vé tháng sau)"
+    },
+    {
+      "num": 625,
+      "title": "Thiên phú được ông trời ưu ái"
+    },
+    {
+      "num": 626,
+      "title": "Ba người chúng ta, môi của ai mềm nhất?"
+    },
+    {
+      "num": 627,
+      "title": "Tôi muốn bắn chết tên khốn nạn này! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 628,
+      "title": "Gọi tôi là Tiểu Thăng là được rồi"
+    },
+    {
+      "num": 629,
+      "title": "Triệu Đồng, năm ngoái tôi mua cái đồng hồ"
+    },
+    {
+      "num": 630,
+      "title": "Đây đúng là thời đại mà trai đểu ao ước nhất! (Xin vé tháng)"
+    },
+    {
+      "num": 631,
+      "title": ""
+    },
+    {
+      "num": 632,
+      "title": "Hành động thế nào mới kích thích nhất?"
+    },
+    {
+      "num": 633,
+      "title": "Sự ăn ý khi hai cô bạn thân bắt tay"
+    },
+    {
+      "num": 634,
+      "title": "Thời này, “ha ha” chỉ đơn giản là “ha ha”"
+    },
+    {
+      "num": 635,
+      "title": "Ông chủ lớn của Quả Xác là anh em của tôi! (Xin vé, xin vé)"
+    },
+    {
+      "num": 636,
+      "title": "Tu la tràng và mèo béo"
+    },
+    {
+      "num": 637,
+      "title": "Vứt cả mạng sống, lấy thân mình chắn đạn của Vương Tử Bác"
+    },
+    {
+      "num": 638,
+      "title": "Bạn từng thấy dấu chấm than màu đỏ chưa?"
+    },
+    {
+      "num": 639,
+      "title": "Bởi vì, Quả Xác là của tôi"
+    },
+    {
+      "num": 640,
+      "title": "Số tiền này, thật ra là của ba chúng ta"
+    },
+    {
+      "num": 641,
+      "title": "Tiểu Ngư Nhi, cậu quen Thẩm Ấu Sở à?"
+    },
+    {
+      "num": 642,
+      "title": "Tra nam đâu có dễ làm đến thế"
+    },
+    {
+      "num": 643,
+      "title": "Trần Hán Thăng: Tôi thật sự muốn kết bạn với mấy người mê tiền"
+    },
+    {
+      "num": 644,
+      "title": "Đánh không lại tôi thì ôm nhau lập hội"
+    },
+    {
+      "num": 645,
+      "title": "Rốt cuộc vẫn là một mình gánh hết mọi chuyện"
+    },
+    {
+      "num": 646,
+      "title": "Quản mạng, tôi muốn nạp 5 triệu tệ mua gói hội viên QQ cả năm"
+    },
+    {
+      "num": 647,
+      "title": "Con trai hay cười thì vận may thường không đến nỗi nào"
+    },
+    {
+      "num": 648,
+      "title": "Đoán xem, tôi là chồng của Khổng Tĩnh à?"
+    },
+    {
+      "num": 649,
+      "title": "Ba mảng sự nghiệp của Trần Hán Thăng"
+    },
+    {
+      "num": 650,
+      "title": "Thẩm Ấu Sở và dì Hai Mạc (Chương lớn đúng nghĩa, xin phiếu)"
+    },
+    {
+      "num": 651,
+      "title": "Người trẻ bị ngọn lửa ghen tuông che mờ lý trí"
+    },
+    {
+      "num": 652,
+      "title": "Loại người như tôi, chuyện gì cũng làm được"
+    },
+    {
+      "num": 653,
+      "title": "Trần Hán Thăng, sau này cậu làm ơn lịch sự với Thẩm Ấu Sở một chút"
+    },
+    {
+      "num": 654,
+      "title": "Dám giở trò gian lận, tôi sẽ lật bàn! (Lớn"
+    },
+    {
+      "num": 655,
+      "title": "Trà xanh và triệu phú (Cầu phiếu)"
+    },
+    {
+      "num": 656,
+      "title": "Những người bạn đáng yêu này (Thượng)"
+    },
+    {
+      "num": 657,
+      "title": "Những người bạn đáng yêu này (Hạ)"
+    },
+    {
+      "num": 658,
+      "title": "Gặp đúng người vào đúng thời điểm"
+    },
+    {
+      "num": 659,
+      "title": "Thâm tình và bên nhau dài lâu, gã du côn và hoa khôi trường"
+    },
+    {
+      "num": 660,
+      "title": "Âm gian với dương gian cùng nhau gọi người"
+    },
+    {
+      "num": 661,
+      "title": "Vượt qua ngọn núi này, phía trước toàn là tiền"
+    },
+    {
+      "num": 662,
+      "title": "Chiêu ép đối thủ phải tự thêm cảnh cho mình"
+    },
+    {
+      "num": 663,
+      "title": "Hồi kèn phản công của Quả Xác (Cảm ơn Tam Thất Hỗ Ngu)"
+    },
+    {
+      "num": 664,
+      "title": "Người như Trần Hán Thăng, có sữa thì gọi mẹ"
+    },
+    {
+      "num": 665,
+      "title": "“Người nổi tiếng bán hàng” của Tài Đại, Chủ tịch Trần"
+    },
+    {
+      "num": 666,
+      "title": "Quả Xác không kiếm tiền dù có tiền (Cầu phiếu)"
+    },
+    {
+      "num": 667,
+      "title": "Danh ngôn danh ngữ: Đều con mẹ nó tại Trịnh Quan Đề!"
+    },
+    {
+      "num": 668,
+      "title": "Hồng Sĩ Dũng: Tôi bị bôi xấu đến mức nảy sinh tình cảm rồi"
+    },
+    {
+      "num": 669,
+      "title": "Thế kỷ mới, mãi mãi chỉ có một “Tổng giám đốc Trịnh”!"
+    },
+    {
+      "num": 670,
+      "title": "Mua một chiếc MP4 của Quả Xác làm quà tặng Trần Hán"
+    },
+    {
+      "num": 671,
+      "title": "Chưa từng được huấn luyện, làm sao mới đảm bảo không bật cười"
+    },
+    {
+      "num": 672,
+      "title": "Cầm cố IQ đổi lấy cái mặt dày (xin vé, xin vé"
+    },
+    {
+      "num": 673,
+      "title": "Nếu có một ngày, Mạc Kha PK Tôn Bích Dư thì sao?"
+    },
+    {
+      "num": 674,
+      "title": ""
+    },
+    {
+      "num": 675,
+      "title": "Vậy thì chia tay đi (Xin vé)"
+    },
+    {
+      "num": 676,
+      "title": "Làm bộ giàu cỡ hơn trăm triệu (Xin phiếu)"
+    },
+    {
+      "num": 677,
+      "title": "Kế hoạch cứu Kuaibo (Ba chương cầu phiếu)"
+    },
+    {
+      "num": 678,
+      "title": "Gặp chuyện không biết làm gì thì xóa ổ E (ngày cuối cùng xin vé)"
+    },
+    {
+      "num": 679,
+      "title": "Ông chủ Quả Xác là một tên vô lại (Tối nay còn một chương)"
+    },
+    {
+      "num": 680,
+      "title": "Thế giới này đúng là kỳ quặc (Cảm ơn Lam Thiên Bạch Vân"
+    },
+    {
+      "num": 681,
+      "title": "Ảnh hưởng từ thân phận thật sự của Trần Hán Thăng（Phần lớn）"
+    },
+    {
+      "num": 682,
+      "title": "Mơ về tu la tràng năm ấy"
+    },
+    {
+      "num": 683,
+      "title": "Cho tôi một chút tình yêu, tôi có thể gọi anh là bố!"
+    },
+    {
+      "num": 684,
+      "title": "2 triệu bao tôi cả đời, được không?"
+    },
+    {
+      "num": 685,
+      "title": "Với trai đểu mà nói, điện thoại còn quan trọng hơn mạng"
+    },
+    {
+      "num": 686,
+      "title": "Chủ tịch hội sinh viên với nhau, lời nói và việc làm đều là bài học cho đàn em (cầu"
+    },
+    {
+      "num": 687,
+      "title": "Vốn hạt giống và Kình Vũ Đoàn"
+    },
+    {
+      "num": 688,
+      "title": "Thời gian giống như nước trong miếng bọt biển, vắt một chút là vẫn còn"
+    },
+    {
+      "num": 689,
+      "title": "Trịnh Quan Đề và Tiểu Mễ"
+    },
+    {
+      "num": 690,
+      "title": "Quán trà sữa thuộc top 500 thế giới?"
+    },
+    {
+      "num": 691,
+      "title": "Những niềm vui nho nhỏ trong cuộc sống"
+    },
+    {
+      "num": 692,
+      "title": "Rung động tình đầu muốn từ chối mà lại cứ như đang chờ người ta tiến tới"
+    },
+    {
+      "num": 693,
+      "title": "Hạnh phúc ấy mà, nó đang đợi bạn ở ngã rẽ phía trước"
+    },
+    {
+      "num": 694,
+      "title": "Người thật thà bình thường không nổi giận, đã nổi giận thì lấy mạng bạn!"
+    },
+    {
+      "num": 695,
+      "title": "Lần đầu hẹn hò đã phải vào đồn công an là cảm giác gì"
+    },
+    {
+      "num": 696,
+      "title": "Lỡ tay tự đào hố chôn mình"
+    },
+    {
+      "num": 697,
+      "title": "Chuyện gì trên đời cũng có cách gỡ"
+    },
+    {
+      "num": 698,
+      "title": "Trần Hán Thăng: Một “Bồ Tát sống” tiêu chuẩn kép"
+    },
+    {
+      "num": 699,
+      "title": "Gõ chữ nhanh thì sao nào?"
+    },
+    {
+      "num": 700,
+      "title": "「Quả Mễ」Viện nghiên cứu liên hợp"
+    },
+    {
+      "num": 701,
+      "title": "Cậu dám bắt nạt tôi, tôi sẽ bắt nạt con cậu"
+    },
+    {
+      "num": 702,
+      "title": "Thương Nghiên Nghiên muốn quyến rũ tôi?"
+    },
+    {
+      "num": 703,
+      "title": "Trần Hán Thăng không có bất kỳ sơ hở nào?"
+    },
+    {
+      "num": 704,
+      "title": "Ra ngoài thì mạnh miệng, về nhà lại khúm núm"
+    },
+    {
+      "num": 705,
+      "title": "Việc tôi làm ăn còn nhanh kiếm tiền hơn cướp tiền nhiều!"
+    },
+    {
+      "num": 706,
+      "title": "Làm sao đối xử với “con rể” có gia sản hơn trăm triệu"
+    },
+    {
+      "num": 707,
+      "title": "Ngoại hình đẹp thì đâu đâu cũng giống nhau, tâm hồn thú vị mới là thứ đáng nói"
+    },
+    {
+      "num": 708,
+      "title": "Tôi yêu em, nên tôi bằng lòng chịu chút tủi thân vì em"
+    },
+    {
+      "num": 709,
+      "title": "Biên Thi Thi, anh yêu em!!! (6000 chữ"
+    },
+    {
+      "num": 710,
+      "title": "Người thật thà và tên lưu manh"
+    },
+    {
+      "num": 711,
+      "title": "La Tuyền đúng là một cái lưới khó gỡ mà"
+    },
+    {
+      "num": 712,
+      "title": "Xuân phong đắc ý, vó ngựa phi nhanh"
+    },
+    {
+      "num": 713,
+      "title": "Điện thoại Quả Xác sắp “diss” Samsung rồi"
+    },
+    {
+      "num": 714,
+      "title": "Một đôi anh em diễn xuất cao tay"
+    },
+    {
+      "num": 715,
+      "title": "Anh, Tiêu Dung Ngư là ai vậy? (Chương gộp 2 phần)"
+    },
+    {
+      "num": 716,
+      "title": "「Cô gái xấu xí」Tiêu Dung Ngư?"
+    },
+    {
+      "num": 717,
+      "title": "Tôi có hai chị gái, một người là chị dâu, người còn lại..."
+    },
+    {
+      "num": 718,
+      "title": "Nói cho em một bí mật, anh trai em là ông chủ Quả Xác"
+    },
+    {
+      "num": 719,
+      "title": "Châu Kiệt Luân là một loại tín ngưỡng"
+    },
+    {
+      "num": 720,
+      "title": "Dịu dàng sao? Tôi phải lấy mạng mình đổi lấy đấy"
+    },
+    {
+      "num": 721,
+      "title": "Chủ tịch hội sinh viên bị ngó lơ thì phải làm sao?"
+    },
+    {
+      "num": 722,
+      "title": "Bớt đọc mấy thứ “canh gà độc”, gia đình ắt sẽ êm ấm, chuyện gì cũng..."
+    },
+    {
+      "num": 723,
+      "title": "Chuyện này chưa yên, chuyện khác đã tới, sóng gió nổi lên ở Kiến Nghiệp"
+    },
+    {
+      "num": 724,
+      "title": "Vỏ sò, chính là hình dáng giấc mơ của chúng ta đó"
+    },
+    {
+      "num": 725,
+      "title": "Biệt thự và phòng tân hôn của Trần Hán Thăng và Tiêu Dung Ngư (lớn"
+    },
+    {
+      "num": 726,
+      "title": ""
+    },
+    {
+      "num": 727,
+      "title": "Từ bạn bè thành thông gia, rồi lại từ thông gia thành"
+    },
+    {
+      "num": 728,
+      "title": "Trần Hán Thăng, chết tại chỗ"
+    },
+    {
+      "num": 729,
+      "title": "Trách nhiệm của hai “công cụ vạn năng”"
+    },
+    {
+      "num": 730,
+      "title": "Nếu không có trọng sinh, Trần Hán Thăng, Thẩm Ấu Sở và"
+    },
+    {
+      "num": 731,
+      "title": "Anh, có thằng đàn ông khốn nạn nào lại bao nuôi tình nhân không?"
+    },
+    {
+      "num": 732,
+      "title": "Mối quan hệ nam nữ giả tạo và quan hệ nam nữ thật sự"
+    },
+    {
+      "num": 733,
+      "title": "Tình chị em “có đầu có cuối”"
+    },
+    {
+      "num": 734,
+      "title": "Trần Hán Thăng, cố lên nào! (Có thể bình luận rồi"
+    },
+    {
+      "num": 735,
+      "title": "Buổi ra mắt điện thoại đầy rẫy nguy cơ (Phần 1)"
+    },
+    {
+      "num": 736,
+      "title": "Buổi ra mắt điện thoại đầy rẫy nguy hiểm (Giữa)"
+    },
+    {
+      "num": 737,
+      "title": "Buổi ra mắt điện thoại đầy rẫy nguy cơ (hạ)"
+    },
+    {
+      "num": 738,
+      "title": "Tôi sắp làm chuyện xấu rồi!"
+    },
+    {
+      "num": 739,
+      "title": "Thẩm Ấu Sở, em phải chịu trách nhiệm với anh!"
+    },
+    {
+      "num": 740,
+      "title": "Thẻ quản lý thời gian của Chủ tịch Trần"
+    },
+    {
+      "num": 741,
+      "title": "Tiêu Dung Ngư: Tối qua anh mệt cả đêm rồi, còn"
+    },
+    {
+      "num": 742,
+      "title": "Cách mở màn chính xác của một màn tay ba?"
+    },
+    {
+      "num": 743,
+      "title": "Tờ đơn thuốc đã ố vàng"
+    },
+    {
+      "num": 744,
+      "title": "“Máy gặt hoa khôi” được mở khóa"
+    },
+    {
+      "num": 745,
+      "title": "Thuở thiếu niên cùng bạn học (Thượng)"
+    },
+    {
+      "num": 746,
+      "title": "Tuổi trẻ thuở còn ngồi chung lớp (hạ)"
+    },
+    {
+      "num": 747,
+      "title": "Đọc quá đà một món quà gửi nhầm"
+    },
+    {
+      "num": 748,
+      "title": "Chơi lớn quá rồi, không thu lại nổi nữa"
+    },
+    {
+      "num": 749,
+      "title": "Người anh tốt hết lòng “dọn đường” cho em gái"
+    },
+    {
+      "num": 750,
+      "title": "Tổ chức một nhóm nhạc nữ: Các chị dâu cưỡi gió vượt sóng!"
+    },
+    {
+      "num": 751,
+      "title": "Người công cụ thứ ba chính thức lên sân"
+    },
+    {
+      "num": 752,
+      "title": "Chiếc Porsche của Trần Hán Thăng"
+    },
+    {
+      "num": 753,
+      "title": "Tuổi trẻ, lý tưởng và hiện thực"
+    },
+    {
+      "num": 754,
+      "title": "Ai cũng muốn đâm sau lưng tôi!"
+    },
+    {
+      "num": 755,
+      "title": "Lớn lên rồi, cuối cùng cũng sống thành dáng vẻ mình ghét nhất"
+    },
+    {
+      "num": 756,
+      "title": "Tìm cơ hội để Tiêu Dung Ngư chịu trách nhiệm với tôi"
+    },
+    {
+      "num": 757,
+      "title": "“Trách tôi nghèo quá” Trần Hán Thăng"
+    },
+    {
+      "num": 758,
+      "title": "Tiểu Ngư nhà tôi có thai rồi sao?"
+    },
+    {
+      "num": 759,
+      "title": ""
+    },
+    {
+      "num": 760,
+      "title": "Đàn ông thì phải “are you”!"
+    },
+    {
+      "num": 761,
+      "title": "Chiêu trò để mãi đứng ở tầng cao nhất"
+    },
+    {
+      "num": 762,
+      "title": "Mọi công tác chuẩn bị trước khi “đẩy thuyền”"
+    },
+    {
+      "num": 763,
+      "title": "Đúng là thời buổi trọng sinh đẹp đẽ, mùa hoa rụng lại được gặp nhau"
+    },
+    {
+      "num": 764,
+      "title": "Trần Hán Thăng thích học ngoại ngữ"
+    },
+    {
+      "num": 765,
+      "title": "Đừng hỏi, hỏi là chia tay (Cầu vé tháng)"
+    },
+    {
+      "num": 766,
+      "title": "Thế nào gọi là cao thủ tình cảm hả? (ngả người chiến thuật"
+    },
+    {
+      "num": 767,
+      "title": "Hoàng Tuệ: Con trai trong trường đại học ai cũng tốt, trừ Trần Hán Thăng"
+    },
+    {
+      "num": 768,
+      "title": "Thẩm Ấu Sở đến cầu Sư Tử Kiều bán trà sữa rồi sao?"
+    },
+    {
+      "num": 769,
+      "title": "Mớ bòng bong tình tay ba"
+    },
+    {
+      "num": 770,
+      "title": "Trên đời này, đâu đâu cũng có những gã cặn bã không cưới người ta mà cứ thích thả thính"
+    },
+    {
+      "num": 771,
+      "title": "Hoàng Huệ khui kèo?"
+    },
+    {
+      "num": 772,
+      "title": "Quả táo đêm Giáng sinh “độc nhất vô nhị trên toàn thế giới”"
+    },
+    {
+      "num": 773,
+      "title": "Một niệm mà thôi, trời đất đảo điên"
+    },
+    {
+      "num": 774,
+      "title": "Ngày 24 tháng 12 đẹp đẽ và hạnh phúc (Thượng)"
+    },
+    {
+      "num": 775,
+      "title": "Ngày 24 tháng 12 đẹp đẽ và hạnh phúc (Hạ)"
+    },
+    {
+      "num": 776,
+      "title": "Ngày 25 tháng 12 sắp nổ tung (Chúc tất cả các bạn học cao..."
+    },
+    {
+      "num": 777,
+      "title": "Cuộc đối đầu đỉnh cao giữa hai vị vua"
+    },
+    {
+      "num": 778,
+      "title": ""
+    },
+    {
+      "num": 779,
+      "title": "Biết trước thế này, tôi đã không đồng ý kết bạn QQ với cậu"
+    },
+    {
+      "num": 780,
+      "title": "Báu vật, cô ấy chính là người âm thầm mạnh mẽ trong dịu dàng"
+    },
+    {
+      "num": 781,
+      "title": "Rốt cuộc là ai đã chọc thủng cái “tu la tràng” này?"
+    },
+    {
+      "num": 782,
+      "title": "Người tuyết bị đẩy ngã"
+    },
+    {
+      "num": 783,
+      "title": "Giáng Sinh khiến người ta u uất"
+    },
+    {
+      "num": 784,
+      "title": "Đều tại Tam Tinh cả!"
+    },
+    {
+      "num": 785,
+      "title": "「Tết Nguyên Đán」cũng có thể tiêu chuẩn kép"
+    },
+    {
+      "num": 786,
+      "title": "Lần thứ hai Long Phượng bắt tay"
+    },
+    {
+      "num": 787,
+      "title": "Thẩm Ấu Sở: Thế giới rộng lớn đến đâu, chỉ có anh là quan trọng nhất"
+    },
+    {
+      "num": 788,
+      "title": "Bước ngoặt của “tu la tràng” (2 hợp 1)"
+    },
+    {
+      "num": 789,
+      "title": "Chung sống hòa bình? Trần Hán Thăng đang nằm mơ!"
+    },
+    {
+      "num": 790,
+      "title": "Lỡ bước một bước, tóc đã bạc đầu"
+    },
+    {
+      "num": 791,
+      "title": "Vấn đề giữa hai gia đình"
+    },
+    {
+      "num": 792,
+      "title": "Dì Lương, con không muốn lấy Trần Hán Thăng nữa"
+    },
+    {
+      "num": 793,
+      "title": "Giữ nỗi buồn lại cho mình"
+    },
+    {
+      "num": 794,
+      "title": "Chỉ cần bạn gái đủ nhiều, tôi sẽ mãi chẳng biết cảm giác chia tay"
+    },
+    {
+      "num": 795,
+      "title": "Ước mơ của tôi là làm người làm vườn, trồng cây trong tim em"
+    },
+    {
+      "num": 796,
+      "title": "Thế thôi à?"
+    },
+    {
+      "num": 797,
+      "title": "“Mười sáu chữ” đối phó với Tu La Tràng"
+    },
+    {
+      "num": 798,
+      "title": "Trên đời nào có chuyện vẹn cả đôi đường?"
+    },
+    {
+      "num": 799,
+      "title": "Trần Lam: Em đi thăm dò đường trước"
+    },
+    {
+      "num": 800,
+      "title": "Trần Lam cũng biết chơi chiêu"
+    },
+    {
+      "num": 801,
+      "title": "Khoảng cách giữa em gái và anh trai"
+    },
+    {
+      "num": 802,
+      "title": "Màn dạo đầu cho cuộc «đấu tranh phe phái» bắt đầu"
+    },
+    {
+      "num": 803,
+      "title": "Anh, giáo sư Tôn Bích Dư sắp tìm anh tính sổ rồi!"
+    },
+    {
+      "num": 804,
+      "title": "Pháo hoa đêm giao thừa"
+    },
+    {
+      "num": 805,
+      "title": "Quả Xác Điện Tử rước phải “rắc rối”"
+    },
+    {
+      "num": 806,
+      "title": "Làm thế nào biến thế bất lợi thành thế có lợi?"
+    },
+    {
+      "num": 807,
+      "title": "「Ăn vạ」 và 「Thả câu」"
+    },
+    {
+      "num": 808,
+      "title": "Thẩm Ấu Sở và Tiêu Dung Ngư, rồi sẽ đều là người của La mỗ"
+    },
+    {
+      "num": 809,
+      "title": "Mâu thuẫn giữa Lão Trần và Lương Thái Hậu"
+    },
+    {
+      "num": 810,
+      "title": "Tôi thật sự không định làm tra nam với Tôn Đường Đường"
+    },
+    {
+      "num": 811,
+      "title": "“Người trong mộng” của Trần Hán Thăng"
+    },
+    {
+      "num": 812,
+      "title": "Vệt sáng chính đạo này! (Xin một vé tháng)"
+    },
+    {
+      "num": 813,
+      "title": "Giờ tôi chỉ muốn kiếm tiền!"
+    },
+    {
+      "num": 814,
+      "title": "Giang Lăng “Pizza Hut” = Quả Xác Điện Tử"
+    },
+    {
+      "num": 815,
+      "title": "“Tiền đồ xán lạn” của sinh viên đại học thời nay"
+    },
+    {
+      "num": 816,
+      "title": "「Tình nhân」 và 「vợ」 trong lòng đàn ông"
+    },
+    {
+      "num": 817,
+      "title": "Đồng hành mới là lời tỏ tình dài lâu nhất (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 818,
+      "title": "Lại lỡ để hắn làm màu rồi"
+    },
+    {
+      "num": 819,
+      "title": "Tôi yêu em, như gió đi tám nghìn dặm, chẳng hỏi ngày về"
+    },
+    {
+      "num": 820,
+      "title": "Ra nước ngoài không phải tận thế"
+    },
+    {
+      "num": 821,
+      "title": "Anh Trần, sao anh hôn càng ngày càng thành thạo vậy"
+    },
+    {
+      "num": 822,
+      "title": "Quật Cường của Mayday"
+    },
+    {
+      "num": 823,
+      "title": "Bố đi đâu mất rồi?"
+    },
+    {
+      "num": 824,
+      "title": "「Vợ hiện tại」 và 「tình đầu」 của lão Trần"
+    },
+    {
+      "num": 825,
+      "title": "Cướp con trai tôi thì thôi đi, còn định cướp cả con dâu tôi nữa"
+    },
+    {
+      "num": 826,
+      "title": "Niềm vui sum vầy của Thái hậu Lương (gộp hai chương, cầu vé tháng)"
+    },
+    {
+      "num": 827,
+      "title": "Sau khi ly hôn, tôi chỉ cần con trai (xin một vé tháng)"
+    },
+    {
+      "num": 828,
+      "title": "“Tu La tràng” giữa cha con (5000 chữ xin một vé tháng)"
+    },
+    {
+      "num": 829,
+      "title": "「Hy sinh」 cuộc hôn nhân của bố mẹ để đổi lấy cây gậy phá băng"
+    },
+    {
+      "num": 830,
+      "title": "Cái Tết này thật ấm áp"
+    },
+    {
+      "num": 831,
+      "title": "Thắng thì Quả Xác lời to, thua thì đằng nào cũng chẳng mất tiền"
+    },
+    {
+      "num": 832,
+      "title": "Lần hợp tác thứ ba của Ngọa Long Phượng Sồ"
+    },
+    {
+      "num": 833,
+      "title": ""
+    },
+    {
+      "num": 834,
+      "title": "Người cha (Thượng)"
+    },
+    {
+      "num": 835,
+      "title": "Người cha (Hạ)"
+    },
+    {
+      "num": 836,
+      "title": "Hai vạch đỏ trên que thử thai"
+    },
+    {
+      "num": 837,
+      "title": "Biên Thi Thi muốn làm dì"
+    },
+    {
+      "num": 838,
+      "title": "Ông bố tồi của em bé (xin một vé tháng)"
+    },
+    {
+      "num": 839,
+      "title": "Không ngờ chứ, anh đây lại diss Tam Tinh nữa rồi!"
+    },
+    {
+      "num": 840,
+      "title": "Đúng là một công ty vô lại mà! (xin vé tháng"
+    },
+    {
+      "num": 841,
+      "title": "Bàn về “hạnh phúc và kết hôn”"
+    },
+    {
+      "num": 842,
+      "title": "Trần Hán Thăng: Mình sắp làm anh rồi à? (Cầu vé tháng)"
+    },
+    {
+      "num": 843,
+      "title": "Người thật thà giống như một củ gừng"
+    },
+    {
+      "num": 844,
+      "title": "Chúc mừng Lễ Tình nhân, Lễ Tình nhân vui vẻ (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 845,
+      "title": "Ước nguyện đầu năm mới của La Tuyền"
+    },
+    {
+      "num": 846,
+      "title": "Cậu có tin thế giới này có phép màu không?"
+    },
+    {
+      "num": 847,
+      "title": "Trời xanh chẳng diệt người có tình (hai chương gộp một, cầu phiếu tháng)"
+    },
+    {
+      "num": 848,
+      "title": "Một mình, một thân, cô độc đối mặt với ba"
+    },
+    {
+      "num": 849,
+      "title": "Kéo màn đại chiến thương trường"
+    },
+    {
+      "num": 850,
+      "title": "Bản hòa tấu gia đình ấm áp (cầu phiếu tháng)"
+    },
+    {
+      "num": 851,
+      "title": "\"Ánh xạ\" của Thẩm Ninh Ninh và Quách Giai Tuệ"
+    },
+    {
+      "num": 852,
+      "title": "Lão Quách đạo đức giả, Giai Tuệ đáng yêu"
+    },
+    {
+      "num": 853,
+      "title": "Báu vật dịu dàng nhất trên đời"
+    },
+    {
+      "num": 854,
+      "title": "Ảnh của Tiêu Dung Ngư, sao tấm nào cũng ôm bụng"
+    },
+    {
+      "num": 855,
+      "title": "Kế hoạch \"hái quả\" của Samsung"
+    },
+    {
+      "num": 856,
+      "title": "Kỳ nữ nhân gian — Hồ Lâm Ngữ (thượng)"
+    },
+    {
+      "num": 857,
+      "title": "Thư cảm ơn và tổng kết sáng tác tháng 7, 8"
+    },
+    {
+      "num": 858,
+      "title": "Kỳ nữ nhân gian — Hồ Lâm Ngữ (Hạ)"
+    },
+    {
+      "num": 859,
+      "title": "Cú \"nửa lừa nửa cướp\" chẳng có chút hàm lượng kỹ thuật nào"
+    },
+    {
+      "num": 860,
+      "title": "Mỗi ngày yêu em ba nghìn lần! (5600 chữ cầu phiếu)"
+    },
+    {
+      "num": 861,
+      "title": "Anh làm mùng một, tôi làm ngày rằm, ai cũng đừng hòng yên"
+    },
+    {
+      "num": 862,
+      "title": "Cô bạn thân họ Trịnh đi thu phục lòng người (cầu vé tháng)"
+    },
+    {
+      "num": 863,
+      "title": "\"Lốp dự phòng\" càng mạnh, càng dễ đe dọa \"người hiện tại\""
+    },
+    {
+      "num": 864,
+      "title": "Kết quả thi cao học có rồi, ai cũng có tương lai sáng sủa"
+    },
+    {
+      "num": 865,
+      "title": "\"Ném đá dò đường\", tra nam Trần (cầu vé tháng"
+    },
+    {
+      "num": 866,
+      "title": "Đứa trẻ không thể thiếu cha! (Cầu phiếu tháng)"
+    },
+    {
+      "num": 867,
+      "title": "Con gái nói \"không cần\", thực ra chính là \"cần\""
+    },
+    {
+      "num": 868,
+      "title": "Liệu em có bất ngờ xuất hiện (thượng)"
+    },
+    {
+      "num": 869,
+      "title": "Liệu em có bất ngờ xuất hiện (Hạ)"
+    },
+    {
+      "num": 870,
+      "title": "Khóa cửa và khóa tim (cầu vé tháng)"
+    },
+    {
+      "num": 871,
+      "title": "Trần Hán Thăng: Tôi không làm anh hùng vô danh"
+    },
+    {
+      "num": 872,
+      "title": "Kết quả công lý > Quá trình công lý"
+    },
+    {
+      "num": 873,
+      "title": "Thi Thi về nước, tu la tràng tái hiện (xin phiếu tháng)"
+    },
+    {
+      "num": 874,
+      "title": "Tử Bác, tớ với Trần Hán Thăng cãi nhau rồi, cậu sẽ"
+    },
+    {
+      "num": 875,
+      "title": "Thẩm Ấu Sở béo lên một cân"
+    },
+    {
+      "num": 876,
+      "title": "Thắng kiện, đại chiến mở màn (cảm ơn Phi Tường)"
+    },
+    {
+      "num": 877,
+      "title": "Cuộc sống \"người trên người\" của Hoàng Tuệ"
+    },
+    {
+      "num": 878,
+      "title": "Đại ma vương không ác nào không làm — Trần Hán Thăng"
+    },
+    {
+      "num": 879,
+      "title": "Hôm nay vở diễn có tên là Nhiệm vụ bất khả thi"
+    },
+    {
+      "num": 880,
+      "title": "Từ trên xuống dưới toàn là lũ lưu manh của Quả Xác Điện Tử"
+    },
+    {
+      "num": 881,
+      "title": "\"Công thần\" giúp gương vỡ lại lành Biên Thi Thi (cầu"
+    },
+    {
+      "num": 882,
+      "title": "Em là sự dịu dàng trong tim anh"
+    },
+    {
+      "num": 883,
+      "title": "Làn sóng phản công của Quả Xác (xin vé tháng)"
+    },
+    {
+      "num": 884,
+      "title": "Quả Xác Trần, ngoại tình!"
+    },
+    {
+      "num": 885,
+      "title": "Tra nam và chó liếm chuyển đổi tự do"
+    },
+    {
+      "num": 886,
+      "title": "Biên Thi Thi đến Giang Lăng tìm ai?"
+    },
+    {
+      "num": 887,
+      "title": "Rất yêu rất yêu em (Thượng)"
+    },
+    {
+      "num": 888,
+      "title": "Yêu em rất rất nhiều (Hạ)"
+    },
+    {
+      "num": 889,
+      "title": "Lần đầu chạm trán giữa phe Ấu Sở và phe Tiểu Ngư"
+    },
+    {
+      "num": 890,
+      "title": "Cô gái khóc dưới nắng"
+    },
+    {
+      "num": 891,
+      "title": "Trần Hán Thăng: Không phải sắp chia tay đấy chứ?"
+    },
+    {
+      "num": 892,
+      "title": "Có người muốn rời đi, có người muốn trở về"
+    },
+    {
+      "num": 893,
+      "title": "Anh còn yêu cô ấy không?"
+    },
+    {
+      "num": 894,
+      "title": "“Thời gian khảo sát” của Trần Hán Thăng"
+    },
+    {
+      "num": 895,
+      "title": "Không nỡ, không buông, không quên được"
+    },
+    {
+      "num": 896,
+      "title": "Lưỡi dao nhanh quá và trái tim ác quá (cầu vé tháng)"
+    },
+    {
+      "num": 897,
+      "title": "Tôi chỉ dùng tiền của cô để làm việc của cô"
+    },
+    {
+      "num": 898,
+      "title": "Quả Xác, vĩnh viễn là thần! (hai chương gộp một, cầu phiếu tháng)"
+    },
+    {
+      "num": 899,
+      "title": "Trần Lam, điệp viên hai mang"
+    },
+    {
+      "num": 900,
+      "title": "Tao sẽ cho cả nhà nếm thử mùi mất người thân"
+    },
+    {
+      "num": 901,
+      "title": "Vạn vàng khó mua được lòng người (xin vé tháng)"
+    },
+    {
+      "num": 902,
+      "title": "Gã sở khanh nào cũng là chuyên gia tâm lý (cầu vé tháng)"
+    },
+    {
+      "num": 903,
+      "title": "Anh ơi, anh không cần tụi em nữa sao?"
+    },
+    {
+      "num": 904,
+      "title": "Chuyện “đăng ký” tiểu học của Thẩm Ninh Ninh"
+    },
+    {
+      "num": 905,
+      "title": "Trần Hán Thăng: Sao cậu gặp ai cũng bảo tớ chết rồi"
+    },
+    {
+      "num": 906,
+      "title": "Ghen tị với người có tiền à? Đó là thứ đổi bằng cách hiến tế tình cảm đấy!"
+    },
+    {
+      "num": 907,
+      "title": "Lại là hai vạch đỏ rõ ràng"
+    },
+    {
+      "num": 908,
+      "title": "Từ \"mãn hạn tù\" biến thành \"chung thân (vợ"
+    },
+    {
+      "num": 909,
+      "title": "Lỗ thành người giàu nhất bắt đầu từ thất tình (xin vé tháng)"
+    },
+    {
+      "num": 910,
+      "title": "Hai cô bạn thân bị \"chém\""
+    },
+    {
+      "num": 911,
+      "title": "Hoài niệm quá khứ, hướng về tương lai"
+    },
+    {
+      "num": 912,
+      "title": "Anh ơi, nhà mình có tiền rồi (xin phiếu tháng)"
+    },
+    {
+      "num": 913,
+      "title": "Con trai bỏ được, cháu gái mới quan trọng hơn!"
+    },
+    {
+      "num": 914,
+      "title": "Trần Hán Thăng \"mồ côi\" đáng thương"
+    },
+    {
+      "num": 915,
+      "title": "「Hôm nay thêm bạn gái 0 người, xác định bạn gái 0 người,"
+    },
+    {
+      "num": 916,
+      "title": "Chủ đề của chiếc điện thoại thứ hai: Bạch nguyệt quang và Kho báu"
+    },
+    {
+      "num": 917,
+      "title": "Cái chết của Hoàng Tuệ (xin phiếu tháng)"
+    },
+    {
+      "num": 918,
+      "title": "Giúp hay không giúp?"
+    },
+    {
+      "num": 919,
+      "title": "Chủ tịch Trần, ngài thích bạch nguyệt quang hay kho báu hơn?"
+    },
+    {
+      "num": 920,
+      "title": "Buổi ra mắt điện thoại 99,5 điểm (cầu phiếu tháng)"
+    },
+    {
+      "num": 921,
+      "title": "Phần thưởng của người cha tốt (xin phiếu tháng)"
+    },
+    {
+      "num": 922,
+      "title": "Anh em tốt là phải cùng nhau ế"
+    },
+    {
+      "num": 923,
+      "title": "Tử Bác, đời người nếu chỉ như lần đầu gặp gỡ"
+    },
+    {
+      "num": 924,
+      "title": "Đôi lời cảm nghĩ về nhân vật \"Hoàng Tuệ\""
+    },
+    {
+      "num": 925,
+      "title": "Người đi đèn tắt, quá khứ đều thành chuyện cũ"
+    },
+    {
+      "num": 926,
+      "title": "\"Trao đổi\" của Thương Nghiên Nghiên (cầu vé tháng)"
+    },
+    {
+      "num": 927,
+      "title": "Thương Nghiên Nghiên: Em sẽ giúp anh nuôi con!"
+    },
+    {
+      "num": 928,
+      "title": "Chờ một trận \"mưa giông\" (xin vé tháng)"
+    },
+    {
+      "num": 929,
+      "title": "\"Song sinh\" – hai chị em nhỏ VS La Tuyền"
+    },
+    {
+      "num": 930,
+      "title": "Lời \"thề độc\" của Trần Hán Thăng (xin phiếu tháng)"
+    },
+    {
+      "num": 931,
+      "title": "Lén nhìn con gái (Thượng)"
+    },
+    {
+      "num": 932,
+      "title": "Lén nhìn con gái (hạ)"
+    },
+    {
+      "num": 933,
+      "title": "Một đóa hoa kiều diễm"
+    },
+    {
+      "num": 934,
+      "title": "Những năm ấy, chúng ta từng ở chung phòng"
+    },
+    {
+      "num": 935,
+      "title": "Thằng sở khanh là thằng sáng hôm sau phủi mông đi liền"
+    },
+    {
+      "num": 936,
+      "title": "Ảnh tốt nghiệp của lớp thiếu hai người"
+    },
+    {
+      "num": 937,
+      "title": "Bảo kiếm chưa kịp đeo xong, bước ra cửa đã là giang hồ"
+    },
+    {
+      "num": 938,
+      "title": "Người bạn cùng phòng là chủ tịch"
+    },
+    {
+      "num": 939,
+      "title": "Cái đơn thuốc có thai đó, cậu còn nhớ không?"
+    },
+    {
+      "num": 940,
+      "title": "Cô bạn thân Trịnh Quan Đề không đủ nghĩa khí (xin phiếu tháng)"
+    },
+    {
+      "num": 941,
+      "title": "Bí mật các hào tộc Hương Cảng"
+    },
+    {
+      "num": 942,
+      "title": "Gia phả"
+    },
+    {
+      "num": 943,
+      "title": "Phun xăm bán vĩnh viễn kiểu Hàn và silicon giả nhân tạo"
+    },
+    {
+      "num": 944,
+      "title": "Chỉ cần cô chịu xiên nướng, chúng ta là bạn tốt!"
+    },
+    {
+      "num": 945,
+      "title": "Nhìn cậu cốt cách phi phàm, vừa nhìn đã biết sẽ làm nên chuyện lớn"
+    },
+    {
+      "num": 946,
+      "title": "Tôi rất thích nhà của anh, anh dọn ra ngoài được không"
+    },
+    {
+      "num": 947,
+      "title": "Diễn viên biểu diễn trong trường tài chính"
+    },
+    {
+      "num": 948,
+      "title": "Năm 2020, có chàng trai theo đuổi Ninh Ninh thì phải làm sao"
+    },
+    {
+      "num": 949,
+      "title": "Chuyến đi Hàn Quốc đầy nguy hiểm? (Cầu vé tháng)"
+    },
+    {
+      "num": 950,
+      "title": "Sắp xếp trước chuyến đi (Thượng)"
+    },
+    {
+      "num": 951,
+      "title": "Sắp xếp trước giờ đi xa (Hạ)"
+    },
+    {
+      "num": 952,
+      "title": "Cô sư muội La không chấp nhận nhưng cũng chẳng buông"
+    },
+    {
+      "num": 953,
+      "title": "Khắc tinh trời sinh (cầu vé tháng)"
+    },
+    {
+      "num": 954,
+      "title": "Công chúa lớn nhà Tam Tinh, đóa hoa phú quý nhân gian"
+    },
+    {
+      "num": 955,
+      "title": "Trần Hán Thăng: Giá mà tính nết La Tuyền chịu thu liễm một chút"
+    },
+    {
+      "num": 956,
+      "title": "La Tuyền: Em sinh cho anh một đứa con nhé (cảm ơn)"
+    },
+    {
+      "num": 957,
+      "title": "Cố vấn Samsung khó hiểu (cầu vé tháng)"
+    },
+    {
+      "num": 958,
+      "title": "Không hèn là chiến, đứa nào hèn là đồ khốn!"
+    },
+    {
+      "num": 959,
+      "title": "Đoạn video trị giá 20 tỷ (hai chương gộp một, cầu phiếu tháng)"
+    },
+    {
+      "num": 960,
+      "title": "Đêm bị \"nữ sát thủ\" đột kích Trần Hán Thăng (hai chương gộp"
+    },
+    {
+      "num": 961,
+      "title": "Cục diện rất phức tạp, sư muội rất dám yêu"
+    },
+    {
+      "num": 962,
+      "title": "Để đạn bay thêm một lúc"
+    },
+    {
+      "num": 963,
+      "title": "Mình khoác giáp vàng thánh y, chân đạp mây bảy sắc,"
+    },
+    {
+      "num": 964,
+      "title": "Lão Trần, trụ cột trong nhà!"
+    },
+    {
+      "num": 965,
+      "title": "Trần Hán Thăng chơi không võ đức"
+    },
+    {
+      "num": 966,
+      "title": "Ánh sáng của 「K」, mãi mãi không tắt!"
+    },
+    {
+      "num": 967,
+      "title": "Thổi đi, thổi hết sức cho tôi, Trần Đổng!"
+    },
+    {
+      "num": 968,
+      "title": "Tam Tinh, các người thả chủ tịch Trần của chúng tôi lúc nào đây"
+    },
+    {
+      "num": 969,
+      "title": "Dưa hái xanh thì chị dâu không ngọt (cầu vé tháng)"
+    },
+    {
+      "num": 970,
+      "title": "Khi La Tuyền biết tin có thai (xin phiếu tháng)"
+    },
+    {
+      "num": 971,
+      "title": "Trần Hán Thăng: Anh sẽ trả lại cho em một mái nhà"
+    },
+    {
+      "num": 972,
+      "title": "Đi một cô sư muội họ La, lại đến một cô nàng họ Trịnh"
+    },
+    {
+      "num": 973,
+      "title": "Sao chúng ta không đi khách sạn nhỉ?"
+    },
+    {
+      "num": 974,
+      "title": "Đôi khi cũng biết chu đáo của chàng bạn thân khác giới (cầu vé tháng)"
+    },
+    {
+      "num": 975,
+      "title": "Nhân gian chợt muộn, non sông đã thu (xin phiếu tháng)"
+    },
+    {
+      "num": 976,
+      "title": "Cách giải quyết tu la tràng"
+    },
+    {
+      "num": 977,
+      "title": "Tên khai sinh của Tiểu Tiểu Ngư Nhi và Tiểu Tiểu Hàm Bao?"
+    },
+    {
+      "num": 978,
+      "title": "Sự thay đổi đột ngột của Trần Hán Thăng"
+    },
+    {
+      "num": 979,
+      "title": "Một căn nhà từ trên trời rơi xuống"
+    },
+    {
+      "num": 980,
+      "title": "Biên Thi Thi như thiên thần (hai trong một, cầu phiếu tháng)"
+    },
+    {
+      "num": 981,
+      "title": "Bạn trai cũ của chị Khổng (cầu phiếu)"
+    },
+    {
+      "num": 982,
+      "title": "Cậu có tin trên đời này có Ultraman không?"
+    },
+    {
+      "num": 983,
+      "title": "Chị Khổng: Nước đã đổ khó hốt (cầu vé tháng)"
+    },
+    {
+      "num": 984,
+      "title": "Cuộc gặp gỡ xấu hổ nhất thế giới (cầu phiếu tháng)"
+    },
+    {
+      "num": 985,
+      "title": "Cậu định làm cho Trần Hán Thăng cả đời sao?"
+    },
+    {
+      "num": 986,
+      "title": "Cửa hàng flagship Tiểu Mễ đối đầu cửa hàng đời sống Quả Xác (cầu phiếu tháng)"
+    },
+    {
+      "num": 987,
+      "title": "Tối nay có nên mong chờ điều gì không?"
+    },
+    {
+      "num": 988,
+      "title": "Đêm khiến tim đập loạn (xin phiếu tháng)"
+    },
+    {
+      "num": 989,
+      "title": "Đối đầu: Trần Hán Thăng VS Đảng Tiểu Ngư"
+    },
+    {
+      "num": 990,
+      "title": "Trần Hán Thăng \"thoát chết dưới họng súng\" (xin phiếu tháng)"
+    },
+    {
+      "num": 991,
+      "title": "Cân bằng giữa \"Tiểu Tiểu Ngư Nhi và Tiểu Tiểu Hàm Bao\""
+    },
+    {
+      "num": 992,
+      "title": "Bố và bố (cầu vé tháng)"
+    },
+    {
+      "num": 993,
+      "title": "Tiểu Tiểu Ngư Nhi nặng 6 cân (Trần Hán Thăng làm bố)"
+    },
+    {
+      "num": 994,
+      "title": "Tiêu Dung Ngư: Thẩm Ấu Sở cần cậu hơn tớ"
+    },
+    {
+      "num": 995,
+      "title": "Có chị rồi, lại còn có em gái nữa (cầu phiếu tháng)"
+    },
+    {
+      "num": 996,
+      "title": "\"Cuộc đấu phe phái\" giữa Biên Thi Thi và Vương Tử Bác"
+    },
+    {
+      "num": 997,
+      "title": "Mẹ họ Trần và mẹ họ Thẩm (gộp hai chương, cầu phiếu tháng)"
+    },
+    {
+      "num": 998,
+      "title": "Bé cưng nặng 6 cân 6 lạng (xin phiếu tháng)"
+    },
+    {
+      "num": 999,
+      "title": "Điều mãn nguyện nhất trên đời, chính là sinh hai đứa"
+    },
+    {
+      "num": 1000,
+      "title": "Trần Hán Thăng mơ tưởng được ngủ chung với Tiêu Dung Ngư"
+    },
+    {
+      "num": 1001,
+      "title": "Đánh thật"
+    },
+    {
+      "num": 1002,
+      "title": "Cái \"phục bút\" gỡ rối tu la tràng"
+    },
+    {
+      "num": 1003,
+      "title": "Dòng máu Xuyên Du của Tiểu Tiểu Hàm Bao (Cầu vé tháng)"
+    },
+    {
+      "num": 1004,
+      "title": "A Ninh biến mất rồi! (Hai chương gộp một, cầu phiếu tháng)"
+    },
+    {
+      "num": 1005,
+      "title": "Trần Hán Thăng: Tiểu Hồ, mời cô rời khỏi ngôi nhà này"
+    },
+    {
+      "num": 1006,
+      "title": "Năm mới, bình an hỉ lạc (Chúc mọi người năm mới"
+    },
+    {
+      "num": 1007,
+      "title": "Khoe mẽ với làm màu là chuyện cả đời"
+    },
+    {
+      "num": 1008,
+      "title": "Làm màu và khoe mẽ là chuyện cả đời"
+    },
+    {
+      "num": 1009,
+      "title": "Tự mình làm nhà cái của chính mình (cầu phiếu tháng)"
+    },
+    {
+      "num": 1010,
+      "title": "Chợt ngoảnh đầu, Đề ca ở ngay đó, nơi đèn hoa lấp lánh"
+    },
+    {
+      "num": 1011,
+      "title": "Giữa hai ta chỉ là giao dịch tiền bạc!"
+    },
+    {
+      "num": 1012,
+      "title": "Trần Hán Thăng \"cuồng con gái\" (xin vé tháng)"
+    },
+    {
+      "num": 1013,
+      "title": "Lấy giấy chứng nhận trước Tết của Tử Bác và Thi Thi (hai trong một)"
+    },
+    {
+      "num": 1014,
+      "title": "Cái \"bắt tay thế kỷ\" của Trần Tử Khâm và Trần Tử Bội"
+    },
+    {
+      "num": 1015,
+      "title": "Mẹ"
+    },
+    {
+      "num": 1016,
+      "title": "Tiêu Dung Ngư: Thẩm Ấu Sở, trước Tết gặp một lần nhé?"
+    },
+    {
+      "num": 1017,
+      "title": "Chị em Trần Tử Khâm và Trần Tử Bội không bao giờ gặp nhau"
+    },
+    {
+      "num": 1018,
+      "title": "Một cuộc trò chuyện xa lạ mà nhạt nhẽo"
+    },
+    {
+      "num": 1019,
+      "title": "Cách đúng để khuấy động không khí gia đình dịp Tết"
+    },
+    {
+      "num": 1020,
+      "title": "Bố trông con, sống sót là được (cầu vé tháng)"
+    },
+    {
+      "num": 1021,
+      "title": "Đồ tra nam thì có thể có ý đồ xấu xa gì chứ？（Cầu phiếu tháng)"
+    },
+    {
+      "num": 1022,
+      "title": "Đêm giao thừa trọn vẹn"
+    },
+    {
+      "num": 1023,
+      "title": "Cuộc đàm phán mùng Một Tết (5000 chữ cầu phiếu tháng)"
+    },
+    {
+      "num": 1024,
+      "title": "Các người làm mùng một thì đừng trách tôi làm ngày rằm!"
+    },
+    {
+      "num": 1025,
+      "title": "La Tuyền và bé Hâm Bao"
+    },
+    {
+      "num": 1026,
+      "title": "La Tuyền: Số tôi trời định là có con trai"
+    },
+    {
+      "num": 1027,
+      "title": "Khoảng cách xa xôi nhất giữa hai người"
+    },
+    {
+      "num": 1028,
+      "title": "Trần Hán Thăng: Tôi không hứng thú với tiền!"
+    },
+    {
+      "num": 1029,
+      "title": "Tiêu Dung Ngư sắp rời đi"
+    },
+    {
+      "num": 1030,
+      "title": "Bạch nguyệt quang và nốt ruồi son"
+    },
+    {
+      "num": 1031,
+      "title": "Mùa hoa rụng ở Kiến Nghiệp (hai chương gộp, cầu vé tháng)"
+    },
+    {
+      "num": 1032,
+      "title": "Hai chiếc áo bông giống hệt nhau"
+    },
+    {
+      "num": 1033,
+      "title": "Toàn bộ phần chuẩn bị trước khi kế hoạch thực hiện (cầu phiếu tháng)"
+    },
+    {
+      "num": 1034,
+      "title": "Đổi!"
+    },
+    {
+      "num": 1035,
+      "title": "Vượt qua vực sâu, chính là tương lai!"
+    },
+    {
+      "num": 1036,
+      "title": "Cuộc đấu trí nghẹt thở (cầu phiếu tháng)"
+    },
+    {
+      "num": 1037,
+      "title": "Bố, con lại gây họa rồi, bố phải giúp con!"
+    },
+    {
+      "num": 1038,
+      "title": "Xin hãy cho Thẩm Ấu Sở một lý do để chăm sóc Trần Tử Khâm"
+    },
+    {
+      "num": 1039,
+      "title": "Sữa mẹ"
+    },
+    {
+      "num": 1040,
+      "title": "Con gái của Tiêu Dung Ngư đói rồi!"
+    },
+    {
+      "num": 1041,
+      "title": "Trên đời không có ngụm sữa nào miễn phí"
+    },
+    {
+      "num": 1042,
+      "title": "Máy bay chậm rãi hạ cánh, sự thật sắp được hé lộ"
+    },
+    {
+      "num": 1043,
+      "title": "Bé Ngố ở Mỹ (Cầu phiếu tháng)"
+    },
+    {
+      "num": 1044,
+      "title": "「Con cá trốn dưới đáy biển thổi bong bóng」 và 「"
+    },
+    {
+      "num": 1045,
+      "title": "Xem một chút, nhìn một chút: Bàn về các tình tiết gần đây và cuốn tiểu thuyết"
+    },
+    {
+      "num": 1046,
+      "title": "Kế hoạch hoàn chỉnh \"đánh tráo em bé\""
+    },
+    {
+      "num": 1047,
+      "title": "Uống sữa của cô, mặc quần áo của con cô"
+    },
+    {
+      "num": 1048,
+      "title": "Làm sao chứng minh con gái tôi là con gái tôi?"
+    },
+    {
+      "num": 1049,
+      "title": "Vòng vèo một hồi lớn, lại tìm được Thẩm"
+    },
+    {
+      "num": 1050,
+      "title": "Một lần lạ hai lần quen, cho bú cũng thế"
+    },
+    {
+      "num": 1051,
+      "title": "Tiếng \"mama\" đầu tiên của Trần Tử Khâm"
+    },
+    {
+      "num": 1052,
+      "title": "Tiêu Dung Ngư: Mình có hận Trần Tử Bội không?"
+    },
+    {
+      "num": 1053,
+      "title": "Hành trình gian nan đi tìm vú nuôi (xin vé tháng)"
+    },
+    {
+      "num": 1054,
+      "title": "Vô tình cắm liễu, liễu thành bóng râm (hai chương gộp một, cầu"
+    },
+    {
+      "num": 1055,
+      "title": "Nhân vật lớn họ Trần, chữ Trần có bộ Nhĩ!"
+    },
+    {
+      "num": 1056,
+      "title": "Vâng, tôi có hai đứa con"
+    },
+    {
+      "num": 1057,
+      "title": "Hai tháng sau, Tiểu Tiểu Ngư Nhi đã coi Thẩm Ấu"
+    },
+    {
+      "num": 1058,
+      "title": "Cuộc video lịch sử của Tiêu Dung Ngư và Thẩm Ấu Sở"
+    },
+    {
+      "num": 1059,
+      "title": "Cho bú bị cắn rách da?"
+    },
+    {
+      "num": 1060,
+      "title": "Tiêu Dung Ngư và bé ngố Trần Tử Bội (Thượng)"
+    },
+    {
+      "num": 1061,
+      "title": "Tiêu Dung Ngư và bé ngố Trần Tử Bội (hạ)"
+    },
+    {
+      "num": 1062,
+      "title": "Đứa bé chẳng giống bố cũng chẳng giống mẹ"
+    },
+    {
+      "num": 1063,
+      "title": "Đến cuối truyện, nhân vật phản diện cũng như gấu trúc"
+    },
+    {
+      "num": 1064,
+      "title": "Chuyện ngọt ngào của Tử Bác và Thi Thi (xin vé tháng)"
+    },
+    {
+      "num": 1065,
+      "title": "Sau khi về nước, đối mặt thế nào với cục trưởng Tiêu và"
+    },
+    {
+      "num": 1066,
+      "title": "Cuộc trò chuyện giữa cha và con"
+    },
+    {
+      "num": 1067,
+      "title": "Vỏ hạt và quả táo, rồi cũng có một trận chiến (xin phiếu tháng)"
+    },
+    {
+      "num": 1068,
+      "title": "Bà chủ phong tao trong truyền thuyết"
+    },
+    {
+      "num": 1069,
+      "title": "Người tình hiểu chuyện (xin vé tháng)"
+    },
+    {
+      "num": 1070,
+      "title": "Thẩm Ấu Sở, lần đầu tiên đánh Trần Hán Thăng!"
+    },
+    {
+      "num": 1071,
+      "title": "Hồ Lâm Ngữ: Hóa ra tên hề lại chính là mình?"
+    },
+    {
+      "num": 1072,
+      "title": "Em chạy về phía anh, em chính là sao trời biển cả"
+    },
+    {
+      "num": 1073,
+      "title": "Tiêu Dung Ngư: Tôi đã yêu một người không nên yêu"
+    },
+    {
+      "num": 1074,
+      "title": "Chúng ta cùng về nước thăm chị!"
+    },
+    {
+      "num": 1075,
+      "title": "Hàm ý sau bài phát biểu của lãnh đạo (cầu vé tháng)"
+    },
+    {
+      "num": 1076,
+      "title": "Thâu tóm YY Thoại, làm phong phú mạng lưới Quả Xác của"
+    },
+    {
+      "num": 1077,
+      "title": "Sơ hở trong \"tu la tràng\""
+    },
+    {
+      "num": 1078,
+      "title": "Kẻ tồi cũng có thể là một người cha tốt"
+    },
+    {
+      "num": 1079,
+      "title": "Một ngày trước khi đăng ký kết hôn, chuyện tình học đường tiến triển"
+    },
+    {
+      "num": 1080,
+      "title": "Chủ đề của điện thoại Quả Hạch thế hệ ba: Sen đôi"
+    },
+    {
+      "num": 1081,
+      "title": "La Tuyền: Tương kế tựu kế, mời quân vào hũ!"
+    },
+    {
+      "num": 1082,
+      "title": "Trước khi hai cô nhóc lớn lên, nhất định không được"
+    },
+    {
+      "num": 1083,
+      "title": "Người này, dường như sinh ra chỉ để làm tôi"
+    },
+    {
+      "num": 1084,
+      "title": "Chiếc đèn bàn nhỏ gửi về từ Mỹ"
+    },
+    {
+      "num": 1085,
+      "title": "La Tuyền: Đừng nghĩ linh tinh, đây chỉ là cảm cúm thôi"
+    },
+    {
+      "num": 1086,
+      "title": "Em đồng ý! (Chương lớn 15000 chữ)"
+    },
+    {
+      "num": 1087,
+      "title": "Ngày tháng, sắp tốt đẹp lên rồi"
+    },
+    {
+      "num": 1088,
+      "title": "Thanh Hoa Từ"
+    },
+    {
+      "num": 1089,
+      "title": "Người làm rạng danh đất nước, chính là Trần Hán Thăng!"
+    },
+    {
+      "num": 1090,
+      "title": "Cái đuôi ngựa cao của Tiêu Dung Ngư (Tu la tràng kết thúc"
+    },
+    {
+      "num": 1091,
+      "title": "Về nước rồi~"
+    },
+    {
+      "num": 1092,
+      "title": "Người ở đầu Trường Giang, ta ở cuối Trường Giang, cùng"
+    },
+    {
+      "num": 1093,
+      "title": "Thế gian ắt có cách vẹn đôi đường, cuốn tan mây dày rốt cuộc"
+    },
+    {
+      "num": 1094,
+      "title": "Lại một mùa hè nữa (chính văn kết thúc)"
+    },
+    {
+      "num": 1095,
+      "title": "Phúc lợi đặt trọn bộ · Chuông reo leng keng"
+    },
+    {
+      "num": 1096,
+      "title": "Lời cuối khi hoàn truyện: Mong người trường cửu"
+    },
+    {
+      "num": 1097,
+      "title": "Hôn lễ và nhẫn cưới"
+    },
+    {
+      "num": 1098,
+      "title": "Hai cô ngự tỷ"
+    },
+    {
+      "num": 1099,
+      "title": "Tiểu sư muội và người tình"
+    },
+    {
+      "num": 1100,
+      "title": "Mười năm"
+    }
+  ],
+  "slug": "ta_that_khong_muon_trong_sinh",
+  "title": "Ta Thật Không Muốn Trọng Sinh",
+  "author": "Liễu Ngạn Hoa Hựu Minh",
+  "synopsis": "Truyện đô thị trọng sinh pha tình cảm học đường và thương trường của Liễu Ngạn Hoa Hựu Minh. Sau một tai nạn say rượu lái xe, người đàn ông thành đạt trọng sinh về thời cấp ba, đứng giữa hai cô gái, vừa yêu đương vừa khởi nghiệp và cạnh tranh trên thương trường, với giọng văn hài hước, ngọt và day dứt.",
+  "coverColor": "#3b5b7a"
+}

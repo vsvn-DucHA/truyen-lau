@@ -1,0 +1,7346 @@
+{
+  "totalChapters": 1834,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Thế giới GX sáng quá rồi"
+    },
+    {
+      "num": 2,
+      "title": "Bộ bài khởi đầu"
+    },
+    {
+      "num": 3,
+      "title": "Trận chiến đầu tiên"
+    },
+    {
+      "num": 4,
+      "title": "Duelist cấm xuống tay đánh người"
+    },
+    {
+      "num": 5,
+      "title": "Duel vui vẻ"
+    },
+    {
+      "num": 6,
+      "title": "Lấy cái quán quân rồi tính tiếp"
+    },
+    {
+      "num": 7,
+      "title": "Vòng sơ loại"
+    },
+    {
+      "num": 8,
+      "title": "Thời báo Duelist"
+    },
+    {
+      "num": 9,
+      "title": "Đưa đi dị thứ nguyên"
+    },
+    {
+      "num": 10,
+      "title": "Đến mộ rồi cũng không tha"
+    },
+    {
+      "num": 11,
+      "title": "Chính là cái vị này"
+    },
+    {
+      "num": 12,
+      "title": "Vào vòng trong"
+    },
+    {
+      "num": 13,
+      "title": "Là chó đấy à?"
+    },
+    {
+      "num": 14,
+      "title": "Duel kiểu tự kỷ"
+    },
+    {
+      "num": 15,
+      "title": "Chung kết"
+    },
+    {
+      "num": 16,
+      "title": "Yuugen gây chuyện hết lần này đến lần khác"
+    },
+    {
+      "num": 17,
+      "title": "Áp đảo bằng cơ giáp"
+    },
+    {
+      "num": 18,
+      "title": "Tuyên bố chiến thắng"
+    },
+    {
+      "num": 19,
+      "title": "Pháo Thủ Bài"
+    },
+    {
+      "num": 20,
+      "title": "Giành chức vô địch"
+    },
+    {
+      "num": 21,
+      "title": "Truyền thừa của trường phái"
+    },
+    {
+      "num": 22,
+      "title": "Tinh linh"
+    },
+    {
+      "num": 23,
+      "title": "Đừng mở miệng nhé"
+    },
+    {
+      "num": 24,
+      "title": "Duel Bóng Tối"
+    },
+    {
+      "num": 25,
+      "title": "Mở rồi?"
+    },
+    {
+      "num": 26,
+      "title": "Không Duel nổi một chút nào"
+    },
+    {
+      "num": 27,
+      "title": "Lời mời"
+    },
+    {
+      "num": 28,
+      "title": "Chúng ta, Silent thật sự, mạnh quá rồi!"
+    },
+    {
+      "num": 29,
+      "title": "Thu hoạch đầy tay"
+    },
+    {
+      "num": 30,
+      "title": "Vì là chó nên thế cũng hết sức bình thường"
+    },
+    {
+      "num": 31,
+      "title": "Duel thật sự có thể mang lại niềm vui"
+    },
+    {
+      "num": 32,
+      "title": "Không có tiền thì chơi Yu-Gi-Oh kiểu gì!"
+    },
+    {
+      "num": 33,
+      "title": "Anh Em Tốt"
+    },
+    {
+      "num": 34,
+      "title": "Lời mời đến di tích"
+    },
+    {
+      "num": 35,
+      "title": "AI mất kiểm soát"
+    },
+    {
+      "num": 36,
+      "title": "Đợi tôi chỉnh lại bộ bài"
+    },
+    {
+      "num": 37,
+      "title": "VS Bộ bài Kaiba"
+    },
+    {
+      "num": 38,
+      "title": "Nhắm Vào"
+    },
+    {
+      "num": 39,
+      "title": "Đến mộ rồi cũng không tha"
+    },
+    {
+      "num": 40,
+      "title": "Ủy thác của giới tinh linh"
+    },
+    {
+      "num": 41,
+      "title": "Duel Hắc Ám Khoa Học"
+    },
+    {
+      "num": 42,
+      "title": "Seto Kaiba"
+    },
+    {
+      "num": 43,
+      "title": "Yuugen gây chuyện hết lần này đến lần khác"
+    },
+    {
+      "num": 44,
+      "title": "Đừng mở miệng nhé"
+    },
+    {
+      "num": 45,
+      "title": "Ba đánh một, lợi thế lớn!"
+    },
+    {
+      "num": 46,
+      "title": "Bạch Long Hỗn Độn"
+    },
+    {
+      "num": 47,
+      "title": "Lời mời"
+    },
+    {
+      "num": 48,
+      "title": "Thu hoạch đầy tay"
+    },
+    {
+      "num": 49,
+      "title": "Anh Em Tốt"
+    },
+    {
+      "num": 50,
+      "title": "Hóa ra tôi mạnh đến vậy"
+    },
+    {
+      "num": 51,
+      "title": "Pháp Sư Mặt Nạ"
+    },
+    {
+      "num": 52,
+      "title": "Pháp sư hộ pháp tử thần"
+    },
+    {
+      "num": 53,
+      "title": "VS Bộ bài Kaiba"
+    },
+    {
+      "num": 54,
+      "title": "Lời nhờ vả từ thế giới Tinh Linh"
+    },
+    {
+      "num": 55,
+      "title": "Kẻ Trộm Bakura"
+    },
+    {
+      "num": 56,
+      "title": "Kết giới được kích hoạt"
+    },
+    {
+      "num": 57,
+      "title": "Linh thị"
+    },
+    {
+      "num": 58,
+      "title": "Thế giới của các Duelist đúng là đáng sợ thật!"
+    },
+    {
+      "num": 59,
+      "title": "Sức mạnh của chồng bài"
+    },
+    {
+      "num": 60,
+      "title": "Con át chủ bài của Yuugen"
+    },
+    {
+      "num": 61,
+      "title": "Lời nhờ vả từ thế giới Tinh Linh"
+    },
+    {
+      "num": 62,
+      "title": "Linh thị"
+    },
+    {
+      "num": 63,
+      "title": "Lựa chọn của kẻ mạnh"
+    },
+    {
+      "num": 64,
+      "title": "Ngày nhập học"
+    },
+    {
+      "num": 65,
+      "title": "Trận giao lưu thân thiện giữa các ký túc xá"
+    },
+    {
+      "num": 66,
+      "title": "Đánh vào tâm lý"
+    },
+    {
+      "num": 67,
+      "title": "Trốn chạy thì đáng xấu hổ, nhưng lại hiệu quả"
+    },
+    {
+      "num": 68,
+      "title": "Kế hoạch học tập của Yuugen"
+    },
+    {
+      "num": 69,
+      "title": "Thiên phú rút bài bẩm sinh?"
+    },
+    {
+      "num": 70,
+      "title": "Cô nàng của học viện"
+    },
+    {
+      "num": 71,
+      "title": "Úp trong úp"
+    },
+    {
+      "num": 72,
+      "title": "Bộ đôi át chủ bài"
+    },
+    {
+      "num": 73,
+      "title": "Lời cảm nghĩ khi lên kệ"
+    },
+    {
+      "num": 74,
+      "title": "Phong tỏa thành hình"
+    },
+    {
+      "num": 75,
+      "title": "Hợp Thể Tấn Công!"
+    },
+    {
+      "num": 76,
+      "title": "Trụ sở công ty"
+    },
+    {
+      "num": 77,
+      "title": "Hợp thể năm mảnh!"
+    },
+    {
+      "num": 78,
+      "title": "Người đứng đầu"
+    },
+    {
+      "num": 79,
+      "title": "Tiết học Luyện kim"
+    },
+    {
+      "num": 80,
+      "title": "Câu lạc bộ Duel"
+    },
+    {
+      "num": 81,
+      "title": "Hệ thống Liên Kết"
+    },
+    {
+      "num": 82,
+      "title": "Thế công của côn trùng"
+    },
+    {
+      "num": 83,
+      "title": "Ngày tàn của lũ côn trùng"
+    },
+    {
+      "num": 84,
+      "title": "Combo điên cuồng"
+    },
+    {
+      "num": 85,
+      "title": "Linh vật"
+    },
+    {
+      "num": 86,
+      "title": "Thầy ơi, em muốn học cách in thẻ"
+    },
+    {
+      "num": 87,
+      "title": "Nhiễu Loạn chẳng phải toàn đồ rác rưởi sao?"
+    },
+    {
+      "num": 88,
+      "title": "Tranh ngôi số một"
+    },
+    {
+      "num": 89,
+      "title": "Đối sách của Misawa"
+    },
+    {
+      "num": 90,
+      "title": "Chơi tâm lý"
+    },
+    {
+      "num": 91,
+      "title": "Kết bạn thông qua Duel"
+    },
+    {
+      "num": 92,
+      "title": "Ký túc xá bỏ hoang"
+    },
+    {
+      "num": 93,
+      "title": "Chỉ là nhiệm vụ của chủ nhân thôi"
+    },
+    {
+      "num": 94,
+      "title": "Đừng sợ, chỉ là ma thôi"
+    },
+    {
+      "num": 95,
+      "title": "Nghi thức hiến tế"
+    },
+    {
+      "num": 96,
+      "title": "Vua Xương Trắng"
+    },
+    {
+      "num": 97,
+      "title": "Vua Xương nổi điên"
+    },
+    {
+      "num": 98,
+      "title": "Người một nhà thì phải cùng nhau cho đủ mặt"
+    },
+    {
+      "num": 99,
+      "title": "Bộ lạc Tinh Linh"
+    },
+    {
+      "num": 100,
+      "title": "Đội trưởng muốn học đánh bài"
+    },
+    {
+      "num": 101,
+      "title": "Chương Ai Cập trở lại"
+    },
+    {
+      "num": 102,
+      "title": "Xin mời bắt đầu màn trình diễn của cậu"
+    },
+    {
+      "num": 103,
+      "title": "Binh lính âm phủ"
+    },
+    {
+      "num": 104,
+      "title": "Cuối cùng cũng được giải thoát rồi"
+    },
+    {
+      "num": 105,
+      "title": "Đánh bài cũng có thể chết người"
+    },
+    {
+      "num": 106,
+      "title": "Bí kíp Duel"
+    },
+    {
+      "num": 107,
+      "title": "Di tích của Phượng Hoàng Thần"
+    },
+    {
+      "num": 108,
+      "title": "Ba Kiếm Khách của Tân Doma"
+    },
+    {
+      "num": 109,
+      "title": "Sức mạnh Phượng Hoàng"
+    },
+    {
+      "num": 110,
+      "title": "Ngày tận thế"
+    },
+    {
+      "num": 111,
+      "title": "Anh hùng VS Tận thế"
+    },
+    {
+      "num": 112,
+      "title": "Mối liên kết với các Tinh linh"
+    },
+    {
+      "num": 113,
+      "title": "Kèo rút bài thần may"
+    },
+    {
+      "num": 114,
+      "title": "Phản chiếu diệt vong"
+    },
+    {
+      "num": 115,
+      "title": "Sự thật"
+    },
+    {
+      "num": 116,
+      "title": "Lời mời từ trụ sở"
+    },
+    {
+      "num": 117,
+      "title": "Bài kiểm tra nhận việc của giáo viên mới"
+    },
+    {
+      "num": 118,
+      "title": "Có phải vẫn chưa đủ kích thích?"
+    },
+    {
+      "num": 119,
+      "title": "Phong tỏa vực sâu"
+    },
+    {
+      "num": 120,
+      "title": "Thầy khách sáo quá rồi"
+    },
+    {
+      "num": 121,
+      "title": "Câu lạc bộ đặc biệt"
+    },
+    {
+      "num": 122,
+      "title": "Chuyện này liên quan đến thể diện"
+    },
+    {
+      "num": 123,
+      "title": "Dẫn đầu phản bội"
+    },
+    {
+      "num": 124,
+      "title": "Vạn Trượng Mục tiến hóa?"
+    },
+    {
+      "num": 125,
+      "title": "Trách tôi chắc?"
+    },
+    {
+      "num": 126,
+      "title": "Nội gián “Thủ Mạt”"
+    },
+    {
+      "num": 127,
+      "title": "Có người sắp ăn hành"
+    },
+    {
+      "num": 128,
+      "title": "Bảo cậu bắt chước thôi mà, cậu đột phá nghiên cứu khoa học luôn rồi à?"
+    },
+    {
+      "num": 129,
+      "title": "Tuổi trẻ đáng gờm"
+    },
+    {
+      "num": 130,
+      "title": ""
+    },
+    {
+      "num": 131,
+      "title": "Người canh giữ Cánh Cổng"
+    },
+    {
+      "num": 132,
+      "title": "Phong tỏa thành hình"
+    },
+    {
+      "num": 133,
+      "title": "Hợp Thể Tấn Công!"
+    },
+    {
+      "num": 134,
+      "title": "Tiềm năng của lá bài"
+    },
+    {
+      "num": 135,
+      "title": "Trụ sở công ty"
+    },
+    {
+      "num": 136,
+      "title": "Hệ thống Liên Kết"
+    },
+    {
+      "num": 137,
+      "title": "Tranh ngôi số một"
+    },
+    {
+      "num": 138,
+      "title": "Vượt ngục thất bại"
+    },
+    {
+      "num": 139,
+      "title": "Sao lại là mấy người nữa"
+    },
+    {
+      "num": 140,
+      "title": "Sức mạnh Phượng Hoàng"
+    },
+    {
+      "num": 141,
+      "title": "Dẫn đầu phản bội"
+    },
+    {
+      "num": 142,
+      "title": "Mùi của lá bài"
+    },
+    {
+      "num": 143,
+      "title": "Sao lại là mấy người nữa"
+    },
+    {
+      "num": 144,
+      "title": "Mùi của lá bài"
+    },
+    {
+      "num": 145,
+      "title": "Tổng tấn công quyết định"
+    },
+    {
+      "num": 146,
+      "title": "Di ngôn"
+    },
+    {
+      "num": 147,
+      "title": "Thanh kiếm khai mở"
+    },
+    {
+      "num": 148,
+      "title": "Cấm dùng hand trap"
+    },
+    {
+      "num": 149,
+      "title": "Chiến binh mạnh nhất"
+    },
+    {
+      "num": 150,
+      "title": "Hành"
+    },
+    {
+      "num": 151,
+      "title": "Vua Niệm Lực"
+    },
+    {
+      "num": 152,
+      "title": "Hội học sinh"
+    },
+    {
+      "num": 153,
+      "title": "Câu lạc bộ đặc biệt"
+    },
+    {
+      "num": 154,
+      "title": "Trách tôi chắc?"
+    },
+    {
+      "num": 155,
+      "title": "Vượt ngục thất bại"
+    },
+    {
+      "num": 156,
+      "title": "Cấm hand trap"
+    },
+    {
+      "num": 157,
+      "title": "Thầy có một người bạn"
+    },
+    {
+      "num": 158,
+      "title": "Lại bị cướp mất lá bài"
+    },
+    {
+      "num": 159,
+      "title": "Đồ khốn!"
+    },
+    {
+      "num": 160,
+      "title": "Vua Niệm Lực"
+    },
+    {
+      "num": 161,
+      "title": "Trận đấu để hồi sinh khó quá"
+    },
+    {
+      "num": 162,
+      "title": "Chào mừng gia nhập đại gia đình"
+    },
+    {
+      "num": 163,
+      "title": "Ngày đăng"
+    },
+    {
+      "num": 164,
+      "title": "Tôi đấu với thủ khoa?"
+    },
+    {
+      "num": 165,
+      "title": "Cuộc đối đầu Điện Hóa"
+    },
+    {
+      "num": 166,
+      "title": "Na Sa Đế Di"
+    },
+    {
+      "num": 167,
+      "title": "Thủ lĩnh mệt mỏi quá"
+    },
+    {
+      "num": 168,
+      "title": "Cha đẻ của Duel Monster"
+    },
+    {
+      "num": 169,
+      "title": "Còn cao thủ nữa"
+    },
+    {
+      "num": 170,
+      "title": "Hợp pháp hóa màn rút bài thần thánh"
+    },
+    {
+      "num": 171,
+      "title": "Tái Sinh Trang Bị"
+    },
+    {
+      "num": 172,
+      "title": "Quái thú trang bị"
+    },
+    {
+      "num": 173,
+      "title": "Cuộc tổng tấn công trang bị bất tận"
+    },
+    {
+      "num": 174,
+      "title": "Ma pháp bị quét sạch"
+    },
+    {
+      "num": 175,
+      "title": "Thiên thần nhân tạo giáng xuống"
+    },
+    {
+      "num": 176,
+      "title": "Cậu triệu hồi cái gì vậy?"
+    },
+    {
+      "num": 177,
+      "title": "Ma Nạp Tế dùng kiểu này à?"
+    },
+    {
+      "num": 178,
+      "title": "Duel hoàn hảo"
+    },
+    {
+      "num": 179,
+      "title": "Ai mới là hội trưởng?"
+    },
+    {
+      "num": 180,
+      "title": "Gặp phải ngươi thì quái nhân cũng phải bỏ chạy"
+    },
+    {
+      "num": 181,
+      "title": "Nền đất sụt xuống"
+    },
+    {
+      "num": 182,
+      "title": "Cứ từ từ, không vội"
+    },
+    {
+      "num": 183,
+      "title": "Sức mạnh của sợi dây gắn kết"
+    },
+    {
+      "num": 184,
+      "title": "Uy lực của Thủ Lưỡi Băng"
+    },
+    {
+      "num": 185,
+      "title": "Hội trưởng rộng rãi"
+    },
+    {
+      "num": 186,
+      "title": "Cứ từ từ, không vội"
+    },
+    {
+      "num": 187,
+      "title": "Kiểm tra khả năng rút bài thần sầu"
+    },
+    {
+      "num": 188,
+      "title": "Mượn dùng một chút"
+    },
+    {
+      "num": 189,
+      "title": "Kẻ trộm rút bài"
+    },
+    {
+      "num": 190,
+      "title": "Cấm dùng hand trap"
+    },
+    {
+      "num": 191,
+      "title": "Na Sa Đế Di"
+    },
+    {
+      "num": 192,
+      "title": "Kẻ xâm nhập?"
+    },
+    {
+      "num": 193,
+      "title": "Lễ hội văn hóa"
+    },
+    {
+      "num": 194,
+      "title": "Ngày hội Duel vui vẻ"
+    },
+    {
+      "num": 195,
+      "title": "Kẻ xâm nhập?"
+    },
+    {
+      "num": 196,
+      "title": "Virus mạnh nhất sau khi tiến hóa"
+    },
+    {
+      "num": 197,
+      "title": "Sao cậu rút bài giỏi thế?!"
+    },
+    {
+      "num": 198,
+      "title": "Bí mật của những người bạn thân"
+    },
+    {
+      "num": 199,
+      "title": "Học viện bị xâm nhập"
+    },
+    {
+      "num": 200,
+      "title": "Lời mời lên con tàu cướp biển"
+    },
+    {
+      "num": 201,
+      "title": "Mật danh Alpha"
+    },
+    {
+      "num": 202,
+      "title": "Con rối bất bại"
+    },
+    {
+      "num": 203,
+      "title": "Niềm tin của Alpha"
+    },
+    {
+      "num": 204,
+      "title": "Quả cầu lửa lớn nhất từ trước đến nay"
+    },
+    {
+      "num": 205,
+      "title": "Mật danh Alpha"
+    },
+    {
+      "num": 206,
+      "title": "Hôm nay tên tù binh này hơi bị chủ động"
+    },
+    {
+      "num": 207,
+      "title": "Bộ bài của Vua Duel"
+    },
+    {
+      "num": 208,
+      "title": "Át chủ bài của Vua Duel"
+    },
+    {
+      "num": 209,
+      "title": "Chắc chắn không phải thứ gì tốt đẹp"
+    },
+    {
+      "num": 210,
+      "title": "Sát thương chí mạng, độ nhục cũng cực cao"
+    },
+    {
+      "num": 211,
+      "title": "Thành tựu sưu tầm đủ bộ bài của các nhà vô địch thế giới?"
+    },
+    {
+      "num": 212,
+      "title": "Domino Ảo"
+    },
+    {
+      "num": 213,
+      "title": "Hôm nay tên tù binh này hơi bị chủ động"
+    },
+    {
+      "num": 214,
+      "title": "Duelist dị giới đúng là nhiệt tình thật"
+    },
+    {
+      "num": 215,
+      "title": "Mời người tiếp theo"
+    },
+    {
+      "num": 216,
+      "title": "Đại giáo chủ ác ma"
+    },
+    {
+      "num": 217,
+      "title": "Mời người tiếp theo"
+    },
+    {
+      "num": 218,
+      "title": "Vượt ngục?"
+    },
+    {
+      "num": 219,
+      "title": "Đại giáo chủ ác ma"
+    },
+    {
+      "num": 220,
+      "title": "Bẫy cho chết luôn?"
+    },
+    {
+      "num": 221,
+      "title": "Cậu nói gì cơ?"
+    },
+    {
+      "num": 222,
+      "title": "Tất cả đều bật ngược"
+    },
+    {
+      "num": 223,
+      "title": "Thần sứ"
+    },
+    {
+      "num": 224,
+      "title": "Phó giám ngục"
+    },
+    {
+      "num": 225,
+      "title": "Thành phố Ác Quỷ?"
+    },
+    {
+      "num": 226,
+      "title": "Sứ giả"
+    },
+    {
+      "num": 227,
+      "title": "Khỉ đầu chó phản công"
+    },
+    {
+      "num": 228,
+      "title": "Hiểu lầm"
+    },
+    {
+      "num": 229,
+      "title": "Huyền thoại lướt qua"
+    },
+    {
+      "num": 230,
+      "title": "Trận Duel tuyệt nhất"
+    },
+    {
+      "num": 231,
+      "title": "Duel đại diện"
+    },
+    {
+      "num": 232,
+      "title": "VS Judai"
+    },
+    {
+      "num": 233,
+      "title": "Khóa Fusion"
+    },
+    {
+      "num": 234,
+      "title": "Fusion ra đời"
+    },
+    {
+      "num": 235,
+      "title": "Những thay đổi của cả hai"
+    },
+    {
+      "num": 236,
+      "title": "Cậu mang cả bản dự phòng số hai thật à?"
+    },
+    {
+      "num": 237,
+      "title": "Đòn kết liễu và màn lật kèo!"
+    },
+    {
+      "num": 238,
+      "title": "Anh có xào bài thật không vậy?"
+    },
+    {
+      "num": 239,
+      "title": "Ánh sáng kỳ diệu"
+    },
+    {
+      "num": 240,
+      "title": "Cảm động thuở ban đầu"
+    },
+    {
+      "num": 241,
+      "title": "Ý chí chiến đấu bất khuất"
+    },
+    {
+      "num": 242,
+      "title": "Học viện anh em"
+    },
+    {
+      "num": 243,
+      "title": "Ánh sáng kỳ diệu"
+    },
+    {
+      "num": 244,
+      "title": "Mục tiêu của chủ tịch Kaiba"
+    },
+    {
+      "num": 245,
+      "title": "Đội hình ác quỷ"
+    },
+    {
+      "num": 246,
+      "title": "Cậu định thắng bằng cách nào đây?"
+    },
+    {
+      "num": 247,
+      "title": "Thế giới chuyên nghiệp tàn khốc quá rồi"
+    },
+    {
+      "num": 248,
+      "title": "Đội quân Bạch Long đến đón"
+    },
+    {
+      "num": 249,
+      "title": "Đợt tấn công của rồng"
+    },
+    {
+      "num": 250,
+      "title": "Làm việc tốt"
+    },
+    {
+      "num": 251,
+      "title": "Đối thủ chưa biết lai lịch"
+    },
+    {
+      "num": 252,
+      "title": "Phong tỏa hoàn toàn"
+    },
+    {
+      "num": 253,
+      "title": "Phong tỏa ngược"
+    },
+    {
+      "num": 254,
+      "title": "Sợi dây gắn kết sẽ gọi đến kỳ tích"
+    },
+    {
+      "num": 255,
+      "title": "Lại là thứ này nữa à?"
+    },
+    {
+      "num": 256,
+      "title": "Thật sự không phải Hắc Ám Duel chứ?"
+    },
+    {
+      "num": 257,
+      "title": "Có quen ông Mã không?"
+    },
+    {
+      "num": 258,
+      "title": "Abiak"
+    },
+    {
+      "num": 259,
+      "title": "Giác ngộ của kẻ chiến thắng"
+    },
+    {
+      "num": 260,
+      "title": "Rồng Băng Viêm"
+    },
+    {
+      "num": 261,
+      "title": "Khả năng kiểm soát lá bài trên cùng"
+    },
+    {
+      "num": 262,
+      "title": "Chưa xong nữa đúng không?"
+    },
+    {
+      "num": 263,
+      "title": "Hắn không phải người đâu!"
+    },
+    {
+      "num": 264,
+      "title": "Người được kỳ vọng"
+    },
+    {
+      "num": 265,
+      "title": "Vong hồn"
+    },
+    {
+      "num": 266,
+      "title": "Con số tăng vọt"
+    },
+    {
+      "num": 267,
+      "title": "Cách mở này hình như sai sai"
+    },
+    {
+      "num": 268,
+      "title": "Giá trị của quá khứ"
+    },
+    {
+      "num": 269,
+      "title": "Có thế thôi à?"
+    },
+    {
+      "num": 270,
+      "title": "Thanh kiếm tối thượng"
+    },
+    {
+      "num": 271,
+      "title": "Con rồng mạnh nhất"
+    },
+    {
+      "num": 272,
+      "title": "Thu hoạch"
+    },
+    {
+      "num": 273,
+      "title": "Con đường của kẻ bá chủ"
+    },
+    {
+      "num": 274,
+      "title": "Phần thưởng cuộc thi"
+    },
+    {
+      "num": 275,
+      "title": "Trận đấu giao hữu"
+    },
+    {
+      "num": 276,
+      "title": "Xé bài thì cũng có sao đâu nhỉ?"
+    },
+    {
+      "num": 277,
+      "title": "Bạn học Yuugen đáng sợ quá đi mất"
+    },
+    {
+      "num": 278,
+      "title": "Phá vỡ LOCK đi nào"
+    },
+    {
+      "num": 279,
+      "title": "Át chủ bài Ánh Sáng và Bóng Tối"
+    },
+    {
+      "num": 280,
+      "title": "Bóng ma của bộ ba Ojama"
+    },
+    {
+      "num": 281,
+      "title": "Có chuyện đó thật à?"
+    },
+    {
+      "num": 282,
+      "title": "Cuối cùng vẫn là hiệu trưởng gánh hết mọi chuyện"
+    },
+    {
+      "num": 283,
+      "title": "Học tập ngoại khóa"
+    },
+    {
+      "num": 284,
+      "title": "Thung lũng Thủ Mộ"
+    },
+    {
+      "num": 285,
+      "title": "Vùng đất ngủ yên"
+    },
+    {
+      "num": 286,
+      "title": "Du Huyền giỏi nhất là biến khách thành chủ"
+    },
+    {
+      "num": 287,
+      "title": "Sức mạnh của thần tận thế"
+    },
+    {
+      "num": 288,
+      "title": "Thiên Ma Thần"
+    },
+    {
+      "num": 289,
+      "title": "Đạo cụ"
+    },
+    {
+      "num": 290,
+      "title": "Không lẽ Pharaon lại chuẩn bị đội mồ sống dậy đấy chứ?"
+    },
+    {
+      "num": 291,
+      "title": "Vật dụng phong ấn"
+    },
+    {
+      "num": 292,
+      "title": "Tiết kiệm thời gian"
+    },
+    {
+      "num": 293,
+      "title": "Không biết thua kiểu gì"
+    },
+    {
+      "num": 294,
+      "title": "Người ngoài cuộc tự nhốt mình"
+    },
+    {
+      "num": 295,
+      "title": "Đạo cụ bóng tối"
+    },
+    {
+      "num": 296,
+      "title": "Ý chí sắt đá của dân chơi bài"
+    },
+    {
+      "num": 297,
+      "title": "Nguồn gốc của kẻ thù"
+    },
+    {
+      "num": 298,
+      "title": "Không giết được tôi thì đừng hòng đi!"
+    },
+    {
+      "num": 299,
+      "title": "Hắc Đế"
+    },
+    {
+      "num": 300,
+      "title": "Cuộc chiến giữa các Đế Vương"
+    },
+    {
+      "num": 301,
+      "title": "Thần"
+    },
+    {
+      "num": 302,
+      "title": "Buổi tọa đàm về Duel chuyên nghiệp"
+    },
+    {
+      "num": 303,
+      "title": "Nhìn tôi làm gì?"
+    },
+    {
+      "num": 304,
+      "title": "Không giết được tôi thì đừng hòng rời đi"
+    },
+    {
+      "num": 305,
+      "title": "Hắc Ám Chi Đế"
+    },
+    {
+      "num": 306,
+      "title": "Cuộc chiến giữa các Đế Vương"
+    },
+    {
+      "num": 307,
+      "title": "Thần"
+    },
+    {
+      "num": 308,
+      "title": "Buổi nói chuyện về Duelist chuyên nghiệp"
+    },
+    {
+      "num": 309,
+      "title": "Mọi người nhìn tôi làm gì?"
+    },
+    {
+      "num": 310,
+      "title": "Duelist chuyên nghiệp"
+    },
+    {
+      "num": 311,
+      "title": "Cám dỗ từ địa ngục"
+    },
+    {
+      "num": 312,
+      "title": "Sự trả thù của quái thú thường!"
+    },
+    {
+      "num": 313,
+      "title": "Cám dỗ từ địa ngục"
+    },
+    {
+      "num": 314,
+      "title": "Cuộc thi"
+    },
+    {
+      "num": 315,
+      "title": "Tăng thêm tiền cược"
+    },
+    {
+      "num": 316,
+      "title": "Nơi đây sẽ biến thành Thành phố Đấu bài"
+    },
+    {
+      "num": 317,
+      "title": "Bọ Cạp Đen tấn công!"
+    },
+    {
+      "num": 318,
+      "title": "Nơi đây sẽ biến thành Thành phố Đấu bài"
+    },
+    {
+      "num": 319,
+      "title": "Trận đầu tiên"
+    },
+    {
+      "num": 320,
+      "title": "Bọ Cạp Đen tấn công!"
+    },
+    {
+      "num": 321,
+      "title": "Tâm lý học trong đấu bài"
+    },
+    {
+      "num": 322,
+      "title": "Sức mạnh của Bọ Cạp Đen"
+    },
+    {
+      "num": 323,
+      "title": "Còn ai muốn thử nữa không?"
+    },
+    {
+      "num": 324,
+      "title": "Có kế hoạch"
+    },
+    {
+      "num": 325,
+      "title": "Đến từ địa ngục"
+    },
+    {
+      "num": 326,
+      "title": "Còn ai muốn thử nữa không?"
+    },
+    {
+      "num": 327,
+      "title": "Cái chết đang đến gần"
+    },
+    {
+      "num": 328,
+      "title": "Lượt cuối cùng?"
+    },
+    {
+      "num": 329,
+      "title": "Khiêu khích"
+    },
+    {
+      "num": 330,
+      "title": "Kẻ hùng hèn hạ của chính nghĩa"
+    },
+    {
+      "num": 331,
+      "title": "Duel vốn nên là niềm vui"
+    },
+    {
+      "num": 332,
+      "title": "Yêu Vương"
+    },
+    {
+      "num": 333,
+      "title": "Câu lạc bộ Câu Lạc Bộ Bóng Tối"
+    },
+    {
+      "num": 334,
+      "title": "Yêu quái"
+    },
+    {
+      "num": 335,
+      "title": "Sức mạnh vũ trụ"
+    },
+    {
+      "num": 336,
+      "title": "Vị đế vương tà ác"
+    },
+    {
+      "num": 337,
+      "title": "Yuugen trừng trị kẻ ác, đề cao lẽ phải"
+    },
+    {
+      "num": 338,
+      "title": "Bỏ sáng theo tối"
+    },
+    {
+      "num": 339,
+      "title": "Từng người một"
+    },
+    {
+      "num": 340,
+      "title": "Caesar Của Học Viện"
+    },
+    {
+      "num": 341,
+      "title": "Trận chiến tranh ngôi vương của học viện?"
+    },
+    {
+      "num": 342,
+      "title": "May mà tôi cao tay hơn một bậc"
+    },
+    {
+      "num": 343,
+      "title": "Đế Vương VS Rồng Điện Tử"
+    },
+    {
+      "num": 344,
+      "title": "Phòng thủ trước ánh sáng chói lòa!"
+    },
+    {
+      "num": 345,
+      "title": "Cho cậu ta một cú đau điếng"
+    },
+    {
+      "num": 346,
+      "title": "Khoảnh khắc mạnh nhất vụt sáng rồi vụt tắt"
+    },
+    {
+      "num": 347,
+      "title": "Cái giá của sức mạnh"
+    },
+    {
+      "num": 348,
+      "title": "Tiềm năng của Rồng Điện Tử"
+    },
+    {
+      "num": 349,
+      "title": "Vì chiến thắng"
+    },
+    {
+      "num": 350,
+      "title": "Tôi nhất định phải giãy giụa ngay lập tức"
+    },
+    {
+      "num": 351,
+      "title": "Thắng được là được"
+    },
+    {
+      "num": 352,
+      "title": "Hắn còn phải cảm ơn mình nữa"
+    },
+    {
+      "num": 353,
+      "title": "Kế hoạch đang âm thầm tiến hành"
+    },
+    {
+      "num": 354,
+      "title": "Dị Trùng"
+    },
+    {
+      "num": 355,
+      "title": "Thiên thạch"
+    },
+    {
+      "num": 356,
+      "title": "Những con trùng vô tận"
+    },
+    {
+      "num": 357,
+      "title": "Cắt, xuất hiện rồi à, Rồng Tối Thượng."
+    },
+    {
+      "num": 358,
+      "title": "Kẻ phán quyết"
+    },
+    {
+      "num": 359,
+      "title": "Tạm dừng thi đấu"
+    },
+    {
+      "num": 360,
+      "title": "Đằng nào cũng phải đấu bài"
+    },
+    {
+      "num": 361,
+      "title": "Góc nhìn độc đáo của Yuugen"
+    },
+    {
+      "num": 362,
+      "title": "Niềm vui của sứ đồ"
+    },
+    {
+      "num": 363,
+      "title": "Đằng nào cũng phải đấu bài"
+    },
+    {
+      "num": 364,
+      "title": "Thây ma đấu bài"
+    },
+    {
+      "num": 365,
+      "title": "Ông xác sống, mạnh lên chút đi nào"
+    },
+    {
+      "num": 366,
+      "title": "Kỳ tích y học"
+    },
+    {
+      "num": 367,
+      "title": "Kẻ nhiễm bệnh"
+    },
+    {
+      "num": 368,
+      "title": "Điểm tập trung"
+    },
+    {
+      "num": 369,
+      "title": "Kế hoạch tàu hỏa"
+    },
+    {
+      "num": 370,
+      "title": "Điểm tập trung"
+    },
+    {
+      "num": 371,
+      "title": "Vương Hổ phong tỏa"
+    },
+    {
+      "num": 372,
+      "title": "Giải quyết trong một phút"
+    },
+    {
+      "num": 373,
+      "title": "Cội nguồn bóng tối"
+    },
+    {
+      "num": 374,
+      "title": "May mà đầu óc hắn không được tốt cho lắm"
+    },
+    {
+      "num": 375,
+      "title": "Kẻ giả dạng"
+    },
+    {
+      "num": 376,
+      "title": "Tôi phải Dung Hợp Tương Lai"
+    },
+    {
+      "num": 377,
+      "title": "Cuối cùng cũng triệu hồi được rồi"
+    },
+    {
+      "num": 378,
+      "title": "Tâm lý mới là quan trọng nhất"
+    },
+    {
+      "num": 379,
+      "title": "Dị Trùng Victory"
+    },
+    {
+      "num": 380,
+      "title": "Uy lực của Dị Trùng"
+    },
+    {
+      "num": 381,
+      "title": "Tiềm năng của Chiến Sĩ Hỗn Độn"
+    },
+    {
+      "num": 382,
+      "title": "Giới hạn ở đâu?"
+    },
+    {
+      "num": 383,
+      "title": "Đánh bài chinh phục thiên hạ"
+    },
+    {
+      "num": 384,
+      "title": "Anh hùng nhà giàu"
+    },
+    {
+      "num": 385,
+      "title": "Nội gián cả đám"
+    },
+    {
+      "num": 386,
+      "title": "Đánh bài chinh phục thiên hạ"
+    },
+    {
+      "num": 387,
+      "title": "Đánh bài đến mức đầu óc lú lẫn"
+    },
+    {
+      "num": 388,
+      "title": "Kẻ báo thù"
+    },
+    {
+      "num": 389,
+      "title": "Tôi tự mình đến"
+    },
+    {
+      "num": 390,
+      "title": "Hành tinh giáng trần"
+    },
+    {
+      "num": 391,
+      "title": "Nội gián cả đám"
+    },
+    {
+      "num": 392,
+      "title": "Kẻ đánh thuê bỏ chạy"
+    },
+    {
+      "num": 393,
+      "title": "Đánh bài đến mức đầu óc lú lẫn"
+    },
+    {
+      "num": 394,
+      "title": "Cú Đánh Tan Nát"
+    },
+    {
+      "num": 395,
+      "title": "Kẻ báo thù"
+    },
+    {
+      "num": 396,
+      "title": "Cú Đánh Tan Nát"
+    },
+    {
+      "num": 397,
+      "title": "Chấp niệm báo thù"
+    },
+    {
+      "num": 398,
+      "title": "Thứ gọi là số phận?"
+    },
+    {
+      "num": 399,
+      "title": "Chấp niệm"
+    },
+    {
+      "num": 400,
+      "title": "Oan hồn?"
+    },
+    {
+      "num": 401,
+      "title": "Chiêu cũ, nhưng hiệu quả thì khỏi bàn"
+    },
+    {
+      "num": 402,
+      "title": "Với tư cách nhà vô địch"
+    },
+    {
+      "num": 403,
+      "title": "Lòng kiêu hãnh của nhà vô địch"
+    },
+    {
+      "num": 404,
+      "title": "Khiêu khích nhà vô địch"
+    },
+    {
+      "num": 405,
+      "title": "Tổng tấn công! Các anh hùng xuất trận!"
+    },
+    {
+      "num": 406,
+      "title": "Lòng kiêu hãnh của nhà vô địch"
+    },
+    {
+      "num": 407,
+      "title": "Linh hồn anh hùng"
+    },
+    {
+      "num": 408,
+      "title": "Với tư cách một Duelist"
+    },
+    {
+      "num": 409,
+      "title": "Chiến đấu đến phút cuối cùng"
+    },
+    {
+      "num": 410,
+      "title": "Sức nặng của một trận Duel"
+    },
+    {
+      "num": 411,
+      "title": "Quá khứ bị lãng quên"
+    },
+    {
+      "num": 412,
+      "title": "Ký ức tan vỡ"
+    },
+    {
+      "num": 413,
+      "title": "Vua"
+    },
+    {
+      "num": 414,
+      "title": "Ý chí được kế thừa"
+    },
+    {
+      "num": 415,
+      "title": "Quái thú mà mình yêu quý nhất"
+    },
+    {
+      "num": 416,
+      "title": "Con đường dẫn đến trận quyết chiến"
+    },
+    {
+      "num": 417,
+      "title": "Trừ Thánh và sức mạnh rút bài"
+    },
+    {
+      "num": 418,
+      "title": "Rồng Tối Thượng"
+    },
+    {
+      "num": 419,
+      "title": "Trưởng thành"
+    },
+    {
+      "num": 420,
+      "title": "Trừ Thánh và sức mạnh rút bài"
+    },
+    {
+      "num": 421,
+      "title": "Sức Mạnh Càng Lớn, Rủi Ro Càng Cao"
+    },
+    {
+      "num": 422,
+      "title": "Rồng Tối Thượng"
+    },
+    {
+      "num": 423,
+      "title": "Chọn một lá bài"
+    },
+    {
+      "num": 424,
+      "title": "MVP toàn trận"
+    },
+    {
+      "num": 425,
+      "title": "Trận đấu cuối cùng"
+    },
+    {
+      "num": 426,
+      "title": "Sức Mạnh Càng Lớn, Rủi Ro Càng Cao"
+    },
+    {
+      "num": 427,
+      "title": "Ngôi Sao Chói Lòa"
+    },
+    {
+      "num": 428,
+      "title": "Tinh linh của linh hồn"
+    },
+    {
+      "num": 429,
+      "title": "MVP toàn trận"
+    },
+    {
+      "num": 430,
+      "title": "Chọn một lá bài"
+    },
+    {
+      "num": 431,
+      "title": "Trận đấu cuối cùng"
+    },
+    {
+      "num": 432,
+      "title": "Trận chung kết quyết định"
+    },
+    {
+      "num": 433,
+      "title": "Bí mật?"
+    },
+    {
+      "num": 434,
+      "title": "Lá bài được gửi gắm"
+    },
+    {
+      "num": 435,
+      "title": "Ngôi Sao Chói Lòa"
+    },
+    {
+      "num": 436,
+      "title": "Trận chung kết quyết định"
+    },
+    {
+      "num": 437,
+      "title": "Bí mật?"
+    },
+    {
+      "num": 438,
+      "title": "Lá bài được gửi gắm"
+    },
+    {
+      "num": 439,
+      "title": "Kết giới cuối cùng"
+    },
+    {
+      "num": 440,
+      "title": "Lá bài được gửi gắm"
+    },
+    {
+      "num": 441,
+      "title": "Kết giới cuối cùng"
+    },
+    {
+      "num": 442,
+      "title": "Xà Thần Yi vô địch"
+    },
+    {
+      "num": 443,
+      "title": "Ma thần giáng trần"
+    },
+    {
+      "num": 444,
+      "title": "Ngọn giáo mạnh nhất và tấm khiên vững chắc nhất"
+    },
+    {
+      "num": 445,
+      "title": "Tự động sang số, cậu tin nổi không?"
+    },
+    {
+      "num": 446,
+      "title": "Cuộc chiến giữa các vị thần"
+    },
+    {
+      "num": 447,
+      "title": "Xà Thần Yi vô địch"
+    },
+    {
+      "num": 448,
+      "title": "Các chiến binh đều có tuyệt chiêu riêng"
+    },
+    {
+      "num": 449,
+      "title": "Cuộc đấu trí giữa các vị thần"
+    },
+    {
+      "num": 450,
+      "title": "Trận chiến khốc liệt đi đến hồi kết"
+    },
+    {
+      "num": 451,
+      "title": "Con thú bị dồn vào đường cùng"
+    },
+    {
+      "num": 452,
+      "title": "Thần Rắn ngã xuống"
+    },
+    {
+      "num": 453,
+      "title": "Vua Duel"
+    },
+    {
+      "num": 454,
+      "title": "Tôi đến đây để đập quán đây!"
+    },
+    {
+      "num": 455,
+      "title": "Con thú bị dồn vào đường cùng"
+    },
+    {
+      "num": 456,
+      "title": "Vua Duel"
+    },
+    {
+      "num": 457,
+      "title": "Tôi đến đây để đập quán đây!"
+    },
+    {
+      "num": 458,
+      "title": "Đánh úp"
+    },
+    {
+      "num": 459,
+      "title": "Combo liên hoàn của Amazoness"
+    },
+    {
+      "num": 460,
+      "title": "Chết vì tự sát"
+    },
+    {
+      "num": 461,
+      "title": "Đã đến rồi thì đừng hòng đi!"
+    },
+    {
+      "num": 462,
+      "title": "Cá cắn câu rồi!"
+    },
+    {
+      "num": 463,
+      "title": "Thủ lĩnh Tả, chào anh!"
+    },
+    {
+      "num": 464,
+      "title": "Vua"
+    },
+    {
+      "num": 465,
+      "title": "Darkness gặp đại nguy cơ"
+    },
+    {
+      "num": 466,
+      "title": "Vua"
+    },
+    {
+      "num": 467,
+      "title": "Trận chiến khốc liệt đi đến hồi kết"
+    },
+    {
+      "num": 468,
+      "title": "Bóng tối trong lòng"
+    },
+    {
+      "num": 469,
+      "title": "Các chiến binh đều có tuyệt chiêu riêng"
+    },
+    {
+      "num": 470,
+      "title": "Bóng tối trong lòng"
+    },
+    {
+      "num": 471,
+      "title": "Sơn thần?"
+    },
+    {
+      "num": 472,
+      "title": "Đã đến rồi thì đừng hòng đi!"
+    },
+    {
+      "num": 473,
+      "title": "Sao cậu lại thành thạo đến thế?"
+    },
+    {
+      "num": 474,
+      "title": "Duelist cờ bạc"
+    },
+    {
+      "num": 475,
+      "title": "Virus"
+    },
+    {
+      "num": 476,
+      "title": "Tôi đã cố hết sức rồi"
+    },
+    {
+      "num": 477,
+      "title": "Duelist cờ bạc"
+    },
+    {
+      "num": 478,
+      "title": "Mùa tựu trường"
+    },
+    {
+      "num": 479,
+      "title": "Khí phách của bậc quân vương"
+    },
+    {
+      "num": 480,
+      "title": "Đế quốc ma cà rồng"
+    },
+    {
+      "num": 481,
+      "title": "Phản trinh sát"
+    },
+    {
+      "num": 482,
+      "title": "Dứt khoát đoạn tuyệt với quá khứ"
+    },
+    {
+      "num": 483,
+      "title": "Phản trinh sát"
+    },
+    {
+      "num": 484,
+      "title": "Sức Mạnh Cấm Kỵ"
+    },
+    {
+      "num": 485,
+      "title": "Dứt khoát đoạn tuyệt với quá khứ"
+    },
+    {
+      "num": 486,
+      "title": "Chàng trai sa ngã vào bóng tối"
+    },
+    {
+      "num": 487,
+      "title": "Trông chẳng giống người tốt chút nào"
+    },
+    {
+      "num": 488,
+      "title": "Còn có chuyện tốt thế này nữa à?"
+    },
+    {
+      "num": 489,
+      "title": "Chàng trai sa ngã vào bóng tối"
+    },
+    {
+      "num": 490,
+      "title": "Đáp lại sự nhiệt tình"
+    },
+    {
+      "num": 491,
+      "title": "Đội Cơ Giáp · Rùa Bắn Đạn"
+    },
+    {
+      "num": 492,
+      "title": "Còn có chuyện tốt thế này nữa à?"
+    },
+    {
+      "num": 493,
+      "title": "Đội Cơ Giáp · Rùa Bắn Đạn"
+    },
+    {
+      "num": 494,
+      "title": "Nhiễu Loạn xuất kích"
+    },
+    {
+      "num": 495,
+      "title": "Con đường của bậc vua chúa"
+    },
+    {
+      "num": 496,
+      "title": "Thời đại thay đổi rồi"
+    },
+    {
+      "num": 497,
+      "title": "Tuyệt cảnh quấy rối"
+    },
+    {
+      "num": 498,
+      "title": "Khí phách của bậc quân vương"
+    },
+    {
+      "num": 499,
+      "title": "RPG đấu bài thế giới mở"
+    },
+    {
+      "num": 500,
+      "title": "Chọn cái quái gì chứ?"
+    },
+    {
+      "num": 501,
+      "title": "Sức Mạnh Cấm Kỵ"
+    },
+    {
+      "num": 502,
+      "title": "Đế quốc ma cà rồng"
+    },
+    {
+      "num": 503,
+      "title": "Sức Mạnh Cấm Kỵ"
+    },
+    {
+      "num": 504,
+      "title": "Cuộc chiến thành trì"
+    },
+    {
+      "num": 505,
+      "title": "Kiếm sĩ bản nâng cấp"
+    },
+    {
+      "num": 506,
+      "title": "Trông chẳng giống người tốt chút nào"
+    },
+    {
+      "num": 507,
+      "title": "Cuộc chiến thành trì"
+    },
+    {
+      "num": 508,
+      "title": "Kiếm sĩ bản nâng cấp"
+    },
+    {
+      "num": 509,
+      "title": "Chưa từng thắng trận nào đúng không?"
+    },
+    {
+      "num": 510,
+      "title": "Đấu bài kén chồng"
+    },
+    {
+      "num": 511,
+      "title": "Thành người một nhà rồi"
+    },
+    {
+      "num": 512,
+      "title": "Cậu nói đúng"
+    },
+    {
+      "num": 513,
+      "title": "Đấu bài kén chồng"
+    },
+    {
+      "num": 514,
+      "title": "Vậy thì cậu vô địch thiên hạ rồi còn gì"
+    },
+    {
+      "num": 515,
+      "title": "Đáp lại sự nhiệt tình"
+    },
+    {
+      "num": 516,
+      "title": "Đánh bài quan trọng hơn"
+    },
+    {
+      "num": 517,
+      "title": "Vậy thì cậu vô địch thiên hạ rồi còn gì"
+    },
+    {
+      "num": 518,
+      "title": "Thu thập năng lượng"
+    },
+    {
+      "num": 519,
+      "title": "Thời đại thay đổi rồi"
+    },
+    {
+      "num": 520,
+      "title": "Cuộc chiến thành trì"
+    },
+    {
+      "num": 521,
+      "title": "Kiếm sĩ bản nâng cấp"
+    },
+    {
+      "num": 522,
+      "title": "Soga phản công"
+    },
+    {
+      "num": 523,
+      "title": "Lo xa tính trước"
+    },
+    {
+      "num": 524,
+      "title": "Thu thập năng lượng"
+    },
+    {
+      "num": 525,
+      "title": "Thần cờ bạc mọc cánh cũng khó thoát"
+    },
+    {
+      "num": 526,
+      "title": "Cho tôi góp một tay!"
+    },
+    {
+      "num": 527,
+      "title": "Gương mặt người chết"
+    },
+    {
+      "num": 528,
+      "title": "Cấm địa luyện kim"
+    },
+    {
+      "num": 529,
+      "title": "Địa ngục xe đạp vô tận"
+    },
+    {
+      "num": 530,
+      "title": "Hoàn toàn là vu khống"
+    },
+    {
+      "num": 531,
+      "title": "Quá khứ đã không còn"
+    },
+    {
+      "num": 532,
+      "title": "Cậu không nên quay lại"
+    },
+    {
+      "num": 533,
+      "title": "VS David"
+    },
+    {
+      "num": 534,
+      "title": "Thử bản thẻ bài ngoài đời chưa?"
+    },
+    {
+      "num": 535,
+      "title": "Chẳng qua chỉ là một người bình thường thôi"
+    },
+    {
+      "num": 536,
+      "title": "Cấm địa luyện kim"
+    },
+    {
+      "num": 537,
+      "title": "Thầy xuất hiện"
+    },
+    {
+      "num": 538,
+      "title": "Luyện Kim Tấn Công Dồn Dập"
+    },
+    {
+      "num": 539,
+      "title": "Bọ Cạp Đen"
+    },
+    {
+      "num": 540,
+      "title": "Gương mặt người chết"
+    },
+    {
+      "num": 541,
+      "title": "Kích hoạt Đại Vũ Trụ"
+    },
+    {
+      "num": 542,
+      "title": "Hoàn toàn là vu khống"
+    },
+    {
+      "num": 543,
+      "title": "Mặt Trời Ba Con"
+    },
+    {
+      "num": 544,
+      "title": "Quá khứ đã không còn"
+    },
+    {
+      "num": 545,
+      "title": "Bài học cuối cùng"
+    },
+    {
+      "num": 546,
+      "title": "Nhờ có sự gắn kết của các cậu"
+    },
+    {
+      "num": 547,
+      "title": "Cậu không nên quay lại"
+    },
+    {
+      "num": 548,
+      "title": "Chẳng qua chỉ là một người bình thường thôi"
+    },
+    {
+      "num": 549,
+      "title": "Tinh linh trong thế giới thực"
+    },
+    {
+      "num": 550,
+      "title": "Sao Thủy"
+    },
+    {
+      "num": 551,
+      "title": "Bọ Cạp Đen"
+    },
+    {
+      "num": 552,
+      "title": "Phó bản đột nhập độ khó địa ngục"
+    },
+    {
+      "num": 553,
+      "title": "Tôi còn chưa kịp lên xe"
+    },
+    {
+      "num": 554,
+      "title": "Truy đuổi"
+    },
+    {
+      "num": 555,
+      "title": "Bài học cuối cùng"
+    },
+    {
+      "num": 556,
+      "title": "Nhờ có sự gắn kết của các cậu"
+    },
+    {
+      "num": 557,
+      "title": "Đội đặc nhiệm chống Thất Tinh"
+    },
+    {
+      "num": 558,
+      "title": "Tinh linh trong thế giới thực"
+    },
+    {
+      "num": 559,
+      "title": "Lời mời tham gia sự kiện"
+    },
+    {
+      "num": 560,
+      "title": "Cả đám đều là nội gián"
+    },
+    {
+      "num": 561,
+      "title": "Tôi còn chưa kịp lên xe"
+    },
+    {
+      "num": 562,
+      "title": "Bộ bài của Kagemaru"
+    },
+    {
+      "num": 563,
+      "title": "Vòng Khí"
+    },
+    {
+      "num": 564,
+      "title": "Bộ bài này đúng là có duyên với mình thật"
+    },
+    {
+      "num": 565,
+      "title": "Truy đuổi"
+    },
+    {
+      "num": 566,
+      "title": "Lời mời tham gia sự kiện"
+    },
+    {
+      "num": 567,
+      "title": "Vòng Khí"
+    },
+    {
+      "num": 568,
+      "title": "Chỉ có bẫy thôi sao?"
+    },
+    {
+      "num": 569,
+      "title": "Toàn là bẫy cả thôi"
+    },
+    {
+      "num": 570,
+      "title": "Nhiễu Loạn xuất kích"
+    },
+    {
+      "num": 571,
+      "title": "Liều mạng đánh cược một phen"
+    },
+    {
+      "num": 572,
+      "title": "Một cuộc đời khiến người ta chán ngán"
+    },
+    {
+      "num": 573,
+      "title": "Thành người một nhà rồi"
+    },
+    {
+      "num": 574,
+      "title": "Bí quyết tối thượng của Dòng Điện Tử"
+    },
+    {
+      "num": 575,
+      "title": "Trận Duel tốt nghiệp"
+    },
+    {
+      "num": 576,
+      "title": "Ngồi tù là chuyện đương nhiên"
+    },
+    {
+      "num": 577,
+      "title": "Rồng Điện Tử Tiến Hóa"
+    },
+    {
+      "num": 578,
+      "title": "Tuyệt kỹ cuối cùng của phái Điện Tử Lưu"
+    },
+    {
+      "num": 579,
+      "title": "Gặp lại thế giới ngầm"
+    },
+    {
+      "num": 580,
+      "title": "Tuyệt kỹ cuối cùng của phái Điện Tử Lưu"
+    },
+    {
+      "num": 581,
+      "title": "Đánh bài quan trọng hơn"
+    },
+    {
+      "num": 582,
+      "title": "Thời đại thay đổi rồi"
+    },
+    {
+      "num": 583,
+      "title": "Lo xa tính trước"
+    },
+    {
+      "num": 584,
+      "title": "Hebikawa"
+    },
+    {
+      "num": 585,
+      "title": "Gặp lại thế giới ngầm"
+    },
+    {
+      "num": 586,
+      "title": "Trận Duel tốt nghiệp"
+    },
+    {
+      "num": 587,
+      "title": "Gặp lại thế giới ngầm"
+    },
+    {
+      "num": 588,
+      "title": "Quân át chủ bài của ma cà rồng"
+    },
+    {
+      "num": 589,
+      "title": "Người ta tốt lắm"
+    },
+    {
+      "num": 590,
+      "title": "Vòng lặp bất tận"
+    },
+    {
+      "num": 591,
+      "title": "Gặp lại thế giới ngầm"
+    },
+    {
+      "num": 592,
+      "title": "Mối thù kéo dài ba nghìn năm"
+    },
+    {
+      "num": 593,
+      "title": "Vòng lặp bất tận"
+    },
+    {
+      "num": 594,
+      "title": "Đối thủ đang ẩn mình"
+    },
+    {
+      "num": 595,
+      "title": "Đấu bài kén chồng"
+    },
+    {
+      "num": 596,
+      "title": "Rùa Bắn Đạn, Chiêu Thức Bình Thường Mà Thôi"
+    },
+    {
+      "num": 597,
+      "title": "Mối thù kéo dài ba nghìn năm"
+    },
+    {
+      "num": 598,
+      "title": "Bí quyết tối thượng của Dòng Điện Tử"
+    },
+    {
+      "num": 599,
+      "title": "Rùa Bắn Đạn, Chiêu Thức Bình Thường Mà Thôi"
+    },
+    {
+      "num": 600,
+      "title": "Thẻ lậu của Valkyrie"
+    },
+    {
+      "num": 601,
+      "title": "Hiến tế để thoát thân"
+    },
+    {
+      "num": 602,
+      "title": "Bí quyết tối thượng của Dòng Điện Tử"
+    },
+    {
+      "num": 603,
+      "title": "Trận Duel tốt nghiệp"
+    },
+    {
+      "num": 604,
+      "title": "Bí quyết tối thượng của Dòng Điện Tử"
+    },
+    {
+      "num": 605,
+      "title": "Phản đòn từ đầu đến chân"
+    },
+    {
+      "num": 606,
+      "title": "Mê cung"
+    },
+    {
+      "num": 607,
+      "title": "Mối thù kéo dài ba nghìn năm"
+    },
+    {
+      "num": 608,
+      "title": "Trận Duel tốt nghiệp"
+    },
+    {
+      "num": 609,
+      "title": "Mặt trời đen kịt"
+    },
+    {
+      "num": 610,
+      "title": "Tiềm năng của quái thú"
+    },
+    {
+      "num": 611,
+      "title": "Hiến tế để thoát thân"
+    },
+    {
+      "num": 612,
+      "title": "Đột kích học viện ban đêm"
+    },
+    {
+      "num": 613,
+      "title": "Ngày hồi sinh"
+    },
+    {
+      "num": 614,
+      "title": "Mối thù kéo dài ba nghìn năm"
+    },
+    {
+      "num": 615,
+      "title": "Đối thủ đang ẩn mình"
+    },
+    {
+      "num": 616,
+      "title": "Huyễn Ma thứ ba"
+    },
+    {
+      "num": 617,
+      "title": "Cả sân trường đổ xô đến xem"
+    },
+    {
+      "num": 618,
+      "title": "Thẻ lậu của Valkyrie"
+    },
+    {
+      "num": 619,
+      "title": "Mặt trời đen kịt"
+    },
+    {
+      "num": 620,
+      "title": "Đột kích học viện ban đêm"
+    },
+    {
+      "num": 621,
+      "title": "Cả sân trường đổ xô đến xem"
+    },
+    {
+      "num": 622,
+      "title": "Kích nổ"
+    },
+    {
+      "num": 623,
+      "title": "Huyễn Ma Hỗn Độn"
+    },
+    {
+      "num": 624,
+      "title": "Sứ giả báo thù"
+    },
+    {
+      "num": 625,
+      "title": "Các người định trộm bài của ai đấy?"
+    },
+    {
+      "num": 626,
+      "title": "Số phận đã định"
+    },
+    {
+      "num": 627,
+      "title": "Người quen cũ cả rồi"
+    },
+    {
+      "num": 628,
+      "title": "Mê cung"
+    },
+    {
+      "num": 629,
+      "title": "Khai quật"
+    },
+    {
+      "num": 630,
+      "title": "Vòng khí cuối cùng"
+    },
+    {
+      "num": 631,
+      "title": "Ngày hồi sinh"
+    },
+    {
+      "num": 632,
+      "title": "Người ngoài hành tinh cũng biết chơi bài à?"
+    },
+    {
+      "num": 633,
+      "title": "Kẻ xâm lược"
+    },
+    {
+      "num": 634,
+      "title": "Họ hàng của Rồng Trời?"
+    },
+    {
+      "num": 635,
+      "title": "Có những kẻ vẫn sống mà như đã chết"
+    },
+    {
+      "num": 636,
+      "title": "Tiềm năng của quái thú"
+    },
+    {
+      "num": 637,
+      "title": "Còn không mau đi tìm!"
+    },
+    {
+      "num": 638,
+      "title": "Mê cung"
+    },
+    {
+      "num": 639,
+      "title": "Ngày hồi sinh"
+    },
+    {
+      "num": 640,
+      "title": "Kích nổ"
+    },
+    {
+      "num": 641,
+      "title": "Sứ giả báo thù"
+    },
+    {
+      "num": 642,
+      "title": "Người quen cũ cả rồi"
+    },
+    {
+      "num": 643,
+      "title": "Vòng khí cuối cùng"
+    },
+    {
+      "num": 644,
+      "title": "Nỗi kinh hoàng giáng xuống"
+    },
+    {
+      "num": 645,
+      "title": "Mê cung"
+    },
+    {
+      "num": 646,
+      "title": "Ngày hồi sinh"
+    },
+    {
+      "num": 647,
+      "title": "Còn không mau đi tìm!"
+    },
+    {
+      "num": 648,
+      "title": "Ngày hồi sinh"
+    },
+    {
+      "num": 649,
+      "title": "Vòng khí bất tử"
+    },
+    {
+      "num": 650,
+      "title": "Cái gọi là số phận"
+    },
+    {
+      "num": 651,
+      "title": "Nỗi kinh hoàng bất tận"
+    },
+    {
+      "num": 652,
+      "title": "Nỗi kinh hoàng giáng xuống"
+    },
+    {
+      "num": 653,
+      "title": "Nỗi kinh hoàng bất tận"
+    },
+    {
+      "num": 654,
+      "title": "Ghê gớm thế cơ à?"
+    },
+    {
+      "num": 655,
+      "title": "Vũ công phản công"
+    },
+    {
+      "num": 656,
+      "title": "Nhà vô địch bắn súng"
+    },
+    {
+      "num": 657,
+      "title": "Chiến hạm tấn công"
+    },
+    {
+      "num": 658,
+      "title": "Vũ công phản công"
+    },
+    {
+      "num": 659,
+      "title": "Thiên thần khóa sân"
+    },
+    {
+      "num": 660,
+      "title": "Lời mời từ Hội Ánh Sáng"
+    },
+    {
+      "num": 661,
+      "title": "Thiên thần khóa sân"
+    },
+    {
+      "num": 662,
+      "title": "Thiên thần đầu bò xuất trận"
+    },
+    {
+      "num": 663,
+      "title": "Mọi thứ hoàn toàn rối tung lên rồi"
+    },
+    {
+      "num": 664,
+      "title": "Trận đại chiến thế kỷ của giải đấu"
+    },
+    {
+      "num": 665,
+      "title": "Sức mạnh của Tứ Đế"
+    },
+    {
+      "num": 666,
+      "title": "Họ hàng của Rồng Trời?"
+    },
+    {
+      "num": 667,
+      "title": "Tuyệt kỹ cuối cùng"
+    },
+    {
+      "num": 668,
+      "title": "Đến tận nơi thách đấu à?"
+    },
+    {
+      "num": 669,
+      "title": "Sức mạnh của Tứ Đế"
+    },
+    {
+      "num": 670,
+      "title": "Đến tận nơi thách đấu à?"
+    },
+    {
+      "num": 671,
+      "title": "Bọn Hắc Hạt chúng tôi đúng là quá mạnh!"
+    },
+    {
+      "num": 672,
+      "title": "Xem hắn vui biết bao nhiêu"
+    },
+    {
+      "num": 673,
+      "title": "Thổi một phát ra ngay bảo bối"
+    },
+    {
+      "num": 674,
+      "title": "Bọn Hắc Hạt chúng tôi đúng là quá mạnh!"
+    },
+    {
+      "num": 675,
+      "title": "Thổi một phát ra ngay bảo bối"
+    },
+    {
+      "num": 676,
+      "title": "Số phận lung lay"
+    },
+    {
+      "num": 677,
+      "title": "Chuột chũi xuất kích!"
+    },
+    {
+      "num": 678,
+      "title": "Số phận lung lay"
+    },
+    {
+      "num": 679,
+      "title": "Vận mệnh của anh chỉ có thế thôi à?"
+    },
+    {
+      "num": 680,
+      "title": "Ràng Buộc Gương Soi"
+    },
+    {
+      "num": 681,
+      "title": "Vận mệnh lung lay"
+    },
+    {
+      "num": 682,
+      "title": "Thần Hắc Ám"
+    },
+    {
+      "num": 683,
+      "title": "Các người định trộm bài của ai đấy?"
+    },
+    {
+      "num": 684,
+      "title": "Số phận đổi thay"
+    },
+    {
+      "num": 685,
+      "title": "Bầu trời vệ tinh"
+    },
+    {
+      "num": 686,
+      "title": "Khai quật"
+    },
+    {
+      "num": 687,
+      "title": "Phiến đá của La Mã cổ đại"
+    },
+    {
+      "num": 688,
+      "title": "Bộ bài bị nhòm ngó"
+    },
+    {
+      "num": 689,
+      "title": "Thách thức Vua Duel"
+    },
+    {
+      "num": 690,
+      "title": "Đổi phong cách chơi bài?"
+    },
+    {
+      "num": 691,
+      "title": "Cách mở đúng của lối chơi Điện Tử Lưu"
+    },
+    {
+      "num": 692,
+      "title": "Dồn sát thương trong một lượt"
+    },
+    {
+      "num": 693,
+      "title": "Số phận đã định"
+    },
+    {
+      "num": 694,
+      "title": "Yuugen đã nói là làm"
+    },
+    {
+      "num": 695,
+      "title": "Phe Ánh Sáng"
+    },
+    {
+      "num": 696,
+      "title": "GX khai mạc"
+    },
+    {
+      "num": 697,
+      "title": "Hoàng tử giá lâm"
+    },
+    {
+      "num": 698,
+      "title": "OTK bằng vệ tinh"
+    },
+    {
+      "num": 699,
+      "title": "Sức mạnh thật sự của Rồng Trắng Mắt Xanh"
+    },
+    {
+      "num": 700,
+      "title": "Thế nào mới là tôn trọng"
+    },
+    {
+      "num": 701,
+      "title": "Tin tốt"
+    },
+    {
+      "num": 702,
+      "title": "VS Saiou"
+    },
+    {
+      "num": 703,
+      "title": "Sức mạnh định mệnh tuyệt đối"
+    },
+    {
+      "num": 704,
+      "title": "Đến đây, đôi bên cùng gây sát thương nào!"
+    },
+    {
+      "num": 705,
+      "title": "Thế Giới"
+    },
+    {
+      "num": 706,
+      "title": "Ác Quỷ"
+    },
+    {
+      "num": 707,
+      "title": "Sức mạnh định đoạt vận mệnh tuyệt đối"
+    },
+    {
+      "num": 708,
+      "title": "Sao cậu lại thuần thục đến thế"
+    },
+    {
+      "num": 709,
+      "title": "Sức mạnh của Thế Giới"
+    },
+    {
+      "num": 710,
+      "title": ""
+    },
+    {
+      "num": 711,
+      "title": "Lĩnh Vực Ánh Sáng"
+    },
+    {
+      "num": 712,
+      "title": "Bí thuật tối thượng giáng lâm"
+    },
+    {
+      "num": 713,
+      "title": "Hỗn Độn Diệt Vong"
+    },
+    {
+      "num": 714,
+      "title": "Ngựa hay gặp được người biết thưởng thức"
+    },
+    {
+      "num": 715,
+      "title": "Diễn xuất"
+    },
+    {
+      "num": 716,
+      "title": "Nhiệm vụ mới của Hội Ánh Sáng"
+    },
+    {
+      "num": 717,
+      "title": "Duelist Tử Thần"
+    },
+    {
+      "num": 718,
+      "title": "Ba đánh một mà vẫn bị phản sát"
+    },
+    {
+      "num": 719,
+      "title": "Sức mạnh của Thần Chết"
+    },
+    {
+      "num": 720,
+      "title": "Một đòn kết liễu!"
+    },
+    {
+      "num": 721,
+      "title": "Rút bài bằng nhát rút kiếm tức thì"
+    },
+    {
+      "num": 722,
+      "title": "Thứ này sâu quá, cậu không kham nổi đâu"
+    },
+    {
+      "num": 723,
+      "title": "《Kế Hoạch Địa Phủ》"
+    },
+    {
+      "num": 724,
+      "title": "Cỗ máy bọ cánh cứng"
+    },
+    {
+      "num": 725,
+      "title": "Lần đầu tiên thấy có người phối hợp ăn ý đến thế"
+    },
+    {
+      "num": 726,
+      "title": "Trao hóa thân của ánh sáng cho cậu"
+    },
+    {
+      "num": 727,
+      "title": "Ánh Sáng Hủy Diệt đúng là đang lãng phí tuổi thanh xuân của tôi"
+    },
+    {
+      "num": 728,
+      "title": "Anh vẫn còn đặt tên hơi hiền đấy"
+    },
+    {
+      "num": 729,
+      "title": "Ngày được giải phóng"
+    },
+    {
+      "num": 730,
+      "title": "Giải đấu vô địch"
+    },
+    {
+      "num": 731,
+      "title": "Lá bài này, tôi lấy!"
+    },
+    {
+      "num": 732,
+      "title": "Nhà vô địch năm xưa"
+    },
+    {
+      "num": 733,
+      "title": "Ánh sáng ban phước"
+    },
+    {
+      "num": 734,
+      "title": "Minh Vương Long"
+    },
+    {
+      "num": 735,
+      "title": "Anh hùng tối thượng"
+    },
+    {
+      "num": 736,
+      "title": "Thủ phạm thật sự"
+    },
+    {
+      "num": 737,
+      "title": "Lá bài nuốt chửng linh hồn"
+    },
+    {
+      "num": 738,
+      "title": "Linh hồn bị phong ấn"
+    },
+    {
+      "num": 739,
+      "title": "Phá vỡ thế bí"
+    },
+    {
+      "num": 740,
+      "title": "Chiến binh mạnh nhất"
+    },
+    {
+      "num": 741,
+      "title": "Di sản"
+    },
+    {
+      "num": 742,
+      "title": "Vật lý học trong đấu bài"
+    },
+    {
+      "num": 743,
+      "title": "Tiến sĩ thiên tài"
+    },
+    {
+      "num": 744,
+      "title": "Nghịch lý rút bài"
+    },
+    {
+      "num": 745,
+      "title": "Quái thú của Vua"
+    },
+    {
+      "num": 746,
+      "title": "Một đi không trở lại"
+    },
+    {
+      "num": 747,
+      "title": "Thành Bá Vương"
+    },
+    {
+      "num": 748,
+      "title": "Bóng tối giáng xuống"
+    },
+    {
+      "num": 749,
+      "title": "Bá Vương"
+    },
+    {
+      "num": 750,
+      "title": "Tà Tâm"
+    },
+    {
+      "num": 751,
+      "title": "Móng Vuốt Sa Đọa"
+    },
+    {
+      "num": 752,
+      "title": "Bộ đôi kinh điển"
+    },
+    {
+      "num": 753,
+      "title": "Tà Tâm mạnh nhất"
+    },
+    {
+      "num": 754,
+      "title": "Cho Bá Vương thấy sức mạnh của thần"
+    },
+    {
+      "num": 755,
+      "title": "Chơi vui phết"
+    },
+    {
+      "num": 756,
+      "title": "Trước thềm đại chiến"
+    },
+    {
+      "num": 757,
+      "title": "Sức mạnh của Vua"
+    },
+    {
+      "num": 758,
+      "title": "Thời khắc kết thúc"
+    },
+    {
+      "num": 759,
+      "title": "Công ty Huyễn Tưởng bị nhắm tới"
+    },
+    {
+      "num": 760,
+      "title": "Cơ Giáp VS Đấu Sĩ Kiếm"
+    },
+    {
+      "num": 761,
+      "title": "Uy lực của Kiếm Đấu"
+    },
+    {
+      "num": 762,
+      "title": "Caesar"
+    },
+    {
+      "num": 763,
+      "title": "Nền móng của tòa nhà"
+    },
+    {
+      "num": 764,
+      "title": "Đột nhập"
+    },
+    {
+      "num": 765,
+      "title": "Trời mưa dẫn điện, chẳng phải kiến thức thường thức sao?"
+    },
+    {
+      "num": 766,
+      "title": "Người bảo vệ Bao"
+    },
+    {
+      "num": 767,
+      "title": "Bức tượng đá thân thiện"
+    },
+    {
+      "num": 768,
+      "title": "Dung Hợp Bóng Tối"
+    },
+    {
+      "num": 769,
+      "title": "Anh hùng đối đầu anh hùng tà ác"
+    },
+    {
+      "num": 770,
+      "title": "Anh hùng không dễ dàng bỏ cuộc"
+    },
+    {
+      "num": 771,
+      "title": "Sức mạnh chính là công lý"
+    },
+    {
+      "num": 772,
+      "title": "Tà Tâm Cứu Cực"
+    },
+    {
+      "num": 773,
+      "title": "Kiếp trước"
+    },
+    {
+      "num": 774,
+      "title": "Cho tôi mượn sức mạnh của đất nào!"
+    },
+    {
+      "num": 775,
+      "title": "Tương lai tươi sáng"
+    },
+    {
+      "num": 776,
+      "title": "Chiếu sáng bóng tối"
+    },
+    {
+      "num": 777,
+      "title": "Một lòng một dạ"
+    },
+    {
+      "num": 778,
+      "title": "Búp bê"
+    },
+    {
+      "num": 779,
+      "title": "Tối nay đến phòng tôi nhé"
+    },
+    {
+      "num": 780,
+      "title": "Con búp bê bị nguyền rủa"
+    },
+    {
+      "num": 781,
+      "title": "Lời nguyền bất tử"
+    },
+    {
+      "num": 782,
+      "title": "Con búp bê hỏng mất rồi"
+    },
+    {
+      "num": 783,
+      "title": "Cải tạo bằng lao động"
+    },
+    {
+      "num": 784,
+      "title": "Jounouchi được mời đến"
+    },
+    {
+      "num": 785,
+      "title": "Hôm nay đừng hòng rời khỏi đây!\\"
+    },
+    {
+      "num": 786,
+      "title": "Gặp lại người xưa"
+    },
+    {
+      "num": 787,
+      "title": "Tình bạn tiến hóa"
+    },
+    {
+      "num": 788,
+      "title": "Thần bài phải tự chứng minh bản thân"
+    },
+    {
+      "num": 789,
+      "title": "Nạp Tế Giáng Lâm"
+    },
+    {
+      "num": 790,
+      "title": "Sự tiến hóa của Mắt Đỏ"
+    },
+    {
+      "num": 791,
+      "title": "Tên khốn Pegasus"
+    },
+    {
+      "num": 792,
+      "title": "Ma Nạp Tế áp sát từng bước"
+    },
+    {
+      "num": 793,
+      "title": "Cơn giận của đám phàm phu"
+    },
+    {
+      "num": 794,
+      "title": "Thu thập bộ bài"
+    },
+    {
+      "num": 795,
+      "title": "Tôi cuống cái gì chứ?"
+    },
+    {
+      "num": 796,
+      "title": "Kỵ sĩ trắng"
+    },
+    {
+      "num": 797,
+      "title": "Anh hùng bóng tối"
+    },
+    {
+      "num": 798,
+      "title": "Rơi vào bóng tối"
+    },
+    {
+      "num": 799,
+      "title": "Tung tích của Merlo"
+    },
+    {
+      "num": 800,
+      "title": "Người tiếp theo?"
+    },
+    {
+      "num": 801,
+      "title": "Quyết chiến với Đấu Sĩ Kiếm Đấu"
+    },
+    {
+      "num": 802,
+      "title": "Không đánh trực diện"
+    },
+    {
+      "num": 803,
+      "title": "Prism của cậu cần gì phải tế quái thú?"
+    },
+    {
+      "num": 804,
+      "title": "Kiếm Đấu Lăng Kính"
+    },
+    {
+      "num": 805,
+      "title": "Pháo Ba Nòng Đinh Ba"
+    },
+    {
+      "num": 806,
+      "title": "Không ngờ còn có thu hoạch ngoài dự tính"
+    },
+    {
+      "num": 807,
+      "title": "Đấu thú sĩ trong anime"
+    },
+    {
+      "num": 808,
+      "title": "Vua của núi lửa"
+    },
+    {
+      "num": 809,
+      "title": "Hổ làm thuê"
+    },
+    {
+      "num": 810,
+      "title": "Phát pháo cuối cùng"
+    },
+    {
+      "num": 811,
+      "title": "Cơ hội thứ hai"
+    },
+    {
+      "num": 812,
+      "title": "Đến thăm ông nội"
+    },
+    {
+      "num": 813,
+      "title": "Bộ bài của ông nội"
+    },
+    {
+      "num": 814,
+      "title": "Cặp bài trùng vàng"
+    },
+    {
+      "num": 815,
+      "title": "Gặp lại Long Khi Tích"
+    },
+    {
+      "num": 816,
+      "title": "Tinh linh không rõ lai lịch"
+    },
+    {
+      "num": 817,
+      "title": "Long Thần giáng lâm"
+    },
+    {
+      "num": 818,
+      "title": "Chuẩn bị xong xuôi"
+    },
+    {
+      "num": 819,
+      "title": "Cậu vừa bảo ai là quái tép riu?"
+    },
+    {
+      "num": 820,
+      "title": "Tinh linh chẳng đứng đắn chút nào"
+    },
+    {
+      "num": 821,
+      "title": "Thất lạc thông tin"
+    },
+    {
+      "num": 822,
+      "title": "Di tích cầu vồng"
+    },
+    {
+      "num": 823,
+      "title": "Bảo Ngọc"
+    },
+    {
+      "num": 824,
+      "title": "Ước mơ"
+    },
+    {
+      "num": 825,
+      "title": "Đánh nhau khó thật đấy"
+    },
+    {
+      "num": 826,
+      "title": "Quyết định vận mệnh"
+    },
+    {
+      "num": 827,
+      "title": "Lá bài cuối cùng"
+    },
+    {
+      "num": 828,
+      "title": "Vừa tỉnh dậy đã gặp ngay kèo thế này"
+    },
+    {
+      "num": 829,
+      "title": "Những ngày cuối học kỳ"
+    },
+    {
+      "num": 830,
+      "title": "Tôi chỉ là một con mèo"
+    },
+    {
+      "num": 831,
+      "title": "Mèo con ra trận"
+    },
+    {
+      "num": 832,
+      "title": "Luyện kim và quấy rối"
+    },
+    {
+      "num": 833,
+      "title": "Con mèo làm việc quần quật"
+    },
+    {
+      "num": 834,
+      "title": "Dân chuyên nghiệp"
+    },
+    {
+      "num": 835,
+      "title": "Chuyện ma trong học viện"
+    },
+    {
+      "num": 836,
+      "title": "Kẻ phá quán bài"
+    },
+    {
+      "num": 837,
+      "title": "Turandot"
+    },
+    {
+      "num": 838,
+      "title": "Mồi câu lộ liễu thế mà cũng cắn câu?"
+    },
+    {
+      "num": 839,
+      "title": "Đánh không trúng mới tức chứ"
+    },
+    {
+      "num": 840,
+      "title": "Đợi sẵn ở đây rồi nhé"
+    },
+    {
+      "num": 841,
+      "title": "Giáo sư hành động trước thời hạn"
+    },
+    {
+      "num": 842,
+      "title": "Giáo hội Giáng Lâm"
+    },
+    {
+      "num": 843,
+      "title": "Aster Phoenix đấu với Chủ tế"
+    },
+    {
+      "num": 844,
+      "title": "Đốt chết luôn à?"
+    },
+    {
+      "num": 845,
+      "title": "Đây là kiểu anh hùng gì vậy trời?"
+    },
+    {
+      "num": 846,
+      "title": "Trông cậy vào hai bố con cậu đấy"
+    },
+    {
+      "num": 847,
+      "title": "Quyết tâm của Cobra"
+    },
+    {
+      "num": 848,
+      "title": "Lãnh địa của Vua"
+    },
+    {
+      "num": 849,
+      "title": "Đi nói chuyện nhân sinh"
+    },
+    {
+      "num": 850,
+      "title": "Bóng tối trong lòng Amon"
+    },
+    {
+      "num": 851,
+      "title": "Bản tâm"
+    },
+    {
+      "num": 852,
+      "title": "Lại thành bia đỡ đạn rồi"
+    },
+    {
+      "num": 853,
+      "title": "Quái Vật Mây"
+    },
+    {
+      "num": 854,
+      "title": "Dòng Khí Rối Loạn"
+    },
+    {
+      "num": 855,
+      "title": "Trò chơi bóng tối của Du Huyền"
+    },
+    {
+      "num": 856,
+      "title": "Trò chơi bắt đầu"
+    },
+    {
+      "num": 857,
+      "title": "VÒNG LẶP KHÓ HIỂU"
+    },
+    {
+      "num": 858,
+      "title": "Ước mơ của Amon"
+    },
+    {
+      "num": 859,
+      "title": "Thế giới cần một vị vua"
+    },
+    {
+      "num": 860,
+      "title": "Ma Vương biến thành đại nhân"
+    },
+    {
+      "num": 861,
+      "title": "Học kỳ mới"
+    },
+    {
+      "num": 862,
+      "title": "Người đứng đầu học viện"
+    },
+    {
+      "num": 863,
+      "title": "Bọ ngựa bắt ve"
+    },
+    {
+      "num": 864,
+      "title": "Cô gái đang yêu"
+    },
+    {
+      "num": 865,
+      "title": "Duel không dành cho trẻ em"
+    },
+    {
+      "num": 866,
+      "title": "Trận chiến của những kẻ chuyên cướp quái thú"
+    },
+    {
+      "num": 867,
+      "title": "Với tư cách là một Duelist"
+    },
+    {
+      "num": 868,
+      "title": "Địa ngục Tế Phẩm Vô Tận"
+    },
+    {
+      "num": 869,
+      "title": "Đối thủ cuối cùng"
+    },
+    {
+      "num": 870,
+      "title": "Sự thật phũ phàng"
+    },
+    {
+      "num": 871,
+      "title": "Hội đồng đánh hội đồng chính nghĩa"
+    },
+    {
+      "num": 872,
+      "title": "Ai bảo cậu thích cướp quái thú của người ta lung tung làm gì!"
+    },
+    {
+      "num": 873,
+      "title": "Bài của đại ca mà cũng dám dùng bừa à!"
+    },
+    {
+      "num": 874,
+      "title": "Điều ước cuối cùng"
+    },
+    {
+      "num": 875,
+      "title": "Gián điệp của tập đoàn tài phiệt"
+    },
+    {
+      "num": 876,
+      "title": "Bí mật của Cobra"
+    },
+    {
+      "num": 877,
+      "title": "Sức mạnh ngang cấp Rồng Trắng Mắt Xanh"
+    },
+    {
+      "num": 878,
+      "title": "Rắn Độc Vương"
+    },
+    {
+      "num": 879,
+      "title": "Bộ đôi vực sâu"
+    },
+    {
+      "num": 880,
+      "title": "Quái thú khổng lồ cấp thần"
+    },
+    {
+      "num": 881,
+      "title": "Vua Rắn Độc đi làm đi làm lại"
+    },
+    {
+      "num": 882,
+      "title": "Duelist bị vua khắc chế"
+    },
+    {
+      "num": 883,
+      "title": "Thần Rắn Giáng Lâm"
+    },
+    {
+      "num": 884,
+      "title": "Chấp niệm"
+    },
+    {
+      "num": 885,
+      "title": "Tôi chạy nhanh mà"
+    },
+    {
+      "num": 886,
+      "title": "Cứu"
+    },
+    {
+      "num": 887,
+      "title": "Thợ săn tinh linh"
+    },
+    {
+      "num": 888,
+      "title": "Săn bắt tinh linh"
+    },
+    {
+      "num": 889,
+      "title": "Tinh linh bị bắt cóc"
+    },
+    {
+      "num": 890,
+      "title": "Đừng có chọc vào Vua Đấu Bài"
+    },
+    {
+      "num": 891,
+      "title": "Ký túc xá Vàng trỗi dậy"
+    },
+    {
+      "num": 892,
+      "title": "Hạt giống tiềm năng"
+    },
+    {
+      "num": 893,
+      "title": "Jim Cook"
+    },
+    {
+      "num": 894,
+      "title": "Ngày tàn của khảo cổ học"
+    },
+    {
+      "num": 895,
+      "title": "Kết giới bảo vệ thánh địa"
+    },
+    {
+      "num": 896,
+      "title": "Trận đấu không công bằng"
+    },
+    {
+      "num": 897,
+      "title": "Nhân danh Đấu Sĩ Kiếm Đấu"
+    },
+    {
+      "num": 898,
+      "title": "Có muốn chuyển đến cơ sở chính phát triển không?"
+    },
+    {
+      "num": 899,
+      "title": "Sóng gió sa thải"
+    },
+    {
+      "num": 900,
+      "title": "Duel ba bên"
+    },
+    {
+      "num": 901,
+      "title": "Giáo sư dốc toàn lực"
+    },
+    {
+      "num": 902,
+      "title": "Hai vị giáo đầu bắt tay hợp tác"
+    },
+    {
+      "num": 903,
+      "title": "Sức mạnh của Dị Trùng"
+    },
+    {
+      "num": 904,
+      "title": "Với tư cách là một người thầy"
+    },
+    {
+      "num": 905,
+      "title": "Bí quyết tối thượng của Cỗ Máy Cổ Đại"
+    },
+    {
+      "num": 906,
+      "title": "Sát thương = Bò sát"
+    },
+    {
+      "num": 907,
+      "title": "Dốc hết sức vẫn không địch nổi Ma Vương"
+    },
+    {
+      "num": 908,
+      "title": "Vị hiệu trưởng thừa thãi"
+    },
+    {
+      "num": 909,
+      "title": "Chiến tranh dị giới"
+    },
+    {
+      "num": 910,
+      "title": "Nữ hoàng bệ hạ"
+    },
+    {
+      "num": 911,
+      "title": "Nhảy Cóc Lượt Đấu"
+    },
+    {
+      "num": 912,
+      "title": "Đội cận vệ phản chủ"
+    },
+    {
+      "num": 913,
+      "title": "Nữ hoàng tiến hóa"
+    },
+    {
+      "num": 914,
+      "title": "Cung điện mê hoặc"
+    },
+    {
+      "num": 915,
+      "title": "Thần rút bài cũng hết đường cứu vãn"
+    },
+    {
+      "num": 916,
+      "title": "Vị thần bí ẩn"
+    },
+    {
+      "num": 917,
+      "title": "Nhật ký hồi sinh"
+    },
+    {
+      "num": 918,
+      "title": "Mở màn bằng Khe Nứt Chiều Không Gian"
+    },
+    {
+      "num": 919,
+      "title": "Tình yêu của Yubel"
+    },
+    {
+      "num": 920,
+      "title": "Áo Cầu Vồng"
+    },
+    {
+      "num": 921,
+      "title": "Triệu hồi Yubel!"
+    },
+    {
+      "num": 922,
+      "title": "Vừa rồi cậu nói tấn công đúng không?"
+    },
+    {
+      "num": 923,
+      "title": "Kỵ Sĩ Bị Căm Ghét"
+    },
+    {
+      "num": 924,
+      "title": "Dạng hoàn chỉnh tuyệt đối"
+    },
+    {
+      "num": 925,
+      "title": "Cuối cùng cũng là điểm kết thúc"
+    },
+    {
+      "num": 926,
+      "title": "Trận đấu tuyệt vọng"
+    },
+    {
+      "num": 927,
+      "title": "Giao lưu thân thiện"
+    },
+    {
+      "num": 928,
+      "title": "Hợp tác"
+    },
+    {
+      "num": 929,
+      "title": "Bóng tối thức tỉnh"
+    },
+    {
+      "num": 930,
+      "title": "Tiềm năng của tộc Thực vật"
+    },
+    {
+      "num": 931,
+      "title": "Xương rồng tấn công"
+    },
+    {
+      "num": 932,
+      "title": "Bí ẩn về Zock"
+    },
+    {
+      "num": 933,
+      "title": "Bàn thờ tế lễ"
+    },
+    {
+      "num": 934,
+      "title": "Tà thần bí ẩn"
+    },
+    {
+      "num": 935,
+      "title": "Thần Viêm Huyễn Ma"
+    },
+    {
+      "num": 936,
+      "title": "Ma Ảo Bất Tử"
+    },
+    {
+      "num": 937,
+      "title": "Tà Thần giáng thế"
+    },
+    {
+      "num": 938,
+      "title": "Vị thần xóa sổ"
+    },
+    {
+      "num": 939,
+      "title": "Thách thức Tà Thần"
+    },
+    {
+      "num": 940,
+      "title": "Chờ mãi chẳng đến lượt mình"
+    },
+    {
+      "num": 941,
+      "title": "Hình chiếu của Tà Thần"
+    },
+    {
+      "num": 942,
+      "title": "Vị thần bị phong ấn"
+    },
+    {
+      "num": 943,
+      "title": "Người canh giữ lăng mộ"
+    },
+    {
+      "num": 944,
+      "title": "Khắc tinh của bẫy"
+    },
+    {
+      "num": 945,
+      "title": "Trận chiến bẫy bài"
+    },
+    {
+      "num": 946,
+      "title": "Người máy bất tử"
+    },
+    {
+      "num": 947,
+      "title": "Soga tấn công!"
+    },
+    {
+      "num": 948,
+      "title": "Lời mời của người canh mộ"
+    },
+    {
+      "num": 949,
+      "title": "Bóng tối bắt tay liên minh"
+    },
+    {
+      "num": 950,
+      "title": "Người của thế giới thực"
+    },
+    {
+      "num": 951,
+      "title": "Kim Cang"
+    },
+    {
+      "num": 952,
+      "title": "Nhật Thực Toàn Phần"
+    },
+    {
+      "num": 953,
+      "title": "Mũi tên phong ma"
+    },
+    {
+      "num": 954,
+      "title": "Đành phải kết liễu trong một lượt"
+    },
+    {
+      "num": 955,
+      "title": "Cây Thế Giới vô hạn"
+    },
+    {
+      "num": 956,
+      "title": "Yuugen cảm thấy mình rất bình thường"
+    },
+    {
+      "num": 957,
+      "title": "Tinh linh hộ vệ"
+    },
+    {
+      "num": 958,
+      "title": "Chàng trai tỏa nắng"
+    },
+    {
+      "num": 959,
+      "title": "So tài với anh Mã"
+    },
+    {
+      "num": 960,
+      "title": "Truyền thừa của ngài Mã"
+    },
+    {
+      "num": 961,
+      "title": "Tội nghiệt của ông Mã quá nặng rồi"
+    },
+    {
+      "num": 962,
+      "title": "Có qua có lại"
+    },
+    {
+      "num": 963,
+      "title": "Đúng là tự sát thật rồi"
+    },
+    {
+      "num": 964,
+      "title": "Thánh địa nghi thức Duel"
+    },
+    {
+      "num": 965,
+      "title": "Giấc mơ"
+    },
+    {
+      "num": 966,
+      "title": "Hóa thân"
+    },
+    {
+      "num": 967,
+      "title": "Thiên thần sa ngã"
+    },
+    {
+      "num": 968,
+      "title": "Thiên thần sa ngã bóng tối"
+    },
+    {
+      "num": 969,
+      "title": "Lucifer"
+    },
+    {
+      "num": 970,
+      "title": "Chiếc Hộp Vàng"
+    },
+    {
+      "num": 971,
+      "title": "Sự im lặng của thời gian"
+    },
+    {
+      "num": 972,
+      "title": "Động thái của Tà Thần"
+    },
+    {
+      "num": 973,
+      "title": "Quyết định của Judai"
+    },
+    {
+      "num": 974,
+      "title": "Nỗi đau bất lực, chẳng thể bảo vệ người mình yêu"
+    },
+    {
+      "num": 975,
+      "title": "Đồng đội mới của Judai"
+    },
+    {
+      "num": 976,
+      "title": "Bóng tối bị căm ghét"
+    },
+    {
+      "num": 977,
+      "title": "Bóng tối cuối cùng"
+    },
+    {
+      "num": 978,
+      "title": "Đòn đánh hỗn mang！"
+    },
+    {
+      "num": 979,
+      "title": "Mạt Diệt Giáng Lâm"
+    },
+    {
+      "num": 980,
+      "title": "Chính tà trong lòng"
+    },
+    {
+      "num": 981,
+      "title": ""
+    },
+    {
+      "num": 982,
+      "title": "Với tư cách là một Duelist"
+    },
+    {
+      "num": 983,
+      "title": "Sức mạnh tối thượng!"
+    },
+    {
+      "num": 984,
+      "title": "Mối liên kết vượt qua vòng luân hồi"
+    },
+    {
+      "num": 985,
+      "title": "Cái giá phải trả cho sức mạnh"
+    },
+    {
+      "num": 986,
+      "title": "Lựa chọn của Vua Tối Cao"
+    },
+    {
+      "num": 987,
+      "title": "Công nghệ của thời đại mới"
+    },
+    {
+      "num": 988,
+      "title": "Tập hợp"
+    },
+    {
+      "num": 989,
+      "title": "Trước thềm đại chiến"
+    },
+    {
+      "num": 990,
+      "title": "Trận chiến báo thù"
+    },
+    {
+      "num": 991,
+      "title": "Bạch Long tiến hóa"
+    },
+    {
+      "num": 992,
+      "title": "Nỗi kinh hoàng giáng xuống"
+    },
+    {
+      "num": 993,
+      "title": "Tiến hóa vượt qua thần linh"
+    },
+    {
+      "num": 994,
+      "title": "Tầm mắt của người phàm?"
+    },
+    {
+      "num": 995,
+      "title": "Sự tiến hóa của thần"
+    },
+    {
+      "num": 996,
+      "title": "Khả Năng Kháng Hiệu Ứng Mạnh Nhất"
+    },
+    {
+      "num": 997,
+      "title": "Khiêu khích ngay trước mặt"
+    },
+    {
+      "num": 998,
+      "title": "Vị thần trở lại"
+    },
+    {
+      "num": 999,
+      "title": "Đã chẳng còn gì phải sợ nữa"
+    },
+    {
+      "num": 1000,
+      "title": "Bóng tối trong lòng"
+    },
+    {
+      "num": 1001,
+      "title": "Tái đấu Tà Thần"
+    },
+    {
+      "num": 1002,
+      "title": "Sức mạnh xóa sổ"
+    },
+    {
+      "num": 1003,
+      "title": "Những lá bài đến từ thế giới khác"
+    },
+    {
+      "num": 1004,
+      "title": "Sức mạnh mới"
+    },
+    {
+      "num": 1005,
+      "title": "Xóa sổ tiến hóa"
+    },
+    {
+      "num": 1006,
+      "title": "Dung Hợp Tà Thần"
+    },
+    {
+      "num": 1007,
+      "title": "Kẻ kết liễu tất cả?"
+    },
+    {
+      "num": 1008,
+      "title": "Nỗi sợ của Vua"
+    },
+    {
+      "num": 1009,
+      "title": "Không Gian Thứ Nguyên Vô Hạn"
+    },
+    {
+      "num": 1010,
+      "title": "Khóa chặt ngay từ lượt đầu"
+    },
+    {
+      "num": 1011,
+      "title": "Quyết chiến với hóa thân"
+    },
+    {
+      "num": 1012,
+      "title": "Lượt sau là cậu hối hận đấy!"
+    },
+    {
+      "num": 1013,
+      "title": "Ba chúng ta"
+    },
+    {
+      "num": 1014,
+      "title": "Hóa thân của thần"
+    },
+    {
+      "num": 1015,
+      "title": "Tiện tay lại dựng thêm một vòng lặp vô hạn"
+    },
+    {
+      "num": 1016,
+      "title": "Tế phẩm chẳng phải có sẵn rồi sao?"
+    },
+    {
+      "num": 1017,
+      "title": "Thần Tối Cao Giáng Trần"
+    },
+    {
+      "num": 1018,
+      "title": "Ngọn Lửa Thần Thánh"
+    },
+    {
+      "num": 1019,
+      "title": "Ai mới là Tà Thần"
+    },
+    {
+      "num": 1020,
+      "title": "Đem thứ này đi xào!"
+    },
+    {
+      "num": 1021,
+      "title": "Tinh linh hộ vệ"
+    },
+    {
+      "num": 1022,
+      "title": "Phá vỡ giới hạn trên!"
+    },
+    {
+      "num": 1023,
+      "title": "Im Lặng Zero"
+    },
+    {
+      "num": 1024,
+      "title": "Người đã khuất hãy yên nghỉ"
+    },
+    {
+      "num": 1025,
+      "title": "Tinh linh thức tỉnh"
+    },
+    {
+      "num": 1026,
+      "title": "Gọi anh cả"
+    },
+    {
+      "num": 1027,
+      "title": "Thế nào mới gọi là Tà Thần"
+    },
+    {
+      "num": 1028,
+      "title": "Chủ Nhân Của Tà Thần"
+    },
+    {
+      "num": 1029,
+      "title": "Nhờ cậu một việc"
+    },
+    {
+      "num": 1030,
+      "title": "Nỗi bất an của Vua"
+    },
+    {
+      "num": 1031,
+      "title": "Bóng dáng dị thế giới"
+    },
+    {
+      "num": 1032,
+      "title": "Người đến từ thế giới khác"
+    },
+    {
+      "num": 1033,
+      "title": "Bộ bài mạnh nhất lịch sử"
+    },
+    {
+      "num": 1034,
+      "title": "Thời đại sai lầm"
+    },
+    {
+      "num": 1035,
+      "title": "Điểm yếu của Tội"
+    },
+    {
+      "num": 1036,
+      "title": "Cơn thịnh nộ của thiên thần"
+    },
+    {
+      "num": 1037,
+      "title": "Quyết tâm cứu lấy thế giới"
+    },
+    {
+      "num": 1038,
+      "title": "Vũ khí hủy diệt hàng loạt"
+    },
+    {
+      "num": 1039,
+      "title": "Ai mà chẳng biết khóa hiệu ứng!"
+    },
+    {
+      "num": 1040,
+      "title": "Chuẩn bị xong xuôi"
+    },
+    {
+      "num": 1041,
+      "title": "Đây rốt cuộc là Vua Đấu Bài kiểu gì vậy?"
+    },
+    {
+      "num": 1042,
+      "title": "Quyết tâm chống lại diệt vong"
+    },
+    {
+      "num": 1043,
+      "title": "Trận đấu bài của tương lai"
+    },
+    {
+      "num": 1044,
+      "title": "Triệu hồi Đồng Bộ (Synchro)"
+    },
+    {
+      "num": 1045,
+      "title": "Sự thật"
+    },
+    {
+      "num": 1046,
+      "title": "Cội nguồn của mọi tội ác"
+    },
+    {
+      "num": 1047,
+      "title": "Dốc hết sức vẫn không địch nổi Tà Thần"
+    },
+    {
+      "num": 1048,
+      "title": "Bội thu"
+    },
+    {
+      "num": 1049,
+      "title": "Lịch sử không giống nhau"
+    },
+    {
+      "num": 1050,
+      "title": "Thế giới va chạm"
+    },
+    {
+      "num": 1051,
+      "title": "Chuẩn bị lên đường"
+    },
+    {
+      "num": 1052,
+      "title": "Thế giới mới"
+    },
+    {
+      "num": 1053,
+      "title": "Nhập gia tùy tục"
+    },
+    {
+      "num": 1054,
+      "title": "Bộ bài đặc quyền"
+    },
+    {
+      "num": 1055,
+      "title": "Dòng thời gian"
+    },
+    {
+      "num": 1056,
+      "title": "Xạ Thủ Người Cá"
+    },
+    {
+      "num": 1057,
+      "title": "Cục trưởng An ninh"
+    },
+    {
+      "num": 1058,
+      "title": "Rồng Mặt Trời và Rồng Mặt Trăng"
+    },
+    {
+      "num": 1059,
+      "title": "Nam Châm"
+    },
+    {
+      "num": 1060,
+      "title": "Thần Cuồng Điện Từ"
+    },
+    {
+      "num": 1061,
+      "title": "Đánh bài mà cũng bị kẻ trộm nhòm ngó"
+    },
+    {
+      "num": 1062,
+      "title": "Người đến từ tương lai?"
+    },
+    {
+      "num": 1063,
+      "title": "Đến lượt ai?"
+    },
+    {
+      "num": 1064,
+      "title": "Nhật Nguyệt Bất Diệt"
+    },
+    {
+      "num": 1065,
+      "title": "Truyền thừa của Vua Đấu Bài"
+    },
+    {
+      "num": 1066,
+      "title": "Cơ hội thứ hai của Godwin"
+    },
+    {
+      "num": 1067,
+      "title": "Ác quỷ mỉm cười"
+    },
+    {
+      "num": 1068,
+      "title": "Thay đổi lịch sử?"
+    },
+    {
+      "num": 1069,
+      "title": "Cấp trên"
+    },
+    {
+      "num": 1070,
+      "title": "Thế giới mới cũng phải tự in bài"
+    },
+    {
+      "num": 1071,
+      "title": "Trại giam"
+    },
+    {
+      "num": 1072,
+      "title": "Trưởng quan xuất hiện"
+    },
+    {
+      "num": 1073,
+      "title": "Trận đấu bài của cấp trên"
+    },
+    {
+      "num": 1074,
+      "title": "Bộ bài dây xích"
+    },
+    {
+      "num": 1075,
+      "title": "Trò chơi bóng tối đúng là cặp bài trùng"
+    },
+    {
+      "num": 1076,
+      "title": "Rồng Vòng Xích"
+    },
+    {
+      "num": 1077,
+      "title": "Trận đấu bài hành hình"
+    },
+    {
+      "num": 1078,
+      "title": "Có quyền mà không dùng thì để hết hạn mất à"
+    },
+    {
+      "num": 1079,
+      "title": "Làm phản diện cũng chẳng có gì tệ"
+    },
+    {
+      "num": 1080,
+      "title": "Xử lý xong ba người"
+    },
+    {
+      "num": 1081,
+      "title": "Chốn bồng lai tiên cảnh"
+    },
+    {
+      "num": 1082,
+      "title": "Thông báo ngày chết của mày"
+    },
+    {
+      "num": 1083,
+      "title": "Sức mạnh của đặc quyền?"
+    },
+    {
+      "num": 1084,
+      "title": "Ác Quỷ Tâm Linh"
+    },
+    {
+      "num": 1085,
+      "title": "Sức mạnh của tội lỗi"
+    },
+    {
+      "num": 1086,
+      "title": "Pháo Kích Linh Hồn"
+    },
+    {
+      "num": 1087,
+      "title": "Cái chết của Divine"
+    },
+    {
+      "num": 1088,
+      "title": "Tiệc chào mừng vị thần mới"
+    },
+    {
+      "num": 1089,
+      "title": "Là tôi làm đấy"
+    },
+    {
+      "num": 1090,
+      "title": "Đại chiến thực vật"
+    },
+    {
+      "num": 1091,
+      "title": "Hạt giống tuyển thủ hệ tự kỷ"
+    },
+    {
+      "num": 1092,
+      "title": "Còn đốt mất 1500 điểm sinh mệnh!"
+    },
+    {
+      "num": 1093,
+      "title": "Phượng Hoàng Thạch Toán"
+    },
+    {
+      "num": 1094,
+      "title": "Rồng lật bàn"
+    },
+    {
+      "num": 1095,
+      "title": "Chẳng qua cũng chỉ có thế"
+    },
+    {
+      "num": 1096,
+      "title": "Nỗi căm ghét chính bản thân mình"
+    },
+    {
+      "num": 1097,
+      "title": "Tiềm năng của hệ thực vật"
+    },
+    {
+      "num": 1098,
+      "title": "Hãy hận tôi đi"
+    },
+    {
+      "num": 1099,
+      "title": "Tự tìm đến cửa"
+    },
+    {
+      "num": 1100,
+      "title": "Ryu-a"
+    },
+    {
+      "num": 1101,
+      "title": "Biến Hình Xuất Kích"
+    },
+    {
+      "num": 1102,
+      "title": "Sứ giả của tình yêu và công lý"
+    },
+    {
+      "num": 1103,
+      "title": "Bộ bài được xây dựng chỉ để rút bài"
+    },
+    {
+      "num": 1104,
+      "title": "Phép màu trong một lượt đấu"
+    },
+    {
+      "num": 1105,
+      "title": "Không có chuyện hết bài để rút đâu"
+    },
+    {
+      "num": 1106,
+      "title": "Mua một tặng một"
+    },
+    {
+      "num": 1107,
+      "title": "Bàn thờ trong nhà máy"
+    },
+    {
+      "num": 1108,
+      "title": "Kỵ Sĩ Xương Khô"
+    },
+    {
+      "num": 1109,
+      "title": "Dùng ngựa cũng có thể cưỡi Duel à?"
+    },
+    {
+      "num": 1110,
+      "title": "Vừa đua xe vừa học hỏi"
+    },
+    {
+      "num": 1111,
+      "title": "Cảm nhận sức mạnh của nhà vô địch"
+    },
+    {
+      "num": 1112,
+      "title": "Dung Hợp Ma Quái"
+    },
+    {
+      "num": 1113,
+      "title": "Combo vô địch"
+    },
+    {
+      "num": 1114,
+      "title": "Hai bản thể tương ứng ở hai thế giới khác nhau"
+    },
+    {
+      "num": 1115,
+      "title": "Cúp May Mắn"
+    },
+    {
+      "num": 1116,
+      "title": "Báo thù"
+    },
+    {
+      "num": 1117,
+      "title": "Cuộc không kích quy mô lớn"
+    },
+    {
+      "num": 1118,
+      "title": "Tổ hợp Vực Sâu tái xuất giang hồ"
+    },
+    {
+      "num": 1119,
+      "title": "Máy bay ném bom không thể tấn công"
+    },
+    {
+      "num": 1120,
+      "title": "Có nổ hay không?"
+    },
+    {
+      "num": 1121,
+      "title": "Cuộc đấu trí phá hủy"
+    },
+    {
+      "num": 1122,
+      "title": "Bản nâng cấp của vực sâu"
+    },
+    {
+      "num": 1123,
+      "title": "Tất cả đều nằm trong tầm kiểm soát"
+    },
+    {
+      "num": 1124,
+      "title": "Sự thật về Địa Phược Thần"
+    },
+    {
+      "num": 1125,
+      "title": "Vị thần thực sự"
+    },
+    {
+      "num": 1126,
+      "title": "Muốn biết thì cứ chiến đấu đi!"
+    },
+    {
+      "num": 1127,
+      "title": "Hồi kết của Cúp May Mắn"
+    },
+    {
+      "num": 1128,
+      "title": "Cô gái báo thù"
+    },
+    {
+      "num": 1129,
+      "title": "Ký ức méo mó"
+    },
+    {
+      "num": 1130,
+      "title": "Lý do để tiếp tục đấu bài"
+    },
+    {
+      "num": 1131,
+      "title": "Cú nổ cuối cùng"
+    },
+    {
+      "num": 1132,
+      "title": "Cô gái muốn gia nhập đội của tôi à?"
+    },
+    {
+      "num": 1133,
+      "title": "Dấu Ấn Đầu Rồng Bí Ẩn"
+    },
+    {
+      "num": 1134,
+      "title": "Tam Hoàng Đế"
+    },
+    {
+      "num": 1135,
+      "title": "Số phận của những người mang ấn rồng"
+    },
+    {
+      "num": 1136,
+      "title": "Sếp lớn dần nhập vai"
+    },
+    {
+      "num": 1137,
+      "title": "Bóng ma xuất hiện"
+    },
+    {
+      "num": 1138,
+      "title": "Con đường ánh sao"
+    },
+    {
+      "num": 1139,
+      "title": "Phá hủy lõi"
+    },
+    {
+      "num": 1140,
+      "title": "Bộ bài có độ khó năm sao"
+    },
+    {
+      "num": 1141,
+      "title": "Mạnh quá, mạnh đến vô lý!"
+    },
+    {
+      "num": 1142,
+      "title": "Càng nghĩ càng tức"
+    },
+    {
+      "num": 1143,
+      "title": "Thần Trí"
+    },
+    {
+      "num": 1144,
+      "title": "Giải phóng sức mạnh của huyền thoại"
+    },
+    {
+      "num": 1145,
+      "title": "Trận chiến bắt đầu"
+    },
+    {
+      "num": 1146,
+      "title": "Số phận của những Kẻ Mang Dấu Ấn Bóng Tối"
+    },
+    {
+      "num": 1147,
+      "title": "Jack, tấm gương của dân chơi bài"
+    },
+    {
+      "num": 1148,
+      "title": "Con nhện quái vật dưới lòng đất"
+    },
+    {
+      "num": 1149,
+      "title": "Bàn thờ hiến tế thần linh"
+    },
+    {
+      "num": 1150,
+      "title": "Nổ tung!"
+    },
+    {
+      "num": 1151,
+      "title": "Hai linh hồn"
+    },
+    {
+      "num": 1152,
+      "title": "Cậu chưa đủ trình"
+    },
+    {
+      "num": 1153,
+      "title": "Cuộc đời của một quân cờ"
+    },
+    {
+      "num": 1154,
+      "title": "Tôi quen bố cậu"
+    },
+    {
+      "num": 1155,
+      "title": "Người hùng của thành phố"
+    },
+    {
+      "num": 1156,
+      "title": "Chuyến tàu tốc hành Vĩnh Động Cơ"
+    },
+    {
+      "num": 1157,
+      "title": "Trò chơi Bóng Tối đơn giản"
+    },
+    {
+      "num": 1158,
+      "title": "Chấp hành quan"
+    },
+    {
+      "num": 1159,
+      "title": "Đồng minh"
+    },
+    {
+      "num": 1160,
+      "title": "Tuyến Phòng Thủ Sắt Vụn"
+    },
+    {
+      "num": 1161,
+      "title": "Phòng thủ lẫn nhau"
+    },
+    {
+      "num": 1162,
+      "title": "Linh hồn của người máy"
+    },
+    {
+      "num": 1163,
+      "title": "Thế giới Hoàng Tuyền"
+    },
+    {
+      "num": 1164,
+      "title": "Kẻ phá hỏng bầu không khí"
+    },
+    {
+      "num": 1165,
+      "title": "Samurai đột kích"
+    },
+    {
+      "num": 1166,
+      "title": "Uy lực của thiên thần"
+    },
+    {
+      "num": 1167,
+      "title": "Át chủ bài chuyên lật kèo chênh lệch LP"
+    },
+    {
+      "num": 1168,
+      "title": "Siêu máy tính"
+    },
+    {
+      "num": 1169,
+      "title": "Báo động bom nổ"
+    },
+    {
+      "num": 1170,
+      "title": "Sherry"
+    },
+    {
+      "num": 1171,
+      "title": "Kỵ sĩ nhân mã"
+    },
+    {
+      "num": 1172,
+      "title": "Phế liệu!"
+    },
+    {
+      "num": 1173,
+      "title": "Rồng của sếp à?"
+    },
+    {
+      "num": 1174,
+      "title": "Kỵ Sĩ Hoa Tươi"
+    },
+    {
+      "num": 1175,
+      "title": "Rồng Hai Đầu Phế Liệu"
+    },
+    {
+      "num": 1176,
+      "title": "Cơ hội thứ hai"
+    },
+    {
+      "num": 1177,
+      "title": "ZONE"
+    },
+    {
+      "num": 1178,
+      "title": "Thế nào mới gọi là Vua"
+    },
+    {
+      "num": 1179,
+      "title": "Dòng thời gian bóng tối"
+    },
+    {
+      "num": 1180,
+      "title": "Phải thêm tiền!"
+    },
+    {
+      "num": 1181,
+      "title": "Cậu biết nhiều quá rồi đấy"
+    },
+    {
+      "num": 1182,
+      "title": "Bảo vệ gia đình"
+    },
+    {
+      "num": 1183,
+      "title": "Nỗi tuyệt vọng của Yego"
+    },
+    {
+      "num": 1184,
+      "title": "Yuugen không phải phản diện"
+    },
+    {
+      "num": 1185,
+      "title": "Vị vua của tương lai"
+    },
+    {
+      "num": 1186,
+      "title": "Đấu bài tốc độ cao"
+    },
+    {
+      "num": 1187,
+      "title": "Phá vỡ thế công thủ"
+    },
+    {
+      "num": 1188,
+      "title": "Trận chiến của Vua Duel"
+    },
+    {
+      "num": 1189,
+      "title": "Đồng Bộ Tăng Tốc"
+    },
+    {
+      "num": 1190,
+      "title": "Tay Súng Lưỡi Kiếm"
+    },
+    {
+      "num": 1191,
+      "title": "Vòng lặp của Vua!"
+    },
+    {
+      "num": 1192,
+      "title": "Lõi bẫy"
+    },
+    {
+      "num": 1193,
+      "title": "Tiến về phương xa hơn"
+    },
+    {
+      "num": 1194,
+      "title": "Tam Giác Tăng Tốc！"
+    },
+    {
+      "num": 1195,
+      "title": "Diêm Vương chẳng có chút thể diện nào"
+    },
+    {
+      "num": 1196,
+      "title": "Nghi thức hủy diệt thế giới"
+    },
+    {
+      "num": 1197,
+      "title": "Âm mưu của Godwin"
+    },
+    {
+      "num": 1198,
+      "title": "Thế nào mới gọi là Huyễn Ma"
+    },
+    {
+      "num": 1199,
+      "title": "Cho tôi xem linh hồn của cậu đi"
+    },
+    {
+      "num": 1200,
+      "title": "Ba người hợp sức đấu với Godwin"
+    },
+    {
+      "num": 1201,
+      "title": "Vừa nói vừa tỉnh bơ tung ra một lá bài cấm"
+    },
+    {
+      "num": 1202,
+      "title": "Sức mạnh của tình bạn"
+    },
+    {
+      "num": 1203,
+      "title": "Đánh bại Tam Huyễn Ma đi!"
+    },
+    {
+      "num": 1204,
+      "title": "Cú đấm nghiền nát thiên giới"
+    },
+    {
+      "num": 1205,
+      "title": "Đúng rồi, cứ giữ vững khí thế này!"
+    },
+    {
+      "num": 1206,
+      "title": "Tìm thấy đường sống giữa tuyệt cảnh"
+    },
+    {
+      "num": 1207,
+      "title": "Sức mạnh của Vua Tuyệt Đối"
+    },
+    {
+      "num": 1208,
+      "title": "Rồng Ma Cứu Thế"
+    },
+    {
+      "num": 1209,
+      "title": "Trận chiến tuyệt vọng"
+    },
+    {
+      "num": 1210,
+      "title": "Tuyệt Đối Không Bỏ Cuộc"
+    },
+    {
+      "num": 1211,
+      "title": "Hy vọng được trao truyền"
+    },
+    {
+      "num": 1212,
+      "title": "Nghi ngờ của Yusei"
+    },
+    {
+      "num": 1213,
+      "title": "Nhân vật sụp đổ"
+    },
+    {
+      "num": 1214,
+      "title": "Cứu Thế hai lần liên tiếp"
+    },
+    {
+      "num": 1215,
+      "title": "Tình Huynh Đệ Sâu Đậm"
+    },
+    {
+      "num": 1216,
+      "title": "Vượt qua quy tắc!"
+    },
+    {
+      "num": 1217,
+      "title": ""
+    },
+    {
+      "num": 1218,
+      "title": "Bên nào mới là địa ngục?"
+    },
+    {
+      "num": 1219,
+      "title": "Sẽ còn gặp lại"
+    },
+    {
+      "num": 1220,
+      "title": "Bộ bài tương lai"
+    },
+    {
+      "num": 1221,
+      "title": "WRGP đến sớm hơn dự kiến"
+    },
+    {
+      "num": 1222,
+      "title": "Thành thủ lĩnh tổ chức BOSS luôn rồi"
+    },
+    {
+      "num": 1223,
+      "title": "Hai Hoàng đế"
+    },
+    {
+      "num": 1224,
+      "title": "Thần Lục"
+    },
+    {
+      "num": 1225,
+      "title": "Đòn đánh ba nhịp chí mạng"
+    },
+    {
+      "num": 1226,
+      "title": "Cơ Hoàng nâng cấp"
+    },
+    {
+      "num": 1227,
+      "title": "Kẻ diệt máy móc"
+    },
+    {
+      "num": 1228,
+      "title": "Người mới nhậm chức"
+    },
+    {
+      "num": 1229,
+      "title": "Ngày tàn của Cỗ Máy Hoàng Đế"
+    },
+    {
+      "num": 1230,
+      "title": "Thái Nhất Tân Hoàng"
+    },
+    {
+      "num": 1231,
+      "title": "Trở về"
+    },
+    {
+      "num": 1232,
+      "title": "Bóng tối trở lại"
+    },
+    {
+      "num": 1233,
+      "title": "Loại tép riu còn chẳng đáng làm tường chắn"
+    },
+    {
+      "num": 1234,
+      "title": "Không gian mới tăng ca"
+    },
+    {
+      "num": 1235,
+      "title": "Chọn cách chết"
+    },
+    {
+      "num": 1236,
+      "title": "Đồng minh của bóng tối"
+    },
+    {
+      "num": 1237,
+      "title": "Hành trình mới"
+    },
+    {
+      "num": 1238,
+      "title": "Duel là phải vui"
+    },
+    {
+      "num": 1239,
+      "title": "Thiên thần mới"
+    },
+    {
+      "num": 1240,
+      "title": "Phản công！"
+    },
+    {
+      "num": 1241,
+      "title": "Phản kích vô hạn"
+    },
+    {
+      "num": 1242,
+      "title": "Lượt thứ hai"
+    },
+    {
+      "num": 1243,
+      "title": "Phối hợp hoàn hảo"
+    },
+    {
+      "num": 1244,
+      "title": "Thế công thủ đổi chiều"
+    },
+    {
+      "num": 1245,
+      "title": "Lượt cuối cùng"
+    },
+    {
+      "num": 1246,
+      "title": "Át chủ bài của Thiên Sứ Phản Công"
+    },
+    {
+      "num": 1247,
+      "title": "Người quá xuất sắc"
+    },
+    {
+      "num": 1248,
+      "title": "Đặc biệt khoản đãi fan cứng"
+    },
+    {
+      "num": 1249,
+      "title": "Đối thủ ngoài dự tính"
+    },
+    {
+      "num": 1250,
+      "title": "Điều Âm Hối Hận"
+    },
+    {
+      "num": 1251,
+      "title": "Địa ngục không có bài trên tay"
+    },
+    {
+      "num": 1252,
+      "title": "Duelist máy móc"
+    },
+    {
+      "num": 1253,
+      "title": "Dị thường đang rục rịch"
+    },
+    {
+      "num": 1254,
+      "title": "Tân binh lên chức"
+    },
+    {
+      "num": 1255,
+      "title": "Nghi phạm Jack Atlas"
+    },
+    {
+      "num": 1256,
+      "title": "Hai Jack"
+    },
+    {
+      "num": 1257,
+      "title": "Đối thủ xứng tầm với Vua"
+    },
+    {
+      "num": 1258,
+      "title": "Xin lỗi, nãy quên giải thích"
+    },
+    {
+      "num": 1259,
+      "title": "Ý đồ của “Vua” dễ nhìn thấu thật"
+    },
+    {
+      "num": 1260,
+      "title": "Phản kích Bất Điều Hòa"
+    },
+    {
+      "num": 1261,
+      "title": "Vua hay chỉ là tên hề?"
+    },
+    {
+      "num": 1262,
+      "title": "Ngọn Thương Thần Thánh"
+    },
+    {
+      "num": 1263,
+      "title": "Nỗi hoang mang của Vua"
+    },
+    {
+      "num": 1264,
+      "title": "Hoàng hôn của các vị thần"
+    },
+    {
+      "num": 1265,
+      "title": "Đối đầu Dragan"
+    },
+    {
+      "num": 1266,
+      "title": "Thần giáng thế!"
+    },
+    {
+      "num": 1267,
+      "title": "Búa sấm sét"
+    },
+    {
+      "num": 1268,
+      "title": "Đối thủ thích hợp của thần"
+    },
+    {
+      "num": 1269,
+      "title": "Hấp thụ Cực Thần đi!"
+    },
+    {
+      "num": 1270,
+      "title": "Cơ Hoàng VS Cực Thần"
+    },
+    {
+      "num": 1271,
+      "title": "Vị thần cực thần thứ hai"
+    },
+    {
+      "num": 1272,
+      "title": "Vị thần bị dồn ép"
+    },
+    {
+      "num": 1273,
+      "title": "Cực Tinh Bảo Svalinn"
+    },
+    {
+      "num": 1274,
+      "title": "Đế Cơ thứ hai"
+    },
+    {
+      "num": 1275,
+      "title": "Năng lực của Thần Không"
+    },
+    {
+      "num": 1276,
+      "title": "Cực Thần Thánh Đế"
+    },
+    {
+      "num": 1277,
+      "title": "VS Harald"
+    },
+    {
+      "num": 1278,
+      "title": "Đối sách của Harald"
+    },
+    {
+      "num": 1279,
+      "title": "Cơ Hoàng Thần Long"
+    },
+    {
+      "num": 1280,
+      "title": "Cỗ máy Hoàng Đế mới"
+    },
+    {
+      "num": 1281,
+      "title": "Đồng đội của ZONE"
+    },
+    {
+      "num": 1282,
+      "title": "Bóng tối bắt đầu hành động"
+    },
+    {
+      "num": 1283,
+      "title": "Taichi bị nhắm tới?"
+    },
+    {
+      "num": 1284,
+      "title": "Một Du Hành Tinh khác?"
+    },
+    {
+      "num": 1285,
+      "title": "Bản sao Ushio"
+    },
+    {
+      "num": 1286,
+      "title": "OTK Tam Huyễn Ma"
+    },
+    {
+      "num": 1287,
+      "title": "Tổ hợp máy móc"
+    },
+    {
+      "num": 1288,
+      "title": "Cặp song sinh bóng tối"
+    },
+    {
+      "num": 1289,
+      "title": "Truyện cổ tích"
+    },
+    {
+      "num": 1290,
+      "title": "Sân đấu biến đổi"
+    },
+    {
+      "num": 1291,
+      "title": "Cô gái ma pháp"
+    },
+    {
+      "num": 1292,
+      "title": "Hoàng hôn lúc chiều tà"
+    },
+    {
+      "num": 1293,
+      "title": "Yêu quái thời cổ đại"
+    },
+    {
+      "num": 1294,
+      "title": "Yêu Nguyệt Lãng Quên"
+    },
+    {
+      "num": 1295,
+      "title": "Pháp sư tối thượng"
+    },
+    {
+      "num": 1296,
+      "title": "Đã đến rồi thì còn trốn làm gì"
+    },
+    {
+      "num": 1297,
+      "title": "Hàng giả"
+    },
+    {
+      "num": 1298,
+      "title": "Jack vs Yusei Sao Chép"
+    },
+    {
+      "num": 1299,
+      "title": "Cuồng Chiến Sĩ"
+    },
+    {
+      "num": 1300,
+      "title": "Vương giả chi long"
+    },
+    {
+      "num": 1301,
+      "title": "Sức mạnh bất khuất"
+    },
+    {
+      "num": 1302,
+      "title": "Linh hồn bùng cháy"
+    },
+    {
+      "num": 1303,
+      "title": "Tương lai thất vọng"
+    },
+    {
+      "num": 1304,
+      "title": "Không-thời gian tuyệt vọng"
+    },
+    {
+      "num": 1305,
+      "title": "Kẻ săn rồng cuối cùng cũng hóa thành rồng dữ"
+    },
+    {
+      "num": 1306,
+      "title": "Những bản sao đến từ thế giới khác"
+    },
+    {
+      "num": 1307,
+      "title": "Một ZONE khác"
+    },
+    {
+      "num": 1308,
+      "title": "Duel là cuộc chiến thông tin"
+    },
+    {
+      "num": 1309,
+      "title": "Thần Thời Gian"
+    },
+    {
+      "num": 1310,
+      "title": "Thời Cơ Thần đối đầu với vực sâu"
+    },
+    {
+      "num": 1311,
+      "title": "Cỗ máy vô hạn"
+    },
+    {
+      "num": 1312,
+      "title": "Chẳng lẽ cậu còn định quét sạch cả đám luôn à?"
+    },
+    {
+      "num": 1313,
+      "title": "Chủ lực Đồng Bộ"
+    },
+    {
+      "num": 1314,
+      "title": "Thời Cơ Thần Mạnh Nhất"
+    },
+    {
+      "num": 1315,
+      "title": "Đối đầu với bộ bài Thời Cơ"
+    },
+    {
+      "num": 1316,
+      "title": "Thần Thời Gian và tôi đúng là có duyên với nhau"
+    },
+    {
+      "num": 1317,
+      "title": "Hai Yusei"
+    },
+    {
+      "num": 1318,
+      "title": "Yusei VS Yusei"
+    },
+    {
+      "num": 1319,
+      "title": "Phía trước Đồng Bộ"
+    },
+    {
+      "num": 1320,
+      "title": "Đồng Bộ rút bài sướng tay"
+    },
+    {
+      "num": 1321,
+      "title": "Phế Nhị?"
+    },
+    {
+      "num": 1322,
+      "title": "Ở tận cùng con đường Tinh Trần"
+    },
+    {
+      "num": 1323,
+      "title": "Cung thủ có thể kết thúc trận đấu"
+    },
+    {
+      "num": 1324,
+      "title": "Tăng tốc VS Tăng tốc tam giác"
+    },
+    {
+      "num": 1325,
+      "title": "Sao Băng Tấn Công Và Phòng Thủ"
+    },
+    {
+      "num": 1326,
+      "title": "Bùng Nổ! Bùng Nổ Hóa"
+    },
+    {
+      "num": 1327,
+      "title": "Yuugen mới là Yusei Fudo"
+    },
+    {
+      "num": 1328,
+      "title": "Nhiệm vụ thất bại"
+    },
+    {
+      "num": 1329,
+      "title": "Đoạn kết của 5DS"
+    },
+    {
+      "num": 1330,
+      "title": "Chia tay"
+    },
+    {
+      "num": 1331,
+      "title": "Trở về"
+    },
+    {
+      "num": 1332,
+      "title": "Kẻ phản diện ngầm!"
+    },
+    {
+      "num": 1333,
+      "title": "Chưa từng nghe đến!"
+    },
+    {
+      "num": 1334,
+      "title": "Sức mạnh mới"
+    },
+    {
+      "num": 1335,
+      "title": "Triệu hồi Số Hiệu 17 Hải Ác Long!"
+    },
+    {
+      "num": 1336,
+      "title": "Chỉ có quái thú Number mới đánh bại được Number"
+    },
+    {
+      "num": 1337,
+      "title": "Đồ kinh điển mới là chân ái"
+    },
+    {
+      "num": 1338,
+      "title": "Lá bài linh hồn"
+    },
+    {
+      "num": 1339,
+      "title": "Lĩnh vực mới của Duel"
+    },
+    {
+      "num": 1340,
+      "title": "Sóng dao động dị thứ nguyên"
+    },
+    {
+      "num": 1341,
+      "title": "Những lá bài đến từ thế giới khác"
+    },
+    {
+      "num": 1342,
+      "title": "Người mất tích"
+    },
+    {
+      "num": 1343,
+      "title": "Nằm không cũng lên cấp"
+    },
+    {
+      "num": 1344,
+      "title": "Đánh số xuất kích"
+    },
+    {
+      "num": 1345,
+      "title": "Những con số vượt quá giới hạn sức mạnh"
+    },
+    {
+      "num": 1346,
+      "title": "Dung Nham Tro Tàn"
+    },
+    {
+      "num": 1347,
+      "title": "Hai thái cực băng và lửa"
+    },
+    {
+      "num": 1348,
+      "title": "Tặng cậu một Tân Không Gian mới"
+    },
+    {
+      "num": 1349,
+      "title": "Những con số biến mất"
+    },
+    {
+      "num": 1350,
+      "title": "Gián điệp?"
+    },
+    {
+      "num": 1351,
+      "title": "Chiến binh của Fika"
+    },
+    {
+      "num": 1352,
+      "title": "Ernest"
+    },
+    {
+      "num": 1353,
+      "title": "Sự đáng sợ của thiên thần"
+    },
+    {
+      "num": 1354,
+      "title": "Mối liên kết của những thiên thần"
+    },
+    {
+      "num": 1355,
+      "title": "Con át chủ bài ngoài dự tính"
+    },
+    {
+      "num": 1356,
+      "title": "Thần rút bài cũng bị cậu phản đòn cho bằng sạch!"
+    },
+    {
+      "num": 1357,
+      "title": ""
+    },
+    {
+      "num": 1358,
+      "title": "Môi trường ở Z4 cũng quá đỗi trong sáng rồi"
+    },
+    {
+      "num": 1359,
+      "title": "Kẻ liên lạc từ thế giới khác"
+    },
+    {
+      "num": 1360,
+      "title": "Delwa"
+    },
+    {
+      "num": 1361,
+      "title": "Sát thủ bướm ảo ảnh"
+    },
+    {
+      "num": 1362,
+      "title": "Những người dân bị áp bức"
+    },
+    {
+      "num": 1363,
+      "title": "Đã muộn mất rồi"
+    },
+    {
+      "num": 1364,
+      "title": "Đoàn kết lại"
+    },
+    {
+      "num": 1365,
+      "title": "Đại ma vương độc tài"
+    },
+    {
+      "num": 1366,
+      "title": "Chiều không gian Z4"
+    },
+    {
+      "num": 1367,
+      "title": "Chiều Không Gian Siêu Lượng bắt đầu hành động"
+    },
+    {
+      "num": 1368,
+      "title": "Thiệp mời"
+    },
+    {
+      "num": 1369,
+      "title": "Dừng thời gian"
+    },
+    {
+      "num": 1370,
+      "title": "Thợ săn NO."
+    },
+    {
+      "num": 1371,
+      "title": "OTK của Bọ Giáp Máy!"
+    },
+    {
+      "num": 1372,
+      "title": "Kuriboh Ngân Hà"
+    },
+    {
+      "num": 1373,
+      "title": "Bão Nổ Ngân Hà"
+    },
+    {
+      "num": 1374,
+      "title": "Ma kiếm trùng trang bị"
+    },
+    {
+      "num": 1375,
+      "title": "Ong vàng chăm chỉ nhất"
+    },
+    {
+      "num": 1376,
+      "title": "Trong lúc đấu bài, cấm biến hình"
+    },
+    {
+      "num": 1377,
+      "title": "Tình anh em gắn bó"
+    },
+    {
+      "num": 1378,
+      "title": "Công nghệ mới"
+    },
+    {
+      "num": 1379,
+      "title": "Công nghệ mới"
+    },
+    {
+      "num": 1380,
+      "title": "Khúc dạo đầu của thời đại mới"
+    },
+    {
+      "num": 1381,
+      "title": "Ngai Vàng"
+    },
+    {
+      "num": 1382,
+      "title": "Đội điều tra Hiệp Sĩ Hanoi"
+    },
+    {
+      "num": 1383,
+      "title": "Edo truy kích"
+    },
+    {
+      "num": 1384,
+      "title": "Khôi Lỗi Cơ Quan"
+    },
+    {
+      "num": 1385,
+      "title": "Anh hùng VS Con rối"
+    },
+    {
+      "num": 1386,
+      "title": "Sức mạnh hỗn mang"
+    },
+    {
+      "num": 1387,
+      "title": "Khởi đầu của hồi kết"
+    },
+    {
+      "num": 1388,
+      "title": "Sức mạnh tương tự"
+    },
+    {
+      "num": 1389,
+      "title": "Dây Đàn Ác Quỷ"
+    },
+    {
+      "num": 1390,
+      "title": "Số phận tiến về phía trước"
+    },
+    {
+      "num": 1391,
+      "title": "Anh hùng chuyên phá game"
+    },
+    {
+      "num": 1392,
+      "title": "Thứ nguyên nguy hiểm"
+    },
+    {
+      "num": 1393,
+      "title": "Năng lượng giận dữ"
+    },
+    {
+      "num": 1394,
+      "title": "Sao kẻ địch lại tự dâng mạng đến tận cửa chứ?"
+    },
+    {
+      "num": 1395,
+      "title": "Di Tích Tiền Sử"
+    },
+    {
+      "num": 1396,
+      "title": "Di Sản Tiền Sử Một Đòn Giết"
+    },
+    {
+      "num": 1397,
+      "title": "Không ngờ thế giới Xyz lại dữ dằn đến vậy!"
+    },
+    {
+      "num": 1398,
+      "title": "NO.6"
+    },
+    {
+      "num": 1399,
+      "title": "Đợi mãi cũng chờ được cậu rồi"
+    },
+    {
+      "num": 1400,
+      "title": "Thứ nguyên Dung Hợp nguy hiểm thật sự"
+    },
+    {
+      "num": 1401,
+      "title": "Sự ra đời của Xyz"
+    },
+    {
+      "num": 1402,
+      "title": "Chạm mặt"
+    },
+    {
+      "num": 1403,
+      "title": "Quái thú siêu khổng lồ"
+    },
+    {
+      "num": 1404,
+      "title": "Tung xúc xắc ra nào!"
+    },
+    {
+      "num": 1405,
+      "title": "NO. Cần Cẩu"
+    },
+    {
+      "num": 1406,
+      "title": "Thiên Cái Yêu Tinh"
+    },
+    {
+      "num": 1407,
+      "title": "Ngọn lửa Thành Nội vô hạn trong Thành Nội"
+    },
+    {
+      "num": 1408,
+      "title": "Hay là chúng ta nói chuyện riêng nhé?"
+    },
+    {
+      "num": 1409,
+      "title": "Chơi bài luôn à?"
+    },
+    {
+      "num": 1410,
+      "title": "VS Ngai Vàng"
+    },
+    {
+      "num": 1411,
+      "title": "Đến từ Thứ Nguyên Đồng Bộ"
+    },
+    {
+      "num": 1412,
+      "title": "Cướp đoạt gen"
+    },
+    {
+      "num": 1413,
+      "title": "Đòn tấn công mang tính sỉ nhục"
+    },
+    {
+      "num": 1414,
+      "title": "Ngai Vàng sẽ không nổi giận đâu"
+    },
+    {
+      "num": 1415,
+      "title": "Cơn thịnh nộ của thần linh"
+    },
+    {
+      "num": 1416,
+      "title": "Bộ bài thì chết, người thì sống"
+    },
+    {
+      "num": 1417,
+      "title": "Thích Xyz lắm à?"
+    },
+    {
+      "num": 1418,
+      "title": "Cả nhà đoàn tụ đông đủ"
+    },
+    {
+      "num": 1419,
+      "title": "Nụ cười của trận Duel"
+    },
+    {
+      "num": 1420,
+      "title": "Lớp áo mới cho lá bài cũ"
+    },
+    {
+      "num": 1421,
+      "title": "Fika ra tay"
+    },
+    {
+      "num": 1422,
+      "title": "Ai là người đánh bài giỏi nhất ở Domino?"
+    },
+    {
+      "num": 1423,
+      "title": "Đối đầu với Gosh"
+    },
+    {
+      "num": 1424,
+      "title": "Anh hùng"
+    },
+    {
+      "num": 1425,
+      "title": "Cuộc đối đầu Xyz"
+    },
+    {
+      "num": 1426,
+      "title": "Kiếm Kusanagi"
+    },
+    {
+      "num": 1427,
+      "title": "Cái bẫy cứ lặp đi lặp lại"
+    },
+    {
+      "num": 1428,
+      "title": "Vật chủ chứa đầy bẫy"
+    },
+    {
+      "num": 1429,
+      "title": "Vua Kiếm Chém Sắt"
+    },
+    {
+      "num": 1430,
+      "title": "Kích hoạt bẫy ngay từ bộ bài"
+    },
+    {
+      "num": 1431,
+      "title": ""
+    },
+    {
+      "num": 1432,
+      "title": "Dòng chảy ngầm cuộn trào"
+    },
+    {
+      "num": 1433,
+      "title": "VS Fika"
+    },
+    {
+      "num": 1434,
+      "title": "Tâm địa"
+    },
+    {
+      "num": 1435,
+      "title": "Khắc tinh của Tâm Địa Tâm"
+    },
+    {
+      "num": 1436,
+      "title": "Quái thú vô phương hóa giải?"
+    },
+    {
+      "num": 1437,
+      "title": "Bạn Cũ"
+    },
+    {
+      "num": 1438,
+      "title": "Trái tim bất tử của Tâm Trái Đất"
+    },
+    {
+      "num": 1439,
+      "title": "Biến Hình Xyz"
+    },
+    {
+      "num": 1440,
+      "title": "Quỷ Động"
+    },
+    {
+      "num": 1441,
+      "title": "Ánh Sáng Của Ác Quỷ!"
+    },
+    {
+      "num": 1442,
+      "title": "Năng lực ẩn giấu"
+    },
+    {
+      "num": 1443,
+      "title": ""
+    },
+    {
+      "num": 1444,
+      "title": "Trung tâm của vũ trụ vô hạn"
+    },
+    {
+      "num": 1445,
+      "title": "Tất cả đều trở về với Darkness"
+    },
+    {
+      "num": 1446,
+      "title": "Fujiwara xuất hiện"
+    },
+    {
+      "num": 1447,
+      "title": "Ai hỏi anh đâu?"
+    },
+    {
+      "num": 1448,
+      "title": "Lợi thế thuộc tính"
+    },
+    {
+      "num": 1449,
+      "title": "Quyết định khó khăn"
+    },
+    {
+      "num": 1450,
+      "title": "Đảo ngược thiên cương"
+    },
+    {
+      "num": 1451,
+      "title": "Hắc hóa rồi mà vẫn thua được à?"
+    },
+    {
+      "num": 1452,
+      "title": "Ác Long Thanh Tịnh"
+    },
+    {
+      "num": 1453,
+      "title": "Đến cả hack game cũng bị cướp mất"
+    },
+    {
+      "num": 1454,
+      "title": "Ác quỷ dụ dỗ"
+    },
+    {
+      "num": 1455,
+      "title": "Đây là chỗ quái nào vậy?"
+    },
+    {
+      "num": 1456,
+      "title": "Trên trời rơi xuống một...?"
+    },
+    {
+      "num": 1457,
+      "title": "Một cú bay vút lên trời"
+    },
+    {
+      "num": 1458,
+      "title": "Bị đánh nghiện rồi à?"
+    },
+    {
+      "num": 1459,
+      "title": "Đến từ Barian"
+    },
+    {
+      "num": 1460,
+      "title": "Bất Tử"
+    },
+    {
+      "num": 1461,
+      "title": "Bất Tử Đỏ Thẫm"
+    },
+    {
+      "num": 1462,
+      "title": "Thiên Sứ Cơ Trang"
+    },
+    {
+      "num": 1463,
+      "title": "Tướng Thiên Sứ Động Cơ"
+    },
+    {
+      "num": 1464,
+      "title": "Ngọn lửa thép đỏ rực"
+    },
+    {
+      "num": 1465,
+      "title": "Kẻ xâm lược?"
+    },
+    {
+      "num": 1466,
+      "title": "Trận đấu bài của ác quỷ"
+    },
+    {
+      "num": 1467,
+      "title": "Tinh thần Duel"
+    },
+    {
+      "num": 1468,
+      "title": "Nhường trận đấu bài này cho tôi"
+    },
+    {
+      "num": 1469,
+      "title": "Biểu tượng của bộ bài"
+    },
+    {
+      "num": 1470,
+      "title": "Neos VS Hope"
+    },
+    {
+      "num": 1471,
+      "title": "Hắn nương tay à?"
+    },
+    {
+      "num": 1472,
+      "title": "Đặc quyền đặt trước tốc công"
+    },
+    {
+      "num": 1473,
+      "title": "Dung Nham！"
+    },
+    {
+      "num": 1474,
+      "title": "ZEXAL"
+    },
+    {
+      "num": 1475,
+      "title": "Đấu bài đến mức hợp thể"
+    },
+    {
+      "num": 1476,
+      "title": "Neos Của Thần"
+    },
+    {
+      "num": 1477,
+      "title": "Kế hoạch của Vector"
+    },
+    {
+      "num": 1478,
+      "title": "Gặp nhau quá muộn"
+    },
+    {
+      "num": 1479,
+      "title": "Thách đấu"
+    },
+    {
+      "num": 1480,
+      "title": "Cảm giác có gì đó không ổn"
+    },
+    {
+      "num": 1481,
+      "title": "Mưu kế"
+    },
+    {
+      "num": 1482,
+      "title": "Hắc Vụ"
+    },
+    {
+      "num": 1483,
+      "title": "Cậu không định triệu hồi Hope à?"
+    },
+    {
+      "num": 1484,
+      "title": "Thống Trị Sắc Màu"
+    },
+    {
+      "num": 1485,
+      "title": "Còn chưa triệu hồi Hope à?"
+    },
+    {
+      "num": 1486,
+      "title": "Sao cứ phải triệu hồi Hope?"
+    },
+    {
+      "num": 1487,
+      "title": "Đồng đội thấy tình hình không ổn liền chuồn mất dép"
+    },
+    {
+      "num": 1488,
+      "title": "Tiến đến thế giới Xyz"
+    },
+    {
+      "num": 1489,
+      "title": "Chìa Khóa Hoàng Gia là một con tàu vũ trụ"
+    },
+    {
+      "num": 1490,
+      "title": "Lên đường đến di tích"
+    },
+    {
+      "num": 1491,
+      "title": "Người Bảo Vệ Di Tích"
+    },
+    {
+      "num": 1492,
+      "title": "Quang Thiên Sứ"
+    },
+    {
+      "num": 1493,
+      "title": "Những lá bài NO. vượt quá 100"
+    },
+    {
+      "num": 1494,
+      "title": "Silent Magician VS Vòng Sáng Rực Rỡ"
+    },
+    {
+      "num": 1495,
+      "title": "Thiên thần sa ngã ánh sáng"
+    },
+    {
+      "num": 1496,
+      "title": "Truyền thuyết về di tích"
+    },
+    {
+      "num": 1497,
+      "title": "Quý Ma bất tử"
+    },
+    {
+      "num": 1498,
+      "title": "Át chủ bài là kẹo bông gòn"
+    },
+    {
+      "num": 1499,
+      "title": "Thiên Mã"
+    },
+    {
+      "num": 1500,
+      "title": "Anh Hùng Trong Truyền Thuyết"
+    },
+    {
+      "num": 1501,
+      "title": "Nhát Chém Bầu Trời của Thanh Kiếm Hy Vọng"
+    },
+    {
+      "num": 1502,
+      "title": "Tỉnh ngộ"
+    },
+    {
+      "num": 1503,
+      "title": "Cậu sợ rồi à?"
+    },
+    {
+      "num": 1504,
+      "title": "Tái đấu với Kaito"
+    },
+    {
+      "num": 1505,
+      "title": "Cú sốc Dung Hợp nho nhỏ"
+    },
+    {
+      "num": 1506,
+      "title": "Rồng Bị Phong Ấn"
+    },
+    {
+      "num": 1507,
+      "title": ""
+    },
+    {
+      "num": 1508,
+      "title": "Kẻ địch đáng gờm chắn đường"
+    },
+    {
+      "num": 1509,
+      "title": "Bữa tối gia đình"
+    },
+    {
+      "num": 1510,
+      "title": ""
+    },
+    {
+      "num": 1511,
+      "title": "Bạo loạn"
+    },
+    {
+      "num": 1512,
+      "title": "Ba-ri-an tổng tấn công"
+    },
+    {
+      "num": 1513,
+      "title": "Thất Hoàng mê xem anime"
+    },
+    {
+      "num": 1514,
+      "title": "Bàn tay bất tử"
+    },
+    {
+      "num": 1515,
+      "title": "Bàn Tay Đá Khổng Lồ"
+    },
+    {
+      "num": 1516,
+      "title": "Dế Dũi Gigabyte"
+    },
+    {
+      "num": 1517,
+      "title": "Xyz Bọ Giáp"
+    },
+    {
+      "num": 1518,
+      "title": "Bọ Hươu Exa"
+    },
+    {
+      "num": 1519,
+      "title": "Bàn Tay Dung Nham"
+    },
+    {
+      "num": 1520,
+      "title": "Thần Bọ Hung Tối Thượng"
+    },
+    {
+      "num": 1521,
+      "title": "Đánh bài đến mức bách độc bất xâm"
+    },
+    {
+      "num": 1522,
+      "title": "Cú bay lên trời của chúng ta"
+    },
+    {
+      "num": 1523,
+      "title": "Điện Quang Hoàng!"
+    },
+    {
+      "num": 1524,
+      "title": "Thế giới Barian"
+    },
+    {
+      "num": 1525,
+      "title": "Ai mới là kẻ bắt nạt?"
+    },
+    {
+      "num": 1526,
+      "title": "Quá khứ của Vector"
+    },
+    {
+      "num": 1527,
+      "title": "Vector không thể Xyz!"
+    },
+    {
+      "num": 1528,
+      "title": "Để tôi ra tay một chút"
+    },
+    {
+      "num": 1529,
+      "title": "Con đường của Vector"
+    },
+    {
+      "num": 1530,
+      "title": "Lời nguyền chỉ có thế thôi à?"
+    },
+    {
+      "num": 1531,
+      "title": "Chọc tôi tức thêm lần nữa đi"
+    },
+    {
+      "num": 1532,
+      "title": "Nền móng của thế giới mới"
+    },
+    {
+      "num": 1533,
+      "title": "Cái chết của Vector"
+    },
+    {
+      "num": 1534,
+      "title": "Người này là Thất Hoàng thật à?"
+    },
+    {
+      "num": 1535,
+      "title": "Rồng Trắng Số 3"
+    },
+    {
+      "num": 1536,
+      "title": "Bóng tối giáng xuống"
+    },
+    {
+      "num": 1537,
+      "title": "Bạch Long tiến hóa"
+    },
+    {
+      "num": 1538,
+      "title": "Rồng Bạc"
+    },
+    {
+      "num": 1539,
+      "title": "Sự tự luyến của chủ tịch"
+    },
+    {
+      "num": 1540,
+      "title": "Với tư cách một Duelist"
+    },
+    {
+      "num": 1541,
+      "title": "Tương lai diệt vong"
+    },
+    {
+      "num": 1542,
+      "title": "Tương lai thuộc về Barian"
+    },
+    {
+      "num": 1543,
+      "title": "Tin nhắn của ZONE"
+    },
+    {
+      "num": 1544,
+      "title": "Những con số bí ẩn ở Tân Domino"
+    },
+    {
+      "num": 1545,
+      "title": "Aki Vô Sở Bất Năng！"
+    },
+    {
+      "num": 1546,
+      "title": "Cuộc chiến tại Thứ nguyên Đồng Bộ"
+    },
+    {
+      "num": 1547,
+      "title": "Bộ bài lây nhiễm"
+    },
+    {
+      "num": 1548,
+      "title": "Vua Ruồi"
+    },
+    {
+      "num": 1549,
+      "title": "Lần này thật sự hết bẫy rồi!"
+    },
+    {
+      "num": 1550,
+      "title": "Nhặt được bằng thực lực"
+    },
+    {
+      "num": 1551,
+      "title": "Kẻ sống sót"
+    },
+    {
+      "num": 1552,
+      "title": "Hai đòn liên tiếp của Quý Ma"
+    },
+    {
+      "num": 1553,
+      "title": "Bảo vệ bộ bài của đối thủ"
+    },
+    {
+      "num": 1554,
+      "title": "Nơi ẩn náu của Zock"
+    },
+    {
+      "num": 1555,
+      "title": "Du Tinh VS Xyz"
+    },
+    {
+      "num": 1556,
+      "title": "Tàn Ánh Sao Bụi"
+    },
+    {
+      "num": 1557,
+      "title": "Đòn phản công chữ thập"
+    },
+    {
+      "num": 1558,
+      "title": "Trẻ nhỏ dễ dạy"
+    },
+    {
+      "num": 1559,
+      "title": "Cú Đột Kích Phượng Hoàng Bất Tử Sao Băng"
+    },
+    {
+      "num": 1560,
+      "title": "Tái ngộ 5D's"
+    },
+    {
+      "num": 1561,
+      "title": "Thu hoạch và gieo hạt"
+    },
+    {
+      "num": 1562,
+      "title": "Phân thân của Sensun"
+    },
+    {
+      "num": 1563,
+      "title": "Chỉ là một vị thần mà thôi"
+    },
+    {
+      "num": 1564,
+      "title": "Đánh là phải OTK"
+    },
+    {
+      "num": 1565,
+      "title": "Khôi Lỗi Sư Linh Hồn"
+    },
+    {
+      "num": 1566,
+      "title": "Ngai Vàng của Thiên Tôn Hàng Ngàn"
+    },
+    {
+      "num": 1567,
+      "title": "Sức mạnh của ngàn vị thần"
+    },
+    {
+      "num": 1568,
+      "title": "Quỷ Thần Con Rối"
+    },
+    {
+      "num": 1569,
+      "title": "Ba đòn liên tiếp của hồn phách"
+    },
+    {
+      "num": 1570,
+      "title": "Tà Lực 1"
+    },
+    {
+      "num": 1571,
+      "title": "Nhục nhã mà chí mạng"
+    },
+    {
+      "num": 1572,
+      "title": "Sự dè chừng của Zock"
+    },
+    {
+      "num": 1573,
+      "title": "Quái Thú Khổng Lồ Dưới Biển"
+    },
+    {
+      "num": 1574,
+      "title": "Người bạn đồng hành mới của Nộ Viêm"
+    },
+    {
+      "num": 1575,
+      "title": "Vốn vô hạn?"
+    },
+    {
+      "num": 1576,
+      "title": "Thiên phú bị cướp mất"
+    },
+    {
+      "num": 1577,
+      "title": "Tinh linh biến mất"
+    },
+    {
+      "num": 1578,
+      "title": "Sức mạnh của Sức Mạnh Obelisk"
+    },
+    {
+      "num": 1579,
+      "title": "Bộ bài tinh nhuệ của Học viện"
+    },
+    {
+      "num": 1580,
+      "title": "Mau mau hạ gục cả ba luôn"
+    },
+    {
+      "num": 1581,
+      "title": "Đến từ Thứ Nguyên Z-ARC?"
+    },
+    {
+      "num": 1582,
+      "title": "Du Hành điên cuồng quét sạch đối thủ!"
+    },
+    {
+      "num": 1583,
+      "title": "Biến thành thẻ"
+    },
+    {
+      "num": 1584,
+      "title": "Chia quân"
+    },
+    {
+      "num": 1585,
+      "title": "Thời kỳ tiền sử của lịch sử Duel"
+    },
+    {
+      "num": 1586,
+      "title": "Rebecca bị nhắm đến"
+    },
+    {
+      "num": 1587,
+      "title": "Siêu chủ lưu giáng lâm"
+    },
+    {
+      "num": 1588,
+      "title": "Mục tiêu là Yugi Muto"
+    },
+    {
+      "num": 1589,
+      "title": "Khối xếp hình bị cướp mất"
+    },
+    {
+      "num": 1590,
+      "title": "Cán bộ cấp cao của Học viện"
+    },
+    {
+      "num": 1591,
+      "title": "Đợt tấn công dồn dập của đội Dây Cót"
+    },
+    {
+      "num": 1592,
+      "title": "Bộ bài Dây Cót chơi ác đến phát điên!"
+    },
+    {
+      "num": 1593,
+      "title": "Bị vét sạch bài trên tay mà vẫn lật kèo được à?"
+    },
+    {
+      "num": 1594,
+      "title": "Đồ của học viện cũng là đồ của tôi"
+    },
+    {
+      "num": 1595,
+      "title": "Duel của tương lai?"
+    },
+    {
+      "num": 1596,
+      "title": "Vua đấu bài VS bộ bài tương lai"
+    },
+    {
+      "num": 1597,
+      "title": "Phong tỏa đỏ thẫm"
+    },
+    {
+      "num": 1598,
+      "title": "Chinh Long vô địch"
+    },
+    {
+      "num": 1599,
+      "title": "Khối lập phương trở về"
+    },
+    {
+      "num": 1600,
+      "title": "Siêu Ma Đạo Liệt Ba Trảm"
+    },
+    {
+      "num": 1601,
+      "title": "Cảm giác quen thuộc như đã từng gặp"
+    },
+    {
+      "num": 1602,
+      "title": "Tình bạn đã mất?"
+    },
+    {
+      "num": 1603,
+      "title": "Thành Nội gặp nguy rồi!"
+    },
+    {
+      "num": 1604,
+      "title": "Thánh Khắc"
+    },
+    {
+      "num": 1605,
+      "title": "Dứt điểm trong một lượt"
+    },
+    {
+      "num": 1606,
+      "title": "Thành Nhân mặc giáp trâu bò"
+    },
+    {
+      "num": 1607,
+      "title": "Thanh kiếm sấm sét"
+    },
+    {
+      "num": 1608,
+      "title": "Cơ sở thứ nguyên bị xâm nhập"
+    },
+    {
+      "num": 1609,
+      "title": "Doma bắt đầu hành động"
+    },
+    {
+      "num": 1610,
+      "title": "Kích hoạt kết giới"
+    },
+    {
+      "num": 1611,
+      "title": "Mục tiêu của mỗi người"
+    },
+    {
+      "num": 1612,
+      "title": "Đứng đầu Tam Kiếm Khách"
+    },
+    {
+      "num": 1613,
+      "title": "Bất Tử Hỏa"
+    },
+    {
+      "num": 1614,
+      "title": "Chấp niệm của Rafael"
+    },
+    {
+      "num": 1615,
+      "title": "Vệ thần ngã xuống"
+    },
+    {
+      "num": 1616,
+      "title": "Lưỡi Hái Tử Thần"
+    },
+    {
+      "num": 1617,
+      "title": "Sự thật về bóng tối"
+    },
+    {
+      "num": 1618,
+      "title": "Chuỗi hiệu ứng không thể dừng lại"
+    },
+    {
+      "num": 1619,
+      "title": "Người thân đã mất"
+    },
+    {
+      "num": 1620,
+      "title": "Bộ ba kiếm khách"
+    },
+    {
+      "num": 1621,
+      "title": "Kẻ chết sống lại"
+    },
+    {
+      "num": 1622,
+      "title": "Anubis tấn công"
+    },
+    {
+      "num": 1623,
+      "title": "Thần linh giáng thế"
+    },
+    {
+      "num": 1624,
+      "title": "Kim tự tháp đang áp sát"
+    },
+    {
+      "num": 1625,
+      "title": "Nhân Sư"
+    },
+    {
+      "num": 1626,
+      "title": "Hắc Ma Pháp Thần Quan！"
+    },
+    {
+      "num": 1627,
+      "title": "Sức mạnh được ban tặng"
+    },
+    {
+      "num": 1628,
+      "title": "Dark Hope Vô Hạn"
+    },
+    {
+      "num": 1629,
+      "title": "Niềm tin"
+    },
+    {
+      "num": 1630,
+      "title": "Tin tưởng thì nó sẽ tồn tại"
+    },
+    {
+      "num": 1631,
+      "title": "Vừa rồi hơi lớn tiếng một chút"
+    },
+    {
+      "num": 1632,
+      "title": "Mục tiêu mới"
+    },
+    {
+      "num": 1633,
+      "title": "Bakura VS Dartz"
+    },
+    {
+      "num": 1634,
+      "title": "Thế này mới ra dáng"
+    },
+    {
+      "num": 1635,
+      "title": "Rồng Vũ Trang Hắc Ám"
+    },
+    {
+      "num": 1636,
+      "title": "Khinh miệt"
+    },
+    {
+      "num": 1637,
+      "title": "Số phận yếu ớt"
+    },
+    {
+      "num": 1638,
+      "title": "Đồng Bộ Bất Tử"
+    },
+    {
+      "num": 1639,
+      "title": "Bất tử tập kích"
+    },
+    {
+      "num": 1640,
+      "title": "Chỉ cần một lá bài"
+    },
+    {
+      "num": 1641,
+      "title": "Cái gọi là vận mệnh"
+    },
+    {
+      "num": 1642,
+      "title": "Zock từng xem qua kịch bản"
+    },
+    {
+      "num": 1643,
+      "title": "Đa nguyên duy nhất"
+    },
+    {
+      "num": 1644,
+      "title": "Ma Vương Hades"
+    },
+    {
+      "num": 1645,
+      "title": "Bài trên tay còn không"
+    },
+    {
+      "num": 1646,
+      "title": "Phun Hà!"
+    },
+    {
+      "num": 1647,
+      "title": "Đã chơi thì đừng nhát, nhát thì đừng chơi"
+    },
+    {
+      "num": 1648,
+      "title": "Vĩnh Hỏa VS Đồng Bộ Undead"
+    },
+    {
+      "num": 1649,
+      "title": "Ma Vương đầy chí tiến thủ"
+    },
+    {
+      "num": 1650,
+      "title": "Lá bài chủ lực thực sự của Vĩnh Hỏa"
+    },
+    {
+      "num": 1651,
+      "title": "Gói quà của Zock"
+    },
+    {
+      "num": 1652,
+      "title": "Thần khí phân tán"
+    },
+    {
+      "num": 1653,
+      "title": "Ván đấu cha con"
+    },
+    {
+      "num": 1654,
+      "title": "Đại Nhật!"
+    },
+    {
+      "num": 1655,
+      "title": "Bộ bài của sức mạnh ánh sáng"
+    },
+    {
+      "num": 1656,
+      "title": "Kiếp trước?"
+    },
+    {
+      "num": 1657,
+      "title": "Vượt qua thế hệ"
+    },
+    {
+      "num": 1658,
+      "title": "Đồng đội mới được mở khóa"
+    },
+    {
+      "num": 1659,
+      "title": "Điều chỉnh trên đường về"
+    },
+    {
+      "num": 1660,
+      "title": "Kế hoạch huấn luyện"
+    },
+    {
+      "num": 1661,
+      "title": "Huyễn Ma biến mất?"
+    },
+    {
+      "num": 1662,
+      "title": "Huyễn Ma Thứ Nguyên"
+    },
+    {
+      "num": 1663,
+      "title": "Sức mạnh trường sinh"
+    },
+    {
+      "num": 1664,
+      "title": "Lá bài tà ác"
+    },
+    {
+      "num": 1665,
+      "title": "Huyễn Ma và Duelist"
+    },
+    {
+      "num": 1666,
+      "title": "Phân Thân Sensun"
+    },
+    {
+      "num": 1667,
+      "title": "Sức mạnh thoát thân"
+    },
+    {
+      "num": 1668,
+      "title": "Tài Đoạn Ma Vương"
+    },
+    {
+      "num": 1669,
+      "title": "Uria giáng lâm"
+    },
+    {
+      "num": 1670,
+      "title": "Hôm nay đừng hòng nhúc nhích"
+    },
+    {
+      "num": 1671,
+      "title": "Phòng thủ của Kẻ Gian Lận"
+    },
+    {
+      "num": 1672,
+      "title": "Bữa Tiệc Hỗn Độn Điên Cuồng"
+    },
+    {
+      "num": 1673,
+      "title": "Senshi Banko"
+    },
+    {
+      "num": 1674,
+      "title": "Rồng Chimera Hỗn Độn"
+    },
+    {
+      "num": 1675,
+      "title": "In bài?"
+    },
+    {
+      "num": 1676,
+      "title": "Sóng Siêu Liệt Diễm"
+    },
+    {
+      "num": 1677,
+      "title": "Thu hoạch Xyz"
+    },
+    {
+      "num": 1678,
+      "title": "Tinh Nhân Sĩ"
+    },
+    {
+      "num": 1679,
+      "title": "Quy tắc mới"
+    },
+    {
+      "num": 1680,
+      "title": "Lại giương buồm ra khơi"
+    },
+    {
+      "num": 1681,
+      "title": "Thị trấn hoang"
+    },
+    {
+      "num": 1682,
+      "title": "Là một cao thủ sao?"
+    },
+    {
+      "num": 1683,
+      "title": "Nghi Thức"
+    },
+    {
+      "num": 1684,
+      "title": "VS Ảnh Linh Y"
+    },
+    {
+      "num": 1685,
+      "title": "Ta Súng Địa Ngục!"
+    },
+    {
+      "num": 1686,
+      "title": "Rei"
+    },
+    {
+      "num": 1687,
+      "title": "Thế giới bị hủy diệt"
+    },
+    {
+      "num": 1688,
+      "title": "Một tia cơ hội"
+    },
+    {
+      "num": 1689,
+      "title": "Dùng Duel để nói chuyện"
+    },
+    {
+      "num": 1690,
+      "title": "Thú Đấu Cơ"
+    },
+    {
+      "num": 1691,
+      "title": "Game dốc toàn lực!"
+    },
+    {
+      "num": 1692,
+      "title": "Huy hiệu Thú Đấu Cơ"
+    },
+    {
+      "num": 1693,
+      "title": "Tự bạo lá bài tẩy"
+    },
+    {
+      "num": 1694,
+      "title": "Ma Đạo Trận"
+    },
+    {
+      "num": 1695,
+      "title": "Ma Đạo Hỗn Độn"
+    },
+    {
+      "num": 1696,
+      "title": "Quân Phản Kháng"
+    },
+    {
+      "num": 1697,
+      "title": "Zero Vương"
+    },
+    {
+      "num": 1698,
+      "title": "Tinh Thánh"
+    },
+    {
+      "num": 1699,
+      "title": "Cụm Sao Pleiades"
+    },
+    {
+      "num": 1700,
+      "title": "Đồng Bộ khẩn cấp!"
+    },
+    {
+      "num": 1701,
+      "title": "Tinh Thánh Thần Long"
+    },
+    {
+      "num": 1702,
+      "title": "Cấm Cố Kỹ Năng"
+    },
+    {
+      "num": 1703,
+      "title": "Quân Học Viện mới"
+    },
+    {
+      "num": 1704,
+      "title": "Để thế giới hợp nhất làm một"
+    },
+    {
+      "num": 1705,
+      "title": "Cường giả của các chiều không gian"
+    },
+    {
+      "num": 1706,
+      "title": "Quyết tâm của Rei"
+    },
+    {
+      "num": 1707,
+      "title": "Huyễn Tấu"
+    },
+    {
+      "num": 1708,
+      "title": "Thủ Tịch Nở Rộ"
+    },
+    {
+      "num": 1709,
+      "title": "Tinh Nhân Sĩ"
+    },
+    {
+      "num": 1710,
+      "title": "Đông Tam Giác"
+    },
+    {
+      "num": 1711,
+      "title": "Tam Giác Mùa Hè"
+    },
+    {
+      "num": 1712,
+      "title": "Bài trên tay và nghĩa địa là người một nhà"
+    },
+    {
+      "num": 1713,
+      "title": "Tứ trọng tấu của Zack"
+    },
+    {
+      "num": 1714,
+      "title": "Nỗi nhục của Đầu Hải Sản"
+    },
+    {
+      "num": 1715,
+      "title": "Một trong những người bạn đồng hành tốt nhất"
+    },
+    {
+      "num": 1716,
+      "title": "Neos VS Vận Mệnh"
+    },
+    {
+      "num": 1717,
+      "title": "Sức mạnh của Neos"
+    },
+    {
+      "num": 1718,
+      "title": "Thành Phố Tử Vong"
+    },
+    {
+      "num": 1719,
+      "title": "Trận hình mạnh nhất của Edo!"
+    },
+    {
+      "num": 1720,
+      "title": "Ánh Sáng Phục Hồi"
+    },
+    {
+      "num": 1721,
+      "title": "Judai phản công!"
+    },
+    {
+      "num": 1722,
+      "title": "Tinh Linh Neos"
+    },
+    {
+      "num": 1723,
+      "title": "Sự tiến hóa của chí ái"
+    },
+    {
+      "num": 1724,
+      "title": "Sức mạnh của tinh vân"
+    },
+    {
+      "num": 1725,
+      "title": "Đây mà là Hero á?"
+    },
+    {
+      "num": 1726,
+      "title": "Tâm phục khẩu phục"
+    },
+    {
+      "num": 1727,
+      "title": "Edo xui xẻo"
+    },
+    {
+      "num": 1728,
+      "title": "Reiji"
+    },
+    {
+      "num": 1729,
+      "title": "Ác ma và hy vọng"
+    },
+    {
+      "num": 1730,
+      "title": "Bộ bài sản xuất hàng loạt"
+    },
+    {
+      "num": 1731,
+      "title": "Máy Cổ Đại tôi còn lạ gì?"
+    },
+    {
+      "num": 1732,
+      "title": "Pendulum"
+    },
+    {
+      "num": 1733,
+      "title": "Dung hội quán thông!"
+    },
+    {
+      "num": 1734,
+      "title": "Khế ước độc chiếm phong ấn"
+    },
+    {
+      "num": 1735,
+      "title": "Phong tỏa triệu hồi"
+    },
+    {
+      "num": 1736,
+      "title": "Không dùng thì thôi"
+    },
+    {
+      "num": 1737,
+      "title": "Bọn tôi mạnh lắm đấy"
+    },
+    {
+      "num": 1738,
+      "title": "Sức mạnh của Zack"
+    },
+    {
+      "num": 1739,
+      "title": "Tổng tấn công"
+    },
+    {
+      "num": 1740,
+      "title": "Giáo viên Gladiator mạnh nhất?"
+    },
+    {
+      "num": 1741,
+      "title": "Vĩnh Hỏa mới"
+    },
+    {
+      "num": 1742,
+      "title": "Đại ca Vĩnh Hỏa?"
+    },
+    {
+      "num": 1743,
+      "title": "Ảo Ảnh Vĩnh Hỏa"
+    },
+    {
+      "num": 1744,
+      "title": "Nhịp độ mạnh nhất"
+    },
+    {
+      "num": 1745,
+      "title": "Cuối cùng cũng được chết rồi"
+    },
+    {
+      "num": 1746,
+      "title": "Phân thân Yuri"
+    },
+    {
+      "num": 1747,
+      "title": "Judai VS Yuri"
+    },
+    {
+      "num": 1748,
+      "title": "Nguyên Tố đối đầu Ăn Thịt"
+    },
+    {
+      "num": 1749,
+      "title": "Con rồng độc hung tàn"
+    },
+    {
+      "num": 1750,
+      "title": "Cuộc tranh đoạt của Bá Vương"
+    },
+    {
+      "num": 1751,
+      "title": "Siêu Dung Hợp của dị giới?"
+    },
+    {
+      "num": 1752,
+      "title": "Ai Là Siêu Dung Hợp Thật"
+    },
+    {
+      "num": 1753,
+      "title": "Tử Ma đánh liên hoàn hai lần"
+    },
+    {
+      "num": 1754,
+      "title": "Cuộc đối đầu tốc độ"
+    },
+    {
+      "num": 1755,
+      "title": "Huyễn Thấu Dực"
+    },
+    {
+      "num": 1756,
+      "title": "Cánh Pha Lê"
+    },
+    {
+      "num": 1757,
+      "title": "Zack chiêu mộ thống soái"
+    },
+    {
+      "num": 1758,
+      "title": "Sức mạnh cứu thế!"
+    },
+    {
+      "num": 1759,
+      "title": "Lưu Thiên Cứu Thế Tinh Long"
+    },
+    {
+      "num": 1760,
+      "title": "Thần khí phân tán"
+    },
+    {
+      "num": 1761,
+      "title": "Trận chiến Xyz"
+    },
+    {
+      "num": 1762,
+      "title": "Ám Phản Nghịch"
+    },
+    {
+      "num": 1763,
+      "title": "Ám Trấn Hồn"
+    },
+    {
+      "num": 1764,
+      "title": "Xếp chồng Duelist"
+    },
+    {
+      "num": 1765,
+      "title": "Khúc Vãn Trấn Hồn"
+    },
+    {
+      "num": 1766,
+      "title": "Thú Trang Hợp Thể"
+    },
+    {
+      "num": 1767,
+      "title": "Sakaki Yuya?"
+    },
+    {
+      "num": 1768,
+      "title": "Hắc Ma Thuật"
+    },
+    {
+      "num": 1769,
+      "title": "Liên hoàn Hắc Ma Đạo"
+    },
+    {
+      "num": 1770,
+      "title": "Pendulum Xyz"
+    },
+    {
+      "num": 1771,
+      "title": "Sảnh đồng hoa!"
+    },
+    {
+      "num": 1772,
+      "title": "Bá Vương Hắc Long"
+    },
+    {
+      "num": 1773,
+      "title": "Huyền thoại biến mất"
+    },
+    {
+      "num": 1774,
+      "title": "Trông cũng chẳng mạnh lắm"
+    },
+    {
+      "num": 1775,
+      "title": "VS Zack"
+    },
+    {
+      "num": 1776,
+      "title": "Zero Và Vô Hạn"
+    },
+    {
+      "num": 1777,
+      "title": "Zarc giáng lâm"
+    },
+    {
+      "num": 1778,
+      "title": "Sơ hở của Zack"
+    },
+    {
+      "num": 1779,
+      "title": "Zack phế vật"
+    },
+    {
+      "num": 1780,
+      "title": "Rồng Quyến Bá Vương"
+    },
+    {
+      "num": 1781,
+      "title": "Phong tỏa Zack đi!"
+    },
+    {
+      "num": 1782,
+      "title": "Bá Vương Huyễn Thấu Dực"
+    },
+    {
+      "num": 1783,
+      "title": "Đánh chính là Zack"
+    },
+    {
+      "num": 1784,
+      "title": "Con Lắc Kinh Ngạc"
+    },
+    {
+      "num": 1785,
+      "title": "Bá Vương Ám Phản Nghịch"
+    },
+    {
+      "num": 1786,
+      "title": "Toàn là giây sát"
+    },
+    {
+      "num": 1787,
+      "title": "Giải Môn Thất Tinh"
+    },
+    {
+      "num": 1788,
+      "title": "Thời khắc thức tỉnh"
+    },
+    {
+      "num": 1789,
+      "title": "Mùa gặt bội thu nhất"
+    },
+    {
+      "num": 1790,
+      "title": "Vùng đất hư vô"
+    },
+    {
+      "num": 1791,
+      "title": "Sự cố chấp của chủ tịch"
+    },
+    {
+      "num": 1792,
+      "title": "Chiến đấu vì thành phố"
+    },
+    {
+      "num": 1793,
+      "title": "Chim Ưng"
+    },
+    {
+      "num": 1794,
+      "title": "Liệt Diễm Chim Cắt"
+    },
+    {
+      "num": 1795,
+      "title": "Onomatopoeia mới"
+    },
+    {
+      "num": 1796,
+      "title": "ZEXAL tiến hóa"
+    },
+    {
+      "num": 1797,
+      "title": "Số hiệu 99!"
+    },
+    {
+      "num": 1798,
+      "title": "Thiên Mã Kiếm Trảm!"
+    },
+    {
+      "num": 1799,
+      "title": "Mãnh Cầm VS Hope"
+    },
+    {
+      "num": 1800,
+      "title": "Sức Mạnh Nhảy Bậc"
+    },
+    {
+      "num": 1801,
+      "title": "Chim Ưng Cứu Cực"
+    },
+    {
+      "num": 1802,
+      "title": "Vuốt Kích Thần Diều Hâu"
+    },
+    {
+      "num": 1803,
+      "title": "Giám sát viên"
+    },
+    {
+      "num": 1804,
+      "title": "Kaiba Hiệp!"
+    },
+    {
+      "num": 1805,
+      "title": "Cuộc tấn công của biển cả"
+    },
+    {
+      "num": 1806,
+      "title": "Đồng Bộ Truyền Tống"
+    },
+    {
+      "num": 1807,
+      "title": "Tập Kích Lặn Biển"
+    },
+    {
+      "num": 1808,
+      "title": "Ma Đạo Rồng Cứu Cực"
+    },
+    {
+      "num": 1809,
+      "title": "Gặp lại Nash"
+    },
+    {
+      "num": 1810,
+      "title": "Lựa chọn mới"
+    },
+    {
+      "num": 1811,
+      "title": "Sáu đại thần quan"
+    },
+    {
+      "num": 1812,
+      "title": "Bộ bài mạnh nhất?"
+    },
+    {
+      "num": 1813,
+      "title": "Thiên Lôi giáng lâm!"
+    },
+    {
+      "num": 1814,
+      "title": "Thần Nhiếp"
+    },
+    {
+      "num": 1815,
+      "title": "Xếp chồng"
+    },
+    {
+      "num": 1816,
+      "title": ""
+    },
+    {
+      "num": 1817,
+      "title": "Mười Hai Thú"
+    },
+    {
+      "num": 1818,
+      "title": "Ảo Ảnh"
+    },
+    {
+      "num": 1819,
+      "title": "Nghiền nát Thiên Đình Hiệu đi"
+    },
+    {
+      "num": 1820,
+      "title": "Lịch sử chính xác"
+    },
+    {
+      "num": 1821,
+      "title": "Trận chung kết"
+    },
+    {
+      "num": 1822,
+      "title": "Zork mạnh nhất"
+    },
+    {
+      "num": 1823,
+      "title": "Rồng Tối Thượng"
+    },
+    {
+      "num": 1824,
+      "title": "Phá Hoại Thần giáng lâm"
+    },
+    {
+      "num": 1825,
+      "title": "Quà tặng kèm"
+    },
+    {
+      "num": 1826,
+      "title": "Cám dỗ không thể cưỡng lại"
+    },
+    {
+      "num": 1827,
+      "title": "Xâm Thực Đại Địa"
+    },
+    {
+      "num": 1828,
+      "title": "Trí tuệ của bậc tiền bối"
+    },
+    {
+      "num": 1829,
+      "title": "Bất Tử Điểu"
+    },
+    {
+      "num": 1830,
+      "title": "Người bạn đồng hành đầu tiên"
+    },
+    {
+      "num": 1831,
+      "title": "Công phá vị thần vô hạn"
+    },
+    {
+      "num": 1832,
+      "title": "Ưu thế vô hạn!"
+    },
+    {
+      "num": 1833,
+      "title": "Tôi là vận mệnh của ngươi"
+    },
+    {
+      "num": 1834,
+      "title": "Thần Duel (Hoàn)"
+    }
+  ],
+  "slug": "ai_bao_han_choi_yu_gi_oh",
+  "title": "Ai Bảo Hắn Chơi Yu-Gi-Oh A",
+  "author": "Danh Xưng Bị Chiếm Dụng",
+  "synopsis": "Đồng nhân Yu-Gi-Oh hài hước, nhịp nhanh. Nhân vật chính xuyên không thành Duelist trẻ Yuugen, mở đầu ở thế giới GX rồi lần lượt đi qua các thế giới 5D's, ZEXAL, ARC-V, VRAINS. Anh dùng bộ bài của mình đối đầu các nhân vật quen thuộc trong anime, từ những trận Duel, giải đấu đến chuyện đời thường của giới Duelist.",
+  "coverColor": "#4a4e8f"
+}
