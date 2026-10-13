@@ -1,0 +1,2750 @@
+{
+  "totalChapters": 685,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Thời đại Ngự thú"
+    },
+    {
+      "num": 2,
+      "title": "Bách khoa kỹ năng"
+    },
+    {
+      "num": 3,
+      "title": "Lên kế hoạch chọn thú cưng đầu tiên"
+    },
+    {
+      "num": 4,
+      "title": "Tìm mục tiêu"
+    },
+    {
+      "num": 5,
+      "title": "Ba kỹ năng"
+    },
+    {
+      "num": 6,
+      "title": "Trại nuôi Thiết Trúc Tự Dưỡng Cơ Địa"
+    },
+    {
+      "num": 7,
+      "title": "Thú ăn sắt thà chết chứ không làm nô lệ"
+    },
+    {
+      "num": 8,
+      "title": "Khế ước"
+    },
+    {
+      "num": 9,
+      "title": "Trận chiến đầu tiên"
+    },
+    {
+      "num": 10,
+      "title": "Cướp măng của gấu"
+    },
+    {
+      "num": 11,
+      "title": "Cách kiếm tiền"
+    },
+    {
+      "num": 12,
+      "title": "Cậu thiếu niên bắt sâu"
+    },
+    {
+      "num": 13,
+      "title": "Từ nhập môn đến nhập mồ"
+    },
+    {
+      "num": 14,
+      "title": "Huấn luyện và trưởng thành"
+    },
+    {
+      "num": 15,
+      "title": "Các nhánh nghề nghiệp"
+    },
+    {
+      "num": 16,
+      "title": "Cấp tinh thông"
+    },
+    {
+      "num": 17,
+      "title": "Thực chiến"
+    },
+    {
+      "num": 18,
+      "title": "Thú ăn sắt và sự thân thiện với con người"
+    },
+    {
+      "num": 19,
+      "title": "Đối đầu với Băng Giáp Thú"
+    },
+    {
+      "num": 20,
+      "title": "Hiệp hội Ngự thú"
+    },
+    {
+      "num": 21,
+      "title": "Dọn sạch Thổ Hành Thử"
+    },
+    {
+      "num": 22,
+      "title": "Thị lực siêu phàm"
+    },
+    {
+      "num": 23,
+      "title": "Võ quán Trúc Thạch"
+    },
+    {
+      "num": 24,
+      "title": "Tổ hợp bất thường"
+    },
+    {
+      "num": 25,
+      "title": "Kỳ thi sát hạch nghề nghiệp"
+    },
+    {
+      "num": 26,
+      "title": "Thú triều"
+    },
+    {
+      "num": 27,
+      "title": "Lắng nghe tiếng vọng lịch sử"
+    },
+    {
+      "num": 28,
+      "title": "Thành phố Băng Nguyên chấn động"
+    },
+    {
+      "num": 29,
+      "title": "Khu dân cư đến trao hơi ấm"
+    },
+    {
+      "num": 30,
+      "title": "Cú đâm sau lưng đến từ thiên phú"
+    },
+    {
+      "num": 31,
+      "title": "Gia nhập tổ chức"
+    },
+    {
+      "num": 32,
+      "title": "Ba hướng tiến hóa"
+    },
+    {
+      "num": 33,
+      "title": "Phá vỡ lối mòn"
+    },
+    {
+      "num": 34,
+      "title": "Di tích mở cửa"
+    },
+    {
+      "num": 35,
+      "title": "Quyết định"
+    },
+    {
+      "num": 36,
+      "title": "Rèn luyện"
+    },
+    {
+      "num": 37,
+      "title": "Sinh vật kỳ lạ"
+    },
+    {
+      "num": 38,
+      "title": "Tiến vào Thiên Mang Sơn"
+    },
+    {
+      "num": 39,
+      "title": "Sát thủ lợn rừng"
+    },
+    {
+      "num": 40,
+      "title": "Tạm thời đứng đầu"
+    },
+    {
+      "num": 41,
+      "title": "Hướng nuôi Thực Thiết Thú hệ Sấm Sét"
+    },
+    {
+      "num": 42,
+      "title": "Quặng Điện"
+    },
+    {
+      "num": 43,
+      "title": "Nhân đôi kích thước"
+    },
+    {
+      "num": 44,
+      "title": "Không cần cuốn sổ kỹ năng cũng được"
+    },
+    {
+      "num": 45,
+      "title": "Kết thúc đợt rèn luyện"
+    },
+    {
+      "num": 46,
+      "title": "Mua đồ bổ"
+    },
+    {
+      "num": 47,
+      "title": "Kỹ năng cấp cao đầu tiên"
+    },
+    {
+      "num": 48,
+      "title": "Càng nạp tiền càng sướng"
+    },
+    {
+      "num": 49,
+      "title": "Đến tận cửa Trúc Thạch Võ Quán"
+    },
+    {
+      "num": 50,
+      "title": "Uy lực của Lôi Chưởng"
+    },
+    {
+      "num": 51,
+      "title": "Bí kỹ"
+    },
+    {
+      "num": 52,
+      "title": "Đừng có ham cao xa"
+    },
+    {
+      "num": 53,
+      "title": "Vua gấu trúc Thập Nhất"
+    },
+    {
+      "num": 54,
+      "title": "Tổ hợp kỹ năng bước đầu thành hình"
+    },
+    {
+      "num": 55,
+      "title": "Xuất phát"
+    },
+    {
+      "num": 56,
+      "title": "Tiến vào di tích"
+    },
+    {
+      "num": 57,
+      "title": "Hình ảnh lịch sử"
+    },
+    {
+      "num": 58,
+      "title": "Cháu trai tôi có tư chất bậc thầy"
+    },
+    {
+      "num": 59,
+      "title": "Phá kỷ lục"
+    },
+    {
+      "num": 60,
+      "title": "Không Linh Thạch"
+    },
+    {
+      "num": 61,
+      "title": "Thiên phú quái vật"
+    },
+    {
+      "num": 62,
+      "title": "Mục tiêu huấn luyện đặc biệt mới"
+    },
+    {
+      "num": 63,
+      "title": "Cứ cộng điểm là xong"
+    },
+    {
+      "num": 64,
+      "title": "Suối Thánh Tiến Hóa"
+    },
+    {
+      "num": 65,
+      "title": "Lời tâm sự khi lên kệ"
+    },
+    {
+      "num": 66,
+      "title": "Đánh chính là tinh nhuệ"
+    },
+    {
+      "num": 67,
+      "title": "Đơn vị sức chiến đấu"
+    },
+    {
+      "num": 68,
+      "title": "Khí thế Quân Vương"
+    },
+    {
+      "num": 69,
+      "title": "Kẻ thông linh"
+    },
+    {
+      "num": 70,
+      "title": "Kỹ năng siêu cấp"
+    },
+    {
+      "num": 71,
+      "title": "Dạng tiến hóa của Thú Ăn Sắt"
+    },
+    {
+      "num": 72,
+      "title": "Thần thoại"
+    },
+    {
+      "num": 73,
+      "title": "Nhà mới"
+    },
+    {
+      "num": 74,
+      "title": "Cấp hoàn hảo đầu tiên"
+    },
+    {
+      "num": 75,
+      "title": "Chú Sâu điền nguyện vọng"
+    },
+    {
+      "num": 76,
+      "title": "Tái chiến di tích"
+    },
+    {
+      "num": 77,
+      "title": "Sinh vật mạnh nhất"
+    },
+    {
+      "num": 78,
+      "title": "Chủ nhân di tích"
+    },
+    {
+      "num": 79,
+      "title": "Trồng trọt đúng là chân ái"
+    },
+    {
+      "num": 80,
+      "title": "Đã đến lúc bồi dưỡng Côn Côn rồi"
+    },
+    {
+      "num": 81,
+      "title": "Tơ Trùng đạt mức xuất thần nhập hóa"
+    },
+    {
+      "num": 82,
+      "title": "Nhà tư tưởng số mười một"
+    },
+    {
+      "num": 83,
+      "title": "Không Tưởng Chi Trùng (Cảm ơn đại gia 『Rảnh Rỗi Đọc Sách Cũng Được Đấy』)"
+    },
+    {
+      "num": 84,
+      "title": "Đại học Cổ Đô"
+    },
+    {
+      "num": 85,
+      "title": "Trùng Trùng đứng dậy rồi"
+    },
+    {
+      "num": 86,
+      "title": "Trước lúc lên đường"
+    },
+    {
+      "num": 87,
+      "title": "Các ngự thú sư ở thành phố lớn"
+    },
+    {
+      "num": 88,
+      "title": "Cô gái tai thú xuất hiện"
+    },
+    {
+      "num": 89,
+      "title": "Bàn về khả năng giữ mạng của ngự thú sư"
+    },
+    {
+      "num": 90,
+      "title": "Thời Vũ thả bay bản thân"
+    },
+    {
+      "num": 91,
+      "title": "Di tích của Thực Thiết Thú"
+    },
+    {
+      "num": 92,
+      "title": "Chữ khắc cổ đại"
+    },
+    {
+      "num": 93,
+      "title": "Khảo cổ hủy cả đời"
+    },
+    {
+      "num": 94,
+      "title": "Khởi đầu thời kỳ tăng giá của Thực Thiết Thú"
+    },
+    {
+      "num": 95,
+      "title": "Lợi ích của đặc quyền"
+    },
+    {
+      "num": 96,
+      "title": "Lắng nghe âm thanh lịch sử lần nữa"
+    },
+    {
+      "num": 97,
+      "title": ""
+    },
+    {
+      "num": 98,
+      "title": ""
+    },
+    {
+      "num": 99,
+      "title": "Cách tiến hóa lần hai của Thực Thiết Thú"
+    },
+    {
+      "num": 100,
+      "title": "Đặt tên cho hình thái tiến hóa"
+    },
+    {
+      "num": 101,
+      "title": "Thời Vũ đột phá, khế ước với Trùng Trùng"
+    },
+    {
+      "num": 102,
+      "title": "Bí kỹ đầu tiên của Thập Nhất"
+    },
+    {
+      "num": 103,
+      "title": "Trên cả cấp Xuất Thần Nhập Hóa"
+    },
+    {
+      "num": 104,
+      "title": "Những tiến triển của nhóm nghiên cứu Thực Thiết Thú"
+    },
+    {
+      "num": 105,
+      "title": "Thời Vũ này đúng là kém thật"
+    },
+    {
+      "num": 106,
+      "title": "Nhà hàng đấu thú"
+    },
+    {
+      "num": 107,
+      "title": "Trận đầu tiên của Trùng Trùng"
+    },
+    {
+      "num": 108,
+      "title": "Tôi quá xuất sắc rồi"
+    },
+    {
+      "num": 109,
+      "title": "Kỳ thi đánh giá ngự thú sư chuyên nghiệp bắt đầu"
+    },
+    {
+      "num": 110,
+      "title": "Chiến thuật Chiến Thuật Anh Cơ Trường Không"
+    },
+    {
+      "num": 111,
+      "title": ""
+    },
+    {
+      "num": 112,
+      "title": "Kỵ sĩ gấu trúc xuất kích"
+    },
+    {
+      "num": 113,
+      "title": "Ba kỹ năng hệ Không Gian"
+    },
+    {
+      "num": 114,
+      "title": "Đếm ngược tiến hóa"
+    },
+    {
+      "num": 115,
+      "title": "Cách dùng đúng của sách tranh kỹ năng"
+    },
+    {
+      "num": 116,
+      "title": "Băng Long Trùng Trùng VS Cốt Long Phụ Hồn"
+    },
+    {
+      "num": 117,
+      "title": "Vua của loài sâu bông xanh"
+    },
+    {
+      "num": 118,
+      "title": "Kết thúc kỳ thi thử thách sinh tồn"
+    },
+    {
+      "num": 119,
+      "title": "Kho tài nguyên của Đại học Cổ Đô"
+    },
+    {
+      "num": 120,
+      "title": "Uy thế rồng của Trùng Trùng"
+    },
+    {
+      "num": 121,
+      "title": "Video vừa lên sóng, Thời Vũ chuồn mất"
+    },
+    {
+      "num": 122,
+      "title": "Trận chiến xếp hạng cuối cùng bắt đầu"
+    },
+    {
+      "num": 123,
+      "title": "Anh Cơ Trường Không đã xuất hiện"
+    },
+    {
+      "num": 124,
+      "title": "Làm người nuôi cổ trùng thì ai chẳng thế"
+    },
+    {
+      "num": 125,
+      "title": "Lại sắp có người phát điên"
+    },
+    {
+      "num": 126,
+      "title": "Giàu lên đúng nghĩa"
+    },
+    {
+      "num": 127,
+      "title": "Phát quà phúc lợi cực khủng"
+    },
+    {
+      "num": 128,
+      "title": "Lôi điện bị chém đôi"
+    },
+    {
+      "num": 129,
+      "title": "Công bố hình thái tiến hóa của Thực Thiết Thú"
+    },
+    {
+      "num": 130,
+      "title": "Nổi tiếng khắp cả nước"
+    },
+    {
+      "num": 131,
+      "title": "Trước trận quyết chiến"
+    },
+    {
+      "num": 132,
+      "title": ""
+    },
+    {
+      "num": 133,
+      "title": "Thú cưng hệ thực vật xuất hiện rồi"
+    },
+    {
+      "num": 134,
+      "title": "Bài toán kinh điển, chọn một trong bảy"
+    },
+    {
+      "num": 135,
+      "title": "Một bé nhân sâm có ước mơ"
+    },
+    {
+      "num": 136,
+      "title": "Thú cưng thứ ba"
+    },
+    {
+      "num": 137,
+      "title": "Địa vị đàn em của Sâm Bảo Bảo"
+    },
+    {
+      "num": 138,
+      "title": "Cặp đôi ăn ý nhất"
+    },
+    {
+      "num": 139,
+      "title": "Kế hoạch tăng điểm"
+    },
+    {
+      "num": 140,
+      "title": "Giới hạn của mỗi người"
+    },
+    {
+      "num": 141,
+      "title": "Sức mạnh của cả đội tăng vọt"
+    },
+    {
+      "num": 142,
+      "title": "Núi Tuyết Băng Long"
+    },
+    {
+      "num": 143,
+      "title": "Kỹ năng tấn công của Sâm Bảo Bảo"
+    },
+    {
+      "num": 144,
+      "title": "Cha Rồng Băng Ta Đến Rồi"
+    },
+    {
+      "num": 145,
+      "title": "Nguồn gốc của Đông Hoàng"
+    },
+    {
+      "num": 146,
+      "title": "Sự thật về lịch sử vùng băng nguyên"
+    },
+    {
+      "num": 147,
+      "title": "Chính thức trở thành thành viên của Cục Mười Một"
+    },
+    {
+      "num": 148,
+      "title": "Đến lượt Thời Vũ tự bật hack rồi"
+    },
+    {
+      "num": 149,
+      "title": "Trở lại Cổ Đô"
+    },
+    {
+      "num": 150,
+      "title": "Khế ước với Sâm Bảo Bảo"
+    },
+    {
+      "num": 151,
+      "title": "Thời Vũ đại náo vườn thực vật"
+    },
+    {
+      "num": 152,
+      "title": "Ghi chép kỹ năng Chùm Sáng Tích Năng"
+    },
+    {
+      "num": 153,
+      "title": "Sâm Bảo Bảo cũng muốn tiến hóa"
+    },
+    {
+      "num": 154,
+      "title": "Pháo xuyên sáng nhân sâm"
+    },
+    {
+      "num": 155,
+      "title": "Hoàn thành giáp tiến hóa"
+    },
+    {
+      "num": 156,
+      "title": ""
+    },
+    {
+      "num": 157,
+      "title": "Bá Chủ Vô Địch Sau Lần Tiến Hóa Thứ Hai"
+    },
+    {
+      "num": 158,
+      "title": "Kỹ Năng Chủng Tộc Mới Của Thập Nhất"
+    },
+    {
+      "num": 159,
+      "title": "Kỳ thi thăng cấp của Thời Vũ"
+    },
+    {
+      "num": 160,
+      "title": "Sức mạnh của hình thái Cửu Lê"
+    },
+    {
+      "num": 161,
+      "title": "Tham Bảo Bảo cũng đột phá rồi"
+    },
+    {
+      "num": 162,
+      "title": "Trùng Trùng suy sụp"
+    },
+    {
+      "num": 163,
+      "title": "Đổi lấy nguyên liệu tiến hóa"
+    },
+    {
+      "num": 164,
+      "title": "Rồng trong không gian tinh thần"
+    },
+    {
+      "num": 165,
+      "title": "Trùng Trùng cũng tiến hóa rồi"
+    },
+    {
+      "num": 166,
+      "title": "Khai giảng"
+    },
+    {
+      "num": 167,
+      "title": "Di tích Anh Linh"
+    },
+    {
+      "num": 168,
+      "title": "Bắt đầu tuyển thành viên câu lạc bộ"
+    },
+    {
+      "num": 169,
+      "title": "Thần uy của Sâm Bảo Bảo"
+    },
+    {
+      "num": 170,
+      "title": "Cho cậu cơ hội mà cậu chẳng biết tận dụng"
+    },
+    {
+      "num": 171,
+      "title": "Kỳ vọng lớn lao của cô nàng tai thú"
+    },
+    {
+      "num": 172,
+      "title": "Cách tiến hóa của Sâm Bảo Bảo"
+    },
+    {
+      "num": 173,
+      "title": "Đến di tích Anh Linh"
+    },
+    {
+      "num": 174,
+      "title": "Triệu hồi anh linh"
+    },
+    {
+      "num": 175,
+      "title": "Băng Long Đại Tướng Quân"
+    },
+    {
+      "num": 176,
+      "title": "Kiếm Linh Nhập Thân"
+    },
+    {
+      "num": 177,
+      "title": "Thời Vũ đối đầu Mục Huy Âm"
+    },
+    {
+      "num": 178,
+      "title": "Kiếm Linh Nhỏ Ra Đời"
+    },
+    {
+      "num": 179,
+      "title": "Dở Tệ Khoản Đặt Tên"
+    },
+    {
+      "num": 180,
+      "title": ""
+    },
+    {
+      "num": 181,
+      "title": "Xích Đồng"
+    },
+    {
+      "num": 182,
+      "title": "Thời Vũ đối mắt với Thời Đế"
+    },
+    {
+      "num": 183,
+      "title": "Tinh thể bí ẩn"
+    },
+    {
+      "num": 184,
+      "title": "Chìa khóa thời không"
+    },
+    {
+      "num": 185,
+      "title": "Phát hiện mới của chị khóa trên Gấu Trúc"
+    },
+    {
+      "num": 186,
+      "title": "Ngự Thú Sư Mười Một lên sóng"
+    },
+    {
+      "num": 187,
+      "title": "Hiện tượng kỳ lạ ở Đại học Cổ Đô"
+    },
+    {
+      "num": 188,
+      "title": "Khủng long bạo chúa, bá chủ thời cổ đại"
+    },
+    {
+      "num": 189,
+      "title": "Đại hội hóa bướm"
+    },
+    {
+      "num": 190,
+      "title": "Ngự thú sư đến từ nước ngoài"
+    },
+    {
+      "num": 191,
+      "title": "Có bạn từ phương xa đến, trước tiên phải khiến người ta khổ tâm chí"
+    },
+    {
+      "num": 192,
+      "title": "Ba tháng sau"
+    },
+    {
+      "num": 193,
+      "title": "Kế hoạch tổ chức đại hội nội bộ đầu tiên"
+    },
+    {
+      "num": 194,
+      "title": "Ba ba đột phá"
+    },
+    {
+      "num": 195,
+      "title": "Thần Đô"
+    },
+    {
+      "num": 196,
+      "title": "Cổ vật và máy móc"
+    },
+    {
+      "num": 197,
+      "title": "Cái kén này của cậu không khoa học chút nào!"
+    },
+    {
+      "num": 198,
+      "title": "Sâm Bảo Bảo mới là cái máy hút tiền thực sự"
+    },
+    {
+      "num": 199,
+      "title": "Đại hội hóa bướm bắt đầu"
+    },
+    {
+      "num": 200,
+      "title": "Trùng Trùng cuối cùng cũng tiến hóa"
+    },
+    {
+      "num": 201,
+      "title": "Món quà của Thần Bướm"
+    },
+    {
+      "num": 202,
+      "title": "Khí thế bá đạo của Trùng Trùng"
+    },
+    {
+      "num": 203,
+      "title": "Mai nở lần hai"
+    },
+    {
+      "num": 204,
+      "title": "Quân đoàn Rồng của Thời Vũ"
+    },
+    {
+      "num": 205,
+      "title": "Nguyệt Quang Sâm Bảo Bảo"
+    },
+    {
+      "num": 206,
+      "title": "Con đường kiếm tiền của Trùng Trùng"
+    },
+    {
+      "num": 207,
+      "title": "Kén Sâu Xanh"
+    },
+    {
+      "num": 208,
+      "title": "Tôi không hứng thú với nghiên cứu"
+    },
+    {
+      "num": 209,
+      "title": "Chủng tộc mới ra đời"
+    },
+    {
+      "num": 210,
+      "title": "Đầm Bất Tử"
+    },
+    {
+      "num": 211,
+      "title": "Đêm trước Đại hội Nuôi dưỡng"
+    },
+    {
+      "num": 212,
+      "title": "Thành quả thay đổi cục diện"
+    },
+    {
+      "num": 213,
+      "title": "Giấc mơ của Thời Vũ"
+    },
+    {
+      "num": 214,
+      "title": "Lời khiêu chiến từ Doãn Chính Phàm"
+    },
+    {
+      "num": 215,
+      "title": "Xích Đồng ra trận"
+    },
+    {
+      "num": 216,
+      "title": "Phàm Phàm hoài nghi cuộc đời"
+    },
+    {
+      "num": 217,
+      "title": "Tin vui và tin xấu"
+    },
+    {
+      "num": 218,
+      "title": "Dự đoán tương lai"
+    },
+    {
+      "num": 219,
+      "title": "Đứa sau còn vô lý hơn đứa trước"
+    },
+    {
+      "num": 220,
+      "title": "Lời mời từ Cục Ba"
+    },
+    {
+      "num": 221,
+      "title": "Ba món phúc lợi"
+    },
+    {
+      "num": 222,
+      "title": "Thú cưng hệ Nước trong Long Cung"
+    },
+    {
+      "num": 223,
+      "title": "Thú cưng mới là Đồ Đằng"
+    },
+    {
+      "num": 224,
+      "title": "Uy thế của bá chủ thời cổ đại"
+    },
+    {
+      "num": 225,
+      "title": "Phong cách chiến đấu dũng mãnh"
+    },
+    {
+      "num": 226,
+      "title": "Họa Long Điểm Tình quét sạch Đại học Đế Đô"
+    },
+    {
+      "num": 227,
+      "title": "Cứu Cực Thánh Long Thú"
+    },
+    {
+      "num": 228,
+      "title": "Đại sư rèn kiếm Thời Vũ"
+    },
+    {
+      "num": 229,
+      "title": "Thần khí Băng Long Chi Nhận"
+    },
+    {
+      "num": 230,
+      "title": "Hình thái mới của Xích Đồng"
+    },
+    {
+      "num": 231,
+      "title": "Quả biến dị trong Bất Tử Đàm"
+    },
+    {
+      "num": 232,
+      "title": "Các vong linh Quân Vương tụ hội"
+    },
+    {
+      "num": 233,
+      "title": "Huyết mạch Phượng Hoàng thức tỉnh"
+    },
+    {
+      "num": 234,
+      "title": "Bất Tử Minh Phượng nổi điên"
+    },
+    {
+      "num": 235,
+      "title": "Gây họa rồi"
+    },
+    {
+      "num": 236,
+      "title": "Thành phố Võ Lăng"
+    },
+    {
+      "num": 237,
+      "title": "Lắng nghe lịch sử lần nữa"
+    },
+    {
+      "num": 238,
+      "title": "Đã đến lúc tự tay chế Gundam rồi"
+    },
+    {
+      "num": 239,
+      "title": "Người Võ Lăng bắt cá, kết cục bi thảm"
+    },
+    {
+      "num": 240,
+      "title": "Thời Vũ, nhà hoạch định tiến hóa"
+    },
+    {
+      "num": 241,
+      "title": "Thân phận của chủ nhân chiếc gương đá"
+    },
+    {
+      "num": 242,
+      "title": "Cơn sốt đăng ký Đại hội Võ đấu"
+    },
+    {
+      "num": 243,
+      "title": "Sự biến hình của Bạch Khê và Lục Thanh Y"
+    },
+    {
+      "num": 244,
+      "title": "Kỵ sĩ thú ăn sắt - dạng Lôi Viêm"
+    },
+    {
+      "num": 245,
+      "title": "Vụ cột đá nứt vỡ và những suy đoán kéo theo"
+    },
+    {
+      "num": 246,
+      "title": "Lại giở trò gì nữa đây"
+    },
+    {
+      "num": 247,
+      "title": "Chuẩn Thần Thú Trọng Huyền"
+    },
+    {
+      "num": 248,
+      "title": "Cơ hội tiến hóa lần hai của Thập Nhất"
+    },
+    {
+      "num": 249,
+      "title": "Thập Nhất tiến hóa thành bá chủ cấp cao"
+    },
+    {
+      "num": 250,
+      "title": "Bị nhốt trong phòng tối rồi"
+    },
+    {
+      "num": 251,
+      "title": "Thời Vũ bước vào lĩnh vực Đại Sư"
+    },
+    {
+      "num": 252,
+      "title": "Khu cấm địa của thần, nơi cơ giới vươn tới"
+    },
+    {
+      "num": 253,
+      "title": "Mai nở ba lần"
+    },
+    {
+      "num": 254,
+      "title": "Sức hút của Bình Thành"
+    },
+    {
+      "num": 255,
+      "title": "Mẹ Rồng Băng"
+    },
+    {
+      "num": 256,
+      "title": "Mẹ Rồng Băng"
+    },
+    {
+      "num": 257,
+      "title": "Ý chí Bá Chủ"
+    },
+    {
+      "num": 258,
+      "title": "Lại đến Đế Đô"
+    },
+    {
+      "num": 259,
+      "title": "Sâm Bảo Bảo tiến hóa vô địch"
+    },
+    {
+      "num": 260,
+      "title": "Bất Tử Sâm Hệ Thời Gian"
+    },
+    {
+      "num": 261,
+      "title": "Đánh Cúp Bảo Bảo thôi"
+    },
+    {
+      "num": 262,
+      "title": "Thời Vũ không biết làm người"
+    },
+    {
+      "num": 263,
+      "title": "Ngự Thú Sư Mạnh Nhất Băng Nguyên"
+    },
+    {
+      "num": 264,
+      "title": "Tam thái tử thành Long Cung"
+    },
+    {
+      "num": 265,
+      "title": "Đại lão loài người Thời Vũ"
+    },
+    {
+      "num": 266,
+      "title": "Đệ Tứ Cục Cao Hiên"
+    },
+    {
+      "num": 267,
+      "title": "Phần thưởng của giải đấu toàn quốc"
+    },
+    {
+      "num": 268,
+      "title": "Mùa xuân của Tham Bảo Bảo"
+    },
+    {
+      "num": 269,
+      "title": "Sự ra đời của một vị vua"
+    },
+    {
+      "num": 270,
+      "title": "Truyền thuyết Bá Hải và Côn của ông ấy"
+    },
+    {
+      "num": 271,
+      "title": "Những người bạn nhỏ kinh ngạc"
+    },
+    {
+      "num": 272,
+      "title": "Chẳng lẽ Trùng Trùng sắp được tăng sức mạnh cấp sử thi?"
+    },
+    {
+      "num": 273,
+      "title": "Gió nổi mây vần ở Long Cung Thành"
+    },
+    {
+      "num": 274,
+      "title": "Thương Hải Tinh Linh"
+    },
+    {
+      "num": 275,
+      "title": "Không khuyến khích người mới nhảy hố"
+    },
+    {
+      "num": 276,
+      "title": "Thú cưng thứ năm mà mình hằng mong ước"
+    },
+    {
+      "num": 277,
+      "title": "Quần đảo Sặc Sỡ"
+    },
+    {
+      "num": 278,
+      "title": "Bộ phận mới của Long Cung Thành"
+    },
+    {
+      "num": 279,
+      "title": "Khế ước với Thủy Sử Lai Mỗ"
+    },
+    {
+      "num": 280,
+      "title": "Hòn đảo này, tôi bảo kê!"
+    },
+    {
+      "num": 281,
+      "title": "Trở về Long Cung Thành"
+    },
+    {
+      "num": 282,
+      "title": "Báu vật của Long Cung Thành"
+    },
+    {
+      "num": 283,
+      "title": "Slime VS Tiểu Bạch Long"
+    },
+    {
+      "num": 284,
+      "title": "Miêu Miêu đột phá"
+    },
+    {
+      "num": 285,
+      "title": "Hòn đá biến hóa khôn lường"
+    },
+    {
+      "num": 286,
+      "title": "Tiệc Long Cung bắt đầu"
+    },
+    {
+      "num": 287,
+      "title": "Huy hiệu bảo vệ môi trường vô địch"
+    },
+    {
+      "num": 288,
+      "title": "Làm chấn động thành phố Long Cung"
+    },
+    {
+      "num": 289,
+      "title": "Thử thách khó đến mức địa ngục"
+    },
+    {
+      "num": 290,
+      "title": "Bài kiểm tra ngày càng kỳ quặc"
+    },
+    {
+      "num": 291,
+      "title": "Thế hệ kế tiếp của Long Cung Thành sắp toang rồi"
+    },
+    {
+      "num": 292,
+      "title": "Long Thần đến rồi"
+    },
+    {
+      "num": 293,
+      "title": "Bàn tay đen đứng sau từ thời đại thần thoại"
+    },
+    {
+      "num": 294,
+      "title": "Trở về Đông Hoàng"
+    },
+    {
+      "num": 295,
+      "title": "Biến động lớn chưa từng có trong trăm năm qua"
+    },
+    {
+      "num": 296,
+      "title": "Trò chơi của Cây Thế Giới"
+    },
+    {
+      "num": 297,
+      "title": "Cơ Giới Bá Vương Long"
+    },
+    {
+      "num": 298,
+      "title": "Phim chữa lành"
+    },
+    {
+      "num": 299,
+      "title": "Xích Đồng đột phá cấp Quân Vương"
+    },
+    {
+      "num": 300,
+      "title": ""
+    },
+    {
+      "num": 301,
+      "title": "Sâm Bảo Bảo muốn tự nổ rồi"
+    },
+    {
+      "num": 302,
+      "title": "Bảo Thạch Miêu cũng muốn đột phá"
+    },
+    {
+      "num": 303,
+      "title": "Thời Vũ VS Thiếu tướng hải quân Hải Quân Chuẩn Tương"
+    },
+    {
+      "num": 304,
+      "title": "Di tích của Vua Hải Tặc"
+    },
+    {
+      "num": 305,
+      "title": "Mối đe dọa từ hai vị bá chủ"
+    },
+    {
+      "num": 306,
+      "title": "Tham Thiên Đế tự nổ, diệt sát Bá Chủ"
+    },
+    {
+      "num": 307,
+      "title": "Trùng Trùng không thể nhịn nổi nữa, quyết tâm đột phá"
+    },
+    {
+      "num": 308,
+      "title": "Ngày này, Mèo Đá Quý bước vào cảnh giới Totem"
+    },
+    {
+      "num": 309,
+      "title": "Thu hoạch lớn sau khi trở về Đông Hoàng"
+    },
+    {
+      "num": 310,
+      "title": "Toàn đội đạt cấp Quân Vương"
+    },
+    {
+      "num": 311,
+      "title": ""
+    },
+    {
+      "num": 312,
+      "title": "Kỹ năng mới của Thập Nhất"
+    },
+    {
+      "num": 313,
+      "title": "Quét sạch đối thủ ở giải toàn quốc"
+    },
+    {
+      "num": 314,
+      "title": "Sức uy hiếp vượt xa mức xuất thần nhập hóa"
+    },
+    {
+      "num": 315,
+      "title": "Người may mắn bị Slime nghiền nát"
+    },
+    {
+      "num": 316,
+      "title": "Sức mạnh thể chất của con bướm sánh ngang với loài rồng"
+    },
+    {
+      "num": 317,
+      "title": "Sâm Bảo Bảo lật tay nghiền nát đại đạo"
+    },
+    {
+      "num": 318,
+      "title": "Sâm Bảo Bảo bị đánh cho gục chỉ bằng một cái lật tay"
+    },
+    {
+      "num": 319,
+      "title": "Thời Vũ lên ngôi vô địch toàn quốc"
+    },
+    {
+      "num": 320,
+      "title": "Nhà vô địch toàn quốc Thời Vũ"
+    },
+    {
+      "num": 321,
+      "title": "Thần thú điềm lành Kỳ Lân"
+    },
+    {
+      "num": 322,
+      "title": "Bách Biến Thạch Cơ Giới"
+    },
+    {
+      "num": 323,
+      "title": "Trở Về Cổ Đô"
+    },
+    {
+      "num": 324,
+      "title": "Sự Ra Đời Của Thú Cưng Máy Móc"
+    },
+    {
+      "num": 325,
+      "title": "Chủ nhân, cộng điểm"
+    },
+    {
+      "num": 326,
+      "title": "Bội thu lần nữa và tham vọng của Thời Vũ"
+    },
+    {
+      "num": 327,
+      "title": "An Thường và món gia bảo truyền đời"
+    },
+    {
+      "num": 328,
+      "title": "Điên cuồng sao chép kỹ năng"
+    },
+    {
+      "num": 329,
+      "title": "Sự ra đời của ảo thú máy móc"
+    },
+    {
+      "num": 330,
+      "title": "Mẹ Rồng Tặng Bảo"
+    },
+    {
+      "num": 331,
+      "title": "Vẫn cứ là nghiền ép đối thủ"
+    },
+    {
+      "num": 332,
+      "title": "Thập Nhất hết sức rồi"
+    },
+    {
+      "num": 333,
+      "title": "Thời Vũ sắp cạn sức rồi"
+    },
+    {
+      "num": 334,
+      "title": "Di tích Không Đô"
+    },
+    {
+      "num": 335,
+      "title": "Trở lại Long Cung Thành"
+    },
+    {
+      "num": 336,
+      "title": "Tố Tố vẫn chưa ngóc đầu lên được"
+    },
+    {
+      "num": 337,
+      "title": "Trùng Trùng cuối cùng cũng ngẩng đầu được rồi"
+    },
+    {
+      "num": 338,
+      "title": "Sự bảo vệ của Long Thần"
+    },
+    {
+      "num": 339,
+      "title": "Di tích do Không Đế để lại"
+    },
+    {
+      "num": 340,
+      "title": "Trứng dị thú tinh không"
+    },
+    {
+      "num": 341,
+      "title": ""
+    },
+    {
+      "num": 342,
+      "title": "Thần thoại thức tỉnh"
+    },
+    {
+      "num": 343,
+      "title": "Băng Đôn Đôn Thập Nhất"
+    },
+    {
+      "num": 344,
+      "title": "Thời Vũ VS Không Đế"
+    },
+    {
+      "num": 345,
+      "title": ""
+    },
+    {
+      "num": 346,
+      "title": "Danh Chấn Đông Hoàng"
+    },
+    {
+      "num": 347,
+      "title": "Đột phá cấp sáu"
+    },
+    {
+      "num": 348,
+      "title": "Vô địch dưới cấp Bá Chủ"
+    },
+    {
+      "num": 349,
+      "title": "Tố Tố cũng kiếm ra tiền được rồi"
+    },
+    {
+      "num": 350,
+      "title": "Thầy Kỷ, đừng cạo nữa!"
+    },
+    {
+      "num": 351,
+      "title": "Đêm trước Đại hội Cơ Giới"
+    },
+    {
+      "num": 352,
+      "title": "Đến từ một lĩnh vực khác"
+    },
+    {
+      "num": 353,
+      "title": "Lượt thứ tư, Thời Vũ"
+    },
+    {
+      "num": 354,
+      "title": "Chuyện cả bốn người đứng đầu bảng xếp hạng đều trở thành vệ sĩ của tôi"
+    },
+    {
+      "num": 355,
+      "title": "Ba quân đoàn dưới trướng Thời Vũ"
+    },
+    {
+      "num": 356,
+      "title": "Số phận đổi thay"
+    },
+    {
+      "num": 357,
+      "title": "Phân chia tài nguyên truyền thuyết"
+    },
+    {
+      "num": 358,
+      "title": "Di tích ở Thất Đảo lọt vào tầm ngắm của Thời Vũ"
+    },
+    {
+      "num": 359,
+      "title": "Hàn khí sương giá đóng băng thời gian"
+    },
+    {
+      "num": 360,
+      "title": "Quét Ngang Bảy Đảo Ngự Thú Sư"
+    },
+    {
+      "num": 361,
+      "title": "Người mạnh nhất dưới cấp Truyền Kỳ của Thất Đảo"
+    },
+    {
+      "num": 362,
+      "title": "Chấn động Thất Đảo"
+    },
+    {
+      "num": 363,
+      "title": "Toàn đội bá chủ"
+    },
+    {
+      "num": 364,
+      "title": "Con vịt này không đơn giản chút nào"
+    },
+    {
+      "num": 365,
+      "title": "Đội hai chính thức thành lập"
+    },
+    {
+      "num": 366,
+      "title": "Kế mỹ nhân đến từ Thất Đảo"
+    },
+    {
+      "num": 367,
+      "title": "Phượng Hoàng Thần Xã"
+    },
+    {
+      "num": 368,
+      "title": "Vẫn Ngạn và Phòng Môi trường Long Cung"
+    },
+    {
+      "num": 369,
+      "title": "Bí thuật Thời Gian Thay Đổi, chuẩn bị kích hoạt"
+    },
+    {
+      "num": 370,
+      "title": "Một món cấp Thần Thoại, hai món cấp Truyền Thuyết"
+    },
+    {
+      "num": 371,
+      "title": "Những người bạn Totem của Thời Vũ giáng lâm"
+    },
+    {
+      "num": 372,
+      "title": "Mở cửa, thả Thời Vũ ra!"
+    },
+    {
+      "num": 373,
+      "title": "Chính thức bước vào hàng ngũ những cường giả hàng đầu"
+    },
+    {
+      "num": 374,
+      "title": "Haiz, có hai cái thân phận phụ thì cứ việc chơi thôi"
+    },
+    {
+      "num": 375,
+      "title": "Lục Bạch tóc xanh, thần súng VS Thời Vũ tóc đỏ, thần kiếm"
+    },
+    {
+      "num": 376,
+      "title": "Bá Vương Long và Thú mỏ vịt đánh mấy đứa nhóc"
+    },
+    {
+      "num": 377,
+      "title": "Thành quả rèn luyện sau hai tháng"
+    },
+    {
+      "num": 378,
+      "title": "Săn bá chủ"
+    },
+    {
+      "num": 379,
+      "title": "Bất Tử Thái Dương Sâm"
+    },
+    {
+      "num": 380,
+      "title": "Dạng cơ giáp của Thời Vũ"
+    },
+    {
+      "num": 381,
+      "title": "Đã có trong tay sáu con rối cấp Bá Chủ"
+    },
+    {
+      "num": 382,
+      "title": "Gió nổi ở Thiên Hồ"
+    },
+    {
+      "num": 383,
+      "title": "Thời Vũ VS Hồ Thần"
+    },
+    {
+      "num": 384,
+      "title": "Kẻ được chọn để cướp thiên phú (Cảm ơn 『Ta Tên Vương"
+    },
+    {
+      "num": 385,
+      "title": "Thời Vũ Đồ Đằng Thủ Sát"
+    },
+    {
+      "num": 386,
+      "title": "Tiến hóa thành Bất Tử Thái Dương Sâm"
+    },
+    {
+      "num": 387,
+      "title": "Thiên phú ngự thú thứ ba"
+    },
+    {
+      "num": 388,
+      "title": "Viện quân đến nơi, chuồn là thượng sách"
+    },
+    {
+      "num": 389,
+      "title": "Bà nội theo người của Lâm Tu Trúc"
+    },
+    {
+      "num": 390,
+      "title": "Học Tỷ Gấu Trúc Có Hy Vọng Thành Truyền Kỳ"
+    },
+    {
+      "num": 391,
+      "title": "Khai mở trường phái siêu năng lực"
+    },
+    {
+      "num": 392,
+      "title": "Học tỷ huyền thoại Lục và Bọ Ngựa Hư Không cấp Bá Chủ"
+    },
+    {
+      "num": 393,
+      "title": "Trùng Trùng VS Hư Không Đường Lang"
+    },
+    {
+      "num": 394,
+      "title": "Dạng siêu năng lực của Thời Vũ"
+    },
+    {
+      "num": 395,
+      "title": "Dung hợp hóa thạch Kỳ Lân"
+    },
+    {
+      "num": 396,
+      "title": "Lại thêm một tài nguyên cấp thần thoại"
+    },
+    {
+      "num": 397,
+      "title": "Dạng cuối cùng của thần giao cách cảm"
+    },
+    {
+      "num": 398,
+      "title": "Kẻ xui xẻo ra lò"
+    },
+    {
+      "num": 399,
+      "title": "Người đầu tiên trong đội sở hữu kỹ năng chuẩn thần"
+    },
+    {
+      "num": 400,
+      "title": "Sự lợi hại của Chuẩn Thần kỹ"
+    },
+    {
+      "num": 401,
+      "title": "Một Lẫm Thành Thần Cả Đội Thăng Thiên"
+    },
+    {
+      "num": 402,
+      "title": "Truyền thừa Thương Hải chó cũng chẳng thèm"
+    },
+    {
+      "num": 403,
+      "title": "Lý do Thời đại Thần thoại kết thúc"
+    },
+    {
+      "num": 404,
+      "title": "Thú cưng thứ bảy"
+    },
+    {
+      "num": 405,
+      "title": "Đình Hương Cổ Quốc"
+    },
+    {
+      "num": 406,
+      "title": "Kỳ"
+    },
+    {
+      "num": 407,
+      "title": "Bọn họ bình thường quá rồi"
+    },
+    {
+      "num": 408,
+      "title": "Thân phận thật sự của Kỳ"
+    },
+    {
+      "num": 409,
+      "title": "Thời Chi Tán quét sạch tất cả"
+    },
+    {
+      "num": 410,
+      "title": "Bá chủ yếu nhất Kỳ"
+    },
+    {
+      "num": 411,
+      "title": "Kẻ địch mạnh trên đấu trường thế giới"
+    },
+    {
+      "num": 412,
+      "title": "Mục tiêu là Đồ Đằng"
+    },
+    {
+      "num": 413,
+      "title": "Tiến hóa của Thập Nhất Thần"
+    },
+    {
+      "num": 414,
+      "title": "Hải Để Đại Giám Ngục"
+    },
+    {
+      "num": 415,
+      "title": "Gấu trúc hỗn mang và Cối xay Âm Dương"
+    },
+    {
+      "num": 416,
+      "title": "Quả Hóa Rồng"
+    },
+    {
+      "num": 417,
+      "title": "Lĩnh Vực Tâm Linh"
+    },
+    {
+      "num": 418,
+      "title": "Truyền thuyết máy móc thức tỉnh"
+    },
+    {
+      "num": 419,
+      "title": "Nền móng mạnh nhất đủ sức quét sạch Giải Thế giới"
+    },
+    {
+      "num": 420,
+      "title": "Tiến hóa giữa trời sao"
+    },
+    {
+      "num": 421,
+      "title": "Kế hoạch nuôi dưỡng Thanh Long"
+    },
+    {
+      "num": 422,
+      "title": "Đất nước Vinh Quang"
+    },
+    {
+      "num": 423,
+      "title": "Thời Chi Tinh Linh"
+    },
+    {
+      "num": 424,
+      "title": "Thần thoại sống"
+    },
+    {
+      "num": 425,
+      "title": "Thời Vũ kể chuyện thần thoại"
+    },
+    {
+      "num": 426,
+      "title": "Nhà khảo cổ học trong truyền thuyết"
+    },
+    {
+      "num": 427,
+      "title": "Đêm trước Giải đấu Thế giới"
+    },
+    {
+      "num": 428,
+      "title": "Danh tiếng của Thời Vũ"
+    },
+    {
+      "num": 429,
+      "title": "Lại không làm người nữa"
+    },
+    {
+      "num": 430,
+      "title": ""
+    },
+    {
+      "num": 431,
+      "title": "Ấp nở quả trứng giữa trời sao"
+    },
+    {
+      "num": 432,
+      "title": "Đi đường của người khác, khiến người khác chẳng còn đường mà đi"
+    },
+    {
+      "num": 433,
+      "title": "Thử thách thần thoại mở màn (Chúc Vi Lạp sinh nhật vui vẻ)"
+    },
+    {
+      "num": 434,
+      "title": "Giết đến mức không ai dám đánh"
+    },
+    {
+      "num": 435,
+      "title": "Ánh nhìn từ vực sâu"
+    },
+    {
+      "num": 436,
+      "title": "Có chút nghiên cứu"
+    },
+    {
+      "num": 437,
+      "title": "Quả nhiên không phải người tốt"
+    },
+    {
+      "num": 438,
+      "title": "Không đi theo lối mòn"
+    },
+    {
+      "num": 439,
+      "title": "Thiên phú mạnh nhất"
+    },
+    {
+      "num": 440,
+      "title": "Cơ khí cũng có thể thông thần (Cảm ơn đại lão 「Đồ Ăn Tại Gia」"
+    },
+    {
+      "num": 441,
+      "title": "Phần thưởng khiến người ta ghen tị"
+    },
+    {
+      "num": 442,
+      "title": "Thử thách Long tộc mạnh nhất"
+    },
+    {
+      "num": 443,
+      "title": "Thanh Long Thần giáng lâm"
+    },
+    {
+      "num": 444,
+      "title": "Mục tiêu phải giết"
+    },
+    {
+      "num": 445,
+      "title": "Sức mạnh của hệ thời gian"
+    },
+    {
+      "num": 446,
+      "title": "Lượng lớn tài nguyên để cộng điểm"
+    },
+    {
+      "num": 447,
+      "title": "Kim Ngưu Cổ Thần"
+    },
+    {
+      "num": 448,
+      "title": "Thú cưng mạnh nhất"
+    },
+    {
+      "num": 449,
+      "title": "Bùng nổ toàn lực"
+    },
+    {
+      "num": 450,
+      "title": "Đồ thần"
+    },
+    {
+      "num": 451,
+      "title": "Tiến nhanh đến kỳ tiếp theo"
+    },
+    {
+      "num": 452,
+      "title": "Bản nâng cấp plus của lời chúc phúc từ Thế Giới Thụ"
+    },
+    {
+      "num": 453,
+      "title": "Đột phá cấp Truyền Thuyết"
+    },
+    {
+      "num": 454,
+      "title": "Xích Đồng lại tiến hóa"
+    },
+    {
+      "num": 455,
+      "title": "Hợp mãi, sướng mãi"
+    },
+    {
+      "num": 456,
+      "title": "Khế ước và thức tỉnh (Cảm ơn đại gia Đồ Ăn Tại Gia đã"
+    },
+    {
+      "num": 457,
+      "title": "Vuốt Bảo Thạch Miêu Rồi Chạy Thật Kích Thích"
+    },
+    {
+      "num": 458,
+      "title": "Mục tiêu Thiên Kiếm Quốc"
+    },
+    {
+      "num": 459,
+      "title": "Ký khế ước với đội hai"
+    },
+    {
+      "num": 460,
+      "title": "Kim Cương Phục Ma Áp"
+    },
+    {
+      "num": 461,
+      "title": "Thời Vũ gia nhập Ma Tông"
+    },
+    {
+      "num": 462,
+      "title": "Kế hoạch không theo kịp thay đổi"
+    },
+    {
+      "num": 463,
+      "title": "Áp Áp tiến hóa"
+    },
+    {
+      "num": 464,
+      "title": "Tài nguyên tái sinh Vẫn Ngạn xuất hiện"
+    },
+    {
+      "num": 465,
+      "title": "Võ Đế xuất hiện"
+    },
+    {
+      "num": 466,
+      "title": "Tiến hóa thành thần của Xích Đồng"
+    },
+    {
+      "num": 467,
+      "title": "Đón chào Thời đại Thần thoại"
+    },
+    {
+      "num": 468,
+      "title": "Tứ Thánh Thú giáng thế"
+    },
+    {
+      "num": 469,
+      "title": "Chị khóa trên Lục Thanh Y đến nơi"
+    },
+    {
+      "num": 470,
+      "title": "Thời Vũ sáng tạo thế giới"
+    },
+    {
+      "num": 471,
+      "title": "Bá Chủ Đất Liền Và Đại Dương"
+    },
+    {
+      "num": 472,
+      "title": ""
+    },
+    {
+      "num": 473,
+      "title": "Thiên phú cảm ứng tâm linh toàn là quái vật"
+    },
+    {
+      "num": 474,
+      "title": "Xung kích sức chiến đấu cấp Bán Thần"
+    },
+    {
+      "num": 475,
+      "title": "Xuyên không đến thời đại Võ Đế"
+    },
+    {
+      "num": 476,
+      "title": "Cuộc đối đầu giữa Thiết Thực Thú xưa và nay"
+    },
+    {
+      "num": 477,
+      "title": "Báo tin cho quân đội, để tộc Vẫn tự dâng đầu"
+    },
+    {
+      "num": 478,
+      "title": "Cứu Cực Cơ Giới Lẫm"
+    },
+    {
+      "num": 479,
+      "title": ""
+    },
+    {
+      "num": 480,
+      "title": "Vẫn Ngạn đáng thương, bất lực"
+    },
+    {
+      "num": 481,
+      "title": "Khiến Võ Đế kinh ngạc suốt vạn năm"
+    },
+    {
+      "num": 482,
+      "title": ""
+    },
+    {
+      "num": 483,
+      "title": "Sự tiến hóa bù đắp những thiếu sót của Thập Nhất"
+    },
+    {
+      "num": 484,
+      "title": "Lần đầu tiên quy tắc phục hồi"
+    },
+    {
+      "num": 485,
+      "title": "Bán thần thảm nhất lịch sử"
+    },
+    {
+      "num": 486,
+      "title": "Trở về dòng thời gian ban đầu"
+    },
+    {
+      "num": 487,
+      "title": "Nàng mèo bán thần Bảo Thạch Miêu (Cảm ơn đại gia 『Vi Lạp』 đã ủng hộ minh chủ lớn"
+    },
+    {
+      "num": 488,
+      "title": "Thời đại của người lớn đã thay đổi"
+    },
+    {
+      "num": 489,
+      "title": "Long Cung tìm Huyền Vũ"
+    },
+    {
+      "num": 490,
+      "title": "Tình yêu vượt qua ranh giới chủng tộc"
+    },
+    {
+      "num": 491,
+      "title": "Hai thú cưng mới chẳng bình thường chút nào"
+    },
+    {
+      "num": 492,
+      "title": "Chuẩn thần kỹ của Tiểu Cơ và Vịt Vịt"
+    },
+    {
+      "num": 504,
+      "title": "Kiếm chém Bất Tử Minh Phượng"
+    },
+    {
+      "num": 511,
+      "title": "Tổ đội săn mẹ"
+    },
+    {
+      "num": 512,
+      "title": ""
+    },
+    {
+      "num": 513,
+      "title": ""
+    },
+    {
+      "num": 514,
+      "title": "Chu Tước Kiếm Cơ cấp Bán Thần"
+    },
+    {
+      "num": 515,
+      "title": "Không Đế và truyền thuyết tiến hóa"
+    },
+    {
+      "num": 516,
+      "title": "Trong vũ trụ"
+    },
+    {
+      "num": 517,
+      "title": "Long Cung Chính Biến"
+    },
+    {
+      "num": 518,
+      "title": "Thanh Long Sáng Thế Thần"
+    },
+    {
+      "num": 519,
+      "title": "Thiên hạ vô địch, kẻ địch từ trên trời rơi xuống"
+    },
+    {
+      "num": 520,
+      "title": "Người ngoài hành tinh, ngự thú sư giáng xuống Lam Tinh"
+    },
+    {
+      "num": 521,
+      "title": ""
+    },
+    {
+      "num": 523,
+      "title": "Long Thần thoái vị, Trùng Trùng đăng cơ"
+    },
+    {
+      "num": 524,
+      "title": "Thời Vũ, Long Đế, Long Thần"
+    },
+    {
+      "num": 525,
+      "title": "Hu hu, Long Thần Cung của ta, Long Thần Cung của ta"
+    },
+    {
+      "num": 528,
+      "title": ""
+    },
+    {
+      "num": 529,
+      "title": "Đột phá cấp Truyền Thuyết"
+    },
+    {
+      "num": 530,
+      "title": ""
+    },
+    {
+      "num": 531,
+      "title": "Chuẩn bị trước khi rời đi"
+    },
+    {
+      "num": 532,
+      "title": "Khởi hành (Kết thúc phần Lam Tinh)"
+    },
+    {
+      "num": 533,
+      "title": "Chuyến đi điên cuồng"
+    },
+    {
+      "num": 534,
+      "title": "Diệt Thế Cự Long Tiểu Cơ"
+    },
+    {
+      "num": 535,
+      "title": "Trận chiến đầu tiên trong vũ trụ"
+    },
+    {
+      "num": 536,
+      "title": "Vui quá hóa buồn, Không Đế"
+    },
+    {
+      "num": 537,
+      "title": "Viện Nghiên cứu Thảm họa Vũ trụ"
+    },
+    {
+      "num": 538,
+      "title": "Sao trời biến động, Tinh Linh Tinh Hải xuất hiện"
+    },
+    {
+      "num": 539,
+      "title": ""
+    },
+    {
+      "num": 540,
+      "title": "Vịt thi tuyển"
+    },
+    {
+      "num": 541,
+      "title": "Chớp mắt đã lên làm hội trưởng Hiệp hội Bảo vệ Môi trường"
+    },
+    {
+      "num": 542,
+      "title": ""
+    },
+    {
+      "num": 543,
+      "title": "Tôi có cả tỷ ước mơ"
+    },
+    {
+      "num": 544,
+      "title": "Chim ngậm kiếm"
+    },
+    {
+      "num": 545,
+      "title": "Trận chiến xếp hạng vạn tộc"
+    },
+    {
+      "num": 546,
+      "title": ""
+    },
+    {
+      "num": 547,
+      "title": "Bóp Nát Tinh Thần"
+    },
+    {
+      "num": 548,
+      "title": "Bán thần đấu Chân Thần"
+    },
+    {
+      "num": 549,
+      "title": "Đội Bé Cưng cất cánh"
+    },
+    {
+      "num": 550,
+      "title": "Vũ khí sao trời của Trùng Trùng"
+    },
+    {
+      "num": 551,
+      "title": ""
+    },
+    {
+      "num": 552,
+      "title": "Mèo Mèo tái xuất giang hồ"
+    },
+    {
+      "num": 553,
+      "title": "Bão Sao, Ai Cũng Làm Được"
+    },
+    {
+      "num": 554,
+      "title": ""
+    },
+    {
+      "num": 555,
+      "title": ""
+    },
+    {
+      "num": 557,
+      "title": "Quân đoàn bá chủ vũ trụ kéo đến"
+    },
+    {
+      "num": 558,
+      "title": "Huyền Vũ ra đời"
+    },
+    {
+      "num": 559,
+      "title": "Lệch hết rồi, tiến hóa lệch hết cả rồi"
+    },
+    {
+      "num": 560,
+      "title": "Tôi thật sự không định giải mã di tích đâu"
+    },
+    {
+      "num": 561,
+      "title": "Kẻ đứng sau màn — Trò lừa đảo nhà họ Thời"
+    },
+    {
+      "num": 562,
+      "title": ""
+    },
+    {
+      "num": 563,
+      "title": "Một người nuôi bốn Thánh Thú, bốn Thánh Thú nuôi lại một người"
+    },
+    {
+      "num": 564,
+      "title": "Lục Thanh Y phản công"
+    },
+    {
+      "num": 565,
+      "title": "Vặt lông cừu của gia tộc Tứ Thánh"
+    },
+    {
+      "num": 566,
+      "title": "Người mạnh nhất Lam Tinh"
+    },
+    {
+      "num": 567,
+      "title": "Miêu Đầu Ưng – Kiếp trước kiếp này"
+    },
+    {
+      "num": 568,
+      "title": "Nửa năm sau"
+    },
+    {
+      "num": 569,
+      "title": "Vị thần nhát gan nhất và ngày trở về (10.000 chữ, cảm ơn đại lão Vi Lạp và Đồ Ăn Tại Gia)"
+    },
+    {
+      "num": 570,
+      "title": "Phong Thần Chiến bắt đầu"
+    },
+    {
+      "num": 571,
+      "title": "Trận đầu gây sốc, kết quả ngoài dự đoán (Chương dài)"
+    },
+    {
+      "num": 572,
+      "title": "Phản ứng của các bên"
+    },
+    {
+      "num": 573,
+      "title": ""
+    },
+    {
+      "num": 574,
+      "title": "Mười đại siêu tân tinh"
+    },
+    {
+      "num": 575,
+      "title": ""
+    },
+    {
+      "num": 576,
+      "title": "Vận may cũng là một phần của thực lực"
+    },
+    {
+      "num": 577,
+      "title": "Cái tên không thể né tránh"
+    },
+    {
+      "num": 578,
+      "title": "Mau đi mời Đại thần Thập Nhất"
+    },
+    {
+      "num": 579,
+      "title": "Thế giới mà chỉ có Tử Kiến bị thương"
+    },
+    {
+      "num": 580,
+      "title": ""
+    },
+    {
+      "num": 581,
+      "title": "Thời Vũ lật xe"
+    },
+    {
+      "num": 582,
+      "title": "Tình hình thi đấu nội bộ"
+    },
+    {
+      "num": 583,
+      "title": ""
+    },
+    {
+      "num": 584,
+      "title": ""
+    },
+    {
+      "num": 586,
+      "title": "Trận chiến này thành thần! (Bù thêm 2,5 vé tháng)"
+    },
+    {
+      "num": 587,
+      "title": "Đột phá thành ngự thú sư cấp Thần"
+    },
+    {
+      "num": 588,
+      "title": ""
+    },
+    {
+      "num": 589,
+      "title": ""
+    },
+    {
+      "num": 590,
+      "title": "Các vị đế vương Truyền Thuyết hồi sinh (Thêm chương vì nguyệt phiếu +4.5)"
+    },
+    {
+      "num": 591,
+      "title": "Thú cưng Thời Vũ"
+    },
+    {
+      "num": 592,
+      "title": ""
+    },
+    {
+      "num": 593,
+      "title": ""
+    },
+    {
+      "num": 594,
+      "title": "Thời Vũ không có đạo đức (thêm chương vì nguyệt phiếu +6)"
+    },
+    {
+      "num": 595,
+      "title": "Thời Vũ Thú tiến hóa"
+    },
+    {
+      "num": 596,
+      "title": "Đồ Đồ, vua tiết lộ bí mật"
+    },
+    {
+      "num": 597,
+      "title": "Những vị đế vương sống lại"
+    },
+    {
+      "num": 598,
+      "title": "Lam Tinh thăng cấp"
+    },
+    {
+      "num": 599,
+      "title": "Thời Đế xuất hiện"
+    },
+    {
+      "num": 600,
+      "title": "Hoạt động tập thể đầu tiên của Lam Tinh (Thêm chương cảm ơn vé tháng +7)"
+    },
+    {
+      "num": 601,
+      "title": "Đại sứ quảng bá văn hóa Lam Tinh"
+    },
+    {
+      "num": 602,
+      "title": "Một hành tinh, mười Siêu Thần (Thêm chương mừng vé tháng +5)"
+    },
+    {
+      "num": 603,
+      "title": "Trao Nguồn Siêu Thoát Mới Cho Ai"
+    },
+    {
+      "num": 604,
+      "title": "Tiên đoán như không（ Thêm chương nguyệt phiếu +5）"
+    },
+    {
+      "num": 605,
+      "title": "Toàn đội đều là bậc thầy vũ khí"
+    },
+    {
+      "num": 606,
+      "title": "Tiến Đến Vùng Ô Nhiễm"
+    },
+    {
+      "num": 607,
+      "title": ""
+    },
+    {
+      "num": 608,
+      "title": ""
+    },
+    {
+      "num": 609,
+      "title": "Di tích Trái Đất và Oa Thần"
+    },
+    {
+      "num": 610,
+      "title": "Tôi ký khế ước với chính mình"
+    },
+    {
+      "num": 611,
+      "title": "Gọi thẳng mặt Siêu Thần vực sâu"
+    },
+    {
+      "num": 612,
+      "title": "Bộ đôi Vịt Trắng"
+    },
+    {
+      "num": 613,
+      "title": "Kỷ lục hạ gục Siêu Thần đầu tiên"
+    },
+    {
+      "num": 614,
+      "title": "Ai sẽ nhận được Nguồn Siêu Thoát"
+    },
+    {
+      "num": 615,
+      "title": "Phong Thần kỳ mới"
+    },
+    {
+      "num": 616,
+      "title": "Giới Vương Tinh chấn động"
+    },
+    {
+      "num": 618,
+      "title": "Fan gây chuyện, Tạp Ân phải gánh"
+    },
+    {
+      "num": 619,
+      "title": "Kỹ năng của ý chí Lam Tinh"
+    },
+    {
+      "num": 620,
+      "title": "Di tích của Xi Vưu"
+    },
+    {
+      "num": 622,
+      "title": ""
+    },
+    {
+      "num": 623,
+      "title": "Khảo cổ kiểu bảo tồn và khảo cổ kiểu phá hoại"
+    },
+    {
+      "num": 624,
+      "title": ""
+    },
+    {
+      "num": 625,
+      "title": "Thách đấu Bá Chủ Vũ Trụ"
+    },
+    {
+      "num": 626,
+      "title": "Thời tới cản không kịp"
+    },
+    {
+      "num": 627,
+      "title": "Không sao, để tôi ra tay"
+    },
+    {
+      "num": 628,
+      "title": "Thần cấp tầng mười hai"
+    },
+    {
+      "num": 629,
+      "title": "Thử thách Vinh quang"
+    },
+    {
+      "num": 630,
+      "title": "Kẻ mạnh nhất Vũ Trụ Hải và kẻ mạnh nhất lãnh địa Bá Chủ"
+    },
+    {
+      "num": 631,
+      "title": "Tạo nên kỳ tích"
+    },
+    {
+      "num": 632,
+      "title": ""
+    },
+    {
+      "num": 633,
+      "title": ""
+    },
+    {
+      "num": 634,
+      "title": "Thời đại tăng tốc"
+    },
+    {
+      "num": 635,
+      "title": "Cự thú bị nguyền rủa"
+    },
+    {
+      "num": 636,
+      "title": "Cự thú vũ trụ Bố Lục"
+    },
+    {
+      "num": 637,
+      "title": ""
+    },
+    {
+      "num": 638,
+      "title": "Cự thú và Tiểu Tử"
+    },
+    {
+      "num": 639,
+      "title": "Vua tung tin lại có trò mới"
+    },
+    {
+      "num": 643,
+      "title": "Trận quyết đấu vượt bậc"
+    },
+    {
+      "num": 644,
+      "title": ""
+    },
+    {
+      "num": 645,
+      "title": "Biến trận quyết đấu thành buổi tập cho thú cưng"
+    },
+    {
+      "num": 646,
+      "title": "Nhiệm vụ của Giới Vương"
+    },
+    {
+      "num": 647,
+      "title": "Chỉ một ánh mắt, vạn năm đã qua"
+    },
+    {
+      "num": 648,
+      "title": ""
+    },
+    {
+      "num": 649,
+      "title": "Thông tin về vũ trụ cấp thứ sáu"
+    },
+    {
+      "num": 650,
+      "title": ""
+    },
+    {
+      "num": 651,
+      "title": "Chìa khóa phá cục"
+    },
+    {
+      "num": 652,
+      "title": "Con đường vũ trụ"
+    },
+    {
+      "num": 653,
+      "title": "Nữ Hoàng Siêu Năng xuất hiện"
+    },
+    {
+      "num": 654,
+      "title": "Thân phận của Bách Hợp"
+    },
+    {
+      "num": 655,
+      "title": "Đột phá kỷ nguyên"
+    },
+    {
+      "num": 656,
+      "title": "Chấn động! Cấp Vũ trụ thứ sáu hóa ra lại là…"
+    },
+    {
+      "num": 657,
+      "title": "Trở về vũ trụ gốc"
+    },
+    {
+      "num": 658,
+      "title": "Gặp lại Giới Vương"
+    },
+    {
+      "num": 659,
+      "title": ""
+    },
+    {
+      "num": 660,
+      "title": "Siêu Thoát Bản Nguyên Thành"
+    },
+    {
+      "num": 661,
+      "title": "Tiêu điểm của tinh không"
+    },
+    {
+      "num": 662,
+      "title": "Mười tám tầng trời"
+    },
+    {
+      "num": 663,
+      "title": "Vị hoàng đế vũ trụ thứ bảy"
+    },
+    {
+      "num": 664,
+      "title": "Gặp lại Nữ Hoàng"
+    },
+    {
+      "num": 665,
+      "title": "Siêu thần Thời Vũ"
+    },
+    {
+      "num": 666,
+      "title": "Nhạc Nữ đến rồi"
+    },
+    {
+      "num": 667,
+      "title": "Nỗi buồn của Sâm Thiên Đế"
+    },
+    {
+      "num": 668,
+      "title": "Siêu thần nhân tộc thứ năm của Lam Tinh"
+    },
+    {
+      "num": 669,
+      "title": ""
+    },
+    {
+      "num": 670,
+      "title": "Mèo mèo trở về"
+    },
+    {
+      "num": 671,
+      "title": "Bị bệnh"
+    },
+    {
+      "num": 672,
+      "title": "Kẻ xuyên không thứ ba"
+    },
+    {
+      "num": 673,
+      "title": ""
+    },
+    {
+      "num": 674,
+      "title": "Nhận giặc làm mẹ"
+    },
+    {
+      "num": 675,
+      "title": "Nhận Mẹ Chứng Đạo"
+    },
+    {
+      "num": 676,
+      "title": ""
+    },
+    {
+      "num": 677,
+      "title": "Sự kiện hoàn bản kiêm xung năm sao"
+    },
+    {
+      "num": 678,
+      "title": "Thách đấu chủng tộc số một vạn tộc"
+    },
+    {
+      "num": 679,
+      "title": "Thiên Đế Kinh và Hỗn Độn Hùng Miêu"
+    },
+    {
+      "num": 680,
+      "title": "Giấc mơ tiên tri của bá chủ vũ trụ"
+    },
+    {
+      "num": 681,
+      "title": "Thú cưng còn quá đáng hơn chủ nhân"
+    },
+    {
+      "num": 682,
+      "title": "Thảm"
+    },
+    {
+      "num": 683,
+      "title": "Trùng Trùng tiến hóa, Kẻ Nuốt Chửng Vũ Trụ"
+    },
+    {
+      "num": 684,
+      "title": "Bà vú mới Siêu Năng Nữ Hoàng"
+    },
+    {
+      "num": 685,
+      "title": "Xung kích cấp vũ trụ"
+    },
+    {
+      "num": 686,
+      "title": "Cho tôi về đi (Cảm tạ Bạc Minh của tác giả Ngự Thú Tuần Sứ Thư Hoang Bị Bách Tả Thư!)"
+    },
+    {
+      "num": 687,
+      "title": "Hóa ra là vậy"
+    },
+    {
+      "num": 688,
+      "title": "Mối ràng buộc từ kiếp trước đến kiếp này"
+    },
+    {
+      "num": 689,
+      "title": "Cuối cùng cũng thành cấp vũ trụ"
+    },
+    {
+      "num": 690,
+      "title": "Cấp Vũ trụ gian nan"
+    },
+    {
+      "num": 691,
+      "title": "Tuyên chiến với Đế vương vũ trụ"
+    },
+    {
+      "num": 692,
+      "title": "Cân bằng"
+    },
+    {
+      "num": 693,
+      "title": "Vùng ô nhiễm đổi chủ"
+    },
+    {
+      "num": 694,
+      "title": "Bá chủ Ngân Hà"
+    },
+    {
+      "num": 695,
+      "title": "Cướp vũ trụ"
+    },
+    {
+      "num": 696,
+      "title": "Con gái của Thời Vũ đến"
+    },
+    {
+      "num": 697,
+      "title": "Thời không song song đặc biệt"
+    },
+    {
+      "num": 698,
+      "title": "Ván cha con"
+    },
+    {
+      "num": 699,
+      "title": "Thời không không có Thời Vũ"
+    },
+    {
+      "num": 700,
+      "title": "Con thứ hai cấp vũ trụ"
+    },
+    {
+      "num": 701,
+      "title": "Lão cha quái vật"
+    },
+    {
+      "num": 702,
+      "title": "Sao lại thêm một con nữa"
+    },
+    {
+      "num": 703,
+      "title": "Sự ra đời của kẻ mạnh nhất"
+    },
+    {
+      "num": 704,
+      "title": "Đột phá không có điểm dừng"
+    },
+    {
+      "num": 705,
+      "title": "Hỗn Độn thần ma"
+    },
+    {
+      "num": 706,
+      "title": "Hội nghị vũ trụ"
+    },
+    {
+      "num": 707,
+      "title": "Lại hành hạ Ngưu Ngưu"
+    },
+    {
+      "num": 708,
+      "title": "Bá chủ vũ trụ mới"
+    },
+    {
+      "num": 709,
+      "title": "Vũ trụ khế ước"
+    },
+    {
+      "num": 710,
+      "title": "Lịch sử bị thay đổi"
+    },
+    {
+      "num": 711,
+      "title": "Người duy trì"
+    },
+    {
+      "num": 712,
+      "title": "Chương cuối của ngự thú"
+    }
+  ],
+  "slug": "bat_khoa_hoc_ngu_thu",
+  "title": "Bất Khoa Học Ngự Thú",
+  "author": "Khinh Tuyền Lưu Hưởng",
+  "synopsis": "Truyện đô thị ngự thú hài hước của Khinh Tuyền Lưu Hưởng. Thời Vũ tỉnh dậy trong thân xác một sinh viên ngự thú ở Thời đại Ngự thú, nơi con người ký khế ước với dị thú để chiến đấu và nghiên cứu. Anh nuôi những thú cưng theo kiểu \"không khoa học\", từ con sâu bông xanh nhỏ bé đến những sinh vật khiến cả giới ngự thú sư phải ngỡ ngàng, với nhịp truyện nhanh, nhiều trò tếu táo và những màn tiến hóa bất ngờ.",
+  "coverColor": "#4f7a5a"
+}
