@@ -1,0 +1,3086 @@
+{
+  "totalChapters": 769,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Tỉnh lại (1)"
+    },
+    {
+      "num": 2,
+      "title": "Tỉnh lại (2)"
+    },
+    {
+      "num": 3,
+      "title": "Cái chết lướt qua trong gang tấc (1)"
+    },
+    {
+      "num": 4,
+      "title": "Cái chết lướt qua trong gang tấc (2)"
+    },
+    {
+      "num": 5,
+      "title": "Khao Khát Được Sống (1)"
+    },
+    {
+      "num": 6,
+      "title": "Khao Khát Được Sống (2)"
+    },
+    {
+      "num": 7,
+      "title": "Đường hầm laser cứu mạng (1)"
+    },
+    {
+      "num": 8,
+      "title": "Đường hầm laser cứu mạng (2)"
+    },
+    {
+      "num": 9,
+      "title": "Bằng chứng mình còn sống (1)"
+    },
+    {
+      "num": 10,
+      "title": "Bằng chứng mình còn sống (2)"
+    },
+    {
+      "num": 11,
+      "title": "Cường hóa (1)"
+    },
+    {
+      "num": 12,
+      "title": "Cường hóa (2)"
+    },
+    {
+      "num": 13,
+      "title": "Chuẩn bị xong xuôi (1)"
+    },
+    {
+      "num": 14,
+      "title": "Chuẩn bị xong xuôi (2)"
+    },
+    {
+      "num": 15,
+      "title": "Chuẩn bị xong xuôi (3)"
+    },
+    {
+      "num": 16,
+      "title": "Người ngoài hành tinh! Bắt đầu (1)"
+    },
+    {
+      "num": 17,
+      "title": "Người ngoài hành tinh! Bắt đầu (2)"
+    },
+    {
+      "num": 18,
+      "title": "Người ngoài hành tinh! Bắt đầu (3)"
+    },
+    {
+      "num": 19,
+      "title": "Kinh hoàng cực hạn! (1)"
+    },
+    {
+      "num": 20,
+      "title": "Kinh hoàng cực hạn! (2)"
+    },
+    {
+      "num": 21,
+      "title": "Kinh hoàng cực hạn! (3)"
+    },
+    {
+      "num": 22,
+      "title": "Nhịp tim dồn dập (1)"
+    },
+    {
+      "num": 23,
+      "title": "Nhịp tim dồn dập (2)"
+    },
+    {
+      "num": 24,
+      "title": "Nhịp tim dồn dập (3)"
+    },
+    {
+      "num": 25,
+      "title": "Hai lựa chọn (1)"
+    },
+    {
+      "num": 26,
+      "title": "Hai lựa chọn (2)"
+    },
+    {
+      "num": 27,
+      "title": "Hai lựa chọn (3)"
+    },
+    {
+      "num": 28,
+      "title": "Máu đen trong lòng (1)"
+    },
+    {
+      "num": 29,
+      "title": "Máu đen trong lòng (2)"
+    },
+    {
+      "num": 30,
+      "title": "Máu đen trong lòng (3)"
+    },
+    {
+      "num": 31,
+      "title": "Chia đường (1)"
+    },
+    {
+      "num": 32,
+      "title": "Chia đường (2)"
+    },
+    {
+      "num": 33,
+      "title": "Chia đường (3)"
+    },
+    {
+      "num": 34,
+      "title": "Sự nhượng bộ của Sở Hiên (1)"
+    },
+    {
+      "num": 35,
+      "title": "Sự nhượng bộ của Sở Hiên (2)"
+    },
+    {
+      "num": 36,
+      "title": "Sự nhượng bộ của Sở Hiên (3)"
+    },
+    {
+      "num": 37,
+      "title": "Tiến vào tổ! (1)"
+    },
+    {
+      "num": 38,
+      "title": "Tiến vào tổ! (2)"
+    },
+    {
+      "num": 39,
+      "title": "Tiến vào tổ! (3)"
+    },
+    {
+      "num": 40,
+      "title": "Liều mạng! (1)"
+    },
+    {
+      "num": 41,
+      "title": "Liều mạng! (2)"
+    },
+    {
+      "num": 42,
+      "title": "Liều mạng! (3)"
+    },
+    {
+      "num": 43,
+      "title": "Hy vọng của thế giới hiện thực (1)"
+    },
+    {
+      "num": 44,
+      "title": "Hy vọng của thế giới hiện thực (2)"
+    },
+    {
+      "num": 45,
+      "title": "Hy vọng của thế giới hiện thực (3)"
+    },
+    {
+      "num": 46,
+      "title": "Cảm giác như đã cách một đời người (1)"
+    },
+    {
+      "num": 47,
+      "title": "Cảm giác như đã cách một đời người (2)"
+    },
+    {
+      "num": 48,
+      "title": "Kinh hãi và phẫn nộ (1)"
+    },
+    {
+      "num": 49,
+      "title": "Kinh hãi và phẫn nộ (2)"
+    },
+    {
+      "num": 50,
+      "title": "Đoạn tuyệt! (1)"
+    },
+    {
+      "num": 51,
+      "title": "Đoạn tuyệt! (2)"
+    },
+    {
+      "num": 52,
+      "title": "Lời nguyền! Khởi đầu (1)"
+    },
+    {
+      "num": 53,
+      "title": "Lời nguyền! Khởi đầu (2)"
+    },
+    {
+      "num": 54,
+      "title": "Ngày thứ hai (1)"
+    },
+    {
+      "num": 55,
+      "title": "Ngày thứ hai (2)"
+    },
+    {
+      "num": 56,
+      "title": "Ngày thứ ba! Bộ mặt xấu xí (1)"
+    },
+    {
+      "num": 57,
+      "title": "Ngày thứ ba! Bộ mặt xấu xí (2)"
+    },
+    {
+      "num": 58,
+      "title": "Ngày thứ ba! Bộ mặt xấu xí (3)"
+    },
+    {
+      "num": 59,
+      "title": "Nghỉ ngơi (1)"
+    },
+    {
+      "num": 60,
+      "title": "Nghỉ ngơi (2)"
+    },
+    {
+      "num": 61,
+      "title": "Trái tim trưởng thành và... lời nhắn? (1)"
+    },
+    {
+      "num": 62,
+      "title": "Trái tim trưởng thành và... lời nhắn? (2)"
+    },
+    {
+      "num": 63,
+      "title": "Lam, ngày, đêm và... khởi đầu trận chiến cuối cùng! (1)"
+    },
+    {
+      "num": 64,
+      "title": "Lam, ngày, đêm và... khởi đầu trận chiến cuối cùng! (2)"
+    },
+    {
+      "num": 65,
+      "title": "Đợt tấn công kinh hoàng thứ bảy (1)"
+    },
+    {
+      "num": 66,
+      "title": "Đợt tấn công kinh hoàng thứ bảy (2)"
+    },
+    {
+      "num": 67,
+      "title": "Đợt tấn công kinh hoàng thứ bảy (3)"
+    },
+    {
+      "num": 68,
+      "title": "Tin tưởng tuyệt đối! Sức mạnh của đồng đội (1)"
+    },
+    {
+      "num": 69,
+      "title": "Tin tưởng tuyệt đối! Sức mạnh của đồng đội (2)"
+    },
+    {
+      "num": 70,
+      "title": "Tin tưởng tuyệt đối! Sức mạnh của đồng đội (3)"
+    },
+    {
+      "num": 71,
+      "title": "Thu hoạch lớn (1)"
+    },
+    {
+      "num": 72,
+      "title": "Thu hoạch lớn (2)"
+    },
+    {
+      "num": 73,
+      "title": "Thu hoạch lớn (3)"
+    },
+    {
+      "num": 74,
+      "title": "Trời xanh, biển biếc... ngực khủng và hung dữ? (1)"
+    },
+    {
+      "num": 75,
+      "title": "Trời xanh, biển biếc... ngực khủng và hung dữ? (2)"
+    },
+    {
+      "num": 76,
+      "title": "Chuyện cũ… và buổi hẹn hò? (1)"
+    },
+    {
+      "num": 77,
+      "title": "Chuyện cũ… và buổi hẹn hò? (2)"
+    },
+    {
+      "num": 78,
+      "title": "Chuyện cũ… và buổi hẹn hò? (3)"
+    },
+    {
+      "num": 79,
+      "title": "Truyền Thuyết Xác Ướp! (1)"
+    },
+    {
+      "num": 80,
+      "title": "Truyền Thuyết Xác Ướp! (2)"
+    },
+    {
+      "num": 81,
+      "title": "Truyền Thuyết Xác Ướp! (3)"
+    },
+    {
+      "num": 82,
+      "title": "Hiện thực tàn khốc… Cùng đường! (1)"
+    },
+    {
+      "num": 83,
+      "title": "Hiện thực tàn khốc… Cùng đường! (2)"
+    },
+    {
+      "num": 84,
+      "title": "Hiện thực tàn khốc… Cùng đường! (3)"
+    },
+    {
+      "num": 85,
+      "title": "Bắt đầu... và thành phố đã mất (1)"
+    },
+    {
+      "num": 86,
+      "title": "Bắt đầu... và thành phố đã mất (2)"
+    },
+    {
+      "num": 87,
+      "title": "Bắt đầu... và thành phố đã mất (3)"
+    },
+    {
+      "num": 88,
+      "title": "Cuốn sách đen… và lòng thù địch đang dần tan biến (1)"
+    },
+    {
+      "num": 89,
+      "title": "Cuốn sách đen… và lòng thù địch đang dần tan biến (2)"
+    },
+    {
+      "num": 90,
+      "title": "Cuốn sách đen… và lòng thù địch đang dần tan biến (3)"
+    },
+    {
+      "num": 91,
+      "title": "Bí kíp ma quỷ – Kinh Thánh Người Chết Sống Lại! (1)"
+    },
+    {
+      "num": 92,
+      "title": "Bí kíp ma quỷ – Kinh Thánh Người Chết Sống Lại! (2)"
+    },
+    {
+      "num": 93,
+      "title": "Bí kíp ma quỷ – Kinh Thánh Người Chết Sống Lại! (3)"
+    },
+    {
+      "num": 94,
+      "title": "Lợi thế! (1)"
+    },
+    {
+      "num": 95,
+      "title": "Lợi thế! (2)"
+    },
+    {
+      "num": 96,
+      "title": "Lợi thế! (3)"
+    },
+    {
+      "num": 97,
+      "title": "Chạm trán lần đầu… Chiến binh sức mạnh khủng khiếp (1)"
+    },
+    {
+      "num": 98,
+      "title": "Chạm trán lần đầu… Chiến binh sức mạnh khủng khiếp (2)"
+    },
+    {
+      "num": 99,
+      "title": "Chạm trán lần đầu… Chiến binh sức mạnh khủng khiếp (3)"
+    },
+    {
+      "num": 100,
+      "title": "Không thể chung sống hòa bình! (1)"
+    },
+    {
+      "num": 101,
+      "title": "Không thể chung sống hòa bình! (2)"
+    },
+    {
+      "num": 102,
+      "title": "Không thể chung sống hòa bình! (3)"
+    },
+    {
+      "num": 103,
+      "title": "Giao chiến trong bảo tàng (1)"
+    },
+    {
+      "num": 104,
+      "title": "Giao chiến trong bảo tàng (2)"
+    },
+    {
+      "num": 105,
+      "title": "Giao chiến trong bảo tàng (3)"
+    },
+    {
+      "num": 106,
+      "title": "Phong thái của phát súng ấy! (1)"
+    },
+    {
+      "num": 107,
+      "title": "Phong thái của phát súng ấy! (2)"
+    },
+    {
+      "num": 108,
+      "title": "Phong thái của phát súng ấy! (3)"
+    },
+    {
+      "num": 109,
+      "title": "Bị chặn theo dõi (1)"
+    },
+    {
+      "num": 110,
+      "title": "Bị chặn theo dõi (2)"
+    },
+    {
+      "num": 111,
+      "title": "Bị chặn theo dõi (3)"
+    },
+    {
+      "num": 112,
+      "title": "Diễn biến cốt truyện thay đổi (1)"
+    },
+    {
+      "num": 113,
+      "title": "Diễn biến cốt truyện thay đổi (2)"
+    },
+    {
+      "num": 114,
+      "title": "Diễn biến cốt truyện thay đổi (3)"
+    },
+    {
+      "num": 115,
+      "title": "Bay vọt lên nào! Hy vọng! (1)"
+    },
+    {
+      "num": 116,
+      "title": "Bay vọt lên nào! Hy vọng! (2)"
+    },
+    {
+      "num": 117,
+      "title": "Bay vọt lên nào! Hy vọng! (3)"
+    },
+    {
+      "num": 118,
+      "title": "Sai lệch (1)"
+    },
+    {
+      "num": 119,
+      "title": "Sai lệch (2)"
+    },
+    {
+      "num": 120,
+      "title": "Mở màn trận quyết chiến (1)"
+    },
+    {
+      "num": 121,
+      "title": "Mở màn trận quyết chiến (2)"
+    },
+    {
+      "num": 122,
+      "title": "Chia tách chiến trường! Tung cú đấm ấy ra đi! (1)"
+    },
+    {
+      "num": 123,
+      "title": "Chia tách chiến trường! Tung cú đấm ấy ra đi! (2)"
+    },
+    {
+      "num": 124,
+      "title": "Hỗn chiến trong lăng mộ (1)"
+    },
+    {
+      "num": 125,
+      "title": "Hỗn chiến trong lăng mộ (2)"
+    },
+    {
+      "num": 126,
+      "title": "Hỗn chiến trong lăng mộ (3)"
+    },
+    {
+      "num": 127,
+      "title": "Cắn chết tiểu hòa thượng! (1)"
+    },
+    {
+      "num": 128,
+      "title": "Cắn chết tiểu hòa thượng! (2)"
+    },
+    {
+      "num": 129,
+      "title": "Cắn chết tiểu hòa thượng! (3)"
+    },
+    {
+      "num": 130,
+      "title": "Bí vật thần quỷ (1)"
+    },
+    {
+      "num": 131,
+      "title": "Bí vật thần quỷ (2)"
+    },
+    {
+      "num": 132,
+      "title": "Chiến lợi phẩm! (1)"
+    },
+    {
+      "num": 133,
+      "title": "Chiến lợi phẩm! (2)"
+    },
+    {
+      "num": 134,
+      "title": "Chiến lợi phẩm! (3)"
+    },
+    {
+      "num": 135,
+      "title": "Sự biến đổi của khí huyết (1)"
+    },
+    {
+      "num": 136,
+      "title": "Sự biến đổi của khí huyết (2)"
+    },
+    {
+      "num": 137,
+      "title": "Sự biến đổi của khí huyết (3)"
+    },
+    {
+      "num": 138,
+      "title": "Luyện tập phối hợp và năm điều của đội Trung Châu (1)"
+    },
+    {
+      "num": 139,
+      "title": "Luyện tập phối hợp và năm điều của đội Trung Châu (2)"
+    },
+    {
+      "num": 140,
+      "title": "Mỗi người một ngả và tiến vào (1)"
+    },
+    {
+      "num": 141,
+      "title": "Mỗi người một ngả và tiến vào (2)"
+    },
+    {
+      "num": 142,
+      "title": "Tử Thần Đã Đến Và Khởi Đầu Quỷ Dị (1)"
+    },
+    {
+      "num": 143,
+      "title": "Tử Thần Đã Đến Và Khởi Đầu Quỷ Dị (2)"
+    },
+    {
+      "num": 144,
+      "title": "Những nghi vấn rối như tơ vò (1)"
+    },
+    {
+      "num": 145,
+      "title": "Những nghi vấn rối như tơ vò (2)"
+    },
+    {
+      "num": 146,
+      "title": "Đồng đội tấn công (1)"
+    },
+    {
+      "num": 147,
+      "title": "Đồng đội tấn công (2)"
+    },
+    {
+      "num": 148,
+      "title": "Đồng đội tấn công (3)"
+    },
+    {
+      "num": 149,
+      "title": "Khả năng lãnh đạo tiềm ẩn (1)"
+    },
+    {
+      "num": 150,
+      "title": "Khả năng lãnh đạo tiềm ẩn (2)"
+    },
+    {
+      "num": 151,
+      "title": "Bóng đen đang đến gần (1)"
+    },
+    {
+      "num": 152,
+      "title": "Bóng đen đang đến gần (2)"
+    },
+    {
+      "num": 153,
+      "title": "Sắp đột phá tầng thứ ba (1)"
+    },
+    {
+      "num": 154,
+      "title": "Sắp đột phá tầng thứ ba (2)"
+    },
+    {
+      "num": 155,
+      "title": "Sắp đột phá tầng thứ ba (3)"
+    },
+    {
+      "num": 156,
+      "title": "Thần Chết không còn kiêng dè (1)"
+    },
+    {
+      "num": 157,
+      "title": "Thần Chết không còn kiêng dè (2)"
+    },
+    {
+      "num": 158,
+      "title": "Còn nhớ trận đấu tập năm ấy chứ! (1)"
+    },
+    {
+      "num": 159,
+      "title": "Còn nhớ trận đấu tập năm ấy chứ! (2)"
+    },
+    {
+      "num": 160,
+      "title": "Mũi tên đáng tiếc (1)"
+    },
+    {
+      "num": 161,
+      "title": "Mũi tên đáng tiếc (2)"
+    },
+    {
+      "num": 162,
+      "title": "Đội trưởng và mở khóa gen bậc ba (1)"
+    },
+    {
+      "num": 163,
+      "title": "Đội trưởng và mở khóa gen bậc ba (2)"
+    },
+    {
+      "num": 164,
+      "title": "Thay đổi! Đội Trung Châu trong vòng luân hồi! (1)"
+    },
+    {
+      "num": 165,
+      "title": "Thay đổi! Đội Trung Châu trong vòng luân hồi! (2)"
+    },
+    {
+      "num": 166,
+      "title": "Sức mạnh phải gánh vác và bước vào phim kinh dị (1)"
+    },
+    {
+      "num": 167,
+      "title": "Sức mạnh phải gánh vác và bước vào phim kinh dị (2)"
+    },
+    {
+      "num": 168,
+      "title": "Đột ngột! Nửa tiếng đồng hồ! (1)"
+    },
+    {
+      "num": 169,
+      "title": "Đột ngột! Nửa tiếng đồng hồ! (2)"
+    },
+    {
+      "num": 170,
+      "title": "Tuyệt Cảnh Thời Gian? (1)"
+    },
+    {
+      "num": 171,
+      "title": "Tuyệt Cảnh Thời Gian? (2)"
+    },
+    {
+      "num": 172,
+      "title": "Hoàng Hậu Thứ Hai! (1)"
+    },
+    {
+      "num": 173,
+      "title": "Hoàng Hậu Thứ Hai! (2)"
+    },
+    {
+      "num": 174,
+      "title": "Trận Chiến Ở Hướng Khác (1)"
+    },
+    {
+      "num": 175,
+      "title": "Trận Chiến Ở Hướng Khác (2)"
+    },
+    {
+      "num": 176,
+      "title": "Thể Tiến Hóa Của Alien (1)"
+    },
+    {
+      "num": 177,
+      "title": "Thể Tiến Hóa Của Alien (2)"
+    },
+    {
+      "num": 178,
+      "title": "Tử thần phía sau lưng (1)"
+    },
+    {
+      "num": 179,
+      "title": "Tử thần phía sau lưng (2)"
+    },
+    {
+      "num": 180,
+      "title": "Thập Tự Tái Sinh (1)"
+    },
+    {
+      "num": 181,
+      "title": "Thập Tự Tái Sinh (2)"
+    },
+    {
+      "num": 182,
+      "title": "Cường Hóa Lần Nữa (1)"
+    },
+    {
+      "num": 183,
+      "title": "Cường Hóa Lần Nữa (2)"
+    },
+    {
+      "num": 184,
+      "title": "Cường Hóa Lần Nữa (3)"
+    },
+    {
+      "num": 185,
+      "title": "Nghỉ ngơi bất chợt và tiến vào (1)"
+    },
+    {
+      "num": 186,
+      "title": "Nghỉ ngơi bất chợt và tiến vào (2)"
+    },
+    {
+      "num": 187,
+      "title": "Đội Luân Hồi Ác Ma! (1)"
+    },
+    {
+      "num": 188,
+      "title": "Đội Luân Hồi Ác Ma! (2)"
+    },
+    {
+      "num": 189,
+      "title": "Đội Luân Hồi Ác Ma! (3)"
+    },
+    {
+      "num": 190,
+      "title": "Đêm đen buông xuống (1)"
+    },
+    {
+      "num": 191,
+      "title": "Đêm đen buông xuống (2)"
+    },
+    {
+      "num": 192,
+      "title": "Đêm đen buông xuống (3)"
+    },
+    {
+      "num": 193,
+      "title": "Phần một và phần hai nối liền nhau (1)"
+    },
+    {
+      "num": 194,
+      "title": "Phần một và phần hai nối liền nhau (2)"
+    },
+    {
+      "num": 195,
+      "title": "Giao dịch (1)"
+    },
+    {
+      "num": 196,
+      "title": "Giao dịch (2)"
+    },
+    {
+      "num": 197,
+      "title": "Đội Ác Ma xuất hiện! (1)"
+    },
+    {
+      "num": 198,
+      "title": "Đội Ác Ma xuất hiện! (2)"
+    },
+    {
+      "num": 199,
+      "title": "Đại bùng phát của Resident Evil! (1)"
+    },
+    {
+      "num": 200,
+      "title": "Đại bùng phát của Resident Evil! (2)"
+    },
+    {
+      "num": 201,
+      "title": "Đại bùng phát của Resident Evil! (3)"
+    },
+    {
+      "num": 202,
+      "title": "Truy đuổi và bỏ trốn (1)"
+    },
+    {
+      "num": 203,
+      "title": "Truy đuổi và bỏ trốn (2)"
+    },
+    {
+      "num": 204,
+      "title": "Rơi xuống và hy vọng cách đó bảy mươi cây số (1)"
+    },
+    {
+      "num": 205,
+      "title": "Rơi xuống và hy vọng cách đó bảy mươi cây số (2)"
+    },
+    {
+      "num": 206,
+      "title": "Bốn đội (1)"
+    },
+    {
+      "num": 207,
+      "title": "Bốn đội (2)"
+    },
+    {
+      "num": 208,
+      "title": "Mở màn trận chiến sinh tử! (1)"
+    },
+    {
+      "num": 209,
+      "title": "Mở màn trận chiến sinh tử! (2)"
+    },
+    {
+      "num": 210,
+      "title": "Mở màn trận chiến sinh tử! (3)"
+    },
+    {
+      "num": 211,
+      "title": "Trận chiến đẫm máu (1)"
+    },
+    {
+      "num": 212,
+      "title": "Trận chiến đẫm máu (2)"
+    },
+    {
+      "num": 213,
+      "title": "Trận chiến đẫm máu (3)"
+    },
+    {
+      "num": 214,
+      "title": "Đạo sát thủ"
+    },
+    {
+      "num": 215,
+      "title": "Sự tàn nhẫn ẩn giấu (1)"
+    },
+    {
+      "num": 216,
+      "title": "Sự tàn nhẫn ẩn giấu (2)"
+    },
+    {
+      "num": 217,
+      "title": "Ánh Sáng, Bóng Tối Và Sự Khởi Đầu Của Đội Luân Hồi Mạnh Nhất! (1)"
+    },
+    {
+      "num": 218,
+      "title": "Ánh Sáng, Bóng Tối Và Sự Khởi Đầu Của Đội Luân Hồi Mạnh Nhất! (2)"
+    },
+    {
+      "num": 219,
+      "title": "Tính Toán Và Trở Lại (1)"
+    },
+    {
+      "num": 220,
+      "title": "Tính Toán Và Trở Lại (2)"
+    },
+    {
+      "num": 221,
+      "title": "Trở lại Hamunaptra lần nữa (1)"
+    },
+    {
+      "num": 222,
+      "title": "Trở lại Hamunaptra lần nữa (2)"
+    },
+    {
+      "num": 223,
+      "title": "Mạnh mẽ! Ngọn giáo phán quyết! (1)"
+    },
+    {
+      "num": 224,
+      "title": "Mạnh mẽ! Ngọn giáo phán quyết! (2)"
+    },
+    {
+      "num": 225,
+      "title": "Mạnh mẽ! Ngọn giáo phán quyết! (3)"
+    },
+    {
+      "num": 226,
+      "title": "Mười phút đoạt mạng (1)"
+    },
+    {
+      "num": 227,
+      "title": "Mười phút đoạt mạng (2)"
+    },
+    {
+      "num": 228,
+      "title": "Mười phút đoạt mạng (3)"
+    },
+    {
+      "num": 229,
+      "title": "Chuẩn Bị Khởi Đầu (1)"
+    },
+    {
+      "num": 230,
+      "title": "Chuẩn Bị Khởi Đầu (2)"
+    },
+    {
+      "num": 231,
+      "title": "Hành trình và tế lễ bất tử (1)"
+    },
+    {
+      "num": 232,
+      "title": "Hành trình và tế lễ bất tử (2)"
+    },
+    {
+      "num": 233,
+      "title": "Hành trình và tế lễ bất tử (3)"
+    },
+    {
+      "num": 234,
+      "title": "Đây là khỉ à? Nhật Chủ Thần (1)"
+    },
+    {
+      "num": 235,
+      "title": "Đây là khỉ à? Nhật Chủ Thần (2)"
+    },
+    {
+      "num": 236,
+      "title": "Tạm thời rút lui và hồi sinh Sở Hiên (1)"
+    },
+    {
+      "num": 237,
+      "title": "Tạm thời rút lui và hồi sinh Sở Hiên (2)"
+    },
+    {
+      "num": 238,
+      "title": "Tạm thời rút lui và hồi sinh Sở Hiên (3)"
+    },
+    {
+      "num": 239,
+      "title": "Độ khó và bom cháy (1)"
+    },
+    {
+      "num": 240,
+      "title": "Độ khó và bom cháy (2)"
+    },
+    {
+      "num": 241,
+      "title": "Sức mạnh bị tước đoạt (1)"
+    },
+    {
+      "num": 242,
+      "title": "Sức mạnh bị tước đoạt (2)"
+    },
+    {
+      "num": 243,
+      "title": "Khoảng Thời Gian Nhàn Nhã Và Sở Thích Của Sở Hiên (1)"
+    },
+    {
+      "num": 244,
+      "title": "Khoảng Thời Gian Nhàn Nhã Và Sở Thích Của Sở Hiên (2)"
+    },
+    {
+      "num": 245,
+      "title": "Khoảng Thời Gian Nhàn Nhã Và Sở Thích Của Sở Hiên (3)"
+    },
+    {
+      "num": 246,
+      "title": "Hình Thành Ban Đầu Của Đội Trung Châu (1)"
+    },
+    {
+      "num": 247,
+      "title": "Hình Thành Ban Đầu Của Đội Trung Châu (2)"
+    },
+    {
+      "num": 248,
+      "title": "Định hướng tương lai và tiến vào (1)"
+    },
+    {
+      "num": 249,
+      "title": "Định hướng tương lai và tiến vào (2)"
+    },
+    {
+      "num": 250,
+      "title": "Định hướng tương lai và tiến vào (3)"
+    },
+    {
+      "num": 251,
+      "title": "Địa điểm bắt đầu và giảm độ khó (1)"
+    },
+    {
+      "num": 252,
+      "title": "Địa điểm bắt đầu và giảm độ khó (2)"
+    },
+    {
+      "num": 253,
+      "title": "Hòn Đảo Khủng Long Bị Phong Tỏa (1)"
+    },
+    {
+      "num": 254,
+      "title": "Hòn Đảo Khủng Long Bị Phong Tỏa (2)"
+    },
+    {
+      "num": 255,
+      "title": "Hòn Đảo Khủng Long Bị Phong Tỏa (3)"
+    },
+    {
+      "num": 256,
+      "title": "May mắn và Đảo Khủng Long (1)"
+    },
+    {
+      "num": 257,
+      "title": "May mắn và Đảo Khủng Long (2)"
+    },
+    {
+      "num": 258,
+      "title": "May mắn và Đảo Khủng Long (3)"
+    },
+    {
+      "num": 259,
+      "title": "Nhiệm vụ phụ đầu tiên (1)"
+    },
+    {
+      "num": 260,
+      "title": "Nhiệm vụ phụ đầu tiên (2)"
+    },
+    {
+      "num": 261,
+      "title": "Giá Trị Của Việc Liều Mạng! (1)"
+    },
+    {
+      "num": 262,
+      "title": "Giá Trị Của Việc Liều Mạng! (2)"
+    },
+    {
+      "num": 263,
+      "title": "Giá Trị Của Việc Liều Mạng! (3)"
+    },
+    {
+      "num": 264,
+      "title": "Hỗn chiến! Hỗn chiến! (1)"
+    },
+    {
+      "num": 265,
+      "title": "Hỗn chiến! Hỗn chiến! (2)"
+    },
+    {
+      "num": 266,
+      "title": "Hỗn chiến! Hỗn chiến! (3)"
+    },
+    {
+      "num": 267,
+      "title": "Nhiệm vụ phụ cấp B (1)"
+    },
+    {
+      "num": 268,
+      "title": "Nhiệm vụ phụ cấp B (2)"
+    },
+    {
+      "num": 269,
+      "title": "Nhiệm vụ phụ cấp B (3)"
+    },
+    {
+      "num": 270,
+      "title": "Khủng Long Hào Hùng (1)"
+    },
+    {
+      "num": 271,
+      "title": "Khủng Long Hào Hùng (2)"
+    },
+    {
+      "num": 272,
+      "title": "Khủng Long Hào Hùng (3)"
+    },
+    {
+      "num": 273,
+      "title": "Khủng Long Hào Hùng (4)"
+    },
+    {
+      "num": 274,
+      "title": "Nhất định phải hồi sinh anh ấy! (1)"
+    },
+    {
+      "num": 275,
+      "title": "Nhất định phải hồi sinh anh ấy! (2)"
+    },
+    {
+      "num": 276,
+      "title": "Biến đổi, cứu chữa, thời gian (1)"
+    },
+    {
+      "num": 277,
+      "title": "Biến đổi, cứu chữa, thời gian (2)"
+    },
+    {
+      "num": 278,
+      "title": "Biến đổi, cứu chữa, thời gian (3)"
+    },
+    {
+      "num": 279,
+      "title": "Trở về (1)"
+    },
+    {
+      "num": 280,
+      "title": "Trở về (2)"
+    },
+    {
+      "num": 281,
+      "title": "Bội thu! (1)"
+    },
+    {
+      "num": 282,
+      "title": "Bội thu! (2)"
+    },
+    {
+      "num": 283,
+      "title": "Hồi sinh đi, những người đồng đội kề vai chiến đấu (1)"
+    },
+    {
+      "num": 284,
+      "title": "Hồi sinh đi, những người đồng đội kề vai chiến đấu (2)"
+    },
+    {
+      "num": 285,
+      "title": "Hồi sinh đi, những người đồng đội kề vai chiến đấu (3)"
+    },
+    {
+      "num": 286,
+      "title": "Hồi sinh đi, những người đồng đội kề vai chiến đấu (4)"
+    },
+    {
+      "num": 287,
+      "title": "Câu cá trước ngày xuất phát và cái ôm trong khoảnh khắc ấy (1)"
+    },
+    {
+      "num": 288,
+      "title": "Câu cá trước ngày xuất phát và cái ôm trong khoảnh khắc ấy (2)"
+    },
+    {
+      "num": 289,
+      "title": "Công pháp Hỗn Nguyên Nhất Khí (1)"
+    },
+    {
+      "num": 290,
+      "title": "Công pháp Hỗn Nguyên Nhất Khí (2)"
+    },
+    {
+      "num": 291,
+      "title": "Bay đến New York (1)"
+    },
+    {
+      "num": 292,
+      "title": "Bay đến New York (2)"
+    },
+    {
+      "num": 293,
+      "title": "Một, Hai, Ba (1)"
+    },
+    {
+      "num": 294,
+      "title": "Một, Hai, Ba (2)"
+    },
+    {
+      "num": 295,
+      "title": "Một, Hai, Ba (3)"
+    },
+    {
+      "num": 296,
+      "title": "Có thể điều khiển gen (1)"
+    },
+    {
+      "num": 297,
+      "title": "Có thể điều khiển gen (2)"
+    },
+    {
+      "num": 298,
+      "title": "Hàng lỗi (1)"
+    },
+    {
+      "num": 299,
+      "title": "Hàng lỗi (2)"
+    },
+    {
+      "num": 300,
+      "title": "Đánh úp trước bình minh (1)"
+    },
+    {
+      "num": 301,
+      "title": "Đánh úp trước bình minh (2)"
+    },
+    {
+      "num": 302,
+      "title": "Vô địch hay vẫn có điểm yếu? (1)"
+    },
+    {
+      "num": 303,
+      "title": "Vô địch hay vẫn có điểm yếu? (2)"
+    },
+    {
+      "num": 304,
+      "title": "Điểm yếu chí mạng và di tích cổ (1)"
+    },
+    {
+      "num": 305,
+      "title": "Điểm yếu chí mạng và di tích cổ (2)"
+    },
+    {
+      "num": 306,
+      "title": "Tìm kiếm di tích (1)"
+    },
+    {
+      "num": 307,
+      "title": "Tìm kiếm di tích (2)"
+    },
+    {
+      "num": 308,
+      "title": "Trở về, tổng kết, thực lực (1)"
+    },
+    {
+      "num": 309,
+      "title": "Trở về, tổng kết, thực lực (2)"
+    },
+    {
+      "num": 310,
+      "title": "Chế tạo lại robot (1)"
+    },
+    {
+      "num": 311,
+      "title": "Chế tạo lại robot (2)"
+    },
+    {
+      "num": 312,
+      "title": "Chuẩn bị và huấn luyện (1)"
+    },
+    {
+      "num": 313,
+      "title": "Chuẩn bị và huấn luyện (2)"
+    },
+    {
+      "num": 314,
+      "title": "Chuẩn bị và huấn luyện (3)"
+    },
+    {
+      "num": 315,
+      "title": "Hoàn tất và tiến vào (1)"
+    },
+    {
+      "num": 316,
+      "title": "Hoàn tất và tiến vào (2)"
+    },
+    {
+      "num": 317,
+      "title": "Hoàn tất và tiến vào (3)"
+    },
+    {
+      "num": 318,
+      "title": "Điểm tiến vào (1)"
+    },
+    {
+      "num": 319,
+      "title": "Điểm tiến vào (2)"
+    },
+    {
+      "num": 320,
+      "title": "Giết chóc (1)"
+    },
+    {
+      "num": 321,
+      "title": "Giết chóc (2)"
+    },
+    {
+      "num": 322,
+      "title": "Bầy côn trùng đáng sợ (1)"
+    },
+    {
+      "num": 323,
+      "title": "Bầy côn trùng đáng sợ (2)"
+    },
+    {
+      "num": 324,
+      "title": "Bầy côn trùng đáng sợ (3)"
+    },
+    {
+      "num": 325,
+      "title": "Vị trí! (1)"
+    },
+    {
+      "num": 326,
+      "title": "Vị trí! (2)"
+    },
+    {
+      "num": 327,
+      "title": "Trung sĩ chỉ huy và bảy giờ cố thủ! (1)"
+    },
+    {
+      "num": 328,
+      "title": "Trung sĩ chỉ huy và bảy giờ cố thủ! (2)"
+    },
+    {
+      "num": 329,
+      "title": "Trung sĩ chỉ huy và bảy giờ cố thủ! (3)"
+    },
+    {
+      "num": 330,
+      "title": "Trận chiến phòng thủ khốc liệt (1)"
+    },
+    {
+      "num": 331,
+      "title": "Trận chiến phòng thủ khốc liệt (2)"
+    },
+    {
+      "num": 332,
+      "title": "Trận chiến phòng thủ khốc liệt (3)"
+    },
+    {
+      "num": 333,
+      "title": "Nếu phải chết, thì không phải hôm nay! (1)"
+    },
+    {
+      "num": 334,
+      "title": "Nếu phải chết, thì không phải hôm nay! (2)"
+    },
+    {
+      "num": 335,
+      "title": "Trận chiến đẫm máu và trở về (1)"
+    },
+    {
+      "num": 336,
+      "title": "Trận chiến đẫm máu và trở về (2)"
+    },
+    {
+      "num": 337,
+      "title": "Trận chiến đẫm máu và trở về (3)"
+    },
+    {
+      "num": 338,
+      "title": "Tạo Thế (1)"
+    },
+    {
+      "num": 339,
+      "title": "Tạo Thế (2)"
+    },
+    {
+      "num": 340,
+      "title": "Tạo Thế (3)"
+    },
+    {
+      "num": 341,
+      "title": "Đội ngũ bất hòa và phô diễn sức mạnh (1)"
+    },
+    {
+      "num": 342,
+      "title": "Đội ngũ bất hòa và phô diễn sức mạnh (2)"
+    },
+    {
+      "num": 343,
+      "title": "Răn đe (1)"
+    },
+    {
+      "num": 344,
+      "title": "Răn đe (2)"
+    },
+    {
+      "num": 345,
+      "title": "Ván Cờ (1)"
+    },
+    {
+      "num": 346,
+      "title": "Ván Cờ (2)"
+    },
+    {
+      "num": 347,
+      "title": "Ván Cờ (3)"
+    },
+    {
+      "num": 348,
+      "title": "Phá vỡ thế bí (1)"
+    },
+    {
+      "num": 349,
+      "title": "Phá vỡ thế bí (2)"
+    },
+    {
+      "num": 350,
+      "title": "Phá vỡ thế bí (3)"
+    },
+    {
+      "num": 351,
+      "title": "Tự tạo kỹ năng (1)"
+    },
+    {
+      "num": 352,
+      "title": "Tự tạo kỹ năng (2)"
+    },
+    {
+      "num": 353,
+      "title": "Tự tạo kỹ năng (3)"
+    },
+    {
+      "num": 354,
+      "title": "Đường cùng của đội Nam Viêm (1)"
+    },
+    {
+      "num": 355,
+      "title": "Đường cùng của đội Nam Viêm (2)"
+    },
+    {
+      "num": 356,
+      "title": "Đường cùng của đội Nam Viêm (3)"
+    },
+    {
+      "num": 357,
+      "title": "Lời tiên đoán đã thành hiện thực (1)"
+    },
+    {
+      "num": 358,
+      "title": "Lời tiên đoán đã thành hiện thực (2)"
+    },
+    {
+      "num": 359,
+      "title": "Chiến thuật giữ một trong bảy (1)"
+    },
+    {
+      "num": 360,
+      "title": "Chiến thuật giữ một trong bảy (2)"
+    },
+    {
+      "num": 361,
+      "title": "Không Nương Tay (1)"
+    },
+    {
+      "num": 362,
+      "title": "Không Nương Tay (2)"
+    },
+    {
+      "num": 363,
+      "title": "Những Cá Thể Mạnh Mẽ (1)"
+    },
+    {
+      "num": 364,
+      "title": "Những Cá Thể Mạnh Mẽ (2)"
+    },
+    {
+      "num": 365,
+      "title": "Sống Chết Có Nhau (1)"
+    },
+    {
+      "num": 366,
+      "title": "Sống Chết Có Nhau (2)"
+    },
+    {
+      "num": 367,
+      "title": "Sống Chết Có Nhau (3)"
+    },
+    {
+      "num": 368,
+      "title": "Sức Mạnh (1)"
+    },
+    {
+      "num": 369,
+      "title": "Sức Mạnh (2)"
+    },
+    {
+      "num": 370,
+      "title": "Sức Mạnh (3)"
+    },
+    {
+      "num": 371,
+      "title": "Giải cứu"
+    },
+    {
+      "num": 372,
+      "title": "Một Phát Súng (1)"
+    },
+    {
+      "num": 373,
+      "title": "Một Phát Súng (2)"
+    },
+    {
+      "num": 374,
+      "title": "Một Phát Súng (3)"
+    },
+    {
+      "num": 375,
+      "title": "Trở Về (1)"
+    },
+    {
+      "num": 376,
+      "title": "Trở Về (2)"
+    },
+    {
+      "num": 377,
+      "title": "Sức Mạnh Tăng Vọt (1)"
+    },
+    {
+      "num": 378,
+      "title": "Sức Mạnh Tăng Vọt (2)"
+    },
+    {
+      "num": 379,
+      "title": "Sức Mạnh Tăng Vọt (3)"
+    },
+    {
+      "num": 380,
+      "title": "Đã lâu không gặp, đồng đội! (1)"
+    },
+    {
+      "num": 381,
+      "title": "Đã lâu không gặp, đồng đội! (2)"
+    },
+    {
+      "num": 382,
+      "title": "Đã lâu không gặp, đồng đội! (3)"
+    },
+    {
+      "num": 383,
+      "title": "Cường hóa cả đội (1)"
+    },
+    {
+      "num": 384,
+      "title": "Cường hóa cả đội (2)"
+    },
+    {
+      "num": 385,
+      "title": "Cường hóa cả đội (3)"
+    },
+    {
+      "num": 386,
+      "title": "Trở lại thế giới Sinh Hóa"
+    },
+    {
+      "num": 387,
+      "title": "Công Ty Umbrella (1)"
+    },
+    {
+      "num": 388,
+      "title": "Công Ty Umbrella (2)"
+    },
+    {
+      "num": 389,
+      "title": "Mật Khẩu (1)"
+    },
+    {
+      "num": 390,
+      "title": "Mật Khẩu (2)"
+    },
+    {
+      "num": 391,
+      "title": "Mật Khẩu (3)"
+    },
+    {
+      "num": 392,
+      "title": "Nhiệm vụ phụ bất ngờ (1)"
+    },
+    {
+      "num": 393,
+      "title": "Nhiệm vụ phụ bất ngờ (2)"
+    },
+    {
+      "num": 394,
+      "title": "Kế hoạch mồi nhử (1)"
+    },
+    {
+      "num": 395,
+      "title": "Kế hoạch mồi nhử (2)"
+    },
+    {
+      "num": 396,
+      "title": "Cơn thịnh nộ (1)"
+    },
+    {
+      "num": 397,
+      "title": "Cơn thịnh nộ (2)"
+    },
+    {
+      "num": 398,
+      "title": "Cơn thịnh nộ (3)"
+    },
+    {
+      "num": 399,
+      "title": "Kế hoạch tập kích (1)"
+    },
+    {
+      "num": 400,
+      "title": "Kế hoạch tập kích (2)"
+    },
+    {
+      "num": 401,
+      "title": "Tấn công! Đánh úp! (1)"
+    },
+    {
+      "num": 402,
+      "title": "Tấn công! Đánh úp! (2)"
+    },
+    {
+      "num": 403,
+      "title": "Sức chiến đấu của đội Trung Châu (1)"
+    },
+    {
+      "num": 404,
+      "title": "Sức chiến đấu của đội Trung Châu (2)"
+    },
+    {
+      "num": 405,
+      "title": "Trái tim sát phạt (1)"
+    },
+    {
+      "num": 406,
+      "title": "Trái tim sát phạt (2)"
+    },
+    {
+      "num": 407,
+      "title": "Linh cảm ngày trở về gặp lại (1)"
+    },
+    {
+      "num": 408,
+      "title": "Linh cảm ngày trở về gặp lại (2)"
+    },
+    {
+      "num": 409,
+      "title": "Nỗi Lòng Của Triệu Anh Không Và Tiến Vào Thế Giới Mới"
+    },
+    {
+      "num": 410,
+      "title": "Cuộc Chiến Điên Cuồng Giữa Năm Đội (1)"
+    },
+    {
+      "num": 411,
+      "title": "Cuộc Chiến Điên Cuồng Giữa Năm Đội (2)"
+    },
+    {
+      "num": 412,
+      "title": "Bước Thứ Năm Sắp Đến (1)"
+    },
+    {
+      "num": 413,
+      "title": "Bước Thứ Năm Sắp Đến (2)"
+    },
+    {
+      "num": 414,
+      "title": "Nhân Vật Trong Cốt Truyện Đáng Sợ — Nazgûl (1)"
+    },
+    {
+      "num": 415,
+      "title": "Nhân Vật Trong Cốt Truyện Đáng Sợ — Nazgûl (2)"
+    },
+    {
+      "num": 416,
+      "title": "Chạy bán sống bán chết (1)"
+    },
+    {
+      "num": 417,
+      "title": "Chạy bán sống bán chết (2)"
+    },
+    {
+      "num": 418,
+      "title": "Chạy bán sống bán chết (3)"
+    },
+    {
+      "num": 419,
+      "title": "Chạy bán sống bán chết (4)"
+    },
+    {
+      "num": 420,
+      "title": "Những Chiến Mã Xương Có Thể Cưỡi (1)"
+    },
+    {
+      "num": 421,
+      "title": "Những Chiến Mã Xương Có Thể Cưỡi (2)"
+    },
+    {
+      "num": 422,
+      "title": "Sóng Chân Không Thiểm Linh, đồng đội mạnh lên (1)"
+    },
+    {
+      "num": 423,
+      "title": "Sóng Chân Không Thiểm Linh, đồng đội mạnh lên (2)"
+    },
+    {
+      "num": 424,
+      "title": "Thủ đô Tiên tộc và đội Đông Mỹ Châu (1)"
+    },
+    {
+      "num": 425,
+      "title": "Thủ đô Tiên tộc và đội Đông Mỹ Châu (2)"
+    },
+    {
+      "num": 426,
+      "title": "Rivendell (1)"
+    },
+    {
+      "num": 427,
+      "title": "Rivendell (2)"
+    },
+    {
+      "num": 428,
+      "title": "Rivendell (3)"
+    },
+    {
+      "num": 429,
+      "title": "Sự chấn động của phép thuật chân chính (1)"
+    },
+    {
+      "num": 430,
+      "title": "Sự chấn động của phép thuật chân chính (2)"
+    },
+    {
+      "num": 431,
+      "title": "Đường hầm Moria (1)"
+    },
+    {
+      "num": 432,
+      "title": "Đường hầm Moria (2)"
+    },
+    {
+      "num": 433,
+      "title": "Kho báu và giết chóc (1)"
+    },
+    {
+      "num": 434,
+      "title": "Kho báu và giết chóc (2)"
+    },
+    {
+      "num": 435,
+      "title": "Kho báu và giết chóc (3)"
+    },
+    {
+      "num": 436,
+      "title": "Kẻ thù của các vị thánh thời cổ đại, ác quỷ từ thuở xa xưa (1)"
+    },
+    {
+      "num": 437,
+      "title": "Kẻ thù của các vị thánh thời cổ đại, ác quỷ từ thuở xa xưa (2)"
+    },
+    {
+      "num": 438,
+      "title": "Nhất định tôi sẽ trả lại cho anh (1)"
+    },
+    {
+      "num": 439,
+      "title": "Nhất định tôi sẽ trả lại cho anh (2)"
+    },
+    {
+      "num": 440,
+      "title": "Nghỉ ngơi sau trận chiến lớn (1)"
+    },
+    {
+      "num": 441,
+      "title": "Nghỉ ngơi sau trận chiến lớn (2)"
+    },
+    {
+      "num": 442,
+      "title": "Mưu đồ bí mật (1)"
+    },
+    {
+      "num": 443,
+      "title": "Mưu đồ bí mật (2)"
+    },
+    {
+      "num": 444,
+      "title": "Lên đường lần nữa (1)"
+    },
+    {
+      "num": 445,
+      "title": "Lên đường lần nữa (2)"
+    },
+    {
+      "num": 446,
+      "title": "Uruk-hai (1)"
+    },
+    {
+      "num": 447,
+      "title": "Uruk-hai (2)"
+    },
+    {
+      "num": 448,
+      "title": "Đường Ai Nấy Đi (1)"
+    },
+    {
+      "num": 449,
+      "title": "Đường Ai Nấy Đi (2)"
+    },
+    {
+      "num": 450,
+      "title": "Đường Ai Nấy Đi (3)"
+    },
+    {
+      "num": 451,
+      "title": "Kỵ binh thép Rohan (1)"
+    },
+    {
+      "num": 452,
+      "title": "Kỵ binh thép Rohan (2)"
+    },
+    {
+      "num": 453,
+      "title": "Chuyến đi đến nước Rohan (1)"
+    },
+    {
+      "num": 454,
+      "title": "Chuyến đi đến nước Rohan (2)"
+    },
+    {
+      "num": 455,
+      "title": "Giải Phong Ấn Và Đánh Du Kích (1)"
+    },
+    {
+      "num": 456,
+      "title": "Giải Phong Ấn Và Đánh Du Kích (2)"
+    },
+    {
+      "num": 457,
+      "title": "Động thái của các đội và màn làm loạn của La Ứng Long (1)"
+    },
+    {
+      "num": 458,
+      "title": "Động thái của các đội và màn làm loạn của La Ứng Long (2)"
+    },
+    {
+      "num": 459,
+      "title": "Chiến tranh, chiến tranh! (1)"
+    },
+    {
+      "num": 460,
+      "title": "Chiến tranh, chiến tranh! (2)"
+    },
+    {
+      "num": 461,
+      "title": "Cái chết của Sở Hiên và một kế hoạch khác? (1)"
+    },
+    {
+      "num": 462,
+      "title": "Cái chết của Sở Hiên và một kế hoạch khác? (2)"
+    },
+    {
+      "num": 463,
+      "title": "Đội còn lại biến mất và tái xuất"
+    },
+    {
+      "num": 464,
+      "title": "Sắp xếp trước trận chiến, tình hình các đội (1)"
+    },
+    {
+      "num": 465,
+      "title": "Sắp xếp trước trận chiến, tình hình các đội (2)"
+    },
+    {
+      "num": 466,
+      "title": "Lên đường! Minas Tirith, thủ đô của Gondor (1)"
+    },
+    {
+      "num": 467,
+      "title": "Lên đường! Minas Tirith, thủ đô của Gondor (2)"
+    },
+    {
+      "num": 468,
+      "title": "Lên đường! Minas Tirith, thủ đô của Gondor (3)"
+    },
+    {
+      "num": 469,
+      "title": "Lên đường! Minas Tirith, thủ đô của Gondor (4)"
+    },
+    {
+      "num": 470,
+      "title": "Trận chiến bắt đầu (1)"
+    },
+    {
+      "num": 471,
+      "title": "Trận chiến bắt đầu (2)"
+    },
+    {
+      "num": 472,
+      "title": "Đọ sức mạnh và cấp độ! Sống hay chết (1)"
+    },
+    {
+      "num": 473,
+      "title": "Đọ sức mạnh và cấp độ! Sống hay chết (2)"
+    },
+    {
+      "num": 474,
+      "title": "Trịnh Tra lâm vào đường cùng, Sở Hiên tái xuất (1)"
+    },
+    {
+      "num": 475,
+      "title": "Trịnh Tra lâm vào đường cùng, Sở Hiên tái xuất (2)"
+    },
+    {
+      "num": 476,
+      "title": "Trịnh Tra lâm vào đường cùng, Sở Hiên tái xuất (3)"
+    },
+    {
+      "num": 477,
+      "title": "Sự Nhượng Bộ Của Đội Thiên Thần (1)"
+    },
+    {
+      "num": 478,
+      "title": "Sự Nhượng Bộ Của Đội Thiên Thần (2)"
+    },
+    {
+      "num": 479,
+      "title": "Sự Nhượng Bộ Của Đội Thiên Thần (3)"
+    },
+    {
+      "num": 480,
+      "title": "Hỗn chiến tại Mordor và trở về (1)"
+    },
+    {
+      "num": 481,
+      "title": "Hỗn chiến tại Mordor và trở về (2)"
+    },
+    {
+      "num": 482,
+      "title": "Hỗn chiến tại Mordor và trở về (3)"
+    },
+    {
+      "num": 483,
+      "title": "Hỗn chiến tại Mordor và trở về (4)"
+    },
+    {
+      "num": 484,
+      "title": "Hỗn chiến tại Mordor và trở về (5)"
+    },
+    {
+      "num": 485,
+      "title": "Đây mới là thu hoạch thật sự (1)"
+    },
+    {
+      "num": 486,
+      "title": "Đây mới là thu hoạch thật sự (2)"
+    },
+    {
+      "num": 487,
+      "title": "Bức Thư Từ Trung Quốc (1)"
+    },
+    {
+      "num": 488,
+      "title": "Bức Thư Từ Trung Quốc (2)"
+    },
+    {
+      "num": 489,
+      "title": "Tận thế biến hình (1)"
+    },
+    {
+      "num": 490,
+      "title": "Tận thế biến hình (2)"
+    },
+    {
+      "num": 491,
+      "title": "Sát khí Bạch Hổ và Lò Bát Quái (1)"
+    },
+    {
+      "num": 492,
+      "title": "Sát khí Bạch Hổ và Lò Bát Quái (2)"
+    },
+    {
+      "num": 493,
+      "title": "Không ngừng mạnh lên và tiến vào (1)"
+    },
+    {
+      "num": 494,
+      "title": "Không ngừng mạnh lên và tiến vào (2)"
+    },
+    {
+      "num": 495,
+      "title": "Thế giới đã đến ngày tận thế (1)"
+    },
+    {
+      "num": 496,
+      "title": "Thế giới đã đến ngày tận thế (2)"
+    },
+    {
+      "num": 497,
+      "title": "Hy vọng vẫn chưa bị từ bỏ (1)"
+    },
+    {
+      "num": 498,
+      "title": "Hy vọng vẫn chưa bị từ bỏ (2)"
+    },
+    {
+      "num": 499,
+      "title": "Hy vọng vẫn chưa bị từ bỏ (3)"
+    },
+    {
+      "num": 500,
+      "title": "Hy vọng vẫn chưa bị từ bỏ (4)"
+    },
+    {
+      "num": 501,
+      "title": "Tìm kiếm và đoạt mật mã bằng trí kế (1)"
+    },
+    {
+      "num": 502,
+      "title": "Tìm kiếm và đoạt mật mã bằng trí kế (2)"
+    },
+    {
+      "num": 503,
+      "title": "Lấy được mật mã (1)"
+    },
+    {
+      "num": 504,
+      "title": "Lấy được mật mã (2)"
+    },
+    {
+      "num": 505,
+      "title": "Gài bẫy và bị gài bẫy (1)"
+    },
+    {
+      "num": 506,
+      "title": "Gài bẫy và bị gài bẫy (2)"
+    },
+    {
+      "num": 507,
+      "title": "Tất cả hóa thành tro bụi và tấn công!"
+    },
+    {
+      "num": 508,
+      "title": "Trịnh Tra! (1)"
+    },
+    {
+      "num": 509,
+      "title": "Trịnh Tra! (2)"
+    },
+    {
+      "num": 510,
+      "title": "Một Niệm Thành Ma (1)"
+    },
+    {
+      "num": 511,
+      "title": "Một Niệm Thành Ma (2)"
+    },
+    {
+      "num": 512,
+      "title": "Tan Vỡ và Robot Hàng Không Mẫu Hạm (1)"
+    },
+    {
+      "num": 513,
+      "title": "Tan Vỡ và Robot Hàng Không Mẫu Hạm (2)"
+    },
+    {
+      "num": 514,
+      "title": "Tan Vỡ và Robot Hàng Không Mẫu Hạm (3)"
+    },
+    {
+      "num": 515,
+      "title": "Số phận của đội Trung Châu và trở về (1)"
+    },
+    {
+      "num": 516,
+      "title": "Số phận của đội Trung Châu và trở về (2)"
+    },
+    {
+      "num": 517,
+      "title": "Số phận của đội Trung Châu và trở về (3)"
+    },
+    {
+      "num": 518,
+      "title": "Tương lai nghiệt ngã (1)"
+    },
+    {
+      "num": 519,
+      "title": "Tương lai nghiệt ngã (2)"
+    },
+    {
+      "num": 520,
+      "title": "Tương lai nghiệt ngã (3)"
+    },
+    {
+      "num": 521,
+      "title": "Nỗi sợ hãi và thu hoạch từ tháp pháp sư (1)"
+    },
+    {
+      "num": 522,
+      "title": "Nỗi sợ hãi và thu hoạch từ tháp pháp sư (2)"
+    },
+    {
+      "num": 523,
+      "title": "Nỗi sợ hãi và thu hoạch từ tháp pháp sư (3)"
+    },
+    {
+      "num": 524,
+      "title": "Tiến vào thế giới quỷ dữ (1)"
+    },
+    {
+      "num": 525,
+      "title": "Tiến vào thế giới quỷ dữ (2)"
+    },
+    {
+      "num": 526,
+      "title": "Nỗi Kinh Hoàng Khởi Đầu (1)"
+    },
+    {
+      "num": 527,
+      "title": "Nỗi Kinh Hoàng Khởi Đầu (2)"
+    },
+    {
+      "num": 528,
+      "title": "Ký ức ác quỷ (1)"
+    },
+    {
+      "num": 529,
+      "title": "Ký ức ác quỷ (2)"
+    },
+    {
+      "num": 530,
+      "title": "Sự sụp đổ của Hằng (1)"
+    },
+    {
+      "num": 531,
+      "title": "Sự sụp đổ của Hằng (2)"
+    },
+    {
+      "num": 532,
+      "title": "Tòa nhà nóng bỏng và cậu bé đang khóc (1)"
+    },
+    {
+      "num": 533,
+      "title": "Tòa nhà nóng bỏng và cậu bé đang khóc (2)"
+    },
+    {
+      "num": 534,
+      "title": "Tiếng chuông lúc nửa đêm (1)"
+    },
+    {
+      "num": 535,
+      "title": "Tiếng chuông lúc nửa đêm (2)"
+    },
+    {
+      "num": 536,
+      "title": "Bộ phim kinh dị vô nghiệm (1)"
+    },
+    {
+      "num": 537,
+      "title": "Bộ phim kinh dị vô nghiệm (2)"
+    },
+    {
+      "num": 538,
+      "title": "Thời khắc hoa anh đào rơi xuống (1)"
+    },
+    {
+      "num": 539,
+      "title": "Thời khắc hoa anh đào rơi xuống (2)"
+    },
+    {
+      "num": 540,
+      "title": "Toàn diệt! (1)"
+    },
+    {
+      "num": 541,
+      "title": "Toàn diệt! (2)"
+    },
+    {
+      "num": 542,
+      "title": "Toàn diệt! (3)"
+    },
+    {
+      "num": 543,
+      "title": "Phá rồi mới lập, bại rồi mới thành (1)"
+    },
+    {
+      "num": 544,
+      "title": "Phá rồi mới lập, bại rồi mới thành (2)"
+    },
+    {
+      "num": 545,
+      "title": "Phá rồi mới lập, bại rồi mới thành (3)"
+    },
+    {
+      "num": 546,
+      "title": "Phá rồi mới lập, bại rồi mới thành (4)"
+    },
+    {
+      "num": 547,
+      "title": "Phá rồi mới lập, bại rồi mới thành (5)"
+    },
+    {
+      "num": 548,
+      "title": "Phá rồi mới lập, bại rồi mới thành (6)"
+    },
+    {
+      "num": 549,
+      "title": "Phá rồi mới lập, bại rồi mới thành (7)"
+    },
+    {
+      "num": 550,
+      "title": "Phá rồi mới lập, bại rồi mới thành (8)"
+    },
+    {
+      "num": 551,
+      "title": "Phá rồi mới lập, bại rồi mới thành (9)"
+    },
+    {
+      "num": 552,
+      "title": "Phá rồi mới lập, bại rồi mới thành (10)"
+    },
+    {
+      "num": 553,
+      "title": "Phá rồi mới lập, bại rồi mới thành (11)"
+    },
+    {
+      "num": 554,
+      "title": "Phá rồi mới lập, bại rồi mới thành (12)"
+    },
+    {
+      "num": 555,
+      "title": "Thắng thảm (1)"
+    },
+    {
+      "num": 556,
+      "title": "Thắng thảm (2)"
+    },
+    {
+      "num": 557,
+      "title": "Những ngày tháng mất đi Trịnh Tra (1)"
+    },
+    {
+      "num": 558,
+      "title": "Những ngày tháng mất đi Trịnh Tra (2)"
+    },
+    {
+      "num": 559,
+      "title": "Trịnh Tra sống lại (1)"
+    },
+    {
+      "num": 560,
+      "title": "Trịnh Tra sống lại (2)"
+    },
+    {
+      "num": 561,
+      "title": "Trịnh Tra sống lại (3)"
+    },
+    {
+      "num": 562,
+      "title": "Mưu tính của Sở Hiên và sức mạnh của Trịnh Tra (1)"
+    },
+    {
+      "num": 563,
+      "title": "Mưu tính của Sở Hiên và sức mạnh của Trịnh Tra (2)"
+    },
+    {
+      "num": 564,
+      "title": "Mưu tính của Sở Hiên và sức mạnh của Trịnh Tra (3)"
+    },
+    {
+      "num": 565,
+      "title": "Hành trình kinh hãi thần thoại (1)"
+    },
+    {
+      "num": 566,
+      "title": "Hành trình kinh hãi thần thoại (2)"
+    },
+    {
+      "num": 567,
+      "title": "Làm Loạn Thượng Hải (1)"
+    },
+    {
+      "num": 568,
+      "title": "Làm Loạn Thượng Hải (2)"
+    },
+    {
+      "num": 569,
+      "title": "Trận Đầu Với Lực Sĩ Khăn Vàng, Chia Quân Thành Hai Ngả (1)"
+    },
+    {
+      "num": 570,
+      "title": "Trận Đầu Với Lực Sĩ Khăn Vàng, Chia Quân Thành Hai Ngả (2)"
+    },
+    {
+      "num": 571,
+      "title": "Trận Đầu Với Lực Sĩ Khăn Vàng, Chia Quân Thành Hai Ngả (3)"
+    },
+    {
+      "num": 572,
+      "title": "Trận Đầu Với Lực Sĩ Khăn Vàng, Chia Quân Thành Hai Ngả (4)"
+    },
+    {
+      "num": 573,
+      "title": "Trận Đầu Với Lực Sĩ Khăn Vàng, Chia Quân Thành Hai Ngả (5)"
+    },
+    {
+      "num": 574,
+      "title": "Quyền lực tuyệt đối (1)"
+    },
+    {
+      "num": 575,
+      "title": "Quyền lực tuyệt đối (2)"
+    },
+    {
+      "num": 576,
+      "title": "Quyền lực tuyệt đối (3)"
+    },
+    {
+      "num": 577,
+      "title": "Quyền lực tuyệt đối (4)"
+    },
+    {
+      "num": 578,
+      "title": "Quyền lực tuyệt đối (5)"
+    },
+    {
+      "num": 579,
+      "title": "Quyền lực tuyệt đối (6)"
+    },
+    {
+      "num": 580,
+      "title": "Mối họa ngầm và trái tim của Triệu Anh Không (1)"
+    },
+    {
+      "num": 581,
+      "title": "Mối họa ngầm và trái tim của Triệu Anh Không (2)"
+    },
+    {
+      "num": 582,
+      "title": "Mối họa ngầm và trái tim của Triệu Anh Không (3)"
+    },
+    {
+      "num": 583,
+      "title": "Manh mối tượng Phật và liên minh (1)"
+    },
+    {
+      "num": 584,
+      "title": "Manh mối tượng Phật và liên minh (2)"
+    },
+    {
+      "num": 585,
+      "title": "Manh mối tượng Phật và liên minh (3)"
+    },
+    {
+      "num": 586,
+      "title": "Manh mối tượng Phật và liên minh (4)"
+    },
+    {
+      "num": 587,
+      "title": "Giấc mơ và mối đe dọa từ Hoàng Cân Lực Sĩ (1)"
+    },
+    {
+      "num": 588,
+      "title": "Giấc mơ và mối đe dọa từ Hoàng Cân Lực Sĩ (2)"
+    },
+    {
+      "num": 589,
+      "title": "Giấc mơ và mối đe dọa từ Hoàng Cân Lực Sĩ (3)"
+    },
+    {
+      "num": 590,
+      "title": "Ván Này Dùng Sức Mạnh Phá Giải Mưu Kế (1)"
+    },
+    {
+      "num": 591,
+      "title": "Ván Này Dùng Sức Mạnh Phá Giải Mưu Kế (2)"
+    },
+    {
+      "num": 592,
+      "title": "Ván Này Dùng Sức Mạnh Phá Giải Mưu Kế (3)"
+    },
+    {
+      "num": 593,
+      "title": "Ván Này Dùng Sức Mạnh Phá Giải Mưu Kế (4)"
+    },
+    {
+      "num": 594,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (1)"
+    },
+    {
+      "num": 595,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (2)"
+    },
+    {
+      "num": 596,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (3)"
+    },
+    {
+      "num": 597,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (4)"
+    },
+    {
+      "num": 598,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (5)"
+    },
+    {
+      "num": 599,
+      "title": "Kế hoạch cuối cùng và sự thay đổi của Anh Không (6)"
+    },
+    {
+      "num": 600,
+      "title": "Uy lực của pháo ma động (1)"
+    },
+    {
+      "num": 601,
+      "title": "Uy lực của pháo ma động (2)"
+    },
+    {
+      "num": 602,
+      "title": "Uy lực của pháo ma động (3)"
+    },
+    {
+      "num": 603,
+      "title": "Tỉnh lại và MG lõm vào (1)"
+    },
+    {
+      "num": 604,
+      "title": "Tỉnh lại và MG lõm vào (2)"
+    },
+    {
+      "num": 605,
+      "title": "Tỉnh lại và MG lõm vào (3)"
+    },
+    {
+      "num": 606,
+      "title": "Tỉnh lại và MG lõm vào (4)"
+    },
+    {
+      "num": 607,
+      "title": "Tỉnh lại và MG lõm vào (5)"
+    },
+    {
+      "num": 608,
+      "title": "Tỉnh lại và MG lõm vào (6)"
+    },
+    {
+      "num": 609,
+      "title": "Tỉnh lại và MG lõm vào (7)"
+    },
+    {
+      "num": 610,
+      "title": "Thần số một (1)"
+    },
+    {
+      "num": 611,
+      "title": "Thần số một (2)"
+    },
+    {
+      "num": 612,
+      "title": "Thần số một (3)"
+    },
+    {
+      "num": 613,
+      "title": "Thần số một (4)"
+    },
+    {
+      "num": 614,
+      "title": "Thức Tỉnh (1)"
+    },
+    {
+      "num": 615,
+      "title": "Thức Tỉnh (2)"
+    },
+    {
+      "num": 616,
+      "title": "Thức Tỉnh (3)"
+    },
+    {
+      "num": 617,
+      "title": "Thức Tỉnh (4)"
+    },
+    {
+      "num": 618,
+      "title": "Kết cục kinh hồn và trở về (1)"
+    },
+    {
+      "num": 619,
+      "title": "Kết cục kinh hồn và trở về (2)"
+    },
+    {
+      "num": 620,
+      "title": "Kết cục kinh hồn và trở về (3)"
+    },
+    {
+      "num": 621,
+      "title": "Kết cục kinh hồn và trở về (4)"
+    },
+    {
+      "num": 622,
+      "title": "Kết cục kinh hồn và trở về (5)"
+    },
+    {
+      "num": 623,
+      "title": "Tu chân! Tu chân? (1)"
+    },
+    {
+      "num": 624,
+      "title": "Tu chân! Tu chân? (2)"
+    },
+    {
+      "num": 625,
+      "title": "Triệu Anh Không và Triệu Anh Không chuẩn bị! (1)"
+    },
+    {
+      "num": 626,
+      "title": "Triệu Anh Không và Triệu Anh Không chuẩn bị! (2)"
+    },
+    {
+      "num": 627,
+      "title": "Thiên Sát phản kích (1)"
+    },
+    {
+      "num": 628,
+      "title": "Thiên Sát phản kích (2)"
+    },
+    {
+      "num": 629,
+      "title": "Điểm thiện ác và khởi đầu (1)"
+    },
+    {
+      "num": 630,
+      "title": "Điểm thiện ác và khởi đầu (2)"
+    },
+    {
+      "num": 631,
+      "title": "Đội Tây Hải xuất hiện và pháo kích! (1)"
+    },
+    {
+      "num": 632,
+      "title": "Đội Tây Hải xuất hiện và pháo kích! (2)"
+    },
+    {
+      "num": 633,
+      "title": "Đội Tây Hải xuất hiện và pháo kích! (3)"
+    },
+    {
+      "num": 634,
+      "title": "Lệnh truy nã bản sao (1)"
+    },
+    {
+      "num": 635,
+      "title": "Lệnh truy nã bản sao (2)"
+    },
+    {
+      "num": 636,
+      "title": "Nỗi kinh hoàng của pháo kích (1)"
+    },
+    {
+      "num": 637,
+      "title": "Nỗi kinh hoàng của pháo kích (2)"
+    },
+    {
+      "num": 638,
+      "title": "Người ngoài hành tinh đổ bộ và tình thế khốn đốn! (1)"
+    },
+    {
+      "num": 639,
+      "title": "Người ngoài hành tinh đổ bộ và tình thế khốn đốn! (2)"
+    },
+    {
+      "num": 640,
+      "title": "Độ Khó Thiên Sát Và Hy Vọng Duy Nhất (1)"
+    },
+    {
+      "num": 641,
+      "title": "Độ Khó Thiên Sát Và Hy Vọng Duy Nhất (2)"
+    },
+    {
+      "num": 642,
+      "title": "Nhân loại bên bờ diệt vong, thế giới và hy vọng (1)"
+    },
+    {
+      "num": 643,
+      "title": "Nhân loại bên bờ diệt vong, thế giới và hy vọng (2)"
+    },
+    {
+      "num": 644,
+      "title": "Chia đội và cuộc chiến giữa hai bên (1)"
+    },
+    {
+      "num": 645,
+      "title": "Chia đội và cuộc chiến giữa hai bên (2)"
+    },
+    {
+      "num": 646,
+      "title": "Chia đội và cuộc chiến giữa hai bên (3)"
+    },
+    {
+      "num": 647,
+      "title": "Sở Hiên biến mất và mọi chuyện rối tung (1)"
+    },
+    {
+      "num": 648,
+      "title": "Sở Hiên biến mất và mọi chuyện rối tung (2)"
+    },
+    {
+      "num": 649,
+      "title": "Chiến trường và đội Tây Hải bám sát phía sau (1)"
+    },
+    {
+      "num": 650,
+      "title": "Chiến trường và đội Tây Hải bám sát phía sau (2)"
+    },
+    {
+      "num": 651,
+      "title": "Chiến trường và đội Tây Hải bám sát phía sau (3)"
+    },
+    {
+      "num": 652,
+      "title": "“D” BOY? Và giao chiến! (1)"
+    },
+    {
+      "num": 653,
+      "title": "“D” BOY? Và giao chiến! (2)"
+    },
+    {
+      "num": 654,
+      "title": "“D” BOY? Và giao chiến! (3)"
+    },
+    {
+      "num": 655,
+      "title": "A Lại Da Thức và tổng tấn công toàn diện! (1)"
+    },
+    {
+      "num": 656,
+      "title": "A Lại Da Thức và tổng tấn công toàn diện! (2)"
+    },
+    {
+      "num": 657,
+      "title": "A Lại Da Thức và tổng tấn công toàn diện! (3)"
+    },
+    {
+      "num": 658,
+      "title": "Pháo kích và... kết thúc! (1)"
+    },
+    {
+      "num": 659,
+      "title": "Pháo kích và... kết thúc! (2)"
+    },
+    {
+      "num": 660,
+      "title": "Pháo kích và... kết thúc! (3)"
+    },
+    {
+      "num": 661,
+      "title": "Niềm kiêu hãnh của chúng ta! (1)"
+    },
+    {
+      "num": 662,
+      "title": "Niềm kiêu hãnh của chúng ta! (2)"
+    },
+    {
+      "num": 663,
+      "title": "Anh Không tìm đối thủ (1)"
+    },
+    {
+      "num": 664,
+      "title": "Anh Không tìm đối thủ (2)"
+    },
+    {
+      "num": 665,
+      "title": "Anh Không tìm đối thủ (3)"
+    },
+    {
+      "num": 666,
+      "title": "Cự long tàn sát (1)"
+    },
+    {
+      "num": 667,
+      "title": "Cự long tàn sát (2)"
+    },
+    {
+      "num": 668,
+      "title": "Cốt truyện phụ? Thời gian và chờ đợi (1)"
+    },
+    {
+      "num": 669,
+      "title": "Cốt truyện phụ? Thời gian và chờ đợi (2)"
+    },
+    {
+      "num": 670,
+      "title": "Cốt truyện ngoài long kỵ sĩ (1)"
+    },
+    {
+      "num": 671,
+      "title": "Cốt truyện ngoài long kỵ sĩ (2)"
+    },
+    {
+      "num": 672,
+      "title": "Cốt truyện ngoài long kỵ sĩ (3)"
+    },
+    {
+      "num": 673,
+      "title": "Không gian? Thế giới? Nhà tù? (1)"
+    },
+    {
+      "num": 674,
+      "title": "Không gian? Thế giới? Nhà tù? (2)"
+    },
+    {
+      "num": 675,
+      "title": "Không gian? Thế giới? Nhà tù? (3)"
+    },
+    {
+      "num": 676,
+      "title": "Cự Long Đồ Lục - Độ khó tăng vọt và bắt đầu hành động (1)"
+    },
+    {
+      "num": 677,
+      "title": "Cự Long Đồ Lục - Độ khó tăng vọt và bắt đầu hành động (2)"
+    },
+    {
+      "num": 678,
+      "title": "Trận chiến chia đội và cốt truyện phụ (1)"
+    },
+    {
+      "num": 679,
+      "title": "Trận chiến chia đội và cốt truyện phụ (2)"
+    },
+    {
+      "num": 680,
+      "title": "Trận chiến chia đội và cốt truyện phụ (3)"
+    },
+    {
+      "num": 681,
+      "title": "Trận chiến chia đội và cốt truyện phụ (4)"
+    },
+    {
+      "num": 682,
+      "title": "Ác ma thời viễn cổ và trở về (1)"
+    },
+    {
+      "num": 683,
+      "title": "Ác ma thời viễn cổ và trở về (2)"
+    },
+    {
+      "num": 684,
+      "title": "Ác ma thời viễn cổ và trở về (3)"
+    },
+    {
+      "num": 685,
+      "title": "Ác ma thời viễn cổ và trở về (4)"
+    },
+    {
+      "num": 686,
+      "title": "Ác ma thời viễn cổ và trở về (5)"
+    },
+    {
+      "num": 687,
+      "title": "Suy đoán (1)"
+    },
+    {
+      "num": 688,
+      "title": "Suy đoán (2)"
+    },
+    {
+      "num": 689,
+      "title": "Thử nghiệm tu chân lần đầu (1)"
+    },
+    {
+      "num": 690,
+      "title": "Thử nghiệm tu chân lần đầu (2)"
+    },
+    {
+      "num": 691,
+      "title": "Giữa biển (1)"
+    },
+    {
+      "num": 692,
+      "title": "Giữa biển (2)"
+    },
+    {
+      "num": 693,
+      "title": "Cơn bão ập đến (1)"
+    },
+    {
+      "num": 694,
+      "title": "Cơn bão ập đến (2)"
+    },
+    {
+      "num": 695,
+      "title": "Cơn bão ập đến (3)"
+    },
+    {
+      "num": 696,
+      "title": "Hai đội ngũ (1)"
+    },
+    {
+      "num": 697,
+      "title": "Hai đội ngũ (2)"
+    },
+    {
+      "num": 698,
+      "title": "Hai đội ngũ (3)"
+    },
+    {
+      "num": 699,
+      "title": "Kẻ địch thật sự trong bóng tối (1)"
+    },
+    {
+      "num": 700,
+      "title": "Kẻ địch thật sự trong bóng tối (2)"
+    },
+    {
+      "num": 701,
+      "title": "Cuộc đấu trí giữa nhiều bên (1)"
+    },
+    {
+      "num": 702,
+      "title": "Cuộc đấu trí giữa nhiều bên (2)"
+    },
+    {
+      "num": 703,
+      "title": "Cuộc đấu trí giữa nhiều bên (3)"
+    },
+    {
+      "num": 704,
+      "title": "Cuộc phản công của Đội Đông Hải! (1)"
+    },
+    {
+      "num": 705,
+      "title": "Cuộc phản công của Đội Đông Hải! (2)"
+    },
+    {
+      "num": 706,
+      "title": "Cuộc phản công của Đội Đông Hải! (3)"
+    },
+    {
+      "num": 707,
+      "title": "Cuộc phản công của Đội Đông Hải! (4)"
+    },
+    {
+      "num": 708,
+      "title": "Cuộc phản công của Đội Đông Hải! (5)"
+    },
+    {
+      "num": 709,
+      "title": "Khúc dạo đầu trước cơn bão\\N (1)"
+    },
+    {
+      "num": 710,
+      "title": "Khúc dạo đầu trước cơn bão\\N (2)"
+    },
+    {
+      "num": 711,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (1)"
+    },
+    {
+      "num": 712,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (2)"
+    },
+    {
+      "num": 713,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (3)"
+    },
+    {
+      "num": 714,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (4)"
+    },
+    {
+      "num": 715,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (5)"
+    },
+    {
+      "num": 716,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (6)"
+    },
+    {
+      "num": 717,
+      "title": "Phản kích! Đội Trung Châu tập kích dữ dội! (7)"
+    },
+    {
+      "num": 718,
+      "title": "Cái tên câu cá và trở về (1)"
+    },
+    {
+      "num": 719,
+      "title": "Cái tên câu cá và trở về (2)"
+    },
+    {
+      "num": 720,
+      "title": "Cái tên câu cá và trở về (3)"
+    },
+    {
+      "num": 721,
+      "title": "Bắt đầu huấn luyện (1)"
+    },
+    {
+      "num": 722,
+      "title": "Bắt đầu huấn luyện (2)"
+    },
+    {
+      "num": 723,
+      "title": "Những người đồng đội (1)"
+    },
+    {
+      "num": 724,
+      "title": "Những người đồng đội (2)"
+    },
+    {
+      "num": 725,
+      "title": "Những người đồng đội (3)"
+    },
+    {
+      "num": 726,
+      "title": "Những người đồng đội (4)"
+    },
+    {
+      "num": 727,
+      "title": "Sự thay đổi của Trịnh Tra và tiến vào"
+    },
+    {
+      "num": 728,
+      "title": "Sinh hóa bắt đầu (1)"
+    },
+    {
+      "num": 729,
+      "title": "Sinh hóa bắt đầu (2)"
+    },
+    {
+      "num": 730,
+      "title": "Nơi bắt đầu của thuở ban đầu… cũng là nơi khởi đầu của hồi kết (1)"
+    },
+    {
+      "num": 731,
+      "title": "Nơi bắt đầu của thuở ban đầu… cũng là nơi khởi đầu của hồi kết (2)"
+    },
+    {
+      "num": 732,
+      "title": "Cuộc đấu trí không giới hạn (1)"
+    },
+    {
+      "num": 733,
+      "title": "Cuộc đấu trí không giới hạn (2)"
+    },
+    {
+      "num": 734,
+      "title": "Tập hợp…… thành phố Raccoon City! (1)"
+    },
+    {
+      "num": 735,
+      "title": "Tập hợp…… thành phố Raccoon City! (2)"
+    },
+    {
+      "num": 736,
+      "title": "Tập hợp…… thành phố Raccoon City! (3)"
+    },
+    {
+      "num": 737,
+      "title": "Trận chiến đầu tiên! Người đồng đội năm xưa!"
+    },
+    {
+      "num": 738,
+      "title": "Bí mật không thể nói ra (1)"
+    },
+    {
+      "num": 739,
+      "title": "Bí mật không thể nói ra (2)"
+    },
+    {
+      "num": 740,
+      "title": "Vũ khí nhân quả mạnh nhất nhưng không hoàn chỉnh"
+    },
+    {
+      "num": 741,
+      "title": "Độ khó tăng vọt và siêu vi-rút vượt khỏi tầm kiểm soát (1)"
+    },
+    {
+      "num": 742,
+      "title": "Độ khó tăng vọt và siêu vi-rút vượt khỏi tầm kiểm soát (2)"
+    },
+    {
+      "num": 743,
+      "title": "Cuộc quyết đấu giữa anh em... Khúc ca cuối cùng của Đội Nam Viêm Châu (1)"
+    },
+    {
+      "num": 744,
+      "title": "Cuộc quyết đấu giữa anh em... Khúc ca cuối cùng của Đội Nam Viêm Châu (2)"
+    },
+    {
+      "num": 745,
+      "title": "Kế hoạch hoàn thiện loài người"
+    },
+    {
+      "num": 746,
+      "title": "Chia chiến! Đối đầu! Cường chiến! (1)"
+    },
+    {
+      "num": 747,
+      "title": "Chia chiến! Đối đầu! Cường chiến! (2)"
+    },
+    {
+      "num": 748,
+      "title": "Tái ngộ"
+    },
+    {
+      "num": 749,
+      "title": "Chiến đấu! Bùng nổ toàn diện! (1)"
+    },
+    {
+      "num": 750,
+      "title": "Chiến đấu! Bùng nổ toàn diện! (2)"
+    },
+    {
+      "num": 751,
+      "title": "Chiến đấu! Bùng nổ toàn diện! (3)"
+    },
+    {
+      "num": 752,
+      "title": "Chiến đấu! Bùng nổ toàn diện! (4)"
+    },
+    {
+      "num": 753,
+      "title": "Sự bổ sung không hoàn chỉnh (1)"
+    },
+    {
+      "num": 754,
+      "title": "Sự bổ sung không hoàn chỉnh (2)"
+    },
+    {
+      "num": 755,
+      "title": "Quyết ý của Tiêu Hoành Luật (1)"
+    },
+    {
+      "num": 756,
+      "title": "Quyết ý của Tiêu Hoành Luật (2)"
+    },
+    {
+      "num": 757,
+      "title": "Bố cục chưa hoàn hảo và... Adam bị ăn! (1)"
+    },
+    {
+      "num": 758,
+      "title": "Bố cục chưa hoàn hảo và... Adam bị ăn! (2)"
+    },
+    {
+      "num": 759,
+      "title": "Chiến trường chính… trận chiến của mỗi người (1)"
+    },
+    {
+      "num": 760,
+      "title": "Chiến trường chính… trận chiến của mỗi người (2)"
+    },
+    {
+      "num": 761,
+      "title": "Bản chất của Ứng Long (1)"
+    },
+    {
+      "num": 762,
+      "title": "Bản chất của Ứng Long (2)"
+    },
+    {
+      "num": 763,
+      "title": "Hư Không (1)"
+    },
+    {
+      "num": 764,
+      "title": "Hư Không (2)"
+    },
+    {
+      "num": 765,
+      "title": "Tập hợp, trận chiến cuối cùng! (1)"
+    },
+    {
+      "num": 766,
+      "title": "Tập hợp, trận chiến cuối cùng! (2)"
+    },
+    {
+      "num": 767,
+      "title": "Hiệp khách không bao giờ mục ruỗng!"
+    },
+    {
+      "num": 768,
+      "title": "Nguyên Ám đối đầu Hồng Hoang…… Kết thúc và khởi đầu (1)"
+    },
+    {
+      "num": 769,
+      "title": "Nguyên Ám đối đầu Hồng Hoang…… Kết thúc và khởi đầu (2)"
+    }
+  ],
+  "slug": "vo_han_khung_bo",
+  "title": "Vô Hạn Khủng Bố",
+  "author": "Zhttty",
+  "synopsis": "Truyện khoa huyễn kinh dị vô hạn lưu của Zhttty. Trịnh Tra, một nhân viên văn phòng bình thường, bất ngờ bị tổ chức \"Chúa Tể Thần Điện\" bắt vào cùng nhiều người khác, rồi liên tục bị ném vào các thế giới trong phim kinh dị và khoa huyễn nổi tiếng như Resident Evil, Alien, Xác Ướp, Chúa Tể Những Chiếc Nhẫn... Muốn sống sót, họ phải hoàn thành nhiệm vụ, kiếm điểm thưởng để cường hóa bản thân, lập đội, tính toán chiến thuật và đối đầu cả những đội luân hồi khác. Nhịp truyện căng, nhiều cảnh chiến đấu và mưu tính, càng về sau quy mô càng bành trướng.",
+  "coverColor": "#4a2f38"
+}
