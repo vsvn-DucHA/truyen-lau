@@ -1,5 +1,5 @@
 {
-  "totalChapters": 845,
+  "totalChapters": 846,
   "chapters": [
     {
       "num": 1,
@@ -3380,6 +3380,10 @@
     {
       "num": 845,
       "title": "Chim sẻ trong lồng (Hết)"
+    },
+    {
+      "num": 846,
+      "title": "Huyện lệnh, Hoàng Khuyết"
     }
   ],
   "slug": "thanh_son",
