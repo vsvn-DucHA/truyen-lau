@@ -1,0 +1,4074 @@
+{
+  "totalChapters": 1016,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Chơi game không? Loại mà trước khi chơi phải mở hộp sọ ấy."
+    },
+    {
+      "num": 2,
+      "title": "Mối quan hệ hàng xóm láng giềng hòa thuận"
+    },
+    {
+      "num": 3,
+      "title": "Đi ngủ!"
+    },
+    {
+      "num": 4,
+      "title": "Mọi chuyện đang phát triển theo hướng không thể nói thành lời"
+    },
+    {
+      "num": 5,
+      "title": "Ngươi gọi đây là trò chơi giải trí chữa lành đấy à?"
+    },
+    {
+      "num": 6,
+      "title": "Chứng sợ giao tiếp thì khỏi rồi, nhưng người lại phát điên"
+    },
+    {
+      "num": 7,
+      "title": "Lệ Tuyết"
+    },
+    {
+      "num": 8,
+      "title": "Người tốt trong đánh giá của hệ thống"
+    },
+    {
+      "num": 9,
+      "title": "Diễn xuất của anh cứ như thể đã tự mình trải qua chuyện đó"
+    },
+    {
+      "num": 10,
+      "title": "Tủ đông"
+    },
+    {
+      "num": 11,
+      "title": "Nếu đã đánh không lại, vậy thì gia nhập \"bọn chúng\" thôi"
+    },
+    {
+      "num": 12,
+      "title": "Người trong hành lang"
+    },
+    {
+      "num": 13,
+      "title": "Nhiệm vụ thứ hai: Xem tivi"
+    },
+    {
+      "num": 14,
+      "title": "Cấp độ hai"
+    },
+    {
+      "num": 15,
+      "title": "Rốt cuộc ai mới là người chữa lành cho ai?"
+    },
+    {
+      "num": 16,
+      "title": "Chiếc nhẫn của chủ nhà"
+    },
+    {
+      "num": 17,
+      "title": "Có cần tôi dạy cậu diễn phản diện không?"
+    },
+    {
+      "num": 18,
+      "title": "Đóa hoa tội ác (Cảm ơn Minh Minh Đát Lộ Lộ đã tặng Bạch Ngân Minh!)"
+    },
+    {
+      "num": 19,
+      "title": "Ta chăm chỉ, nỗ lực, luôn hướng về phía trước"
+    },
+    {
+      "num": 20,
+      "title": "Sự can đảm của con người khi sợ hãi (Cảm ơn Bạch Ngân Minh của Huyễn Vũ!)"
+    },
+    {
+      "num": 21,
+      "title": "Ba anh em"
+    },
+    {
+      "num": 22,
+      "title": "Đứa trẻ này cứ nhất quyết đòi đến nhà chúng tôi chơi"
+    },
+    {
+      "num": 23,
+      "title": "Trò chơi trốn tìm của tôi"
+    },
+    {
+      "num": 24,
+      "title": "Nếu cuộc đời chỉ còn lại 24 giờ"
+    },
+    {
+      "num": 25,
+      "title": "Tôi chỉ tiện miệng nói vậy thôi"
+    },
+    {
+      "num": 26,
+      "title": "Năng lực riêng – Trốn tìm"
+    },
+    {
+      "num": 27,
+      "title": "Sự thật dần hé lộ"
+    },
+    {
+      "num": 28,
+      "title": "Quy Tắc Sinh Tồn Trong Chung Cư"
+    },
+    {
+      "num": 29,
+      "title": "Cuộc Trò Chuyện Trước Bình Minh"
+    },
+    {
+      "num": 30,
+      "title": "Hoàng Doanh"
+    },
+    {
+      "num": 31,
+      "title": "Chiếc hộp màu đen"
+    },
+    {
+      "num": 32,
+      "title": "Chuyện ma toàn là lừa người"
+    },
+    {
+      "num": 33,
+      "title": "Sợ đến mức không ngủ nổi (Hơi hơi đáng sợ một chút thôi)"
+    },
+    {
+      "num": 34,
+      "title": "Vụ án ghép xác người"
+    },
+    {
+      "num": 35,
+      "title": "Di vật của chủ nhà"
+    },
+    {
+      "num": 36,
+      "title": "Một gia đình yêu thương nhau (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 37,
+      "title": "Tôi đã tìm thấy mảnh ghép cuối cùng"
+    },
+    {
+      "num": 38,
+      "title": "Không ai biết tên cô bé"
+    },
+    {
+      "num": 39,
+      "title": "Săn lùng hung thủ!"
+    },
+    {
+      "num": 40,
+      "title": "Diễn viên hài không biết phá án thì không phải người chơi giỏi"
+    },
+    {
+      "num": 41,
+      "title": "Tôi sẽ cho nó một cái kết"
+    },
+    {
+      "num": 42,
+      "title": "Cậu xứng làm nhân vật chính sao?"
+    },
+    {
+      "num": 43,
+      "title": "Ánh mắt của hắn đáng sợ quá!"
+    },
+    {
+      "num": 44,
+      "title": "Chỉ dẫn của Ngụy Hữu Phúc"
+    },
+    {
+      "num": 45,
+      "title": "Lòng tốt gặp được lòng tốt"
+    },
+    {
+      "num": 46,
+      "title": "Tầng năm"
+    },
+    {
+      "num": 47,
+      "title": "Đừng ngoảnh đầu lại"
+    },
+    {
+      "num": 48,
+      "title": "Món quà của Hàn Phi"
+    },
+    {
+      "num": 49,
+      "title": "Căn phòng ăn thịt người"
+    },
+    {
+      "num": 50,
+      "title": "Cô chị xinh đẹp mời ăn cơm?"
+    },
+    {
+      "num": 51,
+      "title": "Cô ấy đã được xem là người hàng xóm khá bình thường rồi"
+    },
+    {
+      "num": 52,
+      "title": "Cấp độ 4"
+    },
+    {
+      "num": 53,
+      "title": "Cái tên do người chết viết"
+    },
+    {
+      "num": 54,
+      "title": "Ngôi Nhà Eden"
+    },
+    {
+      "num": 55,
+      "title": "Diễn viên hài học võ chẳng phải là chuyện hết sức bình thường sao?"
+    },
+    {
+      "num": 56,
+      "title": "Nhân vật chính hoàn hảo nhất"
+    },
+    {
+      "num": 57,
+      "title": "Tôi đến chơi với Bé Khóc đây"
+    },
+    {
+      "num": 58,
+      "title": "Ba vấn đề then chốt"
+    },
+    {
+      "num": 59,
+      "title": "Phẩm chất tốt đẹp nhặt được của rơi phải trả lại người mất"
+    },
+    {
+      "num": 60,
+      "title": "Độ thân thiện tăng vọt"
+    },
+    {
+      "num": 61,
+      "title": "Cô có bị điên không?"
+    },
+    {
+      "num": 62,
+      "title": "Thật lòng đối đãi, sống chết có nhau, sẵn sàng đỡ dao thay bạn"
+    },
+    {
+      "num": 63,
+      "title": "Thẻ nhân viên rạp chiếu phim Thiên Đường"
+    },
+    {
+      "num": 64,
+      "title": "Việc đầu tiên tôi muốn cậu làm"
+    },
+    {
+      "num": 65,
+      "title": "Một tôi khác bên trong đầu"
+    },
+    {
+      "num": 66,
+      "title": "Kho đông lạnh dưới lòng đất"
+    },
+    {
+      "num": 67,
+      "title": "Bức ảnh"
+    },
+    {
+      "num": 68,
+      "title": "Cái ác thuần túy"
+    },
+    {
+      "num": 69,
+      "title": "Những người thân bất thường"
+    },
+    {
+      "num": 70,
+      "title": "Chỉ những người bất hạnh nhất mới có thể sở hữu chiếc hộp đen"
+    },
+    {
+      "num": 71,
+      "title": "Lần cuối cùng trong cuộc đời"
+    },
+    {
+      "num": 72,
+      "title": "Màn độc diễn"
+    },
+    {
+      "num": 73,
+      "title": "Lý do hắn trở thành nhân vật chính"
+    },
+    {
+      "num": 74,
+      "title": "Nhiệm vụ cấp F đầu tiên"
+    },
+    {
+      "num": 75,
+      "title": "Một diễn viên hài có võ tình cờ đi ngang qua"
+    },
+    {
+      "num": 76,
+      "title": "Trò chơi của Thần Gương"
+    },
+    {
+      "num": 77,
+      "title": "Ngươi Khóc Thì Nó Cũng Khóc, Ngươi Cười Thì Nó Cũng Cười"
+    },
+    {
+      "num": 78,
+      "title": "Nam Chính Hàn Phi!"
+    },
+    {
+      "num": 79,
+      "title": "Một người đóng hai vai"
+    },
+    {
+      "num": 80,
+      "title": "Người hâm mộ còn sống đầu tiên"
+    },
+    {
+      "num": 81,
+      "title": "Ước mơ bất ngờ trở thành hiện thực"
+    },
+    {
+      "num": 82,
+      "title": "Dọn sạch tầng sáu"
+    },
+    {
+      "num": 83,
+      "title": "Tầng tám"
+    },
+    {
+      "num": 84,
+      "title": "Căn phòng đầy mắt"
+    },
+    {
+      "num": 85,
+      "title": "Nó đang nhìn tôi"
+    },
+    {
+      "num": 86,
+      "title": "Căn phòng được dệt nên từ hận thù"
+    },
+    {
+      "num": 87,
+      "title": "Tôi không thể sống trong mắt anh"
+    },
+    {
+      "num": 88,
+      "title": "Quà sinh nhật"
+    },
+    {
+      "num": 89,
+      "title": "Đóng phim chỉ là nghề tay trái, nghề chính là thấy chuyện bất bình ra tay giúp đỡ"
+    },
+    {
+      "num": 90,
+      "title": "Rất nhiều người từng lên tầng chín, nhưng tất cả đều không bao giờ trở về"
+    },
+    {
+      "num": 91,
+      "title": "Trưởng Tòa Nhà"
+    },
+    {
+      "num": 92,
+      "title": "Vòng Lặp Mười Chết Không Một Sống"
+    },
+    {
+      "num": 93,
+      "title": "Kẻ quản lý là ai?"
+    },
+    {
+      "num": 94,
+      "title": "Trò chơi nguy hiểm"
+    },
+    {
+      "num": 95,
+      "title": "Cứ cười tiếp đi!"
+    },
+    {
+      "num": 96,
+      "title": "Cách duy nhất để vượt màn"
+    },
+    {
+      "num": 97,
+      "title": "Thiên phú cấp F – Triệu Hồn!"
+    },
+    {
+      "num": 98,
+      "title": "Tầng mười"
+    },
+    {
+      "num": 99,
+      "title": "Tiểu Bát"
+    },
+    {
+      "num": 100,
+      "title": "Người thân ở thế giới này"
+    },
+    {
+      "num": 101,
+      "title": "Ngươi và ta có một mối duyên «âm»"
+    },
+    {
+      "num": 102,
+      "title": "Diễn viên lên hot search theo cách này, cậu là người đầu tiên"
+    },
+    {
+      "num": 103,
+      "title": "Người đàn ông có thể lực 10 điểm"
+    },
+    {
+      "num": 104,
+      "title": "Chiêu Hồn！"
+    },
+    {
+      "num": 105,
+      "title": "Hoàng Doanh Đầy Mặt Ngơ Ngác"
+    },
+    {
+      "num": 106,
+      "title": "Phiên Bản Âm Phủ Chưa Từng Chơi"
+    },
+    {
+      "num": 107,
+      "title": "Người trong cuộc đã quên cả giãy giụa (Phần 1)"
+    },
+    {
+      "num": 108,
+      "title": "Dạ Du Thần! (Phần 2)"
+    },
+    {
+      "num": 109,
+      "title": "Lời nguyền trên người Từ Cầm (Phần 3)"
+    },
+    {
+      "num": 110,
+      "title": "Những giọt nước mắt được chữa lành (Cầu nguyệt phiếu chương thứ tư)"
+    },
+    {
+      "num": 111,
+      "title": "Nhật ký của chủ nhà (Cầu nguyệt phiếu chương thứ năm)"
+    },
+    {
+      "num": 112,
+      "title": "Diễn viên cứu mạng phóng viên săn tin (Cầu nguyệt phiếu chương thứ sáu)"
+    },
+    {
+      "num": 113,
+      "title": "Khúc Văn Hầu (Chương thứ bảy, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 114,
+      "title": "Đến lượt chúng tôi giúp cậu rồi (Chương thứ tám, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 115,
+      "title": "Oán hận đáng sợ nhất! (Chương thứ chín, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 116,
+      "title": "Ủy ban chủ nhà Tiểu Khu Hạnh Phúc (Mười chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 117,
+      "title": "Những đứa trẻ ở ngôi trường kia cần được cứu"
+    },
+    {
+      "num": 118,
+      "title": "Kỹ thuật của tôi cực tốt, số của cậu cũng cực tốt, chúng ta đúng là trời sinh một cặp"
+    },
+    {
+      "num": 119,
+      "title": "Một trăm cách chết ở ngã tư"
+    },
+    {
+      "num": 120,
+      "title": "Gõ bát, rắc gạo, đốt ảnh"
+    },
+    {
+      "num": 121,
+      "title": "Có cần tôi đưa anh về nhà không?"
+    },
+    {
+      "num": 122,
+      "title": "Cửa hàng tiện lợi lúc nửa đêm"
+    },
+    {
+      "num": 123,
+      "title": "Nếu tôi nói mình đến đây để xin việc, anh tin không?"
+    },
+    {
+      "num": 124,
+      "title": "Công việc đầu tiên"
+    },
+    {
+      "num": 125,
+      "title": "Đi làm á? Không đời nào!"
+    },
+    {
+      "num": 126,
+      "title": "Có được một nhân viên như tôi là phúc phận của ông chủ"
+    },
+    {
+      "num": 127,
+      "title": "Tôi chỉ là nhân viên thời vụ"
+    },
+    {
+      "num": 128,
+      "title": "Kẻ điên!"
+    },
+    {
+      "num": 129,
+      "title": "Trưởng tầng trở về rồi!"
+    },
+    {
+      "num": 130,
+      "title": "Người giấy – Vật bị nguyền cấp F"
+    },
+    {
+      "num": 131,
+      "title": "Mối quan hệ đồng nghiệp hòa thuận"
+    },
+    {
+      "num": 132,
+      "title": "Điềm báo cái chết"
+    },
+    {
+      "num": 133,
+      "title": "Tất cả những chuyện ma quái hắn kể đều đã xảy ra"
+    },
+    {
+      "num": 134,
+      "title": "Tôi muốn làm hiệu trưởng"
+    },
+    {
+      "num": 135,
+      "title": "Lý Tai Họa"
+    },
+    {
+      "num": 136,
+      "title": "Nhà Nghỉ Lúc Nửa Đêm"
+    },
+    {
+      "num": 137,
+      "title": "Làm xong bài tập chưa?"
+    },
+    {
+      "num": 138,
+      "title": "Thù gì mà phải để qua đêm?"
+    },
+    {
+      "num": 139,
+      "title": "Đường dây điện thoại trên xác chết"
+    },
+    {
+      "num": 140,
+      "title": "Nỗi nhớ hóa thành lời nguyền"
+    },
+    {
+      "num": 141,
+      "title": "Cấp 8"
+    },
+    {
+      "num": 142,
+      "title": "Bước ngoặt cuộc đời"
+    },
+    {
+      "num": 143,
+      "title": "Đó là âm thanh của chiếc lồng giam vỡ tan! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 144,
+      "title": "Tôi là một người tốt bụng và có nguyên tắc"
+    },
+    {
+      "num": 145,
+      "title": "Lên bảng xếp hạng"
+    },
+    {
+      "num": 146,
+      "title": "Tôi có thể nối thẳng hệ thống sưởi sàn nhà cô ta xuống Địa Phủ (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 147,
+      "title": "Tiếng hát trong tòa nhà"
+    },
+    {
+      "num": 148,
+      "title": "Mở bản đồ trường học"
+    },
+    {
+      "num": 149,
+      "title": "Đừng ăn đồ người khác đưa (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 150,
+      "title": "Ba đứa trẻ"
+    },
+    {
+      "num": 151,
+      "title": "Đồ của trẻ con mà ngươi cũng cướp à?"
+    },
+    {
+      "num": 152,
+      "title": "Vụ việc ma quái do con người tạo ra"
+    },
+    {
+      "num": 153,
+      "title": "Sự ăn ý giữa Hàn Phi và cảnh sát"
+    },
+    {
+      "num": 154,
+      "title": "Trong chiếc bình chứa thứ gì?"
+    },
+    {
+      "num": 155,
+      "title": "Những chuyện kỳ lạ trong học viện của Kim Sinh"
+    },
+    {
+      "num": 156,
+      "title": "Cái hũ ước nguyện – Vật bị nguyền cấp G"
+    },
+    {
+      "num": 157,
+      "title": "Tiếng gõ cửa lúc nửa đêm"
+    },
+    {
+      "num": 158,
+      "title": "Là ai đã biến cô ấy thành quái vật"
+    },
+    {
+      "num": 159,
+      "title": "Trong nhà, ngoài nhà đều có quỷ"
+    },
+    {
+      "num": 160,
+      "title": "Ngày công chiếu"
+    },
+    {
+      "num": 161,
+      "title": "Tân binh làm nên lịch sử!"
+    },
+    {
+      "num": 162,
+      "title": "Kẻ mới vào nghề lập nên kỷ lục!"
+    },
+    {
+      "num": 163,
+      "title": "Đêm thứ ba"
+    },
+    {
+      "num": 164,
+      "title": "Kẻ Đứng Quay Lưng"
+    },
+    {
+      "num": 165,
+      "title": "Khuôn Mặt Quay Lưng Về Phía Bạn"
+    },
+    {
+      "num": 166,
+      "title": "Dốc Hết Sức Mình"
+    },
+    {
+      "num": 167,
+      "title": "Cách cứu người của tôi có hơi thô bạo"
+    },
+    {
+      "num": 168,
+      "title": "Quan điểm giáo dục được truyền lại từ đời này sang đời khác"
+    },
+    {
+      "num": 169,
+      "title": "Một thầy một trò, kèm cặp tận tình"
+    },
+    {
+      "num": 170,
+      "title": "Phó Sinh và Tòa Nhà Chết"
+    },
+    {
+      "num": 171,
+      "title": "Nghề Ẩn (Chương đầu tiên)"
+    },
+    {
+      "num": 172,
+      "title": "Trốn Khỏi Khu Ký Túc Xá (Chương thứ hai)"
+    },
+    {
+      "num": 173,
+      "title": "Băng ghi hình (Canh ba)"
+    },
+    {
+      "num": 174,
+      "title": "Ngươi có cảm thấy trên người mình hơi nặng không?"
+    },
+    {
+      "num": 175,
+      "title": "Lão Lý là người tốt"
+    },
+    {
+      "num": 176,
+      "title": "Nhìn thấy ác mộng"
+    },
+    {
+      "num": 177,
+      "title": "Căn bản không cùng một đẳng cấp"
+    },
+    {
+      "num": 178,
+      "title": "Ngõ Súc Vật, Nhà Đồ Tể"
+    },
+    {
+      "num": 179,
+      "title": "Đạo diễn, bao giờ chúng ta mới được lên sân khấu?"
+    },
+    {
+      "num": 180,
+      "title": "Nhiệm vụ quản lý cấp F — Giáo viên tuần tra"
+    },
+    {
+      "num": 181,
+      "title": "Thế giới trong mắt Kim Sinh"
+    },
+    {
+      "num": 182,
+      "title": "Chạy đua với tuyệt vọng"
+    },
+    {
+      "num": 183,
+      "title": "Trò chơi tôi giỏi nhất chính là trốn tìm"
+    },
+    {
+      "num": 184,
+      "title": "Văn phòng hiệu trưởng"
+    },
+    {
+      "num": 185,
+      "title": "Sao ngươi lại biến thành bộ dạng này rồi?"
+    },
+    {
+      "num": 186,
+      "title": "Giết chết Mã Mãn Giang"
+    },
+    {
+      "num": 187,
+      "title": "Bà quản lý ký túc xá phát điên từ khi nào vậy?"
+    },
+    {
+      "num": 188,
+      "title": "Cái chết chỉ là khởi đầu"
+    },
+    {
+      "num": 189,
+      "title": "15 lần hồi sinh (Ba mươi nghìn lượt đặt mua rồi"
+    },
+    {
+      "num": 190,
+      "title": "Đối đầu"
+    },
+    {
+      "num": 191,
+      "title": "Kim Sinh! Kiếp này! (4000)"
+    },
+    {
+      "num": 192,
+      "title": "Người đàn ông duy nhất từng đánh bại con bướm"
+    },
+    {
+      "num": 193,
+      "title": "Chuyện này đã vượt quá sức tưởng tượng của một người chơi giải trí"
+    },
+    {
+      "num": 194,
+      "title": "Tôi không thể chết oan bao nhiêu lần như thế được"
+    },
+    {
+      "num": 195,
+      "title": "Có thù phải trả thù, có oán phải báo oán"
+    },
+    {
+      "num": 196,
+      "title": "Tôi muốn về nhà"
+    },
+    {
+      "num": 197,
+      "title": "Video của Hoàng Doanh"
+    },
+    {
+      "num": 198,
+      "title": "Ba giờ ba mươi sáng"
+    },
+    {
+      "num": 199,
+      "title": "Nỗi sợ chồng chất"
+    },
+    {
+      "num": 200,
+      "title": "Bóp nghẹt cổ Tử Thần"
+    },
+    {
+      "num": 201,
+      "title": "Diễn viên hài và kẻ liều mạng"
+    },
+    {
+      "num": 202,
+      "title": "Người bạn đầu tiên trong đời"
+    },
+    {
+      "num": 203,
+      "title": "Không thể để người tốt bụng ra tay cứu người phải lạnh lòng"
+    },
+    {
+      "num": 204,
+      "title": "Thời gian cập nhật của cõi âm (Nhân đôi rồi, cầu xin vé tháng)"
+    },
+    {
+      "num": 205,
+      "title": "Chúng ta mà đến muộn thêm vài ngày, chắc hắn đã lên làm hiệu trưởng rồi"
+    },
+    {
+      "num": 206,
+      "title": "Cấp 10! (Xin vé tháng)"
+    },
+    {
+      "num": 207,
+      "title": "Nghề nghiệp trong game chữa lành"
+    },
+    {
+      "num": 208,
+      "title": "Nhà văn trinh thám"
+    },
+    {
+      "num": 209,
+      "title": "Những chuyện không thể nhắc đến sau khi trời tối (Ba chương cầu vé tháng)"
+    },
+    {
+      "num": 210,
+      "title": "Nhện và Bươm Bướm"
+    },
+    {
+      "num": 211,
+      "title": "Bắt đầu màn trình diễn của cậu"
+    },
+    {
+      "num": 212,
+      "title": "Diễn xuất của hắn chẳng khác nào một lưỡi dao vừa mài sắc"
+    },
+    {
+      "num": 213,
+      "title": "Anh Hoàng, quả không hổ danh người đàn ông từng chiến thắng Bướm"
+    },
+    {
+      "num": 214,
+      "title": "Cặp bài trùng tốt nhất (Ba chương mới, xin vé tháng)"
+    },
+    {
+      "num": 215,
+      "title": "Mời thần thì dễ"
+    },
+    {
+      "num": 216,
+      "title": "Mời thần thì dễ, tiễn thần mới khó"
+    },
+    {
+      "num": 217,
+      "title": "Bước đột phá của Khốc (Chương thứ ba)"
+    },
+    {
+      "num": 218,
+      "title": "Quán Sủi Cảo"
+    },
+    {
+      "num": 219,
+      "title": "Quán Sủi Cảo"
+    },
+    {
+      "num": 220,
+      "title": "Quan Hệ Hàng Xóm Chân Thành Đến Thế Sao?"
+    },
+    {
+      "num": 221,
+      "title": "Có một loài súc sinh trông chẳng khác gì con người"
+    },
+    {
+      "num": 222,
+      "title": "Thịt! Thịt! Thịt! (Ba chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 223,
+      "title": "Chuyện kỳ quái liên tiếp xảy ra trong đoàn phim"
+    },
+    {
+      "num": 224,
+      "title": "Pha hành động mà ngay cả diễn viên đóng thế cũng không dám tùy tiện thử sức"
+    },
+    {
+      "num": 225,
+      "title": "Hóa ra chỉ số may mắn của tôi là 9 (Chương 3 trong ngày)"
+    },
+    {
+      "num": 226,
+      "title": "Con dao của kẻ đồ tể"
+    },
+    {
+      "num": 227,
+      "title": "Lựa chọn của kẻ đồ tể"
+    },
+    {
+      "num": 228,
+      "title": "Bước đầu tiên trên con đường trở thành Đồ tể"
+    },
+    {
+      "num": 229,
+      "title": "Gặp nhau giữa màn sương máu"
+    },
+    {
+      "num": 230,
+      "title": "Tôi bằng lòng cùng cô biến thành quái vật trong miệng bọn họ"
+    },
+    {
+      "num": 231,
+      "title": "Tang Môn"
+    },
+    {
+      "num": 232,
+      "title": "Nhà Máy Chế Biến Thịt"
+    },
+    {
+      "num": 233,
+      "title": "Trọng lượng của linh hồn"
+    },
+    {
+      "num": 234,
+      "title": "Kẻ cai quản nhà máy chế biến thịt"
+    },
+    {
+      "num": 235,
+      "title": "Trèo lên chiếc cân của nhân tính"
+    },
+    {
+      "num": 236,
+      "title": "Lưỡi dao đồ tể của Hàn Phi"
+    },
+    {
+      "num": 237,
+      "title": "Đồ Tể Nửa Đêm"
+    },
+    {
+      "num": 238,
+      "title": "Tôi Lên Được Cấp 11 Đã Là Kỳ Tích Rồi"
+    },
+    {
+      "num": 239,
+      "title": "Tôi chẳng làm gì cả, vậy mà độ thân thiện cứ liên tục tăng"
+    },
+    {
+      "num": 240,
+      "title": "Từ Cầm giết nhân cách số tám?"
+    },
+    {
+      "num": 241,
+      "title": "Con bướm bay ra từ trong giấc mơ"
+    },
+    {
+      "num": 242,
+      "title": "Hy Vọng Chưa Được Đặt Tên"
+    },
+    {
+      "num": 243,
+      "title": "Muốn Biết Thì Để Tôi Chém Ông Một Nhát Là Xong Chứ Gì?"
+    },
+    {
+      "num": 244,
+      "title": "Sát Thủ Chốn Công Sở"
+    },
+    {
+      "num": 245,
+      "title": "Tôi đóng vai cha của hắn"
+    },
+    {
+      "num": 246,
+      "title": "Thứ đó đang ngày càng đến gần"
+    },
+    {
+      "num": 247,
+      "title": "Người cha trong chiếc chuông gió"
+    },
+    {
+      "num": 248,
+      "title": "Điểm yếu của bươm bướm"
+    },
+    {
+      "num": 249,
+      "title": "Tề tụ tại Nhà Đồ Tể"
+    },
+    {
+      "num": 250,
+      "title": "Từ Cầm trong tranh"
+    },
+    {
+      "num": 251,
+      "title": "Đếm ngược đến lúc tâm trí biến đổi"
+    },
+    {
+      "num": 252,
+      "title": "Bản thể trăm lời nguyền của Từ Cầm"
+    },
+    {
+      "num": 253,
+      "title": "Thân xác bằng máu thịt"
+    },
+    {
+      "num": 254,
+      "title": "Manh mối về nửa trái tim còn lại"
+    },
+    {
+      "num": 255,
+      "title": "Khoảnh khắc cuối cùng!"
+    },
+    {
+      "num": 256,
+      "title": "Dù có xuống âm phủ, ta vẫn phải là tâm điểm chú ý"
+    },
+    {
+      "num": 257,
+      "title": "Con nhện tỉnh giấc"
+    },
+    {
+      "num": 258,
+      "title": "Đáng tiếc, về sau chúng ta đều biến thành những kẻ điên"
+    },
+    {
+      "num": 259,
+      "title": "Kích hoạt một nghề ẩn kỳ lạ?"
+    },
+    {
+      "num": 260,
+      "title": "Ta là hy vọng cuối cùng của ngành này"
+    },
+    {
+      "num": 261,
+      "title": "Mức độ thân thiện của toàn thể cư dân tăng 3 điểm"
+    },
+    {
+      "num": 262,
+      "title": "Cửa hàng tiện lợi Ích Dân chẳng hề ích dân?"
+    },
+    {
+      "num": 263,
+      "title": "Một buổi quay phim nguy hiểm"
+    },
+    {
+      "num": 264,
+      "title": "Cậu thật sự nghĩ tôi bỏ chạy vì sợ sao?"
+    },
+    {
+      "num": 265,
+      "title": "Dừng tay lại! Hàn Phi!"
+    },
+    {
+      "num": 266,
+      "title": "Đừng sợ, chúng ta đều là con tin"
+    },
+    {
+      "num": 267,
+      "title": "Chọn ngẫu nhiên một tên tội phạm “may mắn”"
+    },
+    {
+      "num": 268,
+      "title": "Món quà của chủ khu nhà (Chương ba trong ngày)"
+    },
+    {
+      "num": 269,
+      "title": "Lời ủy thác của Thần Gương"
+    },
+    {
+      "num": 270,
+      "title": "Tiệm Thú Cưng"
+    },
+    {
+      "num": 271,
+      "title": "Mèo Con Thì Có Thể Có Ý Đồ Xấu Gì Chứ?"
+    },
+    {
+      "num": 272,
+      "title": "Giết bao nhiêu lần cũng không chết?"
+    },
+    {
+      "num": 273,
+      "title": "Thú cưng hệ máu thịt Cửu Mệnh"
+    },
+    {
+      "num": 274,
+      "title": "Kẻ mê sưu tầm đồ vật bị nguyền rủa"
+    },
+    {
+      "num": 275,
+      "title": "Tòa Nhà Chết – Bắt Đầu Từ Việc Ứng Tuyển Bảo Vệ"
+    },
+    {
+      "num": 276,
+      "title": "Có Lẽ Tên Của Cô Ấy Cũng Có Thể Trừ Tà"
+    },
+    {
+      "num": 277,
+      "title": "Con Quỷ Mà Mọi Người Nhắc Đến, Trông Có Giống Tôi Không?"
+    },
+    {
+      "num": 278,
+      "title": "Lần đầu dùng khoang trò chơi đã tiễn luôn người hướng dẫn trò chơi về trời"
+    },
+    {
+      "num": 279,
+      "title": "Không còn đường lui, vậy cứ thế tiến về phía trước"
+    },
+    {
+      "num": 280,
+      "title": "Biến lời nguyền thành lời chúc phúc"
+    },
+    {
+      "num": 281,
+      "title": "Thang máy của công ty bảo vệ"
+    },
+    {
+      "num": 282,
+      "title": "Chuyện của con người (Ba chương mới)"
+    },
+    {
+      "num": 283,
+      "title": "Nhân viên bảo vệ trẻ tuổi"
+    },
+    {
+      "num": 284,
+      "title": "Tôi chỉ đến xem ông chủ của các anh thôi"
+    },
+    {
+      "num": 285,
+      "title": "Hóa ra tôi đã chết rồi (Ba chương cập nhật trong ngày)"
+    },
+    {
+      "num": 286,
+      "title": "Phạm vi kinh doanh của công ty âm phủ"
+    },
+    {
+      "num": 287,
+      "title": "Bông hoa nơi sâu thẳm linh hồn?"
+    },
+    {
+      "num": 288,
+      "title": "Ta đến rồi, vị thần bảo hộ cũng sẽ xuất hiện"
+    },
+    {
+      "num": 289,
+      "title": "Bát Thủ"
+    },
+    {
+      "num": 290,
+      "title": "Hạ sát đầu tiên một oán niệm cấp lớn"
+    },
+    {
+      "num": 291,
+      "title": "Giết chóc cũng là tu hành"
+    },
+    {
+      "num": 292,
+      "title": "Nâng cấp độ tai ương, tốc độ thăng cấp nhanh nhất"
+    },
+    {
+      "num": 293,
+      "title": "Vị thần bảo hộ mới của phố Ích Dân (Ba lần cập nhật trong ngày)"
+    },
+    {
+      "num": 294,
+      "title": "Miếu thờ trước cổng khu dân cư"
+    },
+    {
+      "num": 295,
+      "title": "Thế giới nhuốm máu khi thoát khỏi trò chơi"
+    },
+    {
+      "num": 296,
+      "title": "Con bướm bị Hoàng Doanh nhốt lại"
+    },
+    {
+      "num": 297,
+      "title": "Tòa nhà chết"
+    },
+    {
+      "num": 298,
+      "title": "Đạo diễn phim kinh dị và diễn viên hài (4000 chữ)"
+    },
+    {
+      "num": 299,
+      "title": "Bản đồ nhuốm máu trong trò chơi chữa lành"
+    },
+    {
+      "num": 300,
+      "title": "Khóc sẽ chết"
+    },
+    {
+      "num": 301,
+      "title": "Căn phòng của người phụ nữ mặc áo cưới"
+    },
+    {
+      "num": 302,
+      "title": "Đem tiếng hát tặng cho bươm bướm"
+    },
+    {
+      "num": 303,
+      "title": "Nhân viên bảo vệ mới đến tên là Bạch Tư Niệm"
+    },
+    {
+      "num": 304,
+      "title": "Trong nhà vệ sinh treo một chiếc váy đỏ"
+    },
+    {
+      "num": 305,
+      "title": "Có ai ở nhà không?"
+    },
+    {
+      "num": 306,
+      "title": "Chiếc váy đỏ không thể tống đi"
+    },
+    {
+      "num": 307,
+      "title": "Tuần tra ban đêm"
+    },
+    {
+      "num": 308,
+      "title": "Đứa trẻ sau cánh cửa"
+    },
+    {
+      "num": 309,
+      "title": "Thiên thần bóp cổ chính mình"
+    },
+    {
+      "num": 310,
+      "title": "Dì Giả"
+    },
+    {
+      "num": 311,
+      "title": "Ngươi là người?"
+    },
+    {
+      "num": 312,
+      "title": "Nghề ẩn: Bảo vệ tòa nhà chết chóc"
+    },
+    {
+      "num": 313,
+      "title": "Chạm phải ta là chết"
+    },
+    {
+      "num": 314,
+      "title": "Váy vốn đâu phải để mặc"
+    },
+    {
+      "num": 315,
+      "title": "Tầng hai mươi bốn"
+    },
+    {
+      "num": 316,
+      "title": "Chuyện này chẳng liên quan gì đến tôi hết!"
+    },
+    {
+      "num": 317,
+      "title": "Tôi, nhân viên bảo vệ tận tâm nhất Tòa Nhà Chết (4600)"
+    },
+    {
+      "num": 318,
+      "title": "Đây là giờ thứ tư tôi làm bảo vệ ở Tòa Nhà Chết (4000)"
+    },
+    {
+      "num": 319,
+      "title": "Đêm ngày 4 tháng 4"
+    },
+    {
+      "num": 320,
+      "title": "Đuổi “tà”"
+    },
+    {
+      "num": 321,
+      "title": "Bí mật trong căn phòng 1244 (4000)"
+    },
+    {
+      "num": 322,
+      "title": "Nguồn gốc của hận thù"
+    },
+    {
+      "num": 323,
+      "title": "Tác phẩm thất bại"
+    },
+    {
+      "num": 324,
+      "title": "Cấp mười ba"
+    },
+    {
+      "num": 325,
+      "title": "Phần thưởng nhiệm vụ — Nhân tính của Trang Văn"
+    },
+    {
+      "num": 326,
+      "title": "Vô tình hoàn thành tâm nguyện của ma nhảy lầu"
+    },
+    {
+      "num": 327,
+      "title": "Người thương nhân tủi thân"
+    },
+    {
+      "num": 328,
+      "title": "Người phụ nữ mặc váy đỏ"
+    },
+    {
+      "num": 329,
+      "title": "Chém!"
+    },
+    {
+      "num": 330,
+      "title": "Linh hồn gần với lòng hận thù nhất"
+    },
+    {
+      "num": 331,
+      "title": "Giành được sự công nhận của cư dân trong khu nhà (một đề tài bình thường biết bao)"
+    },
+    {
+      "num": 332,
+      "title": "Chiếc tủ quần áo dẫn đến cái chết"
+    },
+    {
+      "num": 333,
+      "title": "Giấc mơ báo trước cái chết"
+    },
+    {
+      "num": 334,
+      "title": "Chiếc tủ quần áo của con bướm"
+    },
+    {
+      "num": 335,
+      "title": "Chiếc tủ quần áo chuyên bắt cóc người"
+    },
+    {
+      "num": 336,
+      "title": "Tung tích của Phong Tử Dụ"
+    },
+    {
+      "num": 337,
+      "title": "Tốc độ chạy quái quỷ này"
+    },
+    {
+      "num": 338,
+      "title": "Đại Nghiệt phấn khích (4000)"
+    },
+    {
+      "num": 339,
+      "title": "Lối ra trong miệng quái vật"
+    },
+    {
+      "num": 340,
+      "title": "Trải nghiệm gọi hồn trong tòa nhà chết chóc là như thế nào?"
+    },
+    {
+      "num": 341,
+      "title": "Ba mẹ con"
+    },
+    {
+      "num": 342,
+      "title": "Nghĩ cho kỹ xem ai mới là con tin rồi hãy ra tay"
+    },
+    {
+      "num": 343,
+      "title": "4144?"
+    },
+    {
+      "num": 344,
+      "title": "Manh mối về người quản lý tòa nhà đời trước"
+    },
+    {
+      "num": 345,
+      "title": "Người bảo vệ sống sót đến tận hôm nay"
+    },
+    {
+      "num": 346,
+      "title": "Kẻ truy hồn"
+    },
+    {
+      "num": 347,
+      "title": "Lấy Hàn Phi làm vật tế sống"
+    },
+    {
+      "num": 348,
+      "title": "Môn thần không đầu"
+    },
+    {
+      "num": 349,
+      "title": "Tôi tìm thấy người nhà của ông rồi"
+    },
+    {
+      "num": 350,
+      "title": "Di vật của người quản lý đời đầu"
+    },
+    {
+      "num": 351,
+      "title": "Ba đứa con của ông ấy"
+    },
+    {
+      "num": 352,
+      "title": "Chiếc thang máy đỏ chật ních"
+    },
+    {
+      "num": 353,
+      "title": "Lời cảnh báo sau khi trò chơi Tòa Nhà Chết sụp đổ"
+    },
+    {
+      "num": 354,
+      "title": "Tiếng hát dùng để triệu hồn"
+    },
+    {
+      "num": 355,
+      "title": "Màn đêm buông xuống (4000)"
+    },
+    {
+      "num": 356,
+      "title": "Trứng Phục Sinh Cuối Cùng (4000)"
+    },
+    {
+      "num": 357,
+      "title": "Thanh Đao Của Thần Gác Cửa"
+    },
+    {
+      "num": 358,
+      "title": "Nhiệm Vụ Chính Tuyến Cấp E — Đêm Gọi Hồn!"
+    },
+    {
+      "num": 359,
+      "title": "Đứa trẻ lớn lên cùng ác mộng (Phần 1)"
+    },
+    {
+      "num": 360,
+      "title": "Hàn Phi sống dở chết dở (Phần 2)"
+    },
+    {
+      "num": 361,
+      "title": "Người giấy mượn đường (Phần 3)"
+    },
+    {
+      "num": 362,
+      "title": "Người chơi hệ chữa lành"
+    },
+    {
+      "num": 363,
+      "title": "Kiếp trước, kiếp này, kiếp sau"
+    },
+    {
+      "num": 364,
+      "title": "Người trở về không phải bố cháu"
+    },
+    {
+      "num": 365,
+      "title": "Diệt!"
+    },
+    {
+      "num": 366,
+      "title": "Tìm lại linh hồn tuổi thơ (4000)"
+    },
+    {
+      "num": 367,
+      "title": "Diễn viên hài ở phòng 4094"
+    },
+    {
+      "num": 368,
+      "title": "Đom Đóm và bầu trời đêm"
+    },
+    {
+      "num": 369,
+      "title": "Linh hồn mỉm cười"
+    },
+    {
+      "num": 370,
+      "title": "Nhóm chat hỗ trợ cư dân đòi quyền lợi ở tòa nhà ma"
+    },
+    {
+      "num": 371,
+      "title": "Đến lúc tôi chơi ác, chính tôi cũng phải sợ"
+    },
+    {
+      "num": 372,
+      "title": "Chẳng lẽ hắn còn có thể phá hủy cả tòa nhà sao?"
+    },
+    {
+      "num": 373,
+      "title": "Sẽ không có chuyện gì xảy ra đâu"
+    },
+    {
+      "num": 374,
+      "title": "Sao ngươi lại biến thành thế này! (4000)"
+    },
+    {
+      "num": 375,
+      "title": "Ta chính là lời nguyền chết chóc"
+    },
+    {
+      "num": 376,
+      "title": "Chúng tôi đến rồi"
+    },
+    {
+      "num": 377,
+      "title": "Không có ác hồn nào không dám giết"
+    },
+    {
+      "num": 378,
+      "title": "Âm thanh trong căn phòng 4044"
+    },
+    {
+      "num": 379,
+      "title": "Cuộc gặp gỡ nơi âm phủ (4000)"
+    },
+    {
+      "num": 380,
+      "title": "Căn phòng 4444 nằm sâu trong cơn ác mộng"
+    },
+    {
+      "num": 381,
+      "title": "Cậu bé ở tầng hầm thứ tư"
+    },
+    {
+      "num": 382,
+      "title": "Tội lỗi của bươm bướm"
+    },
+    {
+      "num": 383,
+      "title": "Tiếng cười điên dại của Hàn Phi (5000)"
+    },
+    {
+      "num": 384,
+      "title": "Trái Tim Ác Mộng (4000)"
+    },
+    {
+      "num": 385,
+      "title": "Bắt đầu gọi hồn! (4000)"
+    },
+    {
+      "num": 386,
+      "title": "Kẻ quản lý Tòa Nhà Chết (4000)"
+    },
+    {
+      "num": 387,
+      "title": "Ai mới là con át chủ bài của ai"
+    },
+    {
+      "num": 388,
+      "title": "Bươm Bướm nhất định phải chết! (4000)"
+    },
+    {
+      "num": 389,
+      "title": "Con bướm sa vào mạng nhện"
+    },
+    {
+      "num": 390,
+      "title": "Ác mộng của ngươi, ta sẽ đích thân biến nó thành hiện thực!"
+    },
+    {
+      "num": 391,
+      "title": "Hàn Phi và những linh hồn của hắn"
+    },
+    {
+      "num": 392,
+      "title": "Liên tiếp tăng hai cấp"
+    },
+    {
+      "num": 393,
+      "title": "Người quản lý mới của Tòa Nhà Chết"
+    },
+    {
+      "num": 394,
+      "title": "Người chơi số một Hoàng Doanh"
+    },
+    {
+      "num": 395,
+      "title": "Suýt nữa quên mất mình là một diễn viên hài"
+    },
+    {
+      "num": 396,
+      "title": "Cao thủ ở dương gian, người chơi cùng ở âm gian"
+    },
+    {
+      "num": 397,
+      "title": "Mở thử nghiệm công khai toàn cầu"
+    },
+    {
+      "num": 398,
+      "title": "Bác sĩ ác mộng Hoàng Doanh"
+    },
+    {
+      "num": 399,
+      "title": "Đây chính là cuộc đời hoàn hảo sao?"
+    },
+    {
+      "num": 400,
+      "title": "Trưởng phòng nhân sự âm phủ"
+    },
+    {
+      "num": 401,
+      "title": "Xin hãy cân nhắc thật kỹ!"
+    },
+    {
+      "num": 402,
+      "title": "Danh vọng? Hay âm đức?"
+    },
+    {
+      "num": 403,
+      "title": "Thời đại này sẽ mang tên tôi"
+    },
+    {
+      "num": 404,
+      "title": "Người quản lý Hàn Phi"
+    },
+    {
+      "num": 405,
+      "title": "Tầm nhìn của Hàn Phi"
+    },
+    {
+      "num": 406,
+      "title": "Cùng nhau thắp sáng màn đêm!"
+    },
+    {
+      "num": 407,
+      "title": "Đề cử Nam diễn viên trẻ xuất sắc"
+    },
+    {
+      "num": 408,
+      "title": "Bệnh viện thẩm mỹ biến mất"
+    },
+    {
+      "num": 409,
+      "title": "Lời nguyền hỗn hợp nhiều tầng — Nợ máu!"
+    },
+    {
+      "num": 410,
+      "title": "Chúng tôi sẽ lên tiếng vì anh"
+    },
+    {
+      "num": 411,
+      "title": "Thế giới này không tệ đến thế"
+    },
+    {
+      "num": 412,
+      "title": "Người giấy máu hoàn chỉnh"
+    },
+    {
+      "num": 413,
+      "title": "Chào mừng đến với Cuộc Đời Hoàn Hảo"
+    },
+    {
+      "num": 414,
+      "title": "Bức ảnh tự chụp lúc nửa đêm"
+    },
+    {
+      "num": 415,
+      "title": "《Vật Còn Đó, Người Đã Khác Xưa》"
+    },
+    {
+      "num": 416,
+      "title": "Đôi giày trắng"
+    },
+    {
+      "num": 417,
+      "title": "Ngươi đã trộm gương mặt của ai?"
+    },
+    {
+      "num": 418,
+      "title": "Cậu không sợ sao?"
+    },
+    {
+      "num": 419,
+      "title": "Video giám sát dài ba mươi giây"
+    },
+    {
+      "num": 420,
+      "title": "Cô nhi viện Hạnh Phúc chỉ có một đứa trẻ"
+    },
+    {
+      "num": 421,
+      "title": "Nhân cách hoàn hảo"
+    },
+    {
+      "num": 422,
+      "title": "Đáp ứng điều kiện nâng cấp thần khám"
+    },
+    {
+      "num": 423,
+      "title": "Năng lực cấp độ không thể gọi tên"
+    },
+    {
+      "num": 424,
+      "title": "Bộ váy cưới đẹp nhất"
+    },
+    {
+      "num": 425,
+      "title": "Hắn sẽ gây ra một trận đại họa"
+    },
+    {
+      "num": 426,
+      "title": "Lựa chọn lần thứ hai (Chúc mừng Tết Trung Thu)"
+    },
+    {
+      "num": 427,
+      "title": "Sáu người chết đột ngột"
+    },
+    {
+      "num": 428,
+      "title": "Trung Tâm Thương Mại Lúc Nửa Đêm"
+    },
+    {
+      "num": 429,
+      "title": "Sống Sót Ba Mươi Ngày"
+    },
+    {
+      "num": 430,
+      "title": "Đêm đầu tiên đi làm"
+    },
+    {
+      "num": 431,
+      "title": "Đồ chơi"
+    },
+    {
+      "num": 432,
+      "title": "Ai trực đêm ở cửa hàng này, người đó sẽ chết"
+    },
+    {
+      "num": 433,
+      "title": "Về nhà"
+    },
+    {
+      "num": 434,
+      "title": "Đường đêm"
+    },
+    {
+      "num": 435,
+      "title": "Tuyệt vọng chỉ vừa mới bắt đầu sao (5000)"
+    },
+    {
+      "num": 436,
+      "title": "Mười Ngón Tay (6000)"
+    },
+    {
+      "num": 437,
+      "title": "Căn phòng số 13"
+    },
+    {
+      "num": 438,
+      "title": "Tiếng động sâu trong kho hàng"
+    },
+    {
+      "num": 439,
+      "title": "Cấp mười bảy"
+    },
+    {
+      "num": 440,
+      "title": "Người phụ nữ trong phòng thử đồ"
+    },
+    {
+      "num": 441,
+      "title": "Một nghìn việc tốt"
+    },
+    {
+      "num": 442,
+      "title": "Nỗi tiếc nuối còn lại một phần năm"
+    },
+    {
+      "num": 443,
+      "title": "Bước ngoặt của số phận"
+    },
+    {
+      "num": 444,
+      "title": "Thú dữ mắc bẫy (Cảm ơn minh chủ Bạch Ngân “Rảnh Rỗi Xem Sách Cũng Được” đã ủng hộ)"
+    },
+    {
+      "num": 445,
+      "title": "Bàn tay đẩy hắn xuống vực sâu"
+    },
+    {
+      "num": 446,
+      "title": "Thế giới bắt đầu biến dị"
+    },
+    {
+      "num": 447,
+      "title": "Tôi"
+    },
+    {
+      "num": 448,
+      "title": "Bạn gái cũng là do hắn tưởng tượng ra sao?"
+    },
+    {
+      "num": 449,
+      "title": "Lựa chọn đã bỏ lỡ"
+    },
+    {
+      "num": 450,
+      "title": "Ngươi nhìn xem, hắn biến mất rồi!"
+    },
+    {
+      "num": 451,
+      "title": "Tôi và những người đồng nghiệp của tôi"
+    },
+    {
+      "num": 452,
+      "title": "Đường đi khác nhau, nhưng cuối cùng đều dẫn xuống âm phủ"
+    },
+    {
+      "num": 453,
+      "title": "Giao dịch ngang giá, lấy linh hồn làm vật đặt cược"
+    },
+    {
+      "num": 454,
+      "title": "Bát cơm trắng giữa đêm khuya"
+    },
+    {
+      "num": 455,
+      "title": "Tôi có thể tự đổi ông chủ cho mình"
+    },
+    {
+      "num": 456,
+      "title": "Mười ngón tay đã đứt mất ba"
+    },
+    {
+      "num": 457,
+      "title": "Những suy đoán điên rồ"
+    },
+    {
+      "num": 458,
+      "title": "Bản thân sự thật đã có một cái miệng"
+    },
+    {
+      "num": 459,
+      "title": "Tất cả chúng đều là những \"người\" tốt bụng"
+    },
+    {
+      "num": 460,
+      "title": "Bánh ú thịt tươi"
+    },
+    {
+      "num": 461,
+      "title": "Món nợ âm"
+    },
+    {
+      "num": 462,
+      "title": "Kẻ xấu có thể sống đến cuối cùng sao?"
+    },
+    {
+      "num": 463,
+      "title": "Cách duy nhất để trở thành chủ nhân của thần khám"
+    },
+    {
+      "num": 464,
+      "title": "Bọn họ là vật hiến tế của ngươi"
+    },
+    {
+      "num": 465,
+      "title": "Trong giếng sâu giấu thi thể của ai"
+    },
+    {
+      "num": 466,
+      "title": "Xuống đây với tôi! (5000)"
+    },
+    {
+      "num": 467,
+      "title": "Cấp 18 (5000)"
+    },
+    {
+      "num": 468,
+      "title": "Nghề nghiệp ẩn mà người bình thường không thể khống chế (6000)"
+    },
+    {
+      "num": 469,
+      "title": "Là Hàn Phi, chứ không phải phường cướp bóc đâu! (5200 chữ, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 470,
+      "title": "Hóa ra hắn chính là chân tướng (4000 phiếu tháng)"
+    },
+    {
+      "num": 471,
+      "title": "Bằng chứng không lời (4000 phiếu tháng)"
+    },
+    {
+      "num": 472,
+      "title": "Ba câu nói, quậy tan cả trung tâm thương mại (Ba chương cầu vé tháng)"
+    },
+    {
+      "num": 473,
+      "title": "Vật tế cuối cùng (5000 nguyệt phiếu)"
+    },
+    {
+      "num": 474,
+      "title": "Thành phố quái dị vô tận (5000 nguyệt phiếu)"
+    },
+    {
+      "num": 475,
+      "title": "Kẻ ác ắt có kẻ ác trị (4000 phiếu tháng)"
+    },
+    {
+      "num": 476,
+      "title": "Ngươi đến giúp ta báo thù sao? (4000 phiếu tháng)"
+    },
+    {
+      "num": 477,
+      "title": "Lương tri lên tiếng, sự thật mở lời (Ba chương cầu phiếu tháng)"
+    },
+    {
+      "num": 478,
+      "title": "Ngọn đuốc ngã xuống, ngọn lửa vẫn bùng lên! (5000 phiếu tháng)"
+    },
+    {
+      "num": 479,
+      "title": "Phần thưởng nhiệm vụ vượt xa dự tính! (5000 phiếu tháng)"
+    },
+    {
+      "num": 480,
+      "title": "Tiếp quản trung tâm thương mại (4000 phiếu tháng)"
+    },
+    {
+      "num": 481,
+      "title": "Đám người chơi kia lúc mới đến đều phấn khích lắm (4000 phiếu tháng)"
+    },
+    {
+      "num": 482,
+      "title": "Một lần nữa gặp lại Vương Bình An (Cầu nguyệt phiếu chương thứ ba)"
+    },
+    {
+      "num": 483,
+      "title": "Bộ phim thứ ba của Hàn Phi (Cầu 4000 nguyệt phiếu)"
+    },
+    {
+      "num": 484,
+      "title": "Hồi tôi cấp mười, tôi đã làm chủ tầng rồi (Cầu 4000 nguyệt phiếu)"
+    },
+    {
+      "num": 485,
+      "title": "BOSS Hàn Phi (Ba lần cập nhật, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 486,
+      "title": "Dịch vụ phục vụ phòng trong thế giới tầng sâu (Cầu 4000 nguyệt phiếu)"
+    },
+    {
+      "num": 487,
+      "title": "Người chơi có chỉ số may mắn bằng không (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 488,
+      "title": "Năm vị tướng «Hổ» (4000 phiếu tháng)"
+    },
+    {
+      "num": 489,
+      "title": "Tôi chỉ cộng điểm thuần vào thể lực (4000 phiếu tháng)"
+    },
+    {
+      "num": 490,
+      "title": "Triển lãm nghệ thuật chữa lành (6000 phiếu tháng)"
+    },
+    {
+      "num": 491,
+      "title": "Đây chính là mèo con của anh đấy à?! (4000 phiếu tháng)"
+    },
+    {
+      "num": 492,
+      "title": "Qua màn! (6000 phiếu tháng)"
+    },
+    {
+      "num": 493,
+      "title": "Cổ họng từng bị thiên thần đấm (5200 phiếu tháng)"
+    },
+    {
+      "num": 494,
+      "title": "Mã số 031 (5200 phiếu đề cử xin phiếu tháng)"
+    },
+    {
+      "num": 495,
+      "title": "Trên tầng cao (4000 phiếu đề cử xin phiếu tháng)"
+    },
+    {
+      "num": 496,
+      "title": "Giọng hát của hắn (xin vé tháng)"
+    },
+    {
+      "num": 497,
+      "title": "Con mèo đồng hành cùng ác quỷ (Ba chương cầu nguyệt phiếu)"
+    },
+    {
+      "num": 498,
+      "title": "Kịch bản “Phẫu Thuật Thẩm Mỹ” (Cầu 4.000 nguyệt phiếu)"
+    },
+    {
+      "num": 499,
+      "title": "Phòng khám soi gương (6000 phiếu tháng)"
+    },
+    {
+      "num": 500,
+      "title": "Ngươi là ai (4000 phiếu tháng)"
+    },
+    {
+      "num": 501,
+      "title": "Có phải tôi thật sự không buồn cười đến thế? (Cầu phiếu tháng)"
+    },
+    {
+      "num": 502,
+      "title": "Người khiến cả người chơi lẫn NPC đều sợ hãi (Cầu phiếu tháng chương thứ ba)"
+    },
+    {
+      "num": 503,
+      "title": "Sự hung hãn sẽ khiến chúng phải khiếp sợ (4000 phiếu tháng)"
+    },
+    {
+      "num": 504,
+      "title": "Nụ cười tôi làm ra cho cô ấy (6000 phiếu tháng)"
+    },
+    {
+      "num": 505,
+      "title": "Nụ cười và trận cười điên dại (4000 cầu nguyệt phiếu)"
+    },
+    {
+      "num": 506,
+      "title": "Chủ nhà mới đến là một oán niệm khổng lồ (4000 chữ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 507,
+      "title": "《Nhà văn trinh thám》 công chiếu! (Ba chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 508,
+      "title": "《Nhà văn trinh thám》 công chiếu! (Ba chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 509,
+      "title": "Rốt cuộc ai mới là nam diễn viên trẻ có diễn xuất tốt nhất? (5000 phiếu tháng)"
+    },
+    {
+      "num": 510,
+      "title": "Màn thể hiện diễn xuất áp đảo đến đáng sợ (5000 phiếu tháng)"
+    },
+    {
+      "num": 511,
+      "title": "Diễn xuất áp đảo đến mức đáng sợ (4000 phiếu tháng)"
+    },
+    {
+      "num": 512,
+      "title": "Nam diễn viên phụ xuất sắc nhất (6000 phiếu tháng)"
+    },
+    {
+      "num": 513,
+      "title": "Danh hiệu xứng đáng"
+    },
+    {
+      "num": 514,
+      "title": "Tối nay cô ta sẽ đến tìm tôi (4000 phiếu tháng)"
+    },
+    {
+      "num": 515,
+      "title": "Ba mươi đứa trẻ (4000 phiếu tháng)"
+    },
+    {
+      "num": 516,
+      "title": "Anh Bạch, xuống đây chơi đi! (4000 phiếu tháng)"
+    },
+    {
+      "num": 517,
+      "title": "Không cần diễn xuất, tất cả đều là cảm xúc (6000 đề cử vé tháng)"
+    },
+    {
+      "num": 518,
+      "title": "Giấu mẹ đi (4000 phiếu đề cử tháng)"
+    },
+    {
+      "num": 519,
+      "title": "Sói già ơi, mấy giờ rồi? (6000 phiếu đề cử tháng)"
+    },
+    {
+      "num": 520,
+      "title": "Ký ức được đánh thức (4000 phiếu tháng)"
+    },
+    {
+      "num": 521,
+      "title": "Trí lực ban đầu tăng thêm 1 (6000 vé tháng)"
+    },
+    {
+      "num": 522,
+      "title": "Cô Nhi Viện Trắng tối đen như mực (4000 vé tháng)"
+    },
+    {
+      "num": 523,
+      "title": "Trại trẻ mồ côi màu trắng chìm trong bóng tối (6000 phiếu tháng)"
+    },
+    {
+      "num": 524,
+      "title": "Đêm Máu Đỏ Tái Hiện (6000 phiếu tháng)"
+    },
+    {
+      "num": 525,
+      "title": "Giới hạn của con người (4000 phiếu tháng)"
+    },
+    {
+      "num": 526,
+      "title": "Người hàng xóm mang hận đầu tiên của Hàn Phi (4000 phiếu tháng)"
+    },
+    {
+      "num": 527,
+      "title": "Người đồng đội thứ hai có thể cứu thế giới (6000 chữ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 528,
+      "title": "Đồng đội thứ hai có thể cứu cả thế giới (5000 phiếu đề cử)"
+    },
+    {
+      "num": 529,
+      "title": "Tim phổi ngừng đập! (5000 vé tháng)"
+    },
+    {
+      "num": 530,
+      "title": "Trời sắp giao trọng trách lớn cho người này (4000 phiếu tháng)"
+    },
+    {
+      "num": 531,
+      "title": "Khu Dân Cư Hạnh Phúc – Hội Người Chơi Đầu Tiên"
+    },
+    {
+      "num": 532,
+      "title": "Những nạn nhân đều có dung mạo xuất chúng (Ba chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 533,
+      "title": "Mở cửa đi, tôi đến tặng mọi người một bất ngờ đây (4000 phiếu tháng)"
+    },
+    {
+      "num": 534,
+      "title": "Nhiệm vụ cấp E – Nhân cách hoàn hảo (6000 phiếu tháng)"
+    },
+    {
+      "num": 535,
+      "title": "Tôi sẽ làm một trò chơi tình yêu kinh dị (4000 phiếu tháng)"
+    },
+    {
+      "num": 536,
+      "title": "Phó Sinh và cha mình (6000 phiếu tháng)"
+    },
+    {
+      "num": 537,
+      "title": "Sao tất cả bọn họ đều muốn giết mình? (5000 phiếu tháng)"
+    },
+    {
+      "num": 538,
+      "title": "Mối tình không chết không thôi (5200 phiếu tháng)"
+    },
+    {
+      "num": 539,
+      "title": "Thưa cô, con trai tôi còn cứu được không? (4000 phiếu tháng)"
+    },
+    {
+      "num": 540,
+      "title": "Ba người á? Cậu coi thường ai đấy? (6000 phiếu tháng)"
+    },
+    {
+      "num": 541,
+      "title": "Phóng tác từ trải nghiệm có thật"
+    },
+    {
+      "num": 542,
+      "title": "Giải quyết chuyện trường học của Phó Sinh (5000)"
+    },
+    {
+      "num": 543,
+      "title": "Nhiệm vụ ngẫu nhiên đầu tiên của Thần Khám (4000)"
+    },
+    {
+      "num": 544,
+      "title": "Nghề ẩn được thiết kế riêng cho mình? (5000)"
+    },
+    {
+      "num": 545,
+      "title": "Tình yêu là một chiếc cưa máy (4000)"
+    },
+    {
+      "num": 546,
+      "title": "Nam chính bị chia thành mười phần (Đã trở lại)"
+    },
+    {
+      "num": 547,
+      "title": "Nam chính bị chia thành mười phần bằng nhau (Đã trở lại)"
+    },
+    {
+      "num": 548,
+      "title": "Hắn có chỗ dựa đặc biệt"
+    },
+    {
+      "num": 549,
+      "title": "Bước đi đầu tiên của Phó Sinh"
+    },
+    {
+      "num": 550,
+      "title": "Mọi chuyện đang dần tốt đẹp hơn?"
+    },
+    {
+      "num": 551,
+      "title": "Trò chơi cuối cùng"
+    },
+    {
+      "num": 552,
+      "title": "Mỗi người một bụng tính toán"
+    },
+    {
+      "num": 553,
+      "title": "Ca khúc chủ đề của Hàn Phi"
+    },
+    {
+      "num": 554,
+      "title": "Người đàn ông có sức hút âm mười bốn"
+    },
+    {
+      "num": 555,
+      "title": "Tôi từng bị cô bé ấy giết chết không biết bao nhiêu lần"
+    },
+    {
+      "num": 556,
+      "title": "Khoảnh khắc ấm áp nhất"
+    },
+    {
+      "num": 557,
+      "title": "Bắt “cướp”"
+    },
+    {
+      "num": 558,
+      "title": "Tôi có cách tăng cấp đặc biệt"
+    },
+    {
+      "num": 559,
+      "title": "Cấp 20!"
+    },
+    {
+      "num": 560,
+      "title": "Điểm khác biệt lớn nhất giữa Hàn Phi và Phó Nghĩa"
+    },
+    {
+      "num": 561,
+      "title": "Lựa chọn thay đổi số phận"
+    },
+    {
+      "num": 562,
+      "title": "Ngày tồi tệ nhất trong đời?"
+    },
+    {
+      "num": 563,
+      "title": "Tôi vẫn muốn làm tấm gương cho con"
+    },
+    {
+      "num": 564,
+      "title": "Thật ra có một chuyện"
+    },
+    {
+      "num": 565,
+      "title": "Cha con"
+    },
+    {
+      "num": 566,
+      "title": "Thú nhận tất cả"
+    },
+    {
+      "num": 567,
+      "title": "Danh hiệu đặc biệt nhất của Thần Khám"
+    },
+    {
+      "num": 568,
+      "title": "Tin nhắn Tường Vi gửi đến"
+    },
+    {
+      "num": 569,
+      "title": "Đó là thứ gì vậy?"
+    },
+    {
+      "num": 570,
+      "title": "Mẹ ruột đã đến"
+    },
+    {
+      "num": 571,
+      "title": "Hộ lý mới tên là Phó Nghĩa"
+    },
+    {
+      "num": 572,
+      "title": "Tương lai này đã thay đổi"
+    },
+    {
+      "num": 573,
+      "title": "Bàn ăn của Mỹ Thần"
+    },
+    {
+      "num": 574,
+      "title": "Hai Thành Tựu Ẩn"
+    },
+    {
+      "num": 575,
+      "title": "Ta Không Dám Nghe Điện Thoại Của Vợ Cũ"
+    },
+    {
+      "num": 576,
+      "title": "Yên tâm ngủ đi!"
+    },
+    {
+      "num": 577,
+      "title": "Thoát chết trong gang tấc"
+    },
+    {
+      "num": 578,
+      "title": "Ngày thứ hai của thời gian thử việc"
+    },
+    {
+      "num": 579,
+      "title": "Tề tựu ở bệnh viện thẩm mỹ"
+    },
+    {
+      "num": 580,
+      "title": "Tôi muốn làm một con sâu bị anh giẫm chết"
+    },
+    {
+      "num": 581,
+      "title": "Lật hồ sơ của hắn ra xem, tôi chỉ thấy..."
+    },
+    {
+      "num": 582,
+      "title": "Ai đang trốn dưới gầm giường của cô ấy?"
+    },
+    {
+      "num": 583,
+      "title": "Đêm trước cơn bão"
+    },
+    {
+      "num": 584,
+      "title": "Cô bé được trời thương"
+    },
+    {
+      "num": 585,
+      "title": "Chẳng lẽ đây là một trò chơi kinh dị?"
+    },
+    {
+      "num": 586,
+      "title": "Thuốc"
+    },
+    {
+      "num": 587,
+      "title": "Lẻn vào bí mật"
+    },
+    {
+      "num": 588,
+      "title": "Thu phục A Trùng"
+    },
+    {
+      "num": 589,
+      "title": "Phương án điều trị của Hàn Phi"
+    },
+    {
+      "num": 590,
+      "title": "Ánh sáng duy nhất còn sót lại"
+    },
+    {
+      "num": 591,
+      "title": "Bảy khoa, bảy nỗi tuyệt vọng"
+    },
+    {
+      "num": 592,
+      "title": "Chướng ngại rối loạn hình thể"
+    },
+    {
+      "num": 593,
+      "title": "Tầm nhìn của người chơi hàng đầu"
+    },
+    {
+      "num": 594,
+      "title": "Thần khám đặc biệt nhất"
+    },
+    {
+      "num": 595,
+      "title": "Các người là món đồ chơi yêu thích nhất của chúng tôi"
+    },
+    {
+      "num": 596,
+      "title": "Sự tin tưởng của Phó Sinh"
+    },
+    {
+      "num": 597,
+      "title": "Tiếng cười điên dại và Phó Nghĩa"
+    },
+    {
+      "num": 598,
+      "title": "Vì sao vợ, vợ cũ và bạn gái đều muốn giết anh!"
+    },
+    {
+      "num": 599,
+      "title": "Bàn Ăn Của Thần Sắc Đẹp"
+    },
+    {
+      "num": 600,
+      "title": "Khôi Phu"
+    },
+    {
+      "num": 601,
+      "title": "Hắn không phải Phó Nghĩa!"
+    },
+    {
+      "num": 602,
+      "title": "Đi đi, cứ bước về phía trước, đến những nơi xa hơn"
+    },
+    {
+      "num": 603,
+      "title": "Bàn ăn của Từ Cầm"
+    },
+    {
+      "num": 604,
+      "title": "Ta cầu xin thần linh!"
+    },
+    {
+      "num": 605,
+      "title": "Hận ý thứ hai trong khu nhà chết"
+    },
+    {
+      "num": 606,
+      "title": "Tôi chính là vai phản diện chuyên nghiệp"
+    },
+    {
+      "num": 607,
+      "title": "Sáu diễn viên và một tên đồ tể (Chúc mừng năm mới)"
+    },
+    {
+      "num": 608,
+      "title": "Thỉnh thoảng chữa lành cho người khác (Đại cát đại lợi)"
+    },
+    {
+      "num": 609,
+      "title": "Chiếc thang máy không biết nói dối"
+    },
+    {
+      "num": 610,
+      "title": "Người trong tranh sơn dầu bước ra ngoài"
+    },
+    {
+      "num": 611,
+      "title": "Hàn Phi bị cô lập"
+    },
+    {
+      "num": 612,
+      "title": "Buổi livestream đầu tiên của Hàn Phi"
+    },
+    {
+      "num": 613,
+      "title": "Họ đã vứt bỏ hy vọng duy nhất của mình"
+    },
+    {
+      "num": 614,
+      "title": "Quá khứ của người thợ sơn"
+    },
+    {
+      "num": 615,
+      "title": "Ký ức tuổi thơ chân thực?"
+    },
+    {
+      "num": 616,
+      "title": "Màn trình diễn cá nhân"
+    },
+    {
+      "num": 617,
+      "title": "Số hiệu bốn"
+    },
+    {
+      "num": 618,
+      "title": "Chương trình quay hỏng mất rồi"
+    },
+    {
+      "num": 619,
+      "title": "Món ăn ngon nhất"
+    },
+    {
+      "num": 620,
+      "title": "Quái vật trong ô cửa sổ"
+    },
+    {
+      "num": 621,
+      "title": "Vật bị nguyền cấp D"
+    },
+    {
+      "num": 622,
+      "title": "Chú hề biến mất"
+    },
+    {
+      "num": 623,
+      "title": "Ngày hôm ấy, anh đã chờ được người đó (Chúc mọi người Tết Nguyên Tiêu vui vẻ!)"
+    },
+    {
+      "num": 624,
+      "title": "Xác suất một phần trăm nghìn"
+    },
+    {
+      "num": 625,
+      "title": "Những gì phải đến rồi sẽ đến"
+    },
+    {
+      "num": 626,
+      "title": "Công viên giải trí trên bản đồ ẩn"
+    },
+    {
+      "num": 627,
+      "title": "Nhiệm vụ kế thừa thần khám cấp D — Hồi sinh"
+    },
+    {
+      "num": 628,
+      "title": "Chứng hoang tưởng bị hại"
+    },
+    {
+      "num": 629,
+      "title": "Ai đang ở trong phòng?"
+    },
+    {
+      "num": 630,
+      "title": "Là ngươi sao?"
+    },
+    {
+      "num": 631,
+      "title": "99 lần"
+    },
+    {
+      "num": 632,
+      "title": "Lần này, cô ấy là hy vọng duy nhất"
+    },
+    {
+      "num": 633,
+      "title": "Cha mẹ xa lạ"
+    },
+    {
+      "num": 634,
+      "title": "Kẻ sát nhân và người cứu rỗi"
+    },
+    {
+      "num": 635,
+      "title": "Đến bản thân tôi cũng sợ chính mình"
+    },
+    {
+      "num": 636,
+      "title": "Thịt"
+    },
+    {
+      "num": 637,
+      "title": "Đồng bọn xuất hiện"
+    },
+    {
+      "num": 638,
+      "title": "Trò chơi tử thần không thể thoát ra"
+    },
+    {
+      "num": 639,
+      "title": "Đứa trẻ bị bỏ rơi mười một lần"
+    },
+    {
+      "num": 640,
+      "title": "Ngôi nhà thật sự của Hàn Phi"
+    },
+    {
+      "num": 641,
+      "title": "Lần đầu bắt ma"
+    },
+    {
+      "num": 642,
+      "title": "Hạnh phúc là một con quái vật giết người không chớp mắt, nhưng tôi vẫn muốn đến gần nó"
+    },
+    {
+      "num": 643,
+      "title": "Thanh đao"
+    },
+    {
+      "num": 644,
+      "title": "F"
+    },
+    {
+      "num": 645,
+      "title": "Thế giới trong mắt kẻ điên"
+    },
+    {
+      "num": 646,
+      "title": "Lời nhắc nhở của Chú Hề"
+    },
+    {
+      "num": 647,
+      "title": "Trái tim của Hạnh Phúc"
+    },
+    {
+      "num": 648,
+      "title": "Trò chơi của hai người quản lý"
+    },
+    {
+      "num": 649,
+      "title": "Mã số 0"
+    },
+    {
+      "num": 650,
+      "title": "Ảnh đại diện màu đen"
+    },
+    {
+      "num": 651,
+      "title": "Tôi đã từng thấy dáng vẻ hồi hồn của hắn"
+    },
+    {
+      "num": 652,
+      "title": "Cướp đoạt vật hiến tế"
+    },
+    {
+      "num": 653,
+      "title": "Taxi nửa đêm"
+    },
+    {
+      "num": 654,
+      "title": "Đêm quỷ dị"
+    },
+    {
+      "num": 655,
+      "title": "Người thứ ba"
+    },
+    {
+      "num": 656,
+      "title": "Bản năng!"
+    },
+    {
+      "num": 657,
+      "title": "Bát Tý Diêm La"
+    },
+    {
+      "num": 658,
+      "title": "Nhà dữ"
+    },
+    {
+      "num": 659,
+      "title": "Đây không phải loại thịt tôi muốn ăn"
+    },
+    {
+      "num": 660,
+      "title": "Thỉnh thoảng thả lỏng một chút"
+    },
+    {
+      "num": 661,
+      "title": "Sự ấm áp của mái nhà"
+    },
+    {
+      "num": 662,
+      "title": "Thời khắc ma quỷ hoành hành"
+    },
+    {
+      "num": 663,
+      "title": "Chìa khóa mở ra ký ức"
+    },
+    {
+      "num": 664,
+      "title": "Trở về nơi ký ức bắt đầu"
+    },
+    {
+      "num": 665,
+      "title": "Bí mật của thế giới tầng sâu"
+    },
+    {
+      "num": 666,
+      "title": "Người chơi mang mã số 0000, xin hãy chú ý"
+    },
+    {
+      "num": 667,
+      "title": "Hàn Phi gả quỷ"
+    },
+    {
+      "num": 668,
+      "title": "Ảnh gia đình"
+    },
+    {
+      "num": 669,
+      "title": "Thắt dây đỏ"
+    },
+    {
+      "num": 670,
+      "title": "Nàng biết quá khứ của ta, ta hứa với nàng một tương lai"
+    },
+    {
+      "num": 671,
+      "title": "Đám Cưới Bị Nguyền Rủa"
+    },
+    {
+      "num": 672,
+      "title": "Trở Lại Với Một Thân Phận Khác"
+    },
+    {
+      "num": 673,
+      "title": "Đây có được tính là bí mật ẩn trong game không?"
+    },
+    {
+      "num": 674,
+      "title": "Bắt đầu từ cái ác"
+    },
+    {
+      "num": 675,
+      "title": "Giết nó"
+    },
+    {
+      "num": 676,
+      "title": "Đánh mất lòng người"
+    },
+    {
+      "num": 677,
+      "title": "Bí mật của ma quỷ đời đầu"
+    },
+    {
+      "num": 678,
+      "title": "Con đường ta chọn"
+    },
+    {
+      "num": 679,
+      "title": "Cô gái được hồi sinh"
+    },
+    {
+      "num": 680,
+      "title": "Người quản lý thế giới tầng sâu đầu tiên"
+    },
+    {
+      "num": 681,
+      "title": "Năm người quản lý"
+    },
+    {
+      "num": 682,
+      "title": "Cơn ác mộng bắt đầu"
+    },
+    {
+      "num": 683,
+      "title": "Vợ ông ở trong cơ thể con gái ông"
+    },
+    {
+      "num": 684,
+      "title": "Nhân viên xuất sắc nhất Tiểu Giả"
+    },
+    {
+      "num": 685,
+      "title": "Ác mộng của hắn chẳng khác nào thiên tai"
+    },
+    {
+      "num": 686,
+      "title": "Nguồn cơn của ác mộng"
+    },
+    {
+      "num": 687,
+      "title": "Sự thật sắp được hé lộ"
+    },
+    {
+      "num": 688,
+      "title": "Những người thân của Hàn Phi"
+    },
+    {
+      "num": 689,
+      "title": "Giai đoạn chín"
+    },
+    {
+      "num": 690,
+      "title": "Tôi đang ở cấp mấy ấy nhỉ?"
+    },
+    {
+      "num": 691,
+      "title": "Những chuyện ma quái khắp thành phố"
+    },
+    {
+      "num": 692,
+      "title": "Một ngày bình thường của người bình thường"
+    },
+    {
+      "num": 693,
+      "title": "Vỏ bọc của giấc mơ"
+    },
+    {
+      "num": 694,
+      "title": "Nhân gian trong gương"
+    },
+    {
+      "num": 695,
+      "title": "Thanh Đao Đồ Sát Độc Quyền Cấp D"
+    },
+    {
+      "num": 696,
+      "title": "Nhà của đứa trẻ số bốn"
+    },
+    {
+      "num": 697,
+      "title": "Đứa trẻ mồ côi có cha mẹ ruột"
+    },
+    {
+      "num": 698,
+      "title": "Những đứa trẻ mồ côi có cha mẹ ruột"
+    },
+    {
+      "num": 699,
+      "title": "Bức ảnh của chúng ta"
+    },
+    {
+      "num": 700,
+      "title": "Quái vật nước, thủy quỷ"
+    },
+    {
+      "num": 701,
+      "title": "Não Hải, Thần Hồ"
+    },
+    {
+      "num": 702,
+      "title": "Giấc mơ chìm sâu dưới đáy hồ"
+    },
+    {
+      "num": 703,
+      "title": "Nghi lễ có sự tham gia của Hàn Phi"
+    },
+    {
+      "num": 704,
+      "title": "Khám Thờ Của Giấc Mơ"
+    },
+    {
+      "num": 705,
+      "title": "Điềm báo Đại Nghiệt thức tỉnh"
+    },
+    {
+      "num": 706,
+      "title": "Ngươi không thấy nó đáng yêu sao?"
+    },
+    {
+      "num": 707,
+      "title": "Tiểu Bát là một chiếc chìa khóa"
+    },
+    {
+      "num": 708,
+      "title": "Nó sống trong cơ thể của tất cả mọi người"
+    },
+    {
+      "num": 709,
+      "title": "Nơi sâu thẳm của tuyệt vọng, lòng tốt vẫn chưa từng biến mất"
+    },
+    {
+      "num": 710,
+      "title": "Đạo cụ đặc biệt thuộc loại ban phúc"
+    },
+    {
+      "num": 711,
+      "title": "Nhà máy nội tạng"
+    },
+    {
+      "num": 712,
+      "title": "Người đầu tiên mang nhân cách chữa lành"
+    },
+    {
+      "num": 713,
+      "title": "Chín mươi chín ký ức về cái chết"
+    },
+    {
+      "num": 714,
+      "title": "Giao dịch giữa Hàn Phi và Cuồng Tiếu"
+    },
+    {
+      "num": 715,
+      "title": "Diễn xuất lừa gạt cả thứ không thể gọi tên"
+    },
+    {
+      "num": 716,
+      "title": "Người quản lý Quỷ"
+    },
+    {
+      "num": 717,
+      "title": "Đường không lối về"
+    },
+    {
+      "num": 718,
+      "title": "Sự kế thừa của quỷ"
+    },
+    {
+      "num": 719,
+      "title": "Một trăm điểm!"
+    },
+    {
+      "num": 720,
+      "title": "Xin nghỉ một ngày để đi tìm tư liệu"
+    },
+    {
+      "num": 721,
+      "title": "Mê cung công viên giải trí"
+    },
+    {
+      "num": 722,
+      "title": "Hàn Phi và Hàn Phi bị hủy dung"
+    },
+    {
+      "num": 723,
+      "title": "Nhà trọ nơi nhân cách nghỉ ngơi"
+    },
+    {
+      "num": 724,
+      "title": "Bình đẳng giữa các nhân cách và cuộc bỏ phiếu sinh tử"
+    },
+    {
+      "num": 725,
+      "title": "Hung thủ là ai đã không còn quan trọng nữa"
+    },
+    {
+      "num": 726,
+      "title": "Mười phút giết chóc"
+    },
+    {
+      "num": 727,
+      "title": "Xin nghỉ một ngày, phó bản này sắp kết thúc rồi"
+    },
+    {
+      "num": 728,
+      "title": "Ngửa bài"
+    },
+    {
+      "num": 729,
+      "title": "Nhân cách duy nhất"
+    },
+    {
+      "num": 730,
+      "title": "Hàn Phi, người quản lý Công Viên"
+    },
+    {
+      "num": 731,
+      "title": "Ta, con quỷ đời đầu"
+    },
+    {
+      "num": 732,
+      "title": "Sống thành dáng vẻ của trùm phản diện"
+    },
+    {
+      "num": 733,
+      "title": "Trận chiến cuối cùng"
+    },
+    {
+      "num": 734,
+      "title": "Thành phố thuộc về Hàn Phi"
+    },
+    {
+      "num": 735,
+      "title": "Là anh hùng, cũng là ác quỷ"
+    },
+    {
+      "num": 736,
+      "title": "Đầu sóng ngọn gió"
+    },
+    {
+      "num": 737,
+      "title": "Toàn dân chứng kiến"
+    },
+    {
+      "num": 738,
+      "title": "Hai mươi bốn giờ"
+    },
+    {
+      "num": 739,
+      "title": "Trận chiến thành danh của Hoàng Doanh"
+    },
+    {
+      "num": 740,
+      "title": "Màn diễn chung"
+    },
+    {
+      "num": 741,
+      "title": "Cuộc đua sinh tử"
+    },
+    {
+      "num": 742,
+      "title": "Rửa sạch nghi ngờ"
+    },
+    {
+      "num": 743,
+      "title": "Xây dựng thành phố chuyện ma"
+    },
+    {
+      "num": 744,
+      "title": "Vốn liếng của Hàn Phi"
+    },
+    {
+      "num": 745,
+      "title": "Ma quỷ xâm nhập, tiếng cười điên dại và đầu óc rối loạn"
+    },
+    {
+      "num": 746,
+      "title": "Hôm nay cũng là một ngày đầy rẫy vận xui nhỉ"
+    },
+    {
+      "num": 747,
+      "title": "Chủ Nhật"
+    },
+    {
+      "num": 748,
+      "title": "Ác Sát và Cát Thần"
+    },
+    {
+      "num": 749,
+      "title": "Sân khấu của Hàn Phi"
+    },
+    {
+      "num": 750,
+      "title": "Lễ chào đón thành viên mới"
+    },
+    {
+      "num": 751,
+      "title": "Khẽ đánh thức tâm hồn đang ngủ say"
+    },
+    {
+      "num": 752,
+      "title": "Cái này lộ liễu quá rồi"
+    },
+    {
+      "num": 753,
+      "title": "Phân tích tác phẩm 《Kẻ Đồ Tể Bình Minh》"
+    },
+    {
+      "num": 754,
+      "title": "Gương Chết"
+    },
+    {
+      "num": 755,
+      "title": "Vùng xám"
+    },
+    {
+      "num": 756,
+      "title": "Hàn Phi – Chàng trai ngập tràn ánh nắng"
+    },
+    {
+      "num": 757,
+      "title": "Sở thích của Hàn Phi"
+    },
+    {
+      "num": 758,
+      "title": "Câu lạc bộ sát thủ trung lão niên"
+    },
+    {
+      "num": 759,
+      "title": "Tôi hơi run khi đứng trước sân khấu"
+    },
+    {
+      "num": 760,
+      "title": "Vũ Công Và Người Làm Vườn"
+    },
+    {
+      "num": 761,
+      "title": "Chuột Lang Đeo Mặt Nạ – Thành Viên Cốt Lõi"
+    },
+    {
+      "num": 762,
+      "title": "Buổi gặp mặt ngoài đời"
+    },
+    {
+      "num": 763,
+      "title": "Vụ án giết người bằng cảm xúc"
+    },
+    {
+      "num": 764,
+      "title": "Cuộc thi nghệ thuật cái chết"
+    },
+    {
+      "num": 765,
+      "title": "Tác phẩm mới Không Còn Ai Sống Sót"
+    },
+    {
+      "num": 766,
+      "title": "Thăng cấp"
+    },
+    {
+      "num": 767,
+      "title": "Sớm muộn gì cũng tóm gọn cả đám trong nhóm chat"
+    },
+    {
+      "num": 768,
+      "title": "Nhà máy gương Thọ Hỷ"
+    },
+    {
+      "num": 769,
+      "title": "Mưa lớn vẫn chưa ngừng, lòng tôi sợ hãi biết bao"
+    },
+    {
+      "num": 770,
+      "title": "Ác quỷ cũng chẳng biết tính toán chi li như ngươi"
+    },
+    {
+      "num": 771,
+      "title": "Nói thật với nhau"
+    },
+    {
+      "num": 772,
+      "title": "Lựa chọn của Hàn Phi và Cuồng Tiếu"
+    },
+    {
+      "num": 773,
+      "title": "Nhà của người làm vườn hoa"
+    },
+    {
+      "num": 774,
+      "title": "Hàn Phi không biết sợ hãi"
+    },
+    {
+      "num": 775,
+      "title": "Bạn đã từng bị ánh sáng chém chưa?"
+    },
+    {
+      "num": 776,
+      "title": "Cách chữa trị kẻ xấu"
+    },
+    {
+      "num": 777,
+      "title": "Manh mối về chủ nhân khu vườn"
+    },
+    {
+      "num": 778,
+      "title": "Hai người hoàn toàn khác biệt"
+    },
+    {
+      "num": 779,
+      "title": "Khiêu khích"
+    },
+    {
+      "num": 780,
+      "title": "Chúng ta ở giữa khe hở của thời đại mới và thời đại cũ"
+    },
+    {
+      "num": 781,
+      "title": "Làm chuyện mà bản thân luôn muốn làm"
+    },
+    {
+      "num": 782,
+      "title": "Bản đồ ẩn cấp D"
+    },
+    {
+      "num": 783,
+      "title": "Méo mó, dị dạng, tội ác"
+    },
+    {
+      "num": 784,
+      "title": "Quý Phu im lặng"
+    },
+    {
+      "num": 785,
+      "title": "Nơi méo mó đến mức khiến người ta kinh hãi"
+    },
+    {
+      "num": 786,
+      "title": "Vụ án thợ may quỷ"
+    },
+    {
+      "num": 787,
+      "title": "Hòa nhập hoàn hảo vào cuộc sống của cư dân bản địa"
+    },
+    {
+      "num": 788,
+      "title": "Ta chính là luật lệ của Hẻm Đỏ"
+    },
+    {
+      "num": 789,
+      "title": "Tai Quỷ"
+    },
+    {
+      "num": 790,
+      "title": "Kẻ sưu tầm tội ác"
+    },
+    {
+      "num": 791,
+      "title": "Cảnh sát đêm"
+    },
+    {
+      "num": 792,
+      "title": "Khuôn Mặt Trong Biển Máu"
+    },
+    {
+      "num": 793,
+      "title": "Tất cả"
+    },
+    {
+      "num": 794,
+      "title": "Hắn là nhân vật chính do chính tôi lựa chọn"
+    },
+    {
+      "num": 795,
+      "title": "Kẻ đào mộ"
+    },
+    {
+      "num": 796,
+      "title": "Vụ Án Lá Bài Quỷ Cấp D"
+    },
+    {
+      "num": 797,
+      "title": "Đứa trẻ mang nỗi sợ hãi"
+    },
+    {
+      "num": 798,
+      "title": "Đây chính là sở trường của tôi!"
+    },
+    {
+      "num": 799,
+      "title": "Người đàn bà độc ác"
+    },
+    {
+      "num": 800,
+      "title": "Mã số 2"
+    },
+    {
+      "num": 801,
+      "title": "Hắn mới là thiên tài thực sự"
+    },
+    {
+      "num": 802,
+      "title": "Ta sợ lắm, nhưng chỉ là giả vờ thôi"
+    },
+    {
+      "num": 803,
+      "title": "Bốn chúng ta rất mạnh"
+    },
+    {
+      "num": 804,
+      "title": "Xin nghỉ một ngày. Tối nay có chút việc, hôm nay không thể viết xong được."
+    },
+    {
+      "num": 805,
+      "title": "Đêm đen duy nhất"
+    },
+    {
+      "num": 806,
+      "title": "Ngày ăn thịt"
+    },
+    {
+      "num": 807,
+      "title": "Cái chết hay sự sống mới"
+    },
+    {
+      "num": 808,
+      "title": "Người anh hùng giữa màn đêm"
+    },
+    {
+      "num": 809,
+      "title": "Dấu hiệu ký ức hòa làm một"
+    },
+    {
+      "num": 810,
+      "title": "Tân Hộ về đêm"
+    },
+    {
+      "num": 811,
+      "title": "Không sao, còn có tôi đây"
+    },
+    {
+      "num": 812,
+      "title": "Tôi ngửa bài đây"
+    },
+    {
+      "num": 813,
+      "title": "Thẩm Lạc – Tên tội phạm siêu cấp"
+    },
+    {
+      "num": 814,
+      "title": "Kẻ gánh tội hoàn hảo"
+    },
+    {
+      "num": 815,
+      "title": "Ban đầu chỉ là một chút bất thường nhỏ"
+    },
+    {
+      "num": 816,
+      "title": "Thế giới trong mắt kẻ điên đã trở thành hiện thực"
+    },
+    {
+      "num": 817,
+      "title": "Trụ người sống trong tòa nhà chọc trời"
+    },
+    {
+      "num": 818,
+      "title": "Thưa bà, thứ bà đang tìm có phải là linh hồn ác độc này không?"
+    },
+    {
+      "num": 819,
+      "title": "Nỗi kinh hoàng của tồn tại không thể diễn tả bằng lời"
+    },
+    {
+      "num": 820,
+      "title": "Tầng năm mươi mốt"
+    },
+    {
+      "num": 821,
+      "title": "Nguyên phân"
+    },
+    {
+      "num": 822,
+      "title": "Căn Nhà Của Cái Chết"
+    },
+    {
+      "num": 823,
+      "title": "Họ đã trở lại"
+    },
+    {
+      "num": 824,
+      "title": "Lớp học đáng sợ nhất, tuyệt vọng nhất, điên cuồng nhất"
+    },
+    {
+      "num": 825,
+      "title": "Chúng ta, những người không có ngày mai"
+    },
+    {
+      "num": 826,
+      "title": "Cao Thành"
+    },
+    {
+      "num": 827,
+      "title": "Số phận đan xen quấn quýt"
+    },
+    {
+      "num": 828,
+      "title": "Quái vật là những kẻ như tôi sao?"
+    },
+    {
+      "num": 829,
+      "title": "Nhân cách Tham Lam, vực sâu nhân tính"
+    },
+    {
+      "num": 830,
+      "title": "Mối quan hệ thầy trò kiểu mẫu"
+    },
+    {
+      "num": 831,
+      "title": "Hàn Phi với vận may chạm nóc"
+    },
+    {
+      "num": 832,
+      "title": "Tiệc Máu"
+    },
+    {
+      "num": 833,
+      "title": "Đó là mẹ của hắn"
+    },
+    {
+      "num": 834,
+      "title": "Đổi lấy quỷ quái"
+    },
+    {
+      "num": 835,
+      "title": "Những chuẩn bị cuối cùng trước kỳ sát hạch"
+    },
+    {
+      "num": 836,
+      "title": "Đây là kiểu nhân cách thích thể hiện à?"
+    },
+    {
+      "num": 837,
+      "title": "Nhân Cách Chữa Lành Lại Chữa Chết Người?"
+    },
+    {
+      "num": 838,
+      "title": "Ngước nhìn trời sao, cúi nhìn vực thẳm"
+    },
+    {
+      "num": 839,
+      "title": "Tượng thần máu thịt"
+    },
+    {
+      "num": 840,
+      "title": "Bác sĩ Hàn Phi và y tá Tang Nữ"
+    },
+    {
+      "num": 841,
+      "title": "Nhân cách vật hiến tế trời sinh"
+    },
+    {
+      "num": 842,
+      "title": "Quái vật đã tụ họp đông đủ"
+    },
+    {
+      "num": 843,
+      "title": "Hôm nay không viết xong được, xin nghỉ một ngày, xin lỗi mọi người."
+    },
+    {
+      "num": 844,
+      "title": "Bắt Đầu Kiểm Tra (5000)"
+    },
+    {
+      "num": 845,
+      "title": "Nhân Cách Kỳ Tích"
+    },
+    {
+      "num": 846,
+      "title": "Không Được Thiếu Một Ai"
+    },
+    {
+      "num": 847,
+      "title": "Cho Đến Khi Mọi Điều Đều Như Ý Muốn"
+    },
+    {
+      "num": 848,
+      "title": "Cục Điều Tra Tai Ương"
+    },
+    {
+      "num": 849,
+      "title": "Trên mặt hắn viết rõ bốn chữ: Dạy người, cứu đời"
+    },
+    {
+      "num": 850,
+      "title": "Hóa ra hắn đã hiến tế chính mình"
+    },
+    {
+      "num": 851,
+      "title": "Quỷ Vương dạo phố, cùng tội ác đồng hành"
+    },
+    {
+      "num": 852,
+      "title": "Đây chính là cách tôi thu hút ma quỷ"
+    },
+    {
+      "num": 853,
+      "title": "Xin nghỉ một ngày, xin lỗi mọi người"
+    },
+    {
+      "num": 854,
+      "title": "Nỗi đau trong quá khứ tựa như biển sâu"
+    },
+    {
+      "num": 855,
+      "title": "Đôi mắt ngập tràn tuyệt vọng"
+    },
+    {
+      "num": 856,
+      "title": "Nhân cách thức tỉnh sáu lần"
+    },
+    {
+      "num": 857,
+      "title": "Tâm nguyện của Cao Thành"
+    },
+    {
+      "num": 858,
+      "title": "Hắn có niềm say mê công việc đến mức quá đáng"
+    },
+    {
+      "num": 859,
+      "title": "Người mẹ dịu dàng, xinh đẹp, lặng lẽ chịu đựng tất cả"
+    },
+    {
+      "num": 860,
+      "title": "Ý nghĩ điên rồ của Hàn Phi"
+    },
+    {
+      "num": 861,
+      "title": "Tranh thủ trời tối, dọn dẹp đám đồ chơi của ta một trận"
+    },
+    {
+      "num": 862,
+      "title": "Ta đi “quậy” về rồi đây"
+    },
+    {
+      "num": 863,
+      "title": "Bước đầu tiên trên con đường đoạt lấy thần vị"
+    },
+    {
+      "num": 864,
+      "title": "Thiên phú cấp bậc chưa xác định"
+    },
+    {
+      "num": 865,
+      "title": "Một mình gánh vác cả một đội"
+    },
+    {
+      "num": 866,
+      "title": "Cảnh báo đỏ cấp một, Hàn Phi"
+    },
+    {
+      "num": 867,
+      "title": "Số phận của diễn viên"
+    },
+    {
+      "num": 868,
+      "title": "Lễ trừ tà"
+    },
+    {
+      "num": 869,
+      "title": "Năng lực thiên phú – Kẻ không biết sợ"
+    },
+    {
+      "num": 870,
+      "title": "Xin nghỉ một ngày, hôm nay không viết xong được rồi"
+    },
+    {
+      "num": 871,
+      "title": "Thù mới hận cũ!"
+    },
+    {
+      "num": 872,
+      "title": "Bộ não giấu trong chiếc bình"
+    },
+    {
+      "num": 873,
+      "title": "Nhập viện"
+    },
+    {
+      "num": 874,
+      "title": "Nỗi sợ của bọn họ chẳng là gì so với tôi"
+    },
+    {
+      "num": 875,
+      "title": "Tôi ở đây"
+    },
+    {
+      "num": 876,
+      "title": "Thoát khỏi quỷ vực tâm thần"
+    },
+    {
+      "num": 877,
+      "title": "Trước khi giết ta, xin hãy nhẹ tay một chút"
+    },
+    {
+      "num": 878,
+      "title": "Nhân cách tham lam thức tỉnh lần thứ bảy"
+    },
+    {
+      "num": 879,
+      "title": "Tế lễ lần thứ hai"
+    },
+    {
+      "num": 880,
+      "title": "Tòa nhà ma ngã xuống, Hàn Phi ăn no"
+    },
+    {
+      "num": 881,
+      "title": "Những người già biến mất"
+    },
+    {
+      "num": 882,
+      "title": "Từ Đường Nhà Phó"
+    },
+    {
+      "num": 883,
+      "title": "Trường Thọ, Thiên Niên, Bất Tử, Vĩnh Sinh"
+    },
+    {
+      "num": 884,
+      "title": "Con quỷ ăn mất thời gian"
+    },
+    {
+      "num": 885,
+      "title": "Người bạn vô hình"
+    },
+    {
+      "num": 886,
+      "title": "Người chứng kiến thảm họa"
+    },
+    {
+      "num": 887,
+      "title": "Những con quái vật của tổ 13!"
+    },
+    {
+      "num": 888,
+      "title": "Dã tâm của Hàn Phi, thôn tính cả thành phố"
+    },
+    {
+      "num": 889,
+      "title": "Đôi mắt của Đại Nghiệt"
+    },
+    {
+      "num": 890,
+      "title": "Dám giết ngựa của ta?"
+    },
+    {
+      "num": 891,
+      "title": "Phong cách của kẻ cướp"
+    },
+    {
+      "num": 892,
+      "title": "Nhân cách Tàn Bạo"
+    },
+    {
+      "num": 893,
+      "title": "Moi đôi mắt thần linh"
+    },
+    {
+      "num": 894,
+      "title": "Vậy thì cứ để sinh nhật và ngày giỗ của nó trùng nhau"
+    },
+    {
+      "num": 895,
+      "title": "Xông thẳng lên trời!"
+    },
+    {
+      "num": 896,
+      "title": "Khoảnh khắc ấy, thế giới của hắn sụp đổ"
+    },
+    {
+      "num": 897,
+      "title": "Đỉnh cao của tai họa"
+    },
+    {
+      "num": 898,
+      "title": "Nghề ẩn – Hình Phu"
+    },
+    {
+      "num": 899,
+      "title": "Tám lần thức tỉnh! Đảo ngược số phận!"
+    },
+    {
+      "num": 900,
+      "title": "Kế hoạch điên cuồng"
+    },
+    {
+      "num": 901,
+      "title": "Bắt đầu phản công"
+    },
+    {
+      "num": 902,
+      "title": "Cứ điểm thứ tư"
+    },
+    {
+      "num": 903,
+      "title": "Kẻ thu gom hận ý"
+    },
+    {
+      "num": 904,
+      "title": "Hôm nay không viết xong được, xin nghỉ một ngày."
+    },
+    {
+      "num": 905,
+      "title": "Gia đình hạnh phúc trong tưởng tượng"
+    },
+    {
+      "num": 906,
+      "title": "Quỷ Mẫu? Thánh Mẫu?"
+    },
+    {
+      "num": 907,
+      "title": "Sự bất tử đáng ghê tởm đến nhường nào"
+    },
+    {
+      "num": 908,
+      "title": "Câu hồn"
+    },
+    {
+      "num": 909,
+      "title": "Đây là thứ quái quỷ gì vậy!"
+    },
+    {
+      "num": 910,
+      "title": "Cái giá của sự bất tử"
+    },
+    {
+      "num": 911,
+      "title": "Dù có biến thành quái vật"
+    },
+    {
+      "num": 912,
+      "title": "Thua thế nào được trong chính Thần Điện của mình? (5000)"
+    },
+    {
+      "num": 913,
+      "title": "Giới hạn của nhân cách"
+    },
+    {
+      "num": 914,
+      "title": "Cậu và tôi đều là những con ma cô độc"
+    },
+    {
+      "num": 915,
+      "title": "Dũng cảm không sợ hãi là bước đầu tiên để chạm đến kỳ tích"
+    },
+    {
+      "num": 916,
+      "title": "Tất Cả Đều Phát Điên Rồi"
+    },
+    {
+      "num": 917,
+      "title": "Thầy của các em đến rồi"
+    },
+    {
+      "num": 918,
+      "title": "Hy vọng cuối cùng của Tân Thành Hy Vọng"
+    },
+    {
+      "num": 919,
+      "title": "Tiếng cười điên dại đến tột cùng"
+    },
+    {
+      "num": 920,
+      "title": "Thế giới hoàn toàn mới"
+    },
+    {
+      "num": 921,
+      "title": "Điểm yếu của thần linh"
+    },
+    {
+      "num": 922,
+      "title": "Bạn có muốn làm đôi mắt của bố mẹ không?"
+    },
+    {
+      "num": 923,
+      "title": "Sinh ra từ hận, chết đi vì yêu"
+    },
+    {
+      "num": 924,
+      "title": "Ảnh chụp chung – Vật bị nguyền cấp C"
+    },
+    {
+      "num": 925,
+      "title": "Tòa nhà cấm, nghiên cứu viên cấp A Hàn Phi"
+    },
+    {
+      "num": 926,
+      "title": "Sự thật xảy ra trong tương lai"
+    },
+    {
+      "num": 927,
+      "title": "Viết không kịp nữa, xin nghỉ một ngày"
+    },
+    {
+      "num": 928,
+      "title": "Phát hiện kinh hoàng"
+    },
+    {
+      "num": 929,
+      "title": "Ngôi nhà cười điên dại"
+    },
+    {
+      "num": 930,
+      "title": "Có lẽ cũng được xem là một tin tốt"
+    },
+    {
+      "num": 931,
+      "title": "Bức tượng thần trong thang máy"
+    },
+    {
+      "num": 932,
+      "title": "Phó Cẩn"
+    },
+    {
+      "num": 933,
+      "title": "Hy vọng mà ông trời ban cho người tuyệt vọng nhất"
+    },
+    {
+      "num": 934,
+      "title": "Cây cầu nối liền hai thế giới"
+    },
+    {
+      "num": 935,
+      "title": "Tôi muốn xuống âm phủ bình tĩnh lại một chút"
+    },
+    {
+      "num": 936,
+      "title": "Tầng Mười Chín Địa Ngục Nối Liền Với Nhân Gian"
+    },
+    {
+      "num": 937,
+      "title": "Sâu Trong Hộp Đen"
+    },
+    {
+      "num": 938,
+      "title": "Ba Mươi Mốt Nỗi Tuyệt Vọng"
+    },
+    {
+      "num": 939,
+      "title": "Chúc mừng năm mới!"
+    },
+    {
+      "num": 940,
+      "title": "Giết thần"
+    },
+    {
+      "num": 941,
+      "title": "Quyết tâm của Hàn Phi"
+    },
+    {
+      "num": 942,
+      "title": "Tân Thần Hàn Phi"
+    },
+    {
+      "num": 943,
+      "title": "Nhân cách thức tỉnh lần thứ chín"
+    },
+    {
+      "num": 944,
+      "title": "Đại quỷ và tiểu quỷ"
+    },
+    {
+      "num": 945,
+      "title": "Chúng ta định tuyên chiến với Vĩnh Sinh Dược Nghiệp đấy à?"
+    },
+    {
+      "num": 946,
+      "title": "Não Bộ Suy Kiệt"
+    },
+    {
+      "num": 947,
+      "title": "Mạng Trời Và Màn Đêm"
+    },
+    {
+      "num": 948,
+      "title": "Đứa con của giấc mơ"
+    },
+    {
+      "num": 949,
+      "title": "Người thừa kế của Phó Sinh — Hàn Phi"
+    },
+    {
+      "num": 950,
+      "title": "Người có tiềm năng trở thành Kẻ Không Thể Gọi Tên nhất"
+    },
+    {
+      "num": 951,
+      "title": "Cảm ơn minh chủ Bạc của Pháo Hoa Dưới Trời Đầy Sao!"
+    },
+    {
+      "num": 952,
+      "title": "Thứ Năm"
+    },
+    {
+      "num": 953,
+      "title": "Lời hẹn trong đêm máu"
+    },
+    {
+      "num": 954,
+      "title": "Nỗi sợ hãi hiện ra giữa đời thực"
+    },
+    {
+      "num": 955,
+      "title": "Gặp Mặt"
+    },
+    {
+      "num": 956,
+      "title": "Tôi Và Tội Lỗi Của Mình"
+    },
+    {
+      "num": 957,
+      "title": "Không thể thoát game!"
+    },
+    {
+      "num": 958,
+      "title": "Mười một miếu thần bị ác mộng bao trùm"
+    },
+    {
+      "num": 959,
+      "title": "Chú ý! Hắn đến rồi"
+    },
+    {
+      "num": 960,
+      "title": "Chàng trai dưới nắng và cộng đồng Hạnh Phúc của hắn"
+    },
+    {
+      "num": 961,
+      "title": "Thư gửi độc giả nhân dịp năm mới"
+    },
+    {
+      "num": 962,
+      "title": "Bữa tiệc gia đình trong cơn ác mộng tầng thứ ba"
+    },
+    {
+      "num": 963,
+      "title": "Người chơi chữa lành ác mộng"
+    },
+    {
+      "num": 964,
+      "title": "Người ngoài hành tinh trong tầng ác mộng thứ tư"
+    },
+    {
+      "num": 965,
+      "title": "Cuộc họp khẩn cấp"
+    },
+    {
+      "num": 966,
+      "title": "Giới thiệu một cuốn sách của bạn"
+    },
+    {
+      "num": 967,
+      "title": "ương 955: Người hiểu tôi đều biết, tôi là người biết nói lý lẽ"
+    },
+    {
+      "num": 968,
+      "title": "Tầng ác mộng thứ sáu – Phố Bình An"
+    },
+    {
+      "num": 969,
+      "title": "Hiệp sĩ và công chúa"
+    },
+    {
+      "num": 970,
+      "title": "ương 958: Ta sẽ cho con tất cả hạnh phúc"
+    },
+    {
+      "num": 971,
+      "title": "Ngọn lửa"
+    },
+    {
+      "num": 972,
+      "title": "Không bao giờ bỏ cuộc! (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 973,
+      "title": "Người chơi duy nhất có thể thoát khỏi trò chơi"
+    },
+    {
+      "num": 974,
+      "title": "Tầng ác mộng thứ bảy: Trừ tà"
+    },
+    {
+      "num": 975,
+      "title": "Tìm trò chơi bắt ma"
+    },
+    {
+      "num": 976,
+      "title": "Ngọn lửa tham lam bắt đầu bùng cháy"
+    },
+    {
+      "num": 977,
+      "title": "Bắt đầu trừ tà"
+    },
+    {
+      "num": 978,
+      "title": "Tình yêu hóa thành quỷ dữ"
+    },
+    {
+      "num": 979,
+      "title": "Diễn viên hài trong cơn ác mộng tầng thứ tám"
+    },
+    {
+      "num": 980,
+      "title": "Khán giả duy nhất"
+    },
+    {
+      "num": 981,
+      "title": "Đừng đem lòng người ra thử thách"
+    },
+    {
+      "num": 982,
+      "title": "Ta Có Thể Chọn Làm Người Tốt, Cũng Có Thể Trở Thành Kẻ Xấu Xa Nhất"
+    },
+    {
+      "num": 983,
+      "title": "Cỗ Xe Đêm Ác Mộng Tầng Thứ Chín"
+    },
+    {
+      "num": 984,
+      "title": "Hai mối tình"
+    },
+    {
+      "num": 985,
+      "title": "ương 973: Suốt chặng đường gập ghềnh quanh co, nhưng tôi chưa từng hối hận"
+    },
+    {
+      "num": 986,
+      "title": "Giấc mơ ít giống ác mộng nhất"
+    },
+    {
+      "num": 987,
+      "title": "Điểm cuối cuộc đời tôi chính là em"
+    },
+    {
+      "num": 988,
+      "title": "Vị thần bị giam cầm"
+    },
+    {
+      "num": 989,
+      "title": "Mũ chơi game của Phó Sinh"
+    },
+    {
+      "num": 990,
+      "title": "Lời chúc phúc của những người từng sở hữu chiếc hộp đen"
+    },
+    {
+      "num": 991,
+      "title": "Người chơi số 2"
+    },
+    {
+      "num": 992,
+      "title": "Bức thư tuyệt mệnh trong cơn ác mộng tầng thứ mười một"
+    },
+    {
+      "num": 993,
+      "title": "Mộ Thôn"
+    },
+    {
+      "num": 994,
+      "title": "Lễ cúng"
+    },
+    {
+      "num": 995,
+      "title": "Làm quỷ"
+    },
+    {
+      "num": 996,
+      "title": "Đấng cứu thế “hèn hạ”"
+    },
+    {
+      "num": 997,
+      "title": "Mất tích hàng loạt"
+    },
+    {
+      "num": 998,
+      "title": "Nhà máy ác mộng"
+    },
+    {
+      "num": 999,
+      "title": "Nhà tôi?"
+    },
+    {
+      "num": 1000,
+      "title": "Ác mộng của Hàn Phi"
+    },
+    {
+      "num": 1001,
+      "title": "Sự cứu rỗi của con quỷ đời đầu"
+    },
+    {
+      "num": 1002,
+      "title": "Cái bẫy chết người mà cơn ác mộng giăng ra"
+    },
+    {
+      "num": 1003,
+      "title": "Cuộc đời tôi lúc nào cũng tuyệt vọng như vậy sao?"
+    },
+    {
+      "num": 1004,
+      "title": "Ba ngày"
+    },
+    {
+      "num": 1005,
+      "title": "Những vết thương trên người Cuồng Tiếu"
+    },
+    {
+      "num": 1006,
+      "title": "Cơn ác mộng cuối cùng: Mong cậu ngày nào cũng vui vẻ"
+    },
+    {
+      "num": 1007,
+      "title": "Bông hoa nở dưới đáy biển"
+    },
+    {
+      "num": 1008,
+      "title": "Cuối con đường định mệnh"
+    },
+    {
+      "num": 1009,
+      "title": "Tiếng cười điên dại của thứ không thể gọi tên"
+    },
+    {
+      "num": 1010,
+      "title": "Đêm máu"
+    },
+    {
+      "num": 1011,
+      "title": "Nụ cười để lại cho thế giới"
+    },
+    {
+      "num": 1012,
+      "title": "Thế giới không có anh"
+    },
+    {
+      "num": 1013,
+      "title": "Chào mừng đến với cuộc đời hoàn hảo (Đại kết cục)"
+    },
+    {
+      "num": 1014,
+      "title": "Ngoại truyện: Hé lộ nội dung"
+    },
+    {
+      "num": 1015,
+      "title": "Ngoại truyện: Đứa trẻ rồi cũng phải lớn lên"
+    },
+    {
+      "num": 1016,
+      "title": "Ra mắt sách mới: Nhà thiết kế game chuyện ma"
+    }
+  ],
+  "slug": "tro_choi_chua_lanh_cua_toi",
+  "title": "Trò Chơi Chữa Lành Của Tôi",
+  "author": "Ngã Hội Tu Không Điều",
+  "synopsis": "Truyện kinh dị đô thị của Ngã Hội Tu Không Điều (我会修空调), đã hoàn thành. Hàn Phi, một diễn viên hài vừa mất chương trình, được ông chủ tiệm đồ cũ giới thiệu một chiếc kính chơi game mang nhãn \"game chữa lành\". Nhưng trò chơi ấy mở đầu bằng việc mở hộp sọ người chơi, và những oan hồn, ác quỷ trong game dần xuất hiện ngoài đời thực. Thay vì tiêu diệt chúng, Hàn Phi tìm hiểu nỗi đau và chấp niệm của từng linh hồn để hóa giải oán hận, theo cách riêng của anh. Giọng truyện pha kinh dị, hài đen và những khoảnh khắc ấm áp.",
+  "coverColor": "#3b3355"
+}
