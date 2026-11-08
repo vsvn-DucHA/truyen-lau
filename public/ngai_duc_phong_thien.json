@@ -1,0 +1,6690 @@
+{
+  "totalChapters": 1670,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Thư sinh Mạnh Hạo"
+    },
+    {
+      "num": 2,
+      "title": "Kháo Sơn Tông"
+    },
+    {
+      "num": 3,
+      "title": "Thăng cấp lên ngoại tông"
+    },
+    {
+      "num": 4,
+      "title": "Một chiếc gương đồng"
+    },
+    {
+      "num": 5,
+      "title": "Đứa trẻ này khá lắm"
+    },
+    {
+      "num": 6,
+      "title": "Niềm vui của chiếc gương đồng"
+    },
+    {
+      "num": 7,
+      "title": "Ta muốn linh thạch!"
+    },
+    {
+      "num": 8,
+      "title": "Triệu Võ Cương"
+    },
+    {
+      "num": 9,
+      "title": "Nỗi lòng chẳng đành và sự mờ mịt"
+    },
+    {
+      "num": 10,
+      "title": "Vương Đằng Phi"
+    },
+    {
+      "num": 11,
+      "title": "Chi nhánh Tiệm Dưỡng Đan"
+    },
+    {
+      "num": 12,
+      "title": "Hứa Sư Tỷ thật tốt"
+    },
+    {
+      "num": 13,
+      "title": "Gã Đàn Ông Vạm Vỡ Tào Dương"
+    },
+    {
+      "num": 14,
+      "title": "Uy Hiếp"
+    },
+    {
+      "num": 15,
+      "title": "Ra tay quyết đoán!"
+    },
+    {
+      "num": 16,
+      "title": "Đưa đây!"
+    },
+    {
+      "num": 17,
+      "title": "Chính mình mới là chỗ dựa lớn nhất!"
+    },
+    {
+      "num": 18,
+      "title": "Ngoại tông Tiểu Bàn"
+    },
+    {
+      "num": 19,
+      "title": "Sóng gió lại nổi lên"
+    },
+    {
+      "num": 20,
+      "title": "Tiến vào Hắc Sơn!"
+    },
+    {
+      "num": 21,
+      "title": "Mạnh Hạo, ngươi thật vô sỉ!"
+    },
+    {
+      "num": 22,
+      "title": "Kiếm giấu trong da yêu mãng!"
+    },
+    {
+      "num": 23,
+      "title": "Dị thú thời thượng cổ！"
+    },
+    {
+      "num": 24,
+      "title": "Là Ai!!"
+    },
+    {
+      "num": 25,
+      "title": "Chúa Tể Bầu Trời"
+    },
+    {
+      "num": 26,
+      "title": "Rối như tơ vò"
+    },
+    {
+      "num": 27,
+      "title": "Gió mây lại nổi"
+    },
+    {
+      "num": 28,
+      "title": "Thượng Quan Tu"
+    },
+    {
+      "num": 29,
+      "title": "Thử luyện vào nội môn"
+    },
+    {
+      "num": 30,
+      "title": "Giết Hàn Tông, chiến Đằng Phi!"
+    },
+    {
+      "num": 31,
+      "title": "Chiến!"
+    },
+    {
+      "num": 32,
+      "title": "Một chỉ này ngày trước đã làm nhục ta, hôm nay phế bỏ nó!"
+    },
+    {
+      "num": 33,
+      "title": "Thanh kiếm này cũng là của ngươi sao?"
+    },
+    {
+      "num": 34,
+      "title": "Danh tiếng từ ngàn năm trước!"
+    },
+    {
+      "num": 35,
+      "title": "Ta không cam lòng!"
+    },
+    {
+      "num": 36,
+      "title": "Đãi ngộ của đệ tử nội môn"
+    },
+    {
+      "num": 37,
+      "title": "Nước và mực giữa hoàng hôn"
+    },
+    {
+      "num": 38,
+      "title": "Thái Linh Kinh, quyển Ngưng Khí!"
+    },
+    {
+      "num": 39,
+      "title": "Lão tổ Khá Sơn!"
+    },
+    {
+      "num": 40,
+      "title": "Thái Linh Kinh!"
+    },
+    {
+      "num": 41,
+      "title": "Chấn động toàn nước Triệu!"
+    },
+    {
+      "num": 42,
+      "title": "Ai dám động vào hắn!"
+    },
+    {
+      "num": 43,
+      "title": "Độc đinh duy nhất!"
+    },
+    {
+      "num": 44,
+      "title": "Chứng đạo tại Bắc Hải!"
+    },
+    {
+      "num": 45,
+      "title": "Ngoảnh đầu nhìn lại, chốn hồng trần đã trôi qua ba năm"
+    },
+    {
+      "num": 46,
+      "title": "Ba cây trường thương"
+    },
+    {
+      "num": 47,
+      "title": "Gặp lại Thượng Quan Tu"
+    },
+    {
+      "num": 48,
+      "title": "Tống Lão Quái và Ngô Đinh Thu"
+    },
+    {
+      "num": 49,
+      "title": "Ngọn núi thử luyện"
+    },
+    {
+      "num": 50,
+      "title": "Ngọn Thương Sắt"
+    },
+    {
+      "num": 51,
+      "title": "Bảo Sơn này của lão phu…"
+    },
+    {
+      "num": 52,
+      "title": "Thu hoạch lớn"
+    },
+    {
+      "num": 53,
+      "title": "Ngươi định cảm ơn ta thế nào?"
+    },
+    {
+      "num": 54,
+      "title": "Người cũ cùng tông môn"
+    },
+    {
+      "num": 55,
+      "title": "Ép người quá đáng!"
+    },
+    {
+      "num": 56,
+      "title": "Mạnh huynh, ngươi không đổi cũng phải đổi!"
+    },
+    {
+      "num": 57,
+      "title": "Đây là tội tình gì chứ..."
+    },
+    {
+      "num": 58,
+      "title": "Nơi này không thuộc về thế giới của nó"
+    },
+    {
+      "num": 59,
+      "title": "Không thấy Trường An"
+    },
+    {
+      "num": 60,
+      "title": "Tử khí không tan"
+    },
+    {
+      "num": 61,
+      "title": "Biến cố kinh hoàng ở Nam Vực!"
+    },
+    {
+      "num": 62,
+      "title": "Sóng trước chưa yên"
+    },
+    {
+      "num": 63,
+      "title": "Sóng gió lại nổi lên!"
+    },
+    {
+      "num": 64,
+      "title": "Thông báo"
+    },
+    {
+      "num": 65,
+      "title": "Thảm án bắt nguồn từ một cây ngân thương"
+    },
+    {
+      "num": 66,
+      "title": "Trận chiến trên Bắc Hải!"
+    },
+    {
+      "num": 67,
+      "title": "Đại ân!"
+    },
+    {
+      "num": 68,
+      "title": "Cái chết của Đinh Tín"
+    },
+    {
+      "num": 69,
+      "title": "Thiên Hà Phường"
+    },
+    {
+      "num": 70,
+      "title": "Công tử Đinh"
+    },
+    {
+      "num": 71,
+      "title": "Đột phá Ngưng Khí tầng 9!"
+    },
+    {
+      "num": 72,
+      "title": "Đổng Hổ"
+    },
+    {
+      "num": 73,
+      "title": "Nam Nhi Kiếp Này!"
+    },
+    {
+      "num": 74,
+      "title": "Trận Chiến Dữ Dội!"
+    },
+    {
+      "num": 75,
+      "title": "Tuổi đời chẳng qua chín chín!"
+    },
+    {
+      "num": 76,
+      "title": "Con đường tu luyện thời viễn cổ lại xuất hiện!"
+    },
+    {
+      "num": 77,
+      "title": "Trên cả cảnh giới Trúc Cơ Vô Hạ!"
+    },
+    {
+      "num": 78,
+      "title": "Thiên Cơ Thượng Nhân"
+    },
+    {
+      "num": 79,
+      "title": "Không thể không tin!"
+    },
+    {
+      "num": 80,
+      "title": "Giết bằng mọi giá!"
+    },
+    {
+      "num": 81,
+      "title": "Mưu tính của Mạnh Hạo!"
+    },
+    {
+      "num": 82,
+      "title": "Động phủ của lão tổ!"
+    },
+    {
+      "num": 83,
+      "title": "Đại pháp Yêu Sinh!"
+    },
+    {
+      "num": 84,
+      "title": "Lão tổ, độc trong người đệ tử..."
+    },
+    {
+      "num": 85,
+      "title": "Mạnh Hạo, ngươi muốn làm gì?"
+    },
+    {
+      "num": 86,
+      "title": "Ngọc cổ Phong Yêu!"
+    },
+    {
+      "num": 87,
+      "title": "Đèn Yêu Ngăn Cách Thiên Địa Vẫn Còn!"
+    },
+    {
+      "num": 88,
+      "title": "Ta muốn đạt đến đỉnh cao tầng 13 Ngưng Khí!"
+    },
+    {
+      "num": 89,
+      "title": "Bản tôn của Thiên Cơ"
+    },
+    {
+      "num": 90,
+      "title": "Cổ Ất Đinh 3 Vũ!"
+    },
+    {
+      "num": 91,
+      "title": "Con đường phong yêu cổ xưa, ý niệm tựa kinh văn"
+    },
+    {
+      "num": 92,
+      "title": "Nhân quả báo ứng, sớm muộn cũng đến"
+    },
+    {
+      "num": 93,
+      "title": "Diệt sát tu sĩ Trúc Cơ!"
+    },
+    {
+      "num": 94,
+      "title": "Chém Đại Đạo, đổi trời đất, yêu tung hoành ý chí!"
+    },
+    {
+      "num": 95,
+      "title": "Ngươi thật sự muốn lão phu xuất hiện?"
+    },
+    {
+      "num": 96,
+      "title": "Một trận gió mưa, một trận lạnh lẽo (Hết quyển 1)"
+    },
+    {
+      "num": 97,
+      "title": "Yêu Ngọc Trong Sơn Cốc Rung Động"
+    },
+    {
+      "num": 98,
+      "title": "Xung Kích Trúc Cơ Trong Sơn Cốc"
+    },
+    {
+      "num": 99,
+      "title": "Sợi dây đỏ trong thung lũng"
+    },
+    {
+      "num": 100,
+      "title": "Thăng lên Trúc Cơ!"
+    },
+    {
+      "num": 101,
+      "title": "Một Nhát Đao, Không Tì Vết"
+    },
+    {
+      "num": 102,
+      "title": "Phong Yêu đời thứ tám!"
+    },
+    {
+      "num": 103,
+      "title": "Phong Yêu cấm thứ tám!"
+    },
+    {
+      "num": 104,
+      "title": "Bảo vật được kéo lên"
+    },
+    {
+      "num": 105,
+      "title": "Gió lớn nổi lên, chim Bằng tung cánh"
+    },
+    {
+      "num": 106,
+      "title": "Đóa hoa độc trong mắt phải"
+    },
+    {
+      "num": 107,
+      "title": "Hoa Bỉ Ngạn nở, trời hiện bảy sắc"
+    },
+    {
+      "num": 108,
+      "title": "Xuân Thu Mộc"
+    },
+    {
+      "num": 109,
+      "title": "Cuộc tranh đấu ngầm đã bắt đầu"
+    },
+    {
+      "num": 110,
+      "title": "Truyền thuyết về Thái Ách"
+    },
+    {
+      "num": 111,
+      "title": "Sát ý của Sở Ngọc Yên"
+    },
+    {
+      "num": 112,
+      "title": "Côn Bằng Và Ứng Long！"
+    },
+    {
+      "num": 113,
+      "title": "Khi ấy, lúc này"
+    },
+    {
+      "num": 114,
+      "title": "Tế đàn giữa hồ!"
+    },
+    {
+      "num": 115,
+      "title": "Đa tạ đạo hữu Sở Ngọc Yên"
+    },
+    {
+      "num": 116,
+      "title": "Có muốn ra ngoài không"
+    },
+    {
+      "num": 117,
+      "title": "Truyền thừa của Tiên!"
+    },
+    {
+      "num": 118,
+      "title": "Trừng phạt nhẹ một phen"
+    },
+    {
+      "num": 119,
+      "title": "Không vào Thiên Sơn, chẳng thể thành tiên"
+    },
+    {
+      "num": 120,
+      "title": "Truyền thừa chấn động Nam Vực"
+    },
+    {
+      "num": 121,
+      "title": "Năm tông môn và ba gia tộc ở Nam Địa"
+    },
+    {
+      "num": 122,
+      "title": "Vấn Đỉnh — Lời Tâm Tình"
+    },
+    {
+      "num": 123,
+      "title": "Huyết thần của Mạnh Hạo"
+    },
+    {
+      "num": 124,
+      "title": "Thực hiện lời hẹn"
+    },
+    {
+      "num": 125,
+      "title": "Thu Linh Thức Vào Trong Cơ Thể"
+    },
+    {
+      "num": 126,
+      "title": "Đặt quân phá trận"
+    },
+    {
+      "num": 127,
+      "title": "Trận pháp này tồn tại vì nó"
+    },
+    {
+      "num": 128,
+      "title": "Đột nhiên xảy ra biến cố"
+    },
+    {
+      "num": 129,
+      "title": "Đây là lời hứa của ta dành cho ngươi!"
+    },
+    {
+      "num": 130,
+      "title": "Trận thứ một trăm hai mươi tám của Lý Đạo Nhất!"
+    },
+    {
+      "num": 131,
+      "title": "Lão tổ Lý Gia!"
+    },
+    {
+      "num": 132,
+      "title": "Trúc Cơ Hoàn Mỹ!! (Kèm lời tâm tình khi lên kệ)"
+    },
+    {
+      "num": 133,
+      "title": "Lần đầu đến Nam Vực, ta mang theo lời hứa mà đến!"
+    },
+    {
+      "num": 134,
+      "title": "Lần đầu đến Nam Vực, Đài Đạo hoàn mỹ!"
+    },
+    {
+      "num": 135,
+      "title": "Lần đầu đến Nam Vực, ngươi dám không!"
+    },
+    {
+      "num": 136,
+      "title": "Lần đầu đặt chân đến Nam Vực, Phong Yêu Đệ Bát Cấm! (Canh thứ tư)"
+    },
+    {
+      "num": 137,
+      "title": "Lần đầu đặt chân đến Nam Vực, lao vút khỏi miệng núi lửa! (Canh thứ năm)"
+    },
+    {
+      "num": 138,
+      "title": "Lần đầu đặt chân đến Nam Vực, Chu Đại Nha! (Canh thứ sáu)"
+    },
+    {
+      "num": 139,
+      "title": "Lần đầu đặt chân đến Nam Vực, vị tổ thứ mười của nhà họ Vương! (Phần một)"
+    },
+    {
+      "num": 140,
+      "title": "Lần đầu đặt chân đến Nam Vực, Như Ý Ấn (Canh thứ hai)"
+    },
+    {
+      "num": 141,
+      "title": "Lần đầu đặt chân đến Nam Vực, Lá Sấm (Canh thứ ba)"
+    },
+    {
+      "num": 142,
+      "title": "Lần đầu đặt chân đến Nam Vực, không hiểu quy củ sao? (Canh thứ tư)"
+    },
+    {
+      "num": 143,
+      "title": "Lần đầu đặt chân đến Nam Vực, Dưỡng Nhan Đan lại xuất hiện! (Canh thứ năm)"
+    },
+    {
+      "num": 144,
+      "title": "Lần đầu đặt chân đến Nam Vực – Thanh La Tông (Canh thứ sáu)"
+    },
+    {
+      "num": 145,
+      "title": "Lần đầu đến Nam Vực – Bóng ma lúc nửa đêm! (Canh thứ nhất)"
+    },
+    {
+      "num": 146,
+      "title": "Lần đầu đặt chân đến Nam Vực – Bóng người giữa đám đông trong ánh mắt thoáng nhìn ấy! (Phần ..."
+    },
+    {
+      "num": 147,
+      "title": "Lần đầu đặt chân đến Nam Vực – Con đường cổ dẫn vào núi! (Chương thứ ba)"
+    },
+    {
+      "num": 148,
+      "title": "Lần đầu đặt chân đến Nam Vực, nơi này thật đáng ghét! (Canh thứ tư)"
+    },
+    {
+      "num": 149,
+      "title": "Lần đầu đặt chân đến Nam Vực, bốn mắt nhìn nhau! (Canh thứ năm)"
+    },
+    {
+      "num": 150,
+      "title": "Lần đầu đặt chân đến Nam Vực, tình thế căng như dây đàn! (Canh thứ sáu)"
+    },
+    {
+      "num": 151,
+      "title": "Vừa đặt chân đến Nam Vực, sát khí đã nổi lên!"
+    },
+    {
+      "num": 152,
+      "title": "Vừa Đến Nam Vực, Mọi Chuyện Đều Giản Đơn"
+    },
+    {
+      "num": 153,
+      "title": "Lần đầu đặt chân đến Nam Vực, để ta tự mình làm! (Canh một)"
+    },
+    {
+      "num": 154,
+      "title": "Lần đầu đặt chân đến Nam Vực, lời người xưa dưới trăng (Canh hai)"
+    },
+    {
+      "num": 155,
+      "title": "Mới đến Nam Vực, ngăn cản! (Canh ba)"
+    },
+    {
+      "num": 156,
+      "title": "Vừa đặt chân đến Nam Vực, mỗi người một con đường (Canh thứ tư)"
+    },
+    {
+      "num": 157,
+      "title": "Vừa đặt chân đến Nam Vực, người cuối cùng (Canh thứ năm)"
+    },
+    {
+      "num": 158,
+      "title": "Vừa đặt chân đến Nam Vực, sự dè chừng dành cho Mạnh Hạo! (Canh thứ sáu)"
+    },
+    {
+      "num": 159,
+      "title": "Lần đầu đặt chân đến Nam Vực, phương đỉnh xuất hiện bên ngoài! (Chương đầu tiên)"
+    },
+    {
+      "num": 160,
+      "title": "Lần đầu đặt chân đến Nam Vực, há có thể cùng họ Quý tồn tại! (Chương thứ hai)"
+    },
+    {
+      "num": 161,
+      "title": "Lần đầu đặt chân đến Nam Vực, ngoài vuông trong tròn, thế lớn của đất trời! (Chương đầu tiên)"
+    },
+    {
+      "num": 162,
+      "title": "Lần đầu đặt chân đến Nam Vực, chín dòng họ cổ không có họ Mạnh! (Canh thứ tư)"
+    },
+    {
+      "num": 163,
+      "title": "Lần đầu đặt chân đến Nam Vực, Cực Yếm xuất hiện! (Canh thứ năm)"
+    },
+    {
+      "num": 164,
+      "title": "Mới Đến Nam Vực – Mưu Mô Xảo Quyệt! (Canh thứ sáu)"
+    },
+    {
+      "num": 165,
+      "title": "Lần đầu đặt chân đến Nam Vực, giết người bằng sự dịu dàng! (Canh thứ bảy)"
+    },
+    {
+      "num": 166,
+      "title": "Lần đầu đặt chân đến Nam Vực, khí tức của con chim kia (Canh thứ tám!)"
+    },
+    {
+      "num": 167,
+      "title": "Lần đầu đến Nam Vực – Cây Dâu Sấm Bì La! (Canh thứ chín!)"
+    },
+    {
+      "num": 168,
+      "title": "Lần đầu đặt chân đến Nam Vực, Cực Yếm nhận chủ! (Canh thứ mười!)"
+    },
+    {
+      "num": 169,
+      "title": "Chiến thắng chính mình mới là đứng đầu thực sự"
+    },
+    {
+      "num": 170,
+      "title": "Lần đầu đặt chân đến Nam Vực, ngươi làm vậy thật chẳng có đạo đức chút nào"
+    },
+    {
+      "num": 171,
+      "title": "Lần đầu đặt chân đến Nam Vực, nhà họ Tiêu tặng hồ"
+    },
+    {
+      "num": 172,
+      "title": "Lần đầu đặt chân đến Nam Vực – Trời ơi, ngươi thật sự không biết sao?"
+    },
+    {
+      "num": 173,
+      "title": "Lần đầu đặt chân đến Nam Vực – Nỗi cô đơn của Tang La"
+    },
+    {
+      "num": 174,
+      "title": "Lần đầu đặt chân đến Nam Vực, Đạo Tử Huyết Yêu"
+    },
+    {
+      "num": 175,
+      "title": "Lần đầu đặt chân đến Nam Vực, đột phá Trúc Cơ trung kỳ!"
+    },
+    {
+      "num": 176,
+      "title": "Mới Đến Nam Vực – Bị Thiên Địa Chối Bỏ, Vậy Thì Cướp Đoạt!"
+    },
+    {
+      "num": 177,
+      "title": "Lần đầu đặt chân đến Nam Vực – Đỉnh cao Trúc Cơ hoàn mỹ trung kỳ!"
+    },
+    {
+      "num": 178,
+      "title": "Lần đầu đặt chân đến Nam Vực – Lý Thi Kỳ (Chương đầu tiên trong ngày)"
+    },
+    {
+      "num": 179,
+      "title": "Lần đầu đến Nam Vực, tin cái đầu bà ngươi ấy (Canh hai)"
+    },
+    {
+      "num": 180,
+      "title": "Lần đầu đặt chân đến Nam Vực, biết tận dụng lợi thế (Canh thứ ba)"
+    },
+    {
+      "num": 181,
+      "title": "Lần đầu đặt chân đến Nam Vực – Người cũ"
+    },
+    {
+      "num": 182,
+      "title": "Vừa đến Nam Vực, huynh đệ đồng môn"
+    },
+    {
+      "num": 183,
+      "title": "Lần đầu đến Nam Vực, Sơn Linh! (Canh một)"
+    },
+    {
+      "num": 184,
+      "title": "Lần đầu đến Nam Vực – Kỳ phùng địch thủ, tướng gặp được tài! (Canh một)"
+    },
+    {
+      "num": 185,
+      "title": "Vừa vào Nam Vực, ngoài người còn có chim, ngoài trời còn có chim! (Phần 1)"
+    },
+    {
+      "num": 186,
+      "title": "Vừa vào Nam Vực, vẻ ngượng ngùng đã lâu không gặp (Phần 4)"
+    },
+    {
+      "num": 187,
+      "title": "… Chờ bạn gia nhập!!"
+    },
+    {
+      "num": 188,
+      "title": "Lần đầu đặt chân đến Nam Vực, Thất Ý Diệt"
+    },
+    {
+      "num": 189,
+      "title": "Lần đầu đặt chân đến Nam Vực, lời hẹn với nhà họ Tống"
+    },
+    {
+      "num": 190,
+      "title": "Lần đầu đặt chân đến Nam Vực, lại gặp Vương Đằng Phi! (Canh một)"
+    },
+    {
+      "num": 191,
+      "title": "Lần đầu đến Nam Vực, gặp lại người quen – Tiểu Béo (Chương thứ hai trong ngày)"
+    },
+    {
+      "num": 192,
+      "title": "Lần đầu đến Nam Vực, tình yêu chân thành vô giá! (Chương thứ ba trong ngày)"
+    },
+    {
+      "num": 193,
+      "title": "Vừa đến Nam Vực, kẻ thù kéo đến đông đủ! (Canh bốn)"
+    },
+    {
+      "num": 194,
+      "title": "Vừa Đặt Chân Đến Nam Vực, Thượng Tôn!! (Canh thứ năm)"
+    },
+    {
+      "num": 195,
+      "title": "Vừa Đặt Chân Đến Nam Vực – Thua Liên Tiếp!"
+    },
+    {
+      "num": 196,
+      "title": "Lần đầu đặt chân đến Nam Vực, trò đùa của Hàn Bối"
+    },
+    {
+      "num": 197,
+      "title": "Lần đầu đặt chân đến Nam Vực, nở rộ vào lúc bình minh!"
+    },
+    {
+      "num": 198,
+      "title": "Lần đầu đặt chân đến Nam Vực – Ý niệm về Kiến Mộc thuở xưa"
+    },
+    {
+      "num": 199,
+      "title": "Lần đầu đặt chân đến Nam Vực – Linh áp đè bẹp mọi người"
+    },
+    {
+      "num": 200,
+      "title": "Lần đầu đặt chân đến Nam Vực, muôn người dõi mắt!"
+    },
+    {
+      "num": 201,
+      "title": "Lần đầu đặt chân đến Nam Vực, Thái Linh hiển thánh!"
+    },
+    {
+      "num": 202,
+      "title": "Lần đầu đặt chân đến Nam Vực, đệ nhất Trúc Cơ!"
+    },
+    {
+      "num": 203,
+      "title": "Lần đầu đến Nam Vực – Con đường thứ mười!"
+    },
+    {
+      "num": 204,
+      "title": "Lần đầu đến Nam Vực – Đêm mưa giết chóc!"
+    },
+    {
+      "num": 205,
+      "title": "Lần đầu đến Nam Vực – Đạo Tử đến khiêu chiến!"
+    },
+    {
+      "num": 206,
+      "title": "Lần đầu đặt chân đến Nam Vực, trận quyết đấu đỉnh cao!"
+    },
+    {
+      "num": 207,
+      "title": "Lần đầu đặt chân đến Nam Vực, Ta mạnh, nên ta tồn tại!"
+    },
+    {
+      "num": 208,
+      "title": "Mới Đến Nam Vực – Nhất Mạch Phong Yêu!\\"
+    },
+    {
+      "num": 209,
+      "title": "Tử Vận xưng tôn, Tứ Phương Châu giải độc!"
+    },
+    {
+      "num": 210,
+      "title": "Tử Vận xưng tôn, Năm vị tiên nhà họ Hoàng"
+    },
+    {
+      "num": 211,
+      "title": "Tử Vận xưng tôn – Hang động này không tệ"
+    },
+    {
+      "num": 212,
+      "title": "Tử Vận xưng tôn, con đường chém hoa chớ hỏi trời"
+    },
+    {
+      "num": 213,
+      "title": "Tử Vận xưng tôn, bí hội tìm cơ hội"
+    },
+    {
+      "num": 214,
+      "title": "Tử Vận xưng tôn, bái nhập Tử Vận Tông"
+    },
+    {
+      "num": 215,
+      "title": "Tử Vận Danh Tôn, cái tên tà ác"
+    },
+    {
+      "num": 216,
+      "title": "Tử Vận Danh Tôn, thiên phú bắt đầu lộ diện!"
+    },
+    {
+      "num": 217,
+      "title": "Tôn Vinh Tử Vận – Tiên Thổ Tử Vận"
+    },
+    {
+      "num": 218,
+      "title": "Tử Vận xưng tôn, cuối cùng cũng sẽ gặp lại"
+    },
+    {
+      "num": 219,
+      "title": "Tử Vận xưng tôn, ngẩng đầu lên"
+    },
+    {
+      "num": 220,
+      "title": "Tử Vận xưng tôn, hai chữ đại sư"
+    },
+    {
+      "num": 221,
+      "title": "Tử Vận xưng tôn, cỏ cây tranh tài"
+    },
+    {
+      "num": 222,
+      "title": "Tử Vận xưng tôn, đứng đầu vòng thứ nhất!"
+    },
+    {
+      "num": 223,
+      "title": "Tử Vận xưng tôn, chuyện này không công bằng (Canh một)"
+    },
+    {
+      "num": 224,
+      "title": "Tử Vận Danh Tôn Tấn Thăng Đan Sư! (Chương thứ hai, cầu bạo chương!)"
+    },
+    {
+      "num": 225,
+      "title": "Tử Vận xưng tôn, người mới bước chân vào Đan đạo (Canh ba)"
+    },
+    {
+      "num": 226,
+      "title": "Tử Vận xưng tôn, dấu hiệu danh tiếng vang khắp Tử Vận Tông!"
+    },
+    {
+      "num": 227,
+      "title": "Bàn về chỗ dựa của Mạnh Hạo!"
+    },
+    {
+      "num": 228,
+      "title": "Tử Vận xưng tôn, phong thái của Phương đan sư (Canh một)"
+    },
+    {
+      "num": 229,
+      "title": "Tử Vận xưng tôn – Đan có thể nuôi người, độc có thể đoạt mạng! (Canh hai)"
+    },
+    {
+      "num": 230,
+      "title": "Tử Vận xưng tôn, một bước vút trời! (Canh ba)"
+    },
+    {
+      "num": 231,
+      "title": "Tử Vận xưng tôn, quy củ của Lưu mỗ! (Canh thứ tư)"
+    },
+    {
+      "num": 232,
+      "title": "Tử Vận xưng tôn, Lệnh Cấm Đan!"
+    },
+    {
+      "num": 233,
+      "title": "Tử Vận xưng tôn, lá rụng dù đẹp cũng chỉ sống một mùa (Canh hai)"
+    },
+    {
+      "num": 234,
+      "title": "Tử Vận xưng tôn, bởi ý niệm này, chỉ có ma! (Canh ba)"
+    },
+    {
+      "num": 235,
+      "title": "Tử Vận xưng tôn, Ma chôn sâu dưới chín tầng đất! (Canh bốn)"
+    },
+    {
+      "num": 236,
+      "title": "Chương này sẽ không bao giờ bị xóa!"
+    },
+    {
+      "num": 237,
+      "title": "Tử Vận xưng tôn, đấu giá đan dược"
+    },
+    {
+      "num": 238,
+      "title": "Tử Vận xưng tôn, Nhập Ma Đan!"
+    },
+    {
+      "num": 239,
+      "title": "Tử Vận Danh Tôn Một trời, một vực! (Hồi thứ nhất)"
+    },
+    {
+      "num": 240,
+      "title": "Tử Vận xưng tôn, Đan Đỉnh đại sư!! (Chương thứ hai)"
+    },
+    {
+      "num": 241,
+      "title": "Tử Vận xưng tôn, phí bái sư (Chương thứ ba)"
+    },
+    {
+      "num": 242,
+      "title": "Tử Vận xưng tôn, sóng gió lại nổi lên"
+    },
+    {
+      "num": 243,
+      "title": "Tử Vận xưng tôn, muốn gặp đại sư Đan Đỉnh (Canh hai)"
+    },
+    {
+      "num": 244,
+      "title": "Tử Vận xưng tôn, thế tất phải có được!"
+    },
+    {
+      "num": 245,
+      "title": "Tử Vận Danh Tôn – Lý Phú Quý, kẻ chết cũng phải giữ thể diện"
+    },
+    {
+      "num": 246,
+      "title": "Tử Vận xưng tôn, ta không chơi nữa!"
+    },
+    {
+      "num": 247,
+      "title": "Tử Vận xưng tôn, Tử Khí Đông Lai"
+    },
+    {
+      "num": 248,
+      "title": "Tử Vận Danh Tôn Đan Đạo Tái Sinh Quyết"
+    },
+    {
+      "num": 249,
+      "title": "Tử Vận xưng tôn, nói lại lần nữa!"
+    },
+    {
+      "num": 250,
+      "title": "Tử Vận xưng tôn, cuộc tranh luận nảy lửa ở Đan Cốc!"
+    },
+    {
+      "num": 251,
+      "title": "Tử Vận Xưng Tôn – Trở Lại Thanh La Tông Một Lần Nữa"
+    },
+    {
+      "num": 252,
+      "title": "Tử Vận xưng tôn, một mạch Đan Giới"
+    },
+    {
+      "num": 253,
+      "title": "Tử Vận xưng tôn, giết ta đi! (Canh một)"
+    },
+    {
+      "num": 254,
+      "title": "Tử Vận xưng tôn, năm tháng cùng một cội nguồn! (Canh hai)"
+    },
+    {
+      "num": 255,
+      "title": "Tử Vận xưng tôn, giảng hòa (Canh ba)"
+    },
+    {
+      "num": 256,
+      "title": "Tử Vận xưng tôn, luyện được cả tháng năm tang thương!"
+    },
+    {
+      "num": 257,
+      "title": "Tử Vận xưng tôn – Đan đạo của Mạnh Hạo!"
+    },
+    {
+      "num": 258,
+      "title": "Tử Vận xưng tôn, nghiền ép!"
+    },
+    {
+      "num": 259,
+      "title": "Tử Vận xưng tôn, Hỗn Nguyên Bổ Thiên Đan!"
+    },
+    {
+      "num": 260,
+      "title": "Tử Vận Xưng Tôn – Sấm Nổ Giữa Trời Quang!"
+    },
+    {
+      "num": 261,
+      "title": "Tử Vận xưng tôn, nàng đứng nơi gió cuốn tà áo bay"
+    },
+    {
+      "num": 262,
+      "title": "Tử Vận xưng tôn – Giới hạn cuối cùng"
+    },
+    {
+      "num": 263,
+      "title": "Tử Vận Danh Tôn Luyện Hồn"
+    },
+    {
+      "num": 264,
+      "title": "Tử Vận xưng tôn, đại nhân Phượng Tổ"
+    },
+    {
+      "num": 265,
+      "title": "Tử Vận xưng tôn, ta muốn nhìn theo bóng lưng nàng"
+    },
+    {
+      "num": 266,
+      "title": "Tử Vận Xưng Tôn – Năm Năm Chưa Từng Động Thủ!"
+    },
+    {
+      "num": 267,
+      "title": "Tử Vận xưng tôn, sát tâm vẫn còn!"
+    },
+    {
+      "num": 268,
+      "title": "Tử Vận xưng tôn, trận chiến đầu tiên với Kết Đan!"
+    },
+    {
+      "num": 269,
+      "title": "Tử Vận Xưng Tôn – Giếng Đạo Thượng Cổ!"
+    },
+    {
+      "num": 270,
+      "title": "Tử Vận xưng tôn, một tiếng quát vang như sấm!"
+    },
+    {
+      "num": 271,
+      "title": "Tử Vận xưng tôn, xuất quan!"
+    },
+    {
+      "num": 272,
+      "title": "Tôn xưng Tử Vận, kẻ áo xanh không mặt!"
+    },
+    {
+      "num": 273,
+      "title": "Tử Vận xưng tôn, tu sĩ Mặc Thổ"
+    },
+    {
+      "num": 274,
+      "title": "Tử Vận xưng tôn, trời cao đất dày"
+    },
+    {
+      "num": 275,
+      "title": "Tử Vận xưng tôn — Hắn chính là người áo bào xanh không mặt! (Phần một)"
+    },
+    {
+      "num": 276,
+      "title": "Tử Vận xưng tôn, chiến với Kết Đan! (Canh hai)"
+    },
+    {
+      "num": 277,
+      "title": "Tử Vận xưng tôn, một kiếm xuất hồn, chém Thiên Sát! (Canh ba)"
+    },
+    {
+      "num": 278,
+      "title": "Tử Vận xưng tôn, tu vi đột phá lớn! (Canh thứ tư)"
+    },
+    {
+      "num": 279,
+      "title": "Tử Vận xưng tôn, Đài thứ mười, mở ra!"
+    },
+    {
+      "num": 280,
+      "title": "Tử Vận xưng tôn, cờ phướn lay động, ba kiếp tiêu tan!"
+    },
+    {
+      "num": 281,
+      "title": "Tử Vận xưng tôn: Sự khác biệt giữa Mạnh Hạo và Phương Mộc!"
+    },
+    {
+      "num": 282,
+      "title": "Tử Vận xưng tôn, đừng nghịch nữa"
+    },
+    {
+      "num": 283,
+      "title": "Tử Vận xưng tôn, Đông Lai Sơn"
+    },
+    {
+      "num": 284,
+      "title": "Tử Vận xưng tôn, người thứ mười"
+    },
+    {
+      "num": 285,
+      "title": "Tôn Vinh Tử Vận – Đan Lô Mở Ra"
+    },
+    {
+      "num": 286,
+      "title": "Tử Vận Danh Tôn, lò đan bản mệnh?"
+    },
+    {
+      "num": 287,
+      "title": "Tử Vận Danh Tôn, thà chết không khuất phục!"
+    },
+    {
+      "num": 288,
+      "title": "Tử Vận Xưng Tôn – Khu Vực Thứ Nhất Khi Lên Núi"
+    },
+    {
+      "num": 289,
+      "title": "Tử Vận Danh Tôn Thâu Đáng (Canh một)"
+    },
+    {
+      "num": 290,
+      "title": "Tử Vận xưng tôn, con đường luyện đan khác biệt của ba người (Canh hai)"
+    },
+    {
+      "num": 291,
+      "title": "Tử Vận Danh Tôn Thùy Là Thời Cường (Canh ba)"
+    },
+    {
+      "num": 292,
+      "title": "Tử Vận xưng tôn, mạnh nhất!! (Canh thứ tư)"
+    },
+    {
+      "num": 293,
+      "title": "Tử Vận xưng tôn, biến không thành có!"
+    },
+    {
+      "num": 294,
+      "title": "Tử Vận Xưng Tôn – Tiểu Đào Hồng"
+    },
+    {
+      "num": 295,
+      "title": "Tử Vận xưng tôn, lựa chọn con đường nào"
+    },
+    {
+      "num": 296,
+      "title": "Tử Vận xưng tôn, một đời"
+    },
+    {
+      "num": 297,
+      "title": "Tử Vận Xưng Tôn – Ngàn Đan Hóa Thành Đỉnh!!"
+    },
+    {
+      "num": 298,
+      "title": "Tử Vận xưng tôn, Đan Đỉnh Phương Mộc!"
+    },
+    {
+      "num": 299,
+      "title": "Tử Vận xưng tôn, đệ tử kế thừa!"
+    },
+    {
+      "num": 300,
+      "title": "Tử Vận xưng tôn, truyền thừa hoàn chỉnh!"
+    },
+    {
+      "num": 301,
+      "title": "Tử Vận xưng tôn, dấu ấn màu xanh!"
+    },
+    {
+      "num": 302,
+      "title": "Tử Vận xưng tôn, lại gặp họ Quý!"
+    },
+    {
+      "num": 303,
+      "title": "Tử Vận Xưng Tôn, Cũng Có Chút Đắc Ý (Hồi 1)"
+    },
+    {
+      "num": 304,
+      "title": "Tử Vận xưng tôn, thi thể tiên nhân chuyển động! (Canh hai)"
+    },
+    {
+      "num": 305,
+      "title": "Tử Vận xưng tôn, mê cung giết người mang đồ đằng! (Canh ba)"
+    },
+    {
+      "num": 306,
+      "title": "Tử Vận xưng tôn, tinh không viễn cổ! (Canh bốn)"
+    },
+    {
+      "num": 307,
+      "title": "Tử Vận Xưng Tôn, Tiên Nhân Chỉ Lộ (Hồi 1)"
+    },
+    {
+      "num": 308,
+      "title": "Tử Vận Xưng Tôn, Nguy Cơ! (Hồi 2)"
+    },
+    {
+      "num": 309,
+      "title": "Tử Vận xưng tôn: Huyết mạch Quý Gia! (Canh ba)"
+    },
+    {
+      "num": 310,
+      "title": "Tử Vận Xưng Tôn, Kết Đan!! (Canh thứ tư)"
+    },
+    {
+      "num": 311,
+      "title": "Tử Vận Xưng Tôn, Ngươi Dám Giết Sao?! (Canh thứ nhất)"
+    },
+    {
+      "num": 312,
+      "title": "Tử Vận Xưng Tôn – Giết Quý Hồng Đông! (Canh hai)"
+    },
+    {
+      "num": 313,
+      "title": "Tử Vận xưng tôn, Phương Mộc chính là Mạnh Hạo! (Canh ba!)"
+    },
+    {
+      "num": 314,
+      "title": "Tử Vận xưng tôn, ta là sư phụ của hắn! (Canh thứ tư!)"
+    },
+    {
+      "num": 315,
+      "title": "Tử Vận Danh Tôn Sóng trước chưa tan, sóng sau đã ập đến!"
+    },
+    {
+      "num": 316,
+      "title": "Tử Vận xưng tôn, mặt trời chói chang vẫn như xưa!"
+    },
+    {
+      "num": 317,
+      "title": "Tử Vận xưng tôn, đây mới chính là người tu hành!"
+    },
+    {
+      "num": 318,
+      "title": "Tử Vận xưng tôn, bởi người này, chỉ có điên cuồng!!"
+    },
+    {
+      "num": 319,
+      "title": "Tử Vận Danh Tôn Nàng là tiên!! (Canh ba)"
+    },
+    {
+      "num": 320,
+      "title": "Ngũ Sắc Chí Tôn Phong Chính Thuật Ngũ Sắc Chí Tôn – Phong Chính Thuật"
+    },
+    {
+      "num": 321,
+      "title": "Ngũ Sắc Chí Tôn, động phủ của Hoàng Đại Tiên"
+    },
+    {
+      "num": 322,
+      "title": "Chí Tôn Ngũ Sắc – Ưu điểm của Mạnh Hạo"
+    },
+    {
+      "num": 323,
+      "title": "Chí Tôn Ngũ Sắc – Ta là chim tiên thời thượng cổ"
+    },
+    {
+      "num": 324,
+      "title": "Ngũ Sắc Chí Tôn: Tin Ngũ Gia, được trường sinh"
+    },
+    {
+      "num": 325,
+      "title": "Ngũ Sắc Chí Tôn, Tiếng Thét Giữa Bãi Đá"
+    },
+    {
+      "num": 326,
+      "title": "Ngũ Sắc Chí Tôn, Thắp Lên Đan Hỏa"
+    },
+    {
+      "num": 327,
+      "title": "Ngũ Sắc Chí Tôn, Chữ Lý Đội Trời Mà Thành Chữ Quý!"
+    },
+    {
+      "num": 328,
+      "title": "Ngũ Sắc Chí Tôn, Túi Trữ Vật Của Nhà Họ Quý"
+    },
+    {
+      "num": 329,
+      "title": "Ngũ Sắc Chí Tôn, Tiên Tử Đóa Lan"
+    },
+    {
+      "num": 330,
+      "title": "Ngũ Sắc Chí Tôn – Mũi Nhọn Ở Mặc Thổ! (Chương đầu tiên trong ngày)"
+    },
+    {
+      "num": 331,
+      "title": "Chí Tôn Ngũ Sắc, vật lạ giúp vượt thiên kiếp! (Canh hai)"
+    },
+    {
+      "num": 332,
+      "title": "Chí Tôn Ngũ Sắc, thứ này ta chưa thử bao giờ! (Canh ba)"
+    },
+    {
+      "num": 333,
+      "title": "Chí Tôn Ngũ Sắc – Đông Lạc Linh nổi giận! (Canh thứ tư)"
+    },
+    {
+      "num": 334,
+      "title": "Ngũ Sắc Chí Tôn, lập uy!"
+    },
+    {
+      "num": 335,
+      "title": "Ngũ Sắc Chí Tôn, Ngũ Gia ra oai!"
+    },
+    {
+      "num": 336,
+      "title": "Ngũ Sắc Chí Tôn, gả cho ai cũng không gả ngươi!"
+    },
+    {
+      "num": 337,
+      "title": "Chí Tôn Ngũ Sắc, Cướp!"
+    },
+    {
+      "num": 338,
+      "title": "Chí Tôn Ngũ Sắc, Cái Bẫy Khổng Lồ"
+    },
+    {
+      "num": 339,
+      "title": "Ngũ Sắc Chí Tôn Đi đến đâu, hại người đến đó"
+    },
+    {
+      "num": 340,
+      "title": "Ngũ Sắc Chí Tôn Tiên Trận (Canh thứ nhất)"
+    },
+    {
+      "num": 341,
+      "title": "Ngũ Sắc Chí Tôn Hung Mạnh! (Canh thứ hai)"
+    },
+    {
+      "num": 342,
+      "title": "Ngũ Sắc Chí Tôn, một nhánh Âm Phủ! (Canh ba)"
+    },
+    {
+      "num": 343,
+      "title": "Ngũ Sắc Chí Tôn, Kim Đan Hoàn Mỹ! (Canh thứ tư)"
+    },
+    {
+      "num": 344,
+      "title": "Ngũ Sắc Chí Tôn, Tiên Thân Hoàn Mỹ!"
+    },
+    {
+      "num": 345,
+      "title": "Ngũ Sắc Chí Tôn, có thù tất báo!"
+    },
+    {
+      "num": 346,
+      "title": "Ngũ Sắc Chí Tôn, Nhất Khí Hóa Tam Thanh"
+    },
+    {
+      "num": 347,
+      "title": "Ngũ Sắc Chí Tôn, Truy Sát Tên Đầu To!"
+    },
+    {
+      "num": 348,
+      "title": "Chí Tôn Ngũ Sắc – Lão Tổ Ánh Vàng!"
+    },
+    {
+      "num": 349,
+      "title": "Ngũ Sắc Chí Tôn, trời đánh sét đánh!"
+    },
+    {
+      "num": 350,
+      "title": "Ngũ Sắc Chí Tôn – Kim Quang Đại Giáo! (Canh một)"
+    },
+    {
+      "num": 351,
+      "title": "Ngũ Sắc Chí Tôn – Trận Kiếm Hoa Sen! (Canh hai)"
+    },
+    {
+      "num": 352,
+      "title": "Chí Tôn Ngũ Sắc, ngươi là thứ gì! (Canh ba)"
+    },
+    {
+      "num": 353,
+      "title": "Chí Tôn Ngũ Sắc, biến sương mù thành biển! (Canh bốn)"
+    },
+    {
+      "num": 354,
+      "title": "Chí Tôn Ngũ Sắc, tấn công Đông Lạc Thành"
+    },
+    {
+      "num": 355,
+      "title": "Ngũ Sắc Chí Tôn, Độc Sát Tuế Nguyệt!"
+    },
+    {
+      "num": 356,
+      "title": "Ngũ Sắc Chí Tôn, Sức Mạnh Cứng Rắn Của Năm Tháng! (Chương thứ nhất)"
+    },
+    {
+      "num": 357,
+      "title": "Chí Tôn Ngũ Sắc, Thành Can Tước! (Hồi thứ hai)"
+    },
+    {
+      "num": 358,
+      "title": "Ngũ Sắc Chí Tôn – Loạn Lạc Mặc Thổ! (Canh ba)"
+    },
+    {
+      "num": 359,
+      "title": "Ngũ Sắc Chí Tôn – Đại Tư Long! (Canh bốn)"
+    },
+    {
+      "num": 360,
+      "title": "Ngũ Sắc Chí Tôn – Hàn Tuyết San!"
+    },
+    {
+      "num": 361,
+      "title": "Ngũ Sắc Chí Tôn – Ứng Long Trên Trời!"
+    },
+    {
+      "num": 362,
+      "title": "Ngũ Sắc Chí Tôn – Chuyện Ngoài Ý Muốn"
+    },
+    {
+      "num": 363,
+      "title": "Ngũ Sắc Chí Tôn, Chu Tiên Sinh ngạo nghễ"
+    },
+    {
+      "num": 364,
+      "title": "Danh tiếng lẫy lừng của Đan Đỉnh, uy danh của đan dược"
+    },
+    {
+      "num": 365,
+      "title": "Ngũ Sắc Chí Tôn – Chu Đức Khôn và Mạnh Hạo"
+    },
+    {
+      "num": 366,
+      "title": "Ngũ Sắc Chí Tôn, Bảo Đan Của Chu Đức Khôn (Canh một)"
+    },
+    {
+      "num": 367,
+      "title": "Ngũ Sắc Chí Tôn, Một Yêu Cầu Nho Nhỏ (Canh hai)"
+    },
+    {
+      "num": 368,
+      "title": "Ngũ Sắc Chí Tôn, Vẫn Không Tin (Canh Ba)"
+    },
+    {
+      "num": 369,
+      "title": "Ngũ Sắc Chí Tôn, bước đầu tìm hiểu Ngũ Hành (Canh thứ tư)"
+    },
+    {
+      "num": 370,
+      "title": "Ngũ Sắc Chí Tôn, vị thuốc chính cuối cùng!"
+    },
+    {
+      "num": 371,
+      "title": "Ngũ Sắc Chí Tôn – Một cái hố cực sâu!"
+    },
+    {
+      "num": 372,
+      "title": "Chí Tôn Ngũ Sắc, Con Đường Ngũ Sắc"
+    },
+    {
+      "num": 373,
+      "title": "Chí Tôn Ngũ Sắc, Mạnh Tiểu Nhi, Ngươi Có Dám Chiến!"
+    },
+    {
+      "num": 374,
+      "title": "Chí Tôn Ngũ Sắc, Bí Pháp Tư Long"
+    },
+    {
+      "num": 375,
+      "title": "Ngũ Sắc Chí Tôn – Gai Nhọn Phủ Trời Đất"
+    },
+    {
+      "num": 376,
+      "title": "Ngũ Sắc Chí Tôn – Đan Trảm Linh"
+    },
+    {
+      "num": 377,
+      "title": "Chí Tôn Ngũ Sắc – Luyện Nguyên Anh Như Luyện Đan!"
+    },
+    {
+      "num": 378,
+      "title": "Ngũ Sắc Chí Tôn, ngươi quên rồi sao? (Canh một)"
+    },
+    {
+      "num": 379,
+      "title": "Ngũ Sắc Chí Tôn, sao lại là hắn!"
+    },
+    {
+      "num": 380,
+      "title": "Ngũ Sắc Chí Tôn, Trảm Linh giáng xuống! (Canh ba)"
+    },
+    {
+      "num": 381,
+      "title": "Ngũ Sắc Chí Tôn, Đại Tạo Hóa!! (Canh bốn)"
+    },
+    {
+      "num": 382,
+      "title": "Ngũ Sắc Chí Tôn, Ấn Ký!! (Canh một)"
+    },
+    {
+      "num": 383,
+      "title": "Chí Tôn Ngũ Sắc – Kỳ Nam!! (Canh hai)"
+    },
+    {
+      "num": 384,
+      "title": "Ngũ Sắc Chí Tôn, Diệt Linh!! (Canh ba)"
+    },
+    {
+      "num": 385,
+      "title": "Ngũ Sắc Chí Tôn, Điều Kiện! (Canh tư)"
+    },
+    {
+      "num": 386,
+      "title": "Ngũ Sắc Chí Tôn, Tằm Vô Mục! (Canh một)"
+    },
+    {
+      "num": 387,
+      "title": "Chí Tôn Ngũ Sắc Mỗi khi tuyết rơi, hãy nhớ đến ta! (Hồi 2)"
+    },
+    {
+      "num": 388,
+      "title": "Chí Tôn Ngũ Sắc – Không mắt có tiếng!! (Canh ba)"
+    },
+    {
+      "num": 389,
+      "title": "Ngũ Sắc Chí Tôn – Một Hơi Thở Vĩnh Hằng! (Canh thứ tư)"
+    },
+    {
+      "num": 390,
+      "title": "Ngũ Sắc Chí Tôn, Kim Đan Kiếp Của Ta!"
+    },
+    {
+      "num": 391,
+      "title": "Ngũ Sắc Chí Tôn, Lại Đến!"
+    },
+    {
+      "num": 392,
+      "title": "Ngũ Sắc Chí Tôn – Ngũ Sắc Thiên, tu vi đột phá!"
+    },
+    {
+      "num": 393,
+      "title": "Ngũ Sắc Chí Tôn, Phong Yêu đời thứ chín, lần đầu phong trời!"
+    },
+    {
+      "num": 394,
+      "title": "Ngũ Sắc Chí Tôn, Phá Kén Mà Ra"
+    },
+    {
+      "num": 395,
+      "title": "Ngũ Sắc Chí Tôn – Ước hẹn với Nghiêm Tung"
+    },
+    {
+      "num": 396,
+      "title": "Ngũ Sắc Chí Tôn – Năm Bộ Lạc Ô Thần"
+    },
+    {
+      "num": 397,
+      "title": "Ngũ Sắc Chí Tôn – Lần Đầu Đến Ô Đạt Bộ"
+    },
+    {
+      "num": 398,
+      "title": "Ngũ Sắc Chí Tôn – Đại Chiến Ô Thần?"
+    },
+    {
+      "num": 399,
+      "title": "Ngũ Sắc Chí Tôn – Con đường Tư Long"
+    },
+    {
+      "num": 400,
+      "title": "Ngũ Sắc Chí Tôn – Phen này làm lớn chuyện rồi"
+    },
+    {
+      "num": 401,
+      "title": "Ngũ Sắc Chí Tôn – Cơn điên cuồng do Đan Nuôi Yêu gây ra!"
+    },
+    {
+      "num": 402,
+      "title": "Ngũ Sắc Chí Tôn – Phen này gây chuyện lớn rồi!"
+    },
+    {
+      "num": 403,
+      "title": "Ngũ Sắc Chí Tôn – Tư Yêu Đan chân chính!"
+    },
+    {
+      "num": 404,
+      "title": "Chí Tôn Ngũ Sắc Ô Trần"
+    },
+    {
+      "num": 405,
+      "title": "Ngũ Sắc Chí Tôn – Nhánh truyền thừa của Phong Yêu Sư"
+    },
+    {
+      "num": 406,
+      "title": "Ngũ Sắc Chí Tôn – Xin tiền bối cứu ta"
+    },
+    {
+      "num": 407,
+      "title": "Ngũ Sắc Chí Tôn – Đấu Yêu"
+    },
+    {
+      "num": 408,
+      "title": "Chí Tôn Ngũ Sắc – Giết chết đối thủ cùng cấp chỉ trong nháy mắt!"
+    },
+    {
+      "num": 409,
+      "title": "Chí Tôn Ngũ Sắc: Ngươi lại nhìn ra rồi à?"
+    },
+    {
+      "num": 410,
+      "title": "Ngũ sắc chí tôn, ta có đan"
+    },
+    {
+      "num": 411,
+      "title": "Ngũ Sắc Chí Tôn, Thẹn Quá Hóa Giận"
+    },
+    {
+      "num": 412,
+      "title": "Chí Tôn Ngũ Sắc, Bạch Lang!"
+    },
+    {
+      "num": 413,
+      "title": "Ngũ Sắc Chí Tôn – Thanh Mộc Kiếm Thứ Ba!"
+    },
+    {
+      "num": 414,
+      "title": "Ngũ Sắc Chí Tôn – Phong Yêu Đời Thứ Năm!"
+    },
+    {
+      "num": 415,
+      "title": "Chí Tôn Ngũ Sắc, Đồ Đằng Thanh Mộc!"
+    },
+    {
+      "num": 416,
+      "title": "Ngũ Sắc Chí Tôn – Cái này thật sự chưa thử bao giờ!"
+    },
+    {
+      "num": 417,
+      "title": "Ngũ Sắc Chí Tôn – Vị đại tế tự chất phác"
+    },
+    {
+      "num": 418,
+      "title": "Ngũ Sắc Chí Tôn – Mặc Tử Thất Giai"
+    },
+    {
+      "num": 419,
+      "title": "Ngũ Sắc Chí Tôn, sư phụ ta là Cổ Lạp"
+    },
+    {
+      "num": 420,
+      "title": "Ngũ Sắc Chí Tôn: Thịt"
+    },
+    {
+      "num": 421,
+      "title": "Ngũ Sắc Chí Tôn Sư tôn cứu con!"
+    },
+    {
+      "num": 422,
+      "title": "Chí Tôn Ngũ Sắc, đại sư Cổ Lạp"
+    },
+    {
+      "num": 423,
+      "title": "Chí Tôn Ngũ Sắc, hố sư phụ"
+    },
+    {
+      "num": 424,
+      "title": "Ngũ Sắc Chí Tôn – Một thoáng động lòng vì Bỉ Ngạn Hoa!"
+    },
+    {
+      "num": 425,
+      "title": "Ngũ Sắc Chí Tôn, Tạo Hóa Trì (Canh thứ nhất)"
+    },
+    {
+      "num": 426,
+      "title": "Ngũ Sắc Chí Tôn, Thiên Thiên (Canh thứ hai)"
+    },
+    {
+      "num": 427,
+      "title": "Ngũ Sắc Chí Tôn, nanh vuốt gãy lìa! (Canh thứ ba)"
+    },
+    {
+      "num": 428,
+      "title": "Ngũ Sắc Chí Tôn, sợi dây câu cá kia! (Canh thứ tư)"
+    },
+    {
+      "num": 429,
+      "title": "Ngũ Sắc Chí Tôn, Nhân Quả Diệt! (Canh thứ nhất)"
+    },
+    {
+      "num": 430,
+      "title": "Ngũ Sắc Chí Tôn, Cơ Duyên Cùng Có! (Canh thứ hai)"
+    },
+    {
+      "num": 431,
+      "title": "Chí Tôn Ngũ Sắc – Chém đứt nhân quả của Mạnh Hạo (Canh ba)"
+    },
+    {
+      "num": 432,
+      "title": "Ngũ Sắc Chí Tôn, Không Chém Nổi! (Canh thứ tư)"
+    },
+    {
+      "num": 433,
+      "title": "Ngũ Sắc Chí Tôn, Lần Sau Không Được Như Vậy! (Canh thứ nhất)"
+    },
+    {
+      "num": 434,
+      "title": "Ngũ Sắc Chí Tôn, Thanh Mộc trở về tổ tiên! (Canh thứ hai)"
+    },
+    {
+      "num": 435,
+      "title": "Ngũ Sắc Chí Tôn, Thiên Ngoại Thiên! (Canh ba thứ ba)"
+    },
+    {
+      "num": 436,
+      "title": "Ngũ Sắc Chí Tôn, Kim Ô Và Cây Cổ Thụ (Canh tư thứ tư)"
+    },
+    {
+      "num": 437,
+      "title": "Ngũ Sắc Chí Tôn, Chiến Nguyên Anh"
+    },
+    {
+      "num": 438,
+      "title": "Chí Tôn Ngũ Sắc – Khúc dạo đầu cho tang lễ"
+    },
+    {
+      "num": 439,
+      "title": "Ngũ Sắc Chí Tôn, Chỉ Vì Một Lần Gặp Gỡ"
+    },
+    {
+      "num": 440,
+      "title": "Chí Tôn Ngũ Sắc – Kẻ địch kéo đến"
+    },
+    {
+      "num": 441,
+      "title": "Ngũ Sắc Chí Tôn mở mắt!"
+    },
+    {
+      "num": 442,
+      "title": "Ngũ Sắc Chí Tôn, Đại Mao Tố Cáo!"
+    },
+    {
+      "num": 443,
+      "title": "Ngũ Sắc Chí Tôn – Thành ý"
+    },
+    {
+      "num": 444,
+      "title": "Ngũ Sắc Chí Tôn: Thế giới Cầu Phế Tích!"
+    },
+    {
+      "num": 445,
+      "title": "Ngũ Sắc Chí Tôn – Triệu U Lan"
+    },
+    {
+      "num": 446,
+      "title": "Ngũ Sắc Chí Tôn, Vực Ngoại Tâm Ma Hoa!"
+    },
+    {
+      "num": 447,
+      "title": "Ngũ Sắc Chí Tôn Thảm khốc!"
+    },
+    {
+      "num": 448,
+      "title": "Ngũ Sắc Chí Tôn Chém giết!"
+    },
+    {
+      "num": 449,
+      "title": "Ngũ Sắc Chí Tôn – Một bước tung hoành, vượt ngang ba nghìn tu sĩ!"
+    },
+    {
+      "num": 450,
+      "title": "Ngũ Sắc Chí Tôn – Kinh Tâm Động Phách!"
+    },
+    {
+      "num": 451,
+      "title": "Ngũ Sắc Chí Tôn – Khúc Ca Tiễn Biệt! (Canh một)"
+    },
+    {
+      "num": 452,
+      "title": "Chí Tôn Ngũ Sắc – Một Giọt Mưa Tím! (Canh thứ hai)"
+    },
+    {
+      "num": 453,
+      "title": "Chí Tôn Ngũ Sắc, Đồ Đằng Ngã Xuống! (Canh thứ ba)"
+    },
+    {
+      "num": 454,
+      "title": "Chí Tôn Ngũ Sắc, Đồ Đằng Mới!! (Canh thứ tư)"
+    },
+    {
+      "num": 455,
+      "title": "Ngũ Sắc Chí Tôn – Ngọn Lửa Bất Diệt Trong Đan Đông! (Canh một)"
+    },
+    {
+      "num": 456,
+      "title": "Ngũ Sắc Chí Tôn, giết Nguyên Anh! (Canh hai)"
+    },
+    {
+      "num": 457,
+      "title": "Chí Tôn Ngũ Sắc, Mưa Tím Trút Xuống Như Thác! (Canh thứ ba)"
+    },
+    {
+      "num": 458,
+      "title": "Chí Tôn Ngũ Sắc, Kiếp Nạn Tây Hải!! (Canh thứ tư)"
+    },
+    {
+      "num": 459,
+      "title": "Ngũ Sắc Chí Tôn – Chỉ Hương Tiên Tử (Canh ba)"
+    },
+    {
+      "num": 460,
+      "title": "Chí Tôn Ngũ Sắc – Hy vọng (Canh thứ nhất)"
+    },
+    {
+      "num": 461,
+      "title": "Ngũ Sắc Chí Tôn, Tiên Kiều! (Canh hai)"
+    },
+    {
+      "num": 462,
+      "title": "Ngũ Sắc Chí Tôn, Yêu Nữ Chỉ Hương (Canh ba)"
+    },
+    {
+      "num": 463,
+      "title": "Chí Tôn Ngũ Sắc, Đạp Đá Bước Vào Hư Không (Canh thứ tư)"
+    },
+    {
+      "num": 464,
+      "title": "Ngũ Sắc Chí Tôn, hoa sen biến dị! (Canh một)"
+    },
+    {
+      "num": 465,
+      "title": "Ngũ Sắc Chí Tôn, Nhất Trần Tử (Canh hai)"
+    },
+    {
+      "num": 466,
+      "title": "Ngũ Sắc Chí Tôn, tiếng nói u u! (Canh ba)"
+    },
+    {
+      "num": 467,
+      "title": "Chí Tôn Ngũ Sắc, lão quái mặt máu!"
+    },
+    {
+      "num": 468,
+      "title": "Chí Tôn Ngũ Sắc, Hàn Sơn áo xanh! (Canh một)"
+    },
+    {
+      "num": 469,
+      "title": "Ngũ Sắc Chí Tôn Gặp Triệu U Lan! (Chương thứ hai)"
+    },
+    {
+      "num": 470,
+      "title": "Ngũ Sắc Chí Tôn, Yêu Nữ Chỉ Hương! (Canh ba)"
+    },
+    {
+      "num": 471,
+      "title": "Ngũ Sắc Chí Tôn, Bé Ngoan (Canh một)"
+    },
+    {
+      "num": 472,
+      "title": "Ngón út của Chí Tôn Ngũ Sắc! (Canh hai)"
+    },
+    {
+      "num": 473,
+      "title": "Ngũ Sắc Chí Tôn, Yêu Linh xuất hiện! (Canh thứ ba)"
+    },
+    {
+      "num": 474,
+      "title": "Ngũ Sắc Chí Tôn, Kỳ Nam lại xuất hiện, cướp đoạt Yêu Linh! (Canh thứ tư)"
+    },
+    {
+      "num": 475,
+      "title": "Ngũ Sắc Chí Tôn – Vòng Xoáy Đất!"
+    },
+    {
+      "num": 476,
+      "title": "Chí Tôn Ngũ Sắc, Ba Vạn Đại Giới"
+    },
+    {
+      "num": 477,
+      "title": "Chí Tôn Ngũ Sắc, Nơi Sâu Trong Khư Kiều Giới (Chương thứ nhất)"
+    },
+    {
+      "num": 478,
+      "title": "Ngũ Sắc Chí Tôn, biến cố kinh hoàng! (Canh hai)"
+    },
+    {
+      "num": 479,
+      "title": "Ngũ Sắc Chí Tôn, Hàn Thổ Yêu Đế! (Canh ba)"
+    },
+    {
+      "num": 480,
+      "title": "Ngũ Sắc Chí Tôn, linh hồn của Đạp Tiên Kiều! (Canh bốn)"
+    },
+    {
+      "num": 481,
+      "title": "Ngũ Sắc Chí Tôn, Sương Thổ đại thành!"
+    },
+    {
+      "num": 482,
+      "title": "Ngũ Sắc Chí Tôn, thế là hắn chọn phương Bắc"
+    },
+    {
+      "num": 483,
+      "title": "Ngũ Sắc Chí Tôn trở về"
+    },
+    {
+      "num": 484,
+      "title": "Ngũ Sắc Chí Tôn, sao ngươi lại ở đây!"
+    },
+    {
+      "num": 485,
+      "title": "Ngũ Sắc Chí Tôn Luân"
+    },
+    {
+      "num": 486,
+      "title": "Ngũ Sắc Chí Tôn – Sưu Hồn"
+    },
+    {
+      "num": 487,
+      "title": "Ngũ Sắc Chí Tôn Tự Tầm Kỳ Diệt"
+    },
+    {
+      "num": 488,
+      "title": "Ngũ Sắc Chí Tôn, Hằng Vũ đại bại!"
+    },
+    {
+      "num": 489,
+      "title": "Chí tôn ngũ sắc – Kẻ thù truyền kiếp!"
+    },
+    {
+      "num": 490,
+      "title": "Huyết mạch Quý Gia!"
+    },
+    {
+      "num": 491,
+      "title": "Ngũ Sắc Chí Tôn, quyết phong kín!"
+    },
+    {
+      "num": 492,
+      "title": "Ngũ Sắc Chí Tôn, dung hợp máu họ Quý!"
+    },
+    {
+      "num": 493,
+      "title": "Ngũ Sắc Chí Tôn, Huyết Thân Giáng Thế!"
+    },
+    {
+      "num": 494,
+      "title": "Ngũ Sắc Chí Tôn, Không Chừa Một Ai!"
+    },
+    {
+      "num": 495,
+      "title": "Ngũ Sắc Chí Tôn, Ngũ Độc Bộ diệt tộc!"
+    },
+    {
+      "num": 496,
+      "title": "Ngũ Sắc Chí Tôn, tiến vào trung tâm"
+    },
+    {
+      "num": 497,
+      "title": "Chí Tôn Ngũ Sắc, Liên Minh Tám Mạch"
+    },
+    {
+      "num": 498,
+      "title": "Chí Tôn Ngũ Sắc, Bên Dưới Lòng Đất!"
+    },
+    {
+      "num": 499,
+      "title": "Ngũ Sắc Chí Tôn, vòng xoáy quen thuộc"
+    },
+    {
+      "num": 500,
+      "title": "Ngũ Sắc Chí Tôn, ta sẽ còn quay lại!"
+    },
+    {
+      "num": 501,
+      "title": "Ngũ Sắc Chí Tôn – Ta sẽ cho các ngươi chiến tranh! (Hồi thứ nhất)"
+    },
+    {
+      "num": 502,
+      "title": "Ngũ Sắc Chí Tôn Ta tên là Hoang Trủng (Canh hai)"
+    },
+    {
+      "num": 503,
+      "title": "Ngũ Sắc Chí Tôn Cổ Kinh Phong Ma! (Canh ba)"
+    },
+    {
+      "num": 504,
+      "title": "Ngũ Sắc Chí Tôn, Ngươi Dám!! (Canh bốn)"
+    },
+    {
+      "num": 505,
+      "title": "Ngũ Sắc Chí Tôn Ma binh!"
+    },
+    {
+      "num": 506,
+      "title": "Ngũ Sắc Chí Tôn, thu phục tám mạch"
+    },
+    {
+      "num": 507,
+      "title": "Ngũ Sắc Chí Tôn, cố nhân"
+    },
+    {
+      "num": 508,
+      "title": "Ngũ Sắc Chí Tôn, trời tối mất rồi"
+    },
+    {
+      "num": 509,
+      "title": "Ngũ Sắc Chí Tôn, tiễn người nghìn dặm"
+    },
+    {
+      "num": 510,
+      "title": "Ngũ Sắc Chí Tôn, Tộc Phi Hoàng"
+    },
+    {
+      "num": 511,
+      "title": "Chí Tôn Ngũ Sắc – Lựa chọn (Canh đầu)"
+    },
+    {
+      "num": 512,
+      "title": "Ngũ Sắc Chí Tôn, phá Nam Quan! (Hồi 2)"
+    },
+    {
+      "num": 513,
+      "title": "Ngũ Sắc Chí Tôn, ngươi dám ra tay không! (Hồi 3)"
+    },
+    {
+      "num": 514,
+      "title": "Chí Tôn Ngũ Sắc, Vệ Binh Đoạn Nam! (Canh thứ tư)"
+    },
+    {
+      "num": 515,
+      "title": "Chí Tôn Ngũ Sắc, Hắc Long Đại Bộ! (Canh thứ nhất)"
+    },
+    {
+      "num": 516,
+      "title": "Ngũ Sắc Chí Tôn, đánh cược! (Canh hai)"
+    },
+    {
+      "num": 517,
+      "title": "Ngũ Sắc Chí Tôn, nhìn thấy Mặc Thổ! (Canh ba)"
+    },
+    {
+      "num": 518,
+      "title": "Ngũ Sắc Chí Tôn – Trận chiến cuối cùng!"
+    },
+    {
+      "num": 519,
+      "title": "Ngũ Sắc Chí Tôn, trận pháp tái hiện!"
+    },
+    {
+      "num": 520,
+      "title": "Ngũ Sắc Chí Tôn, tám mươi vạn yêu thú!"
+    },
+    {
+      "num": 521,
+      "title": "Chí Tôn Ngũ Sắc, Huyết Đồ Đằng!"
+    },
+    {
+      "num": 522,
+      "title": "Ngũ Sắc Chí Tôn, Ngũ Hành Tạm Thời Hợp Nhất!"
+    },
+    {
+      "num": 523,
+      "title": "Ngũ Sắc Chí Tôn, Bước Đầu Ngộ Ra Nhân Quả!"
+    },
+    {
+      "num": 524,
+      "title": "Ngũ Sắc Chí Tôn – Không chém được Linh, sao sống quá nghìn năm!"
+    },
+    {
+      "num": 525,
+      "title": "Ngũ Sắc Chí Tôn, Chỉ Hương dữ dằn"
+    },
+    {
+      "num": 526,
+      "title": "Ngũ Sắc Chí Tôn, Lòng Chìm Giữa Biển Tím"
+    },
+    {
+      "num": 527,
+      "title": "Chí Tôn Ngũ Sắc – Biển sâu không năm tháng"
+    },
+    {
+      "num": 528,
+      "title": "Chí Tôn Năm Sắc – Hết rét chẳng hay năm tháng"
+    },
+    {
+      "num": 529,
+      "title": "Chí Tôn Năm Sắc – Khi nước mắt rơi xuống biển cả"
+    },
+    {
+      "num": 530,
+      "title": "Ngũ Sắc Chí Tôn, Ngũ Sắc Nguyên Anh!"
+    },
+    {
+      "num": 531,
+      "title": "Ngũ Sắc Chí Tôn, Nguyên Anh Thứ Sáu!"
+    },
+    {
+      "num": 532,
+      "title": "Chí Tôn Ngũ Sắc, Bỉ Ngạn Hoa Ngũ Sắc! (Canh thứ nhất)"
+    },
+    {
+      "num": 533,
+      "title": "Chí Tôn Ngũ Sắc, Thiên Kiếp Đã Lâu Không Gặp! (Canh thứ hai)"
+    },
+    {
+      "num": 534,
+      "title": "Chí Tôn Ngũ Sắc, Sáu Mệnh Rung Chuyển Thiên Kiếp! (Canh thứ ba)"
+    },
+    {
+      "num": 535,
+      "title": "Ngũ Sắc Chí Tôn, Mệnh Thứ Bảy!! (Canh thứ tư)"
+    },
+    {
+      "num": 536,
+      "title": "Ngũ Sắc Chí Tôn, Nhìn Thấy Ác Mộng! (Canh đầu)"
+    },
+    {
+      "num": 537,
+      "title": "Ngũ Sắc Chí Tôn – Lại năm lần bảy lượt tìm chết! (Hồi 2)"
+    },
+    {
+      "num": 538,
+      "title": "Ngũ Sắc Chí Tôn – Chém Giết! (Chương thứ ba)"
+    },
+    {
+      "num": 539,
+      "title": "Ngũ Sắc Chí Tôn – Sợi Dây Nhân Quả! (Chương thứ tư, phần đầu)"
+    },
+    {
+      "num": 540,
+      "title": "Ngũ Sắc Chí Tôn – Cái Chết Của Hô Diên Khánh! (Chương thứ tư, phần cuối)"
+    },
+    {
+      "num": 541,
+      "title": "Ngũ Sắc Chí Tôn – Truy Sát! (Hồi 1)"
+    },
+    {
+      "num": 542,
+      "title": "Ngũ Sắc Chí Tôn, kẻ nào mới là ngư ông đắc lợi! (Canh hai)"
+    },
+    {
+      "num": 543,
+      "title": "Ngũ Sắc Chí Tôn, ý chí Chân Linh! (Canh ba)"
+    },
+    {
+      "num": 544,
+      "title": "Chí Tôn Ngũ Sắc, trời đổi rồi! (Canh thứ tư)"
+    },
+    {
+      "num": 545,
+      "title": "Chí Tôn Ngũ Sắc, Ngao Khuyển thức tỉnh! (Canh thứ nhất)"
+    },
+    {
+      "num": 546,
+      "title": "Chí Tôn Ngũ Sắc, Huyết Ngao Hộ Đạo! (Canh thứ hai)"
+    },
+    {
+      "num": 547,
+      "title": "Tháng Chín đạt một triệu, chấn động giới văn học mạng, đôi lời cảm nghĩ của tôi!"
+    },
+    {
+      "num": 548,
+      "title": "Ngũ Sắc Chí Tôn – Tàn sát phường thị! (Canh ba)"
+    },
+    {
+      "num": 549,
+      "title": "Ngũ Sắc Chí Tôn, lão tổ Hô Diên! (Canh thứ tư)"
+    },
+    {
+      "num": 550,
+      "title": "Chí Tôn Ngũ Sắc, một trận chiến! (Canh thứ nhất)"
+    },
+    {
+      "num": 551,
+      "title": "Chí Tôn Ngũ Sắc, con chó ngao thông minh! (Canh thứ hai)"
+    },
+    {
+      "num": 552,
+      "title": "Ngũ Sắc Chí Tôn – Cướp Bảo! (Canh thứ ba)"
+    },
+    {
+      "num": 553,
+      "title": "Ngũ Sắc Chí Tôn – Đạo Chém Đứt Tình"
+    },
+    {
+      "num": 554,
+      "title": "Ngũ Sắc Chí Tôn Mạnh Nhất!"
+    },
+    {
+      "num": 555,
+      "title": "Ngũ Sắc Chí Tôn – Lão Tổ Liều Mạng!"
+    },
+    {
+      "num": 556,
+      "title": "Ngũ Sắc Chí Tôn – Phong Ấn Trảm Linh!"
+    },
+    {
+      "num": 557,
+      "title": "Ngũ Sắc Chí Tôn – Trở Về Mặc Thổ"
+    },
+    {
+      "num": 558,
+      "title": "Ngũ Sắc Chí Tôn, ta trở về rồi!"
+    },
+    {
+      "num": 559,
+      "title": "Ngũ Sắc Chí Tôn, phá trận! (Canh một)"
+    },
+    {
+      "num": 560,
+      "title": "Ngũ Sắc Chí Tôn – Tuyệt Địa! (Canh hai) Sát lục bùng lên!"
+    },
+    {
+      "num": 561,
+      "title": "Ngũ Sắc Chí Tôn, vì sao ngươi không đến! (Canh ba)"
+    },
+    {
+      "num": 562,
+      "title": "Ngũ Sắc Chí Tôn, Ngũ Gia nguyện vì tình yêu mà mơ một đời! (Canh bốn)"
+    },
+    {
+      "num": 563,
+      "title": "Ngũ Sắc Chí Tôn – Bản Tôn của Hô Diên!"
+    },
+    {
+      "num": 564,
+      "title": "Ngũ Sắc Chí Tôn – Hắn là ai!?"
+    },
+    {
+      "num": 565,
+      "title": "Ngũ Sắc Chí Tôn Chấn Động Hô Diên!"
+    },
+    {
+      "num": 566,
+      "title": "Ngũ Sắc Chí Tôn, cướp đoạt chí bảo Trảm Linh lần nữa!"
+    },
+    {
+      "num": 567,
+      "title": "Ngũ Sắc Chí Tôn, một nghìn năm, một người thành tiên!"
+    },
+    {
+      "num": 568,
+      "title": "Ngũ Sắc Chí Tôn, gặp lại tức là có duyên!"
+    },
+    {
+      "num": 569,
+      "title": "Ngũ Sắc Chí Tôn, Yêu Tiên Cổ Tông！"
+    },
+    {
+      "num": 570,
+      "title": "Ngũ Sắc Chí Tôn – Người cũ mà hắn không muốn gặp nhất"
+    },
+    {
+      "num": 571,
+      "title": "Ngũ Sắc Chí Tôn, Gọi Ta Là Chị!"
+    },
+    {
+      "num": 572,
+      "title": "Ngũ Sắc Chí Tôn, Cổ Tông Yêu Tiên Đặc Biệt!"
+    },
+    {
+      "num": 573,
+      "title": "Ngũ Sắc Chí Tôn – Nơi nắm giữ tiên cơ"
+    },
+    {
+      "num": 574,
+      "title": "Ngũ Sắc Chí Tôn, Gặp Lại Người Xưa"
+    },
+    {
+      "num": 575,
+      "title": "Ngũ Sắc Chí Tôn, Hứa Thanh Ở Đây!"
+    },
+    {
+      "num": 576,
+      "title": "Ngũ Sắc Chí Tôn, Kha Cửu Tư!!"
+    },
+    {
+      "num": 577,
+      "title": "Ngũ Sắc Chí Tôn, Nghĩ Kỹ Rồi Hẵng Làm"
+    },
+    {
+      "num": 578,
+      "title": "Ngũ Sắc Chí Tôn Kha Vân Hải"
+    },
+    {
+      "num": 579,
+      "title": "Ngũ Sắc Chí Tôn – Giết Quý Tử"
+    },
+    {
+      "num": 580,
+      "title": "Ngũ Sắc Chí Tôn – Còn Không Mau Kêu Thảm Thiết!"
+    },
+    {
+      "num": 581,
+      "title": "Ngũ Sắc Chí Tôn – Truyền Thừa của Lý Chủ"
+    },
+    {
+      "num": 582,
+      "title": "Ngũ Sắc Chí Tôn – Nàng Tên là Hứa Thanh"
+    },
+    {
+      "num": 583,
+      "title": "Ngũ Sắc Chí Tôn – Lời Hẹn Của Chúng Ta"
+    },
+    {
+      "num": 584,
+      "title": "Chí Tôn Ngũ Sắc, đã lâu không gặp"
+    },
+    {
+      "num": 585,
+      "title": "Chí Tôn Ngũ Sắc, vô vàn khả năng!"
+    },
+    {
+      "num": 586,
+      "title": "Ngũ Sắc Chí Tôn Yêu Minh của đám công tử ăn chơi"
+    },
+    {
+      "num": 587,
+      "title": "Chí Tôn Ngũ Sắc, Cha"
+    },
+    {
+      "num": 588,
+      "title": "Chí Tôn Ngũ Sắc – Muốn Có Được Sơn Hải Kinh, Nhất Định Phải Có Yêu Tiên Thể!"
+    },
+    {
+      "num": 589,
+      "title": "Ngũ Sắc Chí Tôn: Con đường tạo hóa"
+    },
+    {
+      "num": 590,
+      "title": "Ngũ Sắc Chí Tôn – Hạt Giống Đạo Pháp (Hồi 1)"
+    },
+    {
+      "num": 591,
+      "title": "Mười Hai Chữ (Hai chương gộp một)"
+    },
+    {
+      "num": 592,
+      "title": "Ngũ Sắc Chí Tôn Khô Viêm Yêu Pháp Bản Tôn Đạo!"
+    },
+    {
+      "num": 593,
+      "title": "Chí Tôn Ngũ Sắc, Giọng Nói Của Lý Chủ"
+    },
+    {
+      "num": 594,
+      "title": "Chí Tôn Ngũ Sắc, Đưa Con Đi Tiếp"
+    },
+    {
+      "num": 595,
+      "title": "Ngũ Sắc Chí Tôn – Sao phải khổ đến thế"
+    },
+    {
+      "num": 596,
+      "title": "Ngũ Sắc Chí Tôn, kiếp này cũng vậy"
+    },
+    {
+      "num": 597,
+      "title": "Ngũ Sắc Chí Tôn, chuyện xưa thời cổ"
+    },
+    {
+      "num": 598,
+      "title": "Ngũ Sắc Chí Tôn – Hắn nhất định..."
+    },
+    {
+      "num": 599,
+      "title": "Ngũ Sắc Chí Tôn, Yêu Tiên Trì"
+    },
+    {
+      "num": 600,
+      "title": "Ngũ Sắc Chí Tôn, Chém Tiên Nào Khó"
+    },
+    {
+      "num": 601,
+      "title": "Ngũ Sắc Chí Tôn, gặp lại Nam Thiên!"
+    },
+    {
+      "num": 602,
+      "title": "Ngũ Sắc Chí Tôn, Toàn Thân Đều Mang Bệnh"
+    },
+    {
+      "num": 603,
+      "title": "Ngũ Sắc Chí Tôn, Tình Cha Cao Như Núi!"
+    },
+    {
+      "num": 604,
+      "title": "Chí Tôn Ngũ Sắc – Dầu cạn đèn tàn"
+    },
+    {
+      "num": 605,
+      "title": "Ngũ Sắc Chí Tôn Trở Thành Niềm Tự Hào Của Người"
+    },
+    {
+      "num": 606,
+      "title": "Ngũ Sắc Chí Tôn – Cảnh Giới Thứ Ba"
+    },
+    {
+      "num": 607,
+      "title": "Chí Tôn Ngũ Sắc – Mũi Kiếm!"
+    },
+    {
+      "num": 608,
+      "title": "Ngũ Sắc Chí Tôn, Chân Linh Dạ!"
+    },
+    {
+      "num": 609,
+      "title": "Ngũ Sắc Chí Tôn, Chỉ Hương hào phóng!"
+    },
+    {
+      "num": 610,
+      "title": "Ngũ Sắc Chí Tôn – Tạo Hóa!"
+    },
+    {
+      "num": 611,
+      "title": "Ngũ Sắc Chí Tôn, Nguyên Anh thứ tám!"
+    },
+    {
+      "num": 612,
+      "title": "Ngũ Sắc Chí Tôn, Thế Như Chẻ Tre!"
+    },
+    {
+      "num": 613,
+      "title": "Ngũ Sắc Chí Tôn Khí thế ngút trời! (Canh đầu)"
+    },
+    {
+      "num": 614,
+      "title": "Ngũ Sắc Chí Tôn, Mệnh Thứ Tám! (Canh hai)"
+    },
+    {
+      "num": 615,
+      "title": "Ngũ Sắc Chí Tôn, Mọi người đều có mặt cả à (Canh ba)"
+    },
+    {
+      "num": 616,
+      "title": "Ngũ Sắc Chí Tôn, các ngươi đã làm tổn thương ta"
+    },
+    {
+      "num": 617,
+      "title": "Ngũ Sắc Chí Tôn – Ái Phi Ba Mắt"
+    },
+    {
+      "num": 618,
+      "title": "Kêu gọi phiếu tháng bảo đảm!"
+    },
+    {
+      "num": 619,
+      "title": "Ngũ Sắc Chí Tôn – Ngũ Gia bị thương"
+    },
+    {
+      "num": 620,
+      "title": "Ngũ Sắc Chí Tôn, đạo hữu nghe ta nói một lời"
+    },
+    {
+      "num": 621,
+      "title": "Ngũ Sắc Chí Tôn, Quân Tử Yêu Tiền"
+    },
+    {
+      "num": 622,
+      "title": "Chí Tôn Ngũ Sắc – Cảnh Giới Thứ Tư!"
+    },
+    {
+      "num": 623,
+      "title": "Phong Ấn Ngũ Sắc Chí Tôn"
+    },
+    {
+      "num": 624,
+      "title": "Ngũ Sắc Chí Tôn – Suy Đoán Và Hợp Tác"
+    },
+    {
+      "num": 625,
+      "title": "Ngũ Sắc Chí Tôn – Yêu Khí Ngút Trời！"
+    },
+    {
+      "num": 626,
+      "title": "Ngũ Sắc Chí Tôn, vùng đất Tam Thánh"
+    },
+    {
+      "num": 627,
+      "title": "Ngũ Sắc Chí Tôn, Sơn Hải Kính!"
+    },
+    {
+      "num": 628,
+      "title": "Ngũ Sắc Chí Tôn – Đêm Thức Tỉnh!"
+    },
+    {
+      "num": 629,
+      "title": "Ngũ Sắc Chí Tôn, Dạ Lô!"
+    },
+    {
+      "num": 630,
+      "title": "Xin lỗi, mấy ngày này chỉ có thể đăng một chương"
+    },
+    {
+      "num": 631,
+      "title": "Chí Tôn Ngũ Sắc, Hắn Là Đệ Đệ Của Ta!"
+    },
+    {
+      "num": 632,
+      "title": "Ngũ Sắc Chí Tôn, Ba Núi Chín Lạy"
+    },
+    {
+      "num": 633,
+      "title": "Ngũ Sắc Chí Tôn – Trời có mười phần sáng, hắn chiếm bảy phần!"
+    },
+    {
+      "num": 634,
+      "title": "Ngũ Sắc Chí Tôn – Trong lòng mang chí lớn!"
+    },
+    {
+      "num": 635,
+      "title": "Ngũ Sắc Chí Tôn, ta cũng đang tìm kiếm!"
+    },
+    {
+      "num": 636,
+      "title": "Ngũ Sắc Chí Tôn, Nguyên Anh Yêu Thứ Chín!"
+    },
+    {
+      "num": 637,
+      "title": "Ngũ Sắc Chí Tôn – Nam Nhân!"
+    },
+    {
+      "num": 638,
+      "title": "Ngũ Sắc Chí Tôn – Con Đường Trảm Linh!"
+    },
+    {
+      "num": 639,
+      "title": "Niết bàn tái sinh, máu nhuộm tám phương"
+    },
+    {
+      "num": 640,
+      "title": "Niết bàn tái sinh, máu nhuộm tám phương – Lão tổ thứ mười của Vương Gia!"
+    },
+    {
+      "num": 641,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Ngụy Tiên Và Chân Tiên"
+    },
+    {
+      "num": 642,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương – Thiên Hà Hải"
+    },
+    {
+      "num": 643,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương – Khách quý"
+    },
+    {
+      "num": 644,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Ai Đang Kinh Hồn Bạt Vía"
+    },
+    {
+      "num": 645,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Hữu Duyên Ngàn Dặm Cũng Gặp Nhau."
+    },
+    {
+      "num": 646,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Chỉ cần ngươi chịu đi, chuyện gì cũng được"
+    },
+    {
+      "num": 647,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Nhà họ Trương đến rồi?"
+    },
+    {
+      "num": 648,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Lão Tổ nổi giận, hết phen này đến phen khác"
+    },
+    {
+      "num": 649,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương – Ưu Thế Về Đầu Óc Của Lão Tổ"
+    },
+    {
+      "num": 650,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương – Mua Xong Ta Sẽ Đi"
+    },
+    {
+      "num": 651,
+      "title": "Niết bàn tái sinh, máu nhuộm tám phương – Ai bảo đạo cao một thước!"
+    },
+    {
+      "num": 652,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Lão Tổ Nổi Giận (Phần 1)"
+    },
+    {
+      "num": 653,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Cướp Bóc (Phần 2)"
+    },
+    {
+      "num": 654,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương – Lão tổ cứu mạng!"
+    },
+    {
+      "num": 655,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Lão Rùa Đen Vô Sỉ!"
+    },
+    {
+      "num": 656,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Ban Cho Ngươi Một Tạo Hóa!"
+    },
+    {
+      "num": 657,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Lão Tổ Mạnh Hạo"
+    },
+    {
+      "num": 658,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Màn Bão Tố Tam Hoàn"
+    },
+    {
+      "num": 659,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Trong Màn Chắn Ẩn Giấu Linh Vật"
+    },
+    {
+      "num": 660,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Bọn Họ Thật Hạnh Phúc"
+    },
+    {
+      "num": 661,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Đạo Của Ta, Cuối Con Đường Liệu Có Ở Đó?"
+    },
+    {
+      "num": 662,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, U Luân!"
+    },
+    {
+      "num": 663,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Yêu Vật Tam Hoàn Nổi Loạn"
+    },
+    {
+      "num": 664,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương Hoa"
+    },
+    {
+      "num": 665,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Săn Giết Yêu Thú Biển!"
+    },
+    {
+      "num": 666,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Bỉ Ngạn Hoa Động!"
+    },
+    {
+      "num": 667,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Thánh Giả Dương Hồn Tam Tông"
+    },
+    {
+      "num": 668,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Rượu Quê Nhà"
+    },
+    {
+      "num": 669,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương — Phát Tài Rồi!"
+    },
+    {
+      "num": 670,
+      "title": "Niết Bàn sống lại, máu nhuộm tám phương — Rượu rất nặng"
+    },
+    {
+      "num": 671,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Lại Gặp Tiếu Tiếu"
+    },
+    {
+      "num": 672,
+      "title": "Niết Bàn trùng sinh, máu nhuộm tám phương – Hứa Bình Bình (Canh một)"
+    },
+    {
+      "num": 673,
+      "title": "Niết Bàn trùng sinh, máu nhuộm tám phương – Có tiền, muốn làm gì thì làm! (Canh hai)"
+    },
+    {
+      "num": 674,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương: Chiến Xa! (Canh thứ ba)"
+    },
+    {
+      "num": 675,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Lê Tiên Tái Hiện!"
+    },
+    {
+      "num": 676,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Mẹ Của Bỉ Ngạn Hoa!"
+    },
+    {
+      "num": 677,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương: Đấu Pháp"
+    },
+    {
+      "num": 678,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Cảm Giác Thật Tuyệt"
+    },
+    {
+      "num": 679,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Ngươi Gian Lận!"
+    },
+    {
+      "num": 680,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Nguy Cơ Ập Đến"
+    },
+    {
+      "num": 681,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Hợp Tác"
+    },
+    {
+      "num": 682,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Sao Chép Mũi Kiếm!"
+    },
+    {
+      "num": 683,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương; Tiếng Gọi Của Lê Tiên"
+    },
+    {
+      "num": 684,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Vương Tổ Giáng Lâm"
+    },
+    {
+      "num": 685,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Ngân Đăng Thượng Nhân!"
+    },
+    {
+      "num": 686,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Nhát Đao Trảm Linh Đầu Tiên!"
+    },
+    {
+      "num": 687,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Đại Đạo Cộng Hưởng!"
+    },
+    {
+      "num": 688,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Mạnh Hạo Mạnh Mẽ Đến Mức Đáng Sợ!"
+    },
+    {
+      "num": 689,
+      "title": "Niết Bàn trùng sinh, máu nhuộm tám phương: Một trận chiến!"
+    },
+    {
+      "num": 690,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bát Phương, Bản Tôn Giáng Lâm!"
+    },
+    {
+      "num": 691,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Đoạt Cơ Đại Pháp!"
+    },
+    {
+      "num": 692,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Ta Muốn Thành Tiên!"
+    },
+    {
+      "num": 693,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Từ Nay Về Sau"
+    },
+    {
+      "num": 694,
+      "title": "Trên thuyền"
+    },
+    {
+      "num": 695,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Bước Đi Trên Đường"
+    },
+    {
+      "num": 696,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Quê Cũ"
+    },
+    {
+      "num": 697,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Nàng Sống, Ta Sống"
+    },
+    {
+      "num": 698,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Cùng Nhau"
+    },
+    {
+      "num": 699,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Thế Gian Có Thật Sự Tồn Tại Luân Hồi?"
+    },
+    {
+      "num": 700,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Nối Lại Cầu Sinh Đã Đứt Đoạn"
+    },
+    {
+      "num": 701,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Lời Hứa Vẫn Còn"
+    },
+    {
+      "num": 702,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Cảnh Giới Vĩnh Hằng!"
+    },
+    {
+      "num": 703,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Hắn, đã đến!"
+    },
+    {
+      "num": 704,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Xông Vào Thanh La Tông!"
+    },
+    {
+      "num": 705,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Phá Trận!"
+    },
+    {
+      "num": 706,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương — Mười Vạn Đại Sơn!"
+    },
+    {
+      "num": 707,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương — Điên Cuồng"
+    },
+    {
+      "num": 708,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – La Âm Tông!"
+    },
+    {
+      "num": 709,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Lục Đạo Chân Tổ"
+    },
+    {
+      "num": 710,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Thiếu Tông Huyết Yêu Tông!"
+    },
+    {
+      "num": 711,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Tử Đông Vấn Đạo!"
+    },
+    {
+      "num": 712,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Trái Tim Huyết Yêu"
+    },
+    {
+      "num": 713,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Huyết Yêu Đại Pháp"
+    },
+    {
+      "num": 714,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Đây Chỉ Là Một Lần Thăm Dò"
+    },
+    {
+      "num": 715,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Giết!"
+    },
+    {
+      "num": 716,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Trấn Áp!"
+    },
+    {
+      "num": 717,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chém Ma Vấn Đạo!"
+    },
+    {
+      "num": 718,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Huyết Yêu Đại Pháp!"
+    },
+    {
+      "num": 719,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Hứa Thanh Tỉnh Lại"
+    },
+    {
+      "num": 720,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Hồ Đạo Thượng Cổ"
+    },
+    {
+      "num": 721,
+      "title": "Chúc mọi người đêm Giáng Sinh vui vẻ!"
+    },
+    {
+      "num": 722,
+      "title": "Máu nhuộm tám phương, Niết Bàn sống lại, cùng tụ hội tại Đạo Hồ!"
+    },
+    {
+      "num": 723,
+      "title": "Niết Bàn sống lại, máu nhuộm tám phương, Đạo Hồ phun trào"
+    },
+    {
+      "num": 724,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Truyền Tống Liên Tục"
+    },
+    {
+      "num": 725,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Đè Bẹp Trảm Linh!"
+    },
+    {
+      "num": 726,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Bá Đạo!"
+    },
+    {
+      "num": 727,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Gặp Lại Người Xưa Bên Đạo Hồ"
+    },
+    {
+      "num": 728,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Hồ Này, Giao Cho Ta!"
+    },
+    {
+      "num": 729,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chủ Hồ Bùng Nổ!"
+    },
+    {
+      "num": 730,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chấn Động Bát Phương! (Chương 1)"
+    },
+    {
+      "num": 731,
+      "title": "Vé Tháng Nhân Đôi Bắt Đầu Rồi Sao?"
+    },
+    {
+      "num": 732,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Ngươi Có Biết Liễu Tử Xuyên Không? (Phần..."
+    },
+    {
+      "num": 733,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Hồ Đạo Phun Trào Lần Thứ Hai! (Canh thứ ba)"
+    },
+    {
+      "num": 734,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chân Tiên Hồn! (Canh thứ tư)"
+    },
+    {
+      "num": 735,
+      "title": "Xin dọn sạch vé tháng."
+    },
+    {
+      "num": 736,
+      "title": "Niết Bàn sống lại, máu nhuộm tám phương, mỗi người trổ hết tài năng!"
+    },
+    {
+      "num": 737,
+      "title": "Niết Bàn sống lại, máu nhuộm tám phương, tranh đoạt linh hồn!"
+    },
+    {
+      "num": 738,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Thử Luyện!"
+    },
+    {
+      "num": 739,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Kim Sắc Đại Thành!"
+    },
+    {
+      "num": 740,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Cửa Ải Thứ Hai! (Chương 1)"
+    },
+    {
+      "num": 741,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Cảnh Giới Linh Mạch! (Canh thứ hai)"
+    },
+    {
+      "num": 742,
+      "title": "Năm mới, chúc mọi người vạn sự như ý!"
+    },
+    {
+      "num": 743,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Một Ngũ Gia Khác! (Thứ ba)"
+    },
+    {
+      "num": 744,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Bản Nguyên Thần Hỏa! (Canh thứ tư)"
+    },
+    {
+      "num": 745,
+      "title": "Niết Bàn Trọng Sinh, Máu Nhuộm Tám Phương; Thiếu Tông Trở Về! (Canh thứ năm)"
+    },
+    {
+      "num": 746,
+      "title": "Niết Bàn Trọng Sinh, Máu Nhuộm Tám Phương; Trước Thềm Đại Chiến Nam Vực!"
+    },
+    {
+      "num": 747,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Đệ Nhị Bản Tôn!"
+    },
+    {
+      "num": 748,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chiến! (Hồi thứ nhất)"
+    },
+    {
+      "num": 749,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Thảm Khốc! (Hồi thứ hai)"
+    },
+    {
+      "num": 750,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Một Chiếc Lá! (Canh ba)"
+    },
+    {
+      "num": 751,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Bóng Lưng Tựa Núi! (Canh thứ tư)"
+    },
+    {
+      "num": 752,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Lão Tổ Ngũ Phong!"
+    },
+    {
+      "num": 753,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Tầng Thứ Tư của Huyết Yêu Đại Pháp!"
+    },
+    {
+      "num": 754,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương — phân thân của Lê Tiên!"
+    },
+    {
+      "num": 755,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương — Bảo bối, đến lúc về nhà rồi"
+    },
+    {
+      "num": 756,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Ngươi Gọi Nó, Nó Có Chịu Đáp Lời Không?"
+    },
+    {
+      "num": 757,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương! Đệ Nhị Bản Tôn, Trỗi Dậy!"
+    },
+    {
+      "num": 758,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Đỉnh Phong! (Canh một)"
+    },
+    {
+      "num": 759,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Khôi Lỗi Ngụy Tiên! (Hồi 2)"
+    },
+    {
+      "num": 760,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Quyết Chiến! (Canh ba)"
+    },
+    {
+      "num": 761,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Chân Thân Huyết Yêu! (Canh thứ tư)"
+    },
+    {
+      "num": 762,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Thanh La Đế Quân!"
+    },
+    {
+      "num": 763,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Cấm Nhân Quả!"
+    },
+    {
+      "num": 764,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Lại Vào Phúc Địa Thượng Cổ"
+    },
+    {
+      "num": 765,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Thân Xác Hỏi Đạo"
+    },
+    {
+      "num": 766,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Đến Nhất Kiếm Tông!"
+    },
+    {
+      "num": 767,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Chuyện Cũ Của Trần Phàm"
+    },
+    {
+      "num": 768,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Cầu Phúc Cho Ngươi"
+    },
+    {
+      "num": 769,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Gã Mập Điên Cuồng!"
+    },
+    {
+      "num": 770,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Kiếp Nạn Nhà Họ Lý!"
+    },
+    {
+      "num": 771,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương"
+    },
+    {
+      "num": 772,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương – Bắc Địa Tập Kết!"
+    },
+    {
+      "num": 773,
+      "title": "Niết bàn tái sinh, máu nhuộm tám phương: Mẹ ngươi từng đến đây"
+    },
+    {
+      "num": 774,
+      "title": "Niết Bàn trùng sinh, máu nhuộm tám phương, người xưa gặp lại"
+    },
+    {
+      "num": 775,
+      "title": "Niết Bàn trùng sinh, máu nhuộm tám phương – Lão tổ thứ mười!"
+    },
+    {
+      "num": 776,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Tình Sâu Nhất"
+    },
+    {
+      "num": 777,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Hôn Lễ Chấn Động Nam Vực"
+    },
+    {
+      "num": 778,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Kiếp Nạn Bảy Tuổi!"
+    },
+    {
+      "num": 779,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Đại Hôn!"
+    },
+    {
+      "num": 780,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương – Bắc Địa xâm lược!"
+    },
+    {
+      "num": 781,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương – Khô Minh Cửu Suy!"
+    },
+    {
+      "num": 782,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương – Sức Mạnh Lời Nguyền"
+    },
+    {
+      "num": 783,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Tiếng Cười Ấy"
+    },
+    {
+      "num": 784,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương – Để Ta Ngủ Một Lát"
+    },
+    {
+      "num": 785,
+      "title": "Tái Sinh Niết Bàn, Máu Nhuộm Tám Phương – Để Hôn Lễ Không Còn Nuối Tiếc!"
+    },
+    {
+      "num": 786,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Hứa Thanh Chuyển Thế (Hồi 1!)"
+    },
+    {
+      "num": 787,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Kẻ Hỏi Đạo Ngã Xuống! (Chương thứ hai)"
+    },
+    {
+      "num": 788,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Đại Chiến! (Chương thứ ba)"
+    },
+    {
+      "num": 789,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Tầng Thứ Năm Của Huyết Yêu Đại Pháp! (Chương thứ tư)"
+    },
+    {
+      "num": 790,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương; Lê Tiên, Ngươi Có Dám Đánh Một Trận!"
+    },
+    {
+      "num": 791,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương; Quyết Chiến Lê Tiên!"
+    },
+    {
+      "num": 792,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Bắc Địa Đại Bại!"
+    },
+    {
+      "num": 793,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Một Kiếm Chém Phán Quan!"
+    },
+    {
+      "num": 794,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Tám Phương, Mạnh Hạo Tỉnh Lại!"
+    },
+    {
+      "num": 795,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Ba Kiếm Quét Sạch Đông Thổ!"
+    },
+    {
+      "num": 796,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Quét Sạch"
+    },
+    {
+      "num": 797,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Đại Chiến Sắp Đến!"
+    },
+    {
+      "num": 798,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương – Khai Chiến!"
+    },
+    {
+      "num": 799,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Chém Quỷ!"
+    },
+    {
+      "num": 800,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Mặt Trời Rực Rỡ Trỗi Dậy!"
+    },
+    {
+      "num": 801,
+      "title": "Niết Bàn Tái Sinh, Máu Nhuộm Bốn Phương, Trấn Áp!"
+    },
+    {
+      "num": 802,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Nguy Cơ Trùng Trùng!"
+    },
+    {
+      "num": 803,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Người Kia Từng Nói"
+    },
+    {
+      "num": 804,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Đại Đạo Cộng Hưởng!"
+    },
+    {
+      "num": 805,
+      "title": "Niết bàn tái sinh, máu nhuộm tám phương; Đạo hóa thành sương, sương hóa thành đao!"
+    },
+    {
+      "num": 806,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương, chém ma hỏi đạo!"
+    },
+    {
+      "num": 807,
+      "title": "Niết Bàn tái sinh, máu nhuộm tám phương, Mạnh Hạo vô địch!"
+    },
+    {
+      "num": 808,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Nửa Bước Chân Tiên!"
+    },
+    {
+      "num": 809,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Trấn Áp Tu Sĩ Bắc Địa!"
+    },
+    {
+      "num": 810,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương, Ngày Tương Phùng"
+    },
+    {
+      "num": 811,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Cha Phương Cười Nói Quét Sạch Nam Thiên"
+    },
+    {
+      "num": 812,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Tám Phương – Sinh Ra Ở Đông Thắng Tinh!"
+    },
+    {
+      "num": 813,
+      "title": "Niết Bàn Trùng Sinh, Máu Nhuộm Bốn Phương, Kiếp Nạn Bảy Tuổi! (Canh một)"
+    },
+    {
+      "num": 814,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên, Tương Lai Nhất Định Sẽ Gặp Lại! (Canh thứ nhất)"
+    },
+    {
+      "num": 815,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Lệnh bài Tiên Cổ! (Hồi thứ ba)"
+    },
+    {
+      "num": 816,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, đến Quý Gia đòi nợ! (Canh thứ tư)"
+    },
+    {
+      "num": 817,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn, Nợ Thì Phải Trả! (Canh thứ năm)"
+    },
+    {
+      "num": 818,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn, Chúng Ta Trả Tiền!"
+    },
+    {
+      "num": 819,
+      "title": "Danh vang chín núi, gió nổi khắp biển!"
+    },
+    {
+      "num": 820,
+      "title": "Danh Chấn Cửu Sơn Tiên Lộ, Tiên Cổ Đạo Tràng!"
+    },
+    {
+      "num": 821,
+      "title": "Danh Chấn Cửu Sơn Tiên Lộ, Bóng Dáng Truyền Đạo!"
+    },
+    {
+      "num": 822,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Tiên Cổ Đạo Mạch! (Canh ba)"
+    },
+    {
+      "num": 823,
+      "title": "Danh Tiếng Chấn Động Chín Núi, Con Đường Chân Tiên – Hai Điều Cấm!"
+    },
+    {
+      "num": 824,
+      "title": "Danh Tiếng Chấn Động Chín Núi, Con Đường Chân Tiên – Ta Đã Đợi Các Ngươi Rất Lâu!"
+    },
+    {
+      "num": 825,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn – Ta Là Một Người Quét Sân"
+    },
+    {
+      "num": 826,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn, Tiểu Thanh và Tiểu Hoa"
+    },
+    {
+      "num": 827,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn – Ta tên là Mạnh Hạo!"
+    },
+    {
+      "num": 828,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, Phàm Đông Nhi!"
+    },
+    {
+      "num": 829,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Chiến Thần Nữ!"
+    },
+    {
+      "num": 830,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn – Tiểu Thanh, tặng ngươi đấy!"
+    },
+    {
+      "num": 831,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, thay đổi vận mệnh!!"
+    },
+    {
+      "num": 832,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, bóng hình viễn cổ!"
+    },
+    {
+      "num": 833,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, Ai dám giành mối làm ăn của ta?"
+    },
+    {
+      "num": 834,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Thu Phục Lý Linh Nhi!"
+    },
+    {
+      "num": 835,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn, sau này cứ gọi ta là Tiểu Hải!"
+    },
+    {
+      "num": 836,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn – Sát cục"
+    },
+    {
+      "num": 837,
+      "title": "Danh Chấn Cửu Sơn Chân Tiên Lộ – Phá Cục!"
+    },
+    {
+      "num": 838,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, Chỉ Hương báo ân!"
+    },
+    {
+      "num": 839,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ! (Canh một)"
+    },
+    {
+      "num": 840,
+      "title": "Danh động Cửu Sơn, con đường Chân Tiên – Báo thù chưa muộn! (Hồi 2)"
+    },
+    {
+      "num": 841,
+      "title": "Danh chấn con đường Chân Tiên của Đệ Cửu Sơn, vô địch! (Canh thứ ba)"
+    },
+    {
+      "num": 842,
+      "title": "Danh chấn con đường Chân Tiên của Đệ Cửu Sơn, Chém và Cấm! (Canh thứ tư)"
+    },
+    {
+      "num": 843,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn – Dọn Sạch Sân!"
+    },
+    {
+      "num": 844,
+      "title": "Danh vang khắp chín ngọn núi, con đường thành tiên – Cha mẹ tìm đến"
+    },
+    {
+      "num": 845,
+      "title": "Danh vang khắp chín ngọn núi, con đường thành tiên – Thả hết ra đây"
+    },
+    {
+      "num": 846,
+      "title": "Con đường Chân Tiên danh chấn chín núi – Màn gài bẫy vụng về"
+    },
+    {
+      "num": 847,
+      "title": "Danh vang khắp chín ngọn núi, con đường thành tiên chân chính – Xem ta là ai"
+    },
+    {
+      "num": 848,
+      "title": "Danh vang khắp chín ngọn núi, con đường thành tiên chân chính – Kiếp nạn của Đan Quỷ!"
+    },
+    {
+      "num": 849,
+      "title": "Tiên Môn giáng xuống! Danh chấn Cửu Sơn, con đường thành Chân Tiên!"
+    },
+    {
+      "num": 850,
+      "title": "Danh chấn con đường Chân Tiên ở Cửu Sơn – Sai, cũng phải làm!"
+    },
+    {
+      "num": 851,
+      "title": "Danh chấn con đường Chân Tiên ở Cửu Sơn – Hóa ra, ngươi cũng là một kiếp nạn!"
+    },
+    {
+      "num": 852,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Chân Tiên Khó Thành!"
+    },
+    {
+      "num": 853,
+      "title": "Dành tặng tất cả anh chị em: Năm Ngọ"
+    },
+    {
+      "num": 854,
+      "title": "Danh vang chín núi, con đường thành tiên chân chính nằm giữa tinh không, không nằm trên những vì sao"
+    },
+    {
+      "num": 855,
+      "title": "Danh vang chín núi, con đường thành tiên chân chính – Con đường thử thách mở ra!"
+    },
+    {
+      "num": 856,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn – Đây Chỉ Là Hiểu Lầm"
+    },
+    {
+      "num": 857,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn – Tranh Phong Suốt Chặng Đường!"
+    },
+    {
+      "num": 858,
+      "title": "Danh vang chín núi, con đường thành tiên – Người đứng đầu cửa ải này!"
+    },
+    {
+      "num": 859,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn! Danh Chấn!"
+    },
+    {
+      "num": 860,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn – Nhanh Nhất!"
+    },
+    {
+      "num": 861,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên — Tư chất, tu vi, tuổi tác"
+    },
+    {
+      "num": 862,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, tiền bối, cho ta thêm mười cái nữa!"
+    },
+    {
+      "num": 863,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ – Sáng Tạo"
+    },
+    {
+      "num": 864,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên của Cửu Sơn – Bản tính khó dời"
+    },
+    {
+      "num": 865,
+      "title": "Danh vang khắp Cửu Sơn, lòng son thuở ban đầu"
+    },
+    {
+      "num": 866,
+      "title": "Danh vang khắp Cửu Sơn, trăm hoa đua nở"
+    },
+    {
+      "num": 867,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Chín Cây Cầu Kia! (Hồi 1)"
+    },
+    {
+      "num": 868,
+      "title": "Danh chấn con đường Chân Tiên ở Cửu Sơn, manh mối về bí mật!"
+    },
+    {
+      "num": 869,
+      "title": "Danh chấn con đường Chân Tiên ở Cửu Sơn, một tờ giấy kết nhân quả! (Canh ba)"
+    },
+    {
+      "num": 870,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Cây Cầu Chí Tôn! (Canh thứ tư)"
+    },
+    {
+      "num": 871,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên — Binh Các!"
+    },
+    {
+      "num": 872,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên — Lần cuối cùng!"
+    },
+    {
+      "num": 873,
+      "title": "Con Đường Chân Tiên Chấn Động Chín Núi – Hai Cửa Cuối Cùng (Canh Một)"
+    },
+    {
+      "num": 874,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, tâm vững đạo bền! (Canh hai)"
+    },
+    {
+      "num": 875,
+      "title": "Danh vang Cửu Sơn, người đứng đầu con đường Chân Tiên! (Canh ba)"
+    },
+    {
+      "num": 876,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, có kẻ khiêu khích! (Canh thứ tư)"
+    },
+    {
+      "num": 877,
+      "title": "Danh tiếng vang khắp Cửu Sơn Chân Tiên Lộ, mang đan dược đến tận cửa!"
+    },
+    {
+      "num": 878,
+      "title": "Danh Tiếng Chấn Động Chín Núi, Con Đường Thành Tiên! Tiên Khư Chân Chính!"
+    },
+    {
+      "num": 879,
+      "title": "Danh Tiếng Chấn Động Chín Núi, Con Đường Thành Tiên – Phong Yêu Đệ Lục Cấm! (Thứ Nhất)"
+    },
+    {
+      "num": 880,
+      "title": "Danh Chấn Con Đường Chân Tiên Cửu Sơn – Hắn Là Thần! (Canh Hai)"
+    },
+    {
+      "num": 881,
+      "title": "Danh tiếng vang khắp Cửu Sơn Chân Tiên Lộ, một quyền! (Canh ba)"
+    },
+    {
+      "num": 882,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn: Huyết Tiên Đồng Tử! (Canh thứ tư)"
+    },
+    {
+      "num": 883,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, tiến vào top 32!"
+    },
+    {
+      "num": 884,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, quần hung kéo đến!"
+    },
+    {
+      "num": 885,
+      "title": "Danh Chấn Cửu Sơn Chân Tiên Lộ – Khí Thế Vô Địch!"
+    },
+    {
+      "num": 886,
+      "title": "Danh tiếng vang khắp Cửu Sơn, con đường Chân Tiên. Nàng, đã xuất hiện!"
+    },
+    {
+      "num": 887,
+      "title": "Danh tiếng vang khắp Cửu Sơn, con đường Chân Tiên. Nàng là Chí Tôn!"
+    },
+    {
+      "num": 888,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn – Tranh bốn vị trí đứng đầu!"
+    },
+    {
+      "num": 889,
+      "title": "Danh vang chấn động con đường Chân Tiên Cửu Sơn, bá đạo!"
+    },
+    {
+      "num": 890,
+      "title": "Danh vang chấn động con đường Chân Tiên Cửu Sơn, bốn trận toàn thắng!"
+    },
+    {
+      "num": 891,
+      "title": "Danh chấn con đường Chân Tiên ở Cửu Sơn – Thả nó ra!"
+    },
+    {
+      "num": 892,
+      "title": "Danh Tiếng Lẫy Lừng Khắp Cửu Sơn, Con Đường Chân Tiên – Một Tay Che Trời!"
+    },
+    {
+      "num": 893,
+      "title": "Danh Tiếng Lẫy Lừng Khắp Cửu Sơn, Con Đường Chân Tiên – Trận Chiến Đỉnh Cao!"
+    },
+    {
+      "num": 894,
+      "title": "Danh Tiếng Lẫy Lừng Khắp Cửu Sơn, Con Đường Chân Tiên – Biến Cố Kinh Hoàng!"
+    },
+    {
+      "num": 895,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, Yêu Phong Đệ Lục Cấm!"
+    },
+    {
+      "num": 896,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, Tự Liệt thứ mười ba!"
+    },
+    {
+      "num": 897,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, cướp thức ăn trong miệng hổ!"
+    },
+    {
+      "num": 898,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, cả nhà đoàn tụ"
+    },
+    {
+      "num": 899,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, trở lại chốn xưa"
+    },
+    {
+      "num": 900,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn, Tái Chiến Đạo Hồ!"
+    },
+    {
+      "num": 901,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn, Bản Nguyên Thần Hỏa!"
+    },
+    {
+      "num": 902,
+      "title": "Danh vang chín núi, con đường Chân Tiên – Tự mình tung cánh!"
+    },
+    {
+      "num": 903,
+      "title": "Danh động Cửu Sơn, con đường Chân Tiên – Sát cơ bủa vây!"
+    },
+    {
+      "num": 904,
+      "title": "Danh động Cửu Sơn, con đường Chân Tiên – Đại chiến với cường địch!"
+    },
+    {
+      "num": 905,
+      "title": "Danh vang khắp Chín Núi, con đường Chân Tiên – Thần hỏa thiêu đốt tiên nhân!"
+    },
+    {
+      "num": 906,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Đông Thiên Môn!"
+    },
+    {
+      "num": 907,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Cứ Thẳng Thắn Phô Trương! (Hồi 1)"
+    },
+    {
+      "num": 908,
+      "title": "Hôm Nay Bùng Nổ, Xin Nguyệt Phiếu!"
+    },
+    {
+      "num": 909,
+      "title": "Danh Chấn Cửu Sơn, Huyết Mạch Chấn Động Cả Tộc! (Canh hai)"
+    },
+    {
+      "num": 910,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên — Hắn, Đã Trở Về! (Thứ ba)"
+    },
+    {
+      "num": 911,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên — Phương gia Trên Đông Thắng Tinh! (Thứ tư)"
+    },
+    {
+      "num": 912,
+      "title": "Danh tiếng vang khắp con đường thành Chân Tiên của Cửu Sơn – Phương Vệ!"
+    },
+    {
+      "num": 913,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, ngươi muốn chết sao!"
+    },
+    {
+      "num": 914,
+      "title": "Danh vang khắp Cửu Sơn, bước lên con đường Chân Tiên, khó phân biệt địch ý"
+    },
+    {
+      "num": 915,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên – Tam gia gia"
+    },
+    {
+      "num": 916,
+      "title": "Gỡ tơ tìm mối! (Canh đầu)"
+    },
+    {
+      "num": 917,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn, đan đạo của Phương Gia (Canh hai)"
+    },
+    {
+      "num": 918,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, vừa hé lộ mũi nhọn! (Canh thứ ba)"
+    },
+    {
+      "num": 919,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, vậy thì đấu ngay bây giờ! (Canh thứ tư)"
+    },
+    {
+      "num": 920,
+      "title": "Danh động Cửu Sơn Chân Tiên lộ – Đấu thảo mộc!"
+    },
+    {
+      "num": 921,
+      "title": "Danh vang khắp chín ngọn núi, con đường Chân Tiên dậy sóng đầu tiên"
+    },
+    {
+      "num": 922,
+      "title": "Danh vang khắp chín ngọn núi, con đường Chân Tiên – Ta tuyệt đối không nhận thêm!"
+    },
+    {
+      "num": 923,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Dược Các"
+    },
+    {
+      "num": 924,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn! Gian lận!"
+    },
+    {
+      "num": 925,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn – Kinh động Nghị Các"
+    },
+    {
+      "num": 926,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn – Đan Đạo hưng thịnh"
+    },
+    {
+      "num": 927,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn, Cùng Đường Thì Phải Đổi Cách! (Hồi 1)"
+    },
+    {
+      "num": 928,
+      "title": "Danh Tiếng Vang Khắp Con Đường Chân Tiên Cửu Sơn, Đổi Cách Ắt Sẽ Tìm Được Lối Ra! (Hồi 2)"
+    },
+    {
+      "num": 929,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, đứng đầu mọi tầng! (Canh ba)"
+    },
+    {
+      "num": 930,
+      "title": "Danh tiếng vang khắp Cửu Sơn, con đường Chân Tiên – Đạt đến đỉnh cao! (Canh thứ tư)"
+    },
+    {
+      "num": 931,
+      "title": "Danh tiếng vang khắp Cửu Sơn, con đường Chân Tiên – Mỗi bước nở sen! (Canh thứ năm)"
+    },
+    {
+      "num": 932,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên không ngừng tiến lên!"
+    },
+    {
+      "num": 933,
+      "title": "Danh động chín núi, con đường chân tiên – Đan đạo vô tận!"
+    },
+    {
+      "num": 934,
+      "title": "Danh động chín núi, con đường Chân Tiên – Khiêu khích"
+    },
+    {
+      "num": 935,
+      "title": "Danh động con đường Chân Tiên Cửu Sơn – Phá lệ!"
+    },
+    {
+      "num": 936,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên – Mục tiêu (Hồi 1)"
+    },
+    {
+      "num": 937,
+      "title": "Xin vé tháng bảo đảm tháng Tư!"
+    },
+    {
+      "num": 938,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, gióng trống Đan Các! (Chương thứ hai)"
+    },
+    {
+      "num": 939,
+      "title": "Danh vang khắp Cửu Sơn Chân Tiên Lộ, Mạnh Hạo luyện đan! (Chương thứ ba)"
+    },
+    {
+      "num": 940,
+      "title": "Danh Chấn Cửu Sơn Chân Tiên Lộ, Đô Thiên Dương Thần Đan! (Thứ tư)"
+    },
+    {
+      "num": 941,
+      "title": "Bùng Nổ Chương Mới Lần Thứ Tư, Xin Vé Tháng Bảo Đảm!"
+    },
+    {
+      "num": 942,
+      "title": "Danh Chấn Cửu Sơn Chân Tiên Lộ, Tỷ Phu Tương Lai?"
+    },
+    {
+      "num": 943,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên – Đạo và Khí!"
+    },
+    {
+      "num": 944,
+      "title": "Danh Động Cửu Sơn Chân Tiên Lộ – Bên Hồ Minh Nguyệt"
+    },
+    {
+      "num": 945,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, theo sau ta! (Canh một)"
+    },
+    {
+      "num": 946,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, ngang ngược ra tay! (Canh hai)"
+    },
+    {
+      "num": 947,
+      "title": "Danh vang chín núi, con đường thành tiên – Ta nhớ mọi người lắm! (Canh ba)"
+    },
+    {
+      "num": 948,
+      "title": "Danh vang vang dội trên con đường Chân Tiên Cửu Sơn, nàng tên là Phương Du! (Canh thứ tư)"
+    },
+    {
+      "num": 949,
+      "title": "Bùng nổ bốn chương, xin mọi người tặng một phiếu tháng!"
+    },
+    {
+      "num": 950,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, Dương Tinh giáng lâm!"
+    },
+    {
+      "num": 951,
+      "title": "Danh chấn Cửu Sơn, tranh phong trên con đường Chân Tiên!"
+    },
+    {
+      "num": 952,
+      "title": "Danh chấn Cửu Sơn, trên con đường Chân Tiên sánh vai tranh phong!"
+    },
+    {
+      "num": 953,
+      "title": "Danh động chín núi, con đường Chân Tiên – Quả Niết Bàn của ta!"
+    },
+    {
+      "num": 954,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên – Mạnh Hạo và Phương Vệ!"
+    },
+    {
+      "num": 955,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên – Một quyền!"
+    },
+    {
+      "num": 956,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Mặt Trời Rực Rỡ Trỗi Dậy!"
+    },
+    {
+      "num": 957,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, nhục thân thành Chân Thánh!"
+    },
+    {
+      "num": 958,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, nơi tận cùng của bầu trời!"
+    },
+    {
+      "num": 959,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Chân Tiên – Mười Hơi Thở Trên Dương Tinh!"
+    },
+    {
+      "num": 960,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Thần Thông Thứ Ba!"
+    },
+    {
+      "num": 961,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Sát Cơ Đang Đến Gần!"
+    },
+    {
+      "num": 962,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên: Thái độ của Đại trưởng lão"
+    },
+    {
+      "num": 963,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn – Nước mắt của Mạnh Hạo"
+    },
+    {
+      "num": 964,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn – Thấy vật nhớ người"
+    },
+    {
+      "num": 965,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn – Chuẩn Đạo Chí Tôn"
+    },
+    {
+      "num": 966,
+      "title": "Danh Tiếng Chấn Động Con Đường Chân Tiên Cửu Sơn, Kinh Hãi"
+    },
+    {
+      "num": 967,
+      "title": "Danh Tiếng Chấn Động Con Đường Chân Tiên Cửu Sơn, Tổ Địa Quá Hung Hiểm"
+    },
+    {
+      "num": 968,
+      "title": "Danh Tiếng Chấn Động Chín Ngọn Núi, Con Đường Thành Tiên – Cạo Sạch Ba Tấc Đất"
+    },
+    {
+      "num": 969,
+      "title": "Danh Tiếng Chấn Động Con Đường Chân Tiên Cửu Sơn, Phong Yêu Lại Hiện!"
+    },
+    {
+      "num": 970,
+      "title": "Danh Tiếng Vang Khắp Chín Núi, Con Đường Thành Tiên Chân Chính – Đệ Lục Cấm Thành Công!"
+    },
+    {
+      "num": 971,
+      "title": "Danh Tiếng Vang Khắp Chín Núi, Con Đường Thành Tiên Chân Chính – Cửu Minh Sơn"
+    },
+    {
+      "num": 972,
+      "title": "Danh Tiếng Chấn Động Chín Ngọn Núi, Con Đường Thành Tiên – Nhật Nguyệt Chín Núi!"
+    },
+    {
+      "num": 973,
+      "title": "Danh vang chín vùng núi, con đường thành tiên! Phong Yêu Cấm thứ năm!"
+    },
+    {
+      "num": 974,
+      "title": "Danh chấn con đường Chân Tiên Cửu Sơn, thời đại tranh hùng!"
+    },
+    {
+      "num": 975,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên của Chín Núi, tâm ma của thiên kiêu!"
+    },
+    {
+      "num": 976,
+      "title": "Đôi lời tâm sự"
+    },
+    {
+      "num": 977,
+      "title": "Danh vang khắp con đường Chân Tiên Cửu Sơn, bước đi giữa tiên quốc!"
+    },
+    {
+      "num": 978,
+      "title": "Danh vang khắp Chín Sơn, con đường thành tiên — Một ngọn đèn!"
+    },
+    {
+      "num": 979,
+      "title": "Danh vang khắp Chín Sơn, con đường thành tiên — Hồn đăng của ai!"
+    },
+    {
+      "num": 980,
+      "title": "Danh vang khắp Chín Núi, con đường thành tiên — Minh Cung"
+    },
+    {
+      "num": 981,
+      "title": "Danh tiếng vang khắp Chín Núi, con đường thành tiên — Người đứng đầu về tiên duyên!"
+    },
+    {
+      "num": 982,
+      "title": "Danh tiếng vang khắp Chín Núi, con đường thành tiên — Phương Hạo, ra đây đánh một trận!"
+    },
+    {
+      "num": 983,
+      "title": "Con đường thành Chân Tiên chấn động Cửu Sơn – Họ đang chờ đợi!"
+    },
+    {
+      "num": 984,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Tổ địa mở cửa!"
+    },
+    {
+      "num": 985,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Phong vân nổi dậy!"
+    },
+    {
+      "num": 986,
+      "title": "Danh tiếng vang khắp Chín Núi, con đường Chân Tiên — Kiếp Tiên Chí Tôn! (Canh ba)"
+    },
+    {
+      "num": 987,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Độ Kiếp!"
+    },
+    {
+      "num": 988,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Pháp Tướng Vạn Trượng!"
+    },
+    {
+      "num": 989,
+      "title": "Danh Động Cửu Sơn Chân Tiên Lộ Chí Tôn Tiên Cung!"
+    },
+    {
+      "num": 990,
+      "title": "Danh vang chấn động Cửu Sơn, con đường Chân Tiên – Ta chính là Phương Mộc!"
+    },
+    {
+      "num": 991,
+      "title": "Danh vang chấn động Cửu Sơn, con đường Chân Tiên – Đánh sập tiên môn!"
+    },
+    {
+      "num": 992,
+      "title": "Danh vang khắp chín núi, con đường Chân Tiên — Mở tiên mạch!"
+    },
+    {
+      "num": 993,
+      "title": "Danh vang khắp Cửu Sơn, trên con đường Chân Tiên, vượt xa cảnh giới Bách Mạch!"
+    },
+    {
+      "num": 994,
+      "title": "Danh vang khắp Cửu Sơn, trên con đường Chân Tiên – Huyết Yêu và Bỉ Ngạn Hoa!"
+    },
+    {
+      "num": 995,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên — Chứng Đạo!"
+    },
+    {
+      "num": 996,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Thành Tiên – Phong Yêu Ngưng Mạch!"
+    },
+    {
+      "num": 997,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Thành Tiên – Tiên Nhân Từ Trời Giáng Xuống!"
+    },
+    {
+      "num": 998,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Thành Tiên – Tạo Hóa Bùng Nổ!"
+    },
+    {
+      "num": 999,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Thay cha tặng tiên mạch! (Phần một)"
+    },
+    {
+      "num": 1000,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Bóng dáng hồn đăng! (Phần hai)"
+    },
+    {
+      "num": 1001,
+      "title": "Danh chấn Cửu Sơn, con đường Chân Tiên – Tạo hóa của Hứa Thanh! (Mạch thứ một trăm hai mươi mốt!)"
+    },
+    {
+      "num": 1002,
+      "title": "Con Đường Thành Tiên Làm Chấn Động Chín Vùng Trời – Cảnh Giới Tiên Nhân Đại Viên Mãn! (Phần..."
+    },
+    {
+      "num": 1003,
+      "title": "Con Đường Thành Tiên Làm Chấn Động Chín Vùng Trời – Ba Mươi Ba Tầng Trời! (Phần..."
+    },
+    {
+      "num": 1004,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên — Chiến! (Canh hai)"
+    },
+    {
+      "num": 1005,
+      "title": "Danh vang chấn động Cửu Sơn, con đường Chân Tiên – Sáu vị thiên kiêu vây đánh Mạnh Hạo!"
+    },
+    {
+      "num": 1006,
+      "title": "Danh vang chấn động Cửu Sơn, con đường Chân Tiên – Đại nguyện của Mạnh Hạo!"
+    },
+    {
+      "num": 1007,
+      "title": "Danh vang chấn động chín ngọn núi, con đường Chân Tiên — Nương tử, nàng muốn thành thân không?（"
+    },
+    {
+      "num": 1008,
+      "title": "Danh vang vang khắp Cửu Sơn, bước vào con đường Chân Tiên — Vẫn là cảm giác ấy!（"
+    },
+    {
+      "num": 1009,
+      "title": "Danh vang khắp Cửu Sơn, con đường Chân Tiên — Thần và Tiên! (Canh ba)"
+    },
+    {
+      "num": 1010,
+      "title": "Danh vang Cửu Sơn, con đường Chân Tiên — Phương Vệ chiến Mạnh Hạo! (Phần..."
+    },
+    {
+      "num": 1011,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Thành Tiên — Ta Vẫn Chưa Thua! ("
+    },
+    {
+      "num": 1012,
+      "title": "Danh Chấn Cửu Sơn, Con Đường Thành Tiên — Biến Cố Lớn Trong Phương Gia!! ("
+    },
+    {
+      "num": 1013,
+      "title": "Danh vang chấn động con đường Chân Tiên Cửu Sơn — Loạn trong gia tộc! (Canh ba)"
+    },
+    {
+      "num": 1014,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, Quý Gia ra tay! (Hồi 4)"
+    },
+    {
+      "num": 1015,
+      "title": "Danh chấn Cửu Sơn Chân Tiên Lộ, tiếp tục trận chiến trước! (Hồi 1)"
+    },
+    {
+      "num": 1016,
+      "title": "Danh vang chín núi, con đường Chân Tiên – Phương Tú Sơn bỏ mạng! (Phần 1)"
+    },
+    {
+      "num": 1017,
+      "title": "Danh vang vang khắp Chín Sơn, con đường thành tiên chân chính – Cái chết của Phương Vệ! (Phần 3)"
+    },
+    {
+      "num": 1018,
+      "title": "Danh vang khắp Chín Sơn, con đường thành tiên chân chính – Binh tượng giáng lâm! (Phần 4)"
+    },
+    {
+      "num": 1019,
+      "title": "Danh vang khắp Chín Núi, con đường thành Chân Tiên – Đạo Cảnh thứ hai của Phương gia!"
+    },
+    {
+      "num": 1020,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn Hải, lá bài cuối cùng của Quý Gia!"
+    },
+    {
+      "num": 1021,
+      "title": "Danh tiếng vang khắp con đường Chân Tiên Cửu Sơn Hải – Ngươi là ai!"
+    },
+    {
+      "num": 1022,
+      "title": "Danh vang chấn động Cửu Sơn, con đường Chân Tiên — Lão tổ đời thứ nhất!"
+    },
+    {
+      "num": 1023,
+      "title": "Danh Chấn Chín Núi, Con Đường Chân Tiên – Phương Gia!"
+    },
+    {
+      "num": 1024,
+      "title": "Dựng Cầu Tiên Cổ, Bước Ra Chín Núi – Hy Vọng Của Cổ Cảnh!"
+    },
+    {
+      "num": 1025,
+      "title": "Dựng Cầu Tiên Cổ, Bước Ra Chín Núi – Thanh Kiếm Và Tấm Khiên Của Thế Hệ Này!"
+    },
+    {
+      "num": 1026,
+      "title": "Tiên Cổ xây cầu, chín ngọn núi hiện ra – Hồ ly nhỏ và hồ ly già!"
+    },
+    {
+      "num": 1027,
+      "title": "Tiên Cổ xây cầu, chín ngọn núi hiện ra – Vì thứ tự mà tồn tại!"
+    },
+    {
+      "num": 1028,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi xuất hiện — Ta đã thành thân rồi! (Phần 2)"
+    },
+    {
+      "num": 1029,
+      "title": "Tiên cổ dựng cầu, bước ra khỏi chín ngọn núi! Cá cược! (Hồi thứ ba)"
+    },
+    {
+      "num": 1030,
+      "title": "Tiên cổ dựng cầu, bước ra khỏi chín ngọn núi! Lại xông Dược Các! (Hồi thứ tư)"
+    },
+    {
+      "num": 1031,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Hiện Ra – Mở Cánh Cửa Bản Nguyên!"
+    },
+    {
+      "num": 1032,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Kế Hoạch Bỏ Trốn Khỏi Hôn Ước!"
+    },
+    {
+      "num": 1033,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Phá Hải Nghịch Thiên Đan"
+    },
+    {
+      "num": 1034,
+      "title": "Tiên Cổ Dựng Cầu Ra Chín Núi – Một Niệm Thương Khung!"
+    },
+    {
+      "num": 1035,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Lão Rùa Ô Dù Của Ta!"
+    },
+    {
+      "num": 1036,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Đuổi Khỏi Đông Thắng Tinh!"
+    },
+    {
+      "num": 1037,
+      "title": "Tiên cổ dựng cầu, ra khỏi Cửu Sơn – Thu phục con rùa già!"
+    },
+    {
+      "num": 1038,
+      "title": "Tiên Cổ Dựng Cầu Vượt Chín Núi, Giết Chết Lý Linh Nhi!"
+    },
+    {
+      "num": 1039,
+      "title": "Cuộc thi viết cảm nhận về truyện «Một Đường Phong Thiên», phần thưởng vô cùng hậu hĩnh!"
+    },
+    {
+      "num": 1040,
+      "title": "Tiên Cổ Dựng Cầu Vượt Chín Núi, Lướt Qua Nhau!"
+    },
+    {
+      "num": 1041,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi, Truy Đuổi Vào Tiên Khư!"
+    },
+    {
+      "num": 1042,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi — Lắm Lời!"
+    },
+    {
+      "num": 1043,
+      "title": "Tiên cổ xây cầu, chín núi hiện thế, khế ước Sơn Hải giới!"
+    },
+    {
+      "num": 1044,
+      "title": "Tiên Cổ Xây Cầu Vượt Chín Núi, Chí Tôn Chém Kẻ Hộ Đạo!"
+    },
+    {
+      "num": 1045,
+      "title": "Tiên Cổ Xây Cầu Vượt Chín Núi, Lục Soát Ký Ức Nhất Pháp Tử!"
+    },
+    {
+      "num": 1046,
+      "title": "Tiên Cổ Dựng Cầu, Ba Mươi Ba Cõi Sơn Hải Kiếp!"
+    },
+    {
+      "num": 1047,
+      "title": "Tiên Cổ dựng cầu vượt Cửu Sơn, biển sâu bọ náo động!"
+    },
+    {
+      "num": 1048,
+      "title": "Tiên Cổ dựng cầu vượt Cửu Sơn, cướp mất mối làm ăn của ta?!"
+    },
+    {
+      "num": 1049,
+      "title": "Tiên Cổ Dựng Cầu Vượt Chín Núi – Nàng Mới Là Yêu Trùng!"
+    },
+    {
+      "num": 1050,
+      "title": "Tiên Cổ Dựng Cầu Ra Chín Núi – Tô Yên"
+    },
+    {
+      "num": 1051,
+      "title": "Tiên Cổ Dựng Cầu Ra Chín Núi – Khống Chế Bọ Giáp Đen"
+    },
+    {
+      "num": 1052,
+      "title": "Tiên Cổ Dựng Cầu, Ra Khỏi Chín Núi – Truy Sát Tô Yên!"
+    },
+    {
+      "num": 1053,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Uy Thế Của Người Đứng Đầu!"
+    },
+    {
+      "num": 1054,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Chúng Ta Không Hợp Nhau"
+    },
+    {
+      "num": 1055,
+      "title": "Tiên Cổ Dựng Cầu Nối Chín Núi – Da Đông Là Lôi Đế?"
+    },
+    {
+      "num": 1056,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi, chín biển, thần giới!"
+    },
+    {
+      "num": 1057,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi, sự thù địch!"
+    },
+    {
+      "num": 1058,
+      "title": "Tiên cổ dựng cầu, chín núi hiện ra — Ta bảo đảm không đánh chết các ngươi!"
+    },
+    {
+      "num": 1059,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Ta Có Bằng Chứng!"
+    },
+    {
+      "num": 1060,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Đừng Đến Chọc Ta!"
+    },
+    {
+      "num": 1061,
+      "title": "Tiên Cổ dựng cầu, bước ra khỏi chín ngọn núi – Khởi nguyên!"
+    },
+    {
+      "num": 1062,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra – Thử Luyện Tại Như Phong Giới!"
+    },
+    {
+      "num": 1063,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra – Đáp Án!"
+    },
+    {
+      "num": 1064,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra – Lần Đầu Dung Hợp Máu Chí Tôn!"
+    },
+    {
+      "num": 1065,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi, Chấn Động!!!"
+    },
+    {
+      "num": 1066,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi, Gà Sắt Cũng Phải Nhổ Lông!"
+    },
+    {
+      "num": 1067,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Rải Đậu Thành Binh!"
+    },
+    {
+      "num": 1068,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện — Đánh cược!"
+    },
+    {
+      "num": 1069,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện — Cổng Vàng Thứ Chín!"
+    },
+    {
+      "num": 1070,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra – Chiến Tiên!"
+    },
+    {
+      "num": 1071,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Top 10!"
+    },
+    {
+      "num": 1072,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Thể Tu Truyền Pháp!"
+    },
+    {
+      "num": 1073,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Xuất Hiện – Yêu Tộc Khiêu Khích!"
+    },
+    {
+      "num": 1074,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Núi – Chuột Nhắt Ngoan Ngoãn"
+    },
+    {
+      "num": 1075,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Núi – Máu Chí Tôn Của Ai!!"
+    },
+    {
+      "num": 1076,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi, Chấn Động Sơn Hải!! (Phần...)"
+    },
+    {
+      "num": 1077,
+      "title": "Tiên Cổ Xây Cầu, Bước Ra Chín Ngọn Núi – Tiên Đế Mạnh Hạo! (Phần 2)"
+    },
+    {
+      "num": 1078,
+      "title": "Tiên Cổ Xây Cầu, Bước Ra Chín Ngọn Núi – Cảm Ứng Tự Liệt! (Phần 3)"
+    },
+    {
+      "num": 1079,
+      "title": "Tiên Cổ Dựng Cầu, Xuất Hiện La Thiên Đạo Tiên! (Hồi thứ tư)"
+    },
+    {
+      "num": 1080,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi — Uy Hiếp! (Phần 1)"
+    },
+    {
+      "num": 1081,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi — Không Thể Làm Ngươi Bị Thương Sao?! (Phần 1)"
+    },
+    {
+      "num": 1082,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi — Nấu Biển! (Phần 3)"
+    },
+    {
+      "num": 1083,
+      "title": "Tiên Cổ Xây Cầu Ra Chín Núi, Chí Tôn Rung Chuyển Biển Cả, Uy Thế Ngút Trời!"
+    },
+    {
+      "num": 1084,
+      "title": "Tiên Cổ Xây Cầu Ra Chín Núi, Trấn Áp Giết Tám Yêu!"
+    },
+    {
+      "num": 1085,
+      "title": "Tiên Cổ dựng cầu, bước ra khỏi chín ngọn núi, sát khí ngút trời! (Phần 2)"
+    },
+    {
+      "num": 1086,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Trưởng Lão Hải Thánh! (3)"
+    },
+    {
+      "num": 1087,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Kiếp Sinh Tử! (Canh thứ tư)"
+    },
+    {
+      "num": 1088,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Hiện Ra – Kẻ Nào Dám Cứu Nó!"
+    },
+    {
+      "num": 1089,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Núi Chín Biển! Biển Thứ Chín Nổi Giận!"
+    },
+    {
+      "num": 1090,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Núi! Sát Thần Xông Vào Tông Môn!"
+    },
+    {
+      "num": 1091,
+      "title": "Tiên Cổ Dựng Cầu Rời Chín Núi, Khiên Thịt!"
+    },
+    {
+      "num": 1092,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Nỗi Nhục Của Giới Thể Tu!"
+    },
+    {
+      "num": 1093,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – La Thiên Tiên!"
+    },
+    {
+      "num": 1094,
+      "title": "Tiên Cổ dựng cầu ra chín núi – Miệng lưỡi sắc bén như dao!"
+    },
+    {
+      "num": 1095,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Kim Môn Thứ Năm Đặc Biệt"
+    },
+    {
+      "num": 1096,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Mù Quáng!"
+    },
+    {
+      "num": 1097,
+      "title": "Tiên cổ dựng cầu, bước ra chín núi — Đạo Thần Kinh!"
+    },
+    {
+      "num": 1098,
+      "title": "Tiên cổ dựng cầu ra Cửu Sơn, tám cửa đều lọt top mười!"
+    },
+    {
+      "num": 1099,
+      "title": "Tiên cổ dựng cầu ra Cửu Sơn, dấu hiệu của cánh cửa Cổ Cảnh!"
+    },
+    {
+      "num": 1100,
+      "title": "Tiên Cổ dựng cầu, chín núi hiện ra – Cánh cửa cổ màu đỏ!"
+    },
+    {
+      "num": 1101,
+      "title": "Xây cầu Tiên Cổ, bước ra từ Cửu Sơn! Mở đèn hồn, tiến vào cảnh giới Cổ!"
+    },
+    {
+      "num": 1102,
+      "title": "Xây cầu Tiên Cổ, bước ra từ Cửu Sơn – Quyền thứ ba!"
+    },
+    {
+      "num": 1103,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn Ngũ Gia Của Vĩ Đại Lý Tưởng!"
+    },
+    {
+      "num": 1104,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Con Đường Đến Như Phong Giới!"
+    },
+    {
+      "num": 1105,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Giáng Lâm Như Phong Giới!"
+    },
+    {
+      "num": 1106,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn Như Phong Sở Dục！"
+    },
+    {
+      "num": 1107,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Xóa Sổ!"
+    },
+    {
+      "num": 1108,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Trận Giết Chóc Đầu Tiên Ở Như Phong Giới!"
+    },
+    {
+      "num": 1109,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi — Ai Đang Chiến Đấu, Ai Đang Quan Sát!"
+    },
+    {
+      "num": 1110,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Xuất Hiện – Tuyên Chiến Theo Thứ Tự!"
+    },
+    {
+      "num": 1111,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Xuất Hiện – Mưu Tính Của Kiếm Đạo Tử"
+    },
+    {
+      "num": 1112,
+      "title": "Tiên Cổ Dựng Cầu, Chín Núi Xuất Hiện – Lời Yêu Nghi Hoặc Lòng Người!"
+    },
+    {
+      "num": 1113,
+      "title": "Tiên cổ dựng cầu, bước ra chín ngọn núi, danh vang khắp hàng ngũ thiên tài!"
+    },
+    {
+      "num": 1114,
+      "title": "Tiên cổ dựng cầu, bước ra chín ngọn núi, chín nước khai chiến trước!"
+    },
+    {
+      "num": 1115,
+      "title": "Tiên cổ dựng cầu, bước ra chín ngọn núi — Ghét Mạnh!"
+    },
+    {
+      "num": 1116,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Hàn Thanh Lôi! (Chương đầu)"
+    },
+    {
+      "num": 1117,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Khỏi Chín Ngọn Núi – Sức Mạnh Đáng Sợ! (Chương thứ hai)"
+    },
+    {
+      "num": 1118,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn Đao Phong Tướng Chàng! (Canh ba)"
+    },
+    {
+      "num": 1119,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Ngọn Núi – Thắng! (Canh thứ tư)"
+    },
+    {
+      "num": 1120,
+      "title": "Bùng Nổ Bốn Chương!"
+    },
+    {
+      "num": 1121,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn – Vận Mệnh!"
+    },
+    {
+      "num": 1122,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện, Đánh Thẳng Vào Núi Quốc Vận!"
+    },
+    {
+      "num": 1123,
+      "title": "Tiên cổ dựng cầu, bước ra chín ngọn núi – Mưu tính của Hàn Thanh Lôi!"
+    },
+    {
+      "num": 1124,
+      "title": "Tiên cổ dựng cầu, bước ra chín ngọn núi – Con đường thành tiên mạnh nhất!"
+    },
+    {
+      "num": 1125,
+      "title": "Tiên Cổ dựng cầu, bước ra khỏi Cửu Sơn — Giết ngươi, chỉ cần bảy bước!"
+    },
+    {
+      "num": 1126,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Ngươi Nói Gì Cơ?!"
+    },
+    {
+      "num": 1127,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Giết Thẳng Vào Nước Thứ Tư! (Phần...)"
+    },
+    {
+      "num": 1128,
+      "title": "Đã hẹn rồi"
+    },
+    {
+      "num": 1129,
+      "title": "Tiên Cổ dựng cầu bước ra từ Cửu Sơn, mục tiêu: Đệ Nhất Tự Liệt!"
+    },
+    {
+      "num": 1130,
+      "title": "Tiên Cổ dựng cầu bước ra từ Cửu Sơn, lần nữa bước vào La Thiên!"
+    },
+    {
+      "num": 1131,
+      "title": "Tiên Cổ Dựng Cầu Ra Chín Núi, Cuộc Chiến Tự Liệt Mở Màn!"
+    },
+    {
+      "num": 1132,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Từ Chín Ngọn Núi – Ngươi Muốn Làm Gì?!"
+    },
+    {
+      "num": 1133,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Từ Chín Ngọn Núi – Giết Không Tha!"
+    },
+    {
+      "num": 1134,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra — Thiện Niệm!"
+    },
+    {
+      "num": 1135,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Ba Lần Giết Hải Đông Thanh!"
+    },
+    {
+      "num": 1136,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Chín Núi – Ta Tên Đạo Phương!"
+    },
+    {
+      "num": 1137,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn Như Phong Phản Loạn!"
+    },
+    {
+      "num": 1138,
+      "title": "Tiên Cổ xây cầu, chín ngọn núi cùng xuất hiện, hẹn ước sáu nước"
+    },
+    {
+      "num": 1139,
+      "title": "Tiên Cổ xây cầu, chín ngọn núi cùng xuất hiện — Hắn đến rồi!"
+    },
+    {
+      "num": 1140,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn — Đại chiến với Đạo Thiên!"
+    },
+    {
+      "num": 1141,
+      "title": "Tiên Cổ dựng cầu, bước ra khỏi chín ngọn núi! Hồng Bân tử trận! (Phần 1)"
+    },
+    {
+      "num": 1142,
+      "title": "Tiên Cổ dựng cầu, bước ra khỏi chín ngọn núi – Ánh sáng của La Thiên! (Phần 2)"
+    },
+    {
+      "num": 1143,
+      "title": "Tiên Cổ dựng cầu, bước ra Cửu Sơn – trạng thái mạnh nhất! (Phần ba)"
+    },
+    {
+      "num": 1144,
+      "title": "Tiên cổ dựng cầu, chín núi hiện ra, hắn tên là Lục!! (Phần 4)"
+    },
+    {
+      "num": 1145,
+      "title": "Tiên cổ dựng cầu, chín núi hiện ra, Đạo Thiên lui bước!"
+    },
+    {
+      "num": 1146,
+      "title": "Tiên cổ dựng cầu, chín núi hiện ra, tất cả đều vì chân đạo!"
+    },
+    {
+      "num": 1147,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi xuất hiện — Đoạt lấy, thay thế?!"
+    },
+    {
+      "num": 1148,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi xuất hiện — Chặn đường!"
+    },
+    {
+      "num": 1149,
+      "title": "Tiên Cổ Trúc Kiều Xuất Cửu Sơn — Ngươi là Túng Vô Nhai!"
+    },
+    {
+      "num": 1150,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện, Chân Đạo? (Hồi 2)"
+    },
+    {
+      "num": 1151,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện, Huyết Ngao Bay Lên Trời! (Hồi 3)"
+    },
+    {
+      "num": 1152,
+      "title": "Tiên Cổ Dựng Cầu Ra Chín Núi – Đạo Mê Hoặc! (Canh thứ tư)"
+    },
+    {
+      "num": 1153,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Xuất Hiện – Tuyết Nhi! (Canh thứ nhất)"
+    },
+    {
+      "num": 1154,
+      "title": "Tiên Cổ xây cầu, bước ra từ Cửu Sơn – Thẹn quá hóa giận! (Hồi 2)"
+    },
+    {
+      "num": 1155,
+      "title": "Tiên Cổ xây cầu, bước ra từ Cửu Sơn – Cô đã buông bỏ điều gì! ("
+    },
+    {
+      "num": 1156,
+      "title": "Tiên Cổ dựng cầu vượt chín núi – Tự Liệt Chi Tâm!"
+    },
+    {
+      "num": 1157,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Từ Chín Ngọn Núi — Mọi Chuyện Cứ Để Ta! (Phần 1)"
+    },
+    {
+      "num": 1158,
+      "title": "Tiên Cổ Dựng Cầu, Bước Ra Từ Chín Ngọn Núi — Mạnh Hạo Bùng Nổ! (Phần 2)"
+    },
+    {
+      "num": 1159,
+      "title": "Tiên Cổ dựng cầu, chín ngọn núi hiện thế – Biến cố kinh hoàng! (Canh thứ ba)"
+    },
+    {
+      "num": 1160,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra — Biết Rõ Là Mồi Nhử Vẫn Cắn Câu! (4)"
+    },
+    {
+      "num": 1161,
+      "title": "Tiên Cổ Dựng Cầu, Chín Ngọn Núi Hiện Ra — Khí Vận Như Thuốc Độc! (1)"
+    },
+    {
+      "num": 1162,
+      "title": "Vĩnh Hằng La Thiên Tiên!"
+    },
+    {
+      "num": 1163,
+      "title": "Trận chiến giữa các danh sách kế thừa! Mạnh Hạo đối đầu với những người đứng đầu!"
+    },
+    {
+      "num": 1164,
+      "title": "Là ai, đã gọi ta đến đây!"
+    },
+    {
+      "num": 1165,
+      "title": "Trận chiến giữa các Đạo Tự!"
+    },
+    {
+      "num": 1166,
+      "title": "Túng Vô Nhai ra tay!"
+    },
+    {
+      "num": 1167,
+      "title": "Thứ Hai, xin phiếu đề cử"
+    },
+    {
+      "num": 1168,
+      "title": "Dưới mồi thơm ắt có cá chết!"
+    },
+    {
+      "num": 1169,
+      "title": "Sao có thể giao cho ngươi!"
+    },
+    {
+      "num": 1170,
+      "title": "Phản Kinh Ly Đạo!"
+    },
+    {
+      "num": 1171,
+      "title": "Kẻ giết con ta, phải chết!"
+    },
+    {
+      "num": 1172,
+      "title": "Một mũi tên rung chuyển trời cao!"
+    },
+    {
+      "num": 1173,
+      "title": "La Thiên Phương Gia!"
+    },
+    {
+      "num": 1174,
+      "title": "Hỏi Hải Mộng Chí Tôn!"
+    },
+    {
+      "num": 1175,
+      "title": "Một màn kịch!"
+    },
+    {
+      "num": 1176,
+      "title": "Quá tốt bụng, quá thật thà!"
+    },
+    {
+      "num": 1177,
+      "title": "Chợ Thiên Vân"
+    },
+    {
+      "num": 1178,
+      "title": "Cậu bé phát tiền!"
+    },
+    {
+      "num": 1179,
+      "title": "Ngọc bài nhuốm máu!"
+    },
+    {
+      "num": 1180,
+      "title": "Không mua nữa!"
+    },
+    {
+      "num": 1181,
+      "title": "Thiên Vân Thượng Nhân!"
+    },
+    {
+      "num": 1182,
+      "title": "Lùi một bước, từng bước đều phải lùi!"
+    },
+    {
+      "num": 1183,
+      "title": "Phương Gia kéo đến！"
+    },
+    {
+      "num": 1184,
+      "title": "Lão cáo già"
+    },
+    {
+      "num": 1185,
+      "title": "Thiên Vân bước vào cảnh giới Đạo!"
+    },
+    {
+      "num": 1186,
+      "title": "Đột Phá Vào Đạo Cảnh Thất Bại!"
+    },
+    {
+      "num": 1187,
+      "title": "Vĩnh Hằng Tổ！"
+    },
+    {
+      "num": 1188,
+      "title": "Cả tộc đến bái kiến!"
+    },
+    {
+      "num": 1189,
+      "title": "Cha, mẹ, Hạo Nhi về rồi!"
+    },
+    {
+      "num": 1190,
+      "title": "Mạnh Hạo, ngươi đừng chạy!"
+    },
+    {
+      "num": 1191,
+      "title": "Kết thúc ân oán với người xưa"
+    },
+    {
+      "num": 1192,
+      "title": "Trở lại bộ lạc Ô Thần!"
+    },
+    {
+      "num": 1193,
+      "title": "Nơi này vốn chính là nhà của ta"
+    },
+    {
+      "num": 1194,
+      "title": "Ta là Mạnh Hạo!"
+    },
+    {
+      "num": 1195,
+      "title": "Thánh Đạo giảng đạo!"
+    },
+    {
+      "num": 1196,
+      "title": "Gặp lại Thủy Đông Lưu!"
+    },
+    {
+      "num": 1197,
+      "title": "Ngũ Long Phanh Thây!"
+    },
+    {
+      "num": 1198,
+      "title": "Thu Nhận Hỏa Chủng!"
+    },
+    {
+      "num": 1199,
+      "title": "Thân thể đạt đến cảnh giới đại viên mãn!!"
+    },
+    {
+      "num": 1200,
+      "title": "Đạo Tiên chân chính!"
+    },
+    {
+      "num": 1201,
+      "title": "Đỉnh cao!"
+    },
+    {
+      "num": 1202,
+      "title": "Lời nguyền của Đạo Phương！"
+    },
+    {
+      "num": 1203,
+      "title": "Trạng thái mạnh nhất!"
+    },
+    {
+      "num": 1204,
+      "title": "Lời ngươi nói, chẳng có tác dụng gì!"
+    },
+    {
+      "num": 1205,
+      "title": "Đại Đường, La Thiên!"
+    },
+    {
+      "num": 1206,
+      "title": "Bí Cảnh Đón Kiếp!"
+    },
+    {
+      "num": 1207,
+      "title": "Đạo Kiếp!"
+    },
+    {
+      "num": 1208,
+      "title": "La Thiên Kiếp!"
+    },
+    {
+      "num": 1209,
+      "title": "Sát Ý Của Chín Vị Sơn Hải Chủ!"
+    },
+    {
+      "num": 1210,
+      "title": "Thứ Hai, xin phiếu đề cử!"
+    },
+    {
+      "num": 1211,
+      "title": "Cha Thành Đạo!"
+    },
+    {
+      "num": 1212,
+      "title": "Trận Giết Chóc Nam Thiên!"
+    },
+    {
+      "num": 1213,
+      "title": "Cha, không thể chết được!"
+    },
+    {
+      "num": 1214,
+      "title": "Đại lễ của Phương gia!"
+    },
+    {
+      "num": 1215,
+      "title": "Thay cha ra trận!"
+    },
+    {
+      "num": 1216,
+      "title": "Chuẩn Đạo thần bí!"
+    },
+    {
+      "num": 1217,
+      "title": "Không dám giết ta sao?"
+    },
+    {
+      "num": 1218,
+      "title": "Chặn giết!!"
+    },
+    {
+      "num": 1219,
+      "title": "Đời thứ tám!"
+    },
+    {
+      "num": 1220,
+      "title": "Mang binh tượng đi!"
+    },
+    {
+      "num": 1221,
+      "title": "Tìm đến tận cửa đòi tiền! (Canh một)"
+    },
+    {
+      "num": 1222,
+      "title": "Ta đến báo ân! (Canh hai)"
+    },
+    {
+      "num": 1223,
+      "title": "Mối hận trên Cầu Đạp Tiên! (Canh ba)"
+    },
+    {
+      "num": 1224,
+      "title": "Hòa Nhập Cầu Đạp Tiên!! (Canh tư)"
+    },
+    {
+      "num": 1225,
+      "title": "Con Của Sơn Hải! (Canh một)"
+    },
+    {
+      "num": 1226,
+      "title": "Mãi mãi, mãi mãi! (Canh hai)"
+    },
+    {
+      "num": 1227,
+      "title": "Người xưa (Canh ba)"
+    },
+    {
+      "num": 1228,
+      "title": "Giờ đây, nó mang tên Cầu Chí Tôn! (Canh thứ tư)"
+    },
+    {
+      "num": 1229,
+      "title": "Tối nay 12 giờ, hẹn gặp lại nhé!"
+    },
+    {
+      "num": 1230,
+      "title": "Lục Ảnh tái hiện! (Chương đầu tiên trong ngày)"
+    },
+    {
+      "num": 1231,
+      "title": "Đạo pháp thời gian! (Chương thứ hai trong ngày)"
+    },
+    {
+      "num": 1232,
+      "title": "Cầu nguyệt phiếu!"
+    },
+    {
+      "num": 1233,
+      "title": "Tin dữ! (Canh thứ ba)"
+    },
+    {
+      "num": 1234,
+      "title": "Chém giết Quý Đông Dương lần nữa! (Canh thứ tư)"
+    },
+    {
+      "num": 1235,
+      "title": "Núi vốn vô lo, chỉ vì tuyết mà bạc đầu!"
+    },
+    {
+      "num": 1236,
+      "title": "Lần theo nhân quả, tìm lại hồn phách!"
+    },
+    {
+      "num": 1237,
+      "title": "Dựng cầu Tiên Cổ, vượt khỏi chín ngọn núi!"
+    },
+    {
+      "num": 1238,
+      "title": "Sơn Hải Giới của ta – Đệ Bát Sơn Hải"
+    },
+    {
+      "num": 1239,
+      "title": "Liên Minh Thiên Thần!"
+    },
+    {
+      "num": 1240,
+      "title": "Ngã Khiếu Mạnh Hạo！"
+    },
+    {
+      "num": 1241,
+      "title": "Một người rung chuyển cả Hắc Hồn Đạo！"
+    },
+    {
+      "num": 1242,
+      "title": "Hình hài ban đầu của Sơn Hải Giới!!"
+    },
+    {
+      "num": 1243,
+      "title": "Lão Tổ Hắc Hồn！"
+    },
+    {
+      "num": 1244,
+      "title": "Mưu mô tính toán!"
+    },
+    {
+      "num": 1245,
+      "title": "Thiên Hồn Tinh, sụp đổ!"
+    },
+    {
+      "num": 1246,
+      "title": "Đường hẹp gặp nhau, kẻ gan lì sẽ thắng!"
+    },
+    {
+      "num": 1247,
+      "title": "Thứ Hai, xin mọi người phiếu đề cử nhé"
+    },
+    {
+      "num": 1248,
+      "title": "Chàng thư sinh lên kinh ứng thí"
+    },
+    {
+      "num": 1249,
+      "title": "Giông bão sắp kéo đến!"
+    },
+    {
+      "num": 1250,
+      "title": "Giấc mộng hoàng lương!"
+    },
+    {
+      "num": 1251,
+      "title": "Đồ đệ ngoan, đừng đi!"
+    },
+    {
+      "num": 1252,
+      "title": "Sư tôn, cứu mạng!"
+    },
+    {
+      "num": 1253,
+      "title": "Cái gì mà Phong Thiên Quyết?!"
+    },
+    {
+      "num": 1254,
+      "title": "Lão Đạo!"
+    },
+    {
+      "num": 1255,
+      "title": "Sức mạnh vô thượng!"
+    },
+    {
+      "num": 1256,
+      "title": "Không cho ta đi? (Canh một)"
+    },
+    {
+      "num": 1257,
+      "title": "Lần đầu gặp người nhà họ Mạnh! (Canh hai)"
+    },
+    {
+      "num": 1258,
+      "title": "Kiếp nạn máu tanh! (Canh thứ ba)"
+    },
+    {
+      "num": 1259,
+      "title": "Bản nguyên chỉ vì Đạo Nguyên mà lay động! (Cầu nguyệt phiếu, chương thứ tư)"
+    },
+    {
+      "num": 1260,
+      "title": "Ba Mươi Ba Địa vừa mở ra!"
+    },
+    {
+      "num": 1261,
+      "title": "Tham Lang Khuy Thể！"
+    },
+    {
+      "num": 1262,
+      "title": "Phản kích!"
+    },
+    {
+      "num": 1263,
+      "title": "Chúng ta vẫn là bạn tốt!"
+    },
+    {
+      "num": 1264,
+      "title": "Phát Hiện!"
+    },
+    {
+      "num": 1265,
+      "title": "Tham Lang đoạt xác！"
+    },
+    {
+      "num": 1266,
+      "title": "Luyện Thể！"
+    },
+    {
+      "num": 1267,
+      "title": "Người tốt bụng！"
+    },
+    {
+      "num": 1268,
+      "title": "Suýt chút nữa bị dọa chết!"
+    },
+    {
+      "num": 1269,
+      "title": "Mặt trời xanh!"
+    },
+    {
+      "num": 1270,
+      "title": "Cửu Phong ra tay!"
+    },
+    {
+      "num": 1271,
+      "title": "Mạnh Hạo mở mắt!"
+    },
+    {
+      "num": 1272,
+      "title": "Có thể chạm đến Cổ Cảnh!"
+    },
+    {
+      "num": 1273,
+      "title": "Sạch Sành Sanh!"
+    },
+    {
+      "num": 1274,
+      "title": "Gặp lại Mạnh Trần"
+    },
+    {
+      "num": 1275,
+      "title": "Rời khỏi Tam Thập Tam Địa!"
+    },
+    {
+      "num": 1276,
+      "title": "Ta là Mạnh Trần"
+    },
+    {
+      "num": 1277,
+      "title": "Trên đường trở về"
+    },
+    {
+      "num": 1278,
+      "title": "Gió nổi lên"
+    },
+    {
+      "num": 1279,
+      "title": "Ra tay!"
+    },
+    {
+      "num": 1280,
+      "title": "Đây chính là Mạnh Gia!"
+    },
+    {
+      "num": 1281,
+      "title": "Bà ngoại!"
+    },
+    {
+      "num": 1282,
+      "title": "Để ta bảo vệ!"
+    },
+    {
+      "num": 1283,
+      "title": "Tự lập môn hộ！"
+    },
+    {
+      "num": 1284,
+      "title": "Truyền đạo！"
+    },
+    {
+      "num": 1285,
+      "title": "Diệt Từ Gia!"
+    },
+    {
+      "num": 1286,
+      "title": "Bà ngoại mạnh mẽ ra tay!"
+    },
+    {
+      "num": 1287,
+      "title": "Giữ lại, để làm gì!"
+    },
+    {
+      "num": 1288,
+      "title": "Chỉ có giết!"
+    },
+    {
+      "num": 1289,
+      "title": "Mở Hộ Tộc Đại Trận!"
+    },
+    {
+      "num": 1290,
+      "title": "Chín Chiếc Đinh Xuất Hiện, Bảy Vùng Biển Chấn Động!"
+    },
+    {
+      "num": 1291,
+      "title": "Ngươi, Rốt Cuộc Đang Ở Đâu"
+    },
+    {
+      "num": 1292,
+      "title": "Xin phiếu đề cử nào"
+    },
+    {
+      "num": 1293,
+      "title": "Trở về"
+    },
+    {
+      "num": 1294,
+      "title": "Uy thế, vẫn chưa đủ"
+    },
+    {
+      "num": 1295,
+      "title": "Cùng lên đi! (Phần 1)"
+    },
+    {
+      "num": 1296,
+      "title": "Cổ Môn giáng xuống! (Phần 2)"
+    },
+    {
+      "num": 1297,
+      "title": "Kiếp nạn kinh hoàng! (Canh thứ ba)"
+    },
+    {
+      "num": 1298,
+      "title": "Quỷ Dị! (Canh thứ tư)"
+    },
+    {
+      "num": 1299,
+      "title": "Kẻ địch bên ngoài xâm nhập! (Hồi thứ nhất)"
+    },
+    {
+      "num": 1300,
+      "title": "Không còn đường lui! (Hồi thứ hai)"
+    },
+    {
+      "num": 1301,
+      "title": "Hồn tan! (Canh ba)"
+    },
+    {
+      "num": 1302,
+      "title": "Bước Vào Cổ Môn! (Canh thứ tư)"
+    },
+    {
+      "num": 1303,
+      "title": "Biến Cố Lớn Trong Gia Tộc Họ Mạnh! (Canh thứ nhất)"
+    },
+    {
+      "num": 1304,
+      "title": "Thắp Hồn Đăng! (Canh thứ hai)"
+    },
+    {
+      "num": 1305,
+      "title": "Đánh một trận với Đạo Tôn! (Hồi thứ ba)"
+    },
+    {
+      "num": 1306,
+      "title": "Ngũ nguyên chân chính!"
+    },
+    {
+      "num": 1307,
+      "title": "Ngọn đèn chủ! (Chương thứ nhất)"
+    },
+    {
+      "num": 1308,
+      "title": "Đã hẹn trước"
+    },
+    {
+      "num": 1309,
+      "title": "Ngọn Đèn Hồn Chí Tôn! (Canh hai)"
+    },
+    {
+      "num": 1310,
+      "title": "Không Chừa Một Ai! (Canh ba)"
+    },
+    {
+      "num": 1311,
+      "title": "Vùng đất bình yên giữa biển lửa!"
+    },
+    {
+      "num": 1312,
+      "title": "Lữ Hầu!"
+    },
+    {
+      "num": 1313,
+      "title": "Sức mạnh của Sơn Hải Giới!"
+    },
+    {
+      "num": 1314,
+      "title": "Trận pháp khởi động!"
+    },
+    {
+      "num": 1315,
+      "title": "Đừng quên bỏ phiếu đề cử nhé!"
+    },
+    {
+      "num": 1316,
+      "title": "Tiễn Mạnh gia lên đường!"
+    },
+    {
+      "num": 1317,
+      "title": "Dị Tộc!"
+    },
+    {
+      "num": 1318,
+      "title": "Nhổ Lông Nhạn Khi Bay Qua!"
+    },
+    {
+      "num": 1319,
+      "title": "Diệt ngọn đèn thứ nhất!"
+    },
+    {
+      "num": 1320,
+      "title": "Trở Lại Liên Minh Thiên Thần"
+    },
+    {
+      "num": 1321,
+      "title": "Ai bảo đây là pháp quyết bỏ đi?"
+    },
+    {
+      "num": 1322,
+      "title": "Là ông ngoại sao?"
+    },
+    {
+      "num": 1323,
+      "title": "Bão tố sắp kéo đến!"
+    },
+    {
+      "num": 1324,
+      "title": "Ta chờ ngươi giáng lâm!"
+    },
+    {
+      "num": 1325,
+      "title": "Chủ nhân Sơn Hải thứ bảy giáng lâm!"
+    },
+    {
+      "num": 1326,
+      "title": "Hôm nay sẽ cập nhật muộn"
+    },
+    {
+      "num": 1327,
+      "title": "Một Thương Kia!"
+    },
+    {
+      "num": 1328,
+      "title": "Trận Quyết Chiến Kinh Thiên!"
+    },
+    {
+      "num": 1329,
+      "title": "Phong Tắc!"
+    },
+    {
+      "num": 1330,
+      "title": "Ngươi có biết Sơn Hải Giới thuộc về ai không!"
+    },
+    {
+      "num": 1331,
+      "title": "Xin phiếu đề cử!"
+    },
+    {
+      "num": 1332,
+      "title": "Bóng dáng của Đạo Phương！"
+    },
+    {
+      "num": 1333,
+      "title": "Chiến thắng!"
+    },
+    {
+      "num": 1334,
+      "title": "Thời khắc then chốt"
+    },
+    {
+      "num": 1335,
+      "title": "Đoạt Xá Và Thôn Phệ!"
+    },
+    {
+      "num": 1336,
+      "title": "Chỗ Dựa Vững Chắc – Lão Rùa!"
+    },
+    {
+      "num": 1337,
+      "title": "Cánh Cửa Truyền Thừa!"
+    },
+    {
+      "num": 1338,
+      "title": "Ba Đời Phong Yêu!"
+    },
+    {
+      "num": 1339,
+      "title": "Ngộ Cấm!"
+    },
+    {
+      "num": 1340,
+      "title": "Tìm lại kiếp này! (Đăng đầu tiên)"
+    },
+    {
+      "num": 1341,
+      "title": "Tu vi bùng nổ! (Canh thứ hai)"
+    },
+    {
+      "num": 1342,
+      "title": "Ta giúp ngươi! (Canh thứ ba)"
+    },
+    {
+      "num": 1343,
+      "title": "Nghiền ép! (Canh thứ tư)"
+    },
+    {
+      "num": 1344,
+      "title": "Bạch Chủ hóa thành dị tộc!"
+    },
+    {
+      "num": 1345,
+      "title": "Dám giết hắn, vậy thì khai chiến!"
+    },
+    {
+      "num": 1346,
+      "title": "Khai chiến!"
+    },
+    {
+      "num": 1347,
+      "title": "Bạch Chủ Vẫn, Chiến Sự Khởi!"
+    },
+    {
+      "num": 1348,
+      "title": "Dị tộc Chí Tôn!"
+    },
+    {
+      "num": 1349,
+      "title": "Sát cơ của Chí Tôn!"
+    },
+    {
+      "num": 1350,
+      "title": "Đánh với Đạo Tôn!"
+    },
+    {
+      "num": 1351,
+      "title": "Nội tình Sơn Hải!"
+    },
+    {
+      "num": 1352,
+      "title": "Trở lại Tam Thập Tam Địa!"
+    },
+    {
+      "num": 1353,
+      "title": "Ông Cháu Gặp Lại Nhau!"
+    },
+    {
+      "num": 1354,
+      "title": "Đến Đệ Thất Sơn!"
+    },
+    {
+      "num": 1355,
+      "title": "Chiến Tranh Cần Có Tinh Thần!"
+    },
+    {
+      "num": 1356,
+      "title": "Lời hẹn ước tại Hổ Lao Tinh! (Phần 1)"
+    },
+    {
+      "num": 1357,
+      "title": "Tấm lòng của Mạnh Hạo (Phần 2)"
+    },
+    {
+      "num": 1358,
+      "title": "Tiến về Táng Thần Cốc! (Phần 3)"
+    },
+    {
+      "num": 1359,
+      "title": "Chỉ là yêu thú mà thôi! (Canh thứ tư)"
+    },
+    {
+      "num": 1360,
+      "title": "Táng Thần Cốc!"
+    },
+    {
+      "num": 1361,
+      "title": "Đột phá!"
+    },
+    {
+      "num": 1362,
+      "title": "Thân thể cảnh Đạo Chủ!"
+    },
+    {
+      "num": 1363,
+      "title": "Lời nguyền của Thần!"
+    },
+    {
+      "num": 1364,
+      "title": "Diệt ngọn đèn thứ sáu!"
+    },
+    {
+      "num": 1365,
+      "title": "Ta có sai không?"
+    },
+    {
+      "num": 1366,
+      "title": "Đạo Tôn! (Canh một)"
+    },
+    {
+      "num": 1367,
+      "title": "Hứa Thanh, ta đến rồi! (Canh hai)"
+    },
+    {
+      "num": 1368,
+      "title": "Xin nguyệt phiếu, gom sạch kho!"
+    },
+    {
+      "num": 1369,
+      "title": "Gặp lại người trong lời hẹn (Canh ba)"
+    },
+    {
+      "num": 1370,
+      "title": "Mục tiêu, Đệ Nhất Thiên! (Canh bốn)"
+    },
+    {
+      "num": 1371,
+      "title": "Tối nay 12 giờ, chúng ta hẹn tiếp nhé!"
+    },
+    {
+      "num": 1372,
+      "title": "Kiếp nạn của đạo pháp giáng xuống! (Chương đầu tiên)"
+    },
+    {
+      "num": 1373,
+      "title": "Muôn vàn mặt trời nổ vang trời! (Chương thứ hai)"
+    },
+    {
+      "num": 1374,
+      "title": "Vì diệt giới này! (Canh thứ ba)"
+    },
+    {
+      "num": 1375,
+      "title": "Đạo Tôn thoát khốn! (Canh thứ tư)"
+    },
+    {
+      "num": 1376,
+      "title": "Đất nứt! (Canh một)"
+    },
+    {
+      "num": 1377,
+      "title": "Trời sụp đổ!! (Canh thứ hai)"
+    },
+    {
+      "num": 1378,
+      "title": "Lại gặp Bản Nguyên Thế Giới! (Canh thứ ba)"
+    },
+    {
+      "num": 1379,
+      "title": "Cấm Pháp Bản Nguyên! (Hồi thứ tư)"
+    },
+    {
+      "num": 1380,
+      "title": "Bản nguyên không gian! (Phần 1)"
+    },
+    {
+      "num": 1381,
+      "title": "Ánh lạnh trong mắt! (Phần 2)"
+    },
+    {
+      "num": 1382,
+      "title": "Nô Dịch Chí Tôn! (Phần 3)"
+    },
+    {
+      "num": 1383,
+      "title": "Cầu xin nguyệt phiếu!"
+    },
+    {
+      "num": 1384,
+      "title": "Linh hồn chí tôn bất khuất!"
+    },
+    {
+      "num": 1385,
+      "title": "Phản công toàn diện!"
+    },
+    {
+      "num": 1386,
+      "title": "Ngày đầu tiên quy phục!"
+    },
+    {
+      "num": 1387,
+      "title": "Thiếu chủ Sơn Hải!"
+    },
+    {
+      "num": 1388,
+      "title": "Hãy cho ta một lời giải thích!"
+    },
+    {
+      "num": 1389,
+      "title": "Ba Mươi Hai Tầng Trời, Giáng Xuống!"
+    },
+    {
+      "num": 1390,
+      "title": "Còn Hơn 5 Tiếng Cuối Cùng, Hãy Dốc Hết Vé Tháng!"
+    },
+    {
+      "num": 1391,
+      "title": "Huyền Phương Chí Tôn!"
+    },
+    {
+      "num": 1392,
+      "title": "Mưu kế đường hoàng, xé toạc trời cao!"
+    },
+    {
+      "num": 1393,
+      "title": "Lấy thân làm mồi!"
+    },
+    {
+      "num": 1394,
+      "title": "Đại chiến với Chí Tôn Huyền Phương!"
+    },
+    {
+      "num": 1395,
+      "title": "Quỷ kế biến hóa khôn lường!"
+    },
+    {
+      "num": 1396,
+      "title": "Sáu Cấm Hợp Nhất!"
+    },
+    {
+      "num": 1397,
+      "title": "Liều chết quyết chiến!"
+    },
+    {
+      "num": 1398,
+      "title": "Liên tiếp dập tắt bốn ngọn hồn đăng!"
+    },
+    {
+      "num": 1399,
+      "title": "Phong ấn Chí Tôn!"
+    },
+    {
+      "num": 1400,
+      "title": "Yêu và Tiên!"
+    },
+    {
+      "num": 1401,
+      "title": "Đạo Môn ra tay!"
+    },
+    {
+      "num": 1402,
+      "title": "Quyết chiến trước thời hạn!"
+    },
+    {
+      "num": 1403,
+      "title": "Bị ép phải giáng lâm!"
+    },
+    {
+      "num": 1404,
+      "title": "Đảo ngược thế cờ！"
+    },
+    {
+      "num": 1405,
+      "title": "Dương Tinh, nổ tung!"
+    },
+    {
+      "num": 1406,
+      "title": "Cung trong tay!"
+    },
+    {
+      "num": 1407,
+      "title": "Nỗi kinh hoàng của Chí Tôn!"
+    },
+    {
+      "num": 1408,
+      "title": "Ly Long bỏ mạng!"
+    },
+    {
+      "num": 1409,
+      "title": "Núi đổ, biển tan! (Hồi thứ nhất)"
+    },
+    {
+      "num": 1410,
+      "title": "Trở Lại Ba Mươi Ba Vùng Đất! (Cầu phiếu tháng thứ hai)"
+    },
+    {
+      "num": 1411,
+      "title": "Bổn Quân Đã Đợi Ngươi Rất Lâu! (Cầu chương thứ ba)"
+    },
+    {
+      "num": 1412,
+      "title": "Nước Thanh Thủy (Canh thứ tư)"
+    },
+    {
+      "num": 1413,
+      "title": "Tám nguồn giáng lâm!"
+    },
+    {
+      "num": 1414,
+      "title": "Sức mạnh tuyệt đối"
+    },
+    {
+      "num": 1415,
+      "title": "Ba bộ kinh văn phong thần!"
+    },
+    {
+      "num": 1416,
+      "title": "Ra tay tàn độc!"
+    },
+    {
+      "num": 1417,
+      "title": "Ba cây đinh kinh văn!"
+    },
+    {
+      "num": 1418,
+      "title": "Một gậy của Đạo Phương!"
+    },
+    {
+      "num": 1419,
+      "title": "Ly gián!"
+    },
+    {
+      "num": 1420,
+      "title": "Người Sơn Hải, sống chết cùng Sơn Hải!"
+    },
+    {
+      "num": 1421,
+      "title": "Chiến ý mở ra trời đất!"
+    },
+    {
+      "num": 1422,
+      "title": "Nam Thiên Tinh lâm nguy!"
+    },
+    {
+      "num": 1423,
+      "title": "Chúng ta là tu sĩ Sơn Hải Giới!"
+    },
+    {
+      "num": 1424,
+      "title": "Đứng sau lưng ta"
+    },
+    {
+      "num": 1425,
+      "title": "Tạm biệt, Hạo nhi của cha"
+    },
+    {
+      "num": 1426,
+      "title": "Ta, không cần nữa."
+    },
+    {
+      "num": 1427,
+      "title": "Lần này, các ngươi đã vừa lòng chưa?"
+    },
+    {
+      "num": 1428,
+      "title": "Đối phương cảm thấy có lỗi với nhà họ Phương!"
+    },
+    {
+      "num": 1429,
+      "title": "Một nhát chém của Lục Ảnh, chém đứt Tiên Thần!"
+    },
+    {
+      "num": 1430,
+      "title": "Sơn Hải bùng nổ!"
+    },
+    {
+      "num": 1431,
+      "title": "Ma Giới Thế Giới Điệp!"
+    },
+    {
+      "num": 1432,
+      "title": "Tặng Ngươi Một Tạo Hóa Tuyệt Thế!"
+    },
+    {
+      "num": 1433,
+      "title": "Tinh Không Mênh Mang！"
+    },
+    {
+      "num": 1434,
+      "title": "Cánh bướm đang bay!"
+    },
+    {
+      "num": 1435,
+      "title": "Thanh Quan Tuyền!"
+    },
+    {
+      "num": 1436,
+      "title": "Tỉnh lại, tỉnh lại!"
+    },
+    {
+      "num": 1437,
+      "title": "Muốn nhìn thấu núi sông! (Canh một)"
+    },
+    {
+      "num": 1438,
+      "title": "Phong Thiên Quyết mạnh nhất! (Hồi 2)"
+    },
+    {
+      "num": 1439,
+      "title": "Xin vé tháng giữ hạng!"
+    },
+    {
+      "num": 1440,
+      "title": "Tiên, Thần, Yêu, Ma, Quỷ! (Hồi 3)"
+    },
+    {
+      "num": 1441,
+      "title": "Xóa bỏ Cầu Chí Tôn khỏi đạo của mình! (Canh thứ tư)"
+    },
+    {
+      "num": 1442,
+      "title": "Vì hy vọng! (Canh thứ nhất)"
+    },
+    {
+      "num": 1443,
+      "title": "Sao có thể nhắm mắt! (Cầu nguyệt phiếu chương thứ hai!)"
+    },
+    {
+      "num": 1444,
+      "title": "Đây mới chính là ta!"
+    },
+    {
+      "num": 1445,
+      "title": "Lựa chọn của Anh Vũ! (Canh ba)"
+    },
+    {
+      "num": 1446,
+      "title": "Thế giới Sơn Hải của ta, thế giới Sơn Hải của hắn! (Canh tư)"
+    },
+    {
+      "num": 1447,
+      "title": "Yêu Tôn trở về, Thương Mang đảo lộn! Đèn Đồng đổi trời! (Canh một)"
+    },
+    {
+      "num": 1448,
+      "title": "Chuông Thương Mang vang lên, Chí Tôn giáng lâm! (Canh hai)"
+    },
+    {
+      "num": 1449,
+      "title": "Mồi Nhử! (Hồi thứ ba)"
+    },
+    {
+      "num": 1450,
+      "title": "Các ngươi có muốn bán cỗ thi thể này không? (Canh thứ tư)"
+    },
+    {
+      "num": 1451,
+      "title": "Luyện hóa thi thể Chí Tôn!"
+    },
+    {
+      "num": 1452,
+      "title": "Thương Mang Đạo Thể!"
+    },
+    {
+      "num": 1453,
+      "title": "Ánh sáng tiếp dẫn！"
+    },
+    {
+      "num": 1454,
+      "title": "Biết được thì đã sao!"
+    },
+    {
+      "num": 1455,
+      "title": "Đệ Cửu Chí Tôn!"
+    },
+    {
+      "num": 1456,
+      "title": "Cắm rễ!"
+    },
+    {
+      "num": 1457,
+      "title": "Con đường siêu thoát!"
+    },
+    {
+      "num": 1458,
+      "title": "Có kẻ khiêu khích!"
+    },
+    {
+      "num": 1459,
+      "title": "Để lại cho ngươi một dấu ấn!"
+    },
+    {
+      "num": 1460,
+      "title": "Thành quỷ Minh Cung!"
+    },
+    {
+      "num": 1461,
+      "title": "Các vị Chí Tôn đâu rồi, mau gọi người vượt khỏi cảnh giới tối cao giáng lâm đi!"
+    },
+    {
+      "num": 1462,
+      "title": "Quỷ chúng cúi đầu bái lạy!"
+    },
+    {
+      "num": 1463,
+      "title": "La Thiên, sợ Tiên!"
+    },
+    {
+      "num": 1464,
+      "title": "Sát ý ập đến！"
+    },
+    {
+      "num": 1465,
+      "title": "Ta tên là La Thiên!"
+    },
+    {
+      "num": 1466,
+      "title": "Năm tháng tang thương trong những bức họa"
+    },
+    {
+      "num": 1467,
+      "title": "Một ánh mắt nhìn thấu thế giới Thương Mang!"
+    },
+    {
+      "num": 1468,
+      "title": "Đè bẹp Đệ Lục Chí Tôn!"
+    },
+    {
+      "num": 1469,
+      "title": "Dọa chạy một tên!"
+    },
+    {
+      "num": 1470,
+      "title": "Tế đàn siêu thoát! (Canh một)"
+    },
+    {
+      "num": 1471,
+      "title": "Giết ngay trước mặt! (Canh hai)"
+    },
+    {
+      "num": 1472,
+      "title": "Giao chiến với áo vàng! (Canh ba)"
+    },
+    {
+      "num": 1473,
+      "title": "Xé Nát Bầu Trời! (Canh thứ tư)"
+    },
+    {
+      "num": 1474,
+      "title": "Quyền thứ tư, Diệt Ma! (Canh thứ năm)"
+    },
+    {
+      "num": 1475,
+      "title": "Cấm Phong Diệt Thế Chỉ! (Canh thứ sáu)"
+    },
+    {
+      "num": 1476,
+      "title": "Đã viết xong mười hai nghìn chữ!"
+    },
+    {
+      "num": 1477,
+      "title": "Hư Thần Biến！"
+    },
+    {
+      "num": 1478,
+      "title": "Đại Đế Triệu Gọi!"
+    },
+    {
+      "num": 1479,
+      "title": "Xin Phiếu Đề Cử"
+    },
+    {
+      "num": 1480,
+      "title": "Năm đại cường giả!"
+    },
+    {
+      "num": 1481,
+      "title": "Tế đàn Siêu Thoát!"
+    },
+    {
+      "num": 1482,
+      "title": "Hắn không thể trụ nổi năm ngày!"
+    },
+    {
+      "num": 1483,
+      "title": "Cửu Cấm Khó Thành!"
+    },
+    {
+      "num": 1484,
+      "title": "Một Lời Cảnh Cáo!"
+    },
+    {
+      "num": 1485,
+      "title": "Một chữ!!"
+    },
+    {
+      "num": 1486,
+      "title": "Khí tức của chiếc gương đồng!"
+    },
+    {
+      "num": 1487,
+      "title": "Ta chính là cố tình gây sự!"
+    },
+    {
+      "num": 1488,
+      "title": "Một năm này"
+    },
+    {
+      "num": 1489,
+      "title": "Tiểu Hao Tử"
+    },
+    {
+      "num": 1490,
+      "title": "Nhập Tông!"
+    },
+    {
+      "num": 1491,
+      "title": "Bí mật của Hàn Bối！"
+    },
+    {
+      "num": 1492,
+      "title": "Chỗ dựa!"
+    },
+    {
+      "num": 1493,
+      "title": "Công tử cứ yên tâm hưởng dụng!"
+    },
+    {
+      "num": 1494,
+      "title": "Hại chết ông nội"
+    },
+    {
+      "num": 1495,
+      "title": "Chín vị Chí Tôn giáng lâm!"
+    },
+    {
+      "num": 1496,
+      "title": "Còn ai nữa! (Chương thứ ba)"
+    },
+    {
+      "num": 1497,
+      "title": "Thương Mang Đài!"
+    },
+    {
+      "num": 1498,
+      "title": "Lên cao nhìn xa"
+    },
+    {
+      "num": 1499,
+      "title": "Ngươi là Phương Mộc!"
+    },
+    {
+      "num": 1500,
+      "title": "Nụ cười từ đỉnh núi!"
+    },
+    {
+      "num": 1501,
+      "title": "Thương Mang Đài！"
+    },
+    {
+      "num": 1502,
+      "title": "Mở Ra Truyền Thuyết！"
+    },
+    {
+      "num": 1503,
+      "title": "Phong Thiên Cửu Cấm!"
+    },
+    {
+      "num": 1504,
+      "title": "Chín tông môn cùng vang chuông!"
+    },
+    {
+      "num": 1505,
+      "title": "Sự ngạo nghễ của kiếp này!"
+    },
+    {
+      "num": 1506,
+      "title": "Còn có ta nữa!"
+    },
+    {
+      "num": 1507,
+      "title": "Bảy Ấn Diệt Kiếp!"
+    },
+    {
+      "num": 1508,
+      "title": "Vì Tấm Gương Đồng Mà Đến!"
+    },
+    {
+      "num": 1509,
+      "title": "Xung đột"
+    },
+    {
+      "num": 1510,
+      "title": "Mảnh vỡ gương đồng!"
+    },
+    {
+      "num": 1511,
+      "title": "Kim Vân Sơn chính khí ngút trời! (Canh một)"
+    },
+    {
+      "num": 1512,
+      "title": "Mảnh gương, không phải dùng như thế này! (Chương thứ hai)"
+    },
+    {
+      "num": 1513,
+      "title": "Ta vốn chính là chủ nhân của nó! (Chương thứ ba)"
+    },
+    {
+      "num": 1514,
+      "title": "Con đường phía trước còn xa (Canh thứ tư)"
+    },
+    {
+      "num": 1515,
+      "title": "Kết thân! (Canh một)"
+    },
+    {
+      "num": 1516,
+      "title": "Có thể! (Canh hai)"
+    },
+    {
+      "num": 1517,
+      "title": "Khiêu khích Đệ Cửu Tông (Canh thứ ba)"
+    },
+    {
+      "num": 1518,
+      "title": "Mảnh gương thứ ba (Canh bốn)"
+    },
+    {
+      "num": 1519,
+      "title": "Muốn bước lên Thương Mang Đài của các tông môn! (Canh một)"
+    },
+    {
+      "num": 1520,
+      "title": "Thách thức tất cả các tông môn! (Hồi 2)"
+    },
+    {
+      "num": 1521,
+      "title": "Đỉnh cao của kiếp này (Canh ba)"
+    },
+    {
+      "num": 1522,
+      "title": "Ngoảnh đầu nhìn lại con đường kiếp này! (Canh tư)"
+    },
+    {
+      "num": 1523,
+      "title": "Trên con đường siêu thoát! (Canh một)"
+    },
+    {
+      "num": 1524,
+      "title": "Một truyền thuyết cổ xưa"
+    },
+    {
+      "num": 1525,
+      "title": "Con đường này, đèn hồn tắt! (Canh hai)"
+    },
+    {
+      "num": 1526,
+      "title": "Có ý đồ xấu! (Canh ba)"
+    },
+    {
+      "num": 1527,
+      "title": "Phân thân tọa hóa!"
+    },
+    {
+      "num": 1528,
+      "title": "Chuyển thế luân hồi!"
+    },
+    {
+      "num": 1529,
+      "title": "Thạch Tiểu Hổ"
+    },
+    {
+      "num": 1530,
+      "title": "Trần Lôi"
+    },
+    {
+      "num": 1531,
+      "title": "Thứ Hai kêu gọi phiếu đề cử"
+    },
+    {
+      "num": 1532,
+      "title": "Tiểu Á Ba"
+    },
+    {
+      "num": 1533,
+      "title": "Hứa Lưu Vân"
+    },
+    {
+      "num": 1534,
+      "title": "Cẩu Nhi"
+    },
+    {
+      "num": 1535,
+      "title": "Đợi Con Lớn Lên"
+    },
+    {
+      "num": 1536,
+      "title": "Tiểu Bảo"
+    },
+    {
+      "num": 1537,
+      "title": "Thế Giới Băng Hỏa!"
+    },
+    {
+      "num": 1538,
+      "title": "Một trận chiến, định thắng thua!"
+    },
+    {
+      "num": 1539,
+      "title": "Mượn sức tìm dấu vết！"
+    },
+    {
+      "num": 1540,
+      "title": "Gọi trở về！"
+    },
+    {
+      "num": 1541,
+      "title": "Dao động quen thuộc!"
+    },
+    {
+      "num": 1542,
+      "title": "Một người giữ ải!"
+    },
+    {
+      "num": 1543,
+      "title": "Kẻ nào bước vào, kẻ đó phải chết!"
+    },
+    {
+      "num": 1544,
+      "title": "Ta là ai!"
+    },
+    {
+      "num": 1545,
+      "title": "Chiến giáp Siêu Thoát!"
+    },
+    {
+      "num": 1546,
+      "title": "Ngũ gia xuất hiện, cướp phiếu!"
+    },
+    {
+      "num": 1547,
+      "title": "Tùng Đạo Tử!"
+    },
+    {
+      "num": 1548,
+      "title": "Ngươi là con của La Thiên"
+    },
+    {
+      "num": 1549,
+      "title": "Đường dây đứt lìa bên ngoài cõi mênh mang!"
+    },
+    {
+      "num": 1550,
+      "title": "Không phân biệt nổi thật giả"
+    },
+    {
+      "num": 1551,
+      "title": "Con Đường Thương Mang"
+    },
+    {
+      "num": 1552,
+      "title": "Thuận Theo Dòng Đời"
+    },
+    {
+      "num": 1553,
+      "title": "Dị biến!"
+    },
+    {
+      "num": 1554,
+      "title": "Ta là Mạnh Hạo!!"
+    },
+    {
+      "num": 1555,
+      "title": "Đoạn tuyệt!"
+    },
+    {
+      "num": 1556,
+      "title": "Năm cây cột!"
+    },
+    {
+      "num": 1557,
+      "title": "Yêu!"
+    },
+    {
+      "num": 1558,
+      "title": "Lão Tử Là Ngũ Gia!"
+    },
+    {
+      "num": 1559,
+      "title": "Trở về!"
+    },
+    {
+      "num": 1560,
+      "title": "Truy sát Hàn Bối！"
+    },
+    {
+      "num": 1561,
+      "title": "Thân mến, hãy bỏ phiếu đề cử!"
+    },
+    {
+      "num": 1562,
+      "title": "Tiến gần đến đời thứ chín!"
+    },
+    {
+      "num": 1563,
+      "title": "Hàn Bối bỏ mạng!"
+    },
+    {
+      "num": 1564,
+      "title": "Khắc Thiên!"
+    },
+    {
+      "num": 1565,
+      "title": "Trời giáng phạt!"
+    },
+    {
+      "num": 1566,
+      "title": "Tàn khốc"
+    },
+    {
+      "num": 1567,
+      "title": "Mạng Sống Của Hắn!"
+    },
+    {
+      "num": 1568,
+      "title": "Chín Kiếp Hợp Thành Một Thân!"
+    },
+    {
+      "num": 1569,
+      "title": "Hẹn gặp lại, Yên Nhi"
+    },
+    {
+      "num": 1570,
+      "title": "Nơi có thể bước vào cảnh giới siêu thoát!"
+    },
+    {
+      "num": 1571,
+      "title": "Thương Mang Muốn Ngăn Cản!"
+    },
+    {
+      "num": 1572,
+      "title": "Lại vào Minh Cung"
+    },
+    {
+      "num": 1573,
+      "title": "Vượt qua từng tầng đại lục!"
+    },
+    {
+      "num": 1574,
+      "title": "Đại lục thứ chín!"
+    },
+    {
+      "num": 1575,
+      "title": "Xung Kích!"
+    },
+    {
+      "num": 1576,
+      "title": "Chúng Sinh Mênh Mông, Đều Là Con Của Ta!"
+    },
+    {
+      "num": 1577,
+      "title": "Hóa Cấm!"
+    },
+    {
+      "num": 1578,
+      "title": "Hòa nhập với bản thể! (Phần 1)"
+    },
+    {
+      "num": 1579,
+      "title": "Từ nay, ta – Mạnh Hạo – chính thức vượt thoát! (Phần 2)"
+    },
+    {
+      "num": 1580,
+      "title": "Cuối cùng cũng vượt thoát, xin phiếu tháng nhân đôi!"
+    },
+    {
+      "num": 1581,
+      "title": "Dập Tắt Ngọn Đèn Đồng Xanh! (Canh ba)"
+    },
+    {
+      "num": 1582,
+      "title": "Đạo Nguyên Thành Hình! (Canh bốn)"
+    },
+    {
+      "num": 1583,
+      "title": "Tiếp Tục Bùng Nổ!"
+    },
+    {
+      "num": 1584,
+      "title": "Một vũ trụ! (Canh một)"
+    },
+    {
+      "num": 1585,
+      "title": "Ta muốn hồi sinh Bì Đống! (Canh hai)"
+    },
+    {
+      "num": 1586,
+      "title": "Dốc hết vé tháng nào!"
+    },
+    {
+      "num": 1587,
+      "title": "Tam Gia trở về! (Canh ba)"
+    },
+    {
+      "num": 1588,
+      "title": "Nhập vai quá sâu! (Canh tư)"
+    },
+    {
+      "num": 1589,
+      "title": "Yêu Tôn!"
+    },
+    {
+      "num": 1590,
+      "title": "Mục tiêu: Ba Mươi Ba Tầng Trời!"
+    },
+    {
+      "num": 1591,
+      "title": "Xin lỗi mọi người!"
+    },
+    {
+      "num": 1592,
+      "title": "Mừng Rỡ Và Run Rẩy!"
+    },
+    {
+      "num": 1593,
+      "title": "Chúc mừng năm mới, tạm biệt bảng xếp hạng nguyệt phiếu!"
+    },
+    {
+      "num": 1594,
+      "title": "Đạo Phương, ngươi còn nhớ ta không!"
+    },
+    {
+      "num": 1595,
+      "title": "Hôm nay sẽ đăng muộn hơn một chút"
+    },
+    {
+      "num": 1596,
+      "title": "Phá tan Vô Lượng Kiếp!"
+    },
+    {
+      "num": 1597,
+      "title": "Diệt Đạo Phương!"
+    },
+    {
+      "num": 1598,
+      "title": "Tàn độc!"
+    },
+    {
+      "num": 1599,
+      "title": "Mảnh đất tội nghiệt, không thể để nó tồn tại!"
+    },
+    {
+      "num": 1600,
+      "title": "Chết cũng không hết tội!"
+    },
+    {
+      "num": 1601,
+      "title": "Ta ở tầng trời thứ mười, chờ các ngươi!"
+    },
+    {
+      "num": 1602,
+      "title": "Biển Phản Bội Thứ Chín!"
+    },
+    {
+      "num": 1603,
+      "title": "Yêu Tôn Trở Về!"
+    },
+    {
+      "num": 1604,
+      "title": "Báu vật siêu thoát!"
+    },
+    {
+      "num": 1605,
+      "title": "Mở ra Sơn Hải!"
+    },
+    {
+      "num": 1606,
+      "title": "Sơn Hải Mạnh Nhất!"
+    },
+    {
+      "num": 1607,
+      "title": "Phong Ngươi Làm Đệ Cửu Hải!"
+    },
+    {
+      "num": 1608,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, lòng lặng yên"
+    },
+    {
+      "num": 1609,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, ngày đoàn tụ"
+    },
+    {
+      "num": 1610,
+      "title": "Ta nhìn biển xanh hóa nương dâu, nhớ lại chuyện năm xưa"
+    },
+    {
+      "num": 1611,
+      "title": "Ta ngắm biển xanh hóa thành ruộng dâu – Núi trong núi!"
+    },
+    {
+      "num": 1612,
+      "title": "Ta ngắm biển xanh hóa thành ruộng dâu – Nàng không muốn tỉnh lại"
+    },
+    {
+      "num": 1613,
+      "title": "Ta ngắm biển xanh hóa thành ruộng dâu – Gió nổi!"
+    },
+    {
+      "num": 1614,
+      "title": "Ta nhìn biển xanh hóa nương dâu, trận chiến giữa tiên và thần bắt đầu!"
+    },
+    {
+      "num": 1615,
+      "title": "Ta nhìn biển xanh hóa nương dâu, mọi thứ dường như giống mà lại chẳng giống!"
+    },
+    {
+      "num": 1616,
+      "title": "Ta nhìn biển xanh hóa nương dâu, nội tình!"
+    },
+    {
+      "num": 1617,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, chẳng phải điều ta mong muốn!"
+    },
+    {
+      "num": 1618,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu – Con rối!"
+    },
+    {
+      "num": 1619,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu – Mục nát!"
+    },
+    {
+      "num": 1620,
+      "title": "Ta nhìn biển xanh hóa nương dâu, nhìn cho rõ!"
+    },
+    {
+      "num": 1621,
+      "title": "Ta nhìn biển xanh hóa nương dâu, phủ họ Vương, đại hán!"
+    },
+    {
+      "num": 1622,
+      "title": "Ta nhìn biển xanh hóa nương dâu, ma giáng lâm!"
+    },
+    {
+      "num": 1623,
+      "title": "Ta đã thấy biển xanh hóa thành ruộng dâu, Thử dò xét!"
+    },
+    {
+      "num": 1624,
+      "title": "Ta đã thấy biển xanh hóa thành ruộng dâu – Tư cách của vũ trụ!"
+    },
+    {
+      "num": 1625,
+      "title": "Ta đã thấy biển xanh hóa thành ruộng dâu – Đại chiến trên Ma Giới!"
+    },
+    {
+      "num": 1626,
+      "title": "Ta nhìn biển xanh hóa nương dâu, muôn tộc cúi đầu!"
+    },
+    {
+      "num": 1627,
+      "title": "Ta nhìn biển xanh hóa nương dâu, chặt đứt cội nguồn huyết mạch!"
+    },
+    {
+      "num": 1628,
+      "title": "Ta nhìn biển xanh hóa nương dâu, La Thiên biến thân!"
+    },
+    {
+      "num": 1629,
+      "title": "Ta nhìn biển xanh hóa nương dâu, Long Hoàng Biến!"
+    },
+    {
+      "num": 1630,
+      "title": "Ta nhìn biển xanh hóa nương dâu, Biến thứ ba!"
+    },
+    {
+      "num": 1631,
+      "title": "Ta nhìn biển xanh hóa nương dâu, Sao có thể để ngươi phế bỏ!"
+    },
+    {
+      "num": 1632,
+      "title": "Ta nhìn biển xanh hóa nương dâu, Thiên Thần Biến!"
+    },
+    {
+      "num": 1633,
+      "title": "Ta nhìn biển xanh hóa nương dâu – Sức mạnh tột đỉnh, không ai sánh bằng!"
+    },
+    {
+      "num": 1634,
+      "title": "Ta nhìn biển xanh hóa nương dâu – Sáu cấm hợp làm một!"
+    },
+    {
+      "num": 1635,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, nuốt chửng La Thiên!"
+    },
+    {
+      "num": 1636,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, ta chính là trời!"
+    },
+    {
+      "num": 1637,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, tinh không Sơn Hải!"
+    },
+    {
+      "num": 1638,
+      "title": "Ta nhìn biển xanh hóa nương dâu, người xưa sống lại!"
+    },
+    {
+      "num": 1639,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, năm tháng rồi cũng có ngày kết thúc!"
+    },
+    {
+      "num": 1640,
+      "title": "Ta nhìn biển xanh hóa thành ruộng dâu, một đời rồi cũng kết thúc"
+    },
+    {
+      "num": 1641,
+      "title": "Ta nhìn biển xanh hóa nương dâu, ngọc giản của Thủy Đông Lưu"
+    },
+    {
+      "num": 1642,
+      "title": "Ta nhìn biển xanh hóa nương dâu, cảnh còn người mất"
+    },
+    {
+      "num": 1643,
+      "title": "Ta nhìn biển xanh hóa nương dâu, cô độc"
+    },
+    {
+      "num": 1644,
+      "title": "Ta thấy biển xanh hóa nương dâu, chôn vùi trong năm tháng"
+    },
+    {
+      "num": 1645,
+      "title": "Ta thấy biển xanh hóa nương dâu, có người đã vượt thoát!"
+    },
+    {
+      "num": 1646,
+      "title": "Ta thấy biển xanh hóa nương dâu, Kim Bào tham vọng nuốt trọn Sơn Hải!"
+    },
+    {
+      "num": 1647,
+      "title": "Ta nhìn biển xanh hóa nương dâu, lâu rồi không gặp."
+    },
+    {
+      "num": 1648,
+      "title": "Ta nhìn biển xanh hóa nương dâu, ngươi vậy mà vẫn còn sống!"
+    },
+    {
+      "num": 1649,
+      "title": "Ta nhìn biển xanh hóa nương dâu, La Thiên biến thứ tám!"
+    },
+    {
+      "num": 1650,
+      "title": "Ta thấy biển xanh hóa nương dâu, ta là Quỷ!"
+    },
+    {
+      "num": 1651,
+      "title": "Ta thấy biển xanh hóa nương dâu, ngươi có thể gọi ta là Số Mệnh!"
+    },
+    {
+      "num": 1652,
+      "title": "Ta thấy biển xanh hóa nương dâu, Thần giáng lâm!"
+    },
+    {
+      "num": 1653,
+      "title": "Ta thấy biển xanh hóa nương dâu, trận chiến đỉnh cao!"
+    },
+    {
+      "num": 1654,
+      "title": "Ta thấy biển xanh hóa nương dâu, một chỉ chém La Thiên!"
+    },
+    {
+      "num": 1655,
+      "title": "Ta thấy biển xanh hóa nương dâu, cuối cùng La Thiên biến!"
+    },
+    {
+      "num": 1656,
+      "title": "Ta nhìn biển xanh hóa nương dâu, cấm chế đối đầu cấm chế!"
+    },
+    {
+      "num": 1657,
+      "title": "Game mobile 3D, mở thử nghiệm kín!!! Nàng"
+    },
+    {
+      "num": 1658,
+      "title": "Ta nhìn biển xanh hóa nương dâu, ngươi có đến hay không!"
+    },
+    {
+      "num": 1659,
+      "title": "Ta nhìn biển xanh hóa nương dâu, một kỷ nguyên kết thúc"
+    },
+    {
+      "num": 1660,
+      "title": "Ta nhìn biển xanh hóa nương dâu, trở thành La Thiên!"
+    },
+    {
+      "num": 1661,
+      "title": "Ta nhìn biển xanh hóa nương dâu, phân thân của ai!"
+    },
+    {
+      "num": 1662,
+      "title": "Ta ngắm biển xanh hóa nương dâu"
+    },
+    {
+      "num": 1663,
+      "title": "Ta ngắm biển xanh hóa nương dâu, những dấu vết đã mất"
+    },
+    {
+      "num": 1664,
+      "title": "Ta ngắm biển xanh hóa nương dâu, cha mẹ kiếp này"
+    },
+    {
+      "num": 1665,
+      "title": "Chúc anh chị em của tôi năm mới vui vẻ, gửi lì xì!"
+    },
+    {
+      "num": 1666,
+      "title": "Ta ngắm biển xanh hóa ruộng dâu, một cánh buồm lẻ loi từ phía mặt trời xa xôi lướt tới!"
+    },
+    {
+      "num": 1667,
+      "title": "Xin nương tay dưới đao, đừng PK tôi mà a a"
+    },
+    {
+      "num": 1668,
+      "title": "Truyện mới, ngày 29 tháng 4, chính thức ra mắt!"
+    },
+    {
+      "num": 1669,
+      "title": "Truyện mới 《Quang Âm Chi Ngoại》 đã ra mắt, mọi người có thể ghé đọc nhé!"
+    },
+    {
+      "num": 1670,
+      "title": "《Quang Âm Chi Ngoại》 – Truyện mới đã ra mắt, mọi người có thể ghé đọc nhé"
+    }
+  ],
+  "slug": "ngai_duc_phong_thien",
+  "title": "Ngã Dục Phong Thiên",
+  "author": "Nhĩ Căn",
+  "synopsis": "Truyện tiên hiệp tu chân của Nhĩ Căn (耳根), đã hoàn thành. Mạnh Hạo, một thư sinh nghèo thi trượt ở nước Triệu, bị cưỡng ép đưa vào Kháo Sơn Tông ở Nam Vực để bước lên con đường tu tiên. Hắn vốn chỉ muốn sống yên ổn, nhưng thế giới tu chân tàn khốc buộc hắn phải liều mạng, dùng mưu mẹo, sự lì lợm và tâm tính không chịu khuất phục để từng bước đi lên. Từ một tông môn nhỏ, hắn đi qua Sơn Hải Giới với những cuộc chiến giữa các tông môn, các giới và những đời cổ tiên, theo đuổi chấp niệm \"ngã dục phong thiên\" — ta muốn phong cả trời. Giọng truyện bi tráng, xen những tình tiết hài hước và bất ngờ, kéo dài hơn một nghìn sáu trăm chương.",
+  "coverColor": "#5b4a2f"
+}
