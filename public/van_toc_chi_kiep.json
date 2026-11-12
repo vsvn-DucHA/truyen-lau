@@ -1,0 +1,3878 @@
+{
+  "totalChapters": 967,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Cha con"
+    },
+    {
+      "num": 2,
+      "title": "Hệ thống bốn loại học phủ"
+    },
+    {
+      "num": 3,
+      "title": "Sách tranh vạn tộc"
+    },
+    {
+      "num": 4,
+      "title": "Phương pháp tăng tốc Khai Nguyên"
+    },
+    {
+      "num": 5,
+      "title": "Giấc mơ (Chúc mọi người Tết Nguyên Tiêu vui vẻ)"
+    },
+    {
+      "num": 6,
+      "title": "Thiết Dực Điểu Tái Hiện (Cầu đề cử, cầu lưu truyện)"
+    },
+    {
+      "num": 7,
+      "title": "Sách mở ra"
+    },
+    {
+      "num": 8,
+      "title": "Ngọn lửa văn minh"
+    },
+    {
+      "num": 9,
+      "title": "Thủ đoạn của học phủ Văn Minh"
+    },
+    {
+      "num": 10,
+      "title": "Khai Nguyên tầng bốn (Xin phiếu đề cử)"
+    },
+    {
+      "num": 11,
+      "title": "Sóng yên biển lặng"
+    },
+    {
+      "num": 12,
+      "title": "Dụ rắn ra khỏi hang"
+    },
+    {
+      "num": 13,
+      "title": "Đại Hạ Phủ khác biệt"
+    },
+    {
+      "num": 14,
+      "title": "Hành động"
+    },
+    {
+      "num": 15,
+      "title": "Hạ Long Vũ"
+    },
+    {
+      "num": 16,
+      "title": "Chiến tranh bùng nổ"
+    },
+    {
+      "num": 17,
+      "title": "Trận chiến đầu tiên"
+    },
+    {
+      "num": 18,
+      "title": "Toàn quân bị tiêu diệt (Cầu lưu truyện, cầu đề cử)"
+    },
+    {
+      "num": 19,
+      "title": "Thu hoạch"
+    },
+    {
+      "num": 20,
+      "title": "Nhận công (Chương dài, xin phiếu đề cử)"
+    },
+    {
+      "num": 21,
+      "title": "Đầy rẫy ác ý"
+    },
+    {
+      "num": 22,
+      "title": "Trên cảnh Đằng Không"
+    },
+    {
+      "num": 23,
+      "title": "Ngươi là của ta rồi! (Cầu lưu truyện, cầu đề cử!)"
+    },
+    {
+      "num": 24,
+      "title": "Ngươi quá tầm thường! (Xin đề cử, xin lưu truyện)"
+    },
+    {
+      "num": 25,
+      "title": "Khai Nguyên tầng năm"
+    },
+    {
+      "num": 26,
+      "title": "Học bá đang nỗ lực"
+    },
+    {
+      "num": 27,
+      "title": "Bình tĩnh!"
+    },
+    {
+      "num": 28,
+      "title": "Cố lên, thiếu niên!"
+    },
+    {
+      "num": 29,
+      "title": "Biết suy một ra ba"
+    },
+    {
+      "num": 30,
+      "title": "Phải nhìn xa hơn một chút (Cầu đề cử)"
+    },
+    {
+      "num": 31,
+      "title": "Ba mục tiêu"
+    },
+    {
+      "num": 32,
+      "title": "Người chưa đến, danh tiếng đã truyền xa"
+    },
+    {
+      "num": 33,
+      "title": "Con nợ lớn"
+    },
+    {
+      "num": 34,
+      "title": "Khai Nguyên tầng tám"
+    },
+    {
+      "num": 35,
+      "title": "Hé lộ một góc màn bí mật"
+    },
+    {
+      "num": 36,
+      "title": "Khi sóng gió nổi lên"
+    },
+    {
+      "num": 37,
+      "title": "Nào, vào đây tám chuyện kiếm năm hào!"
+    },
+    {
+      "num": 38,
+      "title": "Lôi Nguyên Đao"
+    },
+    {
+      "num": 39,
+      "title": "Sắp không gồng nổi nữa rồi!"
+    },
+    {
+      "num": 40,
+      "title": "Thời khắc thay đổi"
+    },
+    {
+      "num": 41,
+      "title": "Cái nồi của Hạ Hầu Gia"
+    },
+    {
+      "num": 42,
+      "title": "Lại giết Thiên Quân"
+    },
+    {
+      "num": 43,
+      "title": "Đồng đội cùng chung chiến hào"
+    },
+    {
+      "num": 44,
+      "title": "Cái bộ dạng không biết xấu hổ của ông trông thật đáng yêu"
+    },
+    {
+      "num": 45,
+      "title": "Kẻ vô lại làm chủ"
+    },
+    {
+      "num": 46,
+      "title": "Kỳ thi sắp đến"
+    },
+    {
+      "num": 47,
+      "title": "Ta đã quyết định!"
+    },
+    {
+      "num": 48,
+      "title": "Chỗ nào cũng có bẫy"
+    },
+    {
+      "num": 49,
+      "title": "Kỳ thi khác thường"
+    },
+    {
+      "num": 50,
+      "title": "Cảm ơn mọi người đã ủng hộ, tháng Hai các bạn là đẹp trai nhất!"
+    },
+    {
+      "num": 51,
+      "title": "Thượng, trung, hạ"
+    },
+    {
+      "num": 52,
+      "title": "Mọi người thành thật với nhau một chút"
+    },
+    {
+      "num": 53,
+      "title": "Điểm tuyệt đối!"
+    },
+    {
+      "num": 54,
+      "title": "Không thể nói lý"
+    },
+    {
+      "num": 55,
+      "title": "Kẻ địch đến rồi！"
+    },
+    {
+      "num": 56,
+      "title": "Quân tử động khẩu không động thủ"
+    },
+    {
+      "num": 57,
+      "title": "Người tốt bụng đáng yêu nhất"
+    },
+    {
+      "num": 58,
+      "title": "Hoài nghi cuộc đời"
+    },
+    {
+      "num": 59,
+      "title": "Thứ nhặt được chưa chắc đã là của mình"
+    },
+    {
+      "num": 60,
+      "title": "Mỗi người đều có lựa chọn riêng (Chương lớn, xin phiếu đề cử!)"
+    },
+    {
+      "num": 61,
+      "title": "Kết thúc kỳ khảo hạch"
+    },
+    {
+      "num": 62,
+      "title": "Lần đầu tìm hiểu về Học phủ Văn minh"
+    },
+    {
+      "num": 63,
+      "title": "Công pháp tu luyện cảnh Thiên Quân"
+    },
+    {
+      "num": 64,
+      "title": "Vạn tộc tiến vào Nhân Cảnh"
+    },
+    {
+      "num": 65,
+      "title": "Rồng ẩn dưới vực sâu"
+    },
+    {
+      "num": 66,
+      "title": "Lo lắng đến bạc cả đầu"
+    },
+    {
+      "num": 67,
+      "title": "Rời xa quê nhà"
+    },
+    {
+      "num": 68,
+      "title": "Ai mà tin chứ!"
+    },
+    {
+      "num": 69,
+      "title": "Tập kích, phản sát"
+    },
+    {
+      "num": 70,
+      "title": "Ta có tiền, ta rất mạnh! (Chương lớn cầu đề cử)"
+    },
+    {
+      "num": 71,
+      "title": "Lạnh mắt nhìn đời"
+    },
+    {
+      "num": 72,
+      "title": "Dồn người ta vào đường cùng"
+    },
+    {
+      "num": 73,
+      "title": "Đại Hạ Văn Minh Học Phủ"
+    },
+    {
+      "num": 74,
+      "title": "Ấn tượng đầu tiên về học phủ"
+    },
+    {
+      "num": 75,
+      "title": "Phụ nữ đều là chướng ngại vật trên con đường tu luyện"
+    },
+    {
+      "num": 76,
+      "title": "Duyên phận đưa chúng ta gặp nhau"
+    },
+    {
+      "num": 77,
+      "title": "Tự lực cánh sinh"
+    },
+    {
+      "num": 78,
+      "title": "Đạt thành thỏa thuận"
+    },
+    {
+      "num": 79,
+      "title": "Học thêm hệ thứ hai"
+    },
+    {
+      "num": 80,
+      "title": "Ác ý đến từ sư bá"
+    },
+    {
+      "num": 81,
+      "title": "Bái sư (Cầu đề cử)"
+    },
+    {
+      "num": 82,
+      "title": "Nhiều thần văn dung hợp"
+    },
+    {
+      "num": 83,
+      "title": "Lần đầu đến Trung tâm Nghiên cứu"
+    },
+    {
+      "num": 84,
+      "title": "Giới hạn của ta ở đâu?"
+    },
+    {
+      "num": 85,
+      "title": "Ngươi gặp rắc rối lớn rồi!"
+    },
+    {
+      "num": 86,
+      "title": "Dưới hạng nhất đều là phế vật"
+    },
+    {
+      "num": 87,
+      "title": "Kết thù"
+    },
+    {
+      "num": 88,
+      "title": "Thế giới của thiên tài, ngươi không hiểu đâu"
+    },
+    {
+      "num": 89,
+      "title": "Lời tâm sự trước ngày lên kệ"
+    },
+    {
+      "num": 90,
+      "title": "Lần đầu gặp Lưu Hồng (Chương một, mong mọi người đặt mua ủng hộ)"
+    },
+    {
+      "num": 91,
+      "title": "Ta không thể nào giỏi đến mức ấy được! (Cầu đặt mua)"
+    },
+    {
+      "num": 92,
+      "title": "Truyền thừa tiếp nối (Ba chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 93,
+      "title": "Làm một lớp trưởng tốt (Bốn chương liên tiếp, cầu đặt mua)"
+    },
+    {
+      "num": 94,
+      "title": "Bắt nạt người thật thà! (Năm chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 95,
+      "title": "Ý chí hải thần bí (cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 96,
+      "title": "Đúc binh (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 97,
+      "title": "Lòng ta dần trở nên đen tối! (Hai vạn chữ, cầu đặt mua!)"
+    },
+    {
+      "num": 98,
+      "title": "Ngàn Quân (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 99,
+      "title": "Trang thứ hai của đồ sách (Hai chương cầu đăng ký và nguyệt phiếu)"
+    },
+    {
+      "num": 100,
+      "title": "Giỏi giang như ta! (Cầu đặt mua tháng mới, vạn chương)"
+    },
+    {
+      "num": 101,
+      "title": "Vận may tốt thật đấy? (Xin đặt mua và vé tháng)"
+    },
+    {
+      "num": 102,
+      "title": "Thần văn chữ “Sát” (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 103,
+      "title": "Thi tháng, dưỡng tính (Hai vạn chữ, cầu đặt mua, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 104,
+      "title": "Sóng gió (Cầu đăng ký)"
+    },
+    {
+      "num": 105,
+      "title": "Muôn vàn đầu mối (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 106,
+      "title": "Một đòn kết liễu! (Chương dài gộp hai phần, hơn 9.000 chữ)"
+    },
+    {
+      "num": 107,
+      "title": "Kẻ ngốc quá nhiều (Cầu đặt mua)"
+    },
+    {
+      "num": 108,
+      "title": "Dạy các ngươi một bài học (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 109,
+      "title": "Đạo công sát! (Vạn chữ, cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 110,
+      "title": "Chiến kỹ thần văn (Cầu đặt mua)"
+    },
+    {
+      "num": 111,
+      "title": "Hai số 9! (Cầu đăng ký, cầu vé tháng, cầu đề cử)"
+    },
+    {
+      "num": 112,
+      "title": "Không thể đào sâu (Hai vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 113,
+      "title": "Thần văn bài xích (Cầu đăng ký)"
+    },
+    {
+      "num": 114,
+      "title": "Khu giam giữ (Cầu đặt mua)"
+    },
+    {
+      "num": 115,
+      "title": "Những chuyện mắt thấy tai nghe ở lớp cao cấp (Cầu đặt mua chương, cập nhật mười nghìn chữ)"
+    },
+    {
+      "num": 116,
+      "title": "Có lẽ ta không thể tiếp tục sống kín tiếng nữa (Cầu đặt mua)"
+    },
+    {
+      "num": 117,
+      "title": "Thiên Quân tứ trọng"
+    },
+    {
+      "num": 118,
+      "title": "Học phủ Văn Minh lắm chuyện vui (cập nhật 20.000 chữ, cầu đặt mua)"
+    },
+    {
+      "num": 119,
+      "title": "Đều là những người có kế hoạch (Cầu đặt mua)"
+    },
+    {
+      "num": 120,
+      "title": "Tô Vũ thật thà (Cảm ơn Cậu Bé Hoang Dã đã ủng hộ!)"
+    },
+    {
+      "num": 121,
+      "title": "Đại trí giả ngu (Cầu đặt mua, cập nhật hai vạn chữ)"
+    },
+    {
+      "num": 122,
+      "title": "Diễn kịch thì phải diễn cho giống thật (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 123,
+      "title": "Cẩn thận mới là vua (Cầu nguyệt phiếu, đánh vào top 10)"
+    },
+    {
+      "num": 124,
+      "title": "Thầy ơi, nện con đi! (Mong mọi người đặt mua, ủng hộ nguyệt phiếu)"
+    },
+    {
+      "num": 125,
+      "title": "Rốt cuộc là bao nhiêu điểm? (Cầu nguyệt phiếu, lọt vào top 10 sẽ tiến...)"
+    },
+    {
+      "num": 126,
+      "title": "Giao chiến (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 127,
+      "title": "Người xem đau lòng, kẻ nghe rơi lệ (hai vạn chữ cầu...)"
+    },
+    {
+      "num": 128,
+      "title": "Giao dịch (Đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 129,
+      "title": "Quá nhiều cái bẫy (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 130,
+      "title": "Người thắng cuộc đều phải ôm cục tức (Cầu đăng ký, hai vạn chữ cập nhật, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 131,
+      "title": "Đấu trí đấu dũng (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 132,
+      "title": "Chết thảm quá! (Cầu đăng ký, cầu nguyệt phiếu chương vạn chữ)"
+    },
+    {
+      "num": 133,
+      "title": "Tô Vũ hay quên (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 134,
+      "title": "Võ kỹ bậc Thiên (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 135,
+      "title": "Ba lần vào bí cảnh (Cầu đặt mua, vé tháng!)"
+    },
+    {
+      "num": 136,
+      "title": "Vắt kiệt lợi ích của học phủ"
+    },
+    {
+      "num": 137,
+      "title": "Xuất quan (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 138,
+      "title": "Ngơ ngơ ngác ngác (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 139,
+      "title": "Vạn Thạch thật, Vạn Thạch giả (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 140,
+      "title": "Thơm thật! (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 141,
+      "title": "Châm ngòi thổi lửa (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 142,
+      "title": "Sinh vật đáng sợ! (Cầu vé tháng, cầu đặt mua)"
+    },
+    {
+      "num": 143,
+      "title": "Màn kịch lớn mở màn (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 144,
+      "title": "Đại hội Thần Văn (Cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 145,
+      "title": "Phong Hỏa Sơn Lâm"
+    },
+    {
+      "num": 146,
+      "title": "Top 10"
+    },
+    {
+      "num": 147,
+      "title": "Cùng đứng thứ hai (Cầu đặt mua mười nghìn chương)"
+    },
+    {
+      "num": 148,
+      "title": "Võ kỹ đến tay (Cầu đăng ký)"
+    },
+    {
+      "num": 149,
+      "title": "Dự định của Tô Vũ (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 150,
+      "title": "Phá Sơn Hải, trấn Nhật Nguyệt, chiến Vô Địch (hai vạn"
+    },
+    {
+      "num": 151,
+      "title": "Trước cơn bão"
+    },
+    {
+      "num": 152,
+      "title": "Bí cảnh lại đóng cửa (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 153,
+      "title": "Bí quyết Ngũ Hành (Hai vạn chữ, cầu đăng ký và vé tháng)"
+    },
+    {
+      "num": 154,
+      "title": "Võ đài top 100 (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 155,
+      "title": "Bảng Trăm Người Dậy Sóng"
+    },
+    {
+      "num": 156,
+      "title": "Đánh tan! (Chương dài hơn mười nghìn chữ, không ngắt chương, cầu... )"
+    },
+    {
+      "num": 157,
+      "title": "Những thiên tài quái vật của khóa 350 (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 158,
+      "title": "Một góc tương lai (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 159,
+      "title": "Sư phụ đúng là lợi hại! (Hai mươi nghìn chữ, cầu đăng ký, cầu...)"
+    },
+    {
+      "num": 160,
+      "title": "Thần văn thiên phú"
+    },
+    {
+      "num": 161,
+      "title": "Người nổi tiếng (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 162,
+      "title": "Trong sách tự có muôn vàn mưu kế (Cầu đặt mua, chương vạn chữ)"
+    },
+    {
+      "num": 163,
+      "title": "Ta muốn khoác thêm một lớp vỏ (Cầu đặt mua)"
+    },
+    {
+      "num": 164,
+      "title": "Màn kịch lớn mở màn (Chương dài, cầu đặt mua!)"
+    },
+    {
+      "num": 165,
+      "title": "Quy tắc là thứ tốt (cầu đặt mua cho mốc 20.000 chữ)"
+    },
+    {
+      "num": 166,
+      "title": "Đấu khẩu cũng có thể giết người (Cầu đặt mua)"
+    },
+    {
+      "num": 167,
+      "title": "Biết càng nhiều, chết càng nhanh (Cầu đăng ký)"
+    },
+    {
+      "num": 168,
+      "title": "Trên đường trở về (Cảm ơn đại lão Huyễn Vũ lần nữa trở thành...)"
+    },
+    {
+      "num": 169,
+      "title": "Rắc rối dần kéo đến (Cảm ơn đại lão Phi Tường Gia Bát Giới đã ủng hộ)"
+    },
+    {
+      "num": 170,
+      "title": "Sư tổ đang trên đường tới (Cầu đăng ký, cầu phiếu tháng)"
+    },
+    {
+      "num": 171,
+      "title": "Hỗ Trợ Hội lớn mạnh (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 172,
+      "title": "Cứ nhất quyết đòi cho bằng được! (Cầu đăng ký!)"
+    },
+    {
+      "num": 173,
+      "title": "Khai Thần Quyết mạnh đến đáng sợ (Cầu đăng ký)"
+    },
+    {
+      "num": 174,
+      "title": "Liễu Văn Ngạn trở về (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 175,
+      "title": "Bạch Phong bỏ chạy (Cầu đăng ký)"
+    },
+    {
+      "num": 176,
+      "title": "Có thêm bạn bè, thêm đường đi (Cầu đặt mua, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 177,
+      "title": "Toàn những kẻ chuyên gây chuyện (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 178,
+      "title": "Tô Vũ mạnh mẽ! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 179,
+      "title": "Lần đầu gặp Hạ Ngọc Văn (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 180,
+      "title": "Ta, Tô Vũ, thua được! (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 181,
+      "title": "Huyệt Khiếu Trong Cơ Thể Người"
+    },
+    {
+      "num": 182,
+      "title": "Quang minh chính đại tiếp tay cho địch (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 183,
+      "title": "Chỉ cần đủ gan, Học phủ Văn Minh sẽ là của ta"
+    },
+    {
+      "num": 184,
+      "title": "Thiên tài Bạch Phong (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 185,
+      "title": "Kiếm của ta nhiều lắm! (Cảm ơn Tiểu Nam Hoang Dã...)"
+    },
+    {
+      "num": 186,
+      "title": "Lục tục trở về (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 187,
+      "title": "Biến cố liên tiếp (Hôm nay đăng muộn một chút, xin lỗi)"
+    },
+    {
+      "num": 188,
+      "title": "Đục nước béo cò (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 189,
+      "title": "Không phải thánh nhân thì cũng là ngụy quân tử (Cầu đặt mua, cầu vé tháng vạn chương)"
+    },
+    {
+      "num": 190,
+      "title": "Thầy trò (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 191,
+      "title": "Thầy nào trò nấy (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 192,
+      "title": "Chuyện trò với Hạ Liễu (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 193,
+      "title": "Lớp học nhỏ về hệ đa thần văn (Cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 194,
+      "title": "Cuộc họp các trưởng lão (Cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 195,
+      "title": "Tô Vũ gặp Tiểu Nhị (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 196,
+      "title": "Truyền công (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 197,
+      "title": "Lời đồn lay động lòng người (Cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 198,
+      "title": "Sư bá (Cầu đặt mua mười nghìn chữ)"
+    },
+    {
+      "num": 199,
+      "title": "Lòng phải đủ độc (Cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 200,
+      "title": "Xuất quan, tình cờ gặp mặt, khiến nhau buồn nôn (Cầu đăng ký)"
+    },
+    {
+      "num": 201,
+      "title": "Người cuối cùng (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 202,
+      "title": "Thảm thật đấy! (Cầu đăng ký, phiếu tháng)"
+    },
+    {
+      "num": 203,
+      "title": "Lập đội thành công (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 204,
+      "title": "Lưu Hồng đáng tin cậy"
+    },
+    {
+      "num": 205,
+      "title": "Tô Vũ điên cuồng (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 206,
+      "title": "Đánh tan áp đảo! (Tôi đang cố gắng viết thêm chương, cố lên!)"
+    },
+    {
+      "num": 207,
+      "title": "Đoạt quán quân (Cầu nguyệt phiếu nhân đôi, sau 12 giờ sẽ nhân đôi)"
+    },
+    {
+      "num": 208,
+      "title": "Đời sau còn đen tối hơn đời trước (Cầu đăng ký, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 209,
+      "title": "Lần đầu gặp Vạn Thiên Thánh (Cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 210,
+      "title": "Ta hiểu rồi! (Cầu đặt mua vạn chương!)"
+    },
+    {
+      "num": 211,
+      "title": "Cậu nhóc ngốc nghếch (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 212,
+      "title": "Đồ đệ của ta có tư chất vô địch (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 213,
+      "title": "Gã ngốc vào phủ (Cầu đăng ký, chương dài vạn chữ)"
+    },
+    {
+      "num": 214,
+      "title": "Trí nhớ kém (Đầu tháng xin vé tháng giữ hạng)"
+    },
+    {
+      "num": 215,
+      "title": "Vào bí cảnh (Cầu vé tháng nhân đôi)"
+    },
+    {
+      "num": 216,
+      "title": "Đánh một trận rồi đổi chỗ (Cập nhật mười chương, cầu vé tháng và đăng ký)"
+    },
+    {
+      "num": 217,
+      "title": "Không khéo thì chẳng thành chuyện (Cầu nguyệt phiếu x2)"
+    },
+    {
+      "num": 218,
+      "title": "Sư tổ, con chắn, chắn, chắn! (Cầu nguyệt phiếu nhân đôi)"
+    },
+    {
+      "num": 219,
+      "title": "Bí cảnh nổ tung (Vạn chữ cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 220,
+      "title": "Gánh nặng trên vai (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 221,
+      "title": "Chia tay (Cầu đặt mua, phiếu tháng)"
+    },
+    {
+      "num": 222,
+      "title": "Người không có ý hại hổ, hổ lại có lòng hại người (Vạn chữ)"
+    },
+    {
+      "num": 223,
+      "title": "Mài dao không làm chậm việc đốn củi (Cầu vé tháng)"
+    },
+    {
+      "num": 224,
+      "title": "Khiếu Nguyên Thần (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 225,
+      "title": "Nợ nần chồng chất (Cầu đặt mua chương mới, vạn chữ)"
+    },
+    {
+      "num": 226,
+      "title": "Ta không để bạn bè chịu thiệt (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 227,
+      "title": "Đường đường chính chính rời đi (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 228,
+      "title": "Thu phục (Vạn chữ, cầu vé tháng)"
+    },
+    {
+      "num": 229,
+      "title": "Thiên tài khiến người ta chú ý (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 230,
+      "title": "Mảnh ký ức (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 231,
+      "title": "Chém giết Đằng Không (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 232,
+      "title": "Kiếm tiền rất đơn giản (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 233,
+      "title": "Song Ngô Hợp Khiếu Pháp (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 234,
+      "title": "Hết bộ này đến bộ khác (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 235,
+      "title": "Công pháp thành (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 236,
+      "title": "Nhà nghiên cứu thiên tài (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 237,
+      "title": "Ta biết bí mật của ngươi (Cầu đặt mua vạn chữ)"
+    },
+    {
+      "num": 238,
+      "title": "Sóng gió (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 239,
+      "title": "Những thay đổi ở học phủ Văn Minh (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 240,
+      "title": "Xuất quan, lời ám chỉ (Cầu đặt mua chương mới, vạn chữ)"
+    },
+    {
+      "num": 241,
+      "title": "Thăm dò (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 242,
+      "title": "Tiệc trăm người ngày lễ khánh thành (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 243,
+      "title": "Ý ta đã quyết, giết Địch Phong! (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 244,
+      "title": "Bẻ gãy xương sống của các ngươi! (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 245,
+      "title": "Đêm quá lạnh (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 246,
+      "title": "Coi trọng (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 247,
+      "title": "Đại Minh phủ cá mặn (Cầu đặt mua)"
+    },
+    {
+      "num": 248,
+      "title": "Ngọn lửa văn minh (Cầu nguyệt phiếu, cầu đăng ký)"
+    },
+    {
+      "num": 249,
+      "title": "Đếm ngược (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 250,
+      "title": "Không còn thơm nữa! (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 251,
+      "title": "Nhiệm vụ (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 252,
+      "title": "Từ biệt (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 253,
+      "title": "Xuôi Nam (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 254,
+      "title": "Kẻ trong cuộc thường mù quáng (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 255,
+      "title": "Tiếp tục câu cá (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 256,
+      "title": "Sơn Hải lộ bóng dáng (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 257,
+      "title": "Cuối cùng cũng đến Tinh Lạc Sơn (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 258,
+      "title": "Tầng này chồng lên tầng khác (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 259,
+      "title": "Sơn Hải ngã xuống (Cầu đăng ký)"
+    },
+    {
+      "num": 260,
+      "title": "Chém Lăng Vân, Nhật Nguyệt hiện (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 261,
+      "title": "Chém chết Chu Bình Thăng (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 262,
+      "title": "Lão Chu ra tay (Cầu đặt mua)"
+    },
+    {
+      "num": 263,
+      "title": "Cuối cùng cũng rời khỏi Đại Hạ phủ (cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 264,
+      "title": "Phong vân Đại Hạ (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 265,
+      "title": "Cha con (cầu đặt mua)"
+    },
+    {
+      "num": 266,
+      "title": "Tô Vũ vào phủ (Cầu đặt mua)"
+    },
+    {
+      "num": 267,
+      "title": "Phủ Đại Minh kỳ diệu (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 268,
+      "title": "Siêu cấp đại phú ông (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 269,
+      "title": "Mua lại viện nghiên cứu (cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 270,
+      "title": "Lần đầu bước vào Học phủ Văn minh Đại Minh (Cầu đăng ký)"
+    },
+    {
+      "num": 271,
+      "title": "Người quen nơi đất khách (Cầu đặt mua)"
+    },
+    {
+      "num": 272,
+      "title": "Người cũ, thăm dò (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 273,
+      "title": "Loạn tượng dần hiện (cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 274,
+      "title": "Thành phố trí tuệ (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 275,
+      "title": "Dư âm (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 276,
+      "title": "Phủ trưởng họ Ngưu, đúng là đỉnh thật! (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 277,
+      "title": "Bí mật về khiếu huyệt (Cầu đăng ký, phiếu tháng)"
+    },
+    {
+      "num": 278,
+      "title": "Ta không vào địa ngục thì ai vào địa ngục! (Cầu nguyệt phiếu, vạn chữ)"
+    },
+    {
+      "num": 279,
+      "title": "Dư luận (Cầu đặt mua)"
+    },
+    {
+      "num": 280,
+      "title": "Ép buộc (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 281,
+      "title": "Đánh trâu cách núi (Vạn chữ, cầu đăng ký và vé tháng)"
+    },
+    {
+      "num": 282,
+      "title": "Chiêu mộ nhân tài, bàn bạc bí mật (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 283,
+      "title": "Ngày ngày câu cá (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 284,
+      "title": "360 Nguyên Khiếu (Vạn chữ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 285,
+      "title": "Vạn Thạch mạnh nhất lịch sử (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 286,
+      "title": "Lại cảm ơn phủ trưởng họ Ngưu (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 287,
+      "title": "Thú ăn sắt, Bách Đạo Các (xin một lượt đăng ký và vé tháng)"
+    },
+    {
+      "num": 288,
+      "title": "Mắc kẹt (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 289,
+      "title": "180 thần khiếu, Mao Cầu thăng cấp (cầu đặt mua vé tháng)"
+    },
+    {
+      "num": 290,
+      "title": "Lần sau lại đến (Cầu nguyệt phiếu, vạn chữ!)"
+    },
+    {
+      "num": 291,
+      "title": "Trích xuất Thiên Nguyên Khí (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 292,
+      "title": "Bảy mươi hai lần đúc thân của tộc Thực Thiết (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 293,
+      "title": "Sắp Đột Phá Đằng Không (Cầu Đặt Mua, Vạn Chữ)"
+    },
+    {
+      "num": 294,
+      "title": "Ngọc Cảm Ứng Siêu Cấp (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 295,
+      "title": "Khi thật hóa giả, khi giả hóa thật (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 296,
+      "title": "Vở kịch lớn dần mở màn (Cầu nguyệt phiếu, vạn chữ)"
+    },
+    {
+      "num": 297,
+      "title": "Dị tượng bắt đầu xuất hiện (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 298,
+      "title": "Đằng Không (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 299,
+      "title": "Một mẻ bắt gọn vẫn chưa đủ (Cầu nguyệt phiếu vạn chữ)"
+    },
+    {
+      "num": 300,
+      "title": "Trống Thăng Long vang bốn hồi (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 301,
+      "title": "Lão Chu nói lý lẽ đến cùng (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 302,
+      "title": "Cha ta đã nói… (Vạn chữ, cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 303,
+      "title": "Những ngày đầu ở An Bình (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 304,
+      "title": "Thiên hạ chỉ chú ý đến Đại Hạ (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 305,
+      "title": "Tiếng xấu muôn đời (Cầu nguyệt phiếu, cầu đặt mua chương VIP)"
+    },
+    {
+      "num": 306,
+      "title": "Bao cát trút giận (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 307,
+      "title": "Hồng Đàm xuất quan (cầu nguyệt phiếu, đăng ký)"
+    },
+    {
+      "num": 308,
+      "title": "Thiên tài đều chỉ tùy tiện chơi chơi (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 309,
+      "title": "Hai khiếu âm dương (cầu nguyệt phiếu, đăng ký)"
+    },
+    {
+      "num": 310,
+      "title": "Bí mật trường thọ của Tiên tộc (Cầu đặt mua, phiếu tháng)"
+    },
+    {
+      "num": 311,
+      "title": "Biến động chư thiên (Cầu nguyệt phiếu, vạn chữ)"
+    },
+    {
+      "num": 312,
+      "title": "Khởi đầu của những biến động (cầu nguyệt phiếu và đăng ký)"
+    },
+    {
+      "num": 313,
+      "title": "Bạch Phong trở về (cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 314,
+      "title": "Thiện Hùng (Cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 315,
+      "title": "Bia Chiến Kỹ Thần Văn, truyền thừa cấp ba của chữ Hỏa"
+    },
+    {
+      "num": 316,
+      "title": "Anh tài tụ hội ở Đại Minh (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 317,
+      "title": "Lễ trở về (vạn chữ cầu đăng ký và vé tháng)"
+    },
+    {
+      "num": 318,
+      "title": "Thảm bại (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 319,
+      "title": "Lời nói đâm thấu tim gan (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 320,
+      "title": "Chuyện lớn rồi! (Cầu nguyệt phiếu, bùng nổ vạn chữ!)"
+    },
+    {
+      "num": 321,
+      "title": "Dòng nước ngầm, mưu tính (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 322,
+      "title": "Thợ Đúc Binh Huyền Giai (Cầu đặt mua, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 323,
+      "title": "Trạch nam muốn ra ngoài (Cầu đặt mua và vé tháng cho chương vạn chữ)"
+    },
+    {
+      "num": 324,
+      "title": "Dương Khiếu (Cầu nguyệt phiếu, đăng ký)"
+    },
+    {
+      "num": 325,
+      "title": "Vạn sự đã sẵn sàng, chỉ thiếu gió đông (cầu nguyệt phiếu, đăng ký)"
+    },
+    {
+      "num": 326,
+      "title": "Rời phủ (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 327,
+      "title": "Ám sát (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 328,
+      "title": "Không định nói lý lẽ nữa (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 329,
+      "title": "Vụ án giết người (Cầu đặt mua)"
+    },
+    {
+      "num": 330,
+      "title": "Xong việc phủi áo ra đi (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 331,
+      "title": "Tội nhân (cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 332,
+      "title": "Một góc tương lai (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 333,
+      "title": "Ta muốn đúc binh (cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 334,
+      "title": "Đúc lại văn binh (cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 335,
+      "title": "Thân thể rèn đúc chín lần (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 336,
+      "title": "Phần thưởng của trời đất, trận chiến ba chiếc búa (Cầu đăng ký)"
+    },
+    {
+      "num": 337,
+      "title": "Gieo dưa được dưa, gieo đậu được đậu (Chữ hơi nhiều, ... )"
+    },
+    {
+      "num": 338,
+      "title": "Lọt vào giới đại lão (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 339,
+      "title": "Thẩm vấn (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 340,
+      "title": "Chỉ sợ thiên hạ chưa đủ loạn (Cầu nguyệt phiếu, đặt mua)"
+    },
+    {
+      "num": 341,
+      "title": "Bí ẩn đằng sau cuộc bỏ phiếu (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 342,
+      "title": "Cột chỉ hướng gió (Cầu đăng ký)"
+    },
+    {
+      "num": 343,
+      "title": "Người tài giỏi không thể giấu mãi được (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 344,
+      "title": "Lời nhờ vả của Hạ Hổ Vưu (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 345,
+      "title": "Xin lỗi (Cầu đặt mua và vé tháng)"
+    },
+    {
+      "num": 346,
+      "title": "Đến cả Nhật Nguyệt cũng phải cút (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 347,
+      "title": "Thôi Lãng nổi sóng (vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 348,
+      "title": "Trên đường lên đường (Cầu đăng ký)"
+    },
+    {
+      "num": 349,
+      "title": "Xe đến chân núi ắt có đường (Cầu đặt mua, cầu vé tháng)"
+    },
+    {
+      "num": 350,
+      "title": "Lần đầu tiên rời khỏi Nhân Cảnh (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 351,
+      "title": "Thành Đông Ly"
+    },
+    {
+      "num": 352,
+      "title": "Cha con gặp lại nhau (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 353,
+      "title": "Cha hiền con thảo (vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 354,
+      "title": "Lại chia xa (Cầu đặt mua)"
+    },
+    {
+      "num": 355,
+      "title": "Khởi đầu thuận lợi (Cầu đặt mua)"
+    },
+    {
+      "num": 356,
+      "title": "Sói sa miệng cọp (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 357,
+      "title": "Đội tiên phong (Cầu đăng ký)"
+    },
+    {
+      "num": 358,
+      "title": "Cảnh còn đó, người đã khác (Cầu đặt mua)"
+    },
+    {
+      "num": 359,
+      "title": "Nhỏ nhen (Cầu đăng ký)"
+    },
+    {
+      "num": 360,
+      "title": "Thôi Lãng của Đại Minh Phủ (Cầu đặt mua)"
+    },
+    {
+      "num": 361,
+      "title": "Quần hùng tụ hội tại Thiên Đoạn (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 362,
+      "title": "Kẻ chuyên phá đám (Cầu đăng ký)"
+    },
+    {
+      "num": 363,
+      "title": "Giết Hồng Khải, chấn động bốn phương (Cầu đặt mua)"
+    },
+    {
+      "num": 364,
+      "title": "Đúc thân trước đã (cầu đặt mua)"
+    },
+    {
+      "num": 365,
+      "title": "Ta đang nghĩ đến ngươi (Cầu đăng ký)"
+    },
+    {
+      "num": 366,
+      "title": "Cao Thủ Leo Bảng (Cầu Đặt Mua)"
+    },
+    {
+      "num": 367,
+      "title": "Lên thẳng Địa Bảng (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 368,
+      "title": "Thần văn thăng cấp, sức mạnh Sơn Hải (Cầu đặt mua)"
+    },
+    {
+      "num": 369,
+      "title": "Giết Lôi Tuyệt, tiếp tục chạy (Cầu đăng ký)"
+    },
+    {
+      "num": 370,
+      "title": "Cái tên Tô Vũ (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 371,
+      "title": "Vào Thiên Bảng trước cửa cổ thành (Cầu đăng ký)"
+    },
+    {
+      "num": 372,
+      "title": "Tiện tay giết một tên Sơn Hải chơi chơi (Cầu đăng ký)"
+    },
+    {
+      "num": 373,
+      "title": "Kẻ mạnh trỗi dậy (Chúc mọi người Tết Đoan Ngọ bình an, vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 374,
+      "title": "Kinh hồn trong cổ thành (Cầu đặt mua)"
+    },
+    {
+      "num": 375,
+      "title": "Dấu vết tiên nhân, bóng dáng ma quỷ (Cầu đăng ký)"
+    },
+    {
+      "num": 376,
+      "title": "Mỗi người đều có tính toán riêng (Cầu đặt mua mười nghìn chữ)"
+    },
+    {
+      "num": 377,
+      "title": "Mở màn cuộc tàn sát (Cầu đăng ký)"
+    },
+    {
+      "num": 378,
+      "title": "Kẻ điên (Cầu đăng ký)"
+    },
+    {
+      "num": 379,
+      "title": "Thiên Bảng 11, Tô Vũ! (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 380,
+      "title": "Cuối cùng cũng chặn được hắn (Cầu đặt mua)"
+    },
+    {
+      "num": 381,
+      "title": "Đòn sát thủ của Tô Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 382,
+      "title": "Cách tự cứu mình, trà trộn ra khỏi nhà cổ (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 383,
+      "title": "Chết mà không hiểu vì sao (Cầu đăng ký)"
+    },
+    {
+      "num": 384,
+      "title": "Tô Vũ muốn ngươi canh ba chết (Cầu đăng ký)"
+    },
+    {
+      "num": 385,
+      "title": "Thành chết (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 386,
+      "title": "Cuộc trò chuyện vượt qua thời không (Cầu đăng ký)"
+    },
+    {
+      "num": 387,
+      "title": "Chân mày ngươi hơi nhíu lại (ngày cuối cùng, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 388,
+      "title": "Ta ngộ ra rồi! (Cảm ơn cô em kẹo ngọt)"
+    },
+    {
+      "num": 389,
+      "title": "Cá nằm trong rọ (Đầu tháng cầu vé tháng)"
+    },
+    {
+      "num": 390,
+      "title": "Ra khỏi thành tìm thầy (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 391,
+      "title": "Thần văn đều phải đánh mới chịu phục (Vạn chữ cầu nguyệt phiếu)"
+    },
+    {
+      "num": 392,
+      "title": "Kế hoạch phản săn giết (đầu tháng cầu vé tháng)"
+    },
+    {
+      "num": 393,
+      "title": "Đại Minh Phủ đứng dậy rồi! (Cầu nguyệt phiếu, cầu đặt mua)"
+    },
+    {
+      "num": 394,
+      "title": "Vào thành lần nữa (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 395,
+      "title": "Đại loạn (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 396,
+      "title": "Mối thù này không đội trời chung (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 397,
+      "title": "Nhân tộc không ngày nào được yên (Cầu đặt mua, hôm nay cập nhật mười chương)"
+    },
+    {
+      "num": 398,
+      "title": "Kết thúc biến cố ở cổ thành (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 399,
+      "title": "Thực lực tăng tiến (Cầu đặt mua, vé tháng)"
+    },
+    {
+      "num": 400,
+      "title": "Phong vân nổi lên ở Cửu Tinh (vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 401,
+      "title": "Tiến vào Tinh Thần Hải (Cầu đặt mua)"
+    },
+    {
+      "num": 402,
+      "title": "Đảo Thiên Hà, thành Minh Quang (Cầu đặt mua)"
+    },
+    {
+      "num": 403,
+      "title": "Nghề cũ của ta không phải giết người (cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 404,
+      "title": "Kế hoạch bắt đầu triển khai, người nhà họ Chu tìm đến (cầu đăng ký)"
+    },
+    {
+      "num": 405,
+      "title": "Sống sung túc vô cùng (Cầu đặt mua, nguyệt phiếu)"
+    },
+    {
+      "num": 406,
+      "title": "Nguyên Khí Cửu Biến, Đất Nổi Xuống Nước"
+    },
+    {
+      "num": 407,
+      "title": "Ta nhắm trúng ngươi rồi! (Cầu đăng ký)"
+    },
+    {
+      "num": 408,
+      "title": "Cửu Tinh Thành, ta đến rồi! (Cầu đặt mua)"
+    },
+    {
+      "num": 409,
+      "title": "Câu cá (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 410,
+      "title": "Thi thể của cường giả vô địch thời thượng cổ xuất hiện! (Cầu đặt mua)"
+    },
+    {
+      "num": 411,
+      "title": "Tìm kiếm Phù Thổ Linh (Cầu đặt mua)"
+    },
+    {
+      "num": 412,
+      "title": "Vạn sự đã sẵn sàng, chuẩn bị đấu giá (khôi phục cập nhật)"
+    },
+    {
+      "num": 413,
+      "title": "Nơi trú ẩn (Cầu đăng ký)"
+    },
+    {
+      "num": 414,
+      "title": "Giả đến mức ngươi cũng tưởng là thật (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 415,
+      "title": "Giao dịch kết thúc (cầu đặt mua)"
+    },
+    {
+      "num": 416,
+      "title": "Chấn động bốn phương (Cầu đặt mua, phiếu tháng)"
+    },
+    {
+      "num": 417,
+      "title": "Gặp chuyện đừng hoảng (Cầu đặt mua, vạn chương cập nhật)"
+    },
+    {
+      "num": 418,
+      "title": "Hội tụ vô địch (Cầu đặt mua)"
+    },
+    {
+      "num": 419,
+      "title": "Điên cuồng tăng tiến (cầu đăng ký)"
+    },
+    {
+      "num": 420,
+      "title": "Tô Vũ chết rồi? (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 421,
+      "title": "Khởi đầu của loạn lạc (Cầu đặt mua)"
+    },
+    {
+      "num": 422,
+      "title": "Quá Khứ Thân Và Tương Lai Thân (Cầu Đặt Mua)"
+    },
+    {
+      "num": 423,
+      "title": "Người sống như đã chết cũng là tâm điểm! (Cầu đặt mua chương vạn chữ!)"
+    },
+    {
+      "num": 424,
+      "title": "Trưởng phủ Ngưu đến (cầu đăng ký)\\"
+    },
+    {
+      "num": 425,
+      "title": "Ta vẫn còn cứu được (cầu đặt mua)"
+    },
+    {
+      "num": 426,
+      "title": "Sóng gió ở cổ thành lắng xuống (Cầu đặt mua thêm chương)"
+    },
+    {
+      "num": 427,
+      "title": "Liệp Thiên Các Huyền Cửu (Cầu đăng ký)"
+    },
+    {
+      "num": 428,
+      "title": "Gia nhập Liệp Thiên Các (Cầu đăng ký)"
+    },
+    {
+      "num": 429,
+      "title": "Hắc Ma ngã xuống (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 430,
+      "title": "Cuộc tranh giành chức thành chủ (Cầu đặt mua)"
+    },
+    {
+      "num": 431,
+      "title": "Cưỡng sát Nhật Nguyệt (Mời đăng ký)"
+    },
+    {
+      "num": 432,
+      "title": "Chính thức kế vị (Đăng mười nghìn chữ, mong mọi người đặt mua)"
+    },
+    {
+      "num": 433,
+      "title": "Mưu tính của Đại Hạ, Phù Thổ xuất quan (cầu đăng ký đọc truyện)"
+    },
+    {
+      "num": 434,
+      "title": "Tô Vũ chó cùng rứt giậu (Cầu đặt mua)"
+    },
+    {
+      "num": 435,
+      "title": "Tinh Hoành rất hài lòng! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 436,
+      "title": "Đại Tần Vương (Cầu đăng ký)"
+    },
+    {
+      "num": 437,
+      "title": "Tượng đá ra khỏi thành! (Cầu đặt mua)"
+    },
+    {
+      "num": 438,
+      "title": "Long Tàm ngã xuống, loạn thế nổi lên (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 439,
+      "title": "Ta lại hiểu ra rồi! (Cầu đặt mua)"
+    },
+    {
+      "num": 440,
+      "title": "Ra khỏi thành (Cầu đặt mua)"
+    },
+    {
+      "num": 441,
+      "title": "Truyền tống vào Nhân Cảnh (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 442,
+      "title": "Trở về Nhân Cảnh (Cầu đặt mua)"
+    },
+    {
+      "num": 443,
+      "title": "Tôi sắp nhận đơn đầu tiên rồi (cảm ơn đại lão Hồ Trung Nhật Nguyệt)"
+    },
+    {
+      "num": 444,
+      "title": "Lão Bạch, lâu rồi không gặp! (Cầu đặt mua chương mới!)"
+    },
+    {
+      "num": 445,
+      "title": "Tâm điểm hội tụ (Cầu đặt mua)"
+    },
+    {
+      "num": 446,
+      "title": "Ta sợ lắm! (Cầu đặt mua)"
+    },
+    {
+      "num": 447,
+      "title": "Thầy trò đoàn tụ (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 448,
+      "title": "Hai đường dây (cầu đặt mua)"
+    },
+    {
+      "num": 449,
+      "title": "Trước tiên nổi danh (cầu đăng ký)"
+    },
+    {
+      "num": 450,
+      "title": "Đứng xem náo nhiệt chẳng ngại chuyện lớn (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 451,
+      "title": "Ta có một bí mật lớn (Cầu đặt mua)"
+    },
+    {
+      "num": 452,
+      "title": "Huyền Cửu vang danh (Cầu đặt mua)"
+    },
+    {
+      "num": 453,
+      "title": "Ta có chỗ dựa lớn (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 454,
+      "title": "Mánh khóe nhỏ của lão đại tượng đá (Cầu đăng ký)"
+    },
+    {
+      "num": 455,
+      "title": "Vạn tộc đổ về Nhân Cảnh (Cầu đăng ký)"
+    },
+    {
+      "num": 456,
+      "title": "Tô Vũ nắm quyền (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 457,
+      "title": "Làm giả, ta là dân chuyên nghiệp (cầu đăng ký)"
+    },
+    {
+      "num": 458,
+      "title": "Di tích Nam Nguyên (Cầu đặt mua)"
+    },
+    {
+      "num": 459,
+      "title": "Trời không sinh ta Tô Vũ (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 460,
+      "title": "Huyền Cửu tháo vát (cầu đặt mua)"
+    },
+    {
+      "num": 461,
+      "title": "Văn Mộ Bi (cầu đặt mua)"
+    },
+    {
+      "num": 462,
+      "title": "Gặp mặt trưởng lão (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 463,
+      "title": "Tề tụ Nam Nguyên (Cầu đăng ký)"
+    },
+    {
+      "num": 464,
+      "title": "Đại nhân vật của Vạn Tộc Giáo (Cầu đặt mua)"
+    },
+    {
+      "num": 465,
+      "title": "Nói thật chẳng ai tin (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 466,
+      "title": "Mạng lưới quan hệ của Tô Vũ (Cầu đặt mua)"
+    },
+    {
+      "num": 467,
+      "title": "Nam Vô Cương (Cầu đặt mua)"
+    },
+    {
+      "num": 468,
+      "title": "Làm việc nghĩa khí (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 469,
+      "title": "Kỷ Hồng bị tập kích (Cầu đặt mua)"
+    },
+    {
+      "num": 470,
+      "title": "Trở về (Cầu đặt mua)"
+    },
+    {
+      "num": 471,
+      "title": "Mở màn giết chóc, Nhật Nguyệt chẳng khác nào chó (Mười nghìn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 472,
+      "title": "Kẻ sát nhân khét tiếng (Cầu đăng ký)\\"
+    },
+    {
+      "num": 473,
+      "title": "Gõ đầu? (Cầu đăng ký)"
+    },
+    {
+      "num": 474,
+      "title": "Hoàng Giáp và Hoàng Cửu (Cầu đặt mua chương, vạn chữ)"
+    },
+    {
+      "num": 475,
+      "title": "Xung đột (Xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 476,
+      "title": "Vũ khí sát thương cực lớn của Tô Vũ (Cầu đặt mua)"
+    },
+    {
+      "num": 477,
+      "title": "Uy thế của Huyền Cửu (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 478,
+      "title": "Đại Mao Cầu và Tinh Hoành (Cầu đặt mua)"
+    },
+    {
+      "num": 479,
+      "title": "Chiến tranh bùng nổ (Cầu đặt mua)"
+    },
+    {
+      "num": 480,
+      "title": "Huyền Giáp, Nguyên Thủy (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 481,
+      "title": "Núi cao còn có núi cao hơn (Cầu đặt mua)"
+    },
+    {
+      "num": 482,
+      "title": "Vô địch ngã xuống, kẻ phản bội xuất hiện (Cầu đặt mua)"
+    },
+    {
+      "num": 483,
+      "title": "Trong ngoài chư thiên (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 484,
+      "title": "Bản tôn giáng lâm (cầu đặt mua)"
+    },
+    {
+      "num": 485,
+      "title": "Biển Lửa Tắt, Sao Băng Rơi (Cầu đặt mua)"
+    },
+    {
+      "num": 486,
+      "title": "Thời gian đảo ngược (cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 487,
+      "title": "Lão nhị đáng tin cậy! (Cầu đặt mua!)"
+    },
+    {
+      "num": 488,
+      "title": "Nhân cảnh có thua hay không, còn phải xem Tô Vũ (cầu đăng ký)"
+    },
+    {
+      "num": 489,
+      "title": "Ta, Chu Thiên Đạo, sụp đổ rồi! (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 490,
+      "title": "Vạn Thiên không còn thánh (Cầu đặt mua)"
+    },
+    {
+      "num": 491,
+      "title": "Bắt đầu từ Đại Hạ, kết thúc cũng tại Đại Hạ (Cầu đăng ký)"
+    },
+    {
+      "num": 492,
+      "title": "Đệ nhất mỹ nam (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 493,
+      "title": "Thay đổi huyết mạch (Cầu đăng ký)"
+    },
+    {
+      "num": 494,
+      "title": "Hút, hút, hút (Cầu đăng ký)"
+    },
+    {
+      "num": 495,
+      "title": "Nguy cơ, xem bóng (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 496,
+      "title": "Ăn ngươi (Cầu đặt mua)"
+    },
+    {
+      "num": 497,
+      "title": "Đại chiến kết thúc (Cầu đăng ký)"
+    },
+    {
+      "num": 498,
+      "title": "Chuyện sau đó (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 499,
+      "title": "Liên minh sắp thành (cầu đăng ký)"
+    },
+    {
+      "num": 500,
+      "title": "Tiêu điểm của các phe (Cầu đặt mua)"
+    },
+    {
+      "num": 501,
+      "title": "Người không biết xấu hổ thì thiên hạ vô địch (cầu đăng ký, chương vạn chữ)"
+    },
+    {
+      "num": 502,
+      "title": "Phụ nữ không dễ chọc (Cầu đặt mua)"
+    },
+    {
+      "num": 503,
+      "title": "Làm một công cụ (Cầu đăng ký)"
+    },
+    {
+      "num": 504,
+      "title": "Chuyện xưa thời thượng cổ (Cảm ơn đại lão Bạch... của Thất Kiếm Khai Thiên đã ủng hộ)"
+    },
+    {
+      "num": 505,
+      "title": "Làm người phải có lương tâm (Cầu đăng ký)"
+    },
+    {
+      "num": 506,
+      "title": "Có chuyện thì gọi phụ huynh (Cầu đặt mua)"
+    },
+    {
+      "num": 507,
+      "title": "Liên minh thành lập, Tinh Vũ mở cửa (vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 508,
+      "title": "Cửu Diệp Thiên Liên (Cầu đăng ký)"
+    },
+    {
+      "num": 509,
+      "title": "Bóng tối bao trùm（Cầu đặt mua）"
+    },
+    {
+      "num": 510,
+      "title": "Truyền thừa của Tô Vũ (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 511,
+      "title": "Người cùng đường (cầu đăng ký)"
+    },
+    {
+      "num": 512,
+      "title": "Liễu Thành (Cầu đăng ký)"
+    },
+    {
+      "num": 513,
+      "title": "Tề tụ một nhà (vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 514,
+      "title": "Đường ai nấy đi (cầu đặt mua)"
+    },
+    {
+      "num": 515,
+      "title": "Lời mời (Cầu đặt mua)"
+    },
+    {
+      "num": 516,
+      "title": "Nếu ta làm vua (Cầu đăng ký)\\"
+    },
+    {
+      "num": 517,
+      "title": "Phân chia danh ngạch (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 518,
+      "title": "Một màn kịch hề (Cầu đặt mua)"
+    },
+    {
+      "num": 519,
+      "title": "Nuốt tinh huyết (cầu đặt mua)"
+    },
+    {
+      "num": 520,
+      "title": "Ma tính ngập tràn (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 521,
+      "title": "Kết thúc phân chia danh ngạch (Cầu đăng ký)"
+    },
+    {
+      "num": 522,
+      "title": "Quả Sinh Tử (Cầu đặt mua)"
+    },
+    {
+      "num": 523,
+      "title": "Văn minh (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 524,
+      "title": "Người thu xác (Cầu đặt mua)"
+    },
+    {
+      "num": 525,
+      "title": "Mời rộng người trợ giúp (Cầu đặt mua)"
+    },
+    {
+      "num": 526,
+      "title": "Khởi đầu đúc binh (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 527,
+      "title": "Ngoài thánh trong ma (Cầu đăng ký)"
+    },
+    {
+      "num": 528,
+      "title": "Hòa nhập thần văn (Cầu đăng ký)"
+    },
+    {
+      "num": 529,
+      "title": "Đúc binh thất bại? Trọng thương hấp hối? (Cầu vạn chương)"
+    },
+    {
+      "num": 530,
+      "title": "Chí Văn Minh (Cầu đặt mua chương đầu tiên)"
+    },
+    {
+      "num": 531,
+      "title": "Trong nhà có người già, như có báu vật (Cầu đăng ký chương thứ hai)"
+    },
+    {
+      "num": 532,
+      "title": "Cảm giác nguy cơ (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 533,
+      "title": "Phụ nữ, ngươi không chọc nổi đâu! (Cầu đăng ký!)"
+    },
+    {
+      "num": 534,
+      "title": "Một ngụm máu thơm phức (Cầu đăng ký)"
+    },
+    {
+      "num": 535,
+      "title": "Ai là người, ai là ma cũng đều đang thể hiện bản lĩnh, chỉ có Đạo Vương là chịu trận"
+    },
+    {
+      "num": 536,
+      "title": "Lối vào đặc biệt (Cầu đăng ký)"
+    },
+    {
+      "num": 537,
+      "title": "Phát hiện kinh người của Tô Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 538,
+      "title": "Sức hút của học bá (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 539,
+      "title": "Tầng thứ nhất, Nhân Diện Giới (cầu đăng ký)"
+    },
+    {
+      "num": 540,
+      "title": "Mắt cũng đánh người (cầu đăng ký)"
+    },
+    {
+      "num": 541,
+      "title": "Thần văn hóa thành nhật nguyệt, sách vở thăng cấp Thiên Binh (vạn chữ)"
+    },
+    {
+      "num": 542,
+      "title": "Thu hoạch (cầu đăng ký)"
+    },
+    {
+      "num": 543,
+      "title": "Thái Sơn là ai? (Cầu đăng ký)"
+    },
+    {
+      "num": 544,
+      "title": "Đại biến thái đến rồi! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 545,
+      "title": "Hà Đồ và Đờ Đẫn (Cầu đăng ký)"
+    },
+    {
+      "num": 546,
+      "title": "Đi đến đâu, chết đến đó (Cầu đặt mua)"
+    },
+    {
+      "num": 547,
+      "title": "Hà Đồ tới rồi, chạy mau! (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 548,
+      "title": "Vong linh xâm nhập! (Cầu đăng ký)"
+    },
+    {
+      "num": 549,
+      "title": "Bảng Săn Trời (Cầu đăng ký)"
+    },
+    {
+      "num": 550,
+      "title": "Thu hoạch cực lớn (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 551,
+      "title": "Danh sách thu xác (Cầu đăng ký)"
+    },
+    {
+      "num": 552,
+      "title": "Từng bước tiến lên (Cầu đặt mua)"
+    },
+    {
+      "num": 553,
+      "title": "Pháp Chu Thiên xuất hiện! (Cầu đặt mua 10.000 chương!)"
+    },
+    {
+      "num": 554,
+      "title": "Lăng Vân biến đổi lần thứ nhất (Cầu đăng ký)"
+    },
+    {
+      "num": 555,
+      "title": "Ai nấy đều chẳng khiến người ta yên tâm (Cầu đặt mua)"
+    },
+    {
+      "num": 556,
+      "title": "Đi đến đâu cũng bị người ta nhòm ngó (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 557,
+      "title": "Tử Linh kéo đến (Cầu đặt mua)"
+    },
+    {
+      "num": 558,
+      "title": "Tìm thấy ngươi rồi! (Cầu đặt mua)"
+    },
+    {
+      "num": 559,
+      "title": "Thiên tài và kẻ điên! (Cập nhật vạn chữ, cầu nguyệt phiếu, ...)"
+    },
+    {
+      "num": 560,
+      "title": "Đại chiến! (Đầu tháng cầu vé tháng giữ hạng)"
+    },
+    {
+      "num": 561,
+      "title": "Ma Đa Na kinh hãi! (Cầu đặt mua)"
+    },
+    {
+      "num": 562,
+      "title": "Kẻ tàn nhẫn Tô Vũ (Cầu đặt mua 10.000 chữ)"
+    },
+    {
+      "num": 563,
+      "title": "Hai lần lột xác của Lăng Vân (Cầu đăng ký)"
+    },
+    {
+      "num": 564,
+      "title": "Ta oan ức quá! (Cầu đăng ký, cầu vé tháng)"
+    },
+    {
+      "num": 565,
+      "title": "Ngươi biết, ta biết, Tần Trấn không biết (Cầu đăng ký chương mới, vạn chữ)"
+    },
+    {
+      "num": 566,
+      "title": "Giang hồ đâu đâu cũng là truyền thuyết của ta (Cầu đặt mua)"
+    },
+    {
+      "num": 567,
+      "title": "Mỗi người đều có tính toán riêng (Cầu đặt mua)"
+    },
+    {
+      "num": 568,
+      "title": "Ai ngốc, ai khờ? (Cầu đăng ký, cập nhật mười nghìn chữ)"
+    },
+    {
+      "num": 569,
+      "title": "Thông đạo Tử Linh mở ra (Cầu đặt mua)"
+    },
+    {
+      "num": 570,
+      "title": "Hỗn chiến tại phủ Vương gia (Cầu đặt mua)"
+    },
+    {
+      "num": 571,
+      "title": "Tần Thương! (Cầu đặt mua! Vạn chữ!)"
+    },
+    {
+      "num": 572,
+      "title": "Giết Vô Địch! (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 573,
+      "title": "Thế cục phức tạp (Cầu đặt mua)"
+    },
+    {
+      "num": 574,
+      "title": "Cửu Diệp Thiên Liên nở rồi (Cầu đặt mua chương mới, cập nhật mười nghìn chữ)"
+    },
+    {
+      "num": 575,
+      "title": "Thái Sơn! (Cầu đăng ký!)"
+    },
+    {
+      "num": 576,
+      "title": "Thu xếp hậu sự (Cầu đặt mua)"
+    },
+    {
+      "num": 577,
+      "title": "Quá biến thái nên lại thành bình thường (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 578,
+      "title": "Tầng tám (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 579,
+      "title": "Tìm thấy ngươi rồi! (Cầu đăng ký!)"
+    },
+    {
+      "num": 580,
+      "title": "Huyết Hỏa ngã xuống, triều tịch đổi thay (Cầu đặt mua)"
+    },
+    {
+      "num": 581,
+      "title": "Lăng Vân Cửu Biến (Cầu đăng ký hàng loạt)"
+    },
+    {
+      "num": 582,
+      "title": "Tiến vào Tử Linh Giới (Cầu đăng ký)"
+    },
+    {
+      "num": 583,
+      "title": "Hà Đồ người tốt (Cầu đặt mua)"
+    },
+    {
+      "num": 584,
+      "title": "Ngơ Ngơ! (Cầu đặt mua vạn chương!)"
+    },
+    {
+      "num": 585,
+      "title": "Mở toàn bộ Chu Thiên Thần Khiếu! (Cầu đặt mua)"
+    },
+    {
+      "num": 586,
+      "title": "Trở về! (Cầu đăng ký!)"
+    },
+    {
+      "num": 587,
+      "title": "Tất cả đều phải khiếp sợ! (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 588,
+      "title": "Tướng quân Trấn Linh! (Cầu đặt mua)"
+    },
+    {
+      "num": 589,
+      "title": "Phủ đệ đóng cửa, truyền tống trở về (Cầu đặt mua)"
+    },
+    {
+      "num": 590,
+      "title": "Giết Vô Địch, trấn áp chư thiên! (Cầu nguyệt phiếu, vạn chữ!)"
+    },
+    {
+      "num": 591,
+      "title": "Khai chiến! (Cầu đặt mua)"
+    },
+    {
+      "num": 592,
+      "title": "Tổ hợp vô địch (Cầu đăng ký)"
+    },
+    {
+      "num": 593,
+      "title": "Đại Âm Vương! (Vạn chữ, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 594,
+      "title": "Đừng tới đây, ta gọi người bây giờ! (Cầu đăng ký)"
+    },
+    {
+      "num": 595,
+      "title": "Có gọi người đến cũng vô ích! (Cầu đặt mua)"
+    },
+    {
+      "num": 596,
+      "title": "Trấn áp vạn tộc! (Cầu nguyệt phiếu, vạn chữ!)"
+    },
+    {
+      "num": 597,
+      "title": "Trời vẫn chưa đổi (Cầu đặt mua)"
+    },
+    {
+      "num": 598,
+      "title": "Lần tiếp xúc thân mật đầu tiên với Hạ Thần (Cầu đăng ký)"
+    },
+    {
+      "num": 599,
+      "title": "Thu hoạch đầy túi! (Cầu đặt mua vạn chương!)"
+    },
+    {
+      "num": 600,
+      "title": "Trang mục lục (Cầu đặt mua)"
+    },
+    {
+      "num": 601,
+      "title": "Ai cũng có một bí mật lớn (cầu đăng ký)"
+    },
+    {
+      "num": 602,
+      "title": "Ta lại ngộ ra rồi! (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 603,
+      "title": "Tần Chu bí mật bàn bạc, sóng gió lại nổi lên! (Cầu đặt mua)"
+    },
+    {
+      "num": 604,
+      "title": "Đông người mới vui! (Cầu đặt mua!)"
+    },
+    {
+      "num": 605,
+      "title": "Tộc Mao Cầu (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 606,
+      "title": "Mời rộng khắp bốn phương (Cầu đăng ký)"
+    },
+    {
+      "num": 607,
+      "title": "Trở về Nhân Cảnh (Cầu đăng ký)"
+    },
+    {
+      "num": 608,
+      "title": "Tô Vũ diễn xuất (vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 609,
+      "title": "Nhà nào cũng có chuyện khó nói (Cầu đăng ký)"
+    },
+    {
+      "num": 610,
+      "title": "Đứa cháu của Thiên Mệnh! (Cầu đăng ký)"
+    },
+    {
+      "num": 611,
+      "title": "Tô Vũ phong Thánh! (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 612,
+      "title": "Hậu duệ của Võ Vương? (Cầu đặt mua)"
+    },
+    {
+      "num": 613,
+      "title": "Kẻ cuồng tự đại Tô Vũ! (Cầu đặt mua!)"
+    },
+    {
+      "num": 614,
+      "title": "Trẻ tuổi khí thịnh! (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 615,
+      "title": "Vận may đúng là quá tốt! (Cầu đăng ký)"
+    },
+    {
+      "num": 616,
+      "title": "Ra tay trong cơn giận! (Cầu đặt mua)"
+    },
+    {
+      "num": 617,
+      "title": "Máu lai! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 618,
+      "title": "Đừng cười, nhịn đi! (Cầu đăng ký!)"
+    },
+    {
+      "num": 619,
+      "title": "Sách và bút (Cầu đặt mua)"
+    },
+    {
+      "num": 620,
+      "title": "Ta yêu Phù Thổ (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 621,
+      "title": "Thánh Địa thành lập (Cầu đăng ký đọc)"
+    },
+    {
+      "num": 622,
+      "title": "Thánh Chủ Tô Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 623,
+      "title": "Vũ Hoàng Phủ (cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 624,
+      "title": "Thu hoạch ngoài ý muốn (Cầu đặt mua)"
+    },
+    {
+      "num": 625,
+      "title": "Hôm nay không có chuyện gì! (Cầu đặt mua)"
+    },
+    {
+      "num": 626,
+      "title": "Tô Vũ đăng quang, Thiên Uyên bị tập kích (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 627,
+      "title": "Trận chiến diệt giới! (Cầu đặt mua)"
+    },
+    {
+      "num": 628,
+      "title": "Trời long đất lở (Cầu đăng ký)"
+    },
+    {
+      "num": 629,
+      "title": "Giết chóc không ngừng! (Cầu đăng ký chương!)"
+    },
+    {
+      "num": 630,
+      "title": "Hợp Đạo ngã xuống! (Cầu đặt mua)"
+    },
+    {
+      "num": 631,
+      "title": "Giết sạch bốn phương! (Cầu đặt mua!)"
+    },
+    {
+      "num": 632,
+      "title": "Tính chuyện tương lai (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 633,
+      "title": "Nơi ở cũ của Văn Vương (Cầu đăng ký đọc)"
+    },
+    {
+      "num": 634,
+      "title": "Người, chó, cây, sách, quả cầu (cầu đặt mua)"
+    },
+    {
+      "num": 635,
+      "title": "Song Sơn Hải (Cầu đăng ký hàng vạn)"
+    },
+    {
+      "num": 636,
+      "title": "Giết Hầu (Cầu đặt mua)"
+    },
+    {
+      "num": 637,
+      "title": "Giết một kẻ để bước vào Nhật Nguyệt (Cầu đăng ký)\\"
+    },
+    {
+      "num": 638,
+      "title": "Chó có đường của chó (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 639,
+      "title": "Đại chiến khép lại (Cầu đăng ký)"
+    },
+    {
+      "num": 640,
+      "title": "Giết gà dọa khỉ (Cầu đăng ký)\\"
+    },
+    {
+      "num": 641,
+      "title": "Vui đến quên cả đường về (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 642,
+      "title": "Người họ Chu nhiều thật (Cầu đăng ký)"
+    },
+    {
+      "num": 643,
+      "title": "Ta đang đợi ngươi! (Cầu đăng ký!)"
+    },
+    {
+      "num": 644,
+      "title": "Chuyện cũ (cầu nguyệt phiếu vạn chữ)"
+    },
+    {
+      "num": 645,
+      "title": "Biến cố của tộc Thực Thiết (Cầu đặt mua)"
+    },
+    {
+      "num": 646,
+      "title": "Bá đạo vô song (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 647,
+      "title": "Sinh tử hai giới, ta là tôn (Cầu nguyệt phiếu!)"
+    },
+    {
+      "num": 648,
+      "title": "Tiến vào Tử Linh Giới lần nữa (Cầu đăng ký)"
+    },
+    {
+      "num": 649,
+      "title": "Trận chiến ở Lam Sơn! (Cầu đặt mua)"
+    },
+    {
+      "num": 650,
+      "title": "Lại vào phủ đệ Tinh Vũ (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 651,
+      "title": "Mưu tính cuối cùng hóa thành công cốc, đại chiến với Đông Thiên Vương (cầu đặt mua)"
+    },
+    {
+      "num": 652,
+      "title": "Quyết chiến đến cùng (xin đăng ký)"
+    },
+    {
+      "num": 653,
+      "title": "Ta thắng rồi! (Cầu đăng ký!)"
+    },
+    {
+      "num": 654,
+      "title": "Lần lượt đột phá (Cầu đăng ký)"
+    },
+    {
+      "num": 655,
+      "title": "Tầng tám (Cầu đăng ký)"
+    },
+    {
+      "num": 656,
+      "title": "Mở cửa lấy báu vật (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 657,
+      "title": "Chu Thiên Hợp Nhất Khiếu! (Cầu đặt mua)"
+    },
+    {
+      "num": 658,
+      "title": "Rời khỏi phủ đệ Tinh Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 659,
+      "title": "Biến đổi (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 660,
+      "title": "Thần phục (Cầu đặt mua)"
+    },
+    {
+      "num": 661,
+      "title": "Theo ta, đảm bảo có thịt ăn (cầu đăng ký)"
+    },
+    {
+      "num": 662,
+      "title": "Cùng nhau bước vào Hợp Đạo (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 663,
+      "title": "Tây Vương Phi (Cầu đặt mua)"
+    },
+    {
+      "num": 664,
+      "title": "Sinh tử khai chiến (Mong đặt mua)"
+    },
+    {
+      "num": 665,
+      "title": "Quân vương chỉ động miệng, không động tay (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 666,
+      "title": "Tô Vũ nham hiểm! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 667,
+      "title": "Giáng xuống Ngũ Hành Giới (Cầu đặt mua)"
+    },
+    {
+      "num": 668,
+      "title": "Ngũ hành quy phục (Cầu đăng ký, cập nhật vạn chữ)"
+    },
+    {
+      "num": 669,
+      "title": "Thần văn thứ 99 thành hình! (Cầu đăng ký!)"
+    },
+    {
+      "num": 670,
+      "title": "Hạ Giới (Vạn Chữ Cầu Đặt Mua)"
+    },
+    {
+      "num": 671,
+      "title": "Hợp đạo thành công (cầu đặt mua)"
+    },
+    {
+      "num": 672,
+      "title": "Kế hoạch của Tô Vũ (Cầu đặt mua)"
+    },
+    {
+      "num": 673,
+      "title": "Thay người trấn giữ (Cầu đặt mua, vạn chương cập nhật)"
+    },
+    {
+      "num": 674,
+      "title": "Hồng Mông Quy (Cầu đăng ký)"
+    },
+    {
+      "num": 675,
+      "title": "Thu phục Nam Vương quá dễ dàng (cầu đặt mua)"
+    },
+    {
+      "num": 676,
+      "title": "Kẻ biến thái nhiều biết bao (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 677,
+      "title": "Tỉnh lại, thăng cấp (Cầu đặt mua)"
+    },
+    {
+      "num": 678,
+      "title": "Đánh chính là những kẻ không nghe lời (Cầu đặt mua)"
+    },
+    {
+      "num": 679,
+      "title": "Trận chiến khốc liệt (Cầu đặt mua)"
+    },
+    {
+      "num": 680,
+      "title": "Tất cả đều đang hành động (Cầu đặt mua)"
+    },
+    {
+      "num": 681,
+      "title": "Vẫn là lão Vạn tốt hơn (Cầu đăng ký)"
+    },
+    {
+      "num": 682,
+      "title": "Lão Vạn mở đường (Viết vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 683,
+      "title": "Mệnh Giới (Cầu đặt mua)"
+    },
+    {
+      "num": 684,
+      "title": "Báu vật lớn! (Cầu đặt mua!)"
+    },
+    {
+      "num": 685,
+      "title": "Tấn công Mệnh Giới, Thiên Cổ bật cười (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 686,
+      "title": "Ba vị Cổ Hầu bỏ mạng (cầu đặt mua)"
+    },
+    {
+      "num": 687,
+      "title": "Giết sạch không chừa một mống (Cầu đặt mua)"
+    },
+    {
+      "num": 688,
+      "title": "Vạn giới, ta là độc tôn (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 689,
+      "title": "Tô Vũ hiền hòa (Hôm nay chỉ có một chương thôi)"
+    },
+    {
+      "num": 690,
+      "title": "Vùng Quy Khư (Cầu đăng ký)"
+    },
+    {
+      "num": 691,
+      "title": "Thiên mệnh chi tử xuất hiện (Cầu đăng ký)"
+    },
+    {
+      "num": 692,
+      "title": "Bình định Phượng Giới (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 693,
+      "title": "Bốn giới đã được bình định (Cầu đăng ký ủng hộ)"
+    },
+    {
+      "num": 694,
+      "title": "Tân Vũ đến (cầu đặt mua)"
+    },
+    {
+      "num": 695,
+      "title": "Chuỗi khinh bỉ của giới văn nhân (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 696,
+      "title": "Bốn con đường cùng hội tụ (cầu đặt mua)"
+    },
+    {
+      "num": 697,
+      "title": "Mở ra con đường kinh thiên động địa! (Cầu đăng ký)"
+    },
+    {
+      "num": 698,
+      "title": "Thương Sinh Đạo Khai! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 699,
+      "title": "Người đọc sách đúng là tiến bộ nhanh (Cầu đặt mua)"
+    },
+    {
+      "num": 700,
+      "title": "Muốn lên thượng giới (xin đặt mua)"
+    },
+    {
+      "num": 701,
+      "title": "Tiến vào thượng giới (Vạn chương, cầu đặt mua)"
+    },
+    {
+      "num": 702,
+      "title": "Định Quân Hầu (Cầu đăng ký đọc tiếp)"
+    },
+    {
+      "num": 703,
+      "title": "Khiêm tốn một chút, bớt giết người thôi (cầu đặt mua)"
+    },
+    {
+      "num": 704,
+      "title": "Quan sát trời cao, ngộ đạo (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 705,
+      "title": "Định cư ở Hỗn Độn Sơn (Cầu đặt mua)"
+    },
+    {
+      "num": 706,
+      "title": "Một nhánh của Ngục Vương (Cầu đăng ký đọc)"
+    },
+    {
+      "num": 707,
+      "title": "Làm lại nghề cũ (cầu đăng ký)"
+    },
+    {
+      "num": 708,
+      "title": "Sức mạnh hỗn mang (Cầu đặt mua)"
+    },
+    {
+      "num": 709,
+      "title": "Chuẩn bị chém người (Cầu đăng ký)"
+    },
+    {
+      "num": 710,
+      "title": "Bày binh bố trận, giết cường giả Hợp Đạo (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 711,
+      "title": "Hỗn Độn Nhất Tộc (Cầu đăng ký)"
+    },
+    {
+      "num": 712,
+      "title": "Phản ứng dây chuyền (Hôm nay chỉ có hai chương, nghỉ ngơi một chút)"
+    },
+    {
+      "num": 713,
+      "title": "Thực Thiết tộc ở Thượng giới (Cầu đăng ký)"
+    },
+    {
+      "num": 714,
+      "title": "Điều kiện của Cự Trúc Hầu (Cầu đăng ký)"
+    },
+    {
+      "num": 715,
+      "title": "Anh Vũ Tướng Quân (Cầu đăng ký, vạn chương bùng nổ)"
+    },
+    {
+      "num": 716,
+      "title": "Kết quả không giống nhau (Cầu đăng ký)"
+    },
+    {
+      "num": 717,
+      "title": "Sáu vị cường giả Hợp Đạo cùng sa lưới (Cầu đăng ký đọc truyện)"
+    },
+    {
+      "num": 718,
+      "title": "Đây là địa bàn của ta! (Cầu đặt mua chương mới!)"
+    },
+    {
+      "num": 719,
+      "title": "Nhân Hoàng đúng là kỳ quặc! (Cầu đặt mua)"
+    },
+    {
+      "num": 720,
+      "title": "Những điều mắt thấy tai nghe trong dòng sông Đại Đạo (Cầu đặt mua)"
+    },
+    {
+      "num": 721,
+      "title": "Triệu tập bộ tướng, giết Thiên Vương (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 722,
+      "title": "Đại chiến sắp nổ ra (Cầu đăng ký)"
+    },
+    {
+      "num": 723,
+      "title": "Đột kích, chém giết, bao vây (Cầu đăng ký)"
+    },
+    {
+      "num": 724,
+      "title": "Chơi pháo hoa một chút (Cầu đăng ký, bạo chương vạn chữ)"
+    },
+    {
+      "num": 725,
+      "title": "Trốn thoát (Cầu đăng ký)"
+    },
+    {
+      "num": 726,
+      "title": "Bức tranh Đại Đạo (Cầu đăng ký)"
+    },
+    {
+      "num": 727,
+      "title": "Thu hoạch ở tầng chín (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 728,
+      "title": "Thánh Tộc (Xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 729,
+      "title": "Hàn huyên vài câu với Võ Hoàng (Cầu đăng ký)"
+    },
+    {
+      "num": 730,
+      "title": "Bàn công ban thưởng (cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 731,
+      "title": "Nhân tài đông đúc (Cầu đăng ký)"
+    },
+    {
+      "num": 732,
+      "title": "Một lần nữa lên thượng giới (Cầu đặt mua)"
+    },
+    {
+      "num": 733,
+      "title": "Đạt được thống nhất (Cầu đặt mua, chương vạn chữ)"
+    },
+    {
+      "num": 734,
+      "title": "Chuẩn bị xuất binh (Cầu đăng ký)"
+    },
+    {
+      "num": 735,
+      "title": "Hỗn Độn đối đầu Truyền Hỏa (cầu đăng ký)"
+    },
+    {
+      "num": 736,
+      "title": "Địch tổn thất một nghìn, ta cũng phải trả giá tám trăm (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 737,
+      "title": "Cổ thú không gian (Cầu đăng ký)"
+    },
+    {
+      "num": 738,
+      "title": "Mọi thứ đã sẵn sàng (Cầu đặt mua)"
+    },
+    {
+      "num": 739,
+      "title": "Nhặt được một bộ xương (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 740,
+      "title": "Quả bom tự nổ đầu tiên (Cầu đăng ký)"
+    },
+    {
+      "num": 741,
+      "title": "Cơ hội (Cầu đặt mua)"
+    },
+    {
+      "num": 742,
+      "title": "Hợp tác không tốt sao? (Cầu đặt mua chương mới, vạn chữ)"
+    },
+    {
+      "num": 743,
+      "title": "Thi Ân Cầu Báo (Cầu Đặt Mua)"
+    },
+    {
+      "num": 744,
+      "title": "Nhân tộc xong đời rồi (Cầu đăng ký)"
+    },
+    {
+      "num": 745,
+      "title": "Bàn chuyện ở Nhân Sơn (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 746,
+      "title": "Hợp tác thành công (Cuối tuần chỉ có một chương)"
+    },
+    {
+      "num": 747,
+      "title": "Bàn giao, dò xét (Cầu đăng ký)"
+    },
+    {
+      "num": 748,
+      "title": "Dự tính của Tô Vũ (Cầu đặt mua)"
+    },
+    {
+      "num": 749,
+      "title": "Sự cứng rắn của một mạch truyền lửa! (Cầu đặt mua, vạn chữ!)"
+    },
+    {
+      "num": 750,
+      "title": "Cường giả ngã xuống như mưa (Cầu đặt mua)"
+    },
+    {
+      "num": 751,
+      "title": "Dốc hết tất cả (Cầu đặt mua)"
+    },
+    {
+      "num": 752,
+      "title": "Thế thì đã sao? (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 753,
+      "title": "Rút lui (Cầu đăng ký)"
+    },
+    {
+      "num": 754,
+      "title": "Gặp lại (Cầu đặt mua)"
+    },
+    {
+      "num": 755,
+      "title": "Tâm trạng sụp đổ (vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 756,
+      "title": "Ta muốn tự mở ra một con đường! (Cầu đặt mua!)"
+    },
+    {
+      "num": 757,
+      "title": "Loạn lạc nổi lên ở thượng giới (Cầu đặt mua)"
+    },
+    {
+      "num": 758,
+      "title": "Đạo hữu trên con đường tu đạo (Mong được ủng hộ đăng ký)"
+    },
+    {
+      "num": 759,
+      "title": "Cuộc đại di cư của Nhân Cảnh (Cầu đăng ký)"
+    },
+    {
+      "num": 760,
+      "title": "Di dời, đào hang (cập nhật vạn chữ, mong mọi người đặt mua)"
+    },
+    {
+      "num": 761,
+      "title": "Mở được một cái lỗ thật sướng (Cầu đặt mua)"
+    },
+    {
+      "num": 762,
+      "title": "Rợn tóc gáy (Cầu đăng ký)"
+    },
+    {
+      "num": 763,
+      "title": "Chiến thắng không thể tưởng tượng nổi (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 764,
+      "title": "Mọi thứ đã sẵn sàng (cầu đặt mua)"
+    },
+    {
+      "num": 765,
+      "title": "Ai cũng tự biên tự diễn (Vạn chương, cầu đặt mua)"
+    },
+    {
+      "num": 766,
+      "title": "Khởi đầu mở đạo (Cầu đăng ký)"
+    },
+    {
+      "num": 767,
+      "title": "Phản ứng dây chuyền (cầu đăng ký)"
+    },
+    {
+      "num": 768,
+      "title": "Người đọc sách đúng là khó đối phó (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 769,
+      "title": "Ai cũng đang góp sức (Cầu đăng ký)"
+    },
+    {
+      "num": 770,
+      "title": "Đến giết ta (cầu đăng ký)"
+    },
+    {
+      "num": 771,
+      "title": "Đạo thành (Mười nghìn chương cầu đăng ký)"
+    },
+    {
+      "num": 772,
+      "title": "Trăm trận trở về (Cầu đăng ký)"
+    },
+    {
+      "num": 773,
+      "title": "Cảnh còn người mất (Mong mọi người đăng ký ủng hộ)"
+    },
+    {
+      "num": 774,
+      "title": "Vua không gặp vua (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 775,
+      "title": "Vặt lông dòng sông thời gian (Cầu đặt mua)"
+    },
+    {
+      "num": 776,
+      "title": "Tất cả đều là vì đại nhân (Cầu đăng ký)"
+    },
+    {
+      "num": 777,
+      "title": "Tháng Ba và Cự Phủ (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 778,
+      "title": "Đáng thương thật đấy (Cầu đăng ký)"
+    },
+    {
+      "num": 779,
+      "title": "Bắt đầu hồi sinh, ý chí Tử Linh (Cầu đăng ký)"
+    },
+    {
+      "num": 780,
+      "title": "Dị biến liên tiếp (Vạn chữ, mong mọi người đặt mua)"
+    },
+    {
+      "num": 781,
+      "title": "Nội tình của Tô Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 782,
+      "title": "Người đầu tiên sống lại (Cầu đặt mua)"
+    },
+    {
+      "num": 783,
+      "title": "Võ Hoàng lại chết rồi (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 784,
+      "title": "Tất Cả Đều Sống Lại (Cầu Đặt Mua)"
+    },
+    {
+      "num": 785,
+      "title": "Đỉnh cao chiến lực (Cầu đặt mua)"
+    },
+    {
+      "num": 786,
+      "title": "Đại kế hoạch của Tô Vũ (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 787,
+      "title": "Bắt Giám Thiên Hầu, đại đạo Sinh tiến thêm một bước (Cầu đặt mua)"
+    },
+    {
+      "num": 788,
+      "title": "Huynh muội cuối cùng cũng gặp lại (Mong mọi người đăng ký ủng hộ)"
+    },
+    {
+      "num": 789,
+      "title": "Gặp lại Độc Thư Hổ, thu phục Thiên Mệnh (cầu vạn chương)"
+    },
+    {
+      "num": 790,
+      "title": "Lại lên thượng giới! (Cầu đặt mua)"
+    },
+    {
+      "num": 791,
+      "title": "Biến động tam tộc (Cầu đặt mua)"
+    },
+    {
+      "num": 792,
+      "title": "Sự tỉnh táo giữa cơn điên cuồng (Cầu đặt mua chương mới)"
+    },
+    {
+      "num": 793,
+      "title": "Tước bỏ vương vị (Cầu đặt mua)"
+    },
+    {
+      "num": 794,
+      "title": "Đánh úp bất ngờ (Cầu đăng ký)"
+    },
+    {
+      "num": 795,
+      "title": "Vở kịch lớn mở màn! (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 796,
+      "title": "Xuất chinh (Cầu đăng ký)"
+    },
+    {
+      "num": 797,
+      "title": "Đại chiến bùng nổ! (Cầu đặt mua)"
+    },
+    {
+      "num": 798,
+      "title": "Thế cục thay đổi (cầu đăng ký)"
+    },
+    {
+      "num": 799,
+      "title": "Thiên Tôn ngã xuống (Cầu đặt mua)"
+    },
+    {
+      "num": 800,
+      "title": "Hỗn chiến, chém giết loạn xạ (Cầu đăng ký đọc)"
+    },
+    {
+      "num": 801,
+      "title": "Ngục Thanh phá cửa (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 802,
+      "title": "Biến cố dồn dập (Cầu đặt mua)"
+    },
+    {
+      "num": 803,
+      "title": "Vận may bùng nổ (Cầu đặt mua chương)"
+    },
+    {
+      "num": 804,
+      "title": "Gặp lại Võ Hoàng (xin vé tháng giữ hạng)"
+    },
+    {
+      "num": 805,
+      "title": "Mở phong ấn hai giới (Cầu đăng ký)"
+    },
+    {
+      "num": 806,
+      "title": "Dựa vào người chi bằng dựa vào chính mình (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 807,
+      "title": "Tô Vũ nổi giận (Cầu đặt mua)"
+    },
+    {
+      "num": 808,
+      "title": "Võ Hoàng phá phong ấn (Cầu đăng ký đọc truyện)"
+    },
+    {
+      "num": 809,
+      "title": "Vua gặp vua, thắng áp đảo! (Cầu đăng ký chương mới!)"
+    },
+    {
+      "num": 810,
+      "title": "Tô Vũ lòng dạ đen tối (Cầu đặt mua!)"
+    },
+    {
+      "num": 811,
+      "title": "Xuất chinh! (Cầu đặt mua!)"
+    },
+    {
+      "num": 812,
+      "title": "Trận chiến đấu tướng (Mười nghìn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 813,
+      "title": "Hòa nhập Thời Quang Sách (Cầu đăng ký)"
+    },
+    {
+      "num": 814,
+      "title": "Chơi hỏng rồi (Cầu đăng ký)"
+    },
+    {
+      "num": 815,
+      "title": "Giết người, trước hết phải đánh gục ý chí! (Cầu đăng ký)"
+    },
+    {
+      "num": 816,
+      "title": "Âm mưu (cầu đăng ký)"
+    },
+    {
+      "num": 817,
+      "title": "Tô Vũ đại chiến Bách Chiến (Vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 818,
+      "title": "Thói quen bị người ta gài bẫy (Cầu đặt mua)"
+    },
+    {
+      "num": 819,
+      "title": "Phá bỏ phong ấn, cường giả nắm giữ quy tắc (Cầu đặt mua)"
+    },
+    {
+      "num": 820,
+      "title": "Giết, chạy trốn! (Cầu đặt mua, vạn chương cập nhật)"
+    },
+    {
+      "num": 821,
+      "title": "Không xứng! (Cầu đăng ký!)"
+    },
+    {
+      "num": 822,
+      "title": "Vạn tộc tháo chạy, Bách Chiến bỏ mạng (Cầu đăng ký)"
+    },
+    {
+      "num": 823,
+      "title": "Kẻ điên mới đáng sợ nhất (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 824,
+      "title": "Võ phu! (Cầu đặt mua)"
+    },
+    {
+      "num": 825,
+      "title": "Lời ta nói, ngươi phải tin! (Cầu đặt mua)"
+    },
+    {
+      "num": 826,
+      "title": "Giết vài con cổ thú chơi (Cầu đặt mua 10.000 chữ)"
+    },
+    {
+      "num": 827,
+      "title": "Danh sách (Cầu đăng ký)"
+    },
+    {
+      "num": 828,
+      "title": "Một đám người không cam chịu cô quạnh (cầu đăng ký)"
+    },
+    {
+      "num": 829,
+      "title": "Bất ngờ không? (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 830,
+      "title": "Chuẩn bị（Cầu đặt mua）"
+    },
+    {
+      "num": 831,
+      "title": "Đạo trời luân hồi, chẳng chừa một ai (Cầu đặt mua)"
+    },
+    {
+      "num": 832,
+      "title": "Bí mật của Tam Thân Pháp (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 833,
+      "title": "Ký ức năm sáu tuổi (Cầu đăng ký)"
+    },
+    {
+      "num": 834,
+      "title": "Quá Khứ Thân (Cầu Đặt Mua)"
+    },
+    {
+      "num": 835,
+      "title": "Lần lượt đột phá (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 836,
+      "title": "Binh hùng tướng mạnh, xuất phát! (Cầu đặt mua)"
+    },
+    {
+      "num": 837,
+      "title": "Hắn đến rồi! (Cầu đặt mua)"
+    },
+    {
+      "num": 838,
+      "title": "Áo trắng không dễ chọc đâu! (Cầu đặt mua, vạn chương!)"
+    },
+    {
+      "num": 839,
+      "title": "Tô Vũ gặp Nhân Hoàng (Cầu đăng ký)"
+    },
+    {
+      "num": 840,
+      "title": "Nụ cười giả tạo (Cầu đăng ký)"
+    },
+    {
+      "num": 841,
+      "title": "Mây đen phủ đầu (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 842,
+      "title": "Lựa chọn (Cầu đăng ký)"
+    },
+    {
+      "num": 843,
+      "title": "Sau Thiên Môn (Mong được đăng ký)"
+    },
+    {
+      "num": 844,
+      "title": "Đại chiến bắt đầu (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 845,
+      "title": "Kinh hãi (Cầu đặt mua)"
+    },
+    {
+      "num": 846,
+      "title": "Tàn sát! (Cầu đặt mua)"
+    },
+    {
+      "num": 847,
+      "title": "Thử chút tài mọn (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 848,
+      "title": "Tìm kiếm thiên địa (cầu đặt mua)"
+    },
+    {
+      "num": 849,
+      "title": "Ta lại trở về rồi (Cầu đặt mua)"
+    },
+    {
+      "num": 850,
+      "title": "Người vừa chào đời, ta đã bạc đầu (Vạn chữ cầu đăng ký)"
+    },
+    {
+      "num": 851,
+      "title": "Ác quỷ Tô Vũ (Cầu đặt mua)"
+    },
+    {
+      "num": 852,
+      "title": "Ăn ý (cầu đăng ký)"
+    },
+    {
+      "num": 853,
+      "title": "Thiên địa của Văn Vương (Cầu đăng ký)"
+    },
+    {
+      "num": 854,
+      "title": "Sự tăng tiến đáng sợ (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 855,
+      "title": "Văn Vương cũng cần giữ thể diện (Cầu đăng ký)"
+    },
+    {
+      "num": 856,
+      "title": "Lại có thêm cường giả (cầu đăng ký)"
+    },
+    {
+      "num": 857,
+      "title": "Sống trong ký ức (Cầu đặt mua, vạn chương cập nhật)"
+    },
+    {
+      "num": 858,
+      "title": "Tô Vũ nắm quyền (Cầu đăng ký)"
+    },
+    {
+      "num": 859,
+      "title": "Đại chiến tập thể (Cầu đăng ký)"
+    },
+    {
+      "num": 860,
+      "title": "Trời đang giúp ai? (Cầu đặt mua chương mới!)"
+    },
+    {
+      "num": 861,
+      "title": "Giết Hoàng! (Cầu đăng ký)"
+    },
+    {
+      "num": 862,
+      "title": "Vĩnh viễn không khuất phục! (Cầu đăng ký)"
+    },
+    {
+      "num": 863,
+      "title": "Trở về (Vạn chữ, cầu đăng ký đọc)"
+    },
+    {
+      "num": 864,
+      "title": "Ba cánh cửa (Hôm nay chỉ có một chương, để ta sắp xếp lại tình tiết tiếp theo.) Tô Vũ và Nhân Hoàng sánh vai bước về phía Vạn Giới."
+    },
+    {
+      "num": 865,
+      "title": "Đáng sợ! (Mong mọi người đăng ký!)"
+    },
+    {
+      "num": 866,
+      "title": "Tiếp tục đón tiếp cường giả Thiên Môn (Cầu đăng ký)"
+    },
+    {
+      "num": 867,
+      "title": "Nâng cao thực lực, rời đi (Cầu đặt mua)\\"
+    },
+    {
+      "num": 868,
+      "title": "Bước vào Thiên Môn (Cầu đăng ký)"
+    },
+    {
+      "num": 869,
+      "title": "Quy Vân Sơn (Cầu đăng ký theo dõi)"
+    },
+    {
+      "num": 870,
+      "title": "Kế hoạch bắt đầu rồi (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 871,
+      "title": "Lục Phương Sơn, Đại thống lĩnh (Cầu đặt mua)"
+    },
+    {
+      "num": 872,
+      "title": "Thiên Môn nổi loạn (Cầu đặt mua)"
+    },
+    {
+      "num": 873,
+      "title": "Tiếp tục nghề cũ (Cầu đặt mua, chương dài vạn chữ)"
+    },
+    {
+      "num": 874,
+      "title": "Ta muốn khai thiên! (Cầu đăng ký!)"
+    },
+    {
+      "num": 875,
+      "title": "Lấy thân đúc trời (xin đăng ký)"
+    },
+    {
+      "num": 876,
+      "title": "Ta muốn ăn trọn cả bốn nhà! (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 877,
+      "title": "Giao dịch (Cầu đăng ký)"
+    },
+    {
+      "num": 878,
+      "title": "Quần hùng tụ hội ở Lục Phương (Cầu đặt mua)"
+    },
+    {
+      "num": 879,
+      "title": "Trấn áp bốn phương (cầu đặt mua, chương dài)"
+    },
+    {
+      "num": 880,
+      "title": "Tô Vũ mạnh đến mức nào (Cầu đặt mua)"
+    },
+    {
+      "num": 881,
+      "title": "Cấm Đoạn Hiệp Cốc nổi loạn (Cầu đặt mua)"
+    },
+    {
+      "num": 882,
+      "title": "Trên đời vẫn có nhiều người tốt (Cầu đăng ký, vạn chữ)"
+    },
+    {
+      "num": 883,
+      "title": "Điều binh khiển tướng (Cầu đặt mua)"
+    },
+    {
+      "num": 884,
+      "title": "Bí mật động trời (Cầu đăng ký)"
+    },
+    {
+      "num": 885,
+      "title": "Hành động (Cầu đặt mua, vạn chương cập nhật)"
+    },
+    {
+      "num": 886,
+      "title": "Nguồn gốc của những cánh cửa (cầu đăng ký)"
+    },
+    {
+      "num": 887,
+      "title": "Địa Ngục Vong Linh (Cầu đặt mua)"
+    },
+    {
+      "num": 888,
+      "title": "Văn Vương, Võ Vương, Tô Vũ, Tử Linh Chi Chủ"
+    },
+    {
+      "num": 889,
+      "title": "Bàn đạo (Xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 890,
+      "title": "Mưu tính đại sự (Cầu đăng ký, cập nhật mười chương)"
+    },
+    {
+      "num": 891,
+      "title": "Chiến thắng của hội buôn chuyện (Cầu đăng ký)"
+    },
+    {
+      "num": 892,
+      "title": "Lạc Hồn Cốc (Cầu đăng ký ủng hộ)"
+    },
+    {
+      "num": 893,
+      "title": "Tập kích ám sát (Cầu đặt mua, vạn chương bùng nổ)"
+    },
+    {
+      "num": 894,
+      "title": "Hồn Vực sụp đổ (Cầu đặt mua)"
+    },
+    {
+      "num": 895,
+      "title": "Ngươi chính là niềm tin! (Cầu đăng ký)"
+    },
+    {
+      "num": 896,
+      "title": "Cháu trai của ta, sống lại đi! (Cầu nguyệt phiếu tháng, vạn chữ!)"
+    },
+    {
+      "num": 897,
+      "title": "Cuồng ngạo vô biên (Cầu đăng ký)"
+    },
+    {
+      "num": 898,
+      "title": "Vạn Kiếp Sơn (Cầu đặt mua)"
+    },
+    {
+      "num": 899,
+      "title": "Năm tháng chẳng đợi người (Cầu nguyệt phiếu vạn chương)"
+    },
+    {
+      "num": 900,
+      "title": "Lẻn vào (Cầu đặt mua)"
+    },
+    {
+      "num": 901,
+      "title": "Đi đến đâu cũng ngang ngược (Cầu đặt mua)"
+    },
+    {
+      "num": 902,
+      "title": "Lần đầu gặp mặt Thời Quang Sư (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 903,
+      "title": "Thủ đoạn (xin đăng ký)"
+    },
+    {
+      "num": 904,
+      "title": "Không phải hạng người hiền lành (Cầu đăng ký)"
+    },
+    {
+      "num": 905,
+      "title": "Trận chiến bắt đầu (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 906,
+      "title": "Tam Trọng Thiên (Cầu đăng ký)"
+    },
+    {
+      "num": 907,
+      "title": "Có việc nên làm, có việc không nên làm (cầu đặt mua)"
+    },
+    {
+      "num": 908,
+      "title": "Tất cả đều không rảnh rỗi (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 909,
+      "title": "Thời Quang Sư đại thắng (Cầu đăng ký)"
+    },
+    {
+      "num": 910,
+      "title": "Nhân Môn (Cầu đặt mua)"
+    },
+    {
+      "num": 911,
+      "title": "Sự ăn ý giữa những người đứng đầu (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 912,
+      "title": "Cuộc hội họp của các vùng đất cấm (Cầu đăng ký)"
+    },
+    {
+      "num": 913,
+      "title": "Khung cảnh hỗn loạn (Cầu đăng ký)"
+    },
+    {
+      "num": 914,
+      "title": "Phân hóa (Vạn chương cầu đặt mua)"
+    },
+    {
+      "num": 915,
+      "title": "Còn thiếu một nước (Cầu đăng ký)"
+    },
+    {
+      "num": 916,
+      "title": "Chư Thiên mạnh nhất (Cầu đăng ký)"
+    },
+    {
+      "num": 917,
+      "title": "Trận chiến điên cuồng (cầu đặt mua vạn chữ)"
+    },
+    {
+      "num": 918,
+      "title": "Trở về Vạn Giới (Cầu đăng ký)"
+    },
+    {
+      "num": 919,
+      "title": "Tiêu hóa thu hoạch (Cầu đăng ký)"
+    },
+    {
+      "num": 920,
+      "title": "Nhân Môn (Vạn chương, cầu đăng ký)"
+    },
+    {
+      "num": 921,
+      "title": "Cuối cùng cũng gặp được ngươi (Cầu đăng ký)"
+    },
+    {
+      "num": 922,
+      "title": "Gặp mặt (Cầu đăng ký)"
+    },
+    {
+      "num": 923,
+      "title": "Theo đuổi (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 924,
+      "title": "Bận rộn luôn tay (Cầu đặt mua)"
+    },
+    {
+      "num": 925,
+      "title": "Tiến vào Địa Môn (Cầu đăng ký)"
+    },
+    {
+      "num": 926,
+      "title": "Phản ứng bên trong Địa Môn (vạn chữ, cầu đăng ký)"
+    },
+    {
+      "num": 927,
+      "title": "Kéo người nhập hội (Cầu đăng ký)"
+    },
+    {
+      "num": 928,
+      "title": "Loạn hay không, ta quyết định (Cầu đặt mua chương dài)"
+    },
+    {
+      "num": 929,
+      "title": "Chẳng qua cũng chỉ có vậy! (Cầu đăng ký!)"
+    },
+    {
+      "num": 930,
+      "title": "Giết chết! (Cầu đăng ký)"
+    },
+    {
+      "num": 931,
+      "title": "Chúng ta tin ngươi! (Cầu đặt mua chương vạn chữ)"
+    },
+    {
+      "num": 932,
+      "title": "Giết hai vị Đại Thánh (cầu đặt mua)"
+    },
+    {
+      "num": 933,
+      "title": "Ma tộc! (Mong được ủng hộ!)"
+    },
+    {
+      "num": 934,
+      "title": "Nhân Môn Tắc Thiên (Cầu đặt mua, vạn chữ)"
+    },
+    {
+      "num": 935,
+      "title": "Biến cố kinh thiên! (Cầu đăng ký)"
+    },
+    {
+      "num": 936,
+      "title": "Không nghe lời ta đều là người xấu (Cầu đặt mua)"
+    },
+    {
+      "num": 937,
+      "title": "Kẻ đồ tể Tô Vũ (Cầu đặt mua, vạn chương)"
+    },
+    {
+      "num": 938,
+      "title": "Ta mới là kẻ chiến thắng (Cầu đăng ký)"
+    },
+    {
+      "num": 939,
+      "title": "Chia chác xong xuôi (Cầu đăng ký)"
+    },
+    {
+      "num": 940,
+      "title": "Bí mật của ba tộc (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 941,
+      "title": "Cách giải quyết luôn nhiều hơn khó khăn (Cầu đăng ký)"
+    },
+    {
+      "num": 942,
+      "title": "Tự dâng mình đến cửa (Cầu đăng ký)"
+    },
+    {
+      "num": 943,
+      "title": "Ta sẽ thành toàn cho ngươi! (Vạn chữ cầu đặt mua)"
+    },
+    {
+      "num": 944,
+      "title": "Thiên Cổ ngã xuống! (Cầu đăng ký!)"
+    },
+    {
+      "num": 945,
+      "title": "Cuộc chiến vạn tộc khép lại (Cầu đăng ký)\\"
+    },
+    {
+      "num": 946,
+      "title": "Bên trong Ấn Nhân Hoàng (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 947,
+      "title": "Tân Vũ Chi Hoàng (Cầu đặt mua)"
+    },
+    {
+      "num": 948,
+      "title": "Đi một chuyến đến tương lai (cầu đăng ký)"
+    },
+    {
+      "num": 949,
+      "title": "Đi một vòng lớn, cuối cùng vẫn là các ngươi (Cầu đặt mua vạn chương)"
+    },
+    {
+      "num": 950,
+      "title": "Chuẩn bị sẵn sàng (cầu đăng ký)"
+    },
+    {
+      "num": 951,
+      "title": "Lựa chọn (Chủ nhật chỉ đăng hai chương)"
+    },
+    {
+      "num": 952,
+      "title": "Chém giết Nhân Tổ! (Cầu đăng ký!)"
+    },
+    {
+      "num": 953,
+      "title": "Trận chiến công phá lòng người! (Cầu đặt mua)"
+    },
+    {
+      "num": 954,
+      "title": "Ma cao hơn một trượng (Vạn chương cầu đăng ký)"
+    },
+    {
+      "num": 955,
+      "title": "Ba cánh cửa giáng xuống (Cầu đăng ký)"
+    },
+    {
+      "num": 956,
+      "title": "Thiên địa hợp nhất (Cầu đăng ký)"
+    },
+    {
+      "num": 957,
+      "title": "Đánh không lại thì gia nhập (Vạn chữ, cầu đặt mua)"
+    },
+    {
+      "num": 958,
+      "title": "Càng đau đớn, càng chân thực (Cầu đăng ký)"
+    },
+    {
+      "num": 959,
+      "title": "Nhân Môn Tô Vũ (Cầu đăng ký)"
+    },
+    {
+      "num": 960,
+      "title": "Nhân Hoàng mới là nhân vật chính (mong mọi người đăng ký)"
+    },
+    {
+      "num": 961,
+      "title": "Tắm lửa sống lại (cầu đăng ký)"
+    },
+    {
+      "num": 962,
+      "title": "Muôn Hình Vạn Trạng (Cầu Đăng Ký Cho Mốc Vạn Chương)"
+    },
+    {
+      "num": 963,
+      "title": "Chủ tớ, tù nhân và vị khách không mời (cầu đăng ký)"
+    },
+    {
+      "num": 964,
+      "title": "Không được thiếu một ai (Chỉ còn hai chương nữa thôi)"
+    },
+    {
+      "num": 965,
+      "title": "Không còn Thương Khung Kiếm nữa (Cầu đặt mua)"
+    },
+    {
+      "num": 966,
+      "title": "Ngước nhìn trời sao (Vẫn hai chương như thường lệ, mong được an ủi)"
+    },
+    {
+      "num": 967,
+      "title": "Người hỏi ngày về, ngày về vẫn chưa hẹn (Đại kết cục)"
+    }
+  ],
+  "slug": "van_toc_chi_kiep",
+  "title": "Vạn Tộc Chi Kiếp",
+  "author": "Lão Ưng Ăn Gà Con (老鷹吃小雞)",
+  "synopsis": "Truyện huyền huyễn đô thị cao võ của Lão Ưng Ăn Gà Con (老鷹吃小雞), đã hoàn thành. Tô Vũ sống nương tựa vào cha, một cựu binh đã giải ngũ, và không có hoài bão gì lớn: cậu chỉ muốn thi vào học phủ nghiên cứu để làm một nghiên cứu viên, tránh xa chiến trường. Nhưng thế giới này đang bị vạn tộc dòm ngó, Nhân tộc phải dựa vào các học phủ để đào tạo cường giả, còn đường tu luyện của Tô Vũ — dựa vào thần văn, tinh thần lực và trí óc — lại khác hẳn lối rèn luyện thân thể thường thấy. Từ một thiếu niên bình thường, cậu từng bước vào học phủ, kết giao bằng hữu, đối đầu các chủng tộc khác và cuốn vào cuộc đại kiếp của cả Nhân tộc. Truyện có nhịp nhanh, nhiều tình tiết thông minh và hài hước xen giữa chiến tranh, dài gần một nghìn chương.",
+  "coverColor": "#34495e"
+}
