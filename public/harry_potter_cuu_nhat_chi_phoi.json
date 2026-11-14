@@ -1,0 +1,3234 @@
+{
+  "totalChapters": 806,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Xuyên Không Và Chết Đột Ngột"
+    },
+    {
+      "num": 2,
+      "title": "Merlin"
+    },
+    {
+      "num": 3,
+      "title": "Lời chúc phúc của ma pháp"
+    },
+    {
+      "num": 4,
+      "title": "Rời đi"
+    },
+    {
+      "num": 5,
+      "title": "Độc dược Herys và thư nhập học"
+    },
+    {
+      "num": 6,
+      "title": "Bản chất của ma pháp"
+    },
+    {
+      "num": 7,
+      "title": "Xà Ngữ"
+    },
+    {
+      "num": 8,
+      "title": "Hagrid"
+    },
+    {
+      "num": 9,
+      "title": "Harry Potter – Cậu bé nghèo túng"
+    },
+    {
+      "num": 10,
+      "title": "Quán Cái Vạc Lủng"
+    },
+    {
+      "num": 11,
+      "title": "Hẻm Xéo"
+    },
+    {
+      "num": 12,
+      "title": "Ngân hàng Gringotts"
+    },
+    {
+      "num": 13,
+      "title": "Hầm chứa số 713"
+    },
+    {
+      "num": 14,
+      "title": "Thánh Mungo"
+    },
+    {
+      "num": 15,
+      "title": "Quạ Đen"
+    },
+    {
+      "num": 16,
+      "title": "Đũa phép"
+    },
+    {
+      "num": 17,
+      "title": "Hòn đá Phù thủy"
+    },
+    {
+      "num": 18,
+      "title": "Ga xe lửa King's Cross"
+    },
+    {
+      "num": 19,
+      "title": "Chuyến tàu tốc hành Hogwarts"
+    },
+    {
+      "num": 20,
+      "title": "Giả thuyết về nguyên lý di truyền của tọa độ chiều linh tính ở phù thủy"
+    },
+    {
+      "num": 21,
+      "title": "Peter đáng yêu"
+    },
+    {
+      "num": 22,
+      "title": "Cân bằng dinh dưỡng"
+    },
+    {
+      "num": 23,
+      "title": "Hermione Granger"
+    },
+    {
+      "num": 24,
+      "title": "Malfoy Ngầu"
+    },
+    {
+      "num": 25,
+      "title": "Giáo sư McGonagall"
+    },
+    {
+      "num": 26,
+      "title": "Chiếc Nón Phân Loại"
+    },
+    {
+      "num": 27,
+      "title": "Bữa tiệc"
+    },
+    {
+      "num": 28,
+      "title": "Phòng sinh hoạt chung Gryffindor"
+    },
+    {
+      "num": 29,
+      "title": "Lâu đài"
+    },
+    {
+      "num": 30,
+      "title": "Tiết học Biến hình"
+    },
+    {
+      "num": 31,
+      "title": "Tiết độc dược"
+    },
+    {
+      "num": 32,
+      "title": "Vinh quang thuở trước, nay chỉ còn là mây khói"
+    },
+    {
+      "num": 33,
+      "title": "Thay đổi"
+    },
+    {
+      "num": 34,
+      "title": "Bài tập"
+    },
+    {
+      "num": 35,
+      "title": "Bay lượn"
+    },
+    {
+      "num": 36,
+      "title": "Thành viên trẻ tuổi nhất của đội Quidditch"
+    },
+    {
+      "num": 37,
+      "title": "Lời mời quyết đấu"
+    },
+    {
+      "num": 38,
+      "title": "Sự khác biệt"
+    },
+    {
+      "num": 39,
+      "title": "Hắc ma pháp"
+    },
+    {
+      "num": 40,
+      "title": "Hành lang"
+    },
+    {
+      "num": 41,
+      "title": "Gây chuyện!"
+    },
+    {
+      "num": 42,
+      "title": "Lời nguyền"
+    },
+    {
+      "num": 43,
+      "title": "Bưu kiện"
+    },
+    {
+      "num": 44,
+      "title": "Tiểu Phú Hào"
+    },
+    {
+      "num": 45,
+      "title": "Sự kinh ngạc của Snape"
+    },
+    {
+      "num": 46,
+      "title": "Bậc thầy độc dược"
+    },
+    {
+      "num": 47,
+      "title": "Quang Luân 2000"
+    },
+    {
+      "num": 48,
+      "title": "Mâu thuẫn"
+    },
+    {
+      "num": 49,
+      "title": "Hỗn loạn"
+    },
+    {
+      "num": 50,
+      "title": "Troll"
+    },
+    {
+      "num": 51,
+      "title": "Bạn bè"
+    },
+    {
+      "num": 52,
+      "title": "Nỗi nghi hoặc"
+    },
+    {
+      "num": 53,
+      "title": "Quidditch"
+    },
+    {
+      "num": 54,
+      "title": "Rubeus Hagrid kín miệng như bưng"
+    },
+    {
+      "num": 55,
+      "title": "Giáng Sinh Sắp Đến"
+    },
+    {
+      "num": 56,
+      "title": "Quà Giáng Sinh"
+    },
+    {
+      "num": 57,
+      "title": "Tom Riddle"
+    },
+    {
+      "num": 58,
+      "title": "Hắc ma pháp tiến hóa"
+    },
+    {
+      "num": 59,
+      "title": "Đêm dạo chơi ở Hogwarts"
+    },
+    {
+      "num": 60,
+      "title": "Săn tìm báu vật trong Phòng Cần Thiết"
+    },
+    {
+      "num": 61,
+      "title": "Quê hương nơi phương xa, mãi mãi chẳng thể trở về"
+    },
+    {
+      "num": 62,
+      "title": "Quà Giáng Sinh"
+    },
+    {
+      "num": 63,
+      "title": "Chiếc gương Ảo ảnh Erised"
+    },
+    {
+      "num": 64,
+      "title": "Con chiên non"
+    },
+    {
+      "num": 65,
+      "title": "Bận rộn"
+    },
+    {
+      "num": 66,
+      "title": "Nỗi nhục nhã"
+    },
+    {
+      "num": 67,
+      "title": "Kẻ kế thừa"
+    },
+    {
+      "num": 68,
+      "title": "Cấm túc"
+    },
+    {
+      "num": 69,
+      "title": "Ảo ảnh"
+    },
+    {
+      "num": 70,
+      "title": "Kỳ lân"
+    },
+    {
+      "num": 71,
+      "title": "Nhân Mã"
+    },
+    {
+      "num": 72,
+      "title": "Vua Gánh Tội"
+    },
+    {
+      "num": 73,
+      "title": "Nói Không Kinh Người Thì Không Chịu Thôi"
+    },
+    {
+      "num": 74,
+      "title": "Hành động"
+    },
+    {
+      "num": 75,
+      "title": "Nguy hiểm!"
+    },
+    {
+      "num": 76,
+      "title": "Chiếc gương hai mặt"
+    },
+    {
+      "num": 77,
+      "title": "Thật giả lẫn lộn"
+    },
+    {
+      "num": 78,
+      "title": "Pháp sư chiến đấu"
+    },
+    {
+      "num": 79,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 80,
+      "title": "Chương cuối"
+    },
+    {
+      "num": 81,
+      "title": "Điều chế"
+    },
+    {
+      "num": 82,
+      "title": "Quy luật thần bí"
+    },
+    {
+      "num": 83,
+      "title": "Giun"
+    },
+    {
+      "num": 84,
+      "title": "Lửa Quỷ"
+    },
+    {
+      "num": 85,
+      "title": "Ngọn lửa tinh thần"
+    },
+    {
+      "num": 86,
+      "title": "Thuần Khiết"
+    },
+    {
+      "num": 87,
+      "title": "Dobby"
+    },
+    {
+      "num": 88,
+      "title": "Đổ vấy trách nhiệm"
+    },
+    {
+      "num": 89,
+      "title": "Ma pháp"
+    },
+    {
+      "num": 90,
+      "title": "Bức thư"
+    },
+    {
+      "num": 91,
+      "title": "Dấu Ấn Hắc Ma Vương"
+    },
+    {
+      "num": 92,
+      "title": "Dấu ấn"
+    },
+    {
+      "num": 93,
+      "title": "Cùng đường"
+    },
+    {
+      "num": 94,
+      "title": "Vì đại nghĩa diệt thân, bắt lão ma"
+    },
+    {
+      "num": 95,
+      "title": "“Trung thành tuyệt đối” Lucius"
+    },
+    {
+      "num": 96,
+      "title": "“Của cải”"
+    },
+    {
+      "num": 97,
+      "title": "Nhà Weasley"
+    },
+    {
+      "num": 98,
+      "title": "Chia lìa"
+    },
+    {
+      "num": 99,
+      "title": "EQ.JPG"
+    },
+    {
+      "num": 100,
+      "title": "Sự xâm thực"
+    },
+    {
+      "num": 101,
+      "title": "Đầu óc kinh doanh"
+    },
+    {
+      "num": 102,
+      "title": "Gilderoy Lockhart"
+    },
+    {
+      "num": 103,
+      "title": "Hang Sóc"
+    },
+    {
+      "num": 104,
+      "title": "Trò chuyện thâu đêm"
+    },
+    {
+      "num": 105,
+      "title": "Thoáng nhìn thấy từ xa"
+    },
+    {
+      "num": 106,
+      "title": "Đến tay"
+    },
+    {
+      "num": 107,
+      "title": "Thư Gầm Thét"
+    },
+    {
+      "num": 108,
+      "title": "Lên lớp"
+    },
+    {
+      "num": 109,
+      "title": "Thần tượng"
+    },
+    {
+      "num": 110,
+      "title": "Bậc thầy tiên tri"
+    },
+    {
+      "num": 111,
+      "title": "Lời tiên tri"
+    },
+    {
+      "num": 112,
+      "title": "Mùa cúm"
+    },
+    {
+      "num": 113,
+      "title": "Nghi thức"
+    },
+    {
+      "num": 114,
+      "title": "Lời thì thầm của cảm xúc"
+    },
+    {
+      "num": 115,
+      "title": "Cách sử dụng đúng đắn Gilderoy Lockhart"
+    },
+    {
+      "num": 116,
+      "title": "Chiếc vương miện của Ravenclaw"
+    },
+    {
+      "num": 117,
+      "title": "“Kẻ Ký Sinh”"
+    },
+    {
+      "num": 118,
+      "title": "Tiến vào bên trong Tom Riddle"
+    },
+    {
+      "num": 119,
+      "title": "Thánh Địa"
+    },
+    {
+      "num": 120,
+      "title": "Salazar Slytherin"
+    },
+    {
+      "num": 121,
+      "title": "Chữa trị"
+    },
+    {
+      "num": 122,
+      "title": "Đám ô hợp"
+    },
+    {
+      "num": 123,
+      "title": "Banh Gai"
+    },
+    {
+      "num": 124,
+      "title": "Bàn tay cao su"
+    },
+    {
+      "num": 125,
+      "title": "Draco · Vua Đổ Vỏ · Malfoy"
+    },
+    {
+      "num": 126,
+      "title": "Làm chuyện thất đức"
+    },
+    {
+      "num": 127,
+      "title": "Phương pháp an toàn để triệu hồi Ngoại Thần"
+    },
+    {
+      "num": 128,
+      "title": "Bùa hộ mệnh"
+    },
+    {
+      "num": 129,
+      "title": "Món quà"
+    },
+    {
+      "num": 130,
+      "title": "Muôn vẻ chúng sinh trong yến tiệc"
+    },
+    {
+      "num": 131,
+      "title": "Thăm dò"
+    },
+    {
+      "num": 132,
+      "title": "Tự Do"
+    },
+    {
+      "num": 133,
+      "title": "Gia tinh"
+    },
+    {
+      "num": 134,
+      "title": "Cách mạng"
+    },
+    {
+      "num": 135,
+      "title": "Lời thề"
+    },
+    {
+      "num": 136,
+      "title": "Thu phục lòng người"
+    },
+    {
+      "num": 137,
+      "title": "Trao đổi quà Giáng Sinh"
+    },
+    {
+      "num": 138,
+      "title": "Kỳ nghỉ kết thúc"
+    },
+    {
+      "num": 139,
+      "title": "Lời nguyền Độc đoán"
+    },
+    {
+      "num": 140,
+      "title": "Kẻ nhỏ nhen"
+    },
+    {
+      "num": 141,
+      "title": "Bịa lời tiên tri"
+    },
+    {
+      "num": 142,
+      "title": "Tiera đã đi đâu?"
+    },
+    {
+      "num": 143,
+      "title": "Ve sầu thoát xác"
+    },
+    {
+      "num": 144,
+      "title": "Vụ tấn công"
+    },
+    {
+      "num": 145,
+      "title": "Công tác chuẩn bị"
+    },
+    {
+      "num": 146,
+      "title": "Triệu hồi Yog-Sothoth"
+    },
+    {
+      "num": 147,
+      "title": "Shub Niggurath Giáng Lâm"
+    },
+    {
+      "num": 148,
+      "title": "Kẻ Cuối Cùng Còn Lại"
+    },
+    {
+      "num": 149,
+      "title": "Tổng kết kế hoạch"
+    },
+    {
+      "num": 150,
+      "title": "Màn kết thúc hoành tráng"
+    },
+    {
+      "num": 151,
+      "title": "Thăm dò"
+    },
+    {
+      "num": 152,
+      "title": "Kịch bản tẩy trắng cho Tiera"
+    },
+    {
+      "num": 153,
+      "title": "Bàn về chuyện làm đủ mọi việc xấu xa, nhưng khi trở về vẫn là một thiên thần nhỏ thuần khiết"
+    },
+    {
+      "num": 154,
+      "title": "Trà bánh tẩm Thuốc Nói Thật"
+    },
+    {
+      "num": 155,
+      "title": "Cơ Hội"
+    },
+    {
+      "num": 156,
+      "title": "Đạt được thỏa thuận hợp tác bước đầu"
+    },
+    {
+      "num": 157,
+      "title": "Mượn sách"
+    },
+    {
+      "num": 158,
+      "title": "Vinh quang chung"
+    },
+    {
+      "num": 159,
+      "title": "Chọn môn học"
+    },
+    {
+      "num": 160,
+      "title": "Chương cuối"
+    },
+    {
+      "num": 161,
+      "title": "Báo cáo đề tài"
+    },
+    {
+      "num": 162,
+      "title": "Văn phòng và cô thư ký bên trong văn phòng"
+    },
+    {
+      "num": 163,
+      "title": "Tuyển người"
+    },
+    {
+      "num": 164,
+      "title": "Thành lập nhóm nghiên cứu"
+    },
+    {
+      "num": 165,
+      "title": "Nhật Ký Du Hành Của Merlin"
+    },
+    {
+      "num": 166,
+      "title": "Chính thức bắt đầu đề tài"
+    },
+    {
+      "num": 167,
+      "title": "Nói Ngược Lại"
+    },
+    {
+      "num": 168,
+      "title": "Lời mời đến Azkaban"
+    },
+    {
+      "num": 169,
+      "title": "Bộ Pháp thuật"
+    },
+    {
+      "num": 170,
+      "title": "Phòng Thẩm Vấn"
+    },
+    {
+      "num": 171,
+      "title": "Bước vào giấc mơ"
+    },
+    {
+      "num": 172,
+      "title": "Thăm dò Cảnh Mộng"
+    },
+    {
+      "num": 173,
+      "title": "Vụ án bí ẩn nhà Black"
+    },
+    {
+      "num": 174,
+      "title": "Trời đã sang thu, sao càng sáng"
+    },
+    {
+      "num": 175,
+      "title": "Cuốn album ảnh"
+    },
+    {
+      "num": 176,
+      "title": "Xenophilius Lovegood"
+    },
+    {
+      "num": 177,
+      "title": "Cùng nhau ăn trưa"
+    },
+    {
+      "num": 178,
+      "title": "Tư Bản"
+    },
+    {
+      "num": 179,
+      "title": "Tư Bản Luận"
+    },
+    {
+      "num": 180,
+      "title": "Luna"
+    },
+    {
+      "num": 181,
+      "title": "Lão già đáng ghét này sao lại phiền phức đến thế"
+    },
+    {
+      "num": 182,
+      "title": "Cuốn sách quái dị của những sinh vật quái dị"
+    },
+    {
+      "num": 183,
+      "title": "Vườn Thú Kỳ Diệu"
+    },
+    {
+      "num": 184,
+      "title": "Cuộc sống hạnh phúc của Peter Pettigrew"
+    },
+    {
+      "num": 185,
+      "title": "Lần thứ ba đến Hogwarts"
+    },
+    {
+      "num": 186,
+      "title": "Giáo sư R. J. Lupin"
+    },
+    {
+      "num": 187,
+      "title": "Giám ngục"
+    },
+    {
+      "num": 188,
+      "title": "Hai giáo viên mới"
+    },
+    {
+      "num": 189,
+      "title": "Tiết Bói toán"
+    },
+    {
+      "num": 190,
+      "title": "Lời tiên tri thực sự"
+    },
+    {
+      "num": 191,
+      "title": "Nhà tiên tri"
+    },
+    {
+      "num": 192,
+      "title": "Màn náo loạn trong giờ Độc dược"
+    },
+    {
+      "num": 193,
+      "title": "Snape và Tiera trong văn phòng"
+    },
+    {
+      "num": 194,
+      "title": "Bogart"
+    },
+    {
+      "num": 195,
+      "title": "Đối mặt với nỗi sợ"
+    },
+    {
+      "num": 196,
+      "title": "Phòng thí nghiệm"
+    },
+    {
+      "num": 197,
+      "title": "Mật khẩu"
+    },
+    {
+      "num": 198,
+      "title": "Đặng Bố Lợi Đa và Tiera trong văn phòng"
+    },
+    {
+      "num": 199,
+      "title": "Nhà tiên tri và nhà tiên tri dự báo"
+    },
+    {
+      "num": 200,
+      "title": "Từ chối"
+    },
+    {
+      "num": 201,
+      "title": "Harry có tâm trạng tồi tệ đến cực điểm"
+    },
+    {
+      "num": 202,
+      "title": "Lục soát tháp Gryffindor"
+    },
+    {
+      "num": 203,
+      "title": "Giao kèo"
+    },
+    {
+      "num": 204,
+      "title": "Sirius bật khóc"
+    },
+    {
+      "num": 205,
+      "title": "Xác định mục tiêu"
+    },
+    {
+      "num": 206,
+      "title": "Lập đội"
+    },
+    {
+      "num": 207,
+      "title": "Hang Động Lửa"
+    },
+    {
+      "num": 208,
+      "title": "Cánh Cửa Giấc Ngủ Sâu"
+    },
+    {
+      "num": 209,
+      "title": "Khu rừng mê hoặc"
+    },
+    {
+      "num": 210,
+      "title": "Tổ Cách"
+    },
+    {
+      "num": 211,
+      "title": "Các vị thần trên Trái Đất"
+    },
+    {
+      "num": 212,
+      "title": "Mèo ở Ulthar"
+    },
+    {
+      "num": 213,
+      "title": "“Thiên Đường”"
+    },
+    {
+      "num": 214,
+      "title": "Nguyệt Thú"
+    },
+    {
+      "num": 215,
+      "title": "Thành phố"
+    },
+    {
+      "num": 216,
+      "title": "Đại Tế Tư"
+    },
+    {
+      "num": 217,
+      "title": "Tiera"
+    },
+    {
+      "num": 218,
+      "title": "Người trong gương"
+    },
+    {
+      "num": 219,
+      "title": "Số 12 Quảng trường Grimmauld"
+    },
+    {
+      "num": 220,
+      "title": "Yêu tinh gia tinh mồm độc"
+    },
+    {
+      "num": 221,
+      "title": "Lâu rồi không gặp, Tom"
+    },
+    {
+      "num": 222,
+      "title": "Câu chuyện của Regulus"
+    },
+    {
+      "num": 223,
+      "title": "Giết người phải giết cả lòng người"
+    },
+    {
+      "num": 224,
+      "title": "Những giả thuyết lý thuyết về thí nghiệm hồi sinh"
+    },
+    {
+      "num": 225,
+      "title": "Nỗi băn khoăn của Hermione"
+    },
+    {
+      "num": 226,
+      "title": "Thí nghiệm đi ngược lại bản tính con người"
+    },
+    {
+      "num": 227,
+      "title": "Hermione bận tối mắt tối mũi"
+    },
+    {
+      "num": 228,
+      "title": "Sự truyền đi của sắc đỏ"
+    },
+    {
+      "num": 229,
+      "title": "Ta đã tiên đoán lời tiên đoán của ngươi"
+    },
+    {
+      "num": 230,
+      "title": "Trận đấu cuối cùng"
+    },
+    {
+      "num": 231,
+      "title": "Kỳ thi cuối kỳ"
+    },
+    {
+      "num": 232,
+      "title": "Nước cờ hiểm"
+    },
+    {
+      "num": 233,
+      "title": "Đi nước cờ hiểm"
+    },
+    {
+      "num": 234,
+      "title": "Kẻ Bước Đi Trong Điên Loạn"
+    },
+    {
+      "num": 235,
+      "title": "Thiêu Tế Isaac"
+    },
+    {
+      "num": 236,
+      "title": "Thiên Đường Sụp Đổ"
+    },
+    {
+      "num": 237,
+      "title": "Tranh cãi"
+    },
+    {
+      "num": 238,
+      "title": "Sáng Tạo"
+    },
+    {
+      "num": 239,
+      "title": "Ta bán chính mình"
+    },
+    {
+      "num": 240,
+      "title": "Chương cuối"
+    },
+    {
+      "num": 241,
+      "title": "Đồng hồ quay ngược thời gian"
+    },
+    {
+      "num": 242,
+      "title": "Hành trình"
+    },
+    {
+      "num": 243,
+      "title": "Phục kích"
+    },
+    {
+      "num": 244,
+      "title": "Đích thân Đặng Bố Lợi Đa ra tay"
+    },
+    {
+      "num": 245,
+      "title": "Phép màu của Thái Nhất"
+    },
+    {
+      "num": 246,
+      "title": "Thánh Tử"
+    },
+    {
+      "num": 247,
+      "title": "Hội Tarot"
+    },
+    {
+      "num": 248,
+      "title": "Cuộc đấu giữa hai kẻ diễn sâu lão luyện"
+    },
+    {
+      "num": 249,
+      "title": "Hiện trường đa cấp của Bạch Ma Vương"
+    },
+    {
+      "num": 250,
+      "title": "Chụp ảnh chung"
+    },
+    {
+      "num": 251,
+      "title": "Đồi Montmartre"
+    },
+    {
+      "num": 252,
+      "title": "Ông tổ của ngành hóa học hiện đại phương Tây"
+    },
+    {
+      "num": 253,
+      "title": "Yêu cầu"
+    },
+    {
+      "num": 254,
+      "title": "Đi đến thống nhất"
+    },
+    {
+      "num": 255,
+      "title": "‘Vật chứa’"
+    },
+    {
+      "num": 256,
+      "title": "“Cánh Cửa”"
+    },
+    {
+      "num": 257,
+      "title": "Mắt và tay"
+    },
+    {
+      "num": 258,
+      "title": "Giả thuyết về “Lá chắn Voldemort”"
+    },
+    {
+      "num": 259,
+      "title": "Bức thư của Harry"
+    },
+    {
+      "num": 260,
+      "title": "“Món đồ chơi nhỏ”"
+    },
+    {
+      "num": 261,
+      "title": "Đồ ma thuật của nhà Weasley"
+    },
+    {
+      "num": 262,
+      "title": "“Thích hợp”"
+    },
+    {
+      "num": 263,
+      "title": "Bữa tối"
+    },
+    {
+      "num": 264,
+      "title": "Lên núi"
+    },
+    {
+      "num": 265,
+      "title": "Diggory"
+    },
+    {
+      "num": 266,
+      "title": "Cứu hay không cứu"
+    },
+    {
+      "num": 267,
+      "title": "Kính một mắt"
+    },
+    {
+      "num": 268,
+      "title": "Kẻ trộm niềm vui"
+    },
+    {
+      "num": 269,
+      "title": "Veela và tiền vàng"
+    },
+    {
+      "num": 270,
+      "title": "Đẩy thêm một tay"
+    },
+    {
+      "num": 271,
+      "title": "Trận đấu kết thúc"
+    },
+    {
+      "num": 272,
+      "title": "Tay không bắt sói trắng"
+    },
+    {
+      "num": 273,
+      "title": "Thời khắc săn giết"
+    },
+    {
+      "num": 274,
+      "title": "Adam mẫu và Eva mẫu"
+    },
+    {
+      "num": 275,
+      "title": "Niềm khoái cảm của nỗi sợ"
+    },
+    {
+      "num": 276,
+      "title": "Phòng thí nghiệm"
+    },
+    {
+      "num": 277,
+      "title": "Trải nghiệm phát trực tiếp từ xa"
+    },
+    {
+      "num": 278,
+      "title": "Lễ phục"
+    },
+    {
+      "num": 279,
+      "title": "Tiết lộ trước thời hạn"
+    },
+    {
+      "num": 280,
+      "title": "Bài phù thủy"
+    },
+    {
+      "num": 281,
+      "title": "Chế độ nô lệ"
+    },
+    {
+      "num": 282,
+      "title": "Cuộc tranh tài Tam Cường"
+    },
+    {
+      "num": 283,
+      "title": "Nghiên cứu cải tạo Bọ Cạp Nổ"
+    },
+    {
+      "num": 284,
+      "title": "Thân mật bên tai Hermione"
+    },
+    {
+      "num": 285,
+      "title": "Giáo sư “Moody” dạy Phòng chống Nghệ thuật Hắc ám"
+    },
+    {
+      "num": 286,
+      "title": "Ba lời nguyền không thể tha thứ"
+    },
+    {
+      "num": 287,
+      "title": "Chương 287"
+    },
+    {
+      "num": 288,
+      "title": "Tam Cường Tranh Bá sắp bắt đầu"
+    },
+    {
+      "num": 289,
+      "title": "Beauxbatons xuất hiện"
+    },
+    {
+      "num": 290,
+      "title": "Durmstrang xuất hiện"
+    },
+    {
+      "num": 291,
+      "title": "Bữa tiệc"
+    },
+    {
+      "num": 292,
+      "title": "Chiếc Cốc Lửa"
+    },
+    {
+      "num": 293,
+      "title": "Ngày ghi danh"
+    },
+    {
+      "num": 294,
+      "title": "Lêu lêu, giờ thì ai mới là thằng hề đây?"
+    },
+    {
+      "num": 295,
+      "title": "Những kẻ ngồi đây đều là đồ bỏ đi"
+    },
+    {
+      "num": 296,
+      "title": "Dũng sĩ thứ tư"
+    },
+    {
+      "num": 297,
+      "title": "Khởi động lại cuộc chiến thế kỷ"
+    },
+    {
+      "num": 298,
+      "title": "Mưu đồ đen tối của Bagman"
+    },
+    {
+      "num": 299,
+      "title": "“Khuyên bảo”"
+    },
+    {
+      "num": 300,
+      "title": "Một đêm náo nhiệt"
+    },
+    {
+      "num": 301,
+      "title": "Sự ghen tị khiến Ron tan vỡ"
+    },
+    {
+      "num": 302,
+      "title": "Một buổi sáng nặng nề"
+    },
+    {
+      "num": 303,
+      "title": "Trực giác của Harry"
+    },
+    {
+      "num": 304,
+      "title": "Sự chỉ dạy của Tiera"
+    },
+    {
+      "num": 305,
+      "title": "Quái Ốc Đuôi Nổ Mang Đặc Tính Tử Xà"
+    },
+    {
+      "num": 306,
+      "title": "Bọ cánh cứng săn Harry, quạ rình phía sau"
+    },
+    {
+      "num": 307,
+      "title": "Kiểm tra đũa phép"
+    },
+    {
+      "num": 308,
+      "title": "“Cánh tay trái, cánh tay phải”"
+    },
+    {
+      "num": 309,
+      "title": "Chỉ cần tôi đủ mặn thì chẳng ai có thể coi tôi là công cụ sai vặt"
+    },
+    {
+      "num": 310,
+      "title": "Sinh Mệnh Nhân Tạo"
+    },
+    {
+      "num": 311,
+      "title": "Vô tình trồng liễu, liễu lại thành bóng mát"
+    },
+    {
+      "num": 312,
+      "title": "Thiếu nữ trung nhị"
+    },
+    {
+      "num": 313,
+      "title": "Tiera “tướng mạo bình thường”"
+    },
+    {
+      "num": 314,
+      "title": "Cụ Dumbledore lại xuất hiện lần nữa"
+    },
+    {
+      "num": 315,
+      "title": "Tâm tư bị vạch trần"
+    },
+    {
+      "num": 316,
+      "title": "Bí mật trong nghi thức thành thần"
+    },
+    {
+      "num": 317,
+      "title": "Lừa gạt"
+    },
+    {
+      "num": 318,
+      "title": "Bùa Triệu Hồi"
+    },
+    {
+      "num": 319,
+      "title": "Rồng Berrog"
+    },
+    {
+      "num": 320,
+      "title": "Ngươi — Đừng — Hòng — Qua —"
+    },
+    {
+      "num": 321,
+      "title": "Máu của vua, ắt phải kết thúc bằng kiếm"
+    },
+    {
+      "num": 322,
+      "title": "Dùng phép cấp siêu vị tiễn đi để tỏ lòng kính trọng"
+    },
+    {
+      "num": 323,
+      "title": "Một người viết bài tự giác"
+    },
+    {
+      "num": 324,
+      "title": "Nở hoa lần thứ hai"
+    },
+    {
+      "num": 325,
+      "title": "《Thiên Đường》"
+    },
+    {
+      "num": 326,
+      "title": "Khúc ca Nibelungen"
+    },
+    {
+      "num": 327,
+      "title": "Nhân duyên"
+    },
+    {
+      "num": 328,
+      "title": "Dự án thứ nhất kết thúc"
+    },
+    {
+      "num": 329,
+      "title": "Giác ngộ"
+    },
+    {
+      "num": 330,
+      "title": "“Chuyên gia sinh vật huyền bí”"
+    },
+    {
+      "num": 331,
+      "title": "Lời tiên tri của Trelawney"
+    },
+    {
+      "num": 332,
+      "title": "Buổi vũ hội"
+    },
+    {
+      "num": 333,
+      "title": "Lòng người hiểm độc"
+    },
+    {
+      "num": 334,
+      "title": "Lời mời"
+    },
+    {
+      "num": 335,
+      "title": "“Ghen Tị”"
+    },
+    {
+      "num": 336,
+      "title": "Trước lễ Giáng Sinh"
+    },
+    {
+      "num": 337,
+      "title": "Quà Giáng Sinh"
+    },
+    {
+      "num": 338,
+      "title": "Trước vũ hội"
+    },
+    {
+      "num": 339,
+      "title": "Hermione thay đổi đến mức khó nhận ra"
+    },
+    {
+      "num": 340,
+      "title": "Dạ hội"
+    },
+    {
+      "num": 341,
+      "title": "Khiêu vũ"
+    },
+    {
+      "num": 342,
+      "title": "Ước nguyện của Giáo sư McGonagall"
+    },
+    {
+      "num": 343,
+      "title": "Gellert Grindelwald"
+    },
+    {
+      "num": 344,
+      "title": "Giáng sinh vui vẻ, ngài Grindelwald"
+    },
+    {
+      "num": 345,
+      "title": "Đứng lên đi, Harry!"
+    },
+    {
+      "num": 346,
+      "title": "Trò tinh quái của Dumbledore"
+    },
+    {
+      "num": 347,
+      "title": "Kẻ bị sai khiến"
+    },
+    {
+      "num": 348,
+      "title": "Giờ trà buổi sáng"
+    },
+    {
+      "num": 349,
+      "title": "Moses rẽ biển"
+    },
+    {
+      "num": 350,
+      "title": "Tinh thần thi đấu"
+    },
+    {
+      "num": 351,
+      "title": "Người khôn phải biết mình biết ta"
+    },
+    {
+      "num": 352,
+      "title": "Mọi chuyện đã ngã ngũ"
+    },
+    {
+      "num": 353,
+      "title": "Cùng nhau khám phá đáy Hồ Đen"
+    },
+    {
+      "num": 354,
+      "title": "Đại Cẩu Trở Về"
+    },
+    {
+      "num": 355,
+      "title": "Chính Thức Gia Nhập"
+    },
+    {
+      "num": 356,
+      "title": "Không gian, tri thức và lão cáo già"
+    },
+    {
+      "num": 357,
+      "title": "Suy đoán của Sirius Black"
+    },
+    {
+      "num": 358,
+      "title": "Barty Crouch lạnh lùng"
+    },
+    {
+      "num": 359,
+      "title": "Lá thư nguyền rủa và con giun nguyền rủa"
+    },
+    {
+      "num": 360,
+      "title": "Niffler"
+    },
+    {
+      "num": 361,
+      "title": "“Vật thí nghiệm”"
+    },
+    {
+      "num": 362,
+      "title": "Bận rộn"
+    },
+    {
+      "num": 363,
+      "title": "Kiên quyết không yêu đương với trẻ vị thành niên"
+    },
+    {
+      "num": 364,
+      "title": "Barty Crouch mất tích"
+    },
+    {
+      "num": 365,
+      "title": "Barty Crouch đã chết"
+    },
+    {
+      "num": 366,
+      "title": "Mượn dao giết người"
+    },
+    {
+      "num": 367,
+      "title": "Đêm trước cuộc thi"
+    },
+    {
+      "num": 368,
+      "title": "Quy tắc"
+    },
+    {
+      "num": 369,
+      "title": "Bắt đầu"
+    },
+    {
+      "num": 370,
+      "title": "Quá trình"
+    },
+    {
+      "num": 371,
+      "title": "Chuyện xảy ra"
+    },
+    {
+      "num": 372,
+      "title": "Chất xúc tác"
+    },
+    {
+      "num": 373,
+      "title": "Kết thúc"
+    },
+    {
+      "num": 374,
+      "title": "Cảnh vui càng làm nổi bật nỗi buồn"
+    },
+    {
+      "num": 375,
+      "title": "Lật Bài"
+    },
+    {
+      "num": 376,
+      "title": "Tang lễ"
+    },
+    {
+      "num": 377,
+      "title": "Lên cao"
+    },
+    {
+      "num": 378,
+      "title": "Hỗn Mang"
+    },
+    {
+      "num": 379,
+      "title": "Phục Hàm Hàm thật vui"
+    },
+    {
+      "num": 380,
+      "title": "Niohuru Tiera"
+    },
+    {
+      "num": 381,
+      "title": "Harry phải làm sao đây?"
+    },
+    {
+      "num": 382,
+      "title": "Còn tệ hơn cả tình huống xấu nhất"
+    },
+    {
+      "num": 383,
+      "title": "Quyền năng chồng lấn"
+    },
+    {
+      "num": 384,
+      "title": "Chương cuối"
+    },
+    {
+      "num": 385,
+      "title": "Cơn giận sinh ra từ nỗi đau"
+    },
+    {
+      "num": 386,
+      "title": "Thư từ giữa GGAD"
+    },
+    {
+      "num": 387,
+      "title": "Hành hương đến với chính mình trong lòng"
+    },
+    {
+      "num": 388,
+      "title": "Hắc Ma Vương"
+    },
+    {
+      "num": 389,
+      "title": "Phôi Thai"
+    },
+    {
+      "num": 390,
+      "title": "“Các tiền bối”"
+    },
+    {
+      "num": 391,
+      "title": "Nyarlathotep"
+    },
+    {
+      "num": 392,
+      "title": "Thư mời nhận chức"
+    },
+    {
+      "num": 393,
+      "title": "Lật đổ"
+    },
+    {
+      "num": 394,
+      "title": "Khả năng tư duy logic và suy luận"
+    },
+    {
+      "num": 395,
+      "title": "Giả Trang"
+    },
+    {
+      "num": 396,
+      "title": "Một búa định đoạt"
+    },
+    {
+      "num": 397,
+      "title": "Thế thì tôi đi đây"
+    },
+    {
+      "num": 398,
+      "title": "Dư uy"
+    },
+    {
+      "num": 399,
+      "title": "Sự ra đời của Bạch Ma Vương"
+    },
+    {
+      "num": 400,
+      "title": "Nhẫn nhịn một lúc, càng nhịn càng tức; lùi một bước, càng lùi càng thiệt"
+    },
+    {
+      "num": 401,
+      "title": "Nắm quyền kiểm soát toàn cục"
+    },
+    {
+      "num": 402,
+      "title": "Trang viên nhà Gaunt"
+    },
+    {
+      "num": 403,
+      "title": "Cái bẫy"
+    },
+    {
+      "num": 404,
+      "title": "Bảo quản"
+    },
+    {
+      "num": 405,
+      "title": "Kết quả tệ nhất cũng chỉ là rất nhiều người phải chết mà thôi"
+    },
+    {
+      "num": 406,
+      "title": "Đoạt quyền"
+    },
+    {
+      "num": 407,
+      "title": "Nhận thức chính trị của Hermione"
+    },
+    {
+      "num": 408,
+      "title": "Vinh quang ngày trước đều đã tan thành mây khói"
+    },
+    {
+      "num": 409,
+      "title": "Tiệm Trò Đùa Tiera"
+    },
+    {
+      "num": 410,
+      "title": "Vị Thánh Đồ Thứ Nhất"
+    },
+    {
+      "num": 411,
+      "title": "《Truyện kể của Beedle người hát rong》"
+    },
+    {
+      "num": 412,
+      "title": "Dạ Kỳ"
+    },
+    {
+      "num": 413,
+      "title": "Nghi thức phân nhà kỳ lạ"
+    },
+    {
+      "num": 414,
+      "title": "Vấn đề đạo đức của người nhân bản"
+    },
+    {
+      "num": 415,
+      "title": "Cải cách giáo dục bước đầu hé lộ"
+    },
+    {
+      "num": 416,
+      "title": "Sự tin tưởng"
+    },
+    {
+      "num": 417,
+      "title": "Tiết học Phòng chống Nghệ thuật Hắc ám của Umbridge"
+    },
+    {
+      "num": 418,
+      "title": "Trừng phạt"
+    },
+    {
+      "num": 419,
+      "title": "Đi tảo mộ"
+    },
+    {
+      "num": 420,
+      "title": "“Cô bé Lọ Lem” Hermione"
+    },
+    {
+      "num": 421,
+      "title": "Biến số"
+    },
+    {
+      "num": 422,
+      "title": "Sinh vật huyền bí và nơi tìm ra chúng"
+    },
+    {
+      "num": 423,
+      "title": "Điều ước của Ron"
+    },
+    {
+      "num": 424,
+      "title": "Cộng đồng chung vận mệnh"
+    },
+    {
+      "num": 425,
+      "title": "Răn đe bằng hình phạt nhỏ"
+    },
+    {
+      "num": 426,
+      "title": "Thế nào gọi là cộng đồng chung vận mệnh của toàn thể sinh vật có trí tuệ"
+    },
+    {
+      "num": 427,
+      "title": "Chuyện thường ngày: Cà khịa nước Pháp"
+    },
+    {
+      "num": 428,
+      "title": "Kẻ địch và bạn bè bên trong Bộ Pháp thuật"
+    },
+    {
+      "num": 429,
+      "title": "Thanh tra Hogwarts"
+    },
+    {
+      "num": 430,
+      "title": "Thẻ nhân vật trong trò chơi nhập vai"
+    },
+    {
+      "num": 431,
+      "title": "Thí nghiệm quay ngược thời gian"
+    },
+    {
+      "num": 432,
+      "title": "Cựu Nhật Chi Phối Giả"
+    },
+    {
+      "num": 433,
+      "title": "Thu Thập Quyền Năng"
+    },
+    {
+      "num": 434,
+      "title": "Di sản bên trong Phòng chứa bí mật"
+    },
+    {
+      "num": 435,
+      "title": "Lời tiên tri thứ sáu trở thành hiện thực"
+    },
+    {
+      "num": 436,
+      "title": "Nó ở ngay trong lâu đài"
+    },
+    {
+      "num": 437,
+      "title": "Phân tích của Hermione"
+    },
+    {
+      "num": 438,
+      "title": "Âm mưu của Hermione"
+    },
+    {
+      "num": 439,
+      "title": "Quán Rượu Đầu Heo"
+    },
+    {
+      "num": 440,
+      "title": "Những lời bàn luận gây tranh cãi trong quán rượu"
+    },
+    {
+      "num": 441,
+      "title": "Cuộc gặp bí mật Tarot"
+    },
+    {
+      "num": 442,
+      "title": "Dùng kế nhử địch"
+    },
+    {
+      "num": 443,
+      "title": "Kẻ đứng sau giật dây"
+    },
+    {
+      "num": 444,
+      "title": "Phòng Cần Thiết"
+    },
+    {
+      "num": 445,
+      "title": "Lâu rồi không gặp, Harry"
+    },
+    {
+      "num": 446,
+      "title": "Tiera – Cỗ Máy Ngục Hỏa"
+    },
+    {
+      "num": 447,
+      "title": "Sắp xếp lịch học"
+    },
+    {
+      "num": 448,
+      "title": "Giảng bài"
+    },
+    {
+      "num": 449,
+      "title": "Sắc lệnh Giáo dục số 25"
+    },
+    {
+      "num": 450,
+      "title": "Nguồn gốc của quyền lực"
+    },
+    {
+      "num": 451,
+      "title": "Hagrid đã trở về"
+    },
+    {
+      "num": 452,
+      "title": "Hải Ất Kỷ"
+    },
+    {
+      "num": 453,
+      "title": "Lai tạo quần thể"
+    },
+    {
+      "num": 454,
+      "title": "Weasley bị tấn công"
+    },
+    {
+      "num": 455,
+      "title": "Dần dần bại lộ"
+    },
+    {
+      "num": 456,
+      "title": "Cuộc họp Hội đồng Thư viện Vàng"
+    },
+    {
+      "num": 457,
+      "title": "Thành lập tổ nghiên cứu nghi thức thành thần"
+    },
+    {
+      "num": 458,
+      "title": "Món quà Giáng sinh của Tiera"
+    },
+    {
+      "num": 459,
+      "title": "Cha mẹ của Neville"
+    },
+    {
+      "num": 460,
+      "title": "Toán học"
+    },
+    {
+      "num": 461,
+      "title": "Độc Lập"
+    },
+    {
+      "num": 462,
+      "title": "Độc thân"
+    },
+    {
+      "num": 463,
+      "title": "Khuyên người khác rộng lượng, trời đánh sét bổ"
+    },
+    {
+      "num": 464,
+      "title": "Chia rẽ"
+    },
+    {
+      "num": 465,
+      "title": "Đội trưởng Đội Thanh tra Kỷ luật (2 chương gộp làm 1)"
+    },
+    {
+      "num": 466,
+      "title": "Mật báo"
+    },
+    {
+      "num": 467,
+      "title": "Nhận lấy cái nồi"
+    },
+    {
+      "num": 468,
+      "title": "Trổ tài"
+    },
+    {
+      "num": 469,
+      "title": "Lời hay khó khuyên kẻ muốn chết"
+    },
+    {
+      "num": 470,
+      "title": "Giao dịch linh hồn"
+    },
+    {
+      "num": 471,
+      "title": "Sương Mù Đau Đớn"
+    },
+    {
+      "num": 472,
+      "title": "Klopp"
+    },
+    {
+      "num": 473,
+      "title": "Tháng Sáu đến"
+    },
+    {
+      "num": 474,
+      "title": "Sự thay đổi của Marietta"
+    },
+    {
+      "num": 475,
+      "title": "Ác Mộng"
+    },
+    {
+      "num": 476,
+      "title": "Cư Dân Cao Nguyên Lạnh"
+    },
+    {
+      "num": 477,
+      "title": "Tìm kiếm chư thần"
+    },
+    {
+      "num": 478,
+      "title": "Vách Đá Bên Bờ Biển"
+    },
+    {
+      "num": 479,
+      "title": "Linh hồn của thần"
+    },
+    {
+      "num": 480,
+      "title": "Sáng Thế Ký"
+    },
+    {
+      "num": 481,
+      "title": "Đấng Toàn Năng"
+    },
+    {
+      "num": 482,
+      "title": "Ác quỷ (Gộp 2 chương)"
+    },
+    {
+      "num": 483,
+      "title": "Nhiệm vụ cuối khóa"
+    },
+    {
+      "num": 484,
+      "title": "Harry, mau chạy đi!"
+    },
+    {
+      "num": 485,
+      "title": "Voldemort"
+    },
+    {
+      "num": 486,
+      "title": "Hội nghị Kim Sắc Đồ Thư đối đầu với Voldemort"
+    },
+    {
+      "num": 487,
+      "title": "Thú Bị Dồn Đến Đường Cùng"
+    },
+    {
+      "num": 488,
+      "title": "Ta muốn ngươi, ta muốn thân xác của ngươi"
+    },
+    {
+      "num": 489,
+      "title": "“Lucius” hiến kế"
+    },
+    {
+      "num": 490,
+      "title": "Sự ra đời mới"
+    },
+    {
+      "num": 491,
+      "title": "Con Rối"
+    },
+    {
+      "num": 492,
+      "title": "Umbridge đã đi đâu"
+    },
+    {
+      "num": 493,
+      "title": "Cải cách"
+    },
+    {
+      "num": 494,
+      "title": "Chương cuối"
+    },
+    {
+      "num": 495,
+      "title": "Đồn trú"
+    },
+    {
+      "num": 496,
+      "title": "Tập trung quyền lực"
+    },
+    {
+      "num": 497,
+      "title": "Giao diện Linh Giới Chủ Đạo"
+    },
+    {
+      "num": 498,
+      "title": "Những ân huệ nhỏ bé (Chương dài 4.000 chữ)"
+    },
+    {
+      "num": 499,
+      "title": "Điệu hổ ly sơn"
+    },
+    {
+      "num": 500,
+      "title": "Lễ nhậm chức (Chương dài 4.000 chữ)"
+    },
+    {
+      "num": 501,
+      "title": "Tình yêu"
+    },
+    {
+      "num": 502,
+      "title": "Kế hoạch thành lập Đại học Pháp thuật"
+    },
+    {
+      "num": 503,
+      "title": "Giáo sư Slughorn muốn giành lấy tấm thẻ giới hạn toàn máy chủ"
+    },
+    {
+      "num": 504,
+      "title": "Slughorn bị người ta bán đứng mà vẫn hí hửng đếm tiền"
+    },
+    {
+      "num": 505,
+      "title": "Bathilda Bagshot"
+    },
+    {
+      "num": 506,
+      "title": "Màn hay sắp bắt đầu"
+    },
+    {
+      "num": 507,
+      "title": "Bánh xe lịch sử"
+    },
+    {
+      "num": 508,
+      "title": "Phản loạn"
+    },
+    {
+      "num": 509,
+      "title": "Tôn trọng"
+    },
+    {
+      "num": 510,
+      "title": "Ân Điển"
+    },
+    {
+      "num": 511,
+      "title": "Bí mật"
+    },
+    {
+      "num": 512,
+      "title": "Giết người, còn phải đánh gục cả lòng người"
+    },
+    {
+      "num": 513,
+      "title": "“Đứa Con Được Chọn”"
+    },
+    {
+      "num": 514,
+      "title": "Đáng tin cậy"
+    },
+    {
+      "num": 515,
+      "title": "Lời tiên tri về việc thành thần"
+    },
+    {
+      "num": 516,
+      "title": "Sức mạnh đoàn kết"
+    },
+    {
+      "num": 517,
+      "title": "Bầu không khí im lặng"
+    },
+    {
+      "num": 518,
+      "title": "Bất đồng"
+    },
+    {
+      "num": 519,
+      "title": "Chương 532"
+    },
+    {
+      "num": 520,
+      "title": "Hướng dẫn dự thi Kỳ thi Tuyển sinh Phổ thông của Đại học Pháp thuật"
+    },
+    {
+      "num": 521,
+      "title": "Sự phản đối của Sirius"
+    },
+    {
+      "num": 522,
+      "title": "Suy đoán của Sirius Black"
+    },
+    {
+      "num": 523,
+      "title": "Đồng vàng của Gringotts"
+    },
+    {
+      "num": 524,
+      "title": "Quân đội Pháp thuật Liên minh"
+    },
+    {
+      "num": 525,
+      "title": "Luật Lao Động Mới"
+    },
+    {
+      "num": 526,
+      "title": "Lời khuyên của Dumbledore"
+    },
+    {
+      "num": 527,
+      "title": "Lạm phát"
+    },
+    {
+      "num": 528,
+      "title": "Lễ đăng quang"
+    },
+    {
+      "num": 529,
+      "title": "Thư nhập học"
+    },
+    {
+      "num": 530,
+      "title": "Hẻm Xéo mới"
+    },
+    {
+      "num": 531,
+      "title": "Cảm ơn Tiera"
+    },
+    {
+      "num": 532,
+      "title": "“Quý tộc” sa cơ"
+    },
+    {
+      "num": 533,
+      "title": "Mua sắm"
+    },
+    {
+      "num": 534,
+      "title": "Cửa hàng Trò đùa nhà Weasley"
+    },
+    {
+      "num": 535,
+      "title": "Gặp lại Tiera"
+    },
+    {
+      "num": 536,
+      "title": "Kết cục tốt đẹp nhất"
+    },
+    {
+      "num": 537,
+      "title": "Sự yên bình trước cơn bão"
+    },
+    {
+      "num": 538,
+      "title": "Đêm nay trăng đẹp, ngẩng đầu lên mà ngắm"
+    },
+    {
+      "num": 539,
+      "title": "Vị Lãnh Tụ Vĩ Đại"
+    },
+    {
+      "num": 540,
+      "title": "Vực Thẳm"
+    },
+    {
+      "num": 541,
+      "title": "Sự diệt vong của một chủng tộc"
+    },
+    {
+      "num": 542,
+      "title": "Một phép màu"
+    },
+    {
+      "num": 543,
+      "title": "Thai nghén"
+    },
+    {
+      "num": 544,
+      "title": "Chương 559"
+    },
+    {
+      "num": 545,
+      "title": "Trò chuyện"
+    },
+    {
+      "num": 546,
+      "title": "Đêm tàn, trời sáng"
+    },
+    {
+      "num": 547,
+      "title": "Hiệp ước bất bình đẳng"
+    },
+    {
+      "num": 548,
+      "title": "Đàm phán đổ vỡ"
+    },
+    {
+      "num": 549,
+      "title": "Trận chiến ác liệt"
+    },
+    {
+      "num": 550,
+      "title": "Hiệp ước bất bình đẳng"
+    },
+    {
+      "num": 551,
+      "title": "Đàm phán đổ vỡ"
+    },
+    {
+      "num": 552,
+      "title": "Trận chiến dữ dội"
+    },
+    {
+      "num": 553,
+      "title": "Phong ấn"
+    },
+    {
+      "num": 554,
+      "title": "Kẻ đê tiện Igor Karkarov"
+    },
+    {
+      "num": 555,
+      "title": "Che đậy"
+    },
+    {
+      "num": 556,
+      "title": "Lời từ biệt"
+    },
+    {
+      "num": 557,
+      "title": "Giáo sư Tiera"
+    },
+    {
+      "num": 558,
+      "title": "Lại gặp nhà Malfoy (Chương dài 3.000 chữ)"
+    },
+    {
+      "num": 559,
+      "title": "Nỗi muộn phiền của Hermione Granger"
+    },
+    {
+      "num": 560,
+      "title": "Rồng Cái"
+    },
+    {
+      "num": 561,
+      "title": "Sự lải nhải của Dumbledore"
+    },
+    {
+      "num": 562,
+      "title": "Chương 574"
+    },
+    {
+      "num": 563,
+      "title": "Chọn môn học"
+    },
+    {
+      "num": 564,
+      "title": "Bài kiểm tra đầu giờ môn Phòng chống Nghệ thuật Hắc ám"
+    },
+    {
+      "num": 565,
+      "title": "Tâm thế"
+    },
+    {
+      "num": 566,
+      "title": "Tiết độc dược đầu tiên của năm thứ sáu"
+    },
+    {
+      "num": 567,
+      "title": "Chiếc neo đau đớn"
+    },
+    {
+      "num": 568,
+      "title": "Nguyên lý hoạt động của Độc dược May Mắn"
+    },
+    {
+      "num": 569,
+      "title": "Ứng dụng của Độc dược May Mắn"
+    },
+    {
+      "num": 570,
+      "title": "Chương 582: Chế thuốc"
+    },
+    {
+      "num": 571,
+      "title": "Thỉnh giáo"
+    },
+    {
+      "num": 572,
+      "title": "Tái hiện kinh điển"
+    },
+    {
+      "num": 573,
+      "title": "Hoàng tử Lai"
+    },
+    {
+      "num": 574,
+      "title": "Bận rộn"
+    },
+    {
+      "num": 575,
+      "title": "Vụ tấn công"
+    },
+    {
+      "num": 576,
+      "title": "Tuyển chọn đội Quidditch"
+    },
+    {
+      "num": 577,
+      "title": "Mâu thuẫn"
+    },
+    {
+      "num": 578,
+      "title": "Aragog"
+    },
+    {
+      "num": 579,
+      "title": "Hải Cách miệng rộng"
+    },
+    {
+      "num": 580,
+      "title": "Hermione đắc chí"
+    },
+    {
+      "num": 581,
+      "title": "Snape"
+    },
+    {
+      "num": 582,
+      "title": "Biến đổi"
+    },
+    {
+      "num": 583,
+      "title": "Trường Sinh Linh Giá"
+    },
+    {
+      "num": 584,
+      "title": "Cân Bằng"
+    },
+    {
+      "num": 585,
+      "title": "Bế quan não bộ"
+    },
+    {
+      "num": 586,
+      "title": "Kẻ trộm"
+    },
+    {
+      "num": 587,
+      "title": "Chuyện chỉ có Voldemort là người chịu thiệt"
+    },
+    {
+      "num": 588,
+      "title": "Suy nghĩ của Harry"
+    },
+    {
+      "num": 589,
+      "title": "Khủng hoảng kinh tế"
+    },
+    {
+      "num": 590,
+      "title": "Chính phủ tay sai"
+    },
+    {
+      "num": 591,
+      "title": "Mời khách, chém đầu, thu phục làm chó"
+    },
+    {
+      "num": 592,
+      "title": "Lòng tốt"
+    },
+    {
+      "num": 593,
+      "title": "Thuận theo thời thế"
+    },
+    {
+      "num": 594,
+      "title": "Vĩnh viễn"
+    },
+    {
+      "num": 595,
+      "title": "Có cầu tất ứng"
+    },
+    {
+      "num": 596,
+      "title": "Công dụng thực sự của Phòng Cần Thiết"
+    },
+    {
+      "num": 597,
+      "title": "Chiều kích thần tính"
+    },
+    {
+      "num": 598,
+      "title": "Bạo lực"
+    },
+    {
+      "num": 599,
+      "title": "Hòn đá Phù thủy"
+    },
+    {
+      "num": 600,
+      "title": "Sirius ghé thăm"
+    },
+    {
+      "num": 601,
+      "title": "Ông chủ chỉ thích phủi tay"
+    },
+    {
+      "num": 602,
+      "title": "Dã tâm của Dumbledore"
+    },
+    {
+      "num": 603,
+      "title": "Gánh nặng của Dumbledore"
+    },
+    {
+      "num": 604,
+      "title": "Chỉ còn một bước là giao đấu"
+    },
+    {
+      "num": 605,
+      "title": "Tham vọng của Dumbledore"
+    },
+    {
+      "num": 606,
+      "title": "Gánh nặng của Dumbledore"
+    },
+    {
+      "num": 607,
+      "title": "Chỉ chực bùng nổ"
+    },
+    {
+      "num": 608,
+      "title": "Ta là Tiera"
+    },
+    {
+      "num": 609,
+      "title": "Buổi phụ đạo và Tiera (gộp 2 chương)"
+    },
+    {
+      "num": 610,
+      "title": "Bài viết đứng tên tác giả"
+    },
+    {
+      "num": 611,
+      "title": "Làm thế nào để khuyên bảo một đứa trẻ mới lớn bướng bỉnh"
+    },
+    {
+      "num": 612,
+      "title": "Bảo tàng Hắc ma thuật Borgin và Burkes"
+    },
+    {
+      "num": 613,
+      "title": "Khả Năng Tiên Tri Đáng Kinh Ngạc Của Ron"
+    },
+    {
+      "num": 614,
+      "title": "Chậu Tưởng Ký"
+    },
+    {
+      "num": 615,
+      "title": "Chúa tể Hắc ám thuở nhỏ"
+    },
+    {
+      "num": 616,
+      "title": "Cuộc tranh cãi trong giờ Thảo dược học"
+    },
+    {
+      "num": 617,
+      "title": "Sự diệt vong của nhân tính"
+    },
+    {
+      "num": 618,
+      "title": "Nỗi phiền muộn của Harry Potter"
+    },
+    {
+      "num": 619,
+      "title": "Sự thay đổi của Hermione"
+    },
+    {
+      "num": 620,
+      "title": "Dã tâm của Voldemort"
+    },
+    {
+      "num": 621,
+      "title": "Suy đoán của Voldemort"
+    },
+    {
+      "num": 622,
+      "title": "Lời mời của Harry"
+    },
+    {
+      "num": 623,
+      "title": "Vũ hội Giáng Sinh"
+    },
+    {
+      "num": 624,
+      "title": "Ám Thị"
+    },
+    {
+      "num": 625,
+      "title": "Chương 640"
+    },
+    {
+      "num": 626,
+      "title": "Lật tung bàn cờ"
+    },
+    {
+      "num": 627,
+      "title": "Đài truyền hình"
+    },
+    {
+      "num": 628,
+      "title": "Chuẩn bị"
+    },
+    {
+      "num": 629,
+      "title": "Cánh đồng băng giá"
+    },
+    {
+      "num": 630,
+      "title": "Lại Thấy Một Giấc Mộng U Sầu"
+    },
+    {
+      "num": 631,
+      "title": "Địa lý và tài nguyên Dreamlands: chi tiết và khám phá"
+    },
+    {
+      "num": 632,
+      "title": "Phổ cập kiến thức"
+    },
+    {
+      "num": 633,
+      "title": "Tốc độ trôi của thời gian"
+    },
+    {
+      "num": 634,
+      "title": "Ăn nói không kiêng nể"
+    },
+    {
+      "num": 635,
+      "title": "Lovely"
+    },
+    {
+      "num": 636,
+      "title": "Thành kiến của bà Weasley"
+    },
+    {
+      "num": 637,
+      "title": "Hơi ấm cuộc sống"
+    },
+    {
+      "num": 638,
+      "title": "Món ngon Giáng Sinh của Voldemort"
+    },
+    {
+      "num": 639,
+      "title": "Đội Mạo Hiểm Giả"
+    },
+    {
+      "num": 640,
+      "title": "Các vị thần trong cõi mộng"
+    },
+    {
+      "num": 641,
+      "title": "Kadath"
+    },
+    {
+      "num": 642,
+      "title": "Trở lại trường học"
+    },
+    {
+      "num": 643,
+      "title": "Đăng ký học Thuấn Di"
+    },
+    {
+      "num": 644,
+      "title": "Luận văn"
+    },
+    {
+      "num": 645,
+      "title": "Giải mã giấc mơ"
+    },
+    {
+      "num": 646,
+      "title": "Lớp học tâm lý học"
+    },
+    {
+      "num": 647,
+      "title": "Cơn giận của Snape"
+    },
+    {
+      "num": 648,
+      "title": "Biển sao bao la"
+    },
+    {
+      "num": 649,
+      "title": "Chương 664"
+    },
+    {
+      "num": 650,
+      "title": "Thuốc Giải"
+    },
+    {
+      "num": 651,
+      "title": "Ngoại truyện 666 – Địa Ngục"
+    },
+    {
+      "num": 652,
+      "title": "Tự lập, tự cường"
+    },
+    {
+      "num": 653,
+      "title": "Tiết học Biến hình tức thời"
+    },
+    {
+      "num": 654,
+      "title": "Món quà sinh nhật của Ron"
+    },
+    {
+      "num": 655,
+      "title": "Độc dược tình yêu"
+    },
+    {
+      "num": 656,
+      "title": "“Chia tay”"
+    },
+    {
+      "num": 657,
+      "title": "Ứng cử viên Chủ tịch Liên đoàn Pháp thuật Quốc tế"
+    },
+    {
+      "num": 658,
+      "title": "Người xuất hiện trong ký ức của Snape"
+    },
+    {
+      "num": 659,
+      "title": "Bạo lực học đường"
+    },
+    {
+      "num": 660,
+      "title": "Nỗi nhục nhã"
+    },
+    {
+      "num": 661,
+      "title": "Những con người không hoàn hảo"
+    },
+    {
+      "num": 662,
+      "title": "Chương 678"
+    },
+    {
+      "num": 663,
+      "title": "Kỳ nghỉ lễ Phục Sinh + Giải thích về việc cập nhật"
+    },
+    {
+      "num": 664,
+      "title": "Aragog"
+    },
+    {
+      "num": 665,
+      "title": "Chia xa"
+    },
+    {
+      "num": 666,
+      "title": "Nền móng của một thể chế"
+    },
+    {
+      "num": 667,
+      "title": "Chiếc xe hơi của nhà Weasley và hướng đi của cuộc cách mạng công nghệ lần thứ ba"
+    },
+    {
+      "num": 668,
+      "title": "Vua nhện tám mắt"
+    },
+    {
+      "num": 669,
+      "title": "Nền tảng của một chính thể"
+    },
+    {
+      "num": 670,
+      "title": "Chiếc xe hơi của nhà Weasley và hướng đi của cuộc cách mạng kỹ thuật lần thứ ba"
+    },
+    {
+      "num": 671,
+      "title": "Vua Nhện Khổng Lồ Tám Mắt"
+    },
+    {
+      "num": 672,
+      "title": "Ma pháp nhện + Vài chuyện bực mình gần đây muốn than thở"
+    },
+    {
+      "num": 673,
+      "title": "Kẻ Được Ban Ơn"
+    },
+    {
+      "num": 674,
+      "title": "Thành phố của Aragog"
+    },
+    {
+      "num": 675,
+      "title": "Xã hội của loài nhện tám mắt"
+    },
+    {
+      "num": 676,
+      "title": "Quyền giao phối không giới hạn"
+    },
+    {
+      "num": 677,
+      "title": ""
+    },
+    {
+      "num": 678,
+      "title": "Kim tệ"
+    },
+    {
+      "num": 679,
+      "title": "Vàng"
+    },
+    {
+      "num": 680,
+      "title": "Rèn luyện thể lực"
+    },
+    {
+      "num": 681,
+      "title": "《Luật Bảo mật của Liên đoàn Phù thủy Quốc tế》"
+    },
+    {
+      "num": 682,
+      "title": "Huấn luyện"
+    },
+    {
+      "num": 683,
+      "title": "Huấn luyện quân sự"
+    },
+    {
+      "num": 684,
+      "title": "Đồng Xu Ước Nguyện"
+    },
+    {
+      "num": 685,
+      "title": "Đội ngũ nghiên cứu"
+    },
+    {
+      "num": 686,
+      "title": "Đội ngũ nghiên cứu"
+    },
+    {
+      "num": 687,
+      "title": "“Người lớn tí hon”"
+    },
+    {
+      "num": 688,
+      "title": "Người theo chân mới của Harry (Chúc mừng năm mới)"
+    },
+    {
+      "num": 689,
+      "title": "Chương 783"
+    },
+    {
+      "num": 690,
+      "title": "“Người lớn bé nhỏ”"
+    },
+    {
+      "num": 691,
+      "title": "Quan niệm"
+    },
+    {
+      "num": 692,
+      "title": "Phù thủy và Muggle"
+    },
+    {
+      "num": 693,
+      "title": "Dân số"
+    },
+    {
+      "num": 694,
+      "title": "Quan niệm"
+    },
+    {
+      "num": 695,
+      "title": "Tiến hóa"
+    },
+    {
+      "num": 696,
+      "title": "Tiến hóa?"
+    },
+    {
+      "num": 697,
+      "title": "Chương 794"
+    },
+    {
+      "num": 698,
+      "title": ""
+    },
+    {
+      "num": 699,
+      "title": "Tầm nhìn tương lai"
+    },
+    {
+      "num": 700,
+      "title": "Chương 797"
+    },
+    {
+      "num": 701,
+      "title": "Chương 798"
+    },
+    {
+      "num": 702,
+      "title": "Một vài mánh nhỏ"
+    },
+    {
+      "num": 703,
+      "title": "Một “biến số” mới"
+    },
+    {
+      "num": 704,
+      "title": "Bộ truyện Harry Potter"
+    },
+    {
+      "num": 705,
+      "title": "Một vài mánh nhỏ"
+    },
+    {
+      "num": 706,
+      "title": "Chương 803"
+    },
+    {
+      "num": 707,
+      "title": "Chương 804"
+    },
+    {
+      "num": 708,
+      "title": "Chương 803"
+    },
+    {
+      "num": 709,
+      "title": "Chương 804"
+    },
+    {
+      "num": 710,
+      "title": "Sự kinh ngạc của Dumbledore"
+    },
+    {
+      "num": 711,
+      "title": "Chương 806"
+    },
+    {
+      "num": 712,
+      "title": "Chương 807"
+    },
+    {
+      "num": 713,
+      "title": "Chương 808"
+    },
+    {
+      "num": 714,
+      "title": "Chương 810"
+    },
+    {
+      "num": 715,
+      "title": "Chương 811"
+    },
+    {
+      "num": 716,
+      "title": "Chương 812"
+    },
+    {
+      "num": 717,
+      "title": "Chương 816"
+    },
+    {
+      "num": 718,
+      "title": "Chương 817"
+    },
+    {
+      "num": 719,
+      "title": "Khuyên học"
+    },
+    {
+      "num": 720,
+      "title": "Xây dựng"
+    },
+    {
+      "num": 721,
+      "title": "Hầm ủ khí sinh học"
+    },
+    {
+      "num": 722,
+      "title": "Phổ cập kiến thức"
+    },
+    {
+      "num": 723,
+      "title": "Kinh phí du lịch"
+    },
+    {
+      "num": 724,
+      "title": "Lạm phát"
+    },
+    {
+      "num": 725,
+      "title": "Phát triển ngành du lịch"
+    },
+    {
+      "num": 726,
+      "title": ""
+    },
+    {
+      "num": 727,
+      "title": "Chương 824"
+    },
+    {
+      "num": 728,
+      "title": "Chương 825"
+    },
+    {
+      "num": 729,
+      "title": "Chương 826"
+    },
+    {
+      "num": 730,
+      "title": "Chương 827"
+    },
+    {
+      "num": 731,
+      "title": "Chương 828"
+    },
+    {
+      "num": 732,
+      "title": ""
+    },
+    {
+      "num": 733,
+      "title": "Chương 830"
+    },
+    {
+      "num": 734,
+      "title": "Chương 831"
+    },
+    {
+      "num": 735,
+      "title": ""
+    },
+    {
+      "num": 736,
+      "title": "Chương 833"
+    },
+    {
+      "num": 737,
+      "title": "Chương 834"
+    },
+    {
+      "num": 738,
+      "title": "Chương 835"
+    },
+    {
+      "num": 739,
+      "title": "Chương 836"
+    },
+    {
+      "num": 740,
+      "title": "Chương 837"
+    },
+    {
+      "num": 741,
+      "title": "Trường giáo dục trước tuổi đến trường"
+    },
+    {
+      "num": 742,
+      "title": "Chương 839: “Đây là Sở Thần Sáng cấp làng.” Tiera vừa nói vừa chỉ sang tòa nhà bên cạnh. “Sở Thần Sáng cấp làng chỉ phụ trách bắt giữ phạm nhân, không chịu trách nhiệm giam giữ. Nếu có tù nhân, họ sẽ được áp giải thẳng qua mạng lưới Floo đến Tổng bộ Thần Sáng thuộc trụ sở London của Liên đoàn Pháp thuật để tạm giam. Sau khi trải qua phiên xét xử của Hội đồng Wizengamot, người ta mới quyết định nên tạm giữ hay đưa đến Azkaban.”"
+    },
+    {
+      "num": 743,
+      "title": "Chương 840"
+    },
+    {
+      "num": 744,
+      "title": "Chương 841"
+    },
+    {
+      "num": 745,
+      "title": "Chương 842"
+    },
+    {
+      "num": 746,
+      "title": "Tranh luận"
+    },
+    {
+      "num": 747,
+      "title": ""
+    },
+    {
+      "num": 748,
+      "title": "Tranh luận về tương lai"
+    },
+    {
+      "num": 749,
+      "title": "Chương 846"
+    },
+    {
+      "num": 750,
+      "title": "Chương 847"
+    },
+    {
+      "num": 751,
+      "title": "Chương 848"
+    },
+    {
+      "num": 752,
+      "title": ""
+    },
+    {
+      "num": 753,
+      "title": "Chương 850"
+    },
+    {
+      "num": 754,
+      "title": "Chương 851"
+    },
+    {
+      "num": 755,
+      "title": "Chương 852"
+    },
+    {
+      "num": 756,
+      "title": "Thị trấn Padstow"
+    },
+    {
+      "num": 757,
+      "title": "Dòng máu dị tộc"
+    },
+    {
+      "num": 758,
+      "title": "Chương 855"
+    },
+    {
+      "num": 759,
+      "title": ""
+    },
+    {
+      "num": 760,
+      "title": ""
+    },
+    {
+      "num": 761,
+      "title": ""
+    },
+    {
+      "num": 762,
+      "title": ""
+    },
+    {
+      "num": 763,
+      "title": "Chương 860"
+    },
+    {
+      "num": 764,
+      "title": ""
+    },
+    {
+      "num": 765,
+      "title": "Chương 862"
+    },
+    {
+      "num": 766,
+      "title": "Chương 863"
+    },
+    {
+      "num": 767,
+      "title": "Chương 864"
+    },
+    {
+      "num": 768,
+      "title": "Chương 865"
+    },
+    {
+      "num": 769,
+      "title": "Chương 866"
+    },
+    {
+      "num": 770,
+      "title": "Chương 770"
+    },
+    {
+      "num": 771,
+      "title": "Chương 868"
+    },
+    {
+      "num": 772,
+      "title": "Chương 869"
+    },
+    {
+      "num": 773,
+      "title": "Chương 870"
+    },
+    {
+      "num": 774,
+      "title": "Chương 871"
+    },
+    {
+      "num": 775,
+      "title": "“Ngoài việc trả lại Hòn đá Phù thủy, ba ngày sau khi chúng ta giao Hòn đá Phù thủy cho Nicolas Flamel, Tierra sẽ tổ chức một buổi lễ trao trả Hòn đá Phù thủy.” Hermione Granger nói tiếp."
+    },
+    {
+      "num": 776,
+      "title": "Chương 873"
+    },
+    {
+      "num": 777,
+      "title": "Chương 874"
+    },
+    {
+      "num": 778,
+      "title": "Chương 875"
+    },
+    {
+      "num": 779,
+      "title": "Chương 876"
+    },
+    {
+      "num": 780,
+      "title": ""
+    },
+    {
+      "num": 781,
+      "title": "Chương 878"
+    },
+    {
+      "num": 782,
+      "title": "Chương 879"
+    },
+    {
+      "num": 783,
+      "title": "Chương 880"
+    },
+    {
+      "num": 784,
+      "title": "Chương 881"
+    },
+    {
+      "num": 785,
+      "title": ""
+    },
+    {
+      "num": 786,
+      "title": "Chương 883"
+    },
+    {
+      "num": 787,
+      "title": "Chương 787"
+    },
+    {
+      "num": 788,
+      "title": "Chương 885"
+    },
+    {
+      "num": 789,
+      "title": "Chương 886"
+    },
+    {
+      "num": 790,
+      "title": "Chương 887"
+    },
+    {
+      "num": 791,
+      "title": "Chương 888"
+    },
+    {
+      "num": 792,
+      "title": "Chương 889"
+    },
+    {
+      "num": 793,
+      "title": "Chương 890"
+    },
+    {
+      "num": 794,
+      "title": "Chương 891"
+    },
+    {
+      "num": 795,
+      "title": ""
+    },
+    {
+      "num": 796,
+      "title": "Chương 893"
+    },
+    {
+      "num": 797,
+      "title": "“Nào, Harry, thử món này đi.” Sau khi Harry ngồi xuống, bà Weasley dùng nĩa gắp một cây xúc xích nướng từ đĩa của mình sang đĩa cậu. “Xúc xích nướng này ngon lắm đấy!”"
+    },
+    {
+      "num": 798,
+      "title": "Chương 895"
+    },
+    {
+      "num": 799,
+      "title": "Chương 896"
+    },
+    {
+      "num": 800,
+      "title": "Harry Potter và Cựu Nhật Chi Phối Giả 【】"
+    },
+    {
+      "num": 801,
+      "title": ""
+    },
+    {
+      "num": 802,
+      "title": "Chương 899"
+    },
+    {
+      "num": 803,
+      "title": "Harry Potter và Cựu Nhật Chi Phối Giả 【】"
+    },
+    {
+      "num": 804,
+      "title": "Chương 901"
+    },
+    {
+      "num": 805,
+      "title": ""
+    },
+    {
+      "num": 806,
+      "title": "Biển hoa oải hương ở Provence"
+    }
+  ],
+  "slug": "harry_potter_cuu_nhat_chi_phoi",
+  "title": "Harry Potter Và Cựu Nhật Chi Phối Giả",
+  "author": "Hoàng Kim Quốc Vu Yêu (黃金國巫妖)",
+  "synopsis": "Truyện đồng nhân Harry Potter kết hợp thần thoại Cthulhu của Hoàng Kim Quốc Vu Yêu (黃金國巫妖), đã hoàn thành. Một nghiên cứu sinh thế kỷ 21 bị thiết bị phòng thí nghiệm đè chết trong vụ nổ, tỉnh lại trong kho chứa đồ của một cô nhi viện ở nước Anh với cái tên Tiera. Cậu bước vào thế giới phù thủy Hogwarts, mang theo tư duy khoa học và hiểu biết về những thực thể ngoài vũ trụ, nơi tri thức cấm có thể làm người ta phát điên và các Cựu Nhật Chi Phối Giả luôn rình rập. Khoa học va chạm với lý thuyết ma pháp, không khí kỳ bí và hài hước đan xen, tuyến truyện không có tình cảm, dài hơn tám trăm chương.",
+  "coverColor": "#1b3a4b"
+}
