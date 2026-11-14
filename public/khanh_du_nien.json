@@ -1,0 +1,2970 @@
+{
+  "totalChapters": 740,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Mở đầu – Một mảnh vải đen"
+    },
+    {
+      "num": 2,
+      "title": "Câu chuyện kể"
+    },
+    {
+      "num": 3,
+      "title": "Quyển sách vàng vô danh"
+    },
+    {
+      "num": 4,
+      "title": "Luyện công và đọc sách"
+    },
+    {
+      "num": 5,
+      "title": "Khách đến lúc nửa đêm"
+    },
+    {
+      "num": 6,
+      "title": "Gối mềm"
+    },
+    {
+      "num": 7,
+      "title": "Khách đến là khách"
+    },
+    {
+      "num": 8,
+      "title": "Nghĩa địa"
+    },
+    {
+      "num": 9,
+      "title": "Tuổi tác không thành vấn đề"
+    },
+    {
+      "num": 10,
+      "title": "Không ngại hỏi điều mình chưa biết"
+    },
+    {
+      "num": 11,
+      "title": "Đại tông sư thứ năm?"
+    },
+    {
+      "num": 12,
+      "title": "Luồng chân khí bá đạo"
+    },
+    {
+      "num": 13,
+      "title": "Lời giải thích đơn giản và thô bạo"
+    },
+    {
+      "num": 14,
+      "title": "Người bán muối họ Tân nào vậy?"
+    },
+    {
+      "num": 15,
+      "title": "Tạm biệt Phí Giới"
+    },
+    {
+      "num": 16,
+      "title": "Thư từ kinh thành"
+    },
+    {
+      "num": 17,
+      "title": "Ta dâng dao thái rau cho ngươi"
+    },
+    {
+      "num": 18,
+      "title": "Những tháng ngày đẫm máu và nước mắt"
+    },
+    {
+      "num": 19,
+      "title": "Chuyện thể diện"
+    },
+    {
+      "num": 20,
+      "title": "Đứng trên đỉnh cao"
+    },
+    {
+      "num": 21,
+      "title": "Đau"
+    },
+    {
+      "num": 22,
+      "title": "Kẻ viết thuê"
+    },
+    {
+      "num": 23,
+      "title": "Nút áo mèo"
+    },
+    {
+      "num": 24,
+      "title": "Sát thủ"
+    },
+    {
+      "num": 25,
+      "title": "Đậu phụ trắng như ngọc"
+    },
+    {
+      "num": 26,
+      "title": "Ông lão đắp chăn lông cừu"
+    },
+    {
+      "num": 27,
+      "title": "Giám Sát Viện"
+    },
+    {
+      "num": 28,
+      "title": "Đêm khuya chép sách, hồng tụ thêm hương"
+    },
+    {
+      "num": 29,
+      "title": "Kẻ trộm sách"
+    },
+    {
+      "num": 30,
+      "title": "Chuyện cũ"
+    },
+    {
+      "num": 31,
+      "title": "Có người cất tiếng hát"
+    },
+    {
+      "num": 32,
+      "title": "Lật thuyền"
+    },
+    {
+      "num": 33,
+      "title": "Năm tháng nhàn nhã"
+    },
+    {
+      "num": 34,
+      "title": "Trúc Soái"
+    },
+    {
+      "num": 35,
+      "title": "Đêm mưa nhớ chuyện xưa"
+    },
+    {
+      "num": 36,
+      "title": "Mùa xuân năm Khánh Lịch thứ tư"
+    },
+    {
+      "num": 37,
+      "title": "Về kinh đô?"
+    },
+    {
+      "num": 38,
+      "title": "Đêm trước ngày lên đường"
+    },
+    {
+      "num": 39,
+      "title": "Rời khỏi Đạm Châu"
+    },
+    {
+      "num": 40,
+      "title": "Nhìn về kinh thành"
+    },
+    {
+      "num": 41,
+      "title": "Lần đầu bước chân vào phủ họ Phạm"
+    },
+    {
+      "num": 42,
+      "title": "Liễu Thị"
+    },
+    {
+      "num": 43,
+      "title": "Giải nghĩa tên Nhược Nhược (Hình tượng cậu nhóc mập mạp tệ đến thế sao? Ta thật sự không cố ý bôi xấu đâu, hoàn toàn dựa theo hình ảnh của chính ta hai mươi năm trước mà miêu tả... Ta thật đáng thương mà.)"
+    },
+    {
+      "num": 44,
+      "title": "Cha con"
+    },
+    {
+      "num": 45,
+      "title": "Bí mật trong cung"
+    },
+    {
+      "num": 46,
+      "title": "Tha Hương Gặp Người Quen"
+    },
+    {
+      "num": 47,
+      "title": "Sách Đỏ"
+    },
+    {
+      "num": 48,
+      "title": "Văn Học Vỉa Hè"
+    },
+    {
+      "num": 49,
+      "title": "Trên lầu rượu"
+    },
+    {
+      "num": 50,
+      "title": "Thế nào mới gọi là khí phách?"
+    },
+    {
+      "num": 51,
+      "title": "Thế tử Tĩnh Vương"
+    },
+    {
+      "num": 52,
+      "title": "Trên xe ngựa"
+    },
+    {
+      "num": 53,
+      "title": "Đơn độc lên đường"
+    },
+    {
+      "num": 54,
+      "title": "Trong và ngoài Giám Sát Viện"
+    },
+    {
+      "num": 55,
+      "title": "Kẹo hồ lô và miếu Khánh"
+    },
+    {
+      "num": 56,
+      "title": "Quý nhân"
+    },
+    {
+      "num": 57,
+      "title": "Rung động"
+    },
+    {
+      "num": 58,
+      "title": "Thì ra là nàng"
+    },
+    {
+      "num": 59,
+      "title": "Cậu nhóc tính sổ"
+    },
+    {
+      "num": 60,
+      "title": "Anh em chuyện trò"
+    },
+    {
+      "num": 61,
+      "title": "Bản kế hoạch"
+    },
+    {
+      "num": 62,
+      "title": "Đầu hè"
+    },
+    {
+      "num": 63,
+      "title": "Lý do rất đơn giản"
+    },
+    {
+      "num": 64,
+      "title": "Khúc ngâm đầu tiên"
+    },
+    {
+      "num": 65,
+      "title": "Vương phủ"
+    },
+    {
+      "num": 66,
+      "title": "Lại gặp Quách Bảo Khôn"
+    },
+    {
+      "num": 67,
+      "title": "Bên kia hồ"
+    },
+    {
+      "num": 68,
+      "title": "Dùng thơ đánh người, đòn thứ nhất"
+    },
+    {
+      "num": 69,
+      "title": "Ném thơ vào mặt người"
+    },
+    {
+      "num": 70,
+      "title": "Tĩnh Vương Lên Tiếng"
+    },
+    {
+      "num": 71,
+      "title": "Tư Lý Lý"
+    },
+    {
+      "num": 72,
+      "title": "Như Lan"
+    },
+    {
+      "num": 73,
+      "title": "Nỗi đau trong bao tải"
+    },
+    {
+      "num": 74,
+      "title": "Quan sai tìm đến cửa"
+    },
+    {
+      "num": 75,
+      "title": "Cuộc đấu khẩu trong và ngoài công đường"
+    },
+    {
+      "num": 76,
+      "title": "Kiện tụng"
+    },
+    {
+      "num": 77,
+      "title": "Trong cung"
+    },
+    {
+      "num": 78,
+      "title": "Cái tát"
+    },
+    {
+      "num": 79,
+      "title": "Thái hậu anh minh"
+    },
+    {
+      "num": 80,
+      "title": "Đi thăm vị hôn thê"
+    },
+    {
+      "num": 81,
+      "title": "Đặt chân vào cửa"
+    },
+    {
+      "num": 82,
+      "title": "Vào phòng"
+    },
+    {
+      "num": 83,
+      "title": "Phá cửa sổ"
+    },
+    {
+      "num": 84,
+      "title": "Mối tình xuyên qua năm tháng đan xen"
+    },
+    {
+      "num": 85,
+      "title": "Trường học dòng họ"
+    },
+    {
+      "num": 86,
+      "title": "Chưởng quầy họ Diệp của Khánh Dư Đường"
+    },
+    {
+      "num": 87,
+      "title": "Chuyện trò đêm khuya của vợ chồng"
+    },
+    {
+      "num": 88,
+      "title": "Kiến leo cây?"
+    },
+    {
+      "num": 89,
+      "title": "Vụ án thiếu niên giết người ở phố Ngưu Lan"
+    },
+    {
+      "num": 90,
+      "title": "Điều tra"
+    },
+    {
+      "num": 91,
+      "title": "Phạm Nhàn bắt đầu hành động"
+    },
+    {
+      "num": 92,
+      "title": "Cuộc đời của Vương Khải Niên"
+    },
+    {
+      "num": 93,
+      "title": "Chuyện kinh thành bên ngoài thành Thương Châu"
+    },
+    {
+      "num": 94,
+      "title": "Chàng quan coi nhạc độc chiếm hoa khôi"
+    },
+    {
+      "num": 95,
+      "title": "Trộm hương chẳng lỡ việc bán sách"
+    },
+    {
+      "num": 96,
+      "title": "Hiệu sách Đạm Bạc"
+    },
+    {
+      "num": 97,
+      "title": "Phó tướng tự sát"
+    },
+    {
+      "num": 98,
+      "title": "Thiên lao bắt nạt cô gái yếu đuối"
+    },
+    {
+      "num": 99,
+      "title": "Lời nói ngọt như hương"
+    },
+    {
+      "num": 100,
+      "title": "Giàn nho đổ rồi"
+    },
+    {
+      "num": 101,
+      "title": "Chương 61"
+    },
+    {
+      "num": 102,
+      "title": "Vu oan trước mặt vua"
+    },
+    {
+      "num": 103,
+      "title": "Gỡ nút thắt"
+    },
+    {
+      "num": 104,
+      "title": "Người đàn bà ấy"
+    },
+    {
+      "num": 105,
+      "title": "Hạ chí"
+    },
+    {
+      "num": 106,
+      "title": "Trang trại"
+    },
+    {
+      "num": 107,
+      "title": "Ánh trăng trong núi"
+    },
+    {
+      "num": 108,
+      "title": "Vái lạy bên kia sông (1)"
+    },
+    {
+      "num": 109,
+      "title": "Người xưa gặp lại, chẳng nhận ra nhau"
+    },
+    {
+      "num": 110,
+      "title": "Bàn chuyện năm sau trong Khánh Dư Đường"
+    },
+    {
+      "num": 111,
+      "title": "Điểm danh ở Thái Thường Tự"
+    },
+    {
+      "num": 112,
+      "title": "Gió nổi từ ngọn cỏ non"
+    },
+    {
+      "num": 113,
+      "title": "Truyền thống vẻ vang của những cú đấm lén"
+    },
+    {
+      "num": 114,
+      "title": "Đại Phách Quan và những mánh khóe nhỏ"
+    },
+    {
+      "num": 115,
+      "title": "Tặng núi, tặng sông, tặng bình ngọc xanh"
+    },
+    {
+      "num": 116,
+      "title": "Tránh nóng cần gì đợi mùa hè"
+    },
+    {
+      "num": 117,
+      "title": "Gió mang hương thì là thổi bên hồ"
+    },
+    {
+      "num": 118,
+      "title": "Điển tích yêu tinh cãi nhau"
+    },
+    {
+      "num": 119,
+      "title": "Ngày hè tìm được một cành mai"
+    },
+    {
+      "num": 120,
+      "title": "Thái tử giá lâm"
+    },
+    {
+      "num": 121,
+      "title": "Thăng quan hay gặp họa"
+    },
+    {
+      "num": 122,
+      "title": "Chiếc hộp, kim độc giết người"
+    },
+    {
+      "num": 123,
+      "title": "Sứ giả Bắc Tề"
+    },
+    {
+      "num": 124,
+      "title": "Đàm phán chẳng có nghệ thuật gì"
+    },
+    {
+      "num": 125,
+      "title": "Tân Thiếu Khanh cáo già"
+    },
+    {
+      "num": 126,
+      "title": "Trên đời này chẳng có ai đáng để tin tưởng"
+    },
+    {
+      "num": 127,
+      "title": "Tòa hoàng cung lạnh lẽo kia"
+    },
+    {
+      "num": 128,
+      "title": "Các nương nương"
+    },
+    {
+      "num": 129,
+      "title": "Bàn tay ta lướt qua mái tóc đen của nàng"
+    },
+    {
+      "num": 130,
+      "title": "Vội vã hồi phủ"
+    },
+    {
+      "num": 131,
+      "title": "Bàng hoàng nghe tin về Ngôn Băng Vân"
+    },
+    {
+      "num": 132,
+      "title": "Giao kèo dưới dòng nước bẩn"
+    },
+    {
+      "num": 133,
+      "title": "Dạ yến"
+    },
+    {
+      "num": 134,
+      "title": "Phong lưu muôn thuở"
+    },
+    {
+      "num": 135,
+      "title": "Trong cơn say, vốn đã có ý định vào cung"
+    },
+    {
+      "num": 136,
+      "title": "Hồng công công"
+    },
+    {
+      "num": 137,
+      "title": "Trong lòng mỗi người đều có một chiếc chìa khóa"
+    },
+    {
+      "num": 138,
+      "title": "Quảng Tín Cung"
+    },
+    {
+      "num": 139,
+      "title": "Thích khách là ai?"
+    },
+    {
+      "num": 140,
+      "title": "Bí mật trong chiếc hộp (1)"
+    },
+    {
+      "num": 141,
+      "title": "Bí mật trong chiếc hộp (2)"
+    },
+    {
+      "num": 142,
+      "title": "Trời quang sau cơn mưa thu"
+    },
+    {
+      "num": 143,
+      "title": "Truyền đơn bay trắng như tuyết"
+    },
+    {
+      "num": 144,
+      "title": "Thuật toán"
+    },
+    {
+      "num": 145,
+      "title": "Thi Tập Và Giấy Truyền Tin"
+    },
+    {
+      "num": 146,
+      "title": "Đại hôn (1)"
+    },
+    {
+      "num": 147,
+      "title": "Đại hôn (2)"
+    },
+    {
+      "num": 148,
+      "title": "Lễ vật (1)"
+    },
+    {
+      "num": 149,
+      "title": "Lễ vật (2)"
+    },
+    {
+      "num": 150,
+      "title": "Chương 45"
+    },
+    {
+      "num": 151,
+      "title": "Chương 46"
+    },
+    {
+      "num": 152,
+      "title": "Chương 47"
+    },
+    {
+      "num": 153,
+      "title": "Chương 48"
+    },
+    {
+      "num": 154,
+      "title": "Chương 49"
+    },
+    {
+      "num": 155,
+      "title": "Sương mù Bắc Hải – Chương 1: Bàn chuyện triều chính (1)"
+    },
+    {
+      "num": 156,
+      "title": "Sương mù Bắc Hải — Chương 2: Bàn việc triều chính (2)"
+    },
+    {
+      "num": 157,
+      "title": "Trở về kinh thành"
+    },
+    {
+      "num": 158,
+      "title": "Nhị hoàng tử"
+    },
+    {
+      "num": 159,
+      "title": "Tơ liễu bên sông khiến người mỏi mệt"
+    },
+    {
+      "num": 160,
+      "title": "Kỳ thi Hội chết tiệt"
+    },
+    {
+      "num": 161,
+      "title": "Quan coi thi, hóa ra cũng là một nghề thú vị"
+    },
+    {
+      "num": 162,
+      "title": "Gió xuân mưa móc thấm vào trường thi"
+    },
+    {
+      "num": 163,
+      "title": "Ngươi lừa ta, ta lừa ngươi, tất cả cùng giả vờ"
+    },
+    {
+      "num": 164,
+      "title": "Sấm Xuân"
+    },
+    {
+      "num": 165,
+      "title": "Vụ Gian Lận Khoa Cử"
+    },
+    {
+      "num": 166,
+      "title": "Thăm Bạn Trong Mưa (1)"
+    },
+    {
+      "num": 167,
+      "title": "Gặp bạn giữa trời mưa (2)"
+    },
+    {
+      "num": 168,
+      "title": "Những ngày tháng rực rỡ"
+    },
+    {
+      "num": 169,
+      "title": "Bảng Vàng"
+    },
+    {
+      "num": 170,
+      "title": "Quyền thần vừa mới bước lên đường"
+    },
+    {
+      "num": 171,
+      "title": "Sự phản kích của quan lại kinh thành"
+    },
+    {
+      "num": 172,
+      "title": "Tranh biện"
+    },
+    {
+      "num": 173,
+      "title": "Đại náo bộ Hình"
+    },
+    {
+      "num": 174,
+      "title": "Đề Ty! Đề Ty!"
+    },
+    {
+      "num": 175,
+      "title": "Lần đầu đến thăm"
+    },
+    {
+      "num": 176,
+      "title": "Nói cho ngươi biết về một Giám Sát Viện thực sự"
+    },
+    {
+      "num": 177,
+      "title": "Cái bóng giữa nhân gian"
+    },
+    {
+      "num": 178,
+      "title": "Hoa Nhỏ"
+    },
+    {
+      "num": 179,
+      "title": "Trang Bị Âm Hàn"
+    },
+    {
+      "num": 180,
+      "title": "Sự xúc phạm"
+    },
+    {
+      "num": 181,
+      "title": "Đêm dài đằng đẵng"
+    },
+    {
+      "num": 182,
+      "title": "Tiêu Ân ra khỏi ngục"
+    },
+    {
+      "num": 183,
+      "title": "Ngoài kinh thành"
+    },
+    {
+      "num": 184,
+      "title": "Hạ độc chẳng có chút nghệ thuật nào"
+    },
+    {
+      "num": 185,
+      "title": "Xuân sắc trong xe ngựa"
+    },
+    {
+      "num": 186,
+      "title": "Chiêu hồn bằng tay áo trắng"
+    },
+    {
+      "num": 187,
+      "title": "Học hỏi Tiêu Ân"
+    },
+    {
+      "num": 188,
+      "title": "Giết người giữa kinh thành, lặng lẽ không một tiếng động"
+    },
+    {
+      "num": 189,
+      "title": "Thanh kiếm giấu trong cán ô giấy dầu"
+    },
+    {
+      "num": 190,
+      "title": "Chim trắng bay trên hồ, người ở trong tim"
+    },
+    {
+      "num": 191,
+      "title": "Bí mật của Tư Lý Lý"
+    },
+    {
+      "num": 192,
+      "title": "Viễn cảnh của Trưởng công chúa"
+    },
+    {
+      "num": 193,
+      "title": "Thoát khỏi lồng giam"
+    },
+    {
+      "num": 194,
+      "title": "Mở cửa, thả chó"
+    },
+    {
+      "num": 195,
+      "title": "Ngươi chết, ta sống"
+    },
+    {
+      "num": 196,
+      "title": "Biến cố trên thảo nguyên"
+    },
+    {
+      "num": 197,
+      "title": "Hải Đường Đóa Đóa"
+    },
+    {
+      "num": 198,
+      "title": "Lấy vô liêm sỉ đối phó với người có đức"
+    },
+    {
+      "num": 199,
+      "title": "Vô đề"
+    },
+    {
+      "num": 200,
+      "title": "Hải Đường Xuân"
+    },
+    {
+      "num": 201,
+      "title": "Khúc dạo đầu của cuộc đấu trí"
+    },
+    {
+      "num": 202,
+      "title": "Một chữ gói trọn tấm lòng"
+    },
+    {
+      "num": 203,
+      "title": "Vụ Độ Hà"
+    },
+    {
+      "num": 204,
+      "title": "Bên đường quan đạo"
+    },
+    {
+      "num": 205,
+      "title": "Lên kinh thành"
+    },
+    {
+      "num": 206,
+      "title": "Tường thành loang lổ, màn đêm nặng trĩu"
+    },
+    {
+      "num": 207,
+      "title": "Sứ đoàn vào cung"
+    },
+    {
+      "num": 208,
+      "title": "Trò chuyện với hoàng đế"
+    },
+    {
+      "num": 209,
+      "title": "Những người họ Phạm tài giỏi chẳng thiếu"
+    },
+    {
+      "num": 210,
+      "title": "Ả đúng là một cô nàng nhà quê!"
+    },
+    {
+      "num": 211,
+      "title": "Lắc lư, lắc lư"
+    },
+    {
+      "num": 212,
+      "title": "Sứ đoàn vốn là một đoàn người đến để đánh nhau"
+    },
+    {
+      "num": 213,
+      "title": "Đàm Vũ không giỏi văn vẻ"
+    },
+    {
+      "num": 214,
+      "title": "Cửa tiệm lâu đời ở Tú Thủy Nhai"
+    },
+    {
+      "num": 215,
+      "title": "Tình hình hiện tại của các cửa hàng hoàng gia"
+    },
+    {
+      "num": 216,
+      "title": "Phủ Trường Ninh Hầu"
+    },
+    {
+      "num": 217,
+      "title": "Ngài muốn phát tài không?"
+    },
+    {
+      "num": 218,
+      "title": "Liên quan gì đến Phạm khanh?"
+    },
+    {
+      "num": 219,
+      "title": "Lần đầu gặp mặt Ngôn Băng Vân"
+    },
+    {
+      "num": 220,
+      "title": "Xé áo trắng"
+    },
+    {
+      "num": 221,
+      "title": "Người theo chủ nghĩa lý tưởng"
+    },
+    {
+      "num": 222,
+      "title": "Đêm mưa gặp Thẩm Trọng"
+    },
+    {
+      "num": 223,
+      "title": "Tiểu Ngôn thoát thân"
+    },
+    {
+      "num": 224,
+      "title": "Chuyện không như ngươi nghĩ"
+    },
+    {
+      "num": 225,
+      "title": "Mưu tính"
+    },
+    {
+      "num": 226,
+      "title": "Thương con, sao chẳng phải bậc trượng phu"
+    },
+    {
+      "num": 227,
+      "title": "Giết người trong ngõ"
+    },
+    {
+      "num": 228,
+      "title": "Trạm gác ngầm ở Thượng Kinh"
+    },
+    {
+      "num": 229,
+      "title": "Tin vui"
+    },
+    {
+      "num": 230,
+      "title": "Nếu Nhược Nhược phải lấy chồng!"
+    },
+    {
+      "num": 231,
+      "title": "Càng nhiều càng tốt"
+    },
+    {
+      "num": 232,
+      "title": "Nhìn từ trên cao, theo dõi cuộc vượt ngục"
+    },
+    {
+      "num": 233,
+      "title": "Mai phục"
+    },
+    {
+      "num": 234,
+      "title": "Thất bại"
+    },
+    {
+      "num": 235,
+      "title": "Phạm Nhàn cũng bám đuôi"
+    },
+    {
+      "num": 236,
+      "title": "Củi ướt và đòn đấm lén"
+    },
+    {
+      "num": 237,
+      "title": "Phạm Nhàn nhảy vực"
+    },
+    {
+      "num": 238,
+      "title": "Người khách rong chơi giữa thế gian"
+    },
+    {
+      "num": 239,
+      "title": "Ngôi đền trong đêm dài bất tận"
+    },
+    {
+      "num": 240,
+      "title": "Cô bé trốn khỏi Thần Miếu"
+    },
+    {
+      "num": 241,
+      "title": "Hôm nay chương này không có tên"
+    },
+    {
+      "num": 242,
+      "title": "Nhắm mắt, từ nay an nghỉ"
+    },
+    {
+      "num": 243,
+      "title": "Sao lại trắng bệch nữa rồi?"
+    },
+    {
+      "num": 244,
+      "title": "Sao lòng còn mãi thảnh thơi?"
+    },
+    {
+      "num": 245,
+      "title": "Đi theo con đường của nữ đạo sĩ"
+    },
+    {
+      "num": 246,
+      "title": "Thế đạo này, người phụ nữ này!"
+    },
+    {
+      "num": 247,
+      "title": "Chuyện đánh võ giả và đánh võ thật trước điện"
+    },
+    {
+      "num": 248,
+      "title": "Một cú cúi, một lần ngẩng, một trận cười"
+    },
+    {
+      "num": 249,
+      "title": "Hoàng đế cũng thích hóng chuyện"
+    },
+    {
+      "num": 250,
+      "title": "Người kế nhiệm"
+    },
+    {
+      "num": 251,
+      "title": "Ném khăn tay bên con đường cổ dưới mái đình xưa"
+    },
+    {
+      "num": 252,
+      "title": "Mùa thu đầu tiên, mùa gặt bắt đầu"
+    },
+    {
+      "num": 253,
+      "title": "Tranh đường"
+    },
+    {
+      "num": 254,
+      "title": "Chuyện nhà"
+    },
+    {
+      "num": 255,
+      "title": "Lần này, sao chỉ một chữ bận mà nói hết?"
+    },
+    {
+      "num": 256,
+      "title": "Chuyện hoang đường nơi hậu viện"
+    },
+    {
+      "num": 257,
+      "title": "Tháng chín"
+    },
+    {
+      "num": 258,
+      "title": "Thiên hạ trên xe ngựa, mầm đậu trong hoàng cung"
+    },
+    {
+      "num": 259,
+      "title": "Ra khỏi cung làm ông chủ"
+    },
+    {
+      "num": 260,
+      "title": "Một nơi riêng biệt"
+    },
+    {
+      "num": 261,
+      "title": "Ban Một có người trẻ tuổi đến"
+    },
+    {
+      "num": 262,
+      "title": "Chấn chỉnh tác phong!"
+    },
+    {
+      "num": 263,
+      "title": "Quán Tân Phong"
+    },
+    {
+      "num": 264,
+      "title": "Nàng đã biết giữ mình, còn ngươi thì biến thái"
+    },
+    {
+      "num": 265,
+      "title": "Quyết định sáng suốt của Đới công công"
+    },
+    {
+      "num": 266,
+      "title": "Khúc nhạc đệm giữa đen và trắng"
+    },
+    {
+      "num": 267,
+      "title": "Thánh nhân?"
+    },
+    {
+      "num": 268,
+      "title": "Tấu chương trong cung dậy sóng gió"
+    },
+    {
+      "num": 269,
+      "title": "An Chi"
+    },
+    {
+      "num": 270,
+      "title": "Đối đầu trước cung môn"
+    },
+    {
+      "num": 271,
+      "title": "Tranh cãi dữ dội giữa triều đình"
+    },
+    {
+      "num": 272,
+      "title": "Đánh roi và nhân phẩm"
+    },
+    {
+      "num": 273,
+      "title": "Nắm đấm thẳng giữa đêm đen"
+    },
+    {
+      "num": 274,
+      "title": "Tuổi trẻ trong cung ngoài cung"
+    },
+    {
+      "num": 275,
+      "title": "Tiệc mừng thọ của Tĩnh Vương"
+    },
+    {
+      "num": 276,
+      "title": "Ra nước ngoài du học có tốt không?"
+    },
+    {
+      "num": 277,
+      "title": "Có muốn khăn tay thêu mới không?"
+    },
+    {
+      "num": 278,
+      "title": "Lầu Ôm Trăng"
+    },
+    {
+      "num": 279,
+      "title": "Tang Văn"
+    },
+    {
+      "num": 280,
+      "title": "Phạm Nhàn vung một chưởng"
+    },
+    {
+      "num": 281,
+      "title": "Đấu gan"
+    },
+    {
+      "num": 282,
+      "title": "Chặn đường"
+    },
+    {
+      "num": 283,
+      "title": "Cánh tay bé xíu của con bọ ngăn trước xe ngựa"
+    },
+    {
+      "num": 284,
+      "title": "Con có điều lo lắng"
+    },
+    {
+      "num": 285,
+      "title": "Từ xưa đến nay, chủ chứa toàn là trẻ ranh"
+    },
+    {
+      "num": 286,
+      "title": "Theo ta về nhà"
+    },
+    {
+      "num": 287,
+      "title": "Lục soát thanh lâu"
+    },
+    {
+      "num": 288,
+      "title": "Huynh đệ"
+    },
+    {
+      "num": 289,
+      "title": "Gia pháp"
+    },
+    {
+      "num": 290,
+      "title": "Lão Phạm và Tiểu Phạm"
+    },
+    {
+      "num": 291,
+      "title": "Lưu đày"
+    },
+    {
+      "num": 292,
+      "title": "Đã quyến rũ cả người đi cùng rồi"
+    },
+    {
+      "num": 293,
+      "title": "Đêm ngoài kinh đô"
+    },
+    {
+      "num": 294,
+      "title": "Thu lại lầu xanh"
+    },
+    {
+      "num": 295,
+      "title": "Gái lầu xanh, người qua đường và một vụ ám sát giữa ngày mưa..."
+    },
+    {
+      "num": 296,
+      "title": "Tạ Tất An Ngoài Kinh Đô Phủ"
+    },
+    {
+      "num": 297,
+      "title": "Chút bệnh không đáng ngại, ngắm lá rụng"
+    },
+    {
+      "num": 298,
+      "title": "Thuốc"
+    },
+    {
+      "num": 299,
+      "title": "Xích đu trong tường, người ngoài tường"
+    },
+    {
+      "num": 300,
+      "title": "Vườn nhà họ Trần có khách"
+    },
+    {
+      "num": 301,
+      "title": "Rừng thu, lời riêng, kết cục"
+    },
+    {
+      "num": 302,
+      "title": "Hoa cúc, cổ kiếm và rượu (1)"
+    },
+    {
+      "num": 303,
+      "title": "Hoa cúc, kiếm cổ và rượu (2)"
+    },
+    {
+      "num": 304,
+      "title": "Dao găm, lại là dao găm!"
+    },
+    {
+      "num": 305,
+      "title": "Người bị thương trong cung"
+    },
+    {
+      "num": 306,
+      "title": "Ca phẫu thuật dưới ánh nến"
+    },
+    {
+      "num": 307,
+      "title": "Người bệnh ở vườn Mai"
+    },
+    {
+      "num": 308,
+      "title": "Vị thần tiên đứng sau ván cờ thần tiên"
+    },
+    {
+      "num": 309,
+      "title": "Đại hoàng tử đến thăm"
+    },
+    {
+      "num": 310,
+      "title": "Ban thưởng và trò chuyện"
+    },
+    {
+      "num": 311,
+      "title": "Thư tình"
+    },
+    {
+      "num": 312,
+      "title": "Dạo vườn gặp mộng (Thượng)"
+    },
+    {
+      "num": 313,
+      "title": "Dạo vườn kinh mộng (Trung)"
+    },
+    {
+      "num": 314,
+      "title": "Dạo vườn kinh hồn (Hạ)"
+    },
+    {
+      "num": 315,
+      "title": "Tuyết rơi ở thành Thượng Kinh"
+    },
+    {
+      "num": 316,
+      "title": "Đại tông sư, vải đen, câu đố"
+    },
+    {
+      "num": 317,
+      "title": "Ai có thể giết chết Phạm Đề Ti?"
+    },
+    {
+      "num": 318,
+      "title": "Ghi chép những ngày sống nơi núi rừng"
+    },
+    {
+      "num": 319,
+      "title": "Thời cơ tốt nhất"
+    },
+    {
+      "num": 320,
+      "title": "Hiểu mẹ chẳng bằng hiểu cha"
+    },
+    {
+      "num": 321,
+      "title": "Ký ức chung của người dân nước Khánh về nhà họ Diệp"
+    },
+    {
+      "num": 322,
+      "title": "Dù đoán ra đủ thứ thì cũng chỉ có vậy"
+    },
+    {
+      "num": 323,
+      "title": "Trận chiến giữa hai vị Đại Tông Sư áo vải"
+    },
+    {
+      "num": 324,
+      "title": "Những đổi thay trong phủ họ Phạm"
+    },
+    {
+      "num": 325,
+      "title": "Gió nổi trong tiểu lâu nơi cung cấm"
+    },
+    {
+      "num": 326,
+      "title": "Chuyện cũ đã qua"
+    },
+    {
+      "num": 327,
+      "title": "Căn phòng thứ 76: Chúc ngài thăng tiến như diều gặp gió"
+    },
+    {
+      "num": 328,
+      "title": "Cuộc náo loạn trước ngày rời kinh (Thượng)"
+    },
+    {
+      "num": 329,
+      "title": "Chia tay trước lúc lên đường (Hạ)"
+    },
+    {
+      "num": 330,
+      "title": "Đêm neo thuyền ở Dĩnh Châu, giặc cướp kéo đến"
+    },
+    {
+      "num": 331,
+      "title": "Con thuyền cướp lớn nhất nước Khánh"
+    },
+    {
+      "num": 332,
+      "title": "Có chuyện rồi"
+    },
+    {
+      "num": 333,
+      "title": "Các ngươi đã bị bao vây rồi"
+    },
+    {
+      "num": 334,
+      "title": "Ta lấy gì để cung phụng ngươi?"
+    },
+    {
+      "num": 335,
+      "title": "Đơn xin hàng và hai mặt thật giả của Phạm Nhàn"
+    },
+    {
+      "num": 336,
+      "title": "Một đường xuôi sông, bạc quà chất đầy"
+    },
+    {
+      "num": 337,
+      "title": "Lầu Trên Lầu, Người Ngoài Người"
+    },
+    {
+      "num": 338,
+      "title": "Cô gái bán hoa và viên quan trơ trẽn"
+    },
+    {
+      "num": 339,
+      "title": "Tuổi trẻ cùng chung chí hướng"
+    },
+    {
+      "num": 340,
+      "title": "Điềm lành từ trời giáng xuống"
+    },
+    {
+      "num": 341,
+      "title": "Bưng bát lên thì uống cháo, đặt đũa xuống đã mắng người"
+    },
+    {
+      "num": 342,
+      "title": "Rồng ngẩng đầu"
+    },
+    {
+      "num": 343,
+      "title": "Tiền trang và lầu xanh"
+    },
+    {
+      "num": 344,
+      "title": "Cách kiếm tiền của người quân tử"
+    },
+    {
+      "num": 345,
+      "title": "Thuận Đức đã đến"
+    },
+    {
+      "num": 346,
+      "title": "Cứ ngang ngược thì được, nhưng không chịu nổi phiền phức"
+    },
+    {
+      "num": 347,
+      "title": "Nội khố đình công"
+    },
+    {
+      "num": 348,
+      "title": "Khâm sai đại nhân vì sao nổi giận?"
+    },
+    {
+      "num": 349,
+      "title": "Lão chưởng quầy"
+    },
+    {
+      "num": 350,
+      "title": "Hòn đá mài có ý thức riêng"
+    },
+    {
+      "num": 351,
+      "title": "Có những chuyện chỉ được làm, không được nói"
+    },
+    {
+      "num": 352,
+      "title": "Đạo mùa xuân"
+    },
+    {
+      "num": 353,
+      "title": "Mượn tay nàng, nắm lấy tay Hoàng đế Bắc Tề"
+    },
+    {
+      "num": 354,
+      "title": "Hòn sỏi trong mắt nhà họ Minh"
+    },
+    {
+      "num": 355,
+      "title": "Bóp nghẹt yết hầu của vận mệnh"
+    },
+    {
+      "num": 356,
+      "title": "Thanh trừng hòn đảo"
+    },
+    {
+      "num": 357,
+      "title": "Mẹ con nhà họ Minh"
+    },
+    {
+      "num": 358,
+      "title": "Ở Tô Châu nhưng lòng hướng thiên hạ, một người tốt..."
+    },
+    {
+      "num": 359,
+      "title": "Cánh cửa Nội Khố"
+    },
+    {
+      "num": 360,
+      "title": "Tên cướp ở phòng Ất số 4"
+    },
+    {
+      "num": 361,
+      "title": "Đại ca, lâu rồi không gặp"
+    },
+    {
+      "num": 362,
+      "title": "Động một sợi tóc, lay chuyển toàn cục"
+    },
+    {
+      "num": 363,
+      "title": "Ngón tay út khẽ nhấc lên"
+    },
+    {
+      "num": 364,
+      "title": "Thiên nữ rải hoa"
+    },
+    {
+      "num": 365,
+      "title": "Trời sáng chẳng cần chuông trống thúc giục"
+    },
+    {
+      "num": 366,
+      "title": "Dưới gối chẳng có vàng ròng"
+    },
+    {
+      "num": 367,
+      "title": "Trăng sáng chẳng dành cho kẻ đi đêm"
+    },
+    {
+      "num": 368,
+      "title": "Hạ Minh Ký"
+    },
+    {
+      "num": 369,
+      "title": "Phòng tra tấn và di thư"
+    },
+    {
+      "num": 370,
+      "title": "Vụ kiện tranh giành gia sản"
+    },
+    {
+      "num": 371,
+      "title": "Tờ giấy hài hòa đến lạ (Chúc mọi người…"
+    },
+    {
+      "num": 372,
+      "title": "Bao thịt ở Tân Phong Quán, hoàng tử và công đường…"
+    },
+    {
+      "num": 373,
+      "title": "Đêm khai trương lầu, đêm giết người"
+    },
+    {
+      "num": 374,
+      "title": "Giết Viên Mộng, đổi máu"
+    },
+    {
+      "num": 375,
+      "title": "Câu cá"
+    },
+    {
+      "num": 376,
+      "title": "Đằng sau nỗi đau của Minh gia"
+    },
+    {
+      "num": 377,
+      "title": "Thủy quân của ai?"
+    },
+    {
+      "num": 378,
+      "title": "Không cam lòng buông tay"
+    },
+    {
+      "num": 379,
+      "title": "Cung và triều đình"
+    },
+    {
+      "num": 380,
+      "title": "Tranh giành người trên điện"
+    },
+    {
+      "num": 381,
+      "title": "Chuyện Bộ Hộ (Thượng)"
+    },
+    {
+      "num": 382,
+      "title": "Chuyện ở Bộ Hộ (Hạ)"
+    },
+    {
+      "num": 383,
+      "title": "Tra sổ sách và tác phẩm của người nghệ sĩ (Thượng)"
+    },
+    {
+      "num": 384,
+      "title": "Thanh kiếm của Phạm Kiến"
+    },
+    {
+      "num": 385,
+      "title": "Lăn một quả cầu tuyết lớn"
+    },
+    {
+      "num": 386,
+      "title": "Có lý và thiên uy"
+    },
+    {
+      "num": 387,
+      "title": "Kinh thành giữa độ xuân sâu"
+    },
+    {
+      "num": 388,
+      "title": "Xuân hòa"
+    },
+    {
+      "num": 389,
+      "title": "Cảnh Minh"
+    },
+    {
+      "num": 390,
+      "title": "Sóng gió nổi lên"
+    },
+    {
+      "num": 391,
+      "title": "Ai mà không kinh ngạc?"
+    },
+    {
+      "num": 392,
+      "title": "Cả thành phủ khăn tang trắng, bên dưới là bùn đen"
+    },
+    {
+      "num": 393,
+      "title": "Trên lầu nhìn thấu lòng dân"
+    },
+    {
+      "num": 394,
+      "title": "Ngoài vườn làm loạn, trong vườn ta cười"
+    },
+    {
+      "num": 395,
+      "title": "Tô Châu có một vị khách lạ"
+    },
+    {
+      "num": 396,
+      "title": "Ngươi sao dám giết ta?"
+    },
+    {
+      "num": 397,
+      "title": "Một kiếm chém nghiêng lầu"
+    },
+    {
+      "num": 398,
+      "title": "Cơn bão ý tưởng ở Hoa Viên"
+    },
+    {
+      "num": 399,
+      "title": "Những vầng trăng ấy"
+    },
+    {
+      "num": 400,
+      "title": "Chiếc chăn che chở muôn dân thiên hạ"
+    },
+    {
+      "num": 401,
+      "title": "Cuộc hội ngộ của những đứa con bị ruồng bỏ"
+    },
+    {
+      "num": 402,
+      "title": "Kiếm và thánh chỉ"
+    },
+    {
+      "num": 403,
+      "title": "Chuyện này chẳng liên quan đến phong nguyệt"
+    },
+    {
+      "num": 404,
+      "title": "Trẻ con"
+    },
+    {
+      "num": 405,
+      "title": "Bầu trời sao giống nhau"
+    },
+    {
+      "num": 406,
+      "title": "Cô gia Ngô Châu"
+    },
+    {
+      "num": 407,
+      "title": "Cuộc thương lượng với nhà mẹ đẻ"
+    },
+    {
+      "num": 408,
+      "title": "Nhạc phụ bàn chuyện Quân Sơn Hội"
+    },
+    {
+      "num": 409,
+      "title": "Rời núi"
+    },
+    {
+      "num": 410,
+      "title": "Đến gần thành"
+    },
+    {
+      "num": 411,
+      "title": "Trong thành Giao Châu có người mở tiệc mừng thọ"
+    },
+    {
+      "num": 412,
+      "title": "Có kẻ chơi trò ám sát trong nhà xí"
+    },
+    {
+      "num": 413,
+      "title": "Lại xông vào phủ"
+    },
+    {
+      "num": 414,
+      "title": "Màn kịch trong phủ Đề đốc"
+    },
+    {
+      "num": 415,
+      "title": "Đọc khẩu dụ trong thư phòng"
+    },
+    {
+      "num": 416,
+      "title": "Một đêm mê hoặc lòng người đến mất mạng"
+    },
+    {
+      "num": 417,
+      "title": "Ai là người của ai?"
+    },
+    {
+      "num": 418,
+      "title": "Ta từ phương xa đến để dự hẹn"
+    },
+    {
+      "num": 419,
+      "title": "Chui vào giữa bầy cừu"
+    },
+    {
+      "num": 420,
+      "title": "Gió biển phảng phất mùi tanh"
+    },
+    {
+      "num": 421,
+      "title": "Đại sự có thể thành"
+    },
+    {
+      "num": 422,
+      "title": "Vua tôi đồng lòng"
+    },
+    {
+      "num": 423,
+      "title": "Thiên tử có bệnh"
+    },
+    {
+      "num": 424,
+      "title": "Gió biển có tin"
+    },
+    {
+      "num": 425,
+      "title": "Vinh quy (1)"
+    },
+    {
+      "num": 426,
+      "title": "Vinh quang trở về (2)"
+    },
+    {
+      "num": 427,
+      "title": "Bà cháu, anh em, vợ chồng, ôi…"
+    },
+    {
+      "num": 428,
+      "title": "Lòng từ bi và thói kín đáo là một đôi"
+    },
+    {
+      "num": 429,
+      "title": "Hôm nay Đạm Châu không có đậu phụ"
+    },
+    {
+      "num": 430,
+      "title": "Chỉ xét thân sơ"
+    },
+    {
+      "num": 431,
+      "title": "Những ngày trước khi rời khỏi Đạm Châu"
+    },
+    {
+      "num": 432,
+      "title": "Đêm tuyết gặp cờ xanh"
+    },
+    {
+      "num": 433,
+      "title": "Vương Thập Tam Lang"
+    },
+    {
+      "num": 434,
+      "title": "Trong thung lũng có tuyết"
+    },
+    {
+      "num": 435,
+      "title": "Tuyết trắng, rừng đỏ, tóc đen"
+    },
+    {
+      "num": 436,
+      "title": "Kinh đô, vẫn bình yên chứ?"
+    },
+    {
+      "num": 437,
+      "title": "Trước Xu Mật Viện, những chiếc đầu lâu đáng giá"
+    },
+    {
+      "num": 438,
+      "title": "Lấy gì báo đáp?"
+    },
+    {
+      "num": 439,
+      "title": "Lão gia trồng cải"
+    },
+    {
+      "num": 440,
+      "title": "Ai có thể địch nổi?"
+    },
+    {
+      "num": 441,
+      "title": "Thiên hạ có chó, ai dám đuổi?"
+    },
+    {
+      "num": 442,
+      "title": "Người ở chốn triều đình, thân bất do kỷ"
+    },
+    {
+      "num": 443,
+      "title": "Xe lăn cũ, xe lăn mới"
+    },
+    {
+      "num": 444,
+      "title": "Ba người, ba suy nghĩ"
+    },
+    {
+      "num": 445,
+      "title": "Người trong tranh, tiếng vọng ngoài tranh"
+    },
+    {
+      "num": 446,
+      "title": "Anh cả đừng nói anh hai"
+    },
+    {
+      "num": 447,
+      "title": "Người của ta, người của bọn họ"
+    },
+    {
+      "num": 448,
+      "title": "Ngoài lầu có tuyết, phương Bắc có nỗi nhớ"
+    },
+    {
+      "num": 449,
+      "title": "Rửa tay nấu canh"
+    },
+    {
+      "num": 450,
+      "title": "Tấm lòng son sắt"
+    },
+    {
+      "num": 451,
+      "title": "Nhớ chuyện năm xưa trong ngự thư phòng"
+    },
+    {
+      "num": 452,
+      "title": "Cười nói huynh đệ trước lầu Ôm Trăng"
+    },
+    {
+      "num": 453,
+      "title": "Trên tiệc Hồng Môn bàn chuyện xưa (1)"
+    },
+    {
+      "num": 454,
+      "title": "Tiệc Hồng Môn, luận chuyện xưa nay (2)"
+    },
+    {
+      "num": 455,
+      "title": "Tiệc Hồng Môn, luận chuyện xưa nay (3)"
+    },
+    {
+      "num": 456,
+      "title": "Bàn chuyện thời cuộc giữa tiệc Hồng Môn (Hết)"
+    },
+    {
+      "num": 457,
+      "title": "Sương mù"
+    },
+    {
+      "num": 458,
+      "title": "Tuyết rơi trước bình minh, đậu hoa"
+    },
+    {
+      "num": 459,
+      "title": "Đại Triều Hội"
+    },
+    {
+      "num": 460,
+      "title": "Đạm Bạc Công"
+    },
+    {
+      "num": 461,
+      "title": "Thiên Hạ Hữu Địch"
+    },
+    {
+      "num": 462,
+      "title": "Can hệ quái gì đến ngươi?"
+    },
+    {
+      "num": 463,
+      "title": "Trở về dòng họ"
+    },
+    {
+      "num": 464,
+      "title": "Giữa vua tôi không có chuyện mập mờ"
+    },
+    {
+      "num": 465,
+      "title": "Nhớ năm ấy tuổi còn thơ"
+    },
+    {
+      "num": 466,
+      "title": "Vật nhỏ trong ủng"
+    },
+    {
+      "num": 467,
+      "title": "Những chuyện... rắc rối trong cung"
+    },
+    {
+      "num": 468,
+      "title": "Gặp lại Trưởng công chúa"
+    },
+    {
+      "num": 469,
+      "title": "Đêm cô quạnh trong cung"
+    },
+    {
+      "num": 470,
+      "title": "Ồ, nước mắt"
+    },
+    {
+      "num": 471,
+      "title": "Gốc rễ của cọng rơm nằm ở đâu?"
+    },
+    {
+      "num": 472,
+      "title": "Vạn vật đều có quy luật"
+    },
+    {
+      "num": 473,
+      "title": "Không nóng vội ắt sẽ tới"
+    },
+    {
+      "num": 474,
+      "title": "Phá băng như ngọc"
+    },
+    {
+      "num": 475,
+      "title": "Người khác biệt trong hoàng tộc"
+    },
+    {
+      "num": 476,
+      "title": "Mùi hương mà sinh mạng không thể chịu đựng nổi……"
+    },
+    {
+      "num": 477,
+      "title": "Ta biết mùa hè năm ngoái các người đã làm gì"
+    },
+    {
+      "num": 478,
+      "title": "Thái giám cũng có thể thay đổi cả thiên hạ"
+    },
+    {
+      "num": 479,
+      "title": "Nguồn gốc cái tên Phạm Tam Bảo"
+    },
+    {
+      "num": 480,
+      "title": "Làm cha làm mẹ"
+    },
+    {
+      "num": 481,
+      "title": "Thế hệ thứ ba"
+    },
+    {
+      "num": 482,
+      "title": "Thái độ quyết định tất cả"
+    },
+    {
+      "num": 483,
+      "title": "Tiền trang Chiêu Thương"
+    },
+    {
+      "num": 484,
+      "title": "Cái chết của một cung nữ"
+    },
+    {
+      "num": 485,
+      "title": "Tảng đá lớn đè trúng xe, ai có thể ngăn cản?"
+    },
+    {
+      "num": 486,
+      "title": "Đây là một âm mưu"
+    },
+    {
+      "num": 487,
+      "title": "Những nhân vật lớn"
+    },
+    {
+      "num": 488,
+      "title": "Tiếng cười trong Minh Viên"
+    },
+    {
+      "num": 489,
+      "title": "Con sói Trung Sơn mang ơn rồi quay lại cắn chủ (Thượng)"
+    },
+    {
+      "num": 490,
+      "title": "Con sói con nhà Trung Sơn (Hạ)"
+    },
+    {
+      "num": 491,
+      "title": "Ba đêm trong cung"
+    },
+    {
+      "num": 492,
+      "title": "Nửa canh giờ"
+    },
+    {
+      "num": 493,
+      "title": "Máu và đất vàng trong hoàng cung"
+    },
+    {
+      "num": 494,
+      "title": "Sấm chớp (Thượng)"
+    },
+    {
+      "num": 495,
+      "title": "Mưa giông (Hạ)"
+    },
+    {
+      "num": 496,
+      "title": "Quả Nhân"
+    },
+    {
+      "num": 497,
+      "title": "U tịch"
+    },
+    {
+      "num": 498,
+      "title": "Dòng Chảy"
+    },
+    {
+      "num": 499,
+      "title": "Tiếng Thở Dài"
+    },
+    {
+      "num": 500,
+      "title": "Cái Bẫy"
+    },
+    {
+      "num": 501,
+      "title": "Những quái vật nhỏ thế hệ mới"
+    },
+    {
+      "num": 502,
+      "title": "Cô tiểu thư nhà họ Phạm trong núi và những bức thư"
+    },
+    {
+      "num": 503,
+      "title": "Nếu ngươi đến đầu quân cho ta"
+    },
+    {
+      "num": 504,
+      "title": "Trở về 1"
+    },
+    {
+      "num": 505,
+      "title": "Càng im lặng càng vui vẻ"
+    },
+    {
+      "num": 506,
+      "title": "Trà nhạt, rượu mạnh, giấy chùi đít, thời thế"
+    },
+    {
+      "num": 507,
+      "title": "Lời nói hoang đường"
+    },
+    {
+      "num": 508,
+      "title": "Giọt lệ chua xót"
+    },
+    {
+      "num": 509,
+      "title": "Sự thấp hèn của bậc quân vương (Thượng)"
+    },
+    {
+      "num": 510,
+      "title": "Sự thấp hèn của quân vương (Hạ)"
+    },
+    {
+      "num": 511,
+      "title": "Quân lâm Đông Hải"
+    },
+    {
+      "num": 512,
+      "title": "Sóng vỗ từ vách đá"
+    },
+    {
+      "num": 513,
+      "title": "Mây trắng khởi lên từ đỉnh núi cao"
+    },
+    {
+      "num": 514,
+      "title": "Người trong miếu"
+    },
+    {
+      "num": 515,
+      "title": "Lời trong lòng"
+    },
+    {
+      "num": 516,
+      "title": "Trăng cong cong soi Đông Sơn"
+    },
+    {
+      "num": 517,
+      "title": "Trường cung vây kín Dạ Sơn"
+    },
+    {
+      "num": 518,
+      "title": "Che trăng"
+    },
+    {
+      "num": 519,
+      "title": "Lao mình vào biển giận dữ"
+    },
+    {
+      "num": 520,
+      "title": "Trái tim trên chiến thuyền"
+    },
+    {
+      "num": 521,
+      "title": "Truy bắt (Thượng)"
+    },
+    {
+      "num": 522,
+      "title": "Truy bắt (Trung)"
+    },
+    {
+      "num": 523,
+      "title": "Truy bắt (Hạ)"
+    },
+    {
+      "num": 524,
+      "title": "Một phát súng kinh thiên động địa"
+    },
+    {
+      "num": 525,
+      "title": "Mũi tên đau lòng"
+    },
+    {
+      "num": 526,
+      "title": "Đại Tông Sư"
+    },
+    {
+      "num": 527,
+      "title": "Nhân gian"
+    },
+    {
+      "num": 528,
+      "title": "Hội Đông Sơn"
+    },
+    {
+      "num": 529,
+      "title": "Đại Hành"
+    },
+    {
+      "num": 530,
+      "title": "Tiếng ve kêu ở kinh thành"
+    },
+    {
+      "num": 531,
+      "title": "Trên lòng mỗi người đều có một lớp da"
+    },
+    {
+      "num": 532,
+      "title": "Thu sang"
+    },
+    {
+      "num": 533,
+      "title": "Xin mượn xương cốt của tiên sinh dùng một phen"
+    },
+    {
+      "num": 534,
+      "title": "Tiếng khóc bi thương"
+    },
+    {
+      "num": 535,
+      "title": "Hắn thật ra vẫn luôn ở đó"
+    },
+    {
+      "num": 536,
+      "title": "Cuộc gặp bí mật trong ngõ Dương Thông"
+    },
+    {
+      "num": 537,
+      "title": "Ai có thể mãi giữ lòng thanh thản?"
+    },
+    {
+      "num": 538,
+      "title": "Có con trèo tường"
+    },
+    {
+      "num": 539,
+      "title": "Nhà ai đây?"
+    },
+    {
+      "num": 540,
+      "title": "Giết người chưa bao giờ cần rút kiếm"
+    },
+    {
+      "num": 541,
+      "title": "Lần đầu tiên rút con dao găm giấu trong ủng"
+    },
+    {
+      "num": 542,
+      "title": "Đêm hôm ấy"
+    },
+    {
+      "num": 543,
+      "title": "Đêm ấy, khẽ gõ cửa dưới trăng và xông thẳng vào cung bằng thế dữ dội"
+    },
+    {
+      "num": 544,
+      "title": "Mạnh mẽ, bởi có quyết tâm"
+    },
+    {
+      "num": 545,
+      "title": "Bản lĩnh đến từ quyết tâm"
+    },
+    {
+      "num": 546,
+      "title": "Mấy mũi tên"
+    },
+    {
+      "num": 547,
+      "title": "Thái giám đa tình, mũi tên vô tình"
+    },
+    {
+      "num": 548,
+      "title": "Ra tay tàn độc (Thượng)"
+    },
+    {
+      "num": 549,
+      "title": "Ra tay tàn độc (Hạ)"
+    },
+    {
+      "num": 550,
+      "title": "Bóng dáng của Trần Bình Bình trên đường chạy nạn và đứa trẻ…"
+    },
+    {
+      "num": 551,
+      "title": "Gậy ông đập lưng ông"
+    },
+    {
+      "num": 552,
+      "title": "Giăng bẫy chờ quân địch"
+    },
+    {
+      "num": 553,
+      "title": "Vinh quang"
+    },
+    {
+      "num": 554,
+      "title": "Đoạt cờ, đoạt thế, đoạt lòng người"
+    },
+    {
+      "num": 555,
+      "title": "Đưa bài vị thần chủ ra đầu thành"
+    },
+    {
+      "num": 556,
+      "title": "Ngồi bệt dưới thành, chẳng được yên thân"
+    },
+    {
+      "num": 557,
+      "title": "Ai đem lòng quân ví với biển lửa"
+    },
+    {
+      "num": 558,
+      "title": "Lấy Hắc Kỵ mở màn"
+    },
+    {
+      "num": 559,
+      "title": "Kinh Qua đâm Tần!"
+    },
+    {
+      "num": 560,
+      "title": "Giết Tần"
+    },
+    {
+      "num": 561,
+      "title": "Khoảnh khắc trong một ánh mắt – Vô gián"
+    },
+    {
+      "num": 562,
+      "title": "Sự ổn định của quân Định Châu"
+    },
+    {
+      "num": 563,
+      "title": "Thái Bình Biệt Viện"
+    },
+    {
+      "num": 564,
+      "title": "Một cây hoa, một tiếng đàn, một con người"
+    },
+    {
+      "num": 565,
+      "title": "Mây vô tình bay khỏi tay áo, kiếm đã quyết đâm ra thì chẳng biết đường quay về"
+    },
+    {
+      "num": 566,
+      "title": "Vương đạo"
+    },
+    {
+      "num": 567,
+      "title": "Như thác đổ ra biển, như núi sừng sững đón mặt trời"
+    },
+    {
+      "num": 568,
+      "title": "Nhân quả trên Đại Đông Sơn"
+    },
+    {
+      "num": 569,
+      "title": "Giấy rơi xuống hồ, cá liền xao động; tay áo vừa vén màn, người đã lìa đời"
+    },
+    {
+      "num": 570,
+      "title": "Lời từ biệt giữa những đóa hoa xanh"
+    },
+    {
+      "num": 571,
+      "title": "Cái chết hoặc sự sống có phẩm giá"
+    },
+    {
+      "num": 572,
+      "title": "Gừng già cũng dần nhạt"
+    },
+    {
+      "num": 573,
+      "title": "Những trái nho giận dữ"
+    },
+    {
+      "num": 574,
+      "title": "Người canh giữ cánh đồng lúa mạch"
+    },
+    {
+      "num": 575,
+      "title": "Nửa sau của quyển sách dành cho cha và con"
+    },
+    {
+      "num": 576,
+      "title": "Lắng nghe tiếng chuông"
+    },
+    {
+      "num": 577,
+      "title": "0 năm cô độc"
+    },
+    {
+      "num": 578,
+      "title": "Con gái nhỏ của cha"
+    },
+    {
+      "num": 579,
+      "title": "Ra vào lầu nhỏ, lòng dần dịu lại"
+    },
+    {
+      "num": 580,
+      "title": "Tâm ý của Hoàng đế"
+    },
+    {
+      "num": 581,
+      "title": "Tiễn biệt chiến hữu"
+    },
+    {
+      "num": 582,
+      "title": "Thanh sơn chẳng thể che khuất"
+    },
+    {
+      "num": 583,
+      "title": "Mùa đông bất mãn của chúng ta"
+    },
+    {
+      "num": 584,
+      "title": "Những vụ kiện giữa dòng đời"
+    },
+    {
+      "num": 585,
+      "title": "Khúc hát của Hồ Ca trong Định Châu"
+    },
+    {
+      "num": 586,
+      "title": "Đại Tướng Quân phủ"
+    },
+    {
+      "num": 587,
+      "title": "Rượu mạnh sưởi ấm lòng người"
+    },
+    {
+      "num": 588,
+      "title": "Đoạn đao"
+    },
+    {
+      "num": 589,
+      "title": "Người cũ nơi biên thành"
+    },
+    {
+      "num": 590,
+      "title": "Người trẻ tuổi bước ra từ vương trướng"
+    },
+    {
+      "num": 591,
+      "title": "Thiền vu"
+    },
+    {
+      "num": 592,
+      "title": "Hai năm"
+    },
+    {
+      "num": 593,
+      "title": "Hoa hải đường bên hồ"
+    },
+    {
+      "num": 594,
+      "title": "Ba ngày"
+    },
+    {
+      "num": 595,
+      "title": "Dư âm trận chiến tâm lý"
+    },
+    {
+      "num": 596,
+      "title": "Đồng cỏ mùa thu, nắng sớm, Hắc Kỵ"
+    },
+    {
+      "num": 597,
+      "title": "Trở về"
+    },
+    {
+      "num": 598,
+      "title": "Ngoài cửa sổ"
+    },
+    {
+      "num": 599,
+      "title": "Ngắm thấu cảnh sắc ấy"
+    },
+    {
+      "num": 600,
+      "title": "Trở về kinh thành dưới ánh mắt dõi theo trên cổng thành"
+    },
+    {
+      "num": 601,
+      "title": "Chuyện cũ nơi cổng thành, người xưa chẳng còn"
+    },
+    {
+      "num": 602,
+      "title": "Tiểu thư nhà họ Vương"
+    },
+    {
+      "num": 603,
+      "title": "Nhận hay không nhận, đó không phải vấn đề"
+    },
+    {
+      "num": 604,
+      "title": "Bàn tính"
+    },
+    {
+      "num": 605,
+      "title": "Sấm sét của thiên tử và quân bài thất lạc của Phạm Nhàn"
+    },
+    {
+      "num": 606,
+      "title": "Ánh trăng vẫn như xưa"
+    },
+    {
+      "num": 607,
+      "title": "Người thầy thuốc nghĩ gì"
+    },
+    {
+      "num": 608,
+      "title": "Tiếng hát giữa đêm khuya"
+    },
+    {
+      "num": 609,
+      "title": "Mối liên hệ giữa hai viện"
+    },
+    {
+      "num": 610,
+      "title": "Gió đông thổi tới"
+    },
+    {
+      "num": 611,
+      "title": "Màn kịch kéo dài đến mùa đông"
+    },
+    {
+      "num": 612,
+      "title": "Xuân về, ta cũng lên đường"
+    },
+    {
+      "num": 613,
+      "title": "Cùng một con đường"
+    },
+    {
+      "num": 614,
+      "title": "Chu Công làm thầy"
+    },
+    {
+      "num": 615,
+      "title": "Rảnh tay chém mai"
+    },
+    {
+      "num": 616,
+      "title": "Bóng theo thân ta"
+    },
+    {
+      "num": 617,
+      "title": "Đời người, nơi nào chẳng có ngày gặp lại"
+    },
+    {
+      "num": 618,
+      "title": "Nữ tử nơi sơn cư và lòng vua"
+    },
+    {
+      "num": 619,
+      "title": "Bẻ liễu mở đường vào Kiếm Lư"
+    },
+    {
+      "num": 620,
+      "title": "Khách trong lư"
+    },
+    {
+      "num": 621,
+      "title": "Bí mật trong ánh chiều tà"
+    },
+    {
+      "num": 622,
+      "title": "Cuộc vui đích thực trước điện"
+    },
+    {
+      "num": 623,
+      "title": "Triều vua nào, bề tôi nấy"
+    },
+    {
+      "num": 624,
+      "title": "Chải tóc"
+    },
+    {
+      "num": 625,
+      "title": "Cái bẫy trong Kiếm Lư"
+    },
+    {
+      "num": 626,
+      "title": "Lão già"
+    },
+    {
+      "num": 627,
+      "title": "Cây lớn thật đấy!"
+    },
+    {
+      "num": 628,
+      "title": "Chỉ trong một ánh mắt"
+    },
+    {
+      "num": 629,
+      "title": "Ba người cùng đi"
+    },
+    {
+      "num": 630,
+      "title": "Rút kiếm, ngoảnh nhìn bốn phía, lòng mờ mịt"
+    },
+    {
+      "num": 631,
+      "title": "Không phải bậc thánh nhân thì không thể dùng kiếm"
+    },
+    {
+      "num": 632,
+      "title": "Gieo độc"
+    },
+    {
+      "num": 633,
+      "title": "Chúng ta đều là những vùng biển mang màu sắc khác nhau"
+    },
+    {
+      "num": 634,
+      "title": "Sóng biển rút đi"
+    },
+    {
+      "num": 635,
+      "title": "Hồi kinh thành xin chức quan"
+    },
+    {
+      "num": 636,
+      "title": "Bàn chuyện hôn nhân, luận công ban thưởng"
+    },
+    {
+      "num": 637,
+      "title": "Tranh quyền đoạt viện"
+    },
+    {
+      "num": 638,
+      "title": "Lớn lên chỉ sau một đêm"
+    },
+    {
+      "num": 639,
+      "title": "Nỗi lòng giữa hai biệt viện"
+    },
+    {
+      "num": 640,
+      "title": "Nấm Mồ"
+    },
+    {
+      "num": 641,
+      "title": "Đài tỷ thí"
+    },
+    {
+      "num": 642,
+      "title": "Một chén trà nhạt, biết ấm lạnh"
+    },
+    {
+      "num": 643,
+      "title": "Giả vờ ngông cuồng giữa tiệc"
+    },
+    {
+      "num": 644,
+      "title": "Chiếc ô đen trong Thái Học và ánh sáng trên sống mũi"
+    },
+    {
+      "num": 645,
+      "title": "Loạn trong vườn xuân"
+    },
+    {
+      "num": 646,
+      "title": "Kẽ hở"
+    },
+    {
+      "num": 647,
+      "title": "Phạm sai lầm"
+    },
+    {
+      "num": 648,
+      "title": "Ngư Trường"
+    },
+    {
+      "num": 649,
+      "title": "Người nông dân, sơn trang, mấy mẫu ruộng"
+    },
+    {
+      "num": 650,
+      "title": "Thập Gia Thôn"
+    },
+    {
+      "num": 651,
+      "title": "Lẽ công bằng của trời"
+    },
+    {
+      "num": 652,
+      "title": "Ánh sao rơi xuống nhân gian"
+    },
+    {
+      "num": 653,
+      "title": "Ý chí, chính là vương đạo"
+    },
+    {
+      "num": 654,
+      "title": "Thần miếu, kiến và cuốn sổ nhỏ"
+    },
+    {
+      "num": 655,
+      "title": "Mình đầy phong ba, ta từ biển khơi trở về (1)"
+    },
+    {
+      "num": 656,
+      "title": "Mình đầy phong ba, ta từ biển khơi trở về (2)"
+    },
+    {
+      "num": 657,
+      "title": "Mình đầy phong ba, ta từ biển khơi trở về (3)"
+    },
+    {
+      "num": 658,
+      "title": "Tay không có gì, kiếm vẫn có một chiêu"
+    },
+    {
+      "num": 659,
+      "title": "Mạch tiền thiên hạ, nhất định phải giết!"
+    },
+    {
+      "num": 660,
+      "title": "Mở Lư"
+    },
+    {
+      "num": 661,
+      "title": "Nên nghĩ như vậy"
+    },
+    {
+      "num": 662,
+      "title": "Cuộc chinh phục đơn giản"
+    },
+    {
+      "num": 663,
+      "title": "Lòng muốn dẹp loạn"
+    },
+    {
+      "num": 664,
+      "title": "Đường về nhuốm máu"
+    },
+    {
+      "num": 665,
+      "title": "Gió nổi"
+    },
+    {
+      "num": 666,
+      "title": "Nương tử"
+    },
+    {
+      "num": 667,
+      "title": "Đều là người từ kinh đô đến"
+    },
+    {
+      "num": 668,
+      "title": "Liều mạng"
+    },
+    {
+      "num": 669,
+      "title": "Trời sinh một đôi"
+    },
+    {
+      "num": 670,
+      "title": "Trẫm muốn lão già đó còn sống"
+    },
+    {
+      "num": 671,
+      "title": "Người quân tử, bạn bè, đường lui"
+    },
+    {
+      "num": 672,
+      "title": "Chiếc xe lăn trong gió đêm"
+    },
+    {
+      "num": 673,
+      "title": "Mở màn cuộc chiến của hai người"
+    },
+    {
+      "num": 674,
+      "title": "Nỗi cô độc của một cỗ xe – Vào thành"
+    },
+    {
+      "num": 675,
+      "title": "Chuyện cũ mấy chục năm – Nỗi phẫn nộ"
+    },
+    {
+      "num": 676,
+      "title": "Thì đã sao"
+    },
+    {
+      "num": 677,
+      "title": "Giám sát trời đất, quyết không lùi bước"
+    },
+    {
+      "num": 678,
+      "title": "Mối thù của Trần Bình Bình"
+    },
+    {
+      "num": 679,
+      "title": "Trúc nở hoa trong Ngự thư phòng"
+    },
+    {
+      "num": 680,
+      "title": "Một ngón tay và sự khuất phục của Giám Sát Viện"
+    },
+    {
+      "num": 681,
+      "title": "Kinh đô đại loạn, nến đỏ lay động"
+    },
+    {
+      "num": 682,
+      "title": "Cười nhìn anh hùng chẳng phải chuyện tầm thường (1)"
+    },
+    {
+      "num": 683,
+      "title": "Cười nhìn anh hùng chẳng phải hạng tầm thường (2)"
+    },
+    {
+      "num": 684,
+      "title": "Cười nhìn anh hùng chẳng phải hạng tầm thường (3)"
+    },
+    {
+      "num": 685,
+      "title": "Tiễn Trần Bình Bình trong mưa"
+    },
+    {
+      "num": 686,
+      "title": "Lại không đề tên"
+    },
+    {
+      "num": 687,
+      "title": "Ngủ vùi ở phủ họ Phạm, chẳng muốn tỉnh"
+    },
+    {
+      "num": 688,
+      "title": "Núi tuyết trong mộng, chậu nước đỏ máu"
+    },
+    {
+      "num": 689,
+      "title": "Rửa tay, cách chức"
+    },
+    {
+      "num": 690,
+      "title": "Bảy ngày"
+    },
+    {
+      "num": 691,
+      "title": "Nhóm Khải Niên mỗi người một ngả"
+    },
+    {
+      "num": 692,
+      "title": "Khánh Miếu có mưa"
+    },
+    {
+      "num": 693,
+      "title": "Tên ngôi miếu, bóng dáng con người"
+    },
+    {
+      "num": 694,
+      "title": "Chuẩn bị"
+    },
+    {
+      "num": 695,
+      "title": "Cô Hai nhà họ Phạm trong cung"
+    },
+    {
+      "num": 696,
+      "title": "Quân thần gặp lại, liệu có thể bình yên?"
+    },
+    {
+      "num": 697,
+      "title": "Vâng, bệ hạ"
+    },
+    {
+      "num": 698,
+      "title": "Dâng rau"
+    },
+    {
+      "num": 699,
+      "title": "Nhìn kìa, đẹp biết bao"
+    },
+    {
+      "num": 700,
+      "title": "Kẻ nhàn rỗi ở kinh thành"
+    },
+    {
+      "num": 701,
+      "title": "Phía Bắc Có Biến"
+    },
+    {
+      "num": 702,
+      "title": "Sự thật đằng sau những bông tuyết"
+    },
+    {
+      "num": 703,
+      "title": "Đông lại về"
+    },
+    {
+      "num": 704,
+      "title": "Khúc bi ca của Tây Hồ sau thất bại thảm hại"
+    },
+    {
+      "num": 705,
+      "title": "Bình định Tây Lương"
+    },
+    {
+      "num": 706,
+      "title": "Giang Nam nổi loạn"
+    },
+    {
+      "num": 707,
+      "title": "Kinh Hoa, Giang Nam đều đẫm máu"
+    },
+    {
+      "num": 708,
+      "title": "Ai đang tung hoành khắp kinh thành?"
+    },
+    {
+      "num": 709,
+      "title": "Trước điện vui tàn, ruột gan đứt đoạn"
+    },
+    {
+      "num": 710,
+      "title": "Áo vải một kiếm diện kiến thiên tử (1)"
+    },
+    {
+      "num": 711,
+      "title": "Áo vải, một kiếm vào chầu thiên tử (2)"
+    },
+    {
+      "num": 712,
+      "title": "Áo vải, một kiếm vào chầu thiên tử (3): (Chương hôm nay viết hơi chậm, nhưng tôi rất hài lòng. Ngày mai sẽ kể vì sao Phạm Nhàn lại làm như vậy, sau đó thì ừm ừm a a... Chợt nhớ đến câu giới thiệu trong phần giới thiệu của trang nhà Tửu Đồ...) Mặc áo vải bông ấm áp, ngồi trên giường đất nhâm nhi chén rượu vừa trong vừa cay nồng. Mùa xuân, những guồng nước ở vùng sông nước Giang Nam chầm chậm quay, những công trình thủy lợi tưởng chừng chẳng có gì nổi bật ấy vẫn âm thầm phát huy tác dụng. Mùa hè, những chiếc quạt lá lớn phe phẩy làn gió mát trong nhà các phú hộ. Từng đoàn xe, đoàn thuyền từ các xưởng sản xuất nối nhau rời bến, đưa hàng hóa đến tay người cần dùng khắp thiên hạ."
+    },
+    {
+      "num": 713,
+      "title": "Áo vải một kiếm chầu thiên tử (4)"
+    },
+    {
+      "num": 714,
+      "title": "Áo vải một kiếm hướng thiên tử (5)"
+    },
+    {
+      "num": 715,
+      "title": "Núi xanh phủ tuyết, kiếm lạnh như sương (1)"
+    },
+    {
+      "num": 716,
+      "title": "Núi xanh phủ tuyết, kiếm vương sương (2): Trong khoảnh khắc..."
+    },
+    {
+      "num": 717,
+      "title": "Tuyết lạnh, chớ loạn"
+    },
+    {
+      "num": 718,
+      "title": "Một đêm gió bấc thổi mạnh"
+    },
+    {
+      "num": 719,
+      "title": "Ngày xưa có một ngọn núi"
+    },
+    {
+      "num": 720,
+      "title": "Trong núi có một ngôi miếu"
+    },
+    {
+      "num": 721,
+      "title": "Trong miếu có một người (Thượng)"
+    },
+    {
+      "num": 722,
+      "title": "Trong miếu có một người (trung)"
+    },
+    {
+      "num": 723,
+      "title": "Trong miếu có một người (hạ)"
+    },
+    {
+      "num": 724,
+      "title": "Người kia kể một câu chuyện"
+    },
+    {
+      "num": 725,
+      "title": "Bức tranh phong tình về phóng xạ"
+    },
+    {
+      "num": 726,
+      "title": "Nỗi cô độc của một người"
+    },
+    {
+      "num": 727,
+      "title": "Mạnh nhất, chính là danh tiếng của con người!"
+    },
+    {
+      "num": 728,
+      "title": "Ruộng vườn sắp hoang, sao còn chưa về? (Thượng)"
+    },
+    {
+      "num": 729,
+      "title": "Vườn nhà sắp hoang, sao còn chưa về? (Hạ)"
+    },
+    {
+      "num": 730,
+      "title": "Chạng vạng"
+    },
+    {
+      "num": 731,
+      "title": "Khô héo"
+    },
+    {
+      "num": 732,
+      "title": "Buổi trưa (Thượng)"
+    },
+    {
+      "num": 733,
+      "title": "Buổi trưa (Hạ)"
+    },
+    {
+      "num": 734,
+      "title": "Hoa thủy tinh"
+    },
+    {
+      "num": 735,
+      "title": "Trước hoàng thành, ngày mưa"
+    },
+    {
+      "num": 736,
+      "title": "Ai sẽ cúi đầu trước cửa cung?"
+    },
+    {
+      "num": 737,
+      "title": "Cầu vồng năm thứ mười hai Nam Khánh (1)"
+    },
+    {
+      "num": 738,
+      "title": "Cầu vồng năm thứ mười hai Nam Khánh (2)"
+    },
+    {
+      "num": 739,
+      "title": "Cầu vồng năm Nam Khánh thứ 12 (3)"
+    },
+    {
+      "num": 740,
+      "title": "Chương cuối – Về sau"
+    }
+  ],
+  "slug": "khanh_du_nien",
+  "title": "Khánh Dư Niên",
+  "author": "Miêu Nị (貓膩)",
+  "synopsis": "Truyện lịch sử giả tưởng, quyền mưu của Miêu Nị (貓膩), đã hoàn thành. Phạm Nhàn xuyên không, lớn lên ở Đam Châu rồi bước vào kinh đô nước Khánh, nơi hắn phải đối mặt với âm mưu triều đình, những cuộc đấu đá giữa các hoàng tử, sứ đoàn đi sứ và thế lực giang hồ. Truyện nổi tiếng với nhịp kể thông minh, nhân vật sắc nét và những ván cờ quyền lực nhiều tầng, dài 740 chương.",
+  "coverColor": "#2c3e50"
+}
