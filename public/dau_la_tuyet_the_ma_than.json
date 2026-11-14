@@ -1,0 +1,830 @@
+{
+  "totalChapters": 205,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Bỉ Bỉ Sênh"
+    },
+    {
+      "num": 2,
+      "title": "Tổng bộ Võ Hồn Điện"
+    },
+    {
+      "num": 3,
+      "title": "Chọc cho Thiên Nhận Tuyết khóc"
+    },
+    {
+      "num": 4,
+      "title": "Thiên Đạo Lưu"
+    },
+    {
+      "num": 5,
+      "title": "Thiên Tầm Tật truy sát Đường Hạo"
+    },
+    {
+      "num": 6,
+      "title": "Bỉ Bỉ Sênh nhặt xác"
+    },
+    {
+      "num": 7,
+      "title": "Bỉ Bỉ Sênh ra tay"
+    },
+    {
+      "num": 8,
+      "title": "Bỉ Bỉ Đông nuốt chửng Thiên Tầm Tật"
+    },
+    {
+      "num": 9,
+      "title": "Bỉ Bỉ Đông lên ngôi Giáo Hoàng"
+    },
+    {
+      "num": 10,
+      "title": "Thiên Nhận Tuyết rời đi"
+    },
+    {
+      "num": 11,
+      "title": "Hồ Liệt Na"
+    },
+    {
+      "num": 12,
+      "title": "Đã đến hẹn sáu năm, thức tỉnh võ hồn"
+    },
+    {
+      "num": 13,
+      "title": "Võ hồn cỏ dại vô dụng? Cửu Diệp Kiếm Thảo!"
+    },
+    {
+      "num": 14,
+      "title": "Cửu Diệp Kiếm Thảo, tiên thiên cấp 20!"
+    },
+    {
+      "num": 15,
+      "title": "Bỉ Bỉ Đông rối bời"
+    },
+    {
+      "num": 16,
+      "title": "Thần khảo đến rồi, lại chạy mất!"
+    },
+    {
+      "num": 17,
+      "title": "Hồn Đạo Khí! Vòng Cổ Sắt Máu Của Nữ Hoàng Lưỡi Dao"
+    },
+    {
+      "num": 18,
+      "title": "Sinh Nhật Sáu Tuổi"
+    },
+    {
+      "num": 19,
+      "title": "Trò Chuyện Trên Đường Đi"
+    },
+    {
+      "num": 20,
+      "title": "Vùng ngoài của Tinh Đấu Sâm Lâm"
+    },
+    {
+      "num": 21,
+      "title": "Hồi ức của Bỉ Bỉ Đông"
+    },
+    {
+      "num": 22,
+      "title": "Hồn hoàn trăm năm? Không được!"
+    },
+    {
+      "num": 23,
+      "title": "Hồn hoàn ngàn năm cũng không được"
+    },
+    {
+      "num": 24,
+      "title": "Muốn có hồn hoàn vạn năm"
+    },
+    {
+      "num": 25,
+      "title": "Hấp thu hồn hoàn vạn năm"
+    },
+    {
+      "num": 26,
+      "title": "Năng lực của Cửu Diệp Kiếm Thảo"
+    },
+    {
+      "num": 27,
+      "title": "Hồn hoàn vạn năm thứ hai"
+    },
+    {
+      "num": 28,
+      "title": "Ngoại phụ hồn cốt – Lục Sí Tử Quang Dực"
+    },
+    {
+      "num": 29,
+      "title": "Bách Hoa Bảo Lục của Cúc Đấu La"
+    },
+    {
+      "num": 30,
+      "title": "Cuộc họp của Võ Hồn Điện"
+    },
+    {
+      "num": 31,
+      "title": "Bỉ Bỉ Sênh nhập học viện"
+    },
+    {
+      "num": 32,
+      "title": "Đăng ký nhập học"
+    },
+    {
+      "num": 33,
+      "title": "Bắt đầu lên lớp"
+    },
+    {
+      "num": 34,
+      "title": "Anh trai ruột của Hồ Liệt Na – Tà Nguyệt"
+    },
+    {
+      "num": 35,
+      "title": "Ngọn lửa của Diễm"
+    },
+    {
+      "num": 36,
+      "title": "Tà Nguyệt"
+    },
+    {
+      "num": 37,
+      "title": "Diễm Tâm Phục Khẩu Phục"
+    },
+    {
+      "num": 38,
+      "title": "Những ngày tháng ở học viện"
+    },
+    {
+      "num": 39,
+      "title": "Thoắt cái đã bốn năm"
+    },
+    {
+      "num": 40,
+      "title": "Rèn luyện tại Hẻm Núi Mê Tung"
+    },
+    {
+      "num": 41,
+      "title": "Bọ Hung Khổng Lồ"
+    },
+    {
+      "num": 42,
+      "title": "Đứa Trẻ Đen Đủi"
+    },
+    {
+      "num": 43,
+      "title": "Đường Hạo Và Đường Tam Chán Chường"
+    },
+    {
+      "num": 44,
+      "title": "Kẻ bịp bợm đại tài Ngọc Tiểu Cương"
+    },
+    {
+      "num": 45,
+      "title": "Kết thúc chuyến rèn luyện, trở về."
+    },
+    {
+      "num": 46,
+      "title": "Nỗi lo trong lòng Bỉ Bỉ Đông"
+    },
+    {
+      "num": 47,
+      "title": "Tà Hồn Sư xuất hiện"
+    },
+    {
+      "num": 48,
+      "title": "Theo dõi Tà Hồn Sư"
+    },
+    {
+      "num": 49,
+      "title": "Căn cứ của Tà Hồn Sư"
+    },
+    {
+      "num": 50,
+      "title": "Trêu đùa tà hồn sư"
+    },
+    {
+      "num": 51,
+      "title": "Lưỡi Đao Ma Thần, Trảm Hồn Phong Ma"
+    },
+    {
+      "num": 52,
+      "title": "Khép lại"
+    },
+    {
+      "num": 53,
+      "title": "Thiên Nhận Tuyết trở về"
+    },
+    {
+      "num": 54,
+      "title": "Tuyết và Sênh gặp lại"
+    },
+    {
+      "num": 55,
+      "title": "Đối đầu gay gắt"
+    },
+    {
+      "num": 56,
+      "title": "Đang chuẩn bị chiến đấu"
+    },
+    {
+      "num": 57,
+      "title": "Các nhân vật cấp cao của Võ Hồn Điện tụ họp đông đủ"
+    },
+    {
+      "num": 58,
+      "title": "Lục Dực và Cửu Diệp"
+    },
+    {
+      "num": 59,
+      "title": "Trận đấu đang diễn ra"
+    },
+    {
+      "num": 60,
+      "title": "Đấu lĩnh vực, nhỉnh hơn một bậc!"
+    },
+    {
+      "num": 61,
+      "title": "Huyết Thánh Tử"
+    },
+    {
+      "num": 62,
+      "title": "Thiên Nhận Tuyết trở về Thiên Đấu"
+    },
+    {
+      "num": 63,
+      "title": "Ám Ma Tà Thần Hổ"
+    },
+    {
+      "num": 64,
+      "title": "Thánh Tử, cứu ta!"
+    },
+    {
+      "num": 65,
+      "title": "Sự biến đổi của viên ngọc và hồn hoàn"
+    },
+    {
+      "num": 66,
+      "title": "Hồn kỹ cực mạnh"
+    },
+    {
+      "num": 67,
+      "title": "Đặt chân đến Thiên Đấu Thành"
+    },
+    {
+      "num": 68,
+      "title": "Giáng lâm Thiên Đấu Thánh Điện"
+    },
+    {
+      "num": 69,
+      "title": "Đột nhập phủ Thái tử lúc nửa đêm (3000 chữ)"
+    },
+    {
+      "num": 70,
+      "title": "Đụng Trúng Cảnh Thiên Nhận Tuyết Tắm"
+    },
+    {
+      "num": 71,
+      "title": "Không sao, ta sẽ ra tay"
+    },
+    {
+      "num": 72,
+      "title": "Tìm kiếm hồn hoàn cho Thiên Nhận Tuyết"
+    },
+    {
+      "num": 73,
+      "title": "Chướng độc trong Lạc Nhật Sâm Lâm"
+    },
+    {
+      "num": 74,
+      "title": "Độc Đấu La đánh lén Quỷ Đấu La"
+    },
+    {
+      "num": 75,
+      "title": "Giẫm nát Độc Cô Bác"
+    },
+    {
+      "num": 76,
+      "title": "Lần đầu tiên Bỉ Bỉ Sênh ra lệnh"
+    },
+    {
+      "num": 77,
+      "title": "Sự bá đạo của Võ Hồn Điện"
+    },
+    {
+      "num": 78,
+      "title": "Lần đầu tiên chung giường"
+    },
+    {
+      "num": 79,
+      "title": "Băng Hỏa Lưỡng Nghi Nhãn"
+    },
+    {
+      "num": 80,
+      "title": "Đường La Cúc phát điên"
+    },
+    {
+      "num": 81,
+      "title": "Băng Hỏa rèn thân, thực lực tiến thêm một bước"
+    },
+    {
+      "num": 82,
+      "title": "Mẹ ơi, con lạnh quá!"
+    },
+    {
+      "num": 83,
+      "title": "Đêm tâm sự thật lòng"
+    },
+    {
+      "num": 84,
+      "title": "Bỉ Bỉ Đông dùng tiên thảo"
+    },
+    {
+      "num": 85,
+      "title": "Vùng cực Bắc"
+    },
+    {
+      "num": 86,
+      "title": "Tin tức do Thủy Băng Nhi mang đến"
+    },
+    {
+      "num": 87,
+      "title": "Tìm kiếm hồn thú mười vạn năm"
+    },
+    {
+      "num": 88,
+      "title": "Băng Phượng Hoàng lại đi theo đường khống chế?"
+    },
+    {
+      "num": 89,
+      "title": "Bạo Huyết Hùng Băng Tuyết mười vạn năm"
+    },
+    {
+      "num": 90,
+      "title": "Chín Kiếm Chém Thần"
+    },
+    {
+      "num": 91,
+      "title": "Lời mở đầu khi truyện lên kệ"
+    },
+    {
+      "num": 92,
+      "title": "Lên đường trở về (Cầu đăng ký)"
+    },
+    {
+      "num": 93,
+      "title": "Cúc Đấu La và Quỷ Đấu La đột phá Siêu Đấu La"
+    },
+    {
+      "num": 94,
+      "title": "Hồn Cốt? Ảnh Hưởng Đến Sức Mạnh"
+    },
+    {
+      "num": 95,
+      "title": "Hai năm sau"
+    },
+    {
+      "num": 96,
+      "title": "Cuộc tuyển chọn chiến đội"
+    },
+    {
+      "num": 97,
+      "title": "Lại ba năm nữa"
+    },
+    {
+      "num": 98,
+      "title": "Khụ khụ, Chu Trúc Thanh"
+    },
+    {
+      "num": 99,
+      "title": "Phát hiện một chú thỏ con màu hồng"
+    },
+    {
+      "num": 100,
+      "title": "Chuẩn bị đến phá sân"
+    },
+    {
+      "num": 101,
+      "title": "Học viện Shrek"
+    },
+    {
+      "num": 102,
+      "title": "Đè bẹp Hồn Thánh"
+    },
+    {
+      "num": 103,
+      "title": "Bỉ Bỉ Sênh làm giáo viên Học viện Sử Lai Khắc"
+    },
+    {
+      "num": 104,
+      "title": "Đánh gục năm thầy giáo"
+    },
+    {
+      "num": 105,
+      "title": "Bỉ Bỉ Sênh trổ tài hiểu biết rộng"
+    },
+    {
+      "num": 106,
+      "title": "Trổ tài một chút"
+    },
+    {
+      "num": 107,
+      "title": "Ninh Phong Trí kinh ngạc"
+    },
+    {
+      "num": 108,
+      "title": "Sự cố chấp của Chu Trúc Thanh"
+    },
+    {
+      "num": 109,
+      "title": "Đường Hạo xuất hiện"
+    },
+    {
+      "num": 110,
+      "title": "Giết gà cần gì dùng đến dao mổ trâu"
+    },
+    {
+      "num": 111,
+      "title": "Xuất phát! Rừng Tinh Đấu."
+    },
+    {
+      "num": 112,
+      "title": "Bức thư của Bỉ Bỉ Sênh"
+    },
+    {
+      "num": 113,
+      "title": "Gặp gỡ Thương Huy Học Viện"
+    },
+    {
+      "num": 114,
+      "title": "Khí phách của Bỉ Bỉ Sênh khiến người khác phải khiếp sợ"
+    },
+    {
+      "num": 115,
+      "title": "Thái Thản Cự Viên xuất hiện"
+    },
+    {
+      "num": 116,
+      "title": "Kiếm Trảm Thái Thản Cự Viên"
+    },
+    {
+      "num": 117,
+      "title": "Thiên Thanh Ngưu Mãng"
+    },
+    {
+      "num": 118,
+      "title": "Diệt Môn"
+    },
+    {
+      "num": 119,
+      "title": "Không! Lý thuyết của ta không ai có thể bác bỏ."
+    },
+    {
+      "num": 120,
+      "title": "La Sát Thần"
+    },
+    {
+      "num": 121,
+      "title": "Bắt đầu huấn luyện Chu Trúc Thanh"
+    },
+    {
+      "num": 122,
+      "title": "Tranh luận với Ngọc Tiểu Cương"
+    },
+    {
+      "num": 123,
+      "title": "Đường Tam tìm cách xác nhận"
+    },
+    {
+      "num": 124,
+      "title": "Hồn Cốt Ngoại Phụ"
+    },
+    {
+      "num": 125,
+      "title": "Chu Trúc Thanh khiến mọi người kinh ngạc"
+    },
+    {
+      "num": 126,
+      "title": "Chu Trúc Thanh trở thành Hồn Tôn, Bỉ Bỉ Sênh rời đi。"
+    },
+    {
+      "num": 127,
+      "title": "Gặp lại Thiên Nhận Tuyết"
+    },
+    {
+      "num": 128,
+      "title": "Có được Thiên Nhận Tuyết"
+    },
+    {
+      "num": 129,
+      "title": "Sóng gió Thiên Đấu"
+    },
+    {
+      "num": 130,
+      "title": "Sóng gió Thiên Đấu (II)"
+    },
+    {
+      "num": 131,
+      "title": "Trở Về Võ Hồn Thành"
+    },
+    {
+      "num": 132,
+      "title": "Câu hỏi của Bỉ Bỉ Đông"
+    },
+    {
+      "num": 133,
+      "title": "Hồ Liệt Na gặp lại Bỉ Bỉ Sênh"
+    },
+    {
+      "num": 134,
+      "title": "Tâm sự với Hồ Liệt Na"
+    },
+    {
+      "num": 135,
+      "title": "Đến Cung Phụng Điện"
+    },
+    {
+      "num": 136,
+      "title": "Thần vị Thiên Sứ"
+    },
+    {
+      "num": 137,
+      "title": "Tiến về Sát Lục Chi Đô"
+    },
+    {
+      "num": 138,
+      "title": "Tiến vào Sát Lục Chi Đô"
+    },
+    {
+      "num": 139,
+      "title": "Sát Lục Chi Đô"
+    },
+    {
+      "num": 140,
+      "title": "Thực lực của Sát Lục Chi Vương"
+    },
+    {
+      "num": 141,
+      "title": "Hai năm sau"
+    },
+    {
+      "num": 142,
+      "title": "Bốn người cùng xông vào Đường Địa Ngục"
+    },
+    {
+      "num": 143,
+      "title": "Trận chiến đẫm máu với Xà Mười Đầu Mặt Trời"
+    },
+    {
+      "num": 144,
+      "title": "Bỉ Bỉ Đông đến đón"
+    },
+    {
+      "num": 145,
+      "title": "Hồn thú Dạ Nhận Báo"
+    },
+    {
+      "num": 146,
+      "title": "Ảo Nguyệt Hồ của Hồ Liệt Na! Trở về."
+    },
+    {
+      "num": 147,
+      "title": "Vấn đề mất kiểm soát sát khí"
+    },
+    {
+      "num": 148,
+      "title": "Đêm lẻn vào hoàng cung gặp Thiên Nhận Tuyết"
+    },
+    {
+      "num": 149,
+      "title": "Nguyệt Hiên Lâu, Nguyệt phu nhân"
+    },
+    {
+      "num": 150,
+      "title": "Gây náo loạn để thăm dò"
+    },
+    {
+      "num": 151,
+      "title": "Ép buộc Đường Nguyệt Hoa"
+    },
+    {
+      "num": 152,
+      "title": "Đưa Đường Nguyệt Hoa về Võ Hồn Thành"
+    },
+    {
+      "num": 153,
+      "title": "Không đề"
+    },
+    {
+      "num": 154,
+      "title": "Đường Tam có người đứng sau"
+    },
+    {
+      "num": 155,
+      "title": "Ninh Phong Trí và Cốt Đấu La đến nơi"
+    },
+    {
+      "num": 156,
+      "title": "Ngăn cản giao dịch"
+    },
+    {
+      "num": 157,
+      "title": "Ngông nghênh rời đi"
+    },
+    {
+      "num": 158,
+      "title": "Chu Trúc Thanh đã trưởng thành"
+    },
+    {
+      "num": 159,
+      "title": "Đêm giao thừa, chúc mừng năm mới!"
+    },
+    {
+      "num": 160,
+      "title": "Xuất hiện"
+    },
+    {
+      "num": 161,
+      "title": "Hai cô gái gặp nhau"
+    },
+    {
+      "num": 162,
+      "title": "Cấp bậc của Sử Lai Khắc Thất Quái"
+    },
+    {
+      "num": 163,
+      "title": "Liễu Nhị Long"
+    },
+    {
+      "num": 164,
+      "title": "Gặp lại mọi người ở Sử Lai Khắc"
+    },
+    {
+      "num": 165,
+      "title": "Cá cược với Liễu Nhị Long"
+    },
+    {
+      "num": 166,
+      "title": "Ngọc Tiểu Cương thách đấu Bỉ Bỉ Sênh"
+    },
+    {
+      "num": 167,
+      "title": "Kỹ năng dung hợp của ba người – Rồng Vàng"
+    },
+    {
+      "num": 168,
+      "title": "Cửu Kiếm Phá Thần Trảm, xuất chiêu!"
+    },
+    {
+      "num": 169,
+      "title": "Tông chủ Hạo Thiên Tông Đường Khiếu đến"
+    },
+    {
+      "num": 170,
+      "title": "Đường Khiếu đi tìm Đường Hạo"
+    },
+    {
+      "num": 171,
+      "title": "Đường Khiếu tìm thấy nơi Đường Hạo bỏ mạng"
+    },
+    {
+      "num": 172,
+      "title": "Đường Tam biết được sự thật"
+    },
+    {
+      "num": 173,
+      "title": "Bỉ Bỉ Sênh trở về Võ Hồn Thành"
+    },
+    {
+      "num": 174,
+      "title": "Thẳng tay chọc tức Đường Nguyệt Hoa"
+    },
+    {
+      "num": 175,
+      "title": "Bỉ Bỉ Đông âm thầm đẩy thuyền"
+    },
+    {
+      "num": 176,
+      "title": "Người bí ẩn lại xuất hiện"
+    },
+    {
+      "num": 177,
+      "title": "Trò chuyện với Đường Nguyệt Hoa"
+    },
+    {
+      "num": 178,
+      "title": "Đi dạo giải khuây"
+    },
+    {
+      "num": 179,
+      "title": "Chương 177: Đi dạo công viên"
+    },
+    {
+      "num": 180,
+      "title": "Dùng Cửu Phẩm Tử Chi"
+    },
+    {
+      "num": 181,
+      "title": "Ngọc Tiểu Cương đến Giáo Hoàng Điện"
+    },
+    {
+      "num": 182,
+      "title": "Bỉ Bỉ Đông ra tay!"
+    },
+    {
+      "num": 183,
+      "title": "Khảo nghiệm thứ tám của La Sát Thần"
+    },
+    {
+      "num": 184,
+      "title": "Sự kiên quyết của Bỉ Bỉ Đông"
+    },
+    {
+      "num": 185,
+      "title": "Gặp lại Đường Thần và Đường Khiếu"
+    },
+    {
+      "num": 186,
+      "title": "Thiên Nhận Tuyết chính thức trở về Võ Hồn Điện"
+    },
+    {
+      "num": 187,
+      "title": "Bỉ Bỉ Đông nói ra sự thật với Thiên Nhận Tuyết"
+    },
+    {
+      "num": 188,
+      "title": "Bỉ Bỉ Sênh thành thần rồi sao?"
+    },
+    {
+      "num": 189,
+      "title": "Lễ khai mạc vòng chung kết"
+    },
+    {
+      "num": 190,
+      "title": "Vòng chung kết bắt đầu"
+    },
+    {
+      "num": 191,
+      "title": "Đường Tiếu xuất hiện"
+    },
+    {
+      "num": 192,
+      "title": "Đội Võ Hồn lên đài"
+    },
+    {
+      "num": 193,
+      "title": "Trận đấu đang diễn ra"
+    },
+    {
+      "num": 194,
+      "title": "Đội chiến đấu Sử Lai Khắc đối đầu đội hoàng gia Tinh La"
+    },
+    {
+      "num": 195,
+      "title": "Trận đấu bước vào vòng thứ tư"
+    },
+    {
+      "num": 196,
+      "title": "Thiên Thủy đối đầu Lôi Đình"
+    },
+    {
+      "num": 197,
+      "title": "Phượng Hoàng Băng Sương"
+    },
+    {
+      "num": 198,
+      "title": "Đội mạnh nhất trong ba đội"
+    },
+    {
+      "num": 199,
+      "title": "Tranh đoạt suất vào chung kết"
+    },
+    {
+      "num": 200,
+      "title": "Dự báo trận chung kết"
+    },
+    {
+      "num": 201,
+      "title": "Truyện mới về giới giải trí đã ra mắt"
+    },
+    {
+      "num": 202,
+      "title": "Chung kết bắt đầu"
+    },
+    {
+      "num": 203,
+      "title": "Yêu Mị Lĩnh Chủ VS Chân Thân Hạo Thiên"
+    },
+    {
+      "num": 204,
+      "title": "Trận chung kết khép lại"
+    },
+    {
+      "num": 205,
+      "title": "Đại Kết Cục"
+    }
+  ],
+  "slug": "dau_la_tuyet_the_ma_than",
+  "title": "Đấu La: Tuyệt Thế Ma Thần",
+  "author": "Hồn Đoạn Nhân (魂斷人)",
+  "synopsis": "Truyện đồng nhân Đấu La Đại Lục của Hồn Đoạn Nhân (魂斷人), đã hoàn thành. Nhân vật chính xuyên không vào thế giới Đấu La, tỉnh lại trong thân phận một đứa trẻ sơ sinh ở Sát Lục Chi Đô, mang theo thiên phú Ma Thần chức nghiệp lấy cảm hứng từ trò chơi DNF. Từ đó cậu bước vào vòng xoáy giữa Võ Hồn Điện, Bỉ Bỉ Đông và Thiên Nhận Tuyết, đối đầu Đường Tam cùng nhóm Sử Lai Khắc, cho tới trận chung kết định đoạt. Truyện dài 205 chương, tiết tấu nhanh, nhiều trận chiến và các nhân vật quen thuộc của Đấu La được nhìn từ phía Võ Hồn Điện.",
+  "coverColor": "#4a235a"
+}
