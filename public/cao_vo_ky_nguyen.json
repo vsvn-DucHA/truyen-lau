@@ -1,0 +1,3378 @@
+{
+  "totalChapters": 842,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Lý Nguyên"
+    },
+    {
+      "num": 2,
+      "title": "Thể chất cấp 6.5"
+    },
+    {
+      "num": 3,
+      "title": "Linh tính cấp cao chưa thức tỉnh"
+    },
+    {
+      "num": 4,
+      "title": "Thương pháp, điểm số"
+    },
+    {
+      "num": 5,
+      "title": "Ta rất coi trọng ngươi (Cảm ơn minh chủ Bạch Ngân Lưu Lãng Cô Chú Nhất Trịch đã ủng hộ!)"
+    },
+    {
+      "num": 6,
+      "title": "Võ đạo là cái hố ngốn tiền"
+    },
+    {
+      "num": 7,
+      "title": "Ngôi nhà lúc đêm khuya (Xin vé tháng, mong mọi người tiếp tục theo dõi)"
+    },
+    {
+      "num": 8,
+      "title": "Có những chuyện, ắt phải có người đứng ra làm"
+    },
+    {
+      "num": 9,
+      "title": "Dung dịch thuốc khí huyết"
+    },
+    {
+      "num": 10,
+      "title": "《Quan Đại Nhật Tinh Không Kinh》"
+    },
+    {
+      "num": 11,
+      "title": "Võ đạo chính là bản thân (Bốn chương liên tiếp, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 12,
+      "title": "Tuyệt chiêu ‘Nham Hác Tàng Long’"
+    },
+    {
+      "num": 13,
+      "title": "Thử thách của Hứa Bác"
+    },
+    {
+      "num": 14,
+      "title": "Học bổng đặc biệt"
+    },
+    {
+      "num": 15,
+      "title": "Mục tiêu 860 điểm"
+    },
+    {
+      "num": 16,
+      "title": "Phòng võ đạo riêng (Ba chương liên tiếp, xin vé tháng)"
+    },
+    {
+      "num": 17,
+      "title": "Cược được pháp luật bảo vệ"
+    },
+    {
+      "num": 18,
+      "title": "Tinh Không Đại Học"
+    },
+    {
+      "num": 19,
+      "title": "Cao thủ cấp Hoàng Kim"
+    },
+    {
+      "num": 20,
+      "title": "Phần thưởng của cấp Vẫn Tinh"
+    },
+    {
+      "num": 21,
+      "title": "192 trận! 496 điểm!"
+    },
+    {
+      "num": 22,
+      "title": "Toàn cầu xếp hạng 【4684】"
+    },
+    {
+      "num": 23,
+      "title": "Tư cách tuyển thẳng"
+    },
+    {
+      "num": 24,
+      "title": "Tiền về tài khoản! Vui sướng!"
+    },
+    {
+      "num": 25,
+      "title": "Tin tức từ Võ Điện"
+    },
+    {
+      "num": 26,
+      "title": "Hắn có chút đặc biệt"
+    },
+    {
+      "num": 27,
+      "title": "Hợp đồng cấp C? Cấp D?"
+    },
+    {
+      "num": 28,
+      "title": "Ta, Lý Trường Châu, vẫn chưa chết (Canh bốn, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 29,
+      "title": "Hứa Bác kinh ngạc"
+    },
+    {
+      "num": 30,
+      "title": "Hợp đồng cấp B"
+    },
+    {
+      "num": 31,
+      "title": "Cho nhiều đến mức khó tin"
+    },
+    {
+      "num": 32,
+      "title": "Thành ý lớn nhất"
+    },
+    {
+      "num": 33,
+      "title": "Ngươi đối đãi ta bằng lễ của bậc quốc sĩ (Xin nguyệt phiếu, xin theo dõi chương mới)"
+    },
+    {
+      "num": 34,
+      "title": "Quyền hạn của thành viên Võ Điện"
+    },
+    {
+      "num": 35,
+      "title": "Kế hoạch tu hành"
+    },
+    {
+      "num": 36,
+      "title": "Tinh đan Nguyên Lực (Ba chương liên tiếp, cầu vé tháng và lượt đọc tiếp)"
+    },
+    {
+      "num": 37,
+      "title": "Sức mạnh kỳ diệu của nguyên lực"
+    },
+    {
+      "num": 38,
+      "title": "Sự giúp đỡ của Hứa Bác"
+    },
+    {
+      "num": 39,
+      "title": "Thương Pháp Tinh Thần"
+    },
+    {
+      "num": 40,
+      "title": "Thực lực của Lý Nguyên"
+    },
+    {
+      "num": 41,
+      "title": "Ta mới chỉ đạt cấp C, tại sao hắn lại đạt cấp B?"
+    },
+    {
+      "num": 42,
+      "title": "Người khôn không đứng dưới bức tường sắp đổ"
+    },
+    {
+      "num": 43,
+      "title": "Võ đạo, chính là để giết địch (Ba chương cầu vé tháng)"
+    },
+    {
+      "num": 44,
+      "title": "Hai vị điện chủ"
+    },
+    {
+      "num": 45,
+      "title": "Thế giới này chưa bao giờ yên bình"
+    },
+    {
+      "num": 46,
+      "title": "Kỳ thi khảo sát tháng Giêng (Ba chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 47,
+      "title": "Chỉ mong không phải nuối tiếc"
+    },
+    {
+      "num": 48,
+      "title": "900 điểm? Thứ hạng cuối cùng"
+    },
+    {
+      "num": 49,
+      "title": "Lời mời từ Đại học Võ Đạo"
+    },
+    {
+      "num": 50,
+      "title": "Được tuyên dương trên lễ đài"
+    },
+    {
+      "num": 51,
+      "title": "Phần thưởng hậu hĩnh"
+    },
+    {
+      "num": 52,
+      "title": "Cảm ơn bản thân vì đã nỗ lực trước đây"
+    },
+    {
+      "num": 53,
+      "title": "Cấp 88! Ba môn đạt 99%!"
+    },
+    {
+      "num": 54,
+      "title": "Trận đấu thăng hạng Vẫn Tinh"
+    },
+    {
+      "num": 55,
+      "title": "Đột phá! Toàn cầu [996]"
+    },
+    {
+      "num": 56,
+      "title": "Sư huynh, đệ muốn tiến cử với huynh một người"
+    },
+    {
+      "num": 57,
+      "title": "Tin dữ! Báo động chiến tranh cấp hai!"
+    },
+    {
+      "num": 58,
+      "title": "Sinh tử chưa rõ, Lý Trường Châu"
+    },
+    {
+      "num": 59,
+      "title": "Thương Pháp Bốn Đoạn"
+    },
+    {
+      "num": 60,
+      "title": "Võ giả bay trời, lưỡi dao sắc bén của nền văn minh"
+    },
+    {
+      "num": 61,
+      "title": "Niết Bàn Thần Điển"
+    },
+    {
+      "num": 62,
+      "title": "Tạm xếp hạng A"
+    },
+    {
+      "num": 63,
+      "title": "Đại học Võ Đạo Giang Bắc"
+    },
+    {
+      "num": 64,
+      "title": "Đại chiến trong lồng giam, mục tiêu số một"
+    },
+    {
+      "num": 65,
+      "title": "Tinh anh? Chỉ đáng để ta chém một nhát!"
+    },
+    {
+      "num": 66,
+      "title": "Lý Nguyên xuất trận"
+    },
+    {
+      "num": 67,
+      "title": "Quét sạch võ đài"
+    },
+    {
+      "num": 68,
+      "title": "Đến thăm giữa đêm"
+    },
+    {
+      "num": 69,
+      "title": "Vạn Vật Đều Có Linh Tính"
+    },
+    {
+      "num": 70,
+      "title": "Hợp đồng huấn luyện đặc biệt cấp S"
+    },
+    {
+      "num": 71,
+      "title": "Một trăm triệu Lam Tinh Tệ"
+    },
+    {
+      "num": 72,
+      "title": "Tỷ lệ tử vong 12%? Cổ Cường Hãn đã đến phòng nghỉ. Còn Lý Nguyên lấy một cây trường thương từ tủ vũ khí bên cạnh, bắt đầu luyện thương."
+    },
+    {
+      "num": 73,
+      "title": "Tổng kết tháng 3, đầu tháng 4 cầu nguyệt phiếu"
+    },
+    {
+      "num": 74,
+      "title": "Tinh giới cấp một ‘Nguyệt Ma’ (Xin vé tháng)"
+    },
+    {
+      "num": 75,
+      "title": "Kiểm tra thực chiến (Xin phiếu tháng)"
+    },
+    {
+      "num": 76,
+      "title": "Giết chết có thể thu được dưỡng chất linh tính (Ba chương liên tiếp, cầu vé tháng)"
+    },
+    {
+      "num": 77,
+      "title": "Giết chóc, tăng tiến"
+    },
+    {
+      "num": 78,
+      "title": "Mức độ thức tỉnh 10%, lần đầu kích hoạt (Kèm thông báo lên kệ)"
+    },
+    {
+      "num": 79,
+      "title": "Thân như rồng lượn, một thương đoạt mạng (Cầu đặt mua đầu tiên)"
+    },
+    {
+      "num": 80,
+      "title": "Người đứng đầu tuyệt đối (Cầu đăng ký, nguyệt phiếu)"
+    },
+    {
+      "num": 81,
+      "title": "Ánh mắt chớp nhoáng của thiếu niên cũng có thể gợi nhớ dòng nước trong xanh muôn đời (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 82,
+      "title": "Nguồn lực nhập thể (Cầu đăng ký, vé tháng)"
+    },
+    {
+      "num": 83,
+      "title": "Cấp 96! Vẫn Tinh! (Năm lượt cầu nguyệt phiếu)"
+    },
+    {
+      "num": 84,
+      "title": "Mệnh lệnh của điện chủ tỉnh (Thêm chương khi đạt 2000 vé tháng)"
+    },
+    {
+      "num": 85,
+      "title": "Ngọc quý trong đá (Thêm chương khi đạt 4000 vé tháng)"
+    },
+    {
+      "num": 86,
+      "title": "Hợp đồng cấp A và các mối quan hệ (thêm chương vì đạt 6.000 vé tháng)"
+    },
+    {
+      "num": 87,
+      "title": "Anh hùng như vậy không nên chết đi (Thêm chương mừng 8.000 vé tháng)"
+    },
+    {
+      "num": 88,
+      "title": "Nàng đã đến Phi Tinh (Thêm chương khi đạt 10.000 vé tháng)"
+    },
+    {
+      "num": 89,
+      "title": "Võ do tâm định! Thương pháp lột xác (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 90,
+      "title": "Thu hoạch đáng kinh ngạc (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 91,
+      "title": "Tiến hóa hoàn toàn mới (Thêm chương mừng đạt 12.000 vé tháng)"
+    },
+    {
+      "num": 92,
+      "title": "Kỳ thi thử tháng Tư (Cảm ơn đại gia sáu mươi triệu đã tặng minh chủ vàng)"
+    },
+    {
+      "num": 93,
+      "title": "Đệ nhất toàn thành thực sự? (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 94,
+      "title": "Tình thế nguy cấp của Tống Y (Thêm chương cảm ơn Bạch Ngân Minh ‘Nguyệt Ca Thu Phong’)"
+    },
+    {
+      "num": 95,
+      "title": "Cảnh Giới Tinh Tế Trong Tâm (Chương thêm vì đạt 14.000 vé tháng)"
+    },
+    {
+      "num": 96,
+      "title": "Hắn xứng đáng với cái giá ấy (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 97,
+      "title": "Bạo lực mới là cội nguồn (cầu nguyệt phiếu)"
+    },
+    {
+      "num": 98,
+      "title": "Hạng 10 nước Hạ, kỳ vọng Minh Nguyệt (Thêm chương khi đạt 16.000 vé tháng)"
+    },
+    {
+      "num": 99,
+      "title": "Lão Phí đáng để học hỏi (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 100,
+      "title": "Kỳ thi đại học tháng Sáu (Cầu vé tháng)"
+    },
+    {
+      "num": 101,
+      "title": "Tương lai xán lạn cũng là lúc chia xa (Chương thêm dành tặng minh chủ bạc ‘Tống Sở Ngọc’)"
+    },
+    {
+      "num": 102,
+      "title": "Toàn tỉnh đứng thứ 77, toàn quốc đứng thứ 10! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 103,
+      "title": "Hành trình mới (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 104,
+      "title": "Đại học Võ Đạo Côn Luân, Đại sư huynh tân sinh của Viện Sáu (Thêm chương cảm ơn 18.000 vé tháng)"
+    },
+    {
+      "num": 105,
+      "title": "Huyền Vũ vượt trên cả cấp Phi Thiên (Thêm chương mừng đạt 20.000 vé tháng)"
+    },
+    {
+      "num": 106,
+      "title": "Sức một người (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 107,
+      "title": "Kỷ lục mới! Đứng đầu lịch sử! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 108,
+      "title": "Văn minh Tiên Khư (Thêm chương mừng minh chủ vàng sáu mươi vạn tuổi)"
+    },
+    {
+      "num": 109,
+      "title": "Cuộc chiến tinh anh võ đạo nhân loại (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 110,
+      "title": "Viện trưởng làm thầy (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 111,
+      "title": "Trụ Cột Tinh Thần (Thêm chương mừng đạt 22.000 vé tháng)"
+    },
+    {
+      "num": 112,
+      "title": "Đãi ngộ đáng kinh ngạc dành cho học viên cấp S (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 113,
+      "title": "Những tháng ngày tu luyện, thực chiến sắp bắt đầu (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 114,
+      "title": "Kiểm tra thực chiến! Linh tính tăng lên! (Chúc mừng Hoàng Kim Minh sáu mươi vạn tuổi, thêm chương!)"
+    },
+    {
+      "num": 115,
+      "title": "Khâu Kính! Thực lực của Lý Nguyên tăng vọt (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 116,
+      "title": "Đột phá thần tốc! Giết chóc! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 117,
+      "title": "Mười bước giết một người (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 118,
+      "title": "Thứ hạng cuối cùng (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 119,
+      "title": "Lê Dương hỏi chuyện (Thêm chương khi đạt 24.000 vé tháng)"
+    },
+    {
+      "num": 120,
+      "title": "74 triệu Lam Tinh Tệ (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 121,
+      "title": "Lý Nguyên, cháu làm sai rồi (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 122,
+      "title": "Dưới ánh mặt trời, không cần lúc nào cũng nhìn chằm chằm vào bóng tối nơi khe hở (Chương thêm khi đạt 26.000 vé tháng)"
+    },
+    {
+      "num": 123,
+      "title": "Tứ Đoạn Cao Cấp, Minh Nguyệt"
+    },
+    {
+      "num": 124,
+      "title": "Làm nên chuyện tốt đẹp cho người khác! Đứng đầu Giang Bắc!"
+    },
+    {
+      "num": 125,
+      "title": "Các bên chấn động (Thêm chương mừng đạt 28.000 vé tháng)"
+    },
+    {
+      "num": 126,
+      "title": "Viện trưởng Hải đến (Cầu vé tháng)"
+    },
+    {
+      "num": 127,
+      "title": "Linh tính? Huyết mạch? Bách Tủy Linh Khô"
+    },
+    {
+      "num": 128,
+      "title": "Đau đớn đến mức muốn tự sát (Thêm chương mừng 30.000 vé tháng)"
+    },
+    {
+      "num": 129,
+      "title": "Lột Xác Kinh Người (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 130,
+      "title": "Tháng Mười, cuối cùng cũng lĩnh ngộ trọn vẹn năm thức Tinh Thần (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 131,
+      "title": "Chiến Tranh Tân Sinh Mười Trường (Thêm chương mừng mốc sáu mươi vạn minh chủ vàng)"
+    },
+    {
+      "num": 132,
+      "title": "Đối thủ mạnh nhất"
+    },
+    {
+      "num": 133,
+      "title": "Muôn người dõi theo (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 134,
+      "title": "Vua hỗn chiến (Chúc mừng Hoàng Kim Minh Sáu Mươi Vạn Tuổi, tặng thêm chương)"
+    },
+    {
+      "num": 135,
+      "title": "Tổng xếp hạng điểm tích lũy (Thêm chương cảm ơn minh chủ Hoàng Kim đã tặng 600.000 điểm)"
+    },
+    {
+      "num": 136,
+      "title": "Vòng hai, trận thứ 17 (Chúc mừng đạt mốc 50.000)"
+    },
+    {
+      "num": 137,
+      "title": "Cảm ngộ thương pháp"
+    },
+    {
+      "num": 138,
+      "title": "Mục tiêu của ngươi là vị trí thứ hai (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 139,
+      "title": "Ngày quyết chiến (Thêm chương mừng 32.000 vé tháng)"
+    },
+    {
+      "num": 140,
+      "title": "Trận quyết đấu đỉnh cao"
+    },
+    {
+      "num": 141,
+      "title": "Giết vào chung kết (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 142,
+      "title": "Lý Nguyên VS Đàm Đài Phong (Thêm chương mừng 34.000 vé tháng)"
+    },
+    {
+      "num": 143,
+      "title": "Trận chiến cảnh giới nhập vi, khép lại (Thêm chương khi đạt 36.000 vé tháng)"
+    },
+    {
+      "num": 144,
+      "title": "Một trận thành danh, thiên hạ đều biết"
+    },
+    {
+      "num": 145,
+      "title": "Quyền lực cú đấm 15.000 kg"
+    },
+    {
+      "num": 146,
+      "title": "Hợp đồng cấp S Tinh Hỏa"
+    },
+    {
+      "num": 147,
+      "title": "Cấp 14! Dẫn đường linh tính!"
+    },
+    {
+      "num": 148,
+      "title": "Vận sao thành quỹ đạo, sơ hình công pháp (Thêm chương mừng đạt 38.000 vé tháng)"
+    },
+    {
+      "num": 149,
+      "title": "Bí mật sáng tạo công pháp, Tinh Mạch cấp 10 (Chương thêm khi đạt 40.000 vé tháng)"
+    },
+    {
+      "num": 150,
+      "title": "Sự lột xác về thực lực (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 151,
+      "title": "Võ Đạo Thiên Nhân"
+    },
+    {
+      "num": 152,
+      "title": "Trở về Giang Thành (Thưởng thêm khi đạt 42.000 nguyệt phiếu)"
+    },
+    {
+      "num": 153,
+      "title": "Cơn sóng cá linh"
+    },
+    {
+      "num": 154,
+      "title": "Bùng nổ! Thiên chức của võ giả!"
+    },
+    {
+      "num": 155,
+      "title": "Võ giả Lý Nguyên"
+    },
+    {
+      "num": 156,
+      "title": "Bước lên con đường này"
+    },
+    {
+      "num": 157,
+      "title": "Nhiệm vụ cứu viện (Thêm chương mừng 44.000 vé tháng)"
+    },
+    {
+      "num": 158,
+      "title": "Bậc Hai!! Nghĩa Vô Phản Cố!"
+    },
+    {
+      "num": 159,
+      "title": "Sư đồ! Giết chết có thể nhận được nguyên liệu nuôi dưỡng linh tính"
+    },
+    {
+      "num": 160,
+      "title": "Liên thủ! Tiêu diệt! (Thêm chương mừng đạt 46.000 vé tháng)"
+    },
+    {
+      "num": 161,
+      "title": "Phá vỡ giới hạn của Thần Cung"
+    },
+    {
+      "num": 162,
+      "title": "Bến đỗ tốt đẹp nhất của võ giả"
+    },
+    {
+      "num": 163,
+      "title": "Biến đổi trong tâm cảnh (Chương thêm 48.000 vé tháng)"
+    },
+    {
+      "num": 164,
+      "title": "Lột xác! Bước đầu lĩnh ngộ cảnh giới Thiên Nhân (Ngoại truyện thêm khi đạt 50.000 vé tháng)"
+    },
+    {
+      "num": 165,
+      "title": "Hiệu trưởng Phương Hải"
+    },
+    {
+      "num": 166,
+      "title": "Đẳng cấp Siêu Phàm! Đứng đầu toàn cầu!"
+    },
+    {
+      "num": 167,
+      "title": "Phi thuyền hạ xuống (Chương thêm vì đạt 520.000 phiếu tháng)"
+    },
+    {
+      "num": 168,
+      "title": "Thiên tài nhiều như mây (Thêm chương mừng 540.000 vé tháng)"
+    },
+    {
+      "num": 169,
+      "title": "Tinh Giới Minh Khư"
+    },
+    {
+      "num": 170,
+      "title": "Một trấn giữ ba mươi năm"
+    },
+    {
+      "num": 171,
+      "title": "Một mình lên đường (Thêm chương mừng 560.000 vé tháng)"
+    },
+    {
+      "num": 172,
+      "title": "Người tộc? Dị tộc! Giết!"
+    },
+    {
+      "num": 173,
+      "title": "Ma Huyết Linh Tinh (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 174,
+      "title": "Lý Nguyên! Bùng nổ toàn lực! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 175,
+      "title": "Trận chiến sinh tử (Chương thêm dành tặng đại lão ‘Noãn Dương 1314’ đã ủng hộ minh chủ vàng)"
+    },
+    {
+      "num": 176,
+      "title": "Manh mối về báu vật (Thêm chương 1)"
+    },
+    {
+      "num": 177,
+      "title": "Mức độ thức tỉnh linh tính 30%"
+    },
+    {
+      "num": 178,
+      "title": "Thực lực tăng vọt"
+    },
+    {
+      "num": 179,
+      "title": "Đột nhập! Hang ổ Phi Xà (Thêm chương 2)"
+    },
+    {
+      "num": 180,
+      "title": "Cây Cổ Linh Dưỡng Hồn"
+    },
+    {
+      "num": 181,
+      "title": "Bảo vật cấp bốn? Phi xà cấp hai!"
+    },
+    {
+      "num": 182,
+      "title": "Quyết định của Liễu Kinh (Thêm chương 3)"
+    },
+    {
+      "num": 183,
+      "title": "Đại chiến bắt đầu"
+    },
+    {
+      "num": 184,
+      "title": "Xông thẳng vào! Giết! Giết!"
+    },
+    {
+      "num": 185,
+      "title": "Thành công"
+    },
+    {
+      "num": 186,
+      "title": "Điên cuồng! Đối đầu trực diện với sinh vật bậc hai!"
+    },
+    {
+      "num": 187,
+      "title": "Vua Rắn Bay? Liễu Kinh Đốt Sao! (Thêm chương 4)"
+    },
+    {
+      "num": 188,
+      "title": "Câm miệng, ông không chết được đâu (Thêm chương 5)"
+    },
+    {
+      "num": 189,
+      "title": "Thoát khỏi hiểm cảnh"
+    },
+    {
+      "num": 190,
+      "title": "Liễu Kinh tỉnh lại, đột phá (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 191,
+      "title": "Công hiệu kỳ diệu của linh quả! Tinh thần lực tăng vọt (Thêm chương 6)"
+    },
+    {
+      "num": 192,
+      "title": "Đột phá cấp Phi Thiên (Chương thêm dành tặng đại lão ‘Noãn Dương 1314’ với minh chủ vàng)"
+    },
+    {
+      "num": 193,
+      "title": "Giới hạn thức tỉnh linh tính đạt 40%! Sức mạnh của linh hồn cấp Phi Thiên (Thêm chương 7)"
+    },
+    {
+      "num": 194,
+      "title": "Sáng Tạo Công Pháp Lần Nữa"
+    },
+    {
+      "num": 195,
+      "title": "Đệ tử thánh địa? Thiên tài võ đạo? Yếu quá! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 196,
+      "title": "Quét sạch tất cả (Thêm chương 8, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 197,
+      "title": "Thu hoạch! Khiến cả tộc Thiên Lương Tộc chấn động! (Thêm chương 9)"
+    },
+    {
+      "num": 198,
+      "title": "1088 tỷ Lam Tinh tệ! Thương pháp tiến bộ"
+    },
+    {
+      "num": 199,
+      "title": "Phong thái cao nhân của Viện trưởng Hải"
+    },
+    {
+      "num": 200,
+      "title": "Trở về Hạ Quốc (Thêm chương 10)"
+    },
+    {
+      "num": 201,
+      "title": "Truyền thừa Võ Thần"
+    },
+    {
+      "num": 202,
+      "title": "Hiệu trưởng Phương và Tinh Chủ Bạch Sơn"
+    },
+    {
+      "num": 203,
+      "title": "Lê Dương đột phá! Giá trị thực sự của linh quả (thêm chương 11)"
+    },
+    {
+      "num": 204,
+      "title": "Yêu cầu của truyền thừa hạng nhất"
+    },
+    {
+      "num": 205,
+      "title": "Đại chiến đấu ảo sắp bắt đầu"
+    },
+    {
+      "num": 206,
+      "title": "Quy tắc tàn khốc (Thêm chương 12)"
+    },
+    {
+      "num": 207,
+      "title": "Đạt thì giúp đời"
+    },
+    {
+      "num": 208,
+      "title": "Vua vòng sơ loại"
+    },
+    {
+      "num": 209,
+      "title": "Chiến trường Tinh Giới thứ bảy (Thêm chương 14)"
+    },
+    {
+      "num": 210,
+      "title": "Quét Sạch Một Mạch"
+    },
+    {
+      "num": 211,
+      "title": "Xông vào top 10"
+    },
+    {
+      "num": 212,
+      "title": "Đứng đầu chiến trường! Cuộc chiến giữa những cao thủ ngũ đoạn! (Thêm chương 16)"
+    },
+    {
+      "num": 213,
+      "title": "Sát khí trong nhát rìu ấy"
+    },
+    {
+      "num": 214,
+      "title": "Cuộc đối đầu giữa những kẻ mạnh! Người mạnh nhất chiến trường! (Thêm chương 17)"
+    },
+    {
+      "num": 215,
+      "title": "Niềm mong đợi của nhà trường (chương tăng thêm 18)"
+    },
+    {
+      "num": 216,
+      "title": "Thức tỉnh! Tinh mạch thứ hai"
+    },
+    {
+      "num": 217,
+      "title": "Nhất định phải giết hắn"
+    },
+    {
+      "num": 218,
+      "title": "Trở về bình an (Thêm chương 19)"
+    },
+    {
+      "num": 219,
+      "title": "Một giọt mưa xé ngang trời đất (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 220,
+      "title": "Bóng Đen, ta đã đợi ngươi rất lâu rồi"
+    },
+    {
+      "num": 221,
+      "title": "Hai vị Tinh Chủ (Thêm chương 20)"
+    },
+    {
+      "num": 222,
+      "title": "Truyền thuyết về Thất Tinh Mạch (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 223,
+      "title": "Cửu Trọng Tinh Mạch! Tinh Chủ Truyền Đạo! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 224,
+      "title": "Nhập môn tinh thuật (Thêm chương 21)"
+    },
+    {
+      "num": 225,
+      "title": "Đây là Tinh Thuật mạnh nhất? Thương pháp lột xác (Hai chương gộp một, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 226,
+      "title": "Trận chung kết! Top 10 (Tăng thêm chương 23)"
+    },
+    {
+      "num": 227,
+      "title": "Đỉnh Cao Đối Đầu! Lý Nguyên Đáng Sợ! (Hai chương gộp một, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 228,
+      "title": "Đứng đầu Lam Tinh (Thêm chương 24)"
+    },
+    {
+      "num": 229,
+      "title": "Danh tiếng vang khắp thế giới! Thu hoạch bảo vật! (Thêm chương 26)"
+    },
+    {
+      "num": 230,
+      "title": "Tương Lai Mới (Hai Chương Gộp Một)"
+    },
+    {
+      "num": 231,
+      "title": "Bế quan khổ luyện! Ba đường tinh mạch (Thêm chương 27)"
+    },
+    {
+      "num": 232,
+      "title": "Bí mật của Giới Trung Giới! Lời mời (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 233,
+      "title": "Di Tích Của Thần (Xin vé tháng)"
+    },
+    {
+      "num": 234,
+      "title": "Hội tụ! Kỳ vật duy nhất (Thêm chương 29)"
+    },
+    {
+      "num": 235,
+      "title": "Quân bài tẩy của Alicia! Tranh đoạt bảo vật! (Hai chương gộp một, cầu vé tháng)"
+    },
+    {
+      "num": 236,
+      "title": "Giết! Thực lực thật sự của Lý Nguyên! (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 237,
+      "title": "Đột phá! Võ giả Nguyên Lực (Thêm chương 31)"
+    },
+    {
+      "num": 238,
+      "title": "Quái vật từ đâu chui ra vậy! Càn quét! (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 239,
+      "title": "Thần linh tranh nhau thu nhận đệ tử? (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 240,
+      "title": "Chấn động! Công dụng của kỳ trân (Thêm chương 32)"
+    },
+    {
+      "num": 241,
+      "title": "Tinh thể thần Ngũ Hành"
+    },
+    {
+      "num": 242,
+      "title": "Bàn tay vô hình bao trùm thế giới trong thế giới? Thần tinh xuất thế!"
+    },
+    {
+      "num": 243,
+      "title": "Hy vọng tu luyện viên mãn Tinh thuật mạnh nhất! Nghênh chiến! (Thêm chương 34)"
+    },
+    {
+      "num": 244,
+      "title": "Thiên tài cấp Bán Thần? Chỉ có vậy thôi sao! (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 245,
+      "title": "Đã bảo là điều cấm kỵ, sao ngươi cứ không nghe! Cái chết của Mạc Hồ (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 246,
+      "title": "Thực lực lột xác! Tinh mạch thứ tư! (Thêm chương 35)"
+    },
+    {
+      "num": 247,
+      "title": "Cơn thịnh nộ của Mân Thiên Hầu! Lý Nguyên hiện tại (Thêm chương 37)"
+    },
+    {
+      "num": 248,
+      "title": "Uy lực của Tinh Thuật Chí Cường! Tiến vào Thần Cung (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 249,
+      "title": "Truyền thừa của Thần linh hệ Thổ (Thêm chương 39)"
+    },
+    {
+      "num": 250,
+      "title": "Lai lịch (Thêm chương 40)"
+    },
+    {
+      "num": 251,
+      "title": "Bản Đồ Muôn Sao"
+    },
+    {
+      "num": 252,
+      "title": "Sao không đổi sang khiên? Con đường thương pháp của Lý Nguyên (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 253,
+      "title": "Đại chiến Tinh Giới! Lý Nguyên đột phá (Thêm chương 41)"
+    },
+    {
+      "num": 254,
+      "title": "Truyền thừa của Thần (Thêm chương 42, cầu nguyệt phiếu!!)"
+    },
+    {
+      "num": 255,
+      "title": "Kho báu thần linh khiến người ta điên cuồng (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 256,
+      "title": "Thần minh dù sống lâu, cuối cùng cũng có ngày tận (Thêm chương 45)"
+    },
+    {
+      "num": 257,
+      "title": "Uy lực của Huyền Thể! Quét sạch mọi thứ như chẻ tre! (Xin vé tháng)"
+    },
+    {
+      "num": 258,
+      "title": "Cơn thịnh nộ của Giới Linh! Cuối cùng cũng trở về (Thêm chương 47)"
+    },
+    {
+      "num": 259,
+      "title": "Hiệu trưởng đích thân nghênh đón, Bán Thần hỏi chuyện (ngày cuối cùng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 260,
+      "title": "Niềm vui và nỗi kinh ngạc của Phương Hải (Thêm chương 48)"
+    },
+    {
+      "num": 261,
+      "title": "Mệnh lệnh của Đông Phương Cực! Âm thầm tu luyện (Thêm chương 50)"
+    },
+    {
+      "num": 262,
+      "title": "Thần Linh Dịch! Thực lực tăng vọt (Đầu tháng xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 263,
+      "title": "Biến động ở Minh Khư! Truyền thuyết về Đại học Võ thuật Côn Luân (Thêm chương 2)"
+    },
+    {
+      "num": 264,
+      "title": "Thiên tài hội tụ! Lần đầu đặt chân đến Võ Thần Điện (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 265,
+      "title": "Sơn chủ Đoan Mộc! Truyền thừa Võ Thần (Thêm chương 4)"
+    },
+    {
+      "num": 266,
+      "title": "Dấu Ấn Của Thần (Thêm chương 5! Cầu nguyệt phiếu!!)"
+    },
+    {
+      "num": 267,
+      "title": "Ta là hạng nhất? Cược lớn của Nghiêm Cảnh (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 268,
+      "title": "Pháp tắc kết hợp! Cực hạn của thương pháp (Thêm chương 6)"
+    },
+    {
+      "num": 269,
+      "title": "Đột phá! Chân ý sơ khai (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 270,
+      "title": "Trận chiến Thất Tinh (thêm chương 7)"
+    },
+    {
+      "num": 271,
+      "title": "Một trận lên núi! Thương của Lý Nguyên (Thêm chương 9! Xin nguyệt phiếu)"
+    },
+    {
+      "num": 272,
+      "title": "Tinh thuật cấp 10! Bùng nổ sức mạnh mạnh nhất! (Thêm chương 10)"
+    },
+    {
+      "num": 273,
+      "title": "Lựa chọn của người thầy Bán Thần"
+    },
+    {
+      "num": 274,
+      "title": "Vị Bán Thần Cổ Xưa Nhất"
+    },
+    {
+      "num": 275,
+      "title": "Truyền Đạo Trong Gió Mạnh (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 276,
+      "title": "Tu hành giữa đất trời! Ngưng tụ chân ý (Thêm chương 11)"
+    },
+    {
+      "num": 277,
+      "title": "Bay lên trời, độn xuống đất! Một năm sau (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 278,
+      "title": "Ổ thú mẹ thứ tư! Xuất sư (bù chương 12)"
+    },
+    {
+      "num": 279,
+      "title": "Món quà của thầy! Gặp lại Viện trưởng Hải (Thêm chương 13)"
+    },
+    {
+      "num": 280,
+      "title": "Hạ Quốc Cầu Bảo ！ Lâm Lam Nguyệt Đích Mệnh Vận （ Nhị Hợp Nhất ）"
+    },
+    {
+      "num": 281,
+      "title": "Thực lực của Lý Nguyên! Tu luyện tinh thuật (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 282,
+      "title": "Đến La Bố Hải"
+    },
+    {
+      "num": 283,
+      "title": "Chiến tranh bắt đầu (Thêm chương 14)"
+    },
+    {
+      "num": 284,
+      "title": "Quét sạch tất cả (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 285,
+      "title": "Rạch Ngang Bầu Trời! Giết! (Thêm chương 16)"
+    },
+    {
+      "num": 286,
+      "title": "Bí ẩn không gian! Yêu cầu để mức độ thức tỉnh linh tính đạt 50%"
+    },
+    {
+      "num": 287,
+      "title": "Giết thẳng đến tổ mẹ! Hắn là ai?"
+    },
+    {
+      "num": 288,
+      "title": "Thành công! Võ giả Nguyên Võ số một nền văn minh (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 289,
+      "title": "Giá trị của Nguồn Máu Vạn Thú! Anh hùng vô danh ‘Linh Thương’"
+    },
+    {
+      "num": 290,
+      "title": "Anh hùng vô danh, gặp Đông Phương Cực"
+    },
+    {
+      "num": 291,
+      "title": "Món quà và lời hứa của Minh Chủ (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 292,
+      "title": "Cơ hội của Phong Chi Nhất Mạch (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 293,
+      "title": "Truyền thừa Võ Thần! Thất Trọng Tinh Mạch (Thêm chương 18)"
+    },
+    {
+      "num": 294,
+      "title": "Trở lại thế giới bên trong thế giới (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 295,
+      "title": "Thử thách thứ hai! Khó lắm sao?"
+    },
+    {
+      "num": 296,
+      "title": "Thành công! Ta nhìn thấy hy vọng (Thêm chương 19)"
+    },
+    {
+      "num": 297,
+      "title": "Luyện Hóa! Tình Hình Ở Minh Khư (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 298,
+      "title": "Tặng bảo vật! Công dụng kỳ diệu của thần khí (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 299,
+      "title": "Thực lực lột xác! Trở về (Thêm chương 20)"
+    },
+    {
+      "num": 300,
+      "title": "Linh Thương đã đến (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 301,
+      "title": "Lần đầu ra tay (Thêm chương 21)"
+    },
+    {
+      "num": 302,
+      "title": "Giết! Giết! Danh chấn Lam Tinh (Thêm chương 22)"
+    },
+    {
+      "num": 303,
+      "title": "Mệnh lệnh của Thú Hoàng! Tinh thần lực cấp 37 (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 304,
+      "title": "Thảm khốc! Cái chết của Vu Mã Nông (Thêm chương 24)"
+    },
+    {
+      "num": 305,
+      "title": "Bất lực! Tối hậu thư"
+    },
+    {
+      "num": 306,
+      "title": "Mưu kế của Xích Nham! Lời hứa của Lý Nguyên"
+    },
+    {
+      "num": 307,
+      "title": "Suy đoán của Đông Phương Cực! Dẫn dắt linh tính (Thêm chương 25)"
+    },
+    {
+      "num": 308,
+      "title": "Tinh mạch hoàn mỹ mới! Khổ tu (thêm chương 27)"
+    },
+    {
+      "num": 309,
+      "title": "Đỉnh cao của võ giả Nguyên Võ"
+    },
+    {
+      "num": 310,
+      "title": "Đánh thẳng lên Minh Sơn (Thêm chương 29)"
+    },
+    {
+      "num": 311,
+      "title": "Giết chóc vô số! Đúc nên uy danh!"
+    },
+    {
+      "num": 312,
+      "title": "Cạm bẫy của Thú Hoàng! Bí mật Minh Sơn"
+    },
+    {
+      "num": 313,
+      "title": "Danh vang lan xa dị vực"
+    },
+    {
+      "num": 314,
+      "title": "Sự dò xét của Minh chủ! Hai con đường"
+    },
+    {
+      "num": 315,
+      "title": "Tiến vào Thần Địa! Ngươi là dị tộc (Thêm chương 30)"
+    },
+    {
+      "num": 316,
+      "title": "Một chiếc gương? Chỉ dẫn của Dị Thần"
+    },
+    {
+      "num": 317,
+      "title": "Mục tiêu! Chạm trán Thú Hoàng"
+    },
+    {
+      "num": 318,
+      "title": "Chiến với Thú Hoàng! Bùng nổ toàn lực (Thêm chương 31)"
+    },
+    {
+      "num": 319,
+      "title": "Sức mạnh chém giết Thú Hoàng! Sáu vị Dị Thần (thêm chương 33)"
+    },
+    {
+      "num": 320,
+      "title": "Chân Ý Của Gió! Những Thiên Tài Của Nền Văn Minh Vạn Ma"
+    },
+    {
+      "num": 321,
+      "title": "Quét sạch! Mười tầng thử thách của Thiên Xà Thần (Thêm chương 35)"
+    },
+    {
+      "num": 322,
+      "title": "Lời thề pháp tắc! 《Thiên Phong Tinh Mạch Chân Giải》"
+    },
+    {
+      "num": 323,
+      "title": "Tin dữ! Tỉnh lại (Cuối tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 324,
+      "title": "Phàm Tục Vực, Thần Vực, Thiên Thần (Bổ sung chương 36)"
+    },
+    {
+      "num": 325,
+      "title": "Chân tướng vạn năm trước! Thánh Huyết Thiên Xà (bổ sung chương 38)"
+    },
+    {
+      "num": 326,
+      "title": "Cơ duyên của Vu Kinh Hà! Hỗn Độn Thần Đình (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 327,
+      "title": "Ra đời! Liễu Băng (Đầu tháng xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 328,
+      "title": "Món quà của Tôn Giả (Đầu tháng xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 329,
+      "title": "Dịch Hồn Dịch Hư Thần! Quyết tâm của Tôn Giả (Thêm chương 1)"
+    },
+    {
+      "num": 330,
+      "title": "Cấp 388! Thu phục hoặc chết (Thêm chương 2)"
+    },
+    {
+      "num": 331,
+      "title": "Linh Thương trở về"
+    },
+    {
+      "num": 332,
+      "title": "Tin tức"
+    },
+    {
+      "num": 333,
+      "title": "Gặp minh chủ! Bí mật của nền văn minh Thất Tinh"
+    },
+    {
+      "num": 334,
+      "title": "Truyền lửa qua các thế hệ! Minh Khư đã định"
+    },
+    {
+      "num": 335,
+      "title": "Nơi lòng thấy bình yên! Phần thưởng khổng lồ"
+    },
+    {
+      "num": 336,
+      "title": "Thoáng chốc đã ba năm sau"
+    },
+    {
+      "num": 337,
+      "title": "Giết chết Bán Thần (Thêm chương 3)"
+    },
+    {
+      "num": 338,
+      "title": "Truyền thuyết về Thần Vực! Hy vọng duy nhất"
+    },
+    {
+      "num": 339,
+      "title": "Hội Buôn Vạn Giới! Xé nát linh hồn"
+    },
+    {
+      "num": 340,
+      "title": "Cực hạn! Linh hồn sụp đổ"
+    },
+    {
+      "num": 341,
+      "title": "Linh hồn cấp Bán Thần"
+    },
+    {
+      "num": 342,
+      "title": "Thất Tinh Mạch (Thêm chương 4)"
+    },
+    {
+      "num": 343,
+      "title": "Thực lực của Lý Nguyên"
+    },
+    {
+      "num": 344,
+      "title": "Vì nền văn minh! Mức độ thức tỉnh linh tính 75%"
+    },
+    {
+      "num": 345,
+      "title": "Hắn là Linh Thương! Một ý nghĩ diệt tám phương (Thêm chương 6)"
+    },
+    {
+      "num": 346,
+      "title": "Giết sạch không chừa một ai"
+    },
+    {
+      "num": 347,
+      "title": "Đại rút lui! Âm mưu của Đông Ma"
+    },
+    {
+      "num": 348,
+      "title": "La Bố Hải sụp đổ! Bán thần đột kích!"
+    },
+    {
+      "num": 349,
+      "title": "Tung hết mọi thủ đoạn"
+    },
+    {
+      "num": 350,
+      "title": "Phần thưởng điểm tích lũy! Danh tiếng vang khắp Vực Thứ Nguyên"
+    },
+    {
+      "num": 351,
+      "title": "Chân Thần Xích Yến! Cuối cùng cũng đạt Bát Tinh Mạch (Bù chương)"
+    },
+    {
+      "num": 352,
+      "title": "Võ Giả Phi Thiên Lý Nguyên"
+    },
+    {
+      "num": 353,
+      "title": "Truyền thuyết về mười tinh mạch"
+    },
+    {
+      "num": 354,
+      "title": "Bí mật của Minh Chủ"
+    },
+    {
+      "num": 355,
+      "title": "Thực lực lột xác! Cấp bảy！"
+    },
+    {
+      "num": 356,
+      "title": "Thần khí và bí bảo"
+    },
+    {
+      "num": 357,
+      "title": "Chín con Hoàng Long! Liễu Băng đột phá"
+    },
+    {
+      "num": 358,
+      "title": "Bán Thần Phương Hải"
+    },
+    {
+      "num": 359,
+      "title": "Khủng hoảng hành tinh! Chiến tranh bùng nổ!"
+    },
+    {
+      "num": 360,
+      "title": "Các vị Bán Thần của nền văn minh! Giết chóc"
+    },
+    {
+      "num": 361,
+      "title": "Mục tiêu: Lý Nguyên! Danh xưng Thần Xà"
+    },
+    {
+      "num": 362,
+      "title": "Cái bẫy giết người không chừa đường sống! Uy lực của lĩnh vực"
+    },
+    {
+      "num": 363,
+      "title": "Đại chiến với Bán Thần"
+    },
+    {
+      "num": 364,
+      "title": "Ngộ ra! Huyền diệu của pháp tắc"
+    },
+    {
+      "num": 365,
+      "title": "Bán Thần Ngã Xuống"
+    },
+    {
+      "num": 366,
+      "title": "Cơn giận của Đông Ma! Quyền hạn văn minh"
+    },
+    {
+      "num": 367,
+      "title": "Huyền Vân Trận!"
+    },
+    {
+      "num": 368,
+      "title": "Điện chủ tổng bộ Lam Tinh (bổ sung)"
+    },
+    {
+      "num": 369,
+      "title": "Thu hoạch! Bí mật của thần thương"
+    },
+    {
+      "num": 370,
+      "title": "Địa vị! Trở về Lam Tinh"
+    },
+    {
+      "num": 371,
+      "title": "Những vị bán thần của Lam Tinh"
+    },
+    {
+      "num": 372,
+      "title": "Đại Đạo Bản Nguyên Thiên Địa"
+    },
+    {
+      "num": 373,
+      "title": "Lý Nguyên nhậm chức thống lĩnh"
+    },
+    {
+      "num": 374,
+      "title": "Cái chết của Đông Phương Cực"
+    },
+    {
+      "num": 375,
+      "title": "Hai mối họa lớn"
+    },
+    {
+      "num": 376,
+      "title": "Trách nhiệm của Lý Nguyên (Bổ sung chương)"
+    },
+    {
+      "num": 377,
+      "title": "Cổ Du tặng quà! Căn cứ trên Lam Tinh"
+    },
+    {
+      "num": 378,
+      "title": "Một đám cường giả đỉnh phong Bán Thần"
+    },
+    {
+      "num": 379,
+      "title": "Hành động! Văn minh Vạn Ma"
+    },
+    {
+      "num": 380,
+      "title": "Mây đen vần vũ, thành trì sắp đổ! Bí ẩn không gian"
+    },
+    {
+      "num": 381,
+      "title": "Lĩnh ngộ thức thứ ba"
+    },
+    {
+      "num": 382,
+      "title": "Chiến tranh bắt đầu"
+    },
+    {
+      "num": 383,
+      "title": "Ác chiến! Thực lực của Lý Nguyên"
+    },
+    {
+      "num": 384,
+      "title": "Phương Hải bùng nổ! Tung hết át chủ bài"
+    },
+    {
+      "num": 385,
+      "title": "Liên tiếp ngã xuống! Đây chính là chiến tranh"
+    },
+    {
+      "num": 386,
+      "title": "Uy lực của bí bảo! Sát ý của Phương Hải"
+    },
+    {
+      "num": 387,
+      "title": "Phương Hải vô địch (bổ sung)"
+    },
+    {
+      "num": 388,
+      "title": "Thần Binh Bản Nguyên! Trận Pháp Trấn Tộc"
+    },
+    {
+      "num": 389,
+      "title": "Điều Tiên Khư mong muốn! Trận quyết chiến"
+    },
+    {
+      "num": 390,
+      "title": "Chiến lực Hư Thần! Đông Phương Cực xuất hiện"
+    },
+    {
+      "num": 391,
+      "title": "Thực lực của Đông Phương Cực (bổ sung chương)"
+    },
+    {
+      "num": 392,
+      "title": "Nguyên do"
+    },
+    {
+      "num": 393,
+      "title": "Món quà! Bí mật của chiến trận"
+    },
+    {
+      "num": 394,
+      "title": "Bí mật về vị diện! Phản ứng của Chân Thần"
+    },
+    {
+      "num": 395,
+      "title": "Hai năm sau"
+    },
+    {
+      "num": 396,
+      "title": "Từ biệt"
+    },
+    {
+      "num": 397,
+      "title": "Tiến vào thế giới Cửu Diệp! Nhiệm vụ Tử Y"
+    },
+    {
+      "num": 398,
+      "title": "Uyên Quốc! Giác Tinh Đại Lục"
+    },
+    {
+      "num": 399,
+      "title": "Là Thần Vực! Nhưng cũng không phải Thần Vực"
+    },
+    {
+      "num": 400,
+      "title": "Điện hạ Khương Tuyền"
+    },
+    {
+      "num": 401,
+      "title": "Hoàng tộc tranh đấu! Lý Nguyên ra tay"
+    },
+    {
+      "num": 402,
+      "title": "Thân phận! Truyền thuyết về đại lục Giác Tinh (bổ sung chương)"
+    },
+    {
+      "num": 403,
+      "title": "Bỏ chạy! Bị vây đánh từ tám phía"
+    },
+    {
+      "num": 404,
+      "title": "Di Tích Thiên Thần"
+    },
+    {
+      "num": 405,
+      "title": "Hành lang hư không! Sự thật"
+    },
+    {
+      "num": 406,
+      "title": "Trận chiến Tổ Giới"
+    },
+    {
+      "num": 407,
+      "title": "Tấm Gương Pháp Tắc"
+    },
+    {
+      "num": 408,
+      "title": "Đột phá! Sư huynh đến rồi?"
+    },
+    {
+      "num": 409,
+      "title": "Chân Thần Khương Uyên"
+    },
+    {
+      "num": 410,
+      "title": "Ngươi đến từ Thần Vực"
+    },
+    {
+      "num": 411,
+      "title": "Thần Hỏa Cung! Giác Tinh Thần Đan"
+    },
+    {
+      "num": 412,
+      "title": "Thần Đan Và Thần Cung Tâm Linh"
+    },
+    {
+      "num": 413,
+      "title": "Bán Thần Bát Tinh Mạch! Lần Đầu Gặp Cảnh Khuê"
+    },
+    {
+      "num": 414,
+      "title": "Bên trong Tuyệt Âm Lâu"
+    },
+    {
+      "num": 415,
+      "title": "Một cái tát! Một trận thành danh (Thêm chương cảm ơn minh chủ vàng ‘Noãn Dương 1314’)"
+    },
+    {
+      "num": 416,
+      "title": "Danh tiếng vang khắp nơi! Thế giới Cửu Âm"
+    },
+    {
+      "num": 417,
+      "title": "Món quà! Ý chí đột phá (Đầu tháng xin vé tháng)"
+    },
+    {
+      "num": 418,
+      "title": "Ý chí Hư Thần! Sự thay đổi của phép quán tưởng (Thêm chương cảm ơn minh chủ vàng ‘Noãn Dương 1314’)"
+    },
+    {
+      "num": 419,
+      "title": "Xông vào Cửu Âm Chi Giới (Đầu tháng xin vé tháng)"
+    },
+    {
+      "num": 420,
+      "title": "Khương Sơn và Hứa Nguyên (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 421,
+      "title": "Có mong cầu, ắt có ham muốn (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 422,
+      "title": "Cảnh Khuê mạnh đến đáng sợ! Gặp Chân Thần (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 423,
+      "title": "Tâm Huyễn Lục Cảnh (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 424,
+      "title": "Linh Uyên Bích Ngọc Quả! Tu hành"
+    },
+    {
+      "num": 425,
+      "title": "Sự thù địch của Chân Thần Hắc Nhận (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 426,
+      "title": "Ám sát! Nguy cơ mất mạng của Lý Nguyên (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 427,
+      "title": "Sống sót"
+    },
+    {
+      "num": 428,
+      "title": "Uy hiếp! Kỳ hạn ba tháng"
+    },
+    {
+      "num": 429,
+      "title": "Cổ Thành Giác Tinh! Hai con đường"
+    },
+    {
+      "num": 430,
+      "title": "Thánh Tử Hứa Nguyên (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 431,
+      "title": "Gặp Thiên Thần (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 432,
+      "title": "Thánh địa tu hành! Hung thủ (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 433,
+      "title": "Cái chết của Hắc Nhận"
+    },
+    {
+      "num": 434,
+      "title": "Cái tên Khương Uyên! Tu luyện của Lý Nguyên"
+    },
+    {
+      "num": 435,
+      "title": "Năm tháng! Tiến bộ vượt bậc"
+    },
+    {
+      "num": 436,
+      "title": "Cuối cùng cũng thành Cửu Tinh Mạch"
+    },
+    {
+      "num": 437,
+      "title": "Bán Thần Lý Nguyên (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 438,
+      "title": "Sự lột xác về thực lực"
+    },
+    {
+      "num": 439,
+      "title": "Trận Chiến Xếp Hạng"
+    },
+    {
+      "num": 440,
+      "title": "Hứa Nguyên đáng sợ đến mức nào"
+    },
+    {
+      "num": 441,
+      "title": "Quét sạch tất cả (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 442,
+      "title": "Thứ hạng cuối cùng"
+    },
+    {
+      "num": 443,
+      "title": "Ảnh hưởng! Lời nhắn của Đông Phương Cực (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 444,
+      "title": "Thế giới Long Huyết! Săn giết Hư Thần"
+    },
+    {
+      "num": 445,
+      "title": "Cấp 444: Cái chết của Hư Thần"
+    },
+    {
+      "num": 446,
+      "title": "Cấp 499! Biến đổi của mạch sao chín sao"
+    },
+    {
+      "num": 447,
+      "title": "Tiến vào Vĩnh Hằng Điện! Lựa chọn của Lý Nguyên"
+    },
+    {
+      "num": 448,
+      "title": "Không Gian Chân Ý"
+    },
+    {
+      "num": 449,
+      "title": "Trở về! Đỉnh cao Hư Thần (Chương thêm)"
+    },
+    {
+      "num": 450,
+      "title": "Điên cuồng tàn sát! Chấn động tầng lớp cấp cao"
+    },
+    {
+      "num": 451,
+      "title": "Điều Khương Uyên mong muốn"
+    },
+    {
+      "num": 452,
+      "title": "Đạo bảo! Ý chí cấp Chân Thần (bù chương)"
+    },
+    {
+      "num": 453,
+      "title": "Rèn luyện bản thân! Liễu Băng"
+    },
+    {
+      "num": 454,
+      "title": "Liễu Băng may mắn! Sắp đến ngày"
+    },
+    {
+      "num": 455,
+      "title": "Phong Vân Nổi Dậy! Con Đường Thông Thiên Xuất Hiện"
+    },
+    {
+      "num": 456,
+      "title": "Trận chiến Tổ Giới"
+    },
+    {
+      "num": 457,
+      "title": "Xếp hạng! Nỗi băn khoăn của Thiên Thần (chương thêm)"
+    },
+    {
+      "num": 458,
+      "title": "Đội hình thứ nhất"
+    },
+    {
+      "num": 459,
+      "title": "Lý Nguyên và Ngu Đình"
+    },
+    {
+      "num": 460,
+      "title": "Bùng nổ! Lý Nguyên đáng sợ (Thêm chương)"
+    },
+    {
+      "num": 461,
+      "title": "Liên tiếp chiến thắng! Đứng đầu bảng điểm"
+    },
+    {
+      "num": 462,
+      "title": "Dấu Vết Hư Không! Ngạo Nghễ Giữa Quần Hùng"
+    },
+    {
+      "num": 463,
+      "title": "Tổ Giới Lệnh xuất thế"
+    },
+    {
+      "num": 464,
+      "title": "Quả đầu tiên! Mười phương chặn đánh (Cầu nguyệt phiếu gấp đôi)"
+    },
+    {
+      "num": 465,
+      "title": "Lý Nguyên giáng lâm! Xé toạc bầu trời (Cầu nguyệt phiếu gấp đôi)"
+    },
+    {
+      "num": 466,
+      "title": "Đè bẹp! Chém giết!"
+    },
+    {
+      "num": 467,
+      "title": "Sáu đại cường giả! Trận chiến đỉnh cao!"
+    },
+    {
+      "num": 468,
+      "title": "Đốn Ngộ! ‘Vạn Tượng Giới’ Trong Tâm Linh (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 469,
+      "title": "Lý Nguyên vô địch (Xin vé tháng)"
+    },
+    {
+      "num": 470,
+      "title": "Một ý niệm trấn áp mười phương! Cốt lõi Tổ Giới (Ngày cuối cùng của tháng, xin vé tháng)"
+    },
+    {
+      "num": 471,
+      "title": "Thần Đế Giác Tinh"
+    },
+    {
+      "num": 472,
+      "title": "Nửa bộ truyền thừa! Cực hạn bán thần (Đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 473,
+      "title": "Bí mật của Giác Tinh Thần Đan (Đầu tháng xin phiếu tháng)"
+    },
+    {
+      "num": 474,
+      "title": "Vì sao mà cầu, mới có thể đến chết cũng không hối tiếc (Đầu tháng cầu vé tháng)"
+    },
+    {
+      "num": 475,
+      "title": "Thương pháp lột xác! Truyền thừa Thần Vương (Đầu tháng xin vé tháng)"
+    },
+    {
+      "num": 476,
+      "title": "Rời Đi! Áo Tím (Đầu tháng xin nguyệt phiếu)"
+    },
+    {
+      "num": 477,
+      "title": "Tâm Mộng Thần Đế! Chân tướng Thần Cung (6K cầu nguyệt phiếu)"
+    },
+    {
+      "num": 478,
+      "title": "Trở về Thất Tinh (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 479,
+      "title": "Nền móng của văn minh! Tiến đánh Vạn Ma"
+    },
+    {
+      "num": 480,
+      "title": "Vạn Ma diệt vong! Một mình gánh tội"
+    },
+    {
+      "num": 481,
+      "title": "Luyện Hồn! Hội Nghị Thất Tinh"
+    },
+    {
+      "num": 482,
+      "title": "Ảnh Hưởng Đến Cả Nền Văn Minh (Ngày Cuối Cùng Vé Tháng Được Nhân Đôi)"
+    },
+    {
+      "num": 483,
+      "title": "Thân phận của Cổ Du (Thêm chương theo mục tiêu vé tháng)"
+    },
+    {
+      "num": 484,
+      "title": "Người thân (Thêm chương theo mục tiêu nguyệt phiếu)"
+    },
+    {
+      "num": 485,
+      "title": "Lòng riêng của Lý Nguyên"
+    },
+    {
+      "num": 486,
+      "title": "Uy danh! Giám sát sứ Tinh Vực Mặc Hà (6K, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 487,
+      "title": "Sí Yến và Liệt Kình"
+    },
+    {
+      "num": 488,
+      "title": "Tiền bối, đây là lệnh bài của ta"
+    },
+    {
+      "num": 489,
+      "title": "Sí Yến vẫn còn sống? Ý định giết chóc nổi lên (6K cầu nguyệt phiếu)"
+    },
+    {
+      "num": 490,
+      "title": "Tâm Linh Vạn Vật Diễn Biến Pháp! Gặp lại Liệt Phong (6K)"
+    },
+    {
+      "num": 491,
+      "title": "Quỳ xuống! Tám năm sau (Thêm chương cho Bạch Ngân Minh Chủ ‘Trạch Thái’)"
+    },
+    {
+      "num": 492,
+      "title": "Linh hồn đột phá! Giới hạn của Cửu Tinh Mạch (7K)"
+    },
+    {
+      "num": 493,
+      "title": "Tiến sâu vào Viêm Sí Hà! Giết! (6K)"
+    },
+    {
+      "num": 494,
+      "title": "Trận chiến giữa các Chân Thần (Thêm chương, cầu nguyệt phiếu)"
+    },
+    {
+      "num": 495,
+      "title": "Đánh vào Tiên Khư (6K)"
+    },
+    {
+      "num": 496,
+      "title": "Mối đe dọa từ Thiên Thần (6K)"
+    },
+    {
+      "num": 497,
+      "title": "Hồi kết! Những người đã khuất (6K)"
+    },
+    {
+      "num": 498,
+      "title": "Bắc Khâu Phàm Tục Vực, Tinh Vực Mặc Hà"
+    },
+    {
+      "num": 499,
+      "title": "Lần đầu đặt chân đến Thần Vực (7K)"
+    },
+    {
+      "num": 500,
+      "title": "Cái bẫy! Ta tên Trang Long"
+    },
+    {
+      "num": 501,
+      "title": "Uy lực trận pháp! Kẻ đứng sau màn"
+    },
+    {
+      "num": 502,
+      "title": "Là ngươi ép ta! Bái kiến Lý Nguyên thần tử (9K)"
+    },
+    {
+      "num": 503,
+      "title": "Món quà hậu hĩnh của Thiên Thần (120.000 chữ)"
+    },
+    {
+      "num": 504,
+      "title": "Tổng bộ Thần Đình! Sao Nguyên Hỏa (120.000 chữ)"
+    },
+    {
+      "num": 505,
+      "title": "3829 vị Thần Vương! Cung Chín Trời (7K)"
+    },
+    {
+      "num": 506,
+      "title": "Yếu ớt? Mạnh mẽ! (7K)"
+    },
+    {
+      "num": 507,
+      "title": "Chấn động! Tin tức về Đông Phương Cực (9K)"
+    },
+    {
+      "num": 508,
+      "title": "Ba cảnh giới tâm linh! Quyền hạn cấp chín (6K)"
+    },
+    {
+      "num": 509,
+      "title": "Quà tặng của Thần Vương! Quả Tinh Hoàng Không Gian (6K)"
+    },
+    {
+      "num": 510,
+      "title": "Đại đạo bản nguyên hoàn chỉnh! Gặp lại Đông Phương (6K)"
+    },
+    {
+      "num": 511,
+      "title": "Tấm lòng của Đông Phương Cực! Năm mươi năm tu hành (6K)"
+    },
+    {
+      "num": 512,
+      "title": "Thần Vương Huyễn Tâm (Đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 513,
+      "title": "Con đường gần với Thần Đế nhất (Đầu tháng cầu vé tháng)"
+    },
+    {
+      "num": 514,
+      "title": "Lần đầu nghe nói đến ‘Tiên Đạo Vĩnh Hằng’ (Đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 515,
+      "title": "Bên trong Vạn Giới Thương Hội (Đầu tháng xin vé tháng)"
+    },
+    {
+      "num": 516,
+      "title": "Pháp Thiên Tượng Địa! Lại xông vào Nguyên Hỏa Giới (Đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 517,
+      "title": "Bán Thần số một Nguyên Hỏa Tinh (Đầu tháng xin vé tháng)"
+    },
+    {
+      "num": 518,
+      "title": "363 vị! Bán Thần yêu nghiệt nhất"
+    },
+    {
+      "num": 519,
+      "title": "Ảnh hưởng! Thần Vương ùn ùn kéo đến"
+    },
+    {
+      "num": 520,
+      "title": "Tâm Giới! Nhiệm vụ cảnh giới Đế Nguyên (7K)"
+    },
+    {
+      "num": 521,
+      "title": "Ta cũng có thể trở thành Thủy Tổ! Đại tông môn tu tiên (6K)"
+    },
+    {
+      "num": 522,
+      "title": "Hệ thống Tiên Linh! Đây là thế giới nào?"
+    },
+    {
+      "num": 523,
+      "title": "Tiên đạo có khiếm khuyết! Thiên đạo đầu độc (7K)"
+    },
+    {
+      "num": 524,
+      "title": "Thế nào là ma? Mục tiêu là ta? (6K)"
+    },
+    {
+      "num": 525,
+      "title": "Tội nghiệt quấn thân! Chém Chân Tiên (6K)"
+    },
+    {
+      "num": 526,
+      "title": "Vạn Thần Điện! Ba vị Thiên Tiên (6K cầu nguyệt phiếu)"
+    },
+    {
+      "num": 527,
+      "title": "Giết! Thương pháp số một thiên hạ (7K)"
+    },
+    {
+      "num": 528,
+      "title": "Đại Lực Giới! Một thần vực khác (7K)"
+    },
+    {
+      "num": 529,
+      "title": "Bí mật về Ngụy Thiên Đạo! Điện chủ Bàng Minh (7K)"
+    },
+    {
+      "num": 530,
+      "title": "Thần Vương Sinh Mệnh! Trăm năm sau (6K)"
+    },
+    {
+      "num": 531,
+      "title": "Rốt cuộc cũng chỉ là khách qua đường! Sáu vị Thiên Quân (6K)"
+    },
+    {
+      "num": 532,
+      "title": "Trời đất trong lòng bàn tay! Bùng nổ (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 533,
+      "title": "Một thương chấn động chín nghìn cõi! Lựa chọn của số phận (7K)"
+    },
+    {
+      "num": 534,
+      "title": "Ta không muốn"
+    },
+    {
+      "num": 535,
+      "title": "Bí mật của Cửu Tinh Mạch hoàn mỹ! Vũ Trụ Thần Thể (7K)"
+    },
+    {
+      "num": 536,
+      "title": "Hai trăm năm tháng năm! Tia sáng thứ mười (7K)"
+    },
+    {
+      "num": 537,
+      "title": "Cuối cùng cũng đạt Thập Tinh Mạch! Lần Dẫn Dắt Linh Tính Thứ Năm"
+    },
+    {
+      "num": 538,
+      "title": "Nguyên Chủng! Đạo Tổ trở về (6K)"
+    },
+    {
+      "num": 539,
+      "title": "Mệnh lệnh của Tiên Tổ! Chiến tranh bùng nổ"
+    },
+    {
+      "num": 540,
+      "title": "Bí mật về Nguyên Chủng"
+    },
+    {
+      "num": 541,
+      "title": "Thống lĩnh! Bát Tinh Chân Thần Thể"
+    },
+    {
+      "num": 542,
+      "title": "Thành công! Trường thương chỉ hướng (9K)"
+    },
+    {
+      "num": 543,
+      "title": "Chiến đấu với Đạo Tổ! Pháp tắc không gian tầng thứ mười (6K)"
+    },
+    {
+      "num": 544,
+      "title": "Đạo Tổ ngã xuống"
+    },
+    {
+      "num": 545,
+      "title": "Tư Ngũ Thiên Thần! Trở Về"
+    },
+    {
+      "num": 546,
+      "title": "Đế chiến! Gặp sư tôn (6K)"
+    },
+    {
+      "num": 547,
+      "title": "Thần Vương Binh Khí! Kỳ Vọng Của Sư Tôn"
+    },
+    {
+      "num": 548,
+      "title": "Lý Nguyên trở về! Mười Tinh Mạch?"
+    },
+    {
+      "num": 549,
+      "title": "Cổ Vực"
+    },
+    {
+      "num": 550,
+      "title": "Tám môn Tinh thuật hoàn mỹ (6K)"
+    },
+    {
+      "num": 551,
+      "title": "Bán Thần Số Một Trong Lịch Sử! Biển Giới Bảy Màu (6K)"
+    },
+    {
+      "num": 552,
+      "title": "Cảnh giới Hư Thần (6K)"
+    },
+    {
+      "num": 553,
+      "title": "Trở lại cõi phàm (6K)"
+    },
+    {
+      "num": 554,
+      "title": "Tiến vào Cổ Vực"
+    },
+    {
+      "num": 555,
+      "title": "Xé toạc trời đất! Thiên Thần Khôi Lỗi"
+    },
+    {
+      "num": 556,
+      "title": "Bí mật của Cổ Vực"
+    },
+    {
+      "num": 557,
+      "title": "Chủ Điện? Bản Đồ Báu Vật Chỉ Đường"
+    },
+    {
+      "num": 558,
+      "title": "Tâm Giới bước đầu thành hình"
+    },
+    {
+      "num": 559,
+      "title": "Cái chết của Cưu Ưng! Thu hoạch"
+    },
+    {
+      "num": 560,
+      "title": "Tháp Giới Hắc Quang! Sự ra đời của Thiên Thần"
+    },
+    {
+      "num": 561,
+      "title": "Thân hãm"
+    },
+    {
+      "num": 562,
+      "title": "Hội hợp"
+    },
+    {
+      "num": 563,
+      "title": "Chiến Thiên Thần"
+    },
+    {
+      "num": 564,
+      "title": "Báu vật hộ đạo! Số hiệu mười sáu (6K)"
+    },
+    {
+      "num": 565,
+      "title": "Thánh linh Vũ Giới (6K)"
+    },
+    {
+      "num": 566,
+      "title": "Thần Đế Chí Tôn! Thử thách"
+    },
+    {
+      "num": 567,
+      "title": "Trận chiến đầu tiên! Tu hành mấy năm (7K)"
+    },
+    {
+      "num": 568,
+      "title": "Cảnh giới Chân Thần (6K)"
+    },
+    {
+      "num": 569,
+      "title": "Ứng viên số một! Thái Ảnh (6K)"
+    },
+    {
+      "num": 570,
+      "title": "Chủ Nhân Cổ Vực (6K)"
+    },
+    {
+      "num": 571,
+      "title": "Bí mật của Hỏa Phượng! Cực hạn của thần lực (6K bù chương)"
+    },
+    {
+      "num": 572,
+      "title": "Chém giết! Bản đồ sao bóng tối (6K)"
+    },
+    {
+      "num": 573,
+      "title": "Hồng Hà Vũ Minh! Lam Tinh (6K)"
+    },
+    {
+      "num": 574,
+      "title": "Thất Tinh sau nhiều năm (Chúc mừng năm mới)"
+    },
+    {
+      "num": 575,
+      "title": "Thần Điện Truyền Lửa (Đầu tháng, xin vé tháng 7K)"
+    },
+    {
+      "num": 576,
+      "title": "Người xưa tụ hội! Thế lực bước đầu thành hình (6K, đầu tháng cầu nguyệt phiếu)"
+    },
+    {
+      "num": 577,
+      "title": "Hôm nay, các ngươi phải chết"
+    },
+    {
+      "num": 578,
+      "title": "Trận chiến giữa các Thần Quân"
+    },
+    {
+      "num": 579,
+      "title": "Phân thắng bại! Thần Vương giáng lâm (6K, cầu nguyệt phiếu x2)"
+    },
+    {
+      "num": 580,
+      "title": "Cúi đầu! Lần đầu nghe nói về Bắc Thần Cư (6K, cầu nguyệt phiếu x2)"
+    },
+    {
+      "num": 581,
+      "title": "Danh Tiếng Vang Khắp Thần Vực (6K, cầu vé tháng nhân đôi)"
+    },
+    {
+      "num": 582,
+      "title": "Cương vực! Xếp hạng trên Thiên Thần Bảng (6K, cầu nguyệt phiếu gấp đôi)"
+    },
+    {
+      "num": 583,
+      "title": "Món nợ nhân quả này, ta gánh nổi"
+    },
+    {
+      "num": 584,
+      "title": "Cung Vạn Vật (6K)"
+    },
+    {
+      "num": 585,
+      "title": "Sáu mươi năm tháng (6K)"
+    },
+    {
+      "num": 586,
+      "title": "Tin đồn thất thiệt! Chuẩn bị hành động (6K)"
+    },
+    {
+      "num": 587,
+      "title": "Xuyên qua bóng tối"
+    },
+    {
+      "num": 588,
+      "title": "Sự ra đời của Thần Giáp Tâm Nguyên (6K)"
+    },
+    {
+      "num": 589,
+      "title": "Thành công"
+    },
+    {
+      "num": 590,
+      "title": "Bảo vật xuất thế! Bại lộ"
+    },
+    {
+      "num": 591,
+      "title": "Giết ra một con đường sống (6K)"
+    },
+    {
+      "num": 592,
+      "title": "Một đám Thần Quân! Bùng nổ (6K)"
+    },
+    {
+      "num": 593,
+      "title": "Gây dựng uy danh (6K)"
+    },
+    {
+      "num": 594,
+      "title": "Thần Đình Ứng Đối ！ Chiến Đỉnh Tiêm Thần Quân (Thần Đình ứng phó! Đối đầu với Thần Quân hàng đầu (6K))"
+    },
+    {
+      "num": 595,
+      "title": "Cung Phu Thần Quân! Kiếp nạn cuối cùng (6K)"
+    },
+    {
+      "num": 596,
+      "title": "Tâm giới như ngục! Hạ màn (6K)"
+    },
+    {
+      "num": 597,
+      "title": "Sáu vị Thần Vương! Lựa chọn bảo vật (bù chương 6K)"
+    },
+    {
+      "num": 598,
+      "title": "Tâm Nguyên Thần Quân (6K)"
+    },
+    {
+      "num": 599,
+      "title": "Thần Thể Mười Sao! Chiến Giáp Ánh Bạc"
+    },
+    {
+      "num": 600,
+      "title": "Thần Quốc Thành Lập! Bế Quan Tu Luyện (6K)"
+    },
+    {
+      "num": 601,
+      "title": "Cấu trúc thế giới! Thức thứ năm ‘Thích Thiên’ (6K)"
+    },
+    {
+      "num": 602,
+      "title": "Bí mật của Nội Vũ Giới"
+    },
+    {
+      "num": 603,
+      "title": "Hội tụ! Những gì Bắc Hà Thần Đế để lại (6K)"
+    },
+    {
+      "num": 604,
+      "title": "Bắc Thần Cư! Săn giết (Chúc mọi người năm mới vui vẻ)"
+    },
+    {
+      "num": 605,
+      "title": "Nhân Quả Tâm Tinh"
+    },
+    {
+      "num": 606,
+      "title": "Không gian kho báu! Danh tiếng (6K)"
+    },
+    {
+      "num": 607,
+      "title": "Tàn sát! Những tồn tại đứng đầu (6K)"
+    },
+    {
+      "num": 608,
+      "title": "Báu vật! Hạng năm (6K)"
+    },
+    {
+      "num": 609,
+      "title": "Ngộ Đạo! Kẻ Địch Kéo Đến"
+    },
+    {
+      "num": 610,
+      "title": "Thiên Thần Vô Địch (6K)"
+    },
+    {
+      "num": 611,
+      "title": "Đánh cược một phen"
+    },
+    {
+      "num": 612,
+      "title": "Đạo hỏa vĩnh hằng, ai chẳng gọi là chân tâm"
+    },
+    {
+      "num": 613,
+      "title": "Sư huynh Tuế Hoàn! Để ta bảo vệ huynh (6K)"
+    },
+    {
+      "num": 614,
+      "title": "Con đường mà Chí Tôn để lại! Mưu tính của Càn Vũ"
+    },
+    {
+      "num": 615,
+      "title": "Pháp tắc Thổ hoàn chỉnh! Lại tập kích giết chóc (6K)"
+    },
+    {
+      "num": 616,
+      "title": "Loạn lưu! Thần cung Đế Quân"
+    },
+    {
+      "num": 617,
+      "title": "Bách Đạo Đế Quân"
+    },
+    {
+      "num": 618,
+      "title": "Lựa chọn của Lý Nguyên (7K)"
+    },
+    {
+      "num": 619,
+      "title": "Bốn tầng kiếp nạn! Sóng gió"
+    },
+    {
+      "num": 620,
+      "title": "Sống sót (6K)"
+    },
+    {
+      "num": 621,
+      "title": "Người canh mộ"
+    },
+    {
+      "num": 622,
+      "title": "Hai trăm năm biến đổi"
+    },
+    {
+      "num": 623,
+      "title": "Năm con đường vĩnh hằng"
+    },
+    {
+      "num": 624,
+      "title": "Tuyệt Học Bậc Hai"
+    },
+    {
+      "num": 625,
+      "title": "Vạn Kiếp Luân Hồi"
+    },
+    {
+      "num": 626,
+      "title": "Thế là đủ rồi"
+    },
+    {
+      "num": 627,
+      "title": "Đặt chân lên Tử Sơn! Con đường hoàn mỹ"
+    },
+    {
+      "num": 628,
+      "title": "Thiên Thần Lý Nguyên"
+    },
+    {
+      "num": 629,
+      "title": "Linh hồn mộ địa vĩnh hằng bất diệt"
+    },
+    {
+      "num": 630,
+      "title": "Vực Tối! Quan Tài Đồng Xanh"
+    },
+    {
+      "num": 631,
+      "title": "Thu hoạch lớn"
+    },
+    {
+      "num": 632,
+      "title": "Quyền hạn! Lý Nguyên vẫn còn sống?"
+    },
+    {
+      "num": 633,
+      "title": "Đợt đòi nợ đầu tiên! Chém giết"
+    },
+    {
+      "num": 634,
+      "title": "Kẻ vô địch chỉ có một"
+    },
+    {
+      "num": 635,
+      "title": "Tứ đại Thần Đình liên thủ! Đã lâu không gặp"
+    },
+    {
+      "num": 636,
+      "title": "Càn Vũ ngã xuống! Thần Vương?"
+    },
+    {
+      "num": 637,
+      "title": "Thần Vương Tâm Nguyên! Toàn bộ bị tiêu diệt"
+    },
+    {
+      "num": 638,
+      "title": "Ma Vân! Quả Hoa Vạn Đạo"
+    },
+    {
+      "num": 639,
+      "title": "Bí mật khai mở con đường tu luyện! Kẻ trở mặt"
+    },
+    {
+      "num": 640,
+      "title": "Thâm Uyên Thần Đế! Hồi Sinh"
+    },
+    {
+      "num": 641,
+      "title": "Đỉnh Cao Vĩnh Hằng Đạo"
+    },
+    {
+      "num": 642,
+      "title": "Năm trăm năm sau"
+    },
+    {
+      "num": 643,
+      "title": "Con đường của Lý Nguyên! Chủ nhân tinh vực"
+    },
+    {
+      "num": 644,
+      "title": "Vật chất bất tử! Sư huynh đệ"
+    },
+    {
+      "num": 645,
+      "title": "Tứ Đại Thần Vương! Tiến Vào Nội Vực"
+    },
+    {
+      "num": 646,
+      "title": "Một Đòn Giết Chết"
+    },
+    {
+      "num": 647,
+      "title": "Cuối dòng Thiên Hà! Bại lộ"
+    },
+    {
+      "num": 648,
+      "title": "Ngươi chết ta sống! Các bên đều kinh hãi"
+    },
+    {
+      "num": 649,
+      "title": "Điên cuồng! Cùng nhau chết ư?"
+    },
+    {
+      "num": 650,
+      "title": "Thành Bạc Hải! Trận Cửu Thiên Ngân Hà"
+    },
+    {
+      "num": 651,
+      "title": "Tu luyện! Người xưa gặp lại"
+    },
+    {
+      "num": 652,
+      "title": "Thất Tinh Nhất Mạch! Hình Thành Đạo Thai"
+    },
+    {
+      "num": 653,
+      "title": "Luyện Hóa Thành Công! Ngai Bạc"
+    },
+    {
+      "num": 654,
+      "title": "Hóa Giới! Nguy Cơ Của Tâm Giới Thần Vương"
+    },
+    {
+      "num": 655,
+      "title": "Thần uy vô song"
+    },
+    {
+      "num": 656,
+      "title": "Thần Vương Ngã Xuống! Thiên Tài Vô Song"
+    },
+    {
+      "num": 657,
+      "title": "Đại chiến khép lại! Cả thiên hạ chấn động"
+    },
+    {
+      "num": 658,
+      "title": "Các vị Thần Vương hội tụ"
+    },
+    {
+      "num": 659,
+      "title": "Thuốc giải! Thế giới biến đổi"
+    },
+    {
+      "num": 660,
+      "title": "Cổ Vũ Giới! Sự Ra Đời Của Đóa Hoa Sen Vũ Trụ"
+    },
+    {
+      "num": 661,
+      "title": "Máu Đế"
+    },
+    {
+      "num": 662,
+      "title": "Bảo Vật Thuộc Về Ai! Ngàn Năm Đã Đến Hạn"
+    },
+    {
+      "num": 663,
+      "title": "Một vùng trời che kín tinh tú! Chiến tranh bắt đầu"
+    },
+    {
+      "num": 664,
+      "title": "Huyết chiến! Đế binh không trọn vẹn"
+    },
+    {
+      "num": 665,
+      "title": "Cửu Liên Giới! Trấn Áp Thập Phương"
+    },
+    {
+      "num": 666,
+      "title": "Giết! Quét sạch toàn bộ"
+    },
+    {
+      "num": 667,
+      "title": "Chém giết! Thần Đế giáng lâm"
+    },
+    {
+      "num": 668,
+      "title": "Đế Uy! Tâm Mộng Và Thâm Uyên"
+    },
+    {
+      "num": 669,
+      "title": "Chúa Tể Thâm Uyên! Lời Hẹn"
+    },
+    {
+      "num": 670,
+      "title": "Hắn muốn lấy mạng chúng ta"
+    },
+    {
+      "num": 671,
+      "title": "Thu hoạch! Thần Vương giàu có nhất"
+    },
+    {
+      "num": 672,
+      "title": "Thầy trò"
+    },
+    {
+      "num": 673,
+      "title": "Thủ lĩnh Đế Cung"
+    },
+    {
+      "num": 674,
+      "title": "Tử Hỏa Thần Vương! Vạn Long Thần Giáp"
+    },
+    {
+      "num": 675,
+      "title": "Tín vật của Liễu Băng! Đại chiến thiên tài"
+    },
+    {
+      "num": 676,
+      "title": "Lê Thù! Sư phụ của Tử Hỏa Thần Vương"
+    },
+    {
+      "num": 677,
+      "title": "Món quà của Vân Nguyệt"
+    },
+    {
+      "num": 678,
+      "title": "Tuế Ma Tinh! Hắc Ma Mộ Thạch"
+    },
+    {
+      "num": 679,
+      "title": "Sát ý trong đêm tuyết! Nhân quả"
+    },
+    {
+      "num": 680,
+      "title": "Ngàn năm tháng! Lại mở ra một con đường mới"
+    },
+    {
+      "num": 681,
+      "title": "Chủng Tộc Huyết Mạch Mạnh Nhất"
+    },
+    {
+      "num": 682,
+      "title": "Đế Binh “Thí Uyên”"
+    },
+    {
+      "num": 683,
+      "title": "Công dụng của cỗ quan tài đồng! Hành động"
+    },
+    {
+      "num": 684,
+      "title": "Chim sẻ rình phía sau"
+    },
+    {
+      "num": 685,
+      "title": "Một Mình Địch Bảy! Xé Toạc Trời Đất"
+    },
+    {
+      "num": 686,
+      "title": "Giết sạch! Răn đe"
+    },
+    {
+      "num": 687,
+      "title": "Thánh Tổ! Chúa Tể"
+    },
+    {
+      "num": 688,
+      "title": "Sư huynh lựa chọn! Đệ nhất Thần Vương"
+    },
+    {
+      "num": 689,
+      "title": "Lên đường"
+    },
+    {
+      "num": 690,
+      "title": "Thông Thiên Chúa Tể! Thiên Địa Bất Hủ! Lý Nguyên và Đông Mang Thần Vương chỉ cảm thấy không gian trước mắt chợt biến đổi, đến khi nhìn rõ mọi thứ, cả hai đã đứng bên trong một chiến thuyền khổng lồ. Nơi này được trang hoàng khá đơn sơ.\\"
+    },
+    {
+      "num": 691,
+      "title": "Ngũ Tinh Bất Hủ Lệnh"
+    },
+    {
+      "num": 692,
+      "title": "Chiến đấu với sinh linh vực sâu, thu hoạch công huân bất hủ đầu tiên"
+    },
+    {
+      "num": 693,
+      "title": "Tập kích! Hỗn Độn Phủ"
+    },
+    {
+      "num": 694,
+      "title": "Đụng phải đối thủ khó nhằn"
+    },
+    {
+      "num": 695,
+      "title": "Hư Không Giới Hà! Sát Ý"
+    },
+    {
+      "num": 696,
+      "title": "Rắc Rối Lớn! Huyễn Tâm Thần Vương"
+    },
+    {
+      "num": 697,
+      "title": "Thành Thiên Lạc"
+    },
+    {
+      "num": 698,
+      "title": "Thần Phủ! Long Nhai, Nam Cô"
+    },
+    {
+      "num": 699,
+      "title": "Danh Ngạch! Khối Tài Sản Khổng Lồ"
+    },
+    {
+      "num": 700,
+      "title": "Con đường tu hành phía trước! Bồi tội"
+    },
+    {
+      "num": 701,
+      "title": "Huyết Kiếp, Vạn Tượng"
+    },
+    {
+      "num": 702,
+      "title": "Đế Binh! Gió nổi lên"
+    },
+    {
+      "num": 703,
+      "title": "Thần Luân Hải! Năm vị Chí Tôn"
+    },
+    {
+      "num": 704,
+      "title": "Tu Nghiêu Chuẩn Thánh? Giết!"
+    },
+    {
+      "num": 705,
+      "title": "Thể hiện sức mạnh áp đảo! Bí bảo thời không"
+    },
+    {
+      "num": 706,
+      "title": "Lan truyền"
+    },
+    {
+      "num": 707,
+      "title": "Ngàn Năm Tháng"
+    },
+    {
+      "num": 708,
+      "title": "Cảnh giới Thần Vương! Đạo pháp tự thành"
+    },
+    {
+      "num": 709,
+      "title": "Mở ra con đường của riêng mình (6K)"
+    },
+    {
+      "num": 710,
+      "title": "Con mồi? Thợ săn! (6K)"
+    },
+    {
+      "num": 711,
+      "title": "Tàn sát! Mười tinh mạch hoàn mỹ? (6K)"
+    },
+    {
+      "num": 712,
+      "title": "Một đám Chuẩn Thánh cấp Sáu! Cảm ngộ về Hủy Diệt (6K)"
+    },
+    {
+      "num": 713,
+      "title": "Mở thêm một con đường! Chuẩn Thánh tầng bảy (6K)"
+    },
+    {
+      "num": 714,
+      "title": "Lý Nguyên vô địch! Không một kẻ nào sống sót (9K)"
+    },
+    {
+      "num": 715,
+      "title": "Hỗn Độn Thần Đế! Tiên Hoàng (6K)"
+    },
+    {
+      "num": 716,
+      "title": "Danh Tiếng Vang Khắp Vũ Trụ (6K)"
+    },
+    {
+      "num": 717,
+      "title": "Từ chối! Thời đại cực thịnh của Hỗn Độn Thần Đình (6K)"
+    },
+    {
+      "num": 718,
+      "title": "Bách Đạo Thánh ThểLuyện Thể Pháp"
+    },
+    {
+      "num": 719,
+      "title": "Con đường dẫn đến vĩnh hằng?"
+    },
+    {
+      "num": 720,
+      "title": "Giao dịch! Khởi nguồn của biển tế lễ (6K)"
+    },
+    {
+      "num": 721,
+      "title": "Bí mật của Cổ Vũ Giới! Tài nguyên khổng lồ (6K)"
+    },
+    {
+      "num": 722,
+      "title": "Tháp Tuyết Tâm! Năm tháng (6K)"
+    },
+    {
+      "num": 723,
+      "title": "Tư Ngũ và Lý Nguyên"
+    },
+    {
+      "num": 724,
+      "title": "Tòa Thành Tối Cao"
+    },
+    {
+      "num": 725,
+      "title": "Lời mời của Chí Tôn? Thu nhận đệ tử? (6K)"
+    },
+    {
+      "num": 726,
+      "title": "Trở mặt! Cơn giận của Hỗn Độn (6K)"
+    },
+    {
+      "num": 727,
+      "title": "Một nhánh của Hỗn Độn Phủ"
+    },
+    {
+      "num": 728,
+      "title": "Treo thưởng kinh thiên (9K)"
+    },
+    {
+      "num": 729,
+      "title": "Kẻ Thù Chung Của Vũ Trụ (Hai Chương Gộp Một)"
+    },
+    {
+      "num": 730,
+      "title": "Nhân quả của Xích Quân Chí Tôn"
+    },
+    {
+      "num": 731,
+      "title": "Người thân yêu nhất cũng đến ngày tận số"
+    },
+    {
+      "num": 732,
+      "title": "Thần uy như đế"
+    },
+    {
+      "num": 733,
+      "title": "Chuẩn Thánh Tâm Nguyên xuất hiện"
+    },
+    {
+      "num": 734,
+      "title": "Săn giết? Phản săn giết!"
+    },
+    {
+      "num": 735,
+      "title": "Giết chóc! Thánh binh và Vĩnh Hằng Đạo Binh"
+    },
+    {
+      "num": 736,
+      "title": "Mệnh lệnh của hai vị Chí Tôn"
+    },
+    {
+      "num": 737,
+      "title": "Cổ Vũ Giới? Đế Binh Hợp Đạo?"
+    },
+    {
+      "num": 738,
+      "title": "Đại Lục Tinh Không"
+    },
+    {
+      "num": 739,
+      "title": "Đại chiến với Đế Cảnh Thâm Uyên"
+    },
+    {
+      "num": 740,
+      "title": "Lý Nguyên đáng sợ đến mức nào"
+    },
+    {
+      "num": 741,
+      "title": "Chém Đế! Thần Chủ của Thần Điện Bất Hủ"
+    },
+    {
+      "num": 742,
+      "title": "Dã tâm của Thần Chủ"
+    },
+    {
+      "num": 743,
+      "title": "Biển Mộ Tinh Thành"
+    },
+    {
+      "num": 744,
+      "title": "Chín Đại Đế Vệ"
+    },
+    {
+      "num": 745,
+      "title": "Dấu Ấn Biển Nguồn Sinh Mệnh"
+    },
+    {
+      "num": 746,
+      "title": "Phó minh chủ, đã lâu không gặp"
+    },
+    {
+      "num": 747,
+      "title": "Bách Đế Hồn! Thứ mạnh mẽ chính là ý chí"
+    },
+    {
+      "num": 748,
+      "title": "Con Đường Vĩnh Hằng Thứ Tư"
+    },
+    {
+      "num": 749,
+      "title": "Tâm Hóa Vạn Vũ"
+    },
+    {
+      "num": 750,
+      "title": "Lý Nguyên và Thâm Uyên Thần Đế"
+    },
+    {
+      "num": 751,
+      "title": "Thực lực mạnh mẽ"
+    },
+    {
+      "num": 752,
+      "title": "Vân Cảnh, còn không mau cút đi?!"
+    },
+    {
+      "num": 753,
+      "title": "Thống lĩnh Thương Nhĩ (5K)"
+    },
+    {
+      "num": 754,
+      "title": "Trò giỏi hơn thầy, lớp sau vượt lớp trước"
+    },
+    {
+      "num": 755,
+      "title": "Tầm mắt của Tâm Mộng Thần Đế (6K)"
+    },
+    {
+      "num": 756,
+      "title": "Nơi khởi nguồn của vũ trụ"
+    },
+    {
+      "num": 757,
+      "title": "Quyết Định Của Thần Chủ"
+    },
+    {
+      "num": 758,
+      "title": "Bàn Xích Tâm"
+    },
+    {
+      "num": 759,
+      "title": "Chuẩn Thánh Thập Giai! Tuyệt Học Nhiên Tâm"
+    },
+    {
+      "num": 760,
+      "title": "Đế binh trong tay! Được coi trọng！"
+    },
+    {
+      "num": 761,
+      "title": "Khát vọng! Lan truyền"
+    },
+    {
+      "num": 762,
+      "title": "Cảnh Chí Tôn"
+    },
+    {
+      "num": 763,
+      "title": "Ngàn năm? Lập trường của Tinh Không Thần Đế (5K)"
+    },
+    {
+      "num": 764,
+      "title": "Muôn đế cùng tôn! Cả vũ giới đồng thanh"
+    },
+    {
+      "num": 765,
+      "title": "Huyết linh vực sâu (5K)"
+    },
+    {
+      "num": 766,
+      "title": "Uy lực của tuyệt học (5K)"
+    },
+    {
+      "num": 767,
+      "title": "Trường Hà Cổ Khư"
+    },
+    {
+      "num": 768,
+      "title": "Đặc biệt? Hắc Cổ Linh"
+    },
+    {
+      "num": 769,
+      "title": "Sát cục! Thế giới tối tăm huyền ảo (6K)"
+    },
+    {
+      "num": 770,
+      "title": "Phô bày sức mạnh! Cúi đầu"
+    },
+    {
+      "num": 771,
+      "title": "Hỏa Côn Chí Tôn? Cổ Khư (6K)"
+    },
+    {
+      "num": 772,
+      "title": "Cổ Khư Mới"
+    },
+    {
+      "num": 773,
+      "title": "Chia đường! Đánh giá tiềm năng ‘Hạng Nhất’"
+    },
+    {
+      "num": 774,
+      "title": "Đạo đồ vượt qua bước thứ tư"
+    },
+    {
+      "num": 775,
+      "title": "Hỗn Thiên Cửu Khu! Dựa vào đâu?"
+    },
+    {
+      "num": 776,
+      "title": "Khởi đầu tìm hiểu! Nỗi băn khoăn của Kim Cửu"
+    },
+    {
+      "num": 777,
+      "title": "Phá vỡ quy luật vận hành của vũ trụ! Vùng đất Thánh vẫn lạc"
+    },
+    {
+      "num": 778,
+      "title": "Lệnh Thánh Hỗn Thiên! Chạm Trán"
+    },
+    {
+      "num": 779,
+      "title": "Mạnh mẽ áp đảo! Chúa Tể xuất hiện (5K)"
+    },
+    {
+      "num": 780,
+      "title": "Khánh Ỷ Chúa Tể! Cảm Ứng Của Chí Tôn"
+    },
+    {
+      "num": 781,
+      "title": "Bước thứ hai của Vạn Linh Đạo! Chặn giết"
+    },
+    {
+      "num": 782,
+      "title": "Tam Viêm Sơn! Bí mật của đạo văn"
+    },
+    {
+      "num": 783,
+      "title": "Chúa tể chặn đường"
+    },
+    {
+      "num": 784,
+      "title": "Để Ngươi Liều Mạng"
+    },
+    {
+      "num": 785,
+      "title": "Tung hết át chủ bài! Không giữ lại chút sức nào (6K)"
+    },
+    {
+      "num": 786,
+      "title": "Đòn đánh đổi bằng cả sinh mạng"
+    },
+    {
+      "num": 787,
+      "title": "Chúa Tể ngã xuống! Chấn động bốn phương (5K)"
+    },
+    {
+      "num": 788,
+      "title": "Tuyệt học Cực Diệt! Thần Vương mạnh nhất (6K)"
+    },
+    {
+      "num": 789,
+      "title": "Bất Hủ Thần Điện Hòa Thâm Uyên Ý Chí (6K)"
+    },
+    {
+      "num": 790,
+      "title": "Ma Tâm Hồ! Hàng tỷ cường giả (5K)"
+    },
+    {
+      "num": 791,
+      "title": "Vô tận ánh sáng bao phủ! Cuối dòng Thiên Hà"
+    },
+    {
+      "num": 792,
+      "title": "Tiến vào Vĩnh Hằng Thần Cung! Tâm Mộng và Lý Nguyên (5K)"
+    },
+    {
+      "num": 793,
+      "title": "Giấc Mộng Trong Tim Chân Chính! Quyền Hạn (6K)"
+    },
+    {
+      "num": 794,
+      "title": "Sức mạnh của Thánh Tâm (5K)"
+    },
+    {
+      "num": 795,
+      "title": "Giới Yểm! Bản đồ Hư Hóa Giới"
+    },
+    {
+      "num": 796,
+      "title": "Lý Nguyên và Hàn Hành (5K)"
+    },
+    {
+      "num": 797,
+      "title": "Đạo do mình định! Tu hành (6K)"
+    },
+    {
+      "num": 798,
+      "title": "Gặp lại Thần Chủ! Bảo Vật Có Số Hiệu"
+    },
+    {
+      "num": 799,
+      "title": "Giao dịch"
+    },
+    {
+      "num": 800,
+      "title": "Kẻ đến liên tiếp! Tám trăm năm sau (6K)"
+    },
+    {
+      "num": 801,
+      "title": "Biến loạn Tế Giới (5K)"
+    },
+    {
+      "num": 802,
+      "title": "Đại Hủy Diệt"
+    },
+    {
+      "num": 803,
+      "title": "Trận Khóa Giới Nguyên Thủy"
+    },
+    {
+      "num": 804,
+      "title": "Chuẩn Bị"
+    },
+    {
+      "num": 805,
+      "title": "Kêu gọi viện trợ"
+    },
+    {
+      "num": 806,
+      "title": "Nhưng hắn là Chuẩn Thánh Tâm Nguyên"
+    },
+    {
+      "num": 807,
+      "title": "Quyết tâm! Biến cố lớn!"
+    },
+    {
+      "num": 808,
+      "title": "Nghênh Chiến"
+    },
+    {
+      "num": 809,
+      "title": "Lý Nguyên giao chiến với Vân Cảnh Thần Đế"
+    },
+    {
+      "num": 810,
+      "title": "Vũ Trụ Liên Hoa! Vũ Diễm Hà! Giết (8K)"
+    },
+    {
+      "num": 811,
+      "title": "Truyền bá! Tiếp sức! Vì Vũ Giới (Vạn chữ)"
+    },
+    {
+      "num": 812,
+      "title": "Cảnh Chí Tôn đến! Tủy nguồn Kiếp Giới (Vạn chữ)"
+    },
+    {
+      "num": 813,
+      "title": "Lột Xác! Trận Quyết Chiến Bắt Đầu"
+    },
+    {
+      "num": 814,
+      "title": "Người quý trọng mạng sống, liệu có thể thành đạo?"
+    },
+    {
+      "num": 815,
+      "title": "Sức mạnh của Lý Nguyên! Trận chiến đẫm máu"
+    },
+    {
+      "num": 816,
+      "title": "Đường cùng của Vân Cảnh! Ý chí vực sâu"
+    },
+    {
+      "num": 817,
+      "title": "Nỗi đau của Hỗn Độn! Một đời không còn gì nuối tiếc"
+    },
+    {
+      "num": 818,
+      "title": "Ta Không Muốn Lui! Thâm Uyên Ma Quân"
+    },
+    {
+      "num": 819,
+      "title": "Lên đường chịu chết! Vận mệnh của Vũ Giới (9K)"
+    },
+    {
+      "num": 820,
+      "title": "Sinh Mệnh Cõi Hư! Hồi Kết"
+    },
+    {
+      "num": 821,
+      "title": "Vũ giới mới"
+    },
+    {
+      "num": 822,
+      "title": "Danh hiệu Tâm Nguyên Chúa Tể! Thánh Điện Thâm Uyên"
+    },
+    {
+      "num": 823,
+      "title": "Quyết định của Ma Quân! 660 năm!"
+    },
+    {
+      "num": 824,
+      "title": "Lệnh Bất Hủ Bảy Sao! Tinh Thành của ta?"
+    },
+    {
+      "num": 825,
+      "title": "Thu hoạch! Thánh Giáp Mô Phỏng Thiên Tôn"
+    },
+    {
+      "num": 826,
+      "title": "Binh khí của Á Thánh"
+    },
+    {
+      "num": 827,
+      "title": "Thành Bất Hủ Tinh"
+    },
+    {
+      "num": 828,
+      "title": "Quà tặng! Yến tiệc khai thành"
+    },
+    {
+      "num": 829,
+      "title": "Cuộc quyết đấu trên Tinh Thành"
+    },
+    {
+      "num": 830,
+      "title": "Gây dựng uy danh! Mông An Á Thánh"
+    },
+    {
+      "num": 831,
+      "title": "Hai phe lớn"
+    },
+    {
+      "num": 832,
+      "title": "Tranh nhau lôi kéo"
+    },
+    {
+      "num": 833,
+      "title": "Con Đường Vĩnh Hằng Thứ Năm!"
+    },
+    {
+      "num": 834,
+      "title": "Hình Thức Ban Đầu! Bí Mật Của Thánh Hải"
+    },
+    {
+      "num": 835,
+      "title": "Kẻ chưa thành Thánh lại là Thánh Nhân mạnh nhất! 《Nguyên Thủy Bản Nguyên Thuật》"
+    },
+    {
+      "num": 836,
+      "title": "Tế Hải Hành"
+    },
+    {
+      "num": 837,
+      "title": "Giết! Sức chiến đấu cấp Chí Tôn"
+    },
+    {
+      "num": 838,
+      "title": "Thần Thể Vũ Trụ! Cửu Đạo Sinh"
+    },
+    {
+      "num": 839,
+      "title": "Tâm Nguyên Á Thánh! Vô Địch Một Thời Đại"
+    },
+    {
+      "num": 840,
+      "title": "Khởi đầu hợp đạo! Quét sạch mọi kẻ địch"
+    },
+    {
+      "num": 841,
+      "title": "Bí mật quan tài đồng xanh! Tuế nguyệt ngàn vạn năm"
+    },
+    {
+      "num": 842,
+      "title": "(Đại kết cục)"
+    }
+  ],
+  "slug": "cao_vo_ky_nguyen",
+  "title": "Cao Võ Kỷ Nguyên",
+  "author": "Phong Tiên (烽仙)",
+  "synopsis": "Truyện huyền huyễn tương lai, võ đạo của Phong Tiên (烽仙), đã hoàn thành. Khoa học kỹ thuật phát triển cao nhưng thế giới vẫn đầy biến động: rồng biển, ma linh lửa, các vị thần ngoại vực tranh bá giữa tinh không. Lý Nguyên là một học sinh võ đạo sắp bước vào kỳ thi đại học, trong người mang một tòa thần cung kỳ lạ. Từ một thiếu niên bình thường, cậu từng bước trưởng thành, rời Trái Đất tiến vào tinh không rộng lớn, đối mặt với các thần đế, chủ tể và những bí mật của cả một kỷ nguyên. Nhịp truyện nhanh, nhiều chương luyện võ và cảnh giới, hơn tám trăm chương.",
+  "coverColor": "#1f3a5f"
+}
