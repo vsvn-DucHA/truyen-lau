@@ -1,0 +1,6722 @@
+{
+  "totalChapters": 1678,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Chấn động! Công việc lương năm 100 nghìn tệ vậy mà lại……"
+    },
+    {
+      "num": 2,
+      "title": "Cuộc đời của học bá không cần giải thích"
+    },
+    {
+      "num": 3,
+      "title": "Học bá thực thụ chẳng bao giờ ngồi không"
+    },
+    {
+      "num": 4,
+      "title": "Người ta luyện đề, còn ta đọc sách"
+    },
+    {
+      "num": 5,
+      "title": "Bàn về tầm quan trọng của việc rửa mặt trước khi quay thưởng"
+    },
+    {
+      "num": 6,
+      "title": "Đáp án của một bài toán chứng minh"
+    },
+    {
+      "num": 7,
+      "title": "Trước mặt học bá thực thụ, phàm nhân đều chỉ là cặn bã"
+    },
+    {
+      "num": 8,
+      "title": "Lý thuyết tìm nghiệm ngược tối ưu cho toán tử tuyến tính và phiếm hàm tuyến tính"
+    },
+    {
+      "num": 9,
+      "title": "Hình như mình học nhầm trường đại học rồi"
+    },
+    {
+      "num": 10,
+      "title": "Tôi có hai cô bạn gái"
+    },
+    {
+      "num": 11,
+      "title": "Ngay cả học bá cũng có thứ không giỏi"
+    },
+    {
+      "num": 12,
+      "title": "Ghen tị đến mức tôi muốn phân rã tế bào"
+    },
+    {
+      "num": 13,
+      "title": "Các cậu không thấy mất mặt, tôi còn thấy mất mặt thay đấy!"
+    },
+    {
+      "num": 14,
+      "title": "Đi làm thêm đi, học bá！"
+    },
+    {
+      "num": 15,
+      "title": "Cách biến điểm tích lũy thành tiền?"
+    },
+    {
+      "num": 16,
+      "title": "Cả khóa 13, không một ai sánh bằng!"
+    },
+    {
+      "num": 17,
+      "title": "Đăng bài báo khoa học!"
+    },
+    {
+      "num": 18,
+      "title": "Một trăm điểm kinh nghiệm khiến người mắc chứng ám ảnh cưỡng chế phát điên"
+    },
+    {
+      "num": 19,
+      "title": "Và ba nhiệm vụ có thể khiến ký chủ tức chết"
+    },
+    {
+      "num": 20,
+      "title": "Hai thần một hố?"
+    },
+    {
+      "num": 21,
+      "title": "Hóa ra lại là một người thật thà"
+    },
+    {
+      "num": 22,
+      "title": "Tư thế viết luận văn đúng cách"
+    },
+    {
+      "num": 23,
+      "title": "Bài toán kinh điển về người lái buôn và tùy tùng"
+    },
+    {
+      "num": 24,
+      "title": "Luyện tập phối hợp"
+    },
+    {
+      "num": 25,
+      "title": "Tức chết đi được"
+    },
+    {
+      "num": 26,
+      "title": "Tôi là ai? Tôi đang ở đâu? Tôi đang viết cái quái gì thế này?"
+    },
+    {
+      "num": 27,
+      "title": "Đầu óc trống rỗng quá, đọc thêm sách đi!"
+    },
+    {
+      "num": 28,
+      "title": "Buổi họp lớp cuối cùng của năm nhất đại học"
+    },
+    {
+      "num": 29,
+      "title": "Có lẽ, đây chính là thiên phú?"
+    },
+    {
+      "num": 30,
+      "title": "Chúng ta chơi cờ nhảy nhé, tôi nhường cậu đi trước"
+    },
+    {
+      "num": 31,
+      "title": "Tôi ăn kiểu gì cũng chẳng béo lên"
+    },
+    {
+      "num": 32,
+      "title": "Cách sử dụng công nghệ đen đúng đắn thực ra là thức trắng cày cuốc?"
+    },
+    {
+      "num": 33,
+      "title": "Tiểu Cường phát điên"
+    },
+    {
+      "num": 34,
+      "title": "Không coi tiền ra gì"
+    },
+    {
+      "num": 35,
+      "title": "Tôi, hỗ trợ, đỉnh của chóp!"
+    },
+    {
+      "num": 36,
+      "title": "Anh Lục, xảy ra chuyện lớn rồi!"
+    },
+    {
+      "num": 37,
+      "title": "Tôi đồng ý"
+    },
+    {
+      "num": 38,
+      "title": "Đưa than trong ngày tuyết rơi"
+    },
+    {
+      "num": 39,
+      "title": "Thư luật sư, biết chưa?"
+    },
+    {
+      "num": 40,
+      "title": "Đúng là trò lố bịch"
+    },
+    {
+      "num": 41,
+      "title": "Xuống nhận bưu kiện"
+    },
+    {
+      "num": 42,
+      "title": "Tôi muốn làm nhà khoa học"
+    },
+    {
+      "num": 43,
+      "title": "Đã tha cho người ta thì phải tha đến cùng ư? Không đời nào!"
+    },
+    {
+      "num": 44,
+      "title": "Nỗi oán hận của hội độc thân"
+    },
+    {
+      "num": 45,
+      "title": "Nghĩ kỹ mà thấy lạnh sống lưng"
+    },
+    {
+      "num": 46,
+      "title": "Thức đêm cày Python"
+    },
+    {
+      "num": 47,
+      "title": "Làm thử một ứng dụng để luyện tay nghề"
+    },
+    {
+      "num": 48,
+      "title": "Hóa ra viết luận văn cũng có thể làm giàu"
+    },
+    {
+      "num": 49,
+      "title": "Lỗ to rồi!"
+    },
+    {
+      "num": 50,
+      "title": "Học bá không biết vận dụng kiến thức vào thực tế thì chẳng phải học bá thật sự"
+    },
+    {
+      "num": 51,
+      "title": "Cảm hứng bất chợt"
+    },
+    {
+      "num": 52,
+      "title": "Lại lên hot search rồi"
+    },
+    {
+      "num": 53,
+      "title": "Khoản vay tự tìm đến cửa"
+    },
+    {
+      "num": 54,
+      "title": "Ha, học kém!"
+    },
+    {
+      "num": 55,
+      "title": "Đừng lãng phí tài nguyên của hệ thống vào những câu hỏi ngớ ngẩn"
+    },
+    {
+      "num": 56,
+      "title": "Dù nghèo đến đâu cũng không thể để con cái thua ngay từ vạch xuất phát"
+    },
+    {
+      "num": 57,
+      "title": "Trí tuệ nhân tạo eye"
+    },
+    {
+      "num": 58,
+      "title": "Đội trưởng đội mô hình hóa"
+    },
+    {
+      "num": 59,
+      "title": "Muốn xin nghỉ à? Vậy tôi ra hai câu hỏi nhé"
+    },
+    {
+      "num": 60,
+      "title": "Khai mạc vòng thi toàn quốc!"
+    },
+    {
+      "num": 61,
+      "title": "Cày xuyên 72 tiếng"
+    },
+    {
+      "num": 62,
+      "title": "Không treo máy thì tôi khinh cậu"
+    },
+    {
+      "num": 63,
+      "title": "Ít nhất cũng phải là giải thưởng cấp quốc gia chứ!"
+    },
+    {
+      "num": 64,
+      "title": "Phần bảo vệ trước hội đồng khu vực"
+    },
+    {
+      "num": 65,
+      "title": "Phỏng vấn chuyên gia"
+    },
+    {
+      "num": 66,
+      "title": "Quán quân toàn quốc!"
+    },
+    {
+      "num": 67,
+      "title": "Vận may không đổi, số phận chẳng xoay chuyển"
+    },
+    {
+      "num": 68,
+      "title": "Tôi có thể sờ thử chiếc cúp của cậu không?"
+    },
+    {
+      "num": 69,
+      "title": "Số học kỳ diệu"
+    },
+    {
+      "num": 70,
+      "title": "Chứng minh giả thuyết Chu!"
+    },
+    {
+      "num": 71,
+      "title": "Niềm vui của học bá, ngươi không thể tưởng tượng nổi"
+    },
+    {
+      "num": 72,
+      "title": "Sự kinh ngạc của Giáo sư Deligne"
+    },
+    {
+      "num": 73,
+      "title": "Tôi vẫn chưa muốn lên trời"
+    },
+    {
+      "num": 74,
+      "title": "Bí mật về hệ thống"
+    },
+    {
+      "num": 75,
+      "title": "Tư thế đúng để huấn luyện trí tuệ nhân tạo là gì?"
+    },
+    {
+      "num": 76,
+      "title": "Có chút thực dụng cũng tốt"
+    },
+    {
+      "num": 77,
+      "title": "Ba nhiệm vụ muốn lấy mạng người ta"
+    },
+    {
+      "num": 78,
+      "title": "Trả lời câu hỏi của Tiền Học Sâm!"
+    },
+    {
+      "num": 79,
+      "title": "Phóng viên đến tận dưới lầu rồi!"
+    },
+    {
+      "num": 80,
+      "title": "Lục Chu, cậu nổi tiếng rồi!"
+    },
+    {
+      "num": 81,
+      "title": "Lục Chu âm thầm quan sát"
+    },
+    {
+      "num": 82,
+      "title": "Đến lớp cũng không yên"
+    },
+    {
+      "num": 83,
+      "title": "Ta Cứ Không Tin Đấy!"
+    },
+    {
+      "num": 84,
+      "title": "Chưa đủ tư cách nhận vinh dự này"
+    },
+    {
+      "num": 85,
+      "title": "Hóa ra có cao nhân chỉ điểm"
+    },
+    {
+      "num": 86,
+      "title": "Học hỏi kinh nghiệm từ người thành đạt"
+    },
+    {
+      "num": 87,
+      "title": "Rủ người cùng hợp tác"
+    },
+    {
+      "num": 88,
+      "title": "Tiêu rồi, hình tượng sụp đổ hoàn toàn"
+    },
+    {
+      "num": 89,
+      "title": "Cuộc họp đầu tiên của đám người nghiệp dư"
+    },
+    {
+      "num": 90,
+      "title": "Tự mình đa tình cũng là một căn bệnh"
+    },
+    {
+      "num": 91,
+      "title": "Nhiệm vụ nghiên cứu của Viện Vật lý?"
+    },
+    {
+      "num": 92,
+      "title": "Tầm quan trọng của huyền học trong nghiên cứu khoa học"
+    },
+    {
+      "num": 93,
+      "title": "Có bản lĩnh thì cứ việc đùn việc cho người khác"
+    },
+    {
+      "num": 94,
+      "title": "Rốt cuộc cậu có làm nổi không?"
+    },
+    {
+      "num": 95,
+      "title": "Chuyện này không hợp lý về mặt vật lý"
+    },
+    {
+      "num": 96,
+      "title": "Chuyện này rất toán học!"
+    },
+    {
+      "num": 97,
+      "title": "Không được cho tôi leo cây!"
+    },
+    {
+      "num": 98,
+      "title": "Chuyện này không khoa học chút nào"
+    },
+    {
+      "num": 99,
+      "title": "Học bá đều có phong cách thế này sao?"
+    },
+    {
+      "num": 100,
+      "title": "Hoàn thành đề tài!"
+    },
+    {
+      "num": 101,
+      "title": "Đóng góp nhỏ bé 1 điểm"
+    },
+    {
+      "num": 102,
+      "title": "Thử rót 5 triệu xem sao"
+    },
+    {
+      "num": 103,
+      "title": "Rửa mặt cũng chẳng cứu nổi người châu Phi"
+    },
+    {
+      "num": 104,
+      "title": "Kết cục đã nằm trong dự liệu"
+    },
+    {
+      "num": 105,
+      "title": "Điều đau lòng nhất trong cuộc đời, chẳng gì hơn là……"
+    },
+    {
+      "num": 106,
+      "title": "Interesting"
+    },
+    {
+      "num": 107,
+      "title": "Kẻ thắng ăn tất cả"
+    },
+    {
+      "num": 108,
+      "title": "Chủ nghĩa tư bản chết tiệt này"
+    },
+    {
+      "num": 109,
+      "title": "Đối với học bá, chứng chỉ có bao nhiêu cũng không thừa"
+    },
+    {
+      "num": 110,
+      "title": "Chúc cậu tương lai rộng mở!"
+    },
+    {
+      "num": 111,
+      "title": "Nụ cười phảng phất vẻ nghèo khó"
+    },
+    {
+      "num": 112,
+      "title": "Lễ trao giải Nhân vật tiêu biểu của năm！"
+    },
+    {
+      "num": 113,
+      "title": "Nhân tài xuất hiện lớp lớp"
+    },
+    {
+      "num": 114,
+      "title": "Kỳ thi TOEFL"
+    },
+    {
+      "num": 115,
+      "title": "Muốn ra vẻ ta đây cũng phải chọn đúng đối tượng"
+    },
+    {
+      "num": 116,
+      "title": "Tôi không hiểu mấy người thuộc thế giới 2D lắm"
+    },
+    {
+      "num": 117,
+      "title": "Đặt chân đến Princeton!"
+    },
+    {
+      "num": 118,
+      "title": "Khoảnh khắc chứng kiến lịch sử?"
+    },
+    {
+      "num": 119,
+      "title": "Phong độ quý ông"
+    },
+    {
+      "num": 120,
+      "title": "Chú chim bồ câu trắng thoáng vụt qua"
+    },
+    {
+      "num": 121,
+      "title": "Buổi dạ tiệc của các nhà toán học"
+    },
+    {
+      "num": 122,
+      "title": "Thế giới bừng lên những ý tưởng"
+    },
+    {
+      "num": 123,
+      "title": "Thiên tài? Kẻ điên?"
+    },
+    {
+      "num": 124,
+      "title": "Chứng kiến khoảnh khắc vĩ đại"
+    },
+    {
+      "num": 125,
+      "title": "Tôi chỉ muốn về ngủ một giấc"
+    },
+    {
+      "num": 126,
+      "title": "Lễ bế mạc"
+    },
+    {
+      "num": 127,
+      "title": "Đột phá cấp độ！"
+    },
+    {
+      "num": 128,
+      "title": "Hệ thống, cho ta một chai Fanta"
+    },
+    {
+      "num": 129,
+      "title": "Cảm ơn vì đã tiếp thêm dũng khí cho tôi"
+    },
+    {
+      "num": 130,
+      "title": "Bức thư của cựu hoàng"
+    },
+    {
+      "num": 131,
+      "title": "Đừng hỏi nữa"
+    },
+    {
+      "num": 132,
+      "title": "Về nhà ăn Tết"
+    },
+    {
+      "num": 133,
+      "title": "Chuyện của người lớn, trẻ con đừng xen vào"
+    },
+    {
+      "num": 134,
+      "title": "Xét thấy ký chủ chăm chỉ đến vậy"
+    },
+    {
+      "num": 135,
+      "title": "Mùi vị cuộc sống viên mãn ập thẳng vào mặt (8/8)"
+    },
+    {
+      "num": 136,
+      "title": "Đẹp trai chưa được ba giây"
+    },
+    {
+      "num": 137,
+      "title": "Bài toán cân bằng trong không gian Hilbert"
+    },
+    {
+      "num": 138,
+      "title": "Bị bắt chước rồi?"
+    },
+    {
+      "num": 139,
+      "title": "Gian lận học thuật trắng trợn"
+    },
+    {
+      "num": 140,
+      "title": "Chứng cứ xác thực rồi"
+    },
+    {
+      "num": 141,
+      "title": "Xem tin tức đi (1/4)"
+    },
+    {
+      "num": 142,
+      "title": "Hát một khúc Lương Lương"
+    },
+    {
+      "num": 143,
+      "title": "Quốc Chi Vạn Nhân"
+    },
+    {
+      "num": 144,
+      "title": "Đăng báo (4/4)"
+    },
+    {
+      "num": 145,
+      "title": "Không thể học tiếp tiết này nữa (1/4)"
+    },
+    {
+      "num": 146,
+      "title": "Vậy thì lên bục giảng thử xem"
+    },
+    {
+      "num": 147,
+      "title": "Đời người khó tránh khỏi những lúc buồn vui man mác"
+    },
+    {
+      "num": 148,
+      "title": "Buổi bảo vệ tốt nghiệp (4/4)"
+    },
+    {
+      "num": 149,
+      "title": "Lễ tốt nghiệp của một người"
+    },
+    {
+      "num": 150,
+      "title": "Đại hội chia chiến lợi phẩm"
+    },
+    {
+      "num": 151,
+      "title": "Gặp nhau để chứng kiến lịch sử sao?"
+    },
+    {
+      "num": 152,
+      "title": "Là ngươi ra tay, hay để ta ra tay?"
+    },
+    {
+      "num": 153,
+      "title": "Cành cây đẹp đẽ nhưng chết người"
+    },
+    {
+      "num": 154,
+      "title": "Mảnh vỡ đầu tiên"
+    },
+    {
+      "num": 155,
+      "title": "Thử thách của viện sĩ"
+    },
+    {
+      "num": 156,
+      "title": "Thực tập sinh LHCb"
+    },
+    {
+      "num": 157,
+      "title": "Đến Thụy Sĩ!"
+    },
+    {
+      "num": 158,
+      "title": "Phân công nhiệm vụ"
+    },
+    {
+      "num": 159,
+      "title": "Một tin tốt và một tin xấu (3/3)"
+    },
+    {
+      "num": 160,
+      "title": "Tôi có ý kiến phản đối"
+    },
+    {
+      "num": 161,
+      "title": "Vật lý là một ngành khoa học nghiêm ngặt"
+    },
+    {
+      "num": 162,
+      "title": "Edward ・ Witten"
+    },
+    {
+      "num": 163,
+      "title": "Nghiêm ngặt đến mức khiến người ta tuyệt vọng"
+    },
+    {
+      "num": 164,
+      "title": "Cạn ly?"
+    },
+    {
+      "num": 165,
+      "title": "Bài giảng của giáo sư Witten"
+    },
+    {
+      "num": 166,
+      "title": "Giới nghiêm"
+    },
+    {
+      "num": 167,
+      "title": "Phát hiện ngoài dự liệu"
+    },
+    {
+      "num": 168,
+      "title": "Một hạt có khối lượng siêu nặng?"
+    },
+    {
+      "num": 169,
+      "title": "Chúc anh may mắn!"
+    },
+    {
+      "num": 170,
+      "title": "Hoàn thiện lý thuyết"
+    },
+    {
+      "num": 171,
+      "title": "Phất Lan Khắc ・ Duy Nhĩ Trạch Khắc"
+    },
+    {
+      "num": 172,
+      "title": "Hội nghị Hạt nhân châu Âu"
+    },
+    {
+      "num": 173,
+      "title": "Một tấm bản đồ kho báu"
+    },
+    {
+      "num": 174,
+      "title": "Chính thức được nhận"
+    },
+    {
+      "num": 175,
+      "title": "Phỏng vấn của tạp chí Nature"
+    },
+    {
+      "num": 176,
+      "title": "Thực tập sinh mạnh nhất lịch sử!"
+    },
+    {
+      "num": 177,
+      "title": "Lượng thông tin hơi lớn"
+    },
+    {
+      "num": 178,
+      "title": "Trở về Kim Lăng"
+    },
+    {
+      "num": 179,
+      "title": "Vật lý, LV3!"
+    },
+    {
+      "num": 180,
+      "title": "Tia sáng vượt ra ngoài Mô hình Chuẩn"
+    },
+    {
+      "num": 181,
+      "title": "Dẫn cậu đi gặp một người"
+    },
+    {
+      "num": 182,
+      "title": "Chuyện của nhà khoa học sao có thể gọi là làm màu được?"
+    },
+    {
+      "num": 183,
+      "title": "Một mỏ vàng"
+    },
+    {
+      "num": 184,
+      "title": "Bắt đầu thí nghiệm!"
+    },
+    {
+      "num": 185,
+      "title": "Hiệu quả ngoài sức tưởng tượng"
+    },
+    {
+      "num": 186,
+      "title": "Cuộc hội ngộ ngoài dự liệu"
+    },
+    {
+      "num": 187,
+      "title": "Gọi thêm hai tiếng lúc này đi, không thì sau này chẳng còn cơ hội nữa"
+    },
+    {
+      "num": 188,
+      "title": "Hai trăm lẻ một chưa bao giờ ra bài theo lẽ thường"
+    },
+    {
+      "num": 189,
+      "title": "Hình như có chút không giống tưởng tượng?"
+    },
+    {
+      "num": 190,
+      "title": "Cạn lời"
+    },
+    {
+      "num": 191,
+      "title": "Cảm hứng thường đến vào lúc chẳng ngờ tới"
+    },
+    {
+      "num": 192,
+      "title": "Mục tiêu, Biên niên toán học!"
+    },
+    {
+      "num": 193,
+      "title": "Tư thế đúng đắn khi ông chủ đào hố cho học trò"
+    },
+    {
+      "num": 194,
+      "title": "Vào kinh dự hội nghị"
+    },
+    {
+      "num": 195,
+      "title": "Công bố giải thưởng lớn!"
+    },
+    {
+      "num": 196,
+      "title": "Người đoạt giải gây nhiều tranh cãi"
+    },
+    {
+      "num": 197,
+      "title": "Không thể không đi"
+    },
+    {
+      "num": 198,
+      "title": "Trên bề mặt (1)"
+    },
+    {
+      "num": 199,
+      "title": "Báo cáo 30 phút"
+    },
+    {
+      "num": 200,
+      "title": "Đã được chứng minh rồi?!"
+    },
+    {
+      "num": 201,
+      "title": "Toán học, LV4!"
+    },
+    {
+      "num": 202,
+      "title": "Bốc thăm huyền học và phần thưởng huyền học (3/3)"
+    },
+    {
+      "num": 203,
+      "title": "Trạm tiếp theo, anh đoán xem?"
+    },
+    {
+      "num": 204,
+      "title": "Một nỗi phiền muộn khiến người ta phải ghen tị"
+    },
+    {
+      "num": 205,
+      "title": "Đột kích tiêu tiền"
+    },
+    {
+      "num": 206,
+      "title": "Máy tính giá 2,8 triệu tệ"
+    },
+    {
+      "num": 207,
+      "title": "Không có bữa tiệc nào không đến lúc tàn"
+    },
+    {
+      "num": 208,
+      "title": "Quốc tế hóa bằng sáng chế"
+    },
+    {
+      "num": 209,
+      "title": "Đến California"
+    },
+    {
+      "num": 210,
+      "title": "Cúp thưởng của tôi đâu rồi?"
+    },
+    {
+      "num": 211,
+      "title": "Người đoạt giải trẻ tuổi nhất!"
+    },
+    {
+      "num": 212,
+      "title": "Đúng là chuyên khơi chuyện người ta không muốn nghe"
+    },
+    {
+      "num": 213,
+      "title": "Một bước nhỏ trên con đường lên đỉnh núi"
+    },
+    {
+      "num": 214,
+      "title": "Rủ cậu ra ngoài chơi đúng là chẳng dễ dàng gì"
+    },
+    {
+      "num": 215,
+      "title": "Đối với thiên tài mà nói, cũng chẳng dễ dàng gì"
+    },
+    {
+      "num": 216,
+      "title": "Làm màu không phải thói quen tốt"
+    },
+    {
+      "num": 217,
+      "title": "Trở về nước, quay lại trường (1/3)"
+    },
+    {
+      "num": 218,
+      "title": "Đời người bốn năm, chuyến đi này không uổng phí (2/3)"
+    },
+    {
+      "num": 219,
+      "title": "Chuyện thường tình của con người (3/3)"
+    },
+    {
+      "num": 220,
+      "title": "Anh em, mua bảo hiểm không?"
+    },
+    {
+      "num": 221,
+      "title": "Bài phát biểu dưới lá cờ Tổ quốc"
+    },
+    {
+      "num": 222,
+      "title": "Lại đến mùa tốt nghiệp"
+    },
+    {
+      "num": 223,
+      "title": "Bước lên hành trình mới!"
+    },
+    {
+      "num": 224,
+      "title": "Gặp lại người quen nơi đất khách"
+    },
+    {
+      "num": 225,
+      "title": "Gặp ma rồi sao?"
+    },
+    {
+      "num": 226,
+      "title": "Hai lựa chọn"
+    },
+    {
+      "num": 227,
+      "title": "Rẽ sang một con đường khác"
+    },
+    {
+      "num": 228,
+      "title": "Công cụ, vẫn là đồ của mình dùng thuận tay hơn"
+    },
+    {
+      "num": 229,
+      "title": "Bế quan nghiên cứu"
+    },
+    {
+      "num": 230,
+      "title": "Đàn ông đương nhiên phải lái xe việt dã"
+    },
+    {
+      "num": 231,
+      "title": "Ý tưởng tuôn trào!"
+    },
+    {
+      "num": 232,
+      "title": "Tin xấu"
+    },
+    {
+      "num": 233,
+      "title": "Mảnh ghép cuối cùng"
+    },
+    {
+      "num": 234,
+      "title": "Lời đánh giá đáng kinh ngạc"
+    },
+    {
+      "num": 235,
+      "title": "Chứng minh giả thuyết Goldbach!"
+    },
+    {
+      "num": 236,
+      "title": "Thời gian uống một tách cà phê"
+    },
+    {
+      "num": 237,
+      "title": "Toán học, LV5!"
+    },
+    {
+      "num": 238,
+      "title": "Vì em mà đến"
+    },
+    {
+      "num": 239,
+      "title": "Thị trấn Princeton náo nhiệt chưa từng có"
+    },
+    {
+      "num": 240,
+      "title": "Tôi chưa từng lo lắng"
+    },
+    {
+      "num": 241,
+      "title": "Ly sâm panh mừng chiến thắng"
+    },
+    {
+      "num": 242,
+      "title": "Niềm vui bất ngờ ngoài dự liệu"
+    },
+    {
+      "num": 243,
+      "title": "Giáo sư trẻ tuổi nhất Princeton"
+    },
+    {
+      "num": 244,
+      "title": "Chỉ cần 3 tiếng là đủ (1/4)"
+    },
+    {
+      "num": 245,
+      "title": "Chiến thư?"
+    },
+    {
+      "num": 246,
+      "title": "Thế nào là số ảo"
+    },
+    {
+      "num": 247,
+      "title": "Buổi học đầu tiên ở Princeton (4/4)"
+    },
+    {
+      "num": 248,
+      "title": "Cuộc điện thoại từ Stockholm"
+    },
+    {
+      "num": 249,
+      "title": "Đi nhận giải"
+    },
+    {
+      "num": 250,
+      "title": "Lễ trao giải ở Stockholm"
+    },
+    {
+      "num": 251,
+      "title": "Đối thủ xứng tầm"
+    },
+    {
+      "num": 252,
+      "title": "Cảnh đêm khiến người ta lưu luyến không muốn rời"
+    },
+    {
+      "num": 253,
+      "title": "Logic nhất quán"
+    },
+    {
+      "num": 254,
+      "title": "Khải hoàn trở về"
+    },
+    {
+      "num": 255,
+      "title": "Con đường riêng của mỗi người"
+    },
+    {
+      "num": 256,
+      "title": "Cuối cùng cũng nhận được bằng sáng chế"
+    },
+    {
+      "num": 257,
+      "title": "Chuẩn bị phỏng vấn"
+    },
+    {
+      "num": 258,
+      "title": "Cần những sinh viên như thế nào"
+    },
+    {
+      "num": 259,
+      "title": "Sóng hấp dẫn"
+    },
+    {
+      "num": 260,
+      "title": "Đăng bài lên Tự Nhiên"
+    },
+    {
+      "num": 261,
+      "title": "Bắt đầu từ hôm nay, làm giáo sư"
+    },
+    {
+      "num": 262,
+      "title": "Đại thần cũng không quyết định nổi"
+    },
+    {
+      "num": 263,
+      "title": "Quả nhiên, toán học vẫn thú vị hơn cả"
+    },
+    {
+      "num": 264,
+      "title": "Bị chuyển sang ngành khác rồi?"
+    },
+    {
+      "num": 265,
+      "title": "Tin lớn!"
+    },
+    {
+      "num": 266,
+      "title": "Khoa học vật liệu, LV3!"
+    },
+    {
+      "num": 267,
+      "title": "Lời mời từ hội nghị hàng đầu"
+    },
+    {
+      "num": 268,
+      "title": "Phỏng đoán Collatz"
+    },
+    {
+      "num": 269,
+      "title": "Phân công hợp tác"
+    },
+    {
+      "num": 270,
+      "title": "Làm một ông chủ có nguyên tắc"
+    },
+    {
+      "num": 271,
+      "title": "Hội nghị MRS mùa thu!"
+    },
+    {
+      "num": 272,
+      "title": "Cột mốc chuẩn mực của ngành"
+    },
+    {
+      "num": 273,
+      "title": "Thật ra, đây chỉ là sở thích cá nhân"
+    },
+    {
+      "num": 274,
+      "title": "Cấp phép sử dụng bằng sáng chế ở nước ngoài"
+    },
+    {
+      "num": 275,
+      "title": "Chỉ sơ ý một chút đã tự do tài chính"
+    },
+    {
+      "num": 276,
+      "title": "Cuộc gặp gỡ với tư cách cá nhân"
+    },
+    {
+      "num": 277,
+      "title": "Ta, Lục Chu, không thích tiền"
+    },
+    {
+      "num": 278,
+      "title": "Công ty ở nước ngoài"
+    },
+    {
+      "num": 279,
+      "title": "4 tỷ đô la tới tay"
+    },
+    {
+      "num": 280,
+      "title": "Niềm vui chuyển nhà"
+    },
+    {
+      "num": 281,
+      "title": "Đêm Giáng Sinh"
+    },
+    {
+      "num": 282,
+      "title": "Tự khen mình là tiên phong"
+    },
+    {
+      "num": 283,
+      "title": "400.000 điểm kinh nghiệm!"
+    },
+    {
+      "num": 284,
+      "title": "Vấn đề hình cầu"
+    },
+    {
+      "num": 285,
+      "title": "Cảm giác có tiền quả thật khác hẳn"
+    },
+    {
+      "num": 286,
+      "title": "10 bước tiến khoa học công nghệ nổi bật nhất năm"
+    },
+    {
+      "num": 287,
+      "title": "Không phải học sinh nào cũng may mắn như vậy"
+    },
+    {
+      "num": 288,
+      "title": "Giúp tôi để mắt đến cô ấy một chút"
+    },
+    {
+      "num": 289,
+      "title": "Đây là vì công bằng!"
+    },
+    {
+      "num": 290,
+      "title": "Đại lão, đừng đi!"
+    },
+    {
+      "num": 291,
+      "title": "Niềm vui khi làm giáo sư"
+    },
+    {
+      "num": 292,
+      "title": "Tôi hứng thú với anh hơn"
+    },
+    {
+      "num": 293,
+      "title": "Không phải người cùng chí hướng"
+    },
+    {
+      "num": 294,
+      "title": "Người báo cáo trẻ xuất sắc nhất"
+    },
+    {
+      "num": 295,
+      "title": "Sự nghiệp vững bước tiến lên"
+    },
+    {
+      "num": 296,
+      "title": "Muốn khiêm tốn cũng khó"
+    },
+    {
+      "num": 297,
+      "title": "Chúng ta cần sự giúp đỡ của anh"
+    },
+    {
+      "num": 298,
+      "title": "Dự án lớn về pin lithium-lưu huỳnh"
+    },
+    {
+      "num": 299,
+      "title": "Phác thảo ban đầu của Viện Nghiên cứu Cao cấp Kim Lăng"
+    },
+    {
+      "num": 300,
+      "title": "Tin lớn ở Học viện Hóa học"
+    },
+    {
+      "num": 301,
+      "title": "Mua sắm thiết bị"
+    },
+    {
+      "num": 302,
+      "title": "Tôi muốn nghe ý kiến của cậu ấy"
+    },
+    {
+      "num": 303,
+      "title": "Quả cầu carbon rỗng ruột rất tốt"
+    },
+    {
+      "num": 304,
+      "title": "Vậy thì chứng minh cho các ông xem"
+    },
+    {
+      "num": 305,
+      "title": "Bắt đầu thí nghiệm"
+    },
+    {
+      "num": 306,
+      "title": "Thị trường nhanh chóng chuyển động theo tin tức"
+    },
+    {
+      "num": 307,
+      "title": "Giàu đến mức mất hết nhân tính"
+    },
+    {
+      "num": 308,
+      "title": "Cọ xát lẫn nhau"
+    },
+    {
+      "num": 309,
+      "title": "Chút bướng bỉnh trong lòng"
+    },
+    {
+      "num": 310,
+      "title": "Bắt chước xu hướng"
+    },
+    {
+      "num": 311,
+      "title": "Lại có thêm hai học trò"
+    },
+    {
+      "num": 312,
+      "title": "Đối thủ năm xưa"
+    },
+    {
+      "num": 313,
+      "title": "Vào khoảnh khắc trọng đại này, chúng ta cần một bữa tiệc"
+    },
+    {
+      "num": 314,
+      "title": "Ngộ nhận trong cách suy nghĩ"
+    },
+    {
+      "num": 315,
+      "title": "Buổi lên lớp đầu tiên sau khi trở thành giáo sư"
+    },
+    {
+      "num": 316,
+      "title": "Tôi muốn làm một chuyện lớn"
+    },
+    {
+      "num": 317,
+      "title": "Phải nhanh lên!"
+    },
+    {
+      "num": 318,
+      "title": "《Tự Nhiên》 hay 《Khoa Học》?"
+    },
+    {
+      "num": 319,
+      "title": "Lần này vẫn là 《Science》 thôi"
+    },
+    {
+      "num": 320,
+      "title": "Trong giới học thuật, ý tưởng là thứ ít đáng tiền nhất"
+    },
+    {
+      "num": 321,
+      "title": "Thành quả bước đầu"
+    },
+    {
+      "num": 322,
+      "title": "Chẳng có gì đáng ngạc nhiên cả"
+    },
+    {
+      "num": 323,
+      "title": "Kỳ nghỉ xuân"
+    },
+    {
+      "num": 324,
+      "title": "Trở lại San Francisco"
+    },
+    {
+      "num": 325,
+      "title": "Giải thưởng Hóa học Adams!"
+    },
+    {
+      "num": 326,
+      "title": "Thoải mái một chút"
+    },
+    {
+      "num": 327,
+      "title": "Chỉ có học bá mới xứng đáng nhận được sự ngưỡng mộ của học bá"
+    },
+    {
+      "num": 328,
+      "title": "“Dò la tình hình đối thủ”"
+    },
+    {
+      "num": 329,
+      "title": "Vấn đề không lớn"
+    },
+    {
+      "num": 330,
+      "title": "Trên con đường sai lầm, cứ thế tự do bay xa (2/3)"
+    },
+    {
+      "num": 331,
+      "title": "Trợ lý kiêm vệ sĩ? (3/3)"
+    },
+    {
+      "num": 332,
+      "title": "Cảnh giới làm ông chủ nghiên cứu khoa học"
+    },
+    {
+      "num": 333,
+      "title": "Hóa học cần mô hình của tôi!"
+    },
+    {
+      "num": 334,
+      "title": "Có việc thì đương nhiên phải để trợ giảng làm"
+    },
+    {
+      "num": 335,
+      "title": "Trung tâm siêu máy tính Anton! (2/3)"
+    },
+    {
+      "num": 336,
+      "title": "Vũ khí hạt nhân của giới hóa học tính toán! (3/3)"
+    },
+    {
+      "num": 337,
+      "title": "Đến thời khắc then chốt, vẫn phải trông cậy vào đối thủ"
+    },
+    {
+      "num": 338,
+      "title": "Khoa học vật liệu, LV4!"
+    },
+    {
+      "num": 339,
+      "title": "Ánh bình minh của chiến thắng"
+    },
+    {
+      "num": 340,
+      "title": "Gửi bài cho JACS (2/3)"
+    },
+    {
+      "num": 341,
+      "title": "Lập công lớn rồi (3/3)"
+    },
+    {
+      "num": 342,
+      "title": "Không phải ai cũng có thể cười đến cuối cùng"
+    },
+    {
+      "num": 343,
+      "title": "Đăng trên 《JACS》！"
+    },
+    {
+      "num": 344,
+      "title": "Đại lão đoạt giải Nobel cũng không quyết định nổi"
+    },
+    {
+      "num": 345,
+      "title": "Cầu xin anh kiện tôi"
+    },
+    {
+      "num": 346,
+      "title": "Hai bức thư mời"
+    },
+    {
+      "num": 347,
+      "title": "Khi còn trẻ, nên đi đây đi đó nhiều hơn"
+    },
+    {
+      "num": 348,
+      "title": "Gieo mầm một học bá (1/3)"
+    },
+    {
+      "num": 349,
+      "title": "Kế hoạch 1 năm (2/3)"
+    },
+    {
+      "num": 350,
+      "title": "Ánh sáng bình minh của thời đại pin lithium-lưu huỳnh"
+    },
+    {
+      "num": 351,
+      "title": "Chỉ sướng nhất thời khi khoe khoang"
+    },
+    {
+      "num": 352,
+      "title": "Cuộc phỏng vấn của 《Thời Đại》"
+    },
+    {
+      "num": 353,
+      "title": "Khoa học không có điểm dừng"
+    },
+    {
+      "num": 354,
+      "title": "Lên đường tới Berlin"
+    },
+    {
+      "num": 355,
+      "title": "Hội Max Planck"
+    },
+    {
+      "num": 356,
+      "title": "Là hiểu lầm, hay một nền hóa học mới?"
+    },
+    {
+      "num": 357,
+      "title": "Hóa học mới!"
+    },
+    {
+      "num": 358,
+      "title": "Lời tiến cử của bậc tiền bối đoạt giải Nobel"
+    },
+    {
+      "num": 359,
+      "title": "Huy chương Hoffmann"
+    },
+    {
+      "num": 360,
+      "title": "Lứa sinh viên này không ổn rồi!"
+    },
+    {
+      "num": 361,
+      "title": "Viết thư góp ý"
+    },
+    {
+      "num": 362,
+      "title": "Đại sứ có lời mời"
+    },
+    {
+      "num": 363,
+      "title": "Tôi chỉ là một giáo sư toán học"
+    },
+    {
+      "num": 364,
+      "title": "1 lần 6 giây?"
+    },
+    {
+      "num": 365,
+      "title": "Chưa đáp ứng điều kiện tiên quyết (1/3)"
+    },
+    {
+      "num": 366,
+      "title": "Có lẽ cả đời này cậu cũng chẳng bao giờ cảm nhận được điều đó (2/3)"
+    },
+    {
+      "num": 367,
+      "title": "Thư viện Flint là một kho báu thực sự (3/3…)"
+    },
+    {
+      "num": 368,
+      "title": "Chua đến mức rụng cả răng (1/3)"
+    },
+    {
+      "num": 369,
+      "title": "Trước tiên đặt một mục tiêu nhỏ (2/3)"
+    },
+    {
+      "num": 370,
+      "title": "Hướng đi mới trong nghiên cứu vật liệu siêu dẫn (3/3)"
+    },
+    {
+      "num": 371,
+      "title": "Đặt mục tiêu trước đã"
+    },
+    {
+      "num": 372,
+      "title": "Cần thêm nhân lực"
+    },
+    {
+      "num": 373,
+      "title": "Ghé thăm Harvard"
+    },
+    {
+      "num": 374,
+      "title": "Lại đến giờ cày cuốc vui vẻ rồi (2/3)"
+    },
+    {
+      "num": 375,
+      "title": "Những thành quả bước đầu trong nghiên cứu phương trình NS (3/3)"
+    },
+    {
+      "num": 376,
+      "title": "Công nghệ đầu dò nguyên tử He-3 (1/4)"
+    },
+    {
+      "num": 377,
+      "title": "Đang âm thầm tính một ván cờ lớn? (2/4)"
+    },
+    {
+      "num": 378,
+      "title": "Phải kịp! (3/4)"
+    },
+    {
+      "num": 379,
+      "title": "Công suất bắn lớn hơn! (4/4)"
+    },
+    {
+      "num": 380,
+      "title": "Có tiền đúng là muốn làm gì cũng được"
+    },
+    {
+      "num": 381,
+      "title": "Tiết học cuối cùng về lý thuyết số trước Giáng Sinh"
+    },
+    {
+      "num": 382,
+      "title": "Cao thủ so chiêu? (1/3)"
+    },
+    {
+      "num": 383,
+      "title": "Lời mời hợp tác nghiên cứu (2/3)"
+    },
+    {
+      "num": 384,
+      "title": "Viên đạn vô hình (3/3)"
+    },
+    {
+      "num": 385,
+      "title": "Toán học đã đủ khó chiều rồi"
+    },
+    {
+      "num": 386,
+      "title": "Niềm vui của người học giỏi, cậu không thể nào hiểu được"
+    },
+    {
+      "num": 387,
+      "title": "Trận tuyết đẹp nhất"
+    },
+    {
+      "num": 388,
+      "title": "Chứng minh giả thuyết Collatz"
+    },
+    {
+      "num": 389,
+      "title": "Xác suất huyền học"
+    },
+    {
+      "num": 390,
+      "title": "Sắp xếp trước khi về nước"
+    },
+    {
+      "num": 391,
+      "title": "Về nước"
+    },
+    {
+      "num": 392,
+      "title": "Hai người có quan hệ gì?"
+    },
+    {
+      "num": 393,
+      "title": "Được ưu ái đến đâu cũng không quá đáng"
+    },
+    {
+      "num": 394,
+      "title": "Vạch mặt đào người"
+    },
+    {
+      "num": 395,
+      "title": "Tôi chỉ tình cờ đi ngang qua"
+    },
+    {
+      "num": 396,
+      "title": "Đại hội và giải thưởng lớn!"
+    },
+    {
+      "num": 397,
+      "title": "Một cây thành rừng"
+    },
+    {
+      "num": 398,
+      "title": "Yến tiệc cấp quốc gia"
+    },
+    {
+      "num": 399,
+      "title": "Món “rác” vị trái cây?"
+    },
+    {
+      "num": 400,
+      "title": "Dựa vào đâu mà đem con gái tôi đi ghép đôi?"
+    },
+    {
+      "num": 401,
+      "title": "Trong lòng mãi mãi phải có một chiếc cân (1/3)"
+    },
+    {
+      "num": 402,
+      "title": "Cậu cao lên rồi (2/3)"
+    },
+    {
+      "num": 403,
+      "title": "Tiền thưởng lên tới bảy chữ số (3/3)"
+    },
+    {
+      "num": 404,
+      "title": "Bức thư từ Đức"
+    },
+    {
+      "num": 405,
+      "title": "Gặp lại sau thời gian xa cách"
+    },
+    {
+      "num": 406,
+      "title": "Ngày huy hoàng nhất trong cuộc đời Phi ca"
+    },
+    {
+      "num": 407,
+      "title": "Cuộc đời không chỉ có toán học, mà còn có vật lý và hóa học"
+    },
+    {
+      "num": 408,
+      "title": "Năm mới 2018"
+    },
+    {
+      "num": 409,
+      "title": "Thị trấn Princeton đã lâu không gặp (3/3)"
+    },
+    {
+      "num": 410,
+      "title": "Phương trình phát nổ?"
+    },
+    {
+      "num": 411,
+      "title": "Hình dạng Lu?"
+    },
+    {
+      "num": 412,
+      "title": "Chúc mừng tốt nghiệp"
+    },
+    {
+      "num": 413,
+      "title": "Chia quân thành hai ngả"
+    },
+    {
+      "num": 414,
+      "title": "Hai bức thư mời (1/3)"
+    },
+    {
+      "num": 415,
+      "title": "Tháng Sáu không yên bình (2/3)"
+    },
+    {
+      "num": 416,
+      "title": "Giải bài toán Thiên Niên Kỷ số 0! (3/3)"
+    },
+    {
+      "num": 417,
+      "title": "Thế giới nhỏ ngoài dự liệu"
+    },
+    {
+      "num": 418,
+      "title": "Phương trình NS gây bão khắp diễn đàn"
+    },
+    {
+      "num": 419,
+      "title": "Sự kiện được cả thế giới dõi theo"
+    },
+    {
+      "num": 420,
+      "title": "Tồn tại! Trơn láng!"
+    },
+    {
+      "num": 421,
+      "title": "Không chỉ là kỳ tích của riêng một người！"
+    },
+    {
+      "num": 422,
+      "title": "Trứng phục sinh của hệ thống?"
+    },
+    {
+      "num": 423,
+      "title": "Đại hội Toán học Quốc tế!"
+    },
+    {
+      "num": 424,
+      "title": "Được lòng mọi người, xứng đáng với vinh dự"
+    },
+    {
+      "num": 425,
+      "title": "Giá Fields cũng bình thường thôi, Giáo sư Lục"
+    },
+    {
+      "num": 426,
+      "title": "Giáo sư hướng dẫn đã giỏi đến thế, sinh viên chẳng phải ai cũng muốn tranh giành sao?"
+    },
+    {
+      "num": 427,
+      "title": "Tôi chỉ tiện miệng đoán một câu thôi"
+    },
+    {
+      "num": 428,
+      "title": "Báo cáo về giả thuyết Collatz"
+    },
+    {
+      "num": 429,
+      "title": "Đại hội bế mạc"
+    },
+    {
+      "num": 430,
+      "title": "Tiền cứ chuyển thẳng vào tài khoản của tôi là được"
+    },
+    {
+      "num": 431,
+      "title": "Xin cấp quyền sử dụng siêu máy tính"
+    },
+    {
+      "num": 432,
+      "title": "Quyết định của Giáo sư Lazerson"
+    },
+    {
+      "num": 433,
+      "title": "Có lẽ thứ anh cần không phải là siêu máy tính…"
+    },
+    {
+      "num": 434,
+      "title": "Chìa khóa của chiếc hộp Pandora"
+    },
+    {
+      "num": 435,
+      "title": "Khó khăn của Wendelstein 7-X"
+    },
+    {
+      "num": 436,
+      "title": "Huấn luyện viên, tôi muốn bán máy bay không người lái"
+    },
+    {
+      "num": 437,
+      "title": "Bức thư cảm ơn từ Viện Hàn lâm Max Planck?"
+    },
+    {
+      "num": 438,
+      "title": "Vật lý cấp 5 và phần thưởng nhiệm vụ đặc biệt?"
+    },
+    {
+      "num": 439,
+      "title": "30 phút"
+    },
+    {
+      "num": 440,
+      "title": "Nỗi phiền muộn của Viện Hàn lâm Khoa học Hoàng gia Thụy Điển"
+    },
+    {
+      "num": 441,
+      "title": "Trước vũ trụ, ánh hào quang của trí tuệ nhân loại thật nhỏ bé đến nhường nào..."
+    },
+    {
+      "num": 442,
+      "title": "Bắt đầu nhiệt hạch từ vật liệu siêu dẫn"
+    },
+    {
+      "num": 443,
+      "title": "Tôi chỉ muốn mời cô ăn một bữa cơm thôi"
+    },
+    {
+      "num": 444,
+      "title": "Cuộc họp cuối cùng"
+    },
+    {
+      "num": 445,
+      "title": "Nói trước là chỉ đi ăn cơm thôi mà……"
+    },
+    {
+      "num": 446,
+      "title": "Cậu thấy con gái nhà tôi thế nào?"
+    },
+    {
+      "num": 447,
+      "title": "Nobel và Fields"
+    },
+    {
+      "num": 448,
+      "title": "“Nhà cũ” của Lục Chu"
+    },
+    {
+      "num": 449,
+      "title": "Nghe nói có người đưa cậu vào luận văn"
+    },
+    {
+      "num": 450,
+      "title": "Giải quyết những việc còn dang dở"
+    },
+    {
+      "num": 451,
+      "title": "Toán học chỉ theo đuổi chân lý"
+    },
+    {
+      "num": 452,
+      "title": "101K！"
+    },
+    {
+      "num": 453,
+      "title": "Thật sự không cân nhắc lên sàn chứng khoán sao?"
+    },
+    {
+      "num": 454,
+      "title": "Cơ hội tốt để thể hiện bản thân trước đồng nghiệp trong ngành"
+    },
+    {
+      "num": 455,
+      "title": "Lời mời dự tiệc tối trao giải Nobel"
+    },
+    {
+      "num": 456,
+      "title": "Được đón nhận nồng nhiệt tại Hội nghị MRS mùa thu"
+    },
+    {
+      "num": 457,
+      "title": "Một lần nữa đến Stockholm"
+    },
+    {
+      "num": 458,
+      "title": "Sư tỷ của sư phụ tên gì?"
+    },
+    {
+      "num": 459,
+      "title": "Ngày 10 tháng 12"
+    },
+    {
+      "num": 460,
+      "title": "Bữa tiệc đông đúc nhất thế giới"
+    },
+    {
+      "num": 461,
+      "title": "Tôi có thể mời cô một điệu nhảy không?"
+    },
+    {
+      "num": 462,
+      "title": "Tôi đảm bảo, thú vị hơn pin lithium-lưu huỳnh nhiều"
+    },
+    {
+      "num": 463,
+      "title": "Lấy đó làm bài học"
+    },
+    {
+      "num": 464,
+      "title": "Bài diễn thuyết Nobel"
+    },
+    {
+      "num": 465,
+      "title": "Tiện đường ghé Pháp một chuyến"
+    },
+    {
+      "num": 466,
+      "title": "Câu trả lời chỉ có ba chữ"
+    },
+    {
+      "num": 467,
+      "title": "Một nhân vật kỳ cựu trong ngành"
+    },
+    {
+      "num": 468,
+      "title": "Mua một cỗ máy về"
+    },
+    {
+      "num": 469,
+      "title": "Các anh thật sự chỉ nói chuyện toán học thôi sao?"
+    },
+    {
+      "num": 470,
+      "title": "Đại công trường khởi công"
+    },
+    {
+      "num": 471,
+      "title": "Tri thức chính là tài sản lớn nhất"
+    },
+    {
+      "num": 472,
+      "title": "Hai hướng nghiên cứu lớn"
+    },
+    {
+      "num": 473,
+      "title": "Ít nhất cũng phải là tiến sĩ sau tiến sĩ chứ"
+    },
+    {
+      "num": 474,
+      "title": "Làm một con chó nghiên cứu khoa học có ước mơ"
+    },
+    {
+      "num": 475,
+      "title": "Sắp xếp nhân sự"
+    },
+    {
+      "num": 476,
+      "title": "Với tôi, vẫn còn quá sớm"
+    },
+    {
+      "num": 477,
+      "title": "Lại đến mùa trao giải thường niên"
+    },
+    {
+      "num": 478,
+      "title": "Mua nhà"
+    },
+    {
+      "num": 479,
+      "title": "Tỷ lệ thành công của thí nghiệm"
+    },
+    {
+      "num": 480,
+      "title": "Đề tài “thú vị”"
+    },
+    {
+      "num": 481,
+      "title": "Sợi dây dẫn dài nửa mét"
+    },
+    {
+      "num": 482,
+      "title": "Ngôi nhà mới của Tiểu Ái"
+    },
+    {
+      "num": 483,
+      "title": "Năm mới 2019"
+    },
+    {
+      "num": 484,
+      "title": "Thương lượng một vụ làm ăn"
+    },
+    {
+      "num": 485,
+      "title": "Dùng kỹ thuật đổi lấy kỹ thuật"
+    },
+    {
+      "num": 486,
+      "title": "Đến hay không?"
+    },
+    {
+      "num": 487,
+      "title": "Cơ chế vật lý của tính siêu dẫn nhiệt độ cao và mô hình tương quan mạnh"
+    },
+    {
+      "num": 488,
+      "title": "Đạt được thỏa thuận hợp tác"
+    },
+    {
+      "num": 489,
+      "title": "Ta muốn xem thử ai dám đi!"
+    },
+    {
+      "num": 490,
+      "title": "Vậy thì mời tất cả bọn họ đến đây"
+    },
+    {
+      "num": 491,
+      "title": "Đến thăm Cẩu"
+    },
+    {
+      "num": 492,
+      "title": "Có hứng thú đến đây không?"
+    },
+    {
+      "num": 493,
+      "title": "Sẵn sàng lên đường"
+    },
+    {
+      "num": 494,
+      "title": "Đoàn chuyên gia đến thăm (1/3)"
+    },
+    {
+      "num": 495,
+      "title": "Dùng công nghệ chinh phục người Đức (2/3)"
+    },
+    {
+      "num": 496,
+      "title": "Thiết bị STAR! (3/3)"
+    },
+    {
+      "num": 497,
+      "title": "Bước đầu tiên hướng về Mặt Trời"
+    },
+    {
+      "num": 498,
+      "title": "Thành quả bước đầu"
+    },
+    {
+      "num": 499,
+      "title": "Bốn tỷ bỏ ra có đáng không?"
+    },
+    {
+      "num": 500,
+      "title": "Xây dựng siêu máy tính"
+    },
+    {
+      "num": 501,
+      "title": "Hội thao cán bộ, giảng viên"
+    },
+    {
+      "num": 502,
+      "title": "Không ngờ cậu cũng được yêu mến đến thế"
+    },
+    {
+      "num": 503,
+      "title": "Đến Los Angeles"
+    },
+    {
+      "num": 504,
+      "title": "Hội nghị giao lưu quốc tế về nhiệt hạch có kiểm soát"
+    },
+    {
+      "num": 505,
+      "title": "Ghi chép coi như công cốc rồi"
+    },
+    {
+      "num": 506,
+      "title": "So tài kỹ thuật"
+    },
+    {
+      "num": 507,
+      "title": "Triển vọng của chip nền carbon"
+    },
+    {
+      "num": 508,
+      "title": "Con đường tương lai là do các em tự chọn"
+    },
+    {
+      "num": 509,
+      "title": "Tôi đã suy nghĩ suốt nửa năm"
+    },
+    {
+      "num": 510,
+      "title": "Chúng là tài sản của nền văn minh"
+    },
+    {
+      "num": 511,
+      "title": "Tạm biệt Princeton"
+    },
+    {
+      "num": 512,
+      "title": "Tôi sẽ không từ bỏ đâu"
+    },
+    {
+      "num": 513,
+      "title": "Khởi động lại thí nghiệm! Điện thoại đọc sách"
+    },
+    {
+      "num": 514,
+      "title": "Không chỉ là 30 phút"
+    },
+    {
+      "num": 515,
+      "title": "Không thể nào!"
+    },
+    {
+      "num": 516,
+      "title": "Giới vật lý plasma sôi sục"
+    },
+    {
+      "num": 517,
+      "title": "Công trình lớn trị giá 40 tỷ!"
+    },
+    {
+      "num": 518,
+      "title": "Hiện thực bất đắc dĩ"
+    },
+    {
+      "num": 519,
+      "title": "Chữ càng ít, lượng thông tin càng lớn"
+    },
+    {
+      "num": 520,
+      "title": "Đun nước sôi thì chẳng phải quá lãng phí sao?"
+    },
+    {
+      "num": 521,
+      "title": "Đi con đường khác thường"
+    },
+    {
+      "num": 522,
+      "title": "Cuộc đua về tương lai"
+    },
+    {
+      "num": 523,
+      "title": "Đuổi bọn họ ra khỏi cuộc chơi"
+    },
+    {
+      "num": 524,
+      "title": "Trở về trường cũ làm giáo sư"
+    },
+    {
+      "num": 525,
+      "title": "Lãnh đạo cấp cao rất coi trọng ý kiến của ngài"
+    },
+    {
+      "num": 526,
+      "title": "Quà nhẹ nhưng tình nghĩa nặng"
+    },
+    {
+      "num": 527,
+      "title": "Vậy thì nhờ cả vào cậu!"
+    },
+    {
+      "num": 528,
+      "title": "Một kết quả thú vị thường ra đời từ những điều bất ngờ?"
+    },
+    {
+      "num": 529,
+      "title": "Vật vã với bản thân chi bằng làm khó người khác"
+    },
+    {
+      "num": 530,
+      "title": "Nằm không cũng trúng đạn"
+    },
+    {
+      "num": 531,
+      "title": "Đành đắc tội với các anh thêm một lần nữa"
+    },
+    {
+      "num": 532,
+      "title": "Bắt đầu lại công việc cũ"
+    },
+    {
+      "num": 533,
+      "title": "Hạnh phúc đến quá bất ngờ"
+    },
+    {
+      "num": 534,
+      "title": "Không đủ thời gian, vậy lấy nhân lực bù vào"
+    },
+    {
+      "num": 535,
+      "title": "Tin vui từ Đại Á Loan"
+    },
+    {
+      "num": 536,
+      "title": "Phương án đối phó của Helms"
+    },
+    {
+      "num": 537,
+      "title": "Không có tổn thương do bức xạ rõ rệt!"
+    },
+    {
+      "num": 538,
+      "title": "Rời khỏi nhóm"
+    },
+    {
+      "num": 539,
+      "title": "Dựng lò phản ứng!"
+    },
+    {
+      "num": 540,
+      "title": "Chọn địa điểm ở Điền Loan"
+    },
+    {
+      "num": 541,
+      "title": "Tin tức chấn động thế giới"
+    },
+    {
+      "num": 542,
+      "title": "Vận may bùng nổ?"
+    },
+    {
+      "num": 543,
+      "title": "Phối hợp hết sức"
+    },
+    {
+      "num": 544,
+      "title": "Thiết bị hứng lõi lò phản ứng"
+    },
+    {
+      "num": 545,
+      "title": "Chúng ta không giống nhau"
+    },
+    {
+      "num": 546,
+      "title": "Đưa vật liệu vào sản xuất"
+    },
+    {
+      "num": 547,
+      "title": "Khí thế sôi sục"
+    },
+    {
+      "num": 548,
+      "title": "Khu vực bí ẩn “900”"
+    },
+    {
+      "num": 549,
+      "title": "Cô chẳng phải nói càng nhanh càng tốt sao?"
+    },
+    {
+      "num": 550,
+      "title": "Lần này tôi nhất định không cho cô leo cây"
+    },
+    {
+      "num": 551,
+      "title": "Trở ngại cuối cùng"
+    },
+    {
+      "num": 552,
+      "title": "Càng nhanh càng tốt!"
+    },
+    {
+      "num": 553,
+      "title": "Mọi thứ đã sẵn sàng"
+    },
+    {
+      "num": 554,
+      "title": "Chỉ còn thiếu ngọn gió Đông"
+    },
+    {
+      "num": 555,
+      "title": "Châm lửa!"
+    },
+    {
+      "num": 556,
+      "title": "Nắm giữ nguồn năng lượng của sao trời"
+    },
+    {
+      "num": 557,
+      "title": "Ánh sáng nhiệt hạch hoàn thành!"
+    },
+    {
+      "num": 558,
+      "title": "Ngày mai tươi đẹp hơn hôm qua"
+    },
+    {
+      "num": 559,
+      "title": "Lớn lên, con cũng muốn làm nhà khoa học"
+    },
+    {
+      "num": 560,
+      "title": "Tôi rất thất vọng (1/4)"
+    },
+    {
+      "num": 561,
+      "title": "Tổng thống mừng rỡ ngoài dự liệu (2/4)"
+    },
+    {
+      "num": 562,
+      "title": "Điện thoại của tôi đâu? (3/4)"
+    },
+    {
+      "num": 563,
+      "title": "Anh vất vả rồi! (4/4)"
+    },
+    {
+      "num": 564,
+      "title": "Vạch Ra Tương Lai"
+    },
+    {
+      "num": 565,
+      "title": "Phát trực tiếp ở đâu?"
+    },
+    {
+      "num": 566,
+      "title": "Mạng lưới điện liên khu vực"
+    },
+    {
+      "num": 567,
+      "title": "Cuộc phỏng vấn của Trạm C"
+    },
+    {
+      "num": 568,
+      "title": "Khai thiên lập địa"
+    },
+    {
+      "num": 569,
+      "title": "Mảnh vỡ thứ ba"
+    },
+    {
+      "num": 570,
+      "title": "Ai nấu ngon hơn?"
+    },
+    {
+      "num": 571,
+      "title": "Nhà khoa học cũng có quốc tịch"
+    },
+    {
+      "num": 572,
+      "title": "Vút Tận Mây Xanh！"
+    },
+    {
+      "num": 573,
+      "title": "Cậu quyết định đi"
+    },
+    {
+      "num": 574,
+      "title": "Lập công rồi lui"
+    },
+    {
+      "num": 575,
+      "title": "Chiếc bánh ngoài dự liệu?"
+    },
+    {
+      "num": 576,
+      "title": "Trợ lý nghiên cứu khoa học"
+    },
+    {
+      "num": 577,
+      "title": "Chẳng phải đã là như vậy rồi sao?"
+    },
+    {
+      "num": 578,
+      "title": "Có lẽ đây chính là lợi thế của người đẹp trai?"
+    },
+    {
+      "num": 579,
+      "title": "Phòng thí nghiệm ở tầng hầm số 3"
+    },
+    {
+      "num": 580,
+      "title": "Đây không phải cơ thể mà tôi muốn!"
+    },
+    {
+      "num": 581,
+      "title": "Xác nhận ánh mắt, đúng là người của Viện Khoa học Trung Quốc"
+    },
+    {
+      "num": 582,
+      "title": "Vật liệu không thể tồn tại"
+    },
+    {
+      "num": 583,
+      "title": "Sắp xếp việc giảng dạy"
+    },
+    {
+      "num": 584,
+      "title": "Cảm ơn anh đã cứu rỗi em"
+    },
+    {
+      "num": 585,
+      "title": "Hội thảo bàn về dự án đưa người lên Mặt Trăng"
+    },
+    {
+      "num": 586,
+      "title": "Cơ thể mới của Tiểu Ái"
+    },
+    {
+      "num": 587,
+      "title": "Lối tắt để vượt lên bằng đường vòng"
+    },
+    {
+      "num": 588,
+      "title": "Cú đánh lạc hướng mang tính chiến lược"
+    },
+    {
+      "num": 589,
+      "title": "Tổng cố vấn chương trình đổ bộ Mặt Trăng"
+    },
+    {
+      "num": 590,
+      "title": "Mở màn cuộc đua vào không gian"
+    },
+    {
+      "num": 591,
+      "title": "Tháo dỡ xác tàu số 3"
+    },
+    {
+      "num": 592,
+      "title": "Đã xác định rõ hướng công nghệ!"
+    },
+    {
+      "num": 593,
+      "title": "Đi hay không đi đây?"
+    },
+    {
+      "num": 594,
+      "title": "Để tôi suy nghĩ thêm đã"
+    },
+    {
+      "num": 595,
+      "title": "Khởi động dự án pin nhiệt hạch!"
+    },
+    {
+      "num": 596,
+      "title": "Bước đi quá lớn rồi sao?"
+    },
+    {
+      "num": 597,
+      "title": "Thị trường được tạo ra từ một bài báo khoa học"
+    },
+    {
+      "num": 598,
+      "title": "Có người đang điều tra anh"
+    },
+    {
+      "num": 599,
+      "title": "Thị trường chứng khoán đầy rủi ro"
+    },
+    {
+      "num": 600,
+      "title": "Không phải món hời nào cũng dễ kiếm"
+    },
+    {
+      "num": 601,
+      "title": "Kết thúc trong êm đẹp"
+    },
+    {
+      "num": 602,
+      "title": "Không phải không muốn, mà là không dám…"
+    },
+    {
+      "num": 603,
+      "title": "Nút thắt không thể né tránh"
+    },
+    {
+      "num": 604,
+      "title": "Vì sao các hạt nhân nguyên tử lại hút về phía nhau?"
+    },
+    {
+      "num": 605,
+      "title": "Làm thế nào để thống nhất lực hạt nhân?!"
+    },
+    {
+      "num": 606,
+      "title": "Sẽ hói đầu"
+    },
+    {
+      "num": 607,
+      "title": "Hòa lưới phát điện"
+    },
+    {
+      "num": 608,
+      "title": "Chứng minh sự tồn tại của nghiệm"
+    },
+    {
+      "num": 609,
+      "title": "Người phản biện thích hợp nhất"
+    },
+    {
+      "num": 610,
+      "title": "Bài luận đó là do cậu viết?"
+    },
+    {
+      "num": 611,
+      "title": "Tháng Tư này chẳng yên bình chút nào"
+    },
+    {
+      "num": 612,
+      "title": "Thư từ Viện Nghiên cứu Clay"
+    },
+    {
+      "num": 613,
+      "title": "Còn để người ta nói chuyện tử tế được không?"
+    },
+    {
+      "num": 614,
+      "title": "Trong mắt tôi, đều như nhau"
+    },
+    {
+      "num": 615,
+      "title": "Cảm hứng cũng có thể lây lan"
+    },
+    {
+      "num": 616,
+      "title": "Nghĩ giống nhau"
+    },
+    {
+      "num": 617,
+      "title": "Chỉ có tôi mới làm được chuyện này"
+    },
+    {
+      "num": 618,
+      "title": "Đến từ khắp nơi trên thế giới"
+    },
+    {
+      "num": 619,
+      "title": "Nét phấn dừng lại trên bảng đen"
+    },
+    {
+      "num": 620,
+      "title": "Tôi giải ra rồi"
+    },
+    {
+      "num": 621,
+      "title": "Lời giải tổng quát của phương trình Yang–Mills!"
+    },
+    {
+      "num": 622,
+      "title": "Tiếng Vang Dữ Dội"
+    },
+    {
+      "num": 623,
+      "title": "Tính toán kiểm chứng chính xác!"
+    },
+    {
+      "num": 624,
+      "title": "Đây còn là người sao?"
+    },
+    {
+      "num": 625,
+      "title": "Cột mốc chung trong lịch sử vật lý và toán học!"
+    },
+    {
+      "num": 626,
+      "title": "Cuộc thảo luận với Giáo sư Fefferman"
+    },
+    {
+      "num": 627,
+      "title": "Bài phỏng vấn độc quyền của 《Nature Weekly》"
+    },
+    {
+      "num": 628,
+      "title": "Trông có vẻ học thuật hơn"
+    },
+    {
+      "num": 629,
+      "title": "Sinh hóa học, LV5！"
+    },
+    {
+      "num": 630,
+      "title": "Vận may bùng nổ"
+    },
+    {
+      "num": 631,
+      "title": "Nhiệm vụ mới được thiết kế riêng cho hắn"
+    },
+    {
+      "num": 632,
+      "title": "Muốn chế tạo tên lửa không?"
+    },
+    {
+      "num": 633,
+      "title": "Giúp tôi lấy một mảnh đất"
+    },
+    {
+      "num": 634,
+      "title": "Chìa khóa giải quyết khoảng trống khối lượng"
+    },
+    {
+      "num": 635,
+      "title": "Đây là định bay lên trời sao?"
+    },
+    {
+      "num": 636,
+      "title": "Tôi có linh cảm chẳng lành"
+    },
+    {
+      "num": 637,
+      "title": "Cách chứng minh đầy tinh tế"
+    },
+    {
+      "num": 638,
+      "title": "Người bán đã gửi hàng!"
+    },
+    {
+      "num": 639,
+      "title": "Bị chơi một vố"
+    },
+    {
+      "num": 640,
+      "title": "Trường Yang-Mills lượng tử"
+    },
+    {
+      "num": 641,
+      "title": "Có lẽ đây chính là duyên phận"
+    },
+    {
+      "num": 642,
+      "title": "Nếu tôi không bán cho ông thì sao?"
+    },
+    {
+      "num": 643,
+      "title": "Xảy ra trục trặc"
+    },
+    {
+      "num": 644,
+      "title": "Để tôi tìm một chuyên gia hỏi thử trước"
+    },
+    {
+      "num": 645,
+      "title": "Hệ thống này là ai lắp cho cậu vậy?"
+    },
+    {
+      "num": 646,
+      "title": "Giáo sư Lục thâm tàng bất lộ"
+    },
+    {
+      "num": 647,
+      "title": "Đã được chứng minh?"
+    },
+    {
+      "num": 648,
+      "title": "Khiếm khuyết nghiêm trọng"
+    },
+    {
+      "num": 649,
+      "title": "Lời mời của Giáo sư Brian"
+    },
+    {
+      "num": 650,
+      "title": "Tôi có thắc mắc"
+    },
+    {
+      "num": 651,
+      "title": "Thế này là giải được rồi sao?"
+    },
+    {
+      "num": 652,
+      "title": "Lão Hóa Là Một Chủ Đề Đáng Buồn"
+    },
+    {
+      "num": 653,
+      "title": "Con đường tất yếu dẫn tới dải ngân hà"
+    },
+    {
+      "num": 654,
+      "title": "Trước cuối tháng, tôi sẽ cho các anh một câu trả lời"
+    },
+    {
+      "num": 655,
+      "title": "Đây chính là khoảng cách sao?"
+    },
+    {
+      "num": 656,
+      "title": "Thống Nhất Tương Tác Mạnh – Điện Từ!"
+    },
+    {
+      "num": 657,
+      "title": "Đáp án nằm ngay trong tay anh"
+    },
+    {
+      "num": 658,
+      "title": "Kết quả thí nghiệm đáng kinh ngạc"
+    },
+    {
+      "num": 659,
+      "title": "Cuộc bỏ phiếu tại CERN"
+    },
+    {
+      "num": 660,
+      "title": "Lời mời từ CERN"
+    },
+    {
+      "num": 661,
+      "title": "Cuộc phỏng vấn độc quyền của Đài Truyền hình Trung ương Trung Quốc"
+    },
+    {
+      "num": 662,
+      "title": "Có cần Tiểu Ái thả ít bong bóng đủ màu vào bồn tắm không?"
+    },
+    {
+      "num": 663,
+      "title": "Tôi đọc, cậu viết"
+    },
+    {
+      "num": 664,
+      "title": "Tất Cả Đều Bị Hắn Một Mình Chiếm Hết"
+    },
+    {
+      "num": 665,
+      "title": "Bước đột phá trong thu nhỏ thiết bị!"
+    },
+    {
+      "num": 666,
+      "title": "Thành công rồi?"
+    },
+    {
+      "num": 667,
+      "title": "Các anh đã làm thế nào vậy?!"
+    },
+    {
+      "num": 668,
+      "title": "Cần đặt đại cục lên hàng đầu"
+    },
+    {
+      "num": 669,
+      "title": "Trung tâm lắp ráp hoàn thành"
+    },
+    {
+      "num": 670,
+      "title": "Từ Không Đến Có"
+    },
+    {
+      "num": 671,
+      "title": "Đã đến lúc thể hiện kỹ thuật thực sự rồi"
+    },
+    {
+      "num": 672,
+      "title": "Người giỏi làm thầy"
+    },
+    {
+      "num": 673,
+      "title": "100 MW！"
+    },
+    {
+      "num": 674,
+      "title": "Bực mình thật đấy！"
+    },
+    {
+      "num": 675,
+      "title": "Anh biết người mà tôi ngưỡng mộ nhất là ai không?"
+    },
+    {
+      "num": 676,
+      "title": "Giơ tay biểu quyết"
+    },
+    {
+      "num": 677,
+      "title": "Đã có kinh phí!"
+    },
+    {
+      "num": 678,
+      "title": "5 tỷ"
+    },
+    {
+      "num": 679,
+      "title": "Chuẩn bị cho tương lai"
+    },
+    {
+      "num": 680,
+      "title": "Sư huynh La vướng tình?"
+    },
+    {
+      "num": 681,
+      "title": "Phỉ nhổ!"
+    },
+    {
+      "num": 682,
+      "title": "Một đêm trên núi Tử Kim (2/3)"
+    },
+    {
+      "num": 683,
+      "title": "Đôi A, không nhận nổi! (3/3)"
+    },
+    {
+      "num": 684,
+      "title": "Trẻ con mới phải chọn một trong hai"
+    },
+    {
+      "num": 685,
+      "title": "Hội nghị thượng đỉnh ngành xe năng lượng mới"
+    },
+    {
+      "num": 686,
+      "title": "Khởi động dự án pin lithium-không khí"
+    },
+    {
+      "num": 687,
+      "title": "Một cách ăn bánh mì kẹp thịt xông khói kiểu khác?"
+    },
+    {
+      "num": 688,
+      "title": "Cuộc họp tuyệt mật"
+    },
+    {
+      "num": 689,
+      "title": "Chúng ta cá cược một phen nhé"
+    },
+    {
+      "num": 690,
+      "title": "Đối thủ cạnh tranh"
+    },
+    {
+      "num": 691,
+      "title": "Các anh còn thiếu người không?"
+    },
+    {
+      "num": 692,
+      "title": "Cuối cùng vẫn phải để chuyên gia quyết định"
+    },
+    {
+      "num": 693,
+      "title": "Chuyến Bay Tường Thụy"
+    },
+    {
+      "num": 694,
+      "title": "Phi Đội Phi Hành Gia"
+    },
+    {
+      "num": 695,
+      "title": "Lại đến mùa Nobel hằng năm"
+    },
+    {
+      "num": 696,
+      "title": "Chuẩn bị phóng lần đầu!"
+    },
+    {
+      "num": 697,
+      "title": "Có phải chúng ta đã nghĩ quá nhiều rồi không?"
+    },
+    {
+      "num": 698,
+      "title": "Đếm ngược giao cho anh"
+    },
+    {
+      "num": 699,
+      "title": "Đánh lửa! Cất cánh!"
+    },
+    {
+      "num": 700,
+      "title": "Nhìn xuống Trái Đất"
+    },
+    {
+      "num": 701,
+      "title": "Ngôi sao tương lai của Thung lũng Silicon?"
+    },
+    {
+      "num": 702,
+      "title": "Dù sao cũng chẳng phải chuyện gì xấu"
+    },
+    {
+      "num": 703,
+      "title": "Đón năm mới trên bầu trời"
+    },
+    {
+      "num": 704,
+      "title": "Khiếm khuyết nghiêm trọng? (1/3)"
+    },
+    {
+      "num": 705,
+      "title": "Đổi quỹ đạo trở về! (2/3)"
+    },
+    {
+      "num": 706,
+      "title": "Khải hoàn! (3/3)"
+    },
+    {
+      "num": 707,
+      "title": "Coi như cô đoán đúng một nửa"
+    },
+    {
+      "num": 708,
+      "title": "Xuất viện"
+    },
+    {
+      "num": 709,
+      "title": "Sa mạc giữa lòng bồn địa"
+    },
+    {
+      "num": 710,
+      "title": "Khoang thoát hiểm “Thiểm Điện”"
+    },
+    {
+      "num": 711,
+      "title": "Kế hoạch Hạt Giống"
+    },
+    {
+      "num": 712,
+      "title": "Tuyển chọn viện sĩ (Chúc mừng năm mới~~~)"
+    },
+    {
+      "num": 713,
+      "title": "Bản thiết kế máy bay vũ trụ cánh xoay nghiêng"
+    },
+    {
+      "num": 714,
+      "title": "Điều quan trọng là nó ở ngay đó"
+    },
+    {
+      "num": 715,
+      "title": "Đòn phản công của Nhà Trắng"
+    },
+    {
+      "num": 716,
+      "title": "Kế hoạch “Ares”"
+    },
+    {
+      "num": 717,
+      "title": "Đơn vị trồng trọt ngoài không gian"
+    },
+    {
+      "num": 718,
+      "title": "Chuẩn bị đổ bộ lên Mặt Trăng!"
+    },
+    {
+      "num": 719,
+      "title": "Sum Họp Giữa Những Ngày Bận Rộn"
+    },
+    {
+      "num": 720,
+      "title": "Hay là lên đó góp đủ một bàn chơi?"
+    },
+    {
+      "num": 721,
+      "title": "Chuyện đủ để tự hào cả đời"
+    },
+    {
+      "num": 722,
+      "title": "Chúng ta cần một chiến thắng"
+    },
+    {
+      "num": 723,
+      "title": "Đặt chân lên bầu trời sao ấy"
+    },
+    {
+      "num": 724,
+      "title": "Lời chúc đặc biệt"
+    },
+    {
+      "num": 725,
+      "title": "Thời khắc cả nước vui mừng"
+    },
+    {
+      "num": 726,
+      "title": "Triển khai khu trồng trọt ngoài không gian"
+    },
+    {
+      "num": 727,
+      "title": "Trở về!"
+    },
+    {
+      "num": 728,
+      "title": "Giai đoạn 2 của “Kiểm soát Trái Đất – Mặt Trăng”"
+    },
+    {
+      "num": 729,
+      "title": "Sản phẩm không nhãn mác"
+    },
+    {
+      "num": 730,
+      "title": "NASA sứt đầu mẻ trán"
+    },
+    {
+      "num": 731,
+      "title": "Bộ quần áo không thể cắt rách?"
+    },
+    {
+      "num": 732,
+      "title": "Phân tích thành phần"
+    },
+    {
+      "num": 733,
+      "title": "Cứ giữ lại làm cổ vật vậy"
+    },
+    {
+      "num": 734,
+      "title": "Chuyện lớn đủ để tự hào cả đời"
+    },
+    {
+      "num": 735,
+      "title": "Những tiến triển trong nghiên cứu máy va chạm hadron trên Mặt Trăng"
+    },
+    {
+      "num": 736,
+      "title": "Tin tức động trời"
+    },
+    {
+      "num": 737,
+      "title": "Buổi họp báo của NASA"
+    },
+    {
+      "num": 738,
+      "title": "Lật ngược thế cờ?"
+    },
+    {
+      "num": 739,
+      "title": "Lựa chọn hướng đi"
+    },
+    {
+      "num": 740,
+      "title": "Không còn đá để mò nữa"
+    },
+    {
+      "num": 741,
+      "title": "Chiếm lĩnh đỉnh cao của tương lai"
+    },
+    {
+      "num": 742,
+      "title": "Bánh xe thời đại đang lăn về phía trước"
+    },
+    {
+      "num": 743,
+      "title": "Đối thủ không biết tự lượng sức mình"
+    },
+    {
+      "num": 744,
+      "title": "Tìm kho báu trong đống rác?"
+    },
+    {
+      "num": 745,
+      "title": "Quả trứng khổng lồ ở Arizona"
+    },
+    {
+      "num": 746,
+      "title": "Cứ quen là được"
+    },
+    {
+      "num": 747,
+      "title": "Phóng tên lửa BFR!"
+    },
+    {
+      "num": 748,
+      "title": "Ủy ban Thi công Quỹ đạo Mặt Trăng"
+    },
+    {
+      "num": 749,
+      "title": "Hiện tượng tích nhiệt?"
+    },
+    {
+      "num": 750,
+      "title": "Đến thời khắc then chốt lại gặp trục trặc?"
+    },
+    {
+      "num": 751,
+      "title": "Vấn đề e rằng không nhỏ"
+    },
+    {
+      "num": 752,
+      "title": "Cách cứu vãn duy nhất"
+    },
+    {
+      "num": 753,
+      "title": "Hàn nguội"
+    },
+    {
+      "num": 754,
+      "title": "Giáo sư Lục quá đỉnh!"
+    },
+    {
+      "num": 755,
+      "title": "Vật liệu tản nhiệt đáng sợ đến mức nào?"
+    },
+    {
+      "num": 756,
+      "title": "Xuất khẩu rồi tiêu thụ trong nước"
+    },
+    {
+      "num": 757,
+      "title": "Lại có tin lớn nữa sao?"
+    },
+    {
+      "num": 758,
+      "title": "Mũi tên đã đặt lên dây!"
+    },
+    {
+      "num": 759,
+      "title": "Thu Lưới"
+    },
+    {
+      "num": 760,
+      "title": "Đáng đời"
+    },
+    {
+      "num": 761,
+      "title": "Được Muôn Người Chú Ý！"
+    },
+    {
+      "num": 762,
+      "title": "Nguyệt Cung vào quỹ đạo!"
+    },
+    {
+      "num": 763,
+      "title": "Cung Trăng Của Chúng Ta!"
+    },
+    {
+      "num": 764,
+      "title": "Bắt đầu bằng tin xấu trước nhé"
+    },
+    {
+      "num": 765,
+      "title": "Tin Vui Liên Tiếp"
+    },
+    {
+      "num": 766,
+      "title": "Địch thủ ngang tài ngang sức?"
+    },
+    {
+      "num": 767,
+      "title": "Thử một lần là biết ngay!"
+    },
+    {
+      "num": 768,
+      "title": "Ba chiến binh"
+    },
+    {
+      "num": 769,
+      "title": "Cuộc đối mặt giữa không gian sâu thẳm"
+    },
+    {
+      "num": 770,
+      "title": "Không ai có thể ngăn tôi nghiên cứu thứ gì"
+    },
+    {
+      "num": 771,
+      "title": "Chiêu mộ nhân tài"
+    },
+    {
+      "num": 772,
+      "title": "Tự thành một phái!"
+    },
+    {
+      "num": 773,
+      "title": "Sinh lão bệnh tử vốn là lẽ thường tình"
+    },
+    {
+      "num": 774,
+      "title": "Chìa khóa nằm trong tế bào giun tròn"
+    },
+    {
+      "num": 775,
+      "title": "Những chuyện của tương lai, hãy để tương lai giải quyết"
+    },
+    {
+      "num": 776,
+      "title": "Những ý tưởng vĩ đại thường ra đời từ những khoảnh khắc vô tình"
+    },
+    {
+      "num": 777,
+      "title": "Thăm những người bị thương"
+    },
+    {
+      "num": 778,
+      "title": "Khả năng đứng dậy lần nữa"
+    },
+    {
+      "num": 779,
+      "title": "Ca phẫu thuật"
+    },
+    {
+      "num": 780,
+      "title": "“Người máy”"
+    },
+    {
+      "num": 781,
+      "title": "Đến Sao Hỏa?"
+    },
+    {
+      "num": 782,
+      "title": "Gặp phải một chút rắc rối nhỏ"
+    },
+    {
+      "num": 783,
+      "title": "Nhật Ký Sao Hỏa"
+    },
+    {
+      "num": 784,
+      "title": "Cơn bão bụi toàn cầu"
+    },
+    {
+      "num": 785,
+      "title": "Kỷ nguyên Không gian 4.0"
+    },
+    {
+      "num": 786,
+      "title": "SOS？"
+    },
+    {
+      "num": 787,
+      "title": "Bí mật công khai"
+    },
+    {
+      "num": 788,
+      "title": "Hệ thống đẩy điện, muốn tìm hiểu một chút không?"
+    },
+    {
+      "num": 789,
+      "title": "Không, các ông cần nó"
+    },
+    {
+      "num": 790,
+      "title": "Thế giới một lần nữa chứng kiến"
+    },
+    {
+      "num": 791,
+      "title": "Tình huống tồi tệ nhất"
+    },
+    {
+      "num": 792,
+      "title": "Rơi xuống!"
+    },
+    {
+      "num": 793,
+      "title": "Tấm vé về nhà"
+    },
+    {
+      "num": 794,
+      "title": "Cứu viện thành công!"
+    },
+    {
+      "num": 795,
+      "title": "Vẫn là ông cao tay hơn"
+    },
+    {
+      "num": 796,
+      "title": "Xe khảo sát địa hình bánh xích trình thu thập dữ liệu"
+    },
+    {
+      "num": 797,
+      "title": "Dấu vết của tầng băng ngầm?"
+    },
+    {
+      "num": 798,
+      "title": "“Ô Thước Kiều” vươn tới Mặt Trăng"
+    },
+    {
+      "num": 799,
+      "title": "Khai khoáng"
+    },
+    {
+      "num": 800,
+      "title": "Chào mừng trở về nhà!"
+    },
+    {
+      "num": 801,
+      "title": "Gặp phải một chút rắc rối"
+    },
+    {
+      "num": 802,
+      "title": "“Sinh mệnh nhỏ bé” đến từ Sao Hỏa"
+    },
+    {
+      "num": 803,
+      "title": "Nhiệm vụ khẩn cấp"
+    },
+    {
+      "num": 804,
+      "title": "Lần tiếp xúc đầu tiên chẳng mấy tốt đẹp"
+    },
+    {
+      "num": 805,
+      "title": "Ký sinh? Cộng sinh?"
+    },
+    {
+      "num": 806,
+      "title": "Công trình trên Mặt Trăng"
+    },
+    {
+      "num": 807,
+      "title": "Vị thuốc có “mùi vị”"
+    },
+    {
+      "num": 808,
+      "title": "Giáo sư Z?"
+    },
+    {
+      "num": 809,
+      "title": "Nhóm chuyên gia quốc tế bó tay"
+    },
+    {
+      "num": 810,
+      "title": "Dẫn xuất axit amin tương tự"
+    },
+    {
+      "num": 811,
+      "title": "Hai mươi bảy ngày hôn mê"
+    },
+    {
+      "num": 812,
+      "title": "Tiến sĩ Z cứu thế giới?"
+    },
+    {
+      "num": 813,
+      "title": "Phần thưởng cho nhiệm vụ khẩn cấp?"
+    },
+    {
+      "num": 814,
+      "title": "Viện sĩ đắc cử ở cả hai viện"
+    },
+    {
+      "num": 815,
+      "title": "Ánh sáng của tuổi trẻ"
+    },
+    {
+      "num": 816,
+      "title": "Việc lớn cần làm trước khi rời chức"
+    },
+    {
+      "num": 817,
+      "title": "Đặc sản địa phương"
+    },
+    {
+      "num": 818,
+      "title": "Còn ai có thể ngăn cản bọn họ nữa?"
+    },
+    {
+      "num": 819,
+      "title": "Máy phóng vật chất trên Mặt Trăng"
+    },
+    {
+      "num": 820,
+      "title": "Tôi muốn học toán với thầy!"
+    },
+    {
+      "num": 821,
+      "title": "Bài thi một câu hỏi"
+    },
+    {
+      "num": 822,
+      "title": "Lá thư từ IMU"
+    },
+    {
+      "num": 823,
+      "title": "Những người bạn phương xa"
+    },
+    {
+      "num": 824,
+      "title": "Thế giới này đúng là nhỏ thật"
+    },
+    {
+      "num": 825,
+      "title": "Xu hướng mới ở CERN"
+    },
+    {
+      "num": 826,
+      "title": "Đẹp trai thì cần gì phải phiền não vì chuyện này?"
+    },
+    {
+      "num": 827,
+      "title": "Muốn đổi xe mới không?"
+    },
+    {
+      "num": 828,
+      "title": "Nhiệm vụ có thể hoàn thành ngay cả khi chẳng cần động tay"
+    },
+    {
+      "num": 829,
+      "title": "Ra đề ngay tại chỗ"
+    },
+    {
+      "num": 830,
+      "title": "Manh mối của giả thuyết Riemann"
+    },
+    {
+      "num": 831,
+      "title": "Giáo sư Lục sắp ra tay rồi sao?"
+    },
+    {
+      "num": 832,
+      "title": "Chuyến thăm của phái đoàn đến từ phương Bắc"
+    },
+    {
+      "num": 833,
+      "title": "Thương mại hóa và mở rộng quy mô"
+    },
+    {
+      "num": 834,
+      "title": "Bữa tiệc trong buổi gặp mặt ngoại giao"
+    },
+    {
+      "num": 835,
+      "title": "Nhất định anh ấy sẽ đến!"
+    },
+    {
+      "num": 836,
+      "title": "Phương pháp tiếp cận từ biên!"
+    },
+    {
+      "num": 837,
+      "title": "Giả thuyết gần Riemann!"
+    },
+    {
+      "num": 838,
+      "title": "Không dây vào nổi, không dây vào nổi"
+    },
+    {
+      "num": 839,
+      "title": "Chiếc xe này đúng là êm thật"
+    },
+    {
+      "num": 840,
+      "title": "Có tranh cãi?"
+    },
+    {
+      "num": 841,
+      "title": "Bất đồng"
+    },
+    {
+      "num": 842,
+      "title": "Định Cư Lâu Dài Trên Mặt Trăng!"
+    },
+    {
+      "num": 843,
+      "title": "Thẻ nhiệm vụ vàng?"
+    },
+    {
+      "num": 844,
+      "title": "Thời hạn ba năm!"
+    },
+    {
+      "num": 845,
+      "title": "Máy tính lượng tử?!"
+    },
+    {
+      "num": 846,
+      "title": "Tiểu Ái nâng cấp!"
+    },
+    {
+      "num": 847,
+      "title": "Rực rỡ chẳng kém gì kim cương"
+    },
+    {
+      "num": 848,
+      "title": "Chìa khóa thứ hai mở ra tương lai"
+    },
+    {
+      "num": 849,
+      "title": "Ha, học kém!"
+    },
+    {
+      "num": 850,
+      "title": "Sức nặng của một bức thư"
+    },
+    {
+      "num": 851,
+      "title": "Lần đầu tiên trong đời bị từ chối đăng bài"
+    },
+    {
+      "num": 852,
+      "title": "Vậy thì cứ “thuyết phục” bọn họ!"
+    },
+    {
+      "num": 853,
+      "title": "Đối đầu trực diện?"
+    },
+    {
+      "num": 854,
+      "title": "Hãy để cơn bão đến dữ dội hơn nữa"
+    },
+    {
+      "num": 855,
+      "title": "Một cơn bão khác"
+    },
+    {
+      "num": 856,
+      "title": "Làm lớn chiếc bánh rồi mới chia phần"
+    },
+    {
+      "num": 857,
+      "title": "Giới toán học dậy sóng"
+    },
+    {
+      "num": 858,
+      "title": "Quyết chiến trên đỉnh Kim Lăng?"
+    },
+    {
+      "num": 859,
+      "title": "Tôi có câu hỏi!"
+    },
+    {
+      "num": 860,
+      "title": "Đối đầu!"
+    },
+    {
+      "num": 861,
+      "title": "Mọi chuyện đã ngã ngũ"
+    },
+    {
+      "num": 862,
+      "title": "Chúng ta thắng rồi!"
+    },
+    {
+      "num": 863,
+      "title": "Cuốc chim đào vàng"
+    },
+    {
+      "num": 864,
+      "title": "Tác dụng kỳ diệu của thuốc tăng cường thể lực"
+    },
+    {
+      "num": 865,
+      "title": "Tuổi trẻ thật tốt"
+    },
+    {
+      "num": 866,
+      "title": "Ghi chép của giáo sư Faltings"
+    },
+    {
+      "num": 867,
+      "title": "Bí ẩn đằng sau thế giới lượng tử"
+    },
+    {
+      "num": 868,
+      "title": "Ông lớn trong giới công nghiệp"
+    },
+    {
+      "num": 869,
+      "title": "Tôi muốn Hải Tư"
+    },
+    {
+      "num": 870,
+      "title": "Giờ thì có rồi"
+    },
+    {
+      "num": 871,
+      "title": "Anh ấy vẫn sống tốt chứ?"
+    },
+    {
+      "num": 872,
+      "title": "Bắt tay hợp tác"
+    },
+    {
+      "num": 873,
+      "title": "Bám lấy đùi lớn"
+    },
+    {
+      "num": 874,
+      "title": "Lỗ Tấn từng nói"
+    },
+    {
+      "num": 875,
+      "title": "Giải quyết trong vòng 1 giờ"
+    },
+    {
+      "num": 876,
+      "title": "Trưởng Thành"
+    },
+    {
+      "num": 877,
+      "title": "Lắp lò sưởi"
+    },
+    {
+      "num": 878,
+      "title": "Xuất bản số đặc biệt"
+    },
+    {
+      "num": 879,
+      "title": "Sóng gió trong phòng thi"
+    },
+    {
+      "num": 880,
+      "title": "Là một người gan lì"
+    },
+    {
+      "num": 881,
+      "title": "Ngày đầu năm 2022"
+    },
+    {
+      "num": 882,
+      "title": "Trải nghiệm có một ông anh cực kỳ giỏi là như thế nào?"
+    },
+    {
+      "num": 883,
+      "title": "Tôi muốn tất cả"
+    },
+    {
+      "num": 884,
+      "title": "Thánh địa của ngành công nghiệp hàng không vũ trụ"
+    },
+    {
+      "num": 885,
+      "title": "Không thông qua!"
+    },
+    {
+      "num": 886,
+      "title": "Đứng Hai Bên Đường Chào Đón"
+    },
+    {
+      "num": 887,
+      "title": "Gặp lại người quen nơi đất khách"
+    },
+    {
+      "num": 888,
+      "title": "Tôi chắc cũng chiếm một nửa đấy"
+    },
+    {
+      "num": 889,
+      "title": "Còn nhiều chuyện không ai ngờ tới"
+    },
+    {
+      "num": 890,
+      "title": "Hóa ra tôi lại ghê gớm đến thế sao?"
+    },
+    {
+      "num": 891,
+      "title": "Trở về quê nhà"
+    },
+    {
+      "num": 892,
+      "title": "Mời cô đến học tiến sĩ"
+    },
+    {
+      "num": 893,
+      "title": "Mô hình Lu-Bewley"
+    },
+    {
+      "num": 894,
+      "title": "Cây muốn lặng mà gió chẳng ngừng (2/4)"
+    },
+    {
+      "num": 895,
+      "title": "Giàu nơi thâm sơn, tiếng lành vẫn vang xa"
+    },
+    {
+      "num": 896,
+      "title": "Tuyết ở Princeton (4/4)"
+    },
+    {
+      "num": 897,
+      "title": "Tình trạng của Vera (1/4)"
+    },
+    {
+      "num": 898,
+      "title": "Có nên nhấn F không? (2/4)"
+    },
+    {
+      "num": 899,
+      "title": "Cuộc viếng thăm ngoài dự liệu (3/4)"
+    },
+    {
+      "num": 900,
+      "title": "Thành phố thông minh? (4/4)"
+    },
+    {
+      "num": 901,
+      "title": "Đến Bắc Kinh dự hội nghị (1/4)"
+    },
+    {
+      "num": 902,
+      "title": "Nửa thứ ba rưỡi (2/4)"
+    },
+    {
+      "num": 903,
+      "title": "Trung tâm Toán học trong khu tứ hợp viện"
+    },
+    {
+      "num": 904,
+      "title": "Rốt cuộc anh là ai?! (4/4)"
+    },
+    {
+      "num": 905,
+      "title": "Đại lão! Tôi là fan của anh đấy! (1/4)"
+    },
+    {
+      "num": 906,
+      "title": "Trực tiếp đào người, chí mạng nhất! (2/4)"
+    },
+    {
+      "num": 907,
+      "title": "Nhặt được báu vật rồi! (3/4)"
+    },
+    {
+      "num": 908,
+      "title": "Một sự kiện lớn của giới vật lý và hàng không vũ trụ!"
+    },
+    {
+      "num": 909,
+      "title": "Chứng kiến sự thịnh vượng chung của chúng ta! (1/4)"
+    },
+    {
+      "num": 910,
+      "title": "Một chương mới của vật lý! (2/4)"
+    },
+    {
+      "num": 911,
+      "title": "Nhất định ông ấy sẽ đến! (3/4)"
+    },
+    {
+      "num": 912,
+      "title": "Gánh đùi trong mắt người khác (4/4)"
+    },
+    {
+      "num": 913,
+      "title": "Có người vui, có người lo (1/4)"
+    },
+    {
+      "num": 914,
+      "title": "Lỗ hổng 0 (2/4)"
+    },
+    {
+      "num": 915,
+      "title": "Chim Ưng Săn Mồi (3/4)"
+    },
+    {
+      "num": 916,
+      "title": "Bạn bị treo ảnh rồi (4/4)"
+    },
+    {
+      "num": 917,
+      "title": "Tôi sẽ không tha cho bọn chúng! (1/4)"
+    },
+    {
+      "num": 918,
+      "title": "Tiểu Ái, giao cho cô đấy (2/4)"
+    },
+    {
+      "num": 919,
+      "title": "Tiến sĩ Z tái xuất giang hồ (3/4)"
+    },
+    {
+      "num": 920,
+      "title": "Đúng là cao thủ! (4/4)"
+    },
+    {
+      "num": 921,
+      "title": "BOSS sa lưới! Giới hacker chấn động! (1/4)"
+    },
+    {
+      "num": 922,
+      "title": "Thân phận của Tiến sĩ Z! (2/4)"
+    },
+    {
+      "num": 923,
+      "title": "Thảo nào có nhiều người muốn làm học bá đến thế (3/4)"
+    },
+    {
+      "num": 924,
+      "title": "Cân nhắc (4/4)"
+    },
+    {
+      "num": 925,
+      "title": "Đúng là tức chết mà! (1/4)"
+    },
+    {
+      "num": 926,
+      "title": "Chip nền carbon ra đời! (2/4)"
+    },
+    {
+      "num": 927,
+      "title": "Với tư cách một học giả có nguyên tắc (3/4)"
+    },
+    {
+      "num": 928,
+      "title": "Nếu không phải ma thì chính là quỷ (4/4)"
+    },
+    {
+      "num": 929,
+      "title": "Bài toán phân loại đa tạp (1/4)"
+    },
+    {
+      "num": 930,
+      "title": "Giả thuyết Sullivan (2/4)"
+    },
+    {
+      "num": 931,
+      "title": "Chúng ta đã quyết định rồi, chức Chủ tịch hội đồng quản trị này sẽ do cậu đảm nhiệm…"
+    },
+    {
+      "num": 932,
+      "title": "Đề nghị chỉnh sửa! (4/4)"
+    },
+    {
+      "num": 933,
+      "title": "Đi đường vòng lại thành công? (1/4)"
+    },
+    {
+      "num": 934,
+      "title": "Đến Thượng Hải (2/4)"
+    },
+    {
+      "num": 935,
+      "title": "Tình cờ gặp mặt (3/4)"
+    },
+    {
+      "num": 936,
+      "title": "“Hiếu khách nhiệt tình” của Princeton (4/4)"
+    },
+    {
+      "num": 937,
+      "title": "Uống rượu không? Tôi mời"
+    },
+    {
+      "num": 938,
+      "title": "Nghi thức khánh thành!"
+    },
+    {
+      "num": 939,
+      "title": "Đúng là thơm thật! (1/4)"
+    },
+    {
+      "num": 940,
+      "title": "Tấm áp phích sáng tạo nhất (2/4)"
+    },
+    {
+      "num": 941,
+      "title": "Không có lấy một người đủ sức đối đầu sao? (3/4)"
+    },
+    {
+      "num": 942,
+      "title": "Vốn dĩ cũng chỉ mất của tôi 1 tiếng đồng hồ (4/4)"
+    },
+    {
+      "num": 943,
+      "title": "Hoàn thành nốt công việc còn dang dở (1/4)"
+    },
+    {
+      "num": 944,
+      "title": "Lần này không chỉ mất một tiếng đồng hồ đâu! (2/4)"
+    },
+    {
+      "num": 945,
+      "title": "Đức hạnh (3/4)"
+    },
+    {
+      "num": 946,
+      "title": "Trận báo cáo xuất sắc nhất năm (4/4)"
+    },
+    {
+      "num": 947,
+      "title": "Giới kinh tế học chấn động!"
+    },
+    {
+      "num": 948,
+      "title": "Hội nghị Thượng đỉnh Đổi mới Công nghệ Cao và Đầu tư Toàn châu Á"
+    },
+    {
+      "num": 949,
+      "title": "Anh là một đối thủ đáng kính (1/4)"
+    },
+    {
+      "num": 950,
+      "title": "Khát vọng của Musk (2/4)"
+    },
+    {
+      "num": 951,
+      "title": "Buổi giới thiệu dự án (3/4)"
+    },
+    {
+      "num": 952,
+      "title": "Tôi đầu tư! (4/4)"
+    },
+    {
+      "num": 953,
+      "title": "Gã này xấu tính lắm!"
+    },
+    {
+      "num": 954,
+      "title": "Ai nắm giữ điện năng, người đó nắm giữ tương lai!"
+    },
+    {
+      "num": 955,
+      "title": "Chỉ giơ một tay mà đã tạo ra hơn chục tỷ?"
+    },
+    {
+      "num": 956,
+      "title": "Đợi đến khi cậu giành được huy chương vàng rồi hẵng khoác lác với tôi!"
+    },
+    {
+      "num": 957,
+      "title": "Đáng đời ngươi phải sống cả đời với toán học!"
+    },
+    {
+      "num": 958,
+      "title": "Màng trao đổi phân tử nền silicon xốp"
+    },
+    {
+      "num": 959,
+      "title": "Manh mối trên tàn tích số 1!"
+    },
+    {
+      "num": 960,
+      "title": "Toàn bộ đổi thành carbon!"
+    },
+    {
+      "num": 961,
+      "title": "Cuối cùng cũng có đất dụng võ!"
+    },
+    {
+      "num": 962,
+      "title": "Người vận chuyển oxy"
+    },
+    {
+      "num": 963,
+      "title": "Có việc muốn nhờ"
+    },
+    {
+      "num": 964,
+      "title": "Long Đằng 1"
+    },
+    {
+      "num": 965,
+      "title": "Bày một ván cờ lớn"
+    },
+    {
+      "num": 966,
+      "title": "Viết đại cho xong"
+    },
+    {
+      "num": 967,
+      "title": "Duyệt cho hắn!"
+    },
+    {
+      "num": 968,
+      "title": "Lựa chọn"
+    },
+    {
+      "num": 969,
+      "title": "Thật sự quá đáng sợ!"
+    },
+    {
+      "num": 970,
+      "title": "Công lao thuộc về ai, trong lòng chúng ta đều biết rõ"
+    },
+    {
+      "num": 971,
+      "title": "Dù sao cũng không thể chẳng giúp được chút gì (1/5)"
+    },
+    {
+      "num": 972,
+      "title": "Giáo sư Stanley cuối cùng cũng gặp thời (2/5)"
+    },
+    {
+      "num": 973,
+      "title": "Sản xuất thứ còn xịn hơn cả pin lithium-lưu huỳnh (3/5…)"
+    },
+    {
+      "num": 974,
+      "title": "Mối quan hệ đáng sợ (4/5)"
+    },
+    {
+      "num": 975,
+      "title": "Người đặt ra tiêu chuẩn (5/5)"
+    },
+    {
+      "num": 976,
+      "title": "Không phải người một nhà thì chẳng vào cùng một cửa (1/4)"
+    },
+    {
+      "num": 977,
+      "title": "Sản phẩm chính thức ra mắt! (2/4)"
+    },
+    {
+      "num": 978,
+      "title": "Quân dự phòng và con át chủ bài (3/4)"
+    },
+    {
+      "num": 979,
+      "title": "Thỏa thuận độc quyền (4/4)"
+    },
+    {
+      "num": 980,
+      "title": "Công ty các ông có vẻ gặp rắc rối rồi"
+    },
+    {
+      "num": 981,
+      "title": "Chúng ta có thể xào bài liên tiếp hai lần"
+    },
+    {
+      "num": 982,
+      "title": "Đây là một câu chuyện về kẻ hai lòng"
+    },
+    {
+      "num": 983,
+      "title": "Tôi muốn gặp Tổng thống!"
+    },
+    {
+      "num": 984,
+      "title": "Bọn họ chết chắc rồi!"
+    },
+    {
+      "num": 985,
+      "title": "Luật lệ được đặt ra là để giành chiến thắng"
+    },
+    {
+      "num": 986,
+      "title": "Bắt đầu rồi!"
+    },
+    {
+      "num": 987,
+      "title": "Thứ Năm Đen Tối!"
+    },
+    {
+      "num": 988,
+      "title": "Chùn bước (1/4)"
+    },
+    {
+      "num": 989,
+      "title": "Rút đơn kiện (2/4)"
+    },
+    {
+      "num": 990,
+      "title": "Dùng pin lithium-không khí! (3/4)"
+    },
+    {
+      "num": 991,
+      "title": "Thành danh sau một trận chiến!"
+    },
+    {
+      "num": 992,
+      "title": "Nhưng tôi từ chối!"
+    },
+    {
+      "num": 993,
+      "title": "Văn hóa hải tặc"
+    },
+    {
+      "num": 994,
+      "title": "Người thành phố đúng là lắm mánh khóe"
+    },
+    {
+      "num": 995,
+      "title": "Đơn vị không quân vũ trụ?"
+    },
+    {
+      "num": 996,
+      "title": "Nỗi phiền muộn của Archimedes"
+    },
+    {
+      "num": 997,
+      "title": "Thép là dấu chân của chúng ta"
+    },
+    {
+      "num": 998,
+      "title": "Chúng ta làm được!"
+    },
+    {
+      "num": 999,
+      "title": "Tạm thời tránh mũi nhọn"
+    },
+    {
+      "num": 1000,
+      "title": "Quốc Sĩ Vô Song"
+    },
+    {
+      "num": 1001,
+      "title": "Sợ em đi lầm đường lạc lối"
+    },
+    {
+      "num": 1002,
+      "title": "Điều gì đến rồi cũng sẽ đến"
+    },
+    {
+      "num": 1003,
+      "title": "Bức màn sắt đang buông xuống"
+    },
+    {
+      "num": 1004,
+      "title": "Bị chiếm lợi thế rồi sao?"
+    },
+    {
+      "num": 1005,
+      "title": "Một người bạn cũ ít khi lộ diện"
+    },
+    {
+      "num": 1006,
+      "title": "Tiểu thuyết còn nổi tiếng hơn cả học vấn"
+    },
+    {
+      "num": 1007,
+      "title": "Dự đoán tương lai?"
+    },
+    {
+      "num": 1008,
+      "title": "Bầu không khí bỗng trở nên đầy tính triết học"
+    },
+    {
+      "num": 1009,
+      "title": "Kế hoạch vĩ đại?"
+    },
+    {
+      "num": 1010,
+      "title": "Helios"
+    },
+    {
+      "num": 1011,
+      "title": "Không đốt cháy được?"
+    },
+    {
+      "num": 1012,
+      "title": "Cơ chế bảo vệ chủ động"
+    },
+    {
+      "num": 1013,
+      "title": "Thật sự bị hắn đoán trúng rồi sao? (1/3)"
+    },
+    {
+      "num": 1014,
+      "title": "Cố ý giết người? (2/3)"
+    },
+    {
+      "num": 1015,
+      "title": "Mở khóa thành tựu ẩn! (3/3)"
+    },
+    {
+      "num": 1016,
+      "title": "Thầy giỏi ắt trò tài (1/3)"
+    },
+    {
+      "num": 1017,
+      "title": "Đằng sau chuyện này e rằng có một vụ giao dịch ngầm không thể để người khác biết (II…"
+    },
+    {
+      "num": 1018,
+      "title": "Giáo sư Lục mất tập trung (3/3)"
+    },
+    {
+      "num": 1019,
+      "title": "Ký ức đến từ hư không"
+    },
+    {
+      "num": 1020,
+      "title": "Máu"
+    },
+    {
+      "num": 1021,
+      "title": "Giai đoạn cuối"
+    },
+    {
+      "num": 1022,
+      "title": "Tôi sẽ tìm cách"
+    },
+    {
+      "num": 1023,
+      "title": "Giải đáp câu hỏi của thế kỷ"
+    },
+    {
+      "num": 1024,
+      "title": "Hội nghị IMU lắm chuyện chẳng lành"
+    },
+    {
+      "num": 1025,
+      "title": "Toán học, LV9!"
+    },
+    {
+      "num": 1026,
+      "title": "Chỉ sơ ý một chút đã chứng kiến lịch sử"
+    },
+    {
+      "num": 1027,
+      "title": "Vinh quang của trí tuệ nhân loại"
+    },
+    {
+      "num": 1028,
+      "title": "Chỉ cần 60 phút"
+    },
+    {
+      "num": 1029,
+      "title": "Tựa Như Đến Từ Hư Không"
+    },
+    {
+      "num": 1030,
+      "title": "Tương lai của số học"
+    },
+    {
+      "num": 1031,
+      "title": "Ly sâm panh mừng chiến thắng"
+    },
+    {
+      "num": 1032,
+      "title": "Khép lại đại hội!"
+    },
+    {
+      "num": 1033,
+      "title": "Sao anh biết chắc anh ta nhất định là người của các anh?"
+    },
+    {
+      "num": 1034,
+      "title": "Tôi Có Cách Chữa Khỏi Bệnh Cho Em"
+    },
+    {
+      "num": 1035,
+      "title": "Xét trên thang thời gian, mọi vấn đề đều có lời giải"
+    },
+    {
+      "num": 1036,
+      "title": "Cỗ Máy Thời Gian"
+    },
+    {
+      "num": 1037,
+      "title": "Quỹ bảo đảm quyền lợi điều trị đông lạnh cho bệnh nhân mắc bệnh nan y"
+    },
+    {
+      "num": 1038,
+      "title": "Khởi đầu của một thời đại mới?"
+    },
+    {
+      "num": 1039,
+      "title": "Dự đoán cũng là một phần của phân tích"
+    },
+    {
+      "num": 1040,
+      "title": "Cuộc trò chuyện bên bờ sông"
+    },
+    {
+      "num": 1041,
+      "title": "Chuyện sau này, chẳng ai nói trước được"
+    },
+    {
+      "num": 1042,
+      "title": "Nhiệm vụ truyền thuyết!"
+    },
+    {
+      "num": 1043,
+      "title": "Đàn em tương lai của các cậu"
+    },
+    {
+      "num": 1044,
+      "title": "Tin vui từ phòng thí nghiệm chip carbon"
+    },
+    {
+      "num": 1045,
+      "title": "10 triệu bóng bán dẫn trên mỗi milimét vuông!"
+    },
+    {
+      "num": 1046,
+      "title": "Hội nghị hàng đầu của IEEE"
+    },
+    {
+      "num": 1047,
+      "title": "Dự án của viện sĩ Lục"
+    },
+    {
+      "num": 1048,
+      "title": "Công nghệ làm đảo lộn cả ngành công nghiệp"
+    },
+    {
+      "num": 1049,
+      "title": "Cứ gọi là “Tương Lai” đi"
+    },
+    {
+      "num": 1050,
+      "title": "Sư tử hay thợ săn"
+    },
+    {
+      "num": 1051,
+      "title": "Tương Lai (Future)！"
+    },
+    {
+      "num": 1052,
+      "title": "Đãi ngộ chưa từng có trong lịch sử"
+    },
+    {
+      "num": 1053,
+      "title": "Buổi ra mắt sản phẩm"
+    },
+    {
+      "num": 1054,
+      "title": "Viết lại luật chơi!"
+    },
+    {
+      "num": 1055,
+      "title": "Trình diễn thực tế"
+    },
+    {
+      "num": 1056,
+      "title": "IEEE gặp vận đen"
+    },
+    {
+      "num": 1057,
+      "title": "Mở khóa thành tựu mới"
+    },
+    {
+      "num": 1058,
+      "title": "Cậu tưởng tôi là Doraemon chắc?"
+    },
+    {
+      "num": 1059,
+      "title": "Long Đằng của chúng ta"
+    },
+    {
+      "num": 1060,
+      "title": "Fan hâm mộ đích thực"
+    },
+    {
+      "num": 1061,
+      "title": "Xe nhỏ, xe lớn và máy gia tốc hạt"
+    },
+    {
+      "num": 1062,
+      "title": "Công nghệ trị giá 15.000 điểm"
+    },
+    {
+      "num": 1063,
+      "title": "Tiến sĩ Z lại ra tay!"
+    },
+    {
+      "num": 1064,
+      "title": "Tất cả đều là vì khoa học!"
+    },
+    {
+      "num": 1065,
+      "title": "Đã đến lúc chứng kiến phép màu!"
+    },
+    {
+      "num": 1066,
+      "title": "Một thế giới sống động!"
+    },
+    {
+      "num": 1067,
+      "title": "Lại bị người ta nhắm tới?"
+    },
+    {
+      "num": 1068,
+      "title": "Nghe nói anh đang tìm tôi"
+    },
+    {
+      "num": 1069,
+      "title": "Những mảnh ghép tạo nên thế giới"
+    },
+    {
+      "num": 1070,
+      "title": "Không ngờ lại là anh?!"
+    },
+    {
+      "num": 1071,
+      "title": "Vị khách hàng đầu tiên"
+    },
+    {
+      "num": 1072,
+      "title": "Một trung đoàn có đủ không?"
+    },
+    {
+      "num": 1073,
+      "title": "Nghiên cứu khoa học cũng giống như khuân gạch"
+    },
+    {
+      "num": 1074,
+      "title": "Lần thử nghiệm kín đầu tiên của hệ thống thực tế ảo"
+    },
+    {
+      "num": 1075,
+      "title": "Trận chiến tại hành tinh Trí Viễn Tinh!"
+    },
+    {
+      "num": 1076,
+      "title": "Đây là kiểu huấn luyện quái quỷ gì vậy?"
+    },
+    {
+      "num": 1077,
+      "title": "Màn Phát Lại Gây Chấn Động"
+    },
+    {
+      "num": 1078,
+      "title": "Lại một phen sóng gió đẫm máu"
+    },
+    {
+      "num": 1079,
+      "title": "Sao Lại Là Cái Thứ Đáng Ghét Này Nữa?!"
+    },
+    {
+      "num": 1080,
+      "title": "Có công nghệ này rồi, vậy mà cậu lại dùng nó để đi du lịch vòng quanh thế giới?"
+    },
+    {
+      "num": 1081,
+      "title": "Ý nghĩa"
+    },
+    {
+      "num": 1082,
+      "title": "Không phải ai cũng có tư cách hợp tác"
+    },
+    {
+      "num": 1083,
+      "title": "Phóng viên có mặt khắp mọi nơi"
+    },
+    {
+      "num": 1084,
+      "title": "Điện toán đám mây và mạng thực tế ảo"
+    },
+    {
+      "num": 1085,
+      "title": "Người mới đều là quái vật"
+    },
+    {
+      "num": 1086,
+      "title": "Lý thuyết Motive"
+    },
+    {
+      "num": 1087,
+      "title": "Khi cảm hứng đến, ai cũng như nhau"
+    },
+    {
+      "num": 1088,
+      "title": "Tương Lai Đáng Mong Đợi"
+    },
+    {
+      "num": 1089,
+      "title": "Ý tưởng điên rồ"
+    },
+    {
+      "num": 1090,
+      "title": "Hệ thống “Huyễn Ảnh”"
+    },
+    {
+      "num": 1091,
+      "title": "Mùa đông khắc nghiệt đã tràn đến Thung lũng Silicon"
+    },
+    {
+      "num": 1092,
+      "title": "Perelman ghé thăm"
+    },
+    {
+      "num": 1093,
+      "title": "Nghèo khó chỉ là một trong những nguyên nhân"
+    },
+    {
+      "num": 1094,
+      "title": "Mặt trời mọc đằng tây"
+    },
+    {
+      "num": 1095,
+      "title": "Cái bắt tay của hai người khổng lồ"
+    },
+    {
+      "num": 1096,
+      "title": "Sở thích quái đản của Ngải Mỗ Nhân"
+    },
+    {
+      "num": 1097,
+      "title": "Đánh giá của người chơi"
+    },
+    {
+      "num": 1098,
+      "title": "Cao thủ cấp Phi Thưởng, quả nhiên đáng sợ đến thế!"
+    },
+    {
+      "num": 1099,
+      "title": "Phong cách có gì đó không ổn"
+    },
+    {
+      "num": 1100,
+      "title": "Chúng ta có thể trả tiền trước"
+    },
+    {
+      "num": 1101,
+      "title": "Vòng xoáy dư luận"
+    },
+    {
+      "num": 1102,
+      "title": "Không oan uổng một người tốt, cũng không bỏ lọt một kẻ xấu…"
+    },
+    {
+      "num": 1103,
+      "title": "Thích dùng thì dùng"
+    },
+    {
+      "num": 1104,
+      "title": "Kiếm tiền một cách đường hoàng"
+    },
+    {
+      "num": 1105,
+      "title": "Cần một bộ óc xuất chúng"
+    },
+    {
+      "num": 1106,
+      "title": "Phương pháp cũ sẽ được thống nhất"
+    },
+    {
+      "num": 1107,
+      "title": "Sân khấu cuối cùng"
+    },
+    {
+      "num": 1108,
+      "title": "Bức thư chỉ có 6 chữ cái"
+    },
+    {
+      "num": 1109,
+      "title": "Vũ trụ là hoàn mỹ"
+    },
+    {
+      "num": 1110,
+      "title": "Tin tức được tung ra"
+    },
+    {
+      "num": 1111,
+      "title": "Toán học, LV10!"
+    },
+    {
+      "num": 1112,
+      "title": "Bản tin chen ngang"
+    },
+    {
+      "num": 1113,
+      "title": "“Hội nghị thẩm định”"
+    },
+    {
+      "num": 1114,
+      "title": "Thế giới trong mắt thần linh"
+    },
+    {
+      "num": 1115,
+      "title": "Ta sẽ chứng minh ngay tại đây"
+    },
+    {
+      "num": 1116,
+      "title": "Đây còn là con người sao?"
+    },
+    {
+      "num": 1117,
+      "title": "Đỉnh cao trí tuệ của nhân loại!"
+    },
+    {
+      "num": 1118,
+      "title": "Truyền thừa"
+    },
+    {
+      "num": 1119,
+      "title": "Nghị quyết của Liên minh Toán học Quốc tế"
+    },
+    {
+      "num": 1120,
+      "title": "Ký Ức Thứ Hai"
+    },
+    {
+      "num": 1121,
+      "title": "Thế giới hình vành khuyên"
+    },
+    {
+      "num": 1122,
+      "title": "“Hộp đen”"
+    },
+    {
+      "num": 1123,
+      "title": "Đây là chuyện con người có thể làm được sao?"
+    },
+    {
+      "num": 1124,
+      "title": "Chuyên gia đẩy việc cho người khác"
+    },
+    {
+      "num": 1125,
+      "title": "Ý tưởng mới cho giả thuyết Hodge"
+    },
+    {
+      "num": 1126,
+      "title": "Tóc đã đến lúc rụng thì vẫn phải rụng"
+    },
+    {
+      "num": 1127,
+      "title": "Biến động lớn hơn đang âm thầm hình thành trong giới vật lý"
+    },
+    {
+      "num": 1128,
+      "title": "Máy gia tốc hạt hoàn thành! (1/3)"
+    },
+    {
+      "num": 1129,
+      "title": "Pháo đài trên Mặt Trăng (2/3)"
+    },
+    {
+      "num": 1130,
+      "title": "Cú va chạm ở mức năng lượng 0 vạn tỷ electron-volt! (3/3)"
+    },
+    {
+      "num": 1131,
+      "title": "Cuộc họp tan rã trong bất hòa"
+    },
+    {
+      "num": 1132,
+      "title": "Lời phản đối từ Phòng thí nghiệm Quốc gia Brookhaven"
+    },
+    {
+      "num": 1133,
+      "title": "Tạm thời giữ bí mật (1/3)"
+    },
+    {
+      "num": 1134,
+      "title": "Được người có quyền thế để mắt tới đúng là tốt (2/3)"
+    },
+    {
+      "num": 1135,
+      "title": "Phòng thí nghiệm Brookhaven rời khỏi nhóm chat (3/3)"
+    },
+    {
+      "num": 1136,
+      "title": "Trọng thưởng ắt có cao thủ"
+    },
+    {
+      "num": 1137,
+      "title": "Mô hình “Con lắc”"
+    },
+    {
+      "num": 1138,
+      "title": "Đồng bộ hoàn toàn"
+    },
+    {
+      "num": 1139,
+      "title": "Giọt Kỳ Dị"
+    },
+    {
+      "num": 1140,
+      "title": "“Thiên Tai”"
+    },
+    {
+      "num": 1141,
+      "title": "Làm chút gì đó vẫn tốt hơn chẳng làm gì"
+    },
+    {
+      "num": 1142,
+      "title": "Bí mật của siêu không gian"
+    },
+    {
+      "num": 1143,
+      "title": "Đón năm mới giữa bộn bề công việc"
+    },
+    {
+      "num": 1144,
+      "title": "Lý thuyết đi trước thời đại"
+    },
+    {
+      "num": 1145,
+      "title": "Pháo hoa đắt đỏ nhất lịch sử"
+    },
+    {
+      "num": 1146,
+      "title": "Thí nghiệm đã có kết quả!"
+    },
+    {
+      "num": 1147,
+      "title": "Hạt Z"
+    },
+    {
+      "num": 1148,
+      "title": "Vật lý của chúng ta còn vượt xa Mô hình Chuẩn"
+    },
+    {
+      "num": 1149,
+      "title": "Bí mật của vũ trụ chưa bao giờ gần đến thế"
+    },
+    {
+      "num": 1150,
+      "title": "Vinh dự không chút hồi hộp"
+    },
+    {
+      "num": 1151,
+      "title": "Vật lý, LV8！"
+    },
+    {
+      "num": 1152,
+      "title": "Có một chuyện tôi vẫn luôn giấu mọi người"
+    },
+    {
+      "num": 1153,
+      "title": "Đến Paris"
+    },
+    {
+      "num": 1154,
+      "title": "Ghi chép của Giáo sư Abel"
+    },
+    {
+      "num": 1155,
+      "title": "Manh mối ngoài dự liệu"
+    },
+    {
+      "num": 1156,
+      "title": "Nút thắt trong lòng"
+    },
+    {
+      "num": 1157,
+      "title": "Nơi chôn cất Giáo hoàng"
+    },
+    {
+      "num": 1158,
+      "title": "Toán học là ngôn ngữ chung của vũ trụ"
+    },
+    {
+      "num": 1159,
+      "title": "Trạm phát điện nhiệt hạch ở Cadarache"
+    },
+    {
+      "num": 1160,
+      "title": "Lễ trao giải của Viện Hàn lâm Pháp"
+    },
+    {
+      "num": 1161,
+      "title": "Đáp án trừu tượng"
+    },
+    {
+      "num": 1162,
+      "title": "Hư Không"
+    },
+    {
+      "num": 1163,
+      "title": "Ngày tàn của Đế quốc"
+    },
+    {
+      "num": 1164,
+      "title": "Bài toán đến từ hư không"
+    },
+    {
+      "num": 1165,
+      "title": "Phẫu thuật thẩm mỹ bằng ánh sáng?"
+    },
+    {
+      "num": 1166,
+      "title": "Tựa như nơi ấy từng thực sự tồn tại"
+    },
+    {
+      "num": 1167,
+      "title": "Sắp xếp lịch ra mắt"
+    },
+    {
+      "num": 1168,
+      "title": "Hẹn hò?"
+    },
+    {
+      "num": 1169,
+      "title": "Buổi ra mắt công nghệ thực tế ảo"
+    },
+    {
+      "num": 1170,
+      "title": "Bán chạy đến điên cuồng!"
+    },
+    {
+      "num": 1171,
+      "title": "Kết thúc bùng nổ!"
+    },
+    {
+      "num": 1172,
+      "title": "Điên rồ quá sức tưởng tượng!"
+    },
+    {
+      "num": 1173,
+      "title": "Bắc Mỹ chưa phát triển công nghệ VR, chúng ta nhất định phải nhập khẩu…"
+    },
+    {
+      "num": 1174,
+      "title": "Fermion Majorana và hiện tượng mất kết hợp của trạng thái vướng víu lượng tử"
+    },
+    {
+      "num": 1175,
+      "title": "Tôi đã làm xong rồi"
+    },
+    {
+      "num": 1176,
+      "title": "Tốc độ phi khoa học"
+    },
+    {
+      "num": 1177,
+      "title": "500 qubit!"
+    },
+    {
+      "num": 1178,
+      "title": "Mật mã học là sở trường của các nhà toán học"
+    },
+    {
+      "num": 1179,
+      "title": "Chim sợ cành cong"
+    },
+    {
+      "num": 1180,
+      "title": "Người buộc chuông phải là người tháo chuông"
+    },
+    {
+      "num": 1181,
+      "title": "Không còn nơi nào để trốn"
+    },
+    {
+      "num": 1182,
+      "title": "Cơn bão luôn ập đến bất ngờ"
+    },
+    {
+      "num": 1183,
+      "title": "Hai nghìn qubit cũng chẳng thành vấn đề…"
+    },
+    {
+      "num": 1184,
+      "title": "Pháo Mặt Trăng"
+    },
+    {
+      "num": 1185,
+      "title": "Bảo Mật Vô Điều Kiện"
+    },
+    {
+      "num": 1186,
+      "title": "Đây Là Hiểu Lầm Lớn Nhất Về Khoa Học"
+    },
+    {
+      "num": 1187,
+      "title": "Chỉ còn bước cuối cùng nữa thôi"
+    },
+    {
+      "num": 1188,
+      "title": "Khoang cộng hưởng ba chiều có cấu trúc đa mode (Chúc mọi người Trung thu vui vẻ~)"
+    },
+    {
+      "num": 1189,
+      "title": "Bàn tay lớn gửi bưu kiện, bàn tay nhỏ trao chìa khóa"
+    },
+    {
+      "num": 1190,
+      "title": "Gửi tin thành công!"
+    },
+    {
+      "num": 1191,
+      "title": "Có lẽ, dẫn trước khoảng hai thế hệ"
+    },
+    {
+      "num": 1192,
+      "title": "Ý đồ thật sự của kẻ say chẳng nằm ở rượu"
+    },
+    {
+      "num": 1193,
+      "title": "Ý đồ thực sự"
+    },
+    {
+      "num": 1194,
+      "title": "524 Qubit!"
+    },
+    {
+      "num": 1195,
+      "title": "Cuộc cách mạng thông tin！"
+    },
+    {
+      "num": 1196,
+      "title": "Siêu máy tính lượng tử Tinh Hải số 1"
+    },
+    {
+      "num": 1197,
+      "title": "Ngày tàn của tiền mã hóa"
+    },
+    {
+      "num": 1198,
+      "title": "Không thoát khỏi cảnh “thơm thật”"
+    },
+    {
+      "num": 1199,
+      "title": "Không có vấn đề gì mà một cốc nước nóng không giải quyết được"
+    },
+    {
+      "num": 1200,
+      "title": "Xây trung tâm siêu máy tính hay đang đào một mỏ vàng?"
+    },
+    {
+      "num": 1201,
+      "title": "Những việc cần làm tiếp theo"
+    },
+    {
+      "num": 1202,
+      "title": "Những gã khổng lồ năm xưa"
+    },
+    {
+      "num": 1203,
+      "title": "Công nghệ toàn ảnh ba chiều bằng mắt thường"
+    },
+    {
+      "num": 1204,
+      "title": "Trung Tâm Siêu Máy Tính Lượng Tử Tinh Hải Số 1 Hoàn Thành!"
+    },
+    {
+      "num": 1205,
+      "title": "Màn hình khởi động hoành tráng nhất lịch sử!"
+    },
+    {
+      "num": 1206,
+      "title": "Quyền bá chủ lượng tử"
+    },
+    {
+      "num": 1207,
+      "title": "Phát hiện bất thường"
+    },
+    {
+      "num": 1208,
+      "title": "Trực giác khoa học"
+    },
+    {
+      "num": 1209,
+      "title": "Nhiệm vụ khẩn cấp lần thứ hai"
+    },
+    {
+      "num": 1210,
+      "title": "Tiếng gọi từ hư không"
+    },
+    {
+      "num": 1211,
+      "title": "Tiếng đàn dây bên ngoài vũ trụ"
+    },
+    {
+      "num": 1212,
+      "title": "Thuyết sáng thế"
+    },
+    {
+      "num": 1213,
+      "title": "Đôi khi, khoa học không chỉ là một cách tư duy"
+    },
+    {
+      "num": 1214,
+      "title": "Vũ trụ hữu linh luận"
+    },
+    {
+      "num": 1215,
+      "title": "Niềm tin của vật lý học"
+    },
+    {
+      "num": 1216,
+      "title": "Dạy cho bọn họ một bài học"
+    },
+    {
+      "num": 1217,
+      "title": "Vạch trần sự tồn tại của hư không"
+    },
+    {
+      "num": 1218,
+      "title": "Sự sụp đổ của trạng thái chồng chập"
+    },
+    {
+      "num": 1219,
+      "title": "Khối lượng chưa bao giờ phình to, chẳng qua chỉ nằm trên những sợi dây vô hình…"
+    },
+    {
+      "num": 1220,
+      "title": "Một cú va chạm ở mức năng lượng 10 TeV"
+    },
+    {
+      "num": 1221,
+      "title": "Thế giới trong hư không và trên những dây phụ"
+    },
+    {
+      "num": 1222,
+      "title": "Huân chương Nhà thám hiểm Hư Không"
+    },
+    {
+      "num": 1223,
+      "title": "Dr-111"
+    },
+    {
+      "num": 1224,
+      "title": "Tiền đề của việc di dân quy mô lớn"
+    },
+    {
+      "num": 1225,
+      "title": "Vật chất cải tạo khí quyển?"
+    },
+    {
+      "num": 1226,
+      "title": "Công nghệ toàn ảnh, nhà nào mạnh nhất?"
+    },
+    {
+      "num": 1227,
+      "title": "Chậc, phụ nữ"
+    },
+    {
+      "num": 1228,
+      "title": "1000 tỷ yên?!"
+    },
+    {
+      "num": 1229,
+      "title": "Tìm Viện sĩ Lục ấy!"
+    },
+    {
+      "num": 1230,
+      "title": "Suýt chút nữa bị người ta làm thịt như heo béo"
+    },
+    {
+      "num": 1231,
+      "title": "Vậy tôi sẽ làm mẫu cho anh xem"
+    },
+    {
+      "num": 1232,
+      "title": "Công nghệ giải phóng trí tưởng tượng"
+    },
+    {
+      "num": 1233,
+      "title": "Biến giả thành thật"
+    },
+    {
+      "num": 1234,
+      "title": "Nỗi nhớ nơi phương xa"
+    },
+    {
+      "num": 1235,
+      "title": "Bị tung lên mạng rồi sao?"
+    },
+    {
+      "num": 1236,
+      "title": "Cảm giác khiến người ta không thể cưỡng lại"
+    },
+    {
+      "num": 1237,
+      "title": "Lương năm 5 triệu, có muốn đến làm việc tại Công nghệ Tinh Không không…"
+    },
+    {
+      "num": 1238,
+      "title": "Nhà máy không người"
+    },
+    {
+      "num": 1239,
+      "title": "Hình hài ban đầu của nền công nghiệp tương lai"
+    },
+    {
+      "num": 1240,
+      "title": "Máy bay không người lái nổi tiếng khắp mạng!"
+    },
+    {
+      "num": 1241,
+      "title": "Chọn diễn viên cho phim tài liệu"
+    },
+    {
+      "num": 1242,
+      "title": "30 giây gây chấn động"
+    },
+    {
+      "num": 1243,
+      "title": "Uống mấy món mà say đến mức này rồi?"
+    },
+    {
+      "num": 1244,
+      "title": "Vì một tương lai tươi đẹp, nâng ly!"
+    },
+    {
+      "num": 1245,
+      "title": "Chuyến hàng tốc hành từ quỹ đạo, sứ mệnh nhất định hoàn thành"
+    },
+    {
+      "num": 1246,
+      "title": "Đêm hội mừng"
+    },
+    {
+      "num": 1247,
+      "title": "Chúng Ta"
+    },
+    {
+      "num": 1248,
+      "title": "Buổi lễ kỷ niệm bùng nổ!"
+    },
+    {
+      "num": 1249,
+      "title": "Kết thúc hoàn hảo"
+    },
+    {
+      "num": 1250,
+      "title": "Phân đoạn cuối cùng"
+    },
+    {
+      "num": 1251,
+      "title": "Làm chủ Trái Đất và Mặt Trăng!"
+    },
+    {
+      "num": 1252,
+      "title": "Sáu tấn hàng, một phát lên quỹ đạo!"
+    },
+    {
+      "num": 1253,
+      "title": "Vật Lý LV9"
+    },
+    {
+      "num": 1254,
+      "title": "Một phát hiện vĩ đại?"
+    },
+    {
+      "num": 1255,
+      "title": "Đặc khu thành phố Quảng Hàn"
+    },
+    {
+      "num": 1256,
+      "title": "Súng cao su từ trường"
+    },
+    {
+      "num": 1257,
+      "title": "Có thể đưa em đi cùng được không?"
+    },
+    {
+      "num": 1258,
+      "title": "Kịch bản"
+    },
+    {
+      "num": 1259,
+      "title": "Cứ cảm thấy mình hơi thiệt thòi"
+    },
+    {
+      "num": 1260,
+      "title": "Trở lại chốn xưa"
+    },
+    {
+      "num": 1261,
+      "title": "Lại giành được giải Nobel!"
+    },
+    {
+      "num": 1262,
+      "title": "Cảm ơn anh vì tất cả những gì đã làm cho thế giới"
+    },
+    {
+      "num": 1263,
+      "title": "Nữ thần hồ sẽ ban phước cho bạn"
+    },
+    {
+      "num": 1264,
+      "title": "Thứ khó gọi thành tên"
+    },
+    {
+      "num": 1265,
+      "title": "Lên đường đến Copenhagen"
+    },
+    {
+      "num": 1266,
+      "title": "Phải thêm tiền"
+    },
+    {
+      "num": 1267,
+      "title": "Sóng biển có phần ồn ào"
+    },
+    {
+      "num": 1268,
+      "title": "Phẫu thuật ngoại khoa (1/4)"
+    },
+    {
+      "num": 1269,
+      "title": "Làm ảo thuật cho cô bé xem (2/4)"
+    },
+    {
+      "num": 1270,
+      "title": "Từ trên trời giáng xuống! (3/4)"
+    },
+    {
+      "num": 1271,
+      "title": "Dọn dẹp chiến trường (4/4)"
+    },
+    {
+      "num": 1272,
+      "title": "Manh mối khó tin"
+    },
+    {
+      "num": 1273,
+      "title": "Chiến dịch chấn động toàn cầu"
+    },
+    {
+      "num": 1274,
+      "title": "Cuộc viễn chinh tất yếu"
+    },
+    {
+      "num": 1275,
+      "title": "Thiên Mệnh"
+    },
+    {
+      "num": 1276,
+      "title": "Huy chương thứ ba"
+    },
+    {
+      "num": 1277,
+      "title": "Ngày lên đường"
+    },
+    {
+      "num": 1278,
+      "title": "Hành trình khiến cả thế giới dõi theo"
+    },
+    {
+      "num": 1279,
+      "title": "Nhìn cái đầu hói lưa thưa của tôi này"
+    },
+    {
+      "num": 1280,
+      "title": "Gợi mở"
+    },
+    {
+      "num": 1281,
+      "title": "Vũ khí mới?"
+    },
+    {
+      "num": 1282,
+      "title": "Không cần dùng đến thứ đó"
+    },
+    {
+      "num": 1283,
+      "title": "Chiến dịch Bồ Công Anh"
+    },
+    {
+      "num": 1284,
+      "title": "Cứ như đang chơi trò chơi điện tử vậy"
+    },
+    {
+      "num": 1285,
+      "title": "Thứ còn sót lại"
+    },
+    {
+      "num": 1286,
+      "title": "Công thức dao động hấp dẫn của hạt Z"
+    },
+    {
+      "num": 1287,
+      "title": "Cửa ải cuối cùng"
+    },
+    {
+      "num": 1288,
+      "title": "Kéo thẳng không-thời gian đang bị uốn cong"
+    },
+    {
+      "num": 1289,
+      "title": "Ảnh hưởng của hiệu ứng chuyển mức hạt Z đến độ cong không-thời gian"
+    },
+    {
+      "num": 1290,
+      "title": "Xem ra, cũng không phải là chuyện bất khả thi đến thế"
+    },
+    {
+      "num": 1291,
+      "title": "Ngươi đã thấy hắn đùa bao giờ chưa?"
+    },
+    {
+      "num": 1292,
+      "title": "Đưa một cặp photon tới đó"
+    },
+    {
+      "num": 1293,
+      "title": "Lãng phí thời gian là điều đáng xấu hổ"
+    },
+    {
+      "num": 1294,
+      "title": "Hoàn thành trước Tết Nguyên Đán!"
+    },
+    {
+      "num": 1295,
+      "title": "Trở Lại Sao Hỏa!"
+    },
+    {
+      "num": 1296,
+      "title": "Lời mời tham dự Hội nghị Vật lý Thế kỷ 0"
+    },
+    {
+      "num": 1297,
+      "title": "Quản lý tiền bạc là sở trường của em!"
+    },
+    {
+      "num": 1298,
+      "title": "Đồng hồ con lắc vào quỹ đạo"
+    },
+    {
+      "num": 1299,
+      "title": "207,1 giây!"
+    },
+    {
+      "num": 1300,
+      "title": "Thu hồi xác tàu"
+    },
+    {
+      "num": 1301,
+      "title": "Vật lý học LV10！"
+    },
+    {
+      "num": 1302,
+      "title": "Buổi họp báo náo nhiệt"
+    },
+    {
+      "num": 1303,
+      "title": "Chấn động toàn cầu!"
+    },
+    {
+      "num": 1304,
+      "title": "Bức điện chúc mừng gửi từ Bắc Kinh"
+    },
+    {
+      "num": 1305,
+      "title": "Bản vẽ khu định cư trên quỹ đạo"
+    },
+    {
+      "num": 1306,
+      "title": "Lộ trình trăm năm"
+    },
+    {
+      "num": 1307,
+      "title": "Đôi bên tâng bốc lẫn nhau"
+    },
+    {
+      "num": 1308,
+      "title": "Tôi Không Hứng Thú Với Giải Nobel"
+    },
+    {
+      "num": 1309,
+      "title": "Tôi muốn tặng em một ngôi sao"
+    },
+    {
+      "num": 1310,
+      "title": "Quỹ đầu tư thuộc địa ngoài hệ sao"
+    },
+    {
+      "num": 1311,
+      "title": "Tấm vé lên con tàu đến hành tinh ngoài hệ Mặt Trời?"
+    },
+    {
+      "num": 1312,
+      "title": "Người ngốc lắm tiền"
+    },
+    {
+      "num": 1313,
+      "title": "Ảnh hưởng không chỉ giới hạn trong vật lý"
+    },
+    {
+      "num": 1314,
+      "title": "Đoạn ký ức thứ ba"
+    },
+    {
+      "num": 1315,
+      "title": "Người được thần linh lựa chọn?"
+    },
+    {
+      "num": 1316,
+      "title": "2000 bài toán hóc búa của vật lý"
+    },
+    {
+      "num": 1317,
+      "title": "Hội nghị quyết định tương lai"
+    },
+    {
+      "num": 1318,
+      "title": "Không thể vượt qua vòng sơ tuyển?"
+    },
+    {
+      "num": 1319,
+      "title": "Bí ẩn về dấu vết tàn tích siêu tân tinh"
+    },
+    {
+      "num": 1320,
+      "title": "Một cuộc tranh cãi vẫn chưa có lời giải"
+    },
+    {
+      "num": 1321,
+      "title": "Thế mà vẫn còn nóng"
+    },
+    {
+      "num": 1322,
+      "title": "Đại hội long trọng khai mạc!"
+    },
+    {
+      "num": 1323,
+      "title": "Câu hỏi của thế kỷ!"
+    },
+    {
+      "num": 1324,
+      "title": "Tiền thưởng cao đến mức vượt cả sức tưởng tượng！"
+    },
+    {
+      "num": 1325,
+      "title": "Cuộc phỏng vấn của Tự Nhiên"
+    },
+    {
+      "num": 1326,
+      "title": "Điện mừng gửi đến từ các quốc gia trên thế giới!"
+    },
+    {
+      "num": 1327,
+      "title": "Tôi sẽ từ chức khỏi Hội đồng quản trị!"
+    },
+    {
+      "num": 1328,
+      "title": "Sống ung dung, thanh thản"
+    },
+    {
+      "num": 1329,
+      "title": "Một hòn đá ném xuống, mặt hồ chẳng gợn sóng"
+    },
+    {
+      "num": 1330,
+      "title": "Thành lập Ủy ban Cố vấn!"
+    },
+    {
+      "num": 1331,
+      "title": "Nhiệm vụ được thiết kế riêng cho anh"
+    },
+    {
+      "num": 1332,
+      "title": "Thịt Xương Của Nền Văn Minh"
+    },
+    {
+      "num": 1333,
+      "title": "Đồng thời phê duyệt dự án!"
+    },
+    {
+      "num": 1334,
+      "title": "Ba giây sao đủ"
+    },
+    {
+      "num": 1335,
+      "title": "Đúng là thần kỳ!"
+    },
+    {
+      "num": 1336,
+      "title": "Phương pháp phiếm hàm mật độ ẩn"
+    },
+    {
+      "num": 1337,
+      "title": "Siêu Sợi"
+    },
+    {
+      "num": 1338,
+      "title": "Mạnh đến đáng sợ!"
+    },
+    {
+      "num": 1339,
+      "title": "Càng hiểu biết nhiều, trí tưởng tượng càng trở nên nghèo nàn"
+    },
+    {
+      "num": 1340,
+      "title": "Tiến sâu vào địa ngục! (1/4)"
+    },
+    {
+      "num": 1341,
+      "title": "Những trăn trở của Liên minh các Hiệp hội Nghiên cứu Vật liệu Quốc tế"
+    },
+    {
+      "num": 1342,
+      "title": "Các người nên dành nhiều sự quan tâm hơn cho người trẻ"
+    },
+    {
+      "num": 1343,
+      "title": "Đích thân dẫn đầu! (4/4)"
+    },
+    {
+      "num": 1344,
+      "title": "Mở cửa khu sinh quyển!"
+    },
+    {
+      "num": 1345,
+      "title": "Kế hoạch đổ bộ sao Hỏa!"
+    },
+    {
+      "num": 1346,
+      "title": "Hệ thống thuộc địa hành tinh xa (1/3)"
+    },
+    {
+      "num": 1347,
+      "title": "Cơ hội sẽ không phải lúc nào cũng tự tìm đến cửa (2/3)"
+    },
+    {
+      "num": 1348,
+      "title": "Cứ làm theo lời ngài! (3/3)"
+    },
+    {
+      "num": 1349,
+      "title": "Lắp ráp ngay trong không gian!"
+    },
+    {
+      "num": 1350,
+      "title": "Sức mạnh đáng ngưỡng mộ"
+    },
+    {
+      "num": 1351,
+      "title": "Hay là cân nhắc lên Mặt Trăng dạo một chuyến trước nhé?"
+    },
+    {
+      "num": 1352,
+      "title": "Không cần phải bỏ trốn cùng nhau cũng được"
+    },
+    {
+      "num": 1353,
+      "title": "Lời hứa"
+    },
+    {
+      "num": 1354,
+      "title": "Ông bố vợ khó chiều"
+    },
+    {
+      "num": 1355,
+      "title": "Lên tàu, khởi hành!"
+    },
+    {
+      "num": 1356,
+      "title": "Kết thúc cuộc đua này"
+    },
+    {
+      "num": 1357,
+      "title": "Từ nay về sau, cuối cùng con cũng có một mái nhà"
+    },
+    {
+      "num": 1358,
+      "title": "Tôi hối hận rồi"
+    },
+    {
+      "num": 1359,
+      "title": "Hành trình dài hàng chục triệu kilomet"
+    },
+    {
+      "num": 1360,
+      "title": "Đặt chân lên Sao Hỏa!"
+    },
+    {
+      "num": 1361,
+      "title": "Khoảng thời gian nghỉ ngơi ngắn ngủi"
+    },
+    {
+      "num": 1362,
+      "title": "Cấu trúc địa chất bất thường"
+    },
+    {
+      "num": 1363,
+      "title": "Săn tìm báu vật địa ngục"
+    },
+    {
+      "num": 1364,
+      "title": "Manh mối dần hé lộ"
+    },
+    {
+      "num": 1365,
+      "title": "Cánh Cổng Địa Ngục"
+    },
+    {
+      "num": 1366,
+      "title": "Vết nứt bí ẩn biến mất không dấu vết?"
+    },
+    {
+      "num": 1367,
+      "title": "Dưới Khe Nứt"
+    },
+    {
+      "num": 1368,
+      "title": "Nghe thấy không?"
+    },
+    {
+      "num": 1369,
+      "title": "Tìm kiếm cứu nạn"
+    },
+    {
+      "num": 1370,
+      "title": "Tiếp xúc loại 5"
+    },
+    {
+      "num": 1371,
+      "title": "Giả thuyết ABC?"
+    },
+    {
+      "num": 1372,
+      "title": "Tài liệu tuyệt mật"
+    },
+    {
+      "num": 1373,
+      "title": "Bài báo che giấu sự thật"
+    },
+    {
+      "num": 1374,
+      "title": "Giả thuyết đi ngược trực giác"
+    },
+    {
+      "num": 1375,
+      "title": "Bản chứng minh dài hơn 500 trang"
+    },
+    {
+      "num": 1376,
+      "title": "Quân bài tình cảm"
+    },
+    {
+      "num": 1377,
+      "title": "Oan gia ngõ hẹp"
+    },
+    {
+      "num": 1378,
+      "title": "L・S・P・M"
+    },
+    {
+      "num": 1379,
+      "title": "Toán học Trung Quốc có động thái lớn"
+    },
+    {
+      "num": 1380,
+      "title": "Bước đột phá mang tính quyết định"
+    },
+    {
+      "num": 1381,
+      "title": "Đầu óc của cậu rốt cuộc được làm bằng thứ gì vậy?"
+    },
+    {
+      "num": 1382,
+      "title": "Thuận lợi đến mức khó tin"
+    },
+    {
+      "num": 1383,
+      "title": "Có lẽ tôi đã lợi dụng các anh"
+    },
+    {
+      "num": 1384,
+      "title": "Mối nguy tiềm ẩn khiến người ta càng nghĩ càng rợn người"
+    },
+    {
+      "num": 1385,
+      "title": "Khép lại viên mãn!"
+    },
+    {
+      "num": 1386,
+      "title": "Kho tài liệu tiền ấn bản bị lượng truy cập khổng lồ làm tê liệt — Giả thuyết abc được chứng minh!"
+    },
+    {
+      "num": 1387,
+      "title": "Bằng chứng làm chấn động toàn thế giới!"
+    },
+    {
+      "num": 1388,
+      "title": "Rắc rối lớn rồi"
+    },
+    {
+      "num": 1389,
+      "title": "Phôi thai của Liên minh Nhân loại"
+    },
+    {
+      "num": 1390,
+      "title": "Điều ước sinh nhật"
+    },
+    {
+      "num": 1391,
+      "title": "Tiêu chuẩn của bậc thánh nhân"
+    },
+    {
+      "num": 1392,
+      "title": "Tôi tràn đầy niềm tin vào tương lai"
+    },
+    {
+      "num": 1393,
+      "title": "Nhất định phải bình an vô sự"
+    },
+    {
+      "num": 1394,
+      "title": "Hành Tinh Ngày Mai"
+    },
+    {
+      "num": 1395,
+      "title": "Cứ như thể nơi đó vẫn còn sống vậy!"
+    },
+    {
+      "num": 1396,
+      "title": "Kho lương thực của tương lai"
+    },
+    {
+      "num": 1397,
+      "title": "Ít nhất phải đưa được một người trở về"
+    },
+    {
+      "num": 1398,
+      "title": "Đích thân bước vào địa ngục"
+    },
+    {
+      "num": 1399,
+      "title": "Chia nhau hành động"
+    },
+    {
+      "num": 1400,
+      "title": "Hướng về cái chết để tìm đường sống"
+    },
+    {
+      "num": 1401,
+      "title": "Nghĩa Địa Của Nền Văn Minh"
+    },
+    {
+      "num": 1402,
+      "title": "Mảnh vỡ của không gian bốn chiều"
+    },
+    {
+      "num": 1403,
+      "title": "Nơi trú ẩn"
+    },
+    {
+      "num": 1404,
+      "title": "Cái tên khiến người ta hoài niệm"
+    },
+    {
+      "num": 1405,
+      "title": "Tin dữ"
+    },
+    {
+      "num": 1406,
+      "title": "Sơn cùng thủy tận"
+    },
+    {
+      "num": 1407,
+      "title": "Lựa chọn tiến hóa (1/3)"
+    },
+    {
+      "num": 1408,
+      "title": "Ván cược về tương lai (2/3)"
+    },
+    {
+      "num": 1409,
+      "title": "Anh là tài sản của thế giới (3/3)"
+    },
+    {
+      "num": 1410,
+      "title": "Phương án xấu nhất"
+    },
+    {
+      "num": 1411,
+      "title": "Thần Toán Học!"
+    },
+    {
+      "num": 1412,
+      "title": "Sứ mệnh cuối cùng"
+    },
+    {
+      "num": 1413,
+      "title": "Những chuyện trên sao Hỏa"
+    },
+    {
+      "num": 1414,
+      "title": "Hội nghị các nhà toán học quốc tế Kim Lăng"
+    },
+    {
+      "num": 1415,
+      "title": "Mối họa tiềm ẩn trong tương lai"
+    },
+    {
+      "num": 1416,
+      "title": "Chuyện xưa từ hàng tỷ năm trước"
+    },
+    {
+      "num": 1417,
+      "title": "Phồn vinh và suy tàn"
+    },
+    {
+      "num": 1418,
+      "title": "Bức thư bí ẩn"
+    },
+    {
+      "num": 1419,
+      "title": "Cuộc truy tìm kho báu xuyên thế kỷ"
+    },
+    {
+      "num": 1420,
+      "title": "Lần bế quan này hình như hơi lâu rồi"
+    },
+    {
+      "num": 1421,
+      "title": "Ngươi đã chết rồi"
+    },
+    {
+      "num": 1422,
+      "title": "Thiên Cung!"
+    },
+    {
+      "num": 1423,
+      "title": "Người quen nơi phương xa"
+    },
+    {
+      "num": 1424,
+      "title": "Chuyến trở về sau một thế kỷ"
+    },
+    {
+      "num": 1425,
+      "title": "Trở về từ địa ngục"
+    },
+    {
+      "num": 1426,
+      "title": "Ném chuột còn ngại vỡ bình"
+    },
+    {
+      "num": 1427,
+      "title": "Ngươi sẽ hại chết tất cả chúng ta!"
+    },
+    {
+      "num": 1428,
+      "title": "Lá Chắn Nitơ！"
+    },
+    {
+      "num": 1429,
+      "title": "Khủng hoảng 11 giờ!"
+    },
+    {
+      "num": 1430,
+      "title": "Hiệu ứng đòn bẩy hấp dẫn!"
+    },
+    {
+      "num": 1431,
+      "title": "Sống sót sau tai họa"
+    },
+    {
+      "num": 1432,
+      "title": "Tôi là Lục Chu"
+    },
+    {
+      "num": 1433,
+      "title": "Anh đã trở về!"
+    },
+    {
+      "num": 1434,
+      "title": "Trở về quê cũ, ngỡ như người xưa đã hóa đá"
+    },
+    {
+      "num": 1435,
+      "title": "Một tương lai hiếu khách?"
+    },
+    {
+      "num": 1436,
+      "title": "Để cậu đợi lâu rồi"
+    },
+    {
+      "num": 1437,
+      "title": "Chỉ một chữ, nhưng cách nhau tròn một trăm năm"
+    },
+    {
+      "num": 1438,
+      "title": "Thăm lại thánh địa"
+    },
+    {
+      "num": 1439,
+      "title": "Trông có vẻ không được thông minh cho lắm"
+    },
+    {
+      "num": 1440,
+      "title": "Thực trạng của Toán học và Vật lý"
+    },
+    {
+      "num": 1441,
+      "title": "Là ngươi có vấn đề"
+    },
+    {
+      "num": 1442,
+      "title": "Viện sĩ Lục từng nói"
+    },
+    {
+      "num": 1443,
+      "title": "Là hắn!"
+    },
+    {
+      "num": 1444,
+      "title": "Về nhà mình mà cũng phải đặt lịch trước sao?"
+    },
+    {
+      "num": 1445,
+      "title": "Phòng trải nghiệm người máy sinh học"
+    },
+    {
+      "num": 1446,
+      "title": "Ngành nghề kinh doanh ngầm"
+    },
+    {
+      "num": 1447,
+      "title": "Chúng Ta Cần Một Vật May Mắn"
+    },
+    {
+      "num": 1448,
+      "title": "Chào mừng ngài trở về nhà!"
+    },
+    {
+      "num": 1449,
+      "title": "Tôi thừa kế chính di sản của mình?"
+    },
+    {
+      "num": 1450,
+      "title": "Giáo sư Lục “chết đi sống lại”"
+    },
+    {
+      "num": 1451,
+      "title": "Buổi tiệc mừng ngày khải hoàn!"
+    },
+    {
+      "num": 1452,
+      "title": "Em vẫn còn nợ tôi một điệu nhảy"
+    },
+    {
+      "num": 1453,
+      "title": "Nhà khoa học trưởng của Liên minh Á Châu?"
+    },
+    {
+      "num": 1454,
+      "title": "Các cổ đông của Điện lực Đông Á"
+    },
+    {
+      "num": 1455,
+      "title": "Trở lại Đại học Kim Lăng"
+    },
+    {
+      "num": 1456,
+      "title": "Hoảng đến mức chân tay luống cuống"
+    },
+    {
+      "num": 1457,
+      "title": "Biết đủ đi, nhóc!"
+    },
+    {
+      "num": 1458,
+      "title": "Mạch điện không thể tưởng tượng nổi"
+    },
+    {
+      "num": 1459,
+      "title": "Khái niệm vượt xa cả “tương lai” (Chúc mừng năm mới!!…)"
+    },
+    {
+      "num": 1460,
+      "title": "Có hứng thú với thang máy vũ trụ không?"
+    },
+    {
+      "num": 1461,
+      "title": "Nguyên nhân gây họa"
+    },
+    {
+      "num": 1462,
+      "title": "Lý do tiến về tương lai"
+    },
+    {
+      "num": 1463,
+      "title": "Tình huống bất ngờ"
+    },
+    {
+      "num": 1464,
+      "title": "“Binh nhì” có thân thủ phi thường"
+    },
+    {
+      "num": 1465,
+      "title": "Đành tạm chấp nhận vậy"
+    },
+    {
+      "num": 1466,
+      "title": "Hai chiếc chìa khóa cuối cùng"
+    },
+    {
+      "num": 1467,
+      "title": "Khoa học vật liệu, LV9!"
+    },
+    {
+      "num": 1468,
+      "title": "Lựa chọn tốt nhất"
+    },
+    {
+      "num": 1469,
+      "title": "Thắng bại không có gì phải bàn"
+    },
+    {
+      "num": 1470,
+      "title": "Rắc rối cấp bách"
+    },
+    {
+      "num": 1471,
+      "title": "Cố vấn hành động đặc biệt"
+    },
+    {
+      "num": 1472,
+      "title": "Virus ALPHA"
+    },
+    {
+      "num": 1473,
+      "title": "Bầu trời u ám"
+    },
+    {
+      "num": 1474,
+      "title": "Tôi rất thất vọng"
+    },
+    {
+      "num": 1475,
+      "title": "Tôi Ủng Hộ"
+    },
+    {
+      "num": 1476,
+      "title": "Khởi động dự án công nghệ nhiệt hạch có kiểm soát thế hệ thứ hai!"
+    },
+    {
+      "num": 1477,
+      "title": "Bài gửi đi cách nhau một thế kỷ"
+    },
+    {
+      "num": 1478,
+      "title": "Bài báo của bậc tiền bối"
+    },
+    {
+      "num": 1479,
+      "title": "Dọn dẹp sâu mọt"
+    },
+    {
+      "num": 1480,
+      "title": "Ai mới là chủ nhân của thời đại này!"
+    },
+    {
+      "num": 1481,
+      "title": "Chìa khóa của nhiệt hạch có kiểm soát thế hệ thứ hai"
+    },
+    {
+      "num": 1482,
+      "title": "Đồng loạt từ chức"
+    },
+    {
+      "num": 1483,
+      "title": "Uy hiếp? Ngươi cũng xứng sao?"
+    },
+    {
+      "num": 1484,
+      "title": "Điều trị sốc"
+    },
+    {
+      "num": 1485,
+      "title": "Đầu tư vào chính bản thân mình"
+    },
+    {
+      "num": 1486,
+      "title": "Đe dọa bán khống"
+    },
+    {
+      "num": 1487,
+      "title": "Ai bảo tôi chỉ có một công ty?"
+    },
+    {
+      "num": 1488,
+      "title": "Những vấn đề có thể giải quyết bằng tiền thì đều không phải vấn đề"
+    },
+    {
+      "num": 1489,
+      "title": "Bí mật không ai biết của Điện lực Đông Á"
+    },
+    {
+      "num": 1490,
+      "title": "Chuỗi bằng chứng hoàn chỉnh"
+    },
+    {
+      "num": 1491,
+      "title": "Lương tâm của ông không thấy cắn rứt sao?"
+    },
+    {
+      "num": 1492,
+      "title": "Nén từ trường bằng xung nổ"
+    },
+    {
+      "num": 1493,
+      "title": "Mô hình khái niệm của thiết bị tạo từ trường xung"
+    },
+    {
+      "num": 1494,
+      "title": "Khối điện từ khiến giới học thuật chấn động"
+    },
+    {
+      "num": 1495,
+      "title": "Con mồi không mắc câu"
+    },
+    {
+      "num": 1496,
+      "title": "Cấy ghép cơ thể nhân tạo"
+    },
+    {
+      "num": 1497,
+      "title": "Lời cầu cứu từ Cục An ninh"
+    },
+    {
+      "num": 1498,
+      "title": "Có lẽ là tình cảm"
+    },
+    {
+      "num": 1499,
+      "title": "Nhẹ gánh lên đường"
+    },
+    {
+      "num": 1500,
+      "title": "Chọn địa điểm"
+    },
+    {
+      "num": 1501,
+      "title": "Ông dám trả lời không?"
+    },
+    {
+      "num": 1502,
+      "title": "Bản chất của khoa học là thử sai"
+    },
+    {
+      "num": 1503,
+      "title": "Sau người này, chẳng còn bậc thầy nào nữa"
+    },
+    {
+      "num": 1504,
+      "title": "Mọi chuyện đều bắt đầu từ một bài báo khoa học"
+    },
+    {
+      "num": 1505,
+      "title": "Lời hứa từ rất lâu về trước"
+    },
+    {
+      "num": 1506,
+      "title": "Con cá lớn dần lộ diện"
+    },
+    {
+      "num": 1507,
+      "title": "Giúp đỡ lẫn nhau"
+    },
+    {
+      "num": 1508,
+      "title": "Địa ngục đã từ chối ta một lần"
+    },
+    {
+      "num": 1509,
+      "title": "Người lính không hề hấn gì — 1"
+    },
+    {
+      "num": 1510,
+      "title": "Điên Cuồng"
+    },
+    {
+      "num": 1511,
+      "title": "Trước khi trở thành lịch sử, vĩ nhân cũng chỉ là người bình thường"
+    },
+    {
+      "num": 1512,
+      "title": "Im lặng đến đáng sợ"
+    },
+    {
+      "num": 1513,
+      "title": "Chuyện này nói ra thì dài lắm"
+    },
+    {
+      "num": 1514,
+      "title": "Những người mất tích"
+    },
+    {
+      "num": 1515,
+      "title": "Phương thức mã hóa có phần quen thuộc"
+    },
+    {
+      "num": 1516,
+      "title": "Từ Trên Trời Giáng Xuống"
+    },
+    {
+      "num": 1517,
+      "title": "Máy tính trên hành tinh"
+    },
+    {
+      "num": 1518,
+      "title": "Giải Mã Mật Khẩu"
+    },
+    {
+      "num": 1519,
+      "title": "Cuộc họp khẩn cấp"
+    },
+    {
+      "num": 1520,
+      "title": "Suýt chút nữa bị chính người nhà xử lý"
+    },
+    {
+      "num": 1521,
+      "title": "Tôi là ai?"
+    },
+    {
+      "num": 1522,
+      "title": "Một cuộc thí nghiệm xã hội quy mô lớn"
+    },
+    {
+      "num": 1523,
+      "title": "Thực tập sinh tốt nghiệp nhanh nhất từ trước đến nay"
+    },
+    {
+      "num": 1524,
+      "title": "Bắt cóc"
+    },
+    {
+      "num": 1525,
+      "title": "Trách nhiệm của một người lính"
+    },
+    {
+      "num": 1526,
+      "title": "Cuối cùng vẫn phải dùng đến nó"
+    },
+    {
+      "num": 1527,
+      "title": "Manh mối dần lộ diện"
+    },
+    {
+      "num": 1528,
+      "title": "Lời nói dối xuất phát từ thiện ý"
+    },
+    {
+      "num": 1529,
+      "title": "Khủng hoảng tại Quảng Hàn"
+    },
+    {
+      "num": 1530,
+      "title": "Hỗn chiến"
+    },
+    {
+      "num": 1531,
+      "title": "Nhiệm Vụ Khẩn Cấp Lần Thứ Ba"
+    },
+    {
+      "num": 1532,
+      "title": "Khủng hoảng trí tuệ nhân tạo"
+    },
+    {
+      "num": 1533,
+      "title": "Quy Luật Tự Nhiên"
+    },
+    {
+      "num": 1534,
+      "title": "Chế độ quản trị viên"
+    },
+    {
+      "num": 1535,
+      "title": "Chiến thắng đã ở ngay trước mắt"
+    },
+    {
+      "num": 1536,
+      "title": "Xúc phạm"
+    },
+    {
+      "num": 1537,
+      "title": "Hai người"
+    },
+    {
+      "num": 1538,
+      "title": "Thân Xác Bằng Máu Thịt"
+    },
+    {
+      "num": 1539,
+      "title": "Sư phụ ngươi đi cứu thế giới rồi"
+    },
+    {
+      "num": 1540,
+      "title": "Vòng vây của quân bạn"
+    },
+    {
+      "num": 1541,
+      "title": "Đánh lạc hướng"
+    },
+    {
+      "num": 1542,
+      "title": "Con ngựa thành Troy"
+    },
+    {
+      "num": 1543,
+      "title": "Đây Là Chiến Tranh"
+    },
+    {
+      "num": 1544,
+      "title": "Bản vá nâng cấp"
+    },
+    {
+      "num": 1545,
+      "title": "Tôi Tự Biết Lái"
+    },
+    {
+      "num": 1546,
+      "title": "Hy Vọng Cuối Cùng"
+    },
+    {
+      "num": 1547,
+      "title": "Hồi kết của cuộc chiến"
+    },
+    {
+      "num": 1548,
+      "title": "Biến Người"
+    },
+    {
+      "num": 1549,
+      "title": "Đón người hùng của chúng ta trở về"
+    },
+    {
+      "num": 1550,
+      "title": "Ý nghĩa của sự tiến hóa"
+    },
+    {
+      "num": 1551,
+      "title": "Tin Học LV9"
+    },
+    {
+      "num": 1552,
+      "title": "Một khả năng khác"
+    },
+    {
+      "num": 1553,
+      "title": "Cơ Hội Lựa Chọn Lần Thứ Hai"
+    },
+    {
+      "num": 1554,
+      "title": "Kỳ tích trong lịch sử y học!"
+    },
+    {
+      "num": 1555,
+      "title": "Chuyện về một cựu sinh viên"
+    },
+    {
+      "num": 1556,
+      "title": "Bức thư tình dài một triệu chữ"
+    },
+    {
+      "num": 1557,
+      "title": "Về cuộc thí nghiệm diễn ra 100 năm trước"
+    },
+    {
+      "num": 1558,
+      "title": "Nơi này có tôi"
+    },
+    {
+      "num": 1559,
+      "title": "Quyền công dân có giới hạn"
+    },
+    {
+      "num": 1560,
+      "title": "Vật liệu tối thượng"
+    },
+    {
+      "num": 1561,
+      "title": "Cây cầu vươn lên bầu trời"
+    },
+    {
+      "num": 1562,
+      "title": "Món quà dành tặng thế giới"
+    },
+    {
+      "num": 1563,
+      "title": "Mảng laser công suất cao"
+    },
+    {
+      "num": 1564,
+      "title": "Cực quang!"
+    },
+    {
+      "num": 1565,
+      "title": "Khoảnh khắc kích hoạt nhiệt hạch cách nhau tròn một thế kỷ!"
+    },
+    {
+      "num": 1566,
+      "title": "Ánh sáng nhiệt hạch!"
+    },
+    {
+      "num": 1567,
+      "title": "Kỳ tích không tưởng"
+    },
+    {
+      "num": 1568,
+      "title": "Kế Hoạch Kiến Mộc"
+    },
+    {
+      "num": 1569,
+      "title": "Đã có tính toán từ trước"
+    },
+    {
+      "num": 1570,
+      "title": "Kế hoạch không theo kịp những thay đổi"
+    },
+    {
+      "num": 1571,
+      "title": "Chọn địa điểm đặt neo"
+    },
+    {
+      "num": 1572,
+      "title": "Đúng là hợp ý tôi"
+    },
+    {
+      "num": 1573,
+      "title": "Cả thế giới sẽ phải rung chuyển"
+    },
+    {
+      "num": 1574,
+      "title": "Đích thân ra tay"
+    },
+    {
+      "num": 1575,
+      "title": "Tỷ lệ thành công chưa đến 3%"
+    },
+    {
+      "num": 1576,
+      "title": "Phương án khiến cả bốn phía kinh ngạc"
+    },
+    {
+      "num": 1577,
+      "title": "Lời hứa vượt ngoài thời gian"
+    },
+    {
+      "num": 1578,
+      "title": "Nút thắt trong lòng Viện sĩ Lục?"
+    },
+    {
+      "num": 1579,
+      "title": "Đó là một giấc mơ rất dài, rất dài"
+    },
+    {
+      "num": 1580,
+      "title": "Có lẽ tôi đã làm một việc thừa thãi"
+    },
+    {
+      "num": 1581,
+      "title": "Ai giải được bài toán này, tôi sẽ trao giải cho người đó"
+    },
+    {
+      "num": 1582,
+      "title": "Cuộc hội ngộ sau một thế kỷ"
+    },
+    {
+      "num": 1583,
+      "title": "Câu chuyện về người anh hùng chưa bao giờ chỉ có một trang"
+    },
+    {
+      "num": 1584,
+      "title": "Tòa tháp vươn thẳng lên trời đang mọc lên từ mặt đất"
+    },
+    {
+      "num": 1585,
+      "title": "Ánh sáng le lói của hy vọng vượt tốc độ ánh sáng"
+    },
+    {
+      "num": 1586,
+      "title": "Có một loài sinh vật đặc biệt thích hóng chuyện, tên gọi là nhà toán học"
+    },
+    {
+      "num": 1587,
+      "title": "Đi một bước, tính một bước"
+    },
+    {
+      "num": 1588,
+      "title": "Manh mối về quá khứ"
+    },
+    {
+      "num": 1589,
+      "title": "Kế Hoạch Huyết Mạch"
+    },
+    {
+      "num": 1590,
+      "title": "Dù chỉ có 1% cơ hội"
+    },
+    {
+      "num": 1591,
+      "title": "Nhận người thân?"
+    },
+    {
+      "num": 1592,
+      "title": "Bức thư gửi đến 100 năm sau"
+    },
+    {
+      "num": 1593,
+      "title": "Sức mạnh mà em trao cho anh"
+    },
+    {
+      "num": 1594,
+      "title": "Cái hố mình tự đào, cuối cùng vẫn phải tự tay lấp lại"
+    },
+    {
+      "num": 1595,
+      "title": "Không thì tôi nghiên cứu nó làm gì?"
+    },
+    {
+      "num": 1596,
+      "title": "Thiết bị hoàn thành!"
+    },
+    {
+      "num": 1597,
+      "title": "Mượn một chiếc tàu?"
+    },
+    {
+      "num": 1598,
+      "title": "Thí nghiệm siêu không gian"
+    },
+    {
+      "num": 1599,
+      "title": "Tốc độ cong!"
+    },
+    {
+      "num": 1600,
+      "title": "Đến nơi!"
+    },
+    {
+      "num": 1601,
+      "title": "Thế giới cách xa hàng năm ánh sáng không còn xa vời"
+    },
+    {
+      "num": 1602,
+      "title": "Thua hắn cũng chẳng có gì đáng xấu hổ"
+    },
+    {
+      "num": 1603,
+      "title": "Kế hoạch lên đường đến Thiên Thương 5"
+    },
+    {
+      "num": 1604,
+      "title": "Dễ như trở bàn tay"
+    },
+    {
+      "num": 1605,
+      "title": "Hệ thống đường cao tốc liên hành tinh"
+    },
+    {
+      "num": 1606,
+      "title": "Thí nghiệm còn dang dở"
+    },
+    {
+      "num": 1607,
+      "title": "Chiến Hạm Tần Lĩnh Sau Khi Được Đại Tu"
+    },
+    {
+      "num": 1608,
+      "title": "Sức chiến đấu nghịch thiên"
+    },
+    {
+      "num": 1609,
+      "title": "Công trình giai đoạn 1 hoàn thành!"
+    },
+    {
+      "num": 1610,
+      "title": "Thiên Đình!"
+    },
+    {
+      "num": 1611,
+      "title": "Đường cùng"
+    },
+    {
+      "num": 1612,
+      "title": "Tính Một Nước Khác"
+    },
+    {
+      "num": 1613,
+      "title": "Bức thư gửi từ Sao Hỏa"
+    },
+    {
+      "num": 1614,
+      "title": "Thế giới này đúng là điên rồ quá rồi!"
+    },
+    {
+      "num": 1615,
+      "title": "Tư thế vẽ bánh này sao cứ thấy quen quen"
+    },
+    {
+      "num": 1616,
+      "title": "Bầu không khí trong giới học thuật trên Sao Hỏa"
+    },
+    {
+      "num": 1617,
+      "title": "Cuộc họp bất thường"
+    },
+    {
+      "num": 1618,
+      "title": "Con tàu Noah"
+    },
+    {
+      "num": 1619,
+      "title": "Trò lừa đảo lỗi thời?"
+    },
+    {
+      "num": 1620,
+      "title": "Triển lãm tranh"
+    },
+    {
+      "num": 1621,
+      "title": "Tin đồn thất thiệt"
+    },
+    {
+      "num": 1622,
+      "title": "Trở về điểm khởi đầu"
+    },
+    {
+      "num": 1623,
+      "title": "Một lời đề nghị chưa chín muồi"
+    },
+    {
+      "num": 1624,
+      "title": "Gặp lại tướng quân Reinhardt"
+    },
+    {
+      "num": 1625,
+      "title": "Lại “mất tích” nữa sao?"
+    },
+    {
+      "num": 1626,
+      "title": "Hiểu lầm ngoài ý muốn"
+    },
+    {
+      "num": 1627,
+      "title": "Kho báu dưới lòng đất"
+    },
+    {
+      "num": 1628,
+      "title": "Ngòi nổ"
+    },
+    {
+      "num": 1629,
+      "title": "Chỉ còn cách một bước là khai chiến!"
+    },
+    {
+      "num": 1630,
+      "title": "Đối đầu"
+    },
+    {
+      "num": 1631,
+      "title": "Một cuộc chiến bắt nguồn từ sự hiểu lầm"
+    },
+    {
+      "num": 1632,
+      "title": "Chuyện xưa của vũ trụ cũ"
+    },
+    {
+      "num": 1633,
+      "title": "Chiến hỏa"
+    },
+    {
+      "num": 1634,
+      "title": "Quân bài tẩy đã mất tác dụng"
+    },
+    {
+      "num": 1635,
+      "title": "Tự trói tay mình"
+    },
+    {
+      "num": 1636,
+      "title": "Hỗn chiến！"
+    },
+    {
+      "num": 1637,
+      "title": "“Chân tướng đã sáng tỏ”"
+    },
+    {
+      "num": 1638,
+      "title": "Ngươi bị bắt rồi"
+    },
+    {
+      "num": 1639,
+      "title": "Những ngày tôi không có mặt, rốt cuộc đã xảy ra chuyện gì?"
+    },
+    {
+      "num": 1640,
+      "title": "Tất cả đều bắt nguồn từ một sự hiểu lầm"
+    },
+    {
+      "num": 1641,
+      "title": "Kỹ thuật thu hoạch rau hẹ (⑨)"
+    },
+    {
+      "num": 1642,
+      "title": "Bán tháo với giá chiết khấu"
+    },
+    {
+      "num": 1643,
+      "title": "Tiếp quản Con tàu Noah"
+    },
+    {
+      "num": 1644,
+      "title": "Ánh bình minh của thời đại mới"
+    },
+    {
+      "num": 1645,
+      "title": "Có cân nhắc đến Thiên Thương 5 làm giám đốc ngân hàng không?"
+    },
+    {
+      "num": 1646,
+      "title": "Lý do được kính trọng"
+    },
+    {
+      "num": 1647,
+      "title": "Cánh Cổng Sao Tỏa Sáng"
+    },
+    {
+      "num": 1648,
+      "title": "Tin lớn"
+    },
+    {
+      "num": 1649,
+      "title": "Nỗi nhớ nơi phương xa"
+    },
+    {
+      "num": 1650,
+      "title": "Bị cho leo cây — Leonard"
+    },
+    {
+      "num": 1651,
+      "title": "Thang máy hoàn thành"
+    },
+    {
+      "num": 1652,
+      "title": "Kỹ thuật công trình LV10!"
+    },
+    {
+      "num": 1653,
+      "title": "Người không ngờ tới"
+    },
+    {
+      "num": 1654,
+      "title": "Mỗi giây của tương lai đều là khoa học viễn tưởng của ngày hôm qua"
+    },
+    {
+      "num": 1655,
+      "title": "Tôi muốn phục hưng Liên minh Nhân loại"
+    },
+    {
+      "num": 1656,
+      "title": "Tiến về thời đại mới"
+    },
+    {
+      "num": 1657,
+      "title": "Liên Minh Nhân Loại"
+    },
+    {
+      "num": 1658,
+      "title": "Chúng ta lại gặp nhau"
+    },
+    {
+      "num": 1659,
+      "title": "Con tin?"
+    },
+    {
+      "num": 1660,
+      "title": "Tan thành mây khói"
+    },
+    {
+      "num": 1661,
+      "title": "Phản vật chất?"
+    },
+    {
+      "num": 1662,
+      "title": "Dường như tất cả đã được định sẵn từ trước"
+    },
+    {
+      "num": 1663,
+      "title": "Lò năng lượng phản vật chất"
+    },
+    {
+      "num": 1664,
+      "title": "Chuyện nguy hiểm như thế này, có lẽ đây là lần cuối cùng rồi"
+    },
+    {
+      "num": 1665,
+      "title": "Bộ não của hắn mới thực sự là kỳ tích"
+    },
+    {
+      "num": 1666,
+      "title": "Dòng máu của cháu bắt nguồn từ ông"
+    },
+    {
+      "num": 1667,
+      "title": "Người kế thừa"
+    },
+    {
+      "num": 1668,
+      "title": "Di vật lịch sử đặc biệt"
+    },
+    {
+      "num": 1669,
+      "title": "Mạng lưới liên lạc lượng tử"
+    },
+    {
+      "num": 1670,
+      "title": "Nói cho ta biết tất cả những gì ngươi biết"
+    },
+    {
+      "num": 1671,
+      "title": "Nhân quả bên ngoài vũ trụ"
+    },
+    {
+      "num": 1672,
+      "title": "Trong ngày trọng đại này"
+    },
+    {
+      "num": 1673,
+      "title": "Tương lai mà hắn hằng mong đợi"
+    },
+    {
+      "num": 1674,
+      "title": "Sớm hơn 900 năm"
+    },
+    {
+      "num": 1675,
+      "title": "Trái Tim Ngân Hà"
+    },
+    {
+      "num": 1676,
+      "title": "Khởi hành và tiễn biệt"
+    },
+    {
+      "num": 1677,
+      "title": "Hồi kết"
+    },
+    {
+      "num": 1678,
+      "title": "Ngoại truyện 1: Chuyện về sau"
+    }
+  ],
+  "slug": "hoc_ba_hac_khoa_ky_he_thong",
+  "title": "Học Bá Hắc Khoa Kỹ Hệ Thống",
+  "author": "Thần Tinh LL (晨星LL)",
+  "synopsis": "Truyện đô thị khoa huyễn, công nghệ cao của Thần Tinh LL (晨星LL), đã hoàn thành. Lục Chu, một sinh viên năm nhất khoa Toán bình thường của Đại học Kim Lăng, bất ngờ nhận được \"Hệ thống Công nghệ đen của học bá\": điểm tích lũy không đổi được tiền, nhưng có thể biến anh thành học bá thực thụ. Từ những bài toán phỏng đoán nổi tiếng, bài báo SCI đầu tay, các cuộc thi mô hình hóa toán học, anh từng bước bước vào vật lý, vật liệu, chip, nhiệt hạch có kiểm soát, rồi dẫn dắt cả những dự án vũ trụ đưa nhân loại ra khỏi Trái Đất, đi từ một tấm bảng đen tới bầu trời sao. Nhiều thuật ngữ toán học, vật lý, kỹ thuật nhưng giọng văn nhẹ nhàng, hài hước, nhịp nhanh; trọn bộ một nghìn sáu trăm bảy mươi tám chương (kể cả ngoại truyện), kết thúc ở ngoại truyện \"Chuyện về sau\".",
+  "coverColor": "#1d3557"
+}
