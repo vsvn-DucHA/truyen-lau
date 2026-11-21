@@ -1,0 +1,6494 @@
+{
+  "totalChapters": 1621,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Trò chơi sinh tồn ngày tận thế"
+    },
+    {
+      "num": 2,
+      "title": "Nơi trú ẩn, hy vọng nâng cấp!"
+    },
+    {
+      "num": 3,
+      "title": "Khủng hoảng nước uống! Nâng cấp lần đầu!"
+    },
+    {
+      "num": 4,
+      "title": "Ngày đầu tiên ở vùng đất hoang tàn khép lại"
+    },
+    {
+      "num": 5,
+      "title": "Nhặt được món hời! Đối mặt với mối nguy hiểm"
+    },
+    {
+      "num": 6,
+      "title": "Trận chiến đầu tiên, nổ lớn!"
+    },
+    {
+      "num": 7,
+      "title": "Năng lượng u linh! Tương lai đầy hứa hẹn!"
+    },
+    {
+      "num": 8,
+      "title": "Thiết kế hệ thống thông gió và chiếu sáng"
+    },
+    {
+      "num": 9,
+      "title": "Hoàn thành công trình! Giá thể trồng rau cạnh tranh!"
+    },
+    {
+      "num": 10,
+      "title": "Phán đoán giới hạn, dễ dàng giành được"
+    },
+    {
+      "num": 11,
+      "title": "Ngày thứ hai ở vùng đất hoang kết thúc"
+    },
+    {
+      "num": 12,
+      "title": "Di tích xuất hiện! Mở trứng thú cưng!"
+    },
+    {
+      "num": 13,
+      "title": "Lần đầu thăm dò di tích"
+    },
+    {
+      "num": 14,
+      "title": "Trận chiến đẫm máu, thu hoạch lớn!"
+    },
+    {
+      "num": 15,
+      "title": "Chữa thương, kiểm kê chiến lợi phẩm!"
+    },
+    {
+      "num": 16,
+      "title": "Bữa ăn nóng hổi! Cuộc sống tiến bộ vượt bậc!"
+    },
+    {
+      "num": 17,
+      "title": "Màn sương bí ẩn quanh di tích, tiếp tục tích trữ!"
+    },
+    {
+      "num": 18,
+      "title": "Ngày thứ tư ở vùng đất hoang"
+    },
+    {
+      "num": 19,
+      "title": "Đào xong mương thoát nước! Phần thưởng cực khủng!"
+    },
+    {
+      "num": 20,
+      "title": "Nâng cấp! Nơi trú ẩn bằng đá!"
+    },
+    {
+      "num": 21,
+      "title": "Thu mua vật liệu! Nỏ đã hoàn thành!"
+    },
+    {
+      "num": 22,
+      "title": "Đêm nay chẳng ai được ngủ yên"
+    },
+    {
+      "num": 23,
+      "title": "Đại họa! Thảm họa mưa axit!"
+    },
+    {
+      "num": 24,
+      "title": "Loạn thế sắp nổi, quần hùng tranh bá"
+    },
+    {
+      "num": 25,
+      "title": "Xung đột bắt đầu: Khác biệt trong quan niệm"
+    },
+    {
+      "num": 26,
+      "title": "Tuần tra, bóng người thoắt ẩn thoắt hiện!"
+    },
+    {
+      "num": 27,
+      "title": "Đối đầu"
+    },
+    {
+      "num": 28,
+      "title": "Đêm đen gió lớn, thay trời hành đạo"
+    },
+    {
+      "num": 29,
+      "title": "Tiêu diệt toàn bộ! Ta chỉ muốn sống sót"
+    },
+    {
+      "num": 30,
+      "title": "Tám phương dậy sóng, cả thế giới bàn tán!"
+    },
+    {
+      "num": 31,
+      "title": "Hấp thụ lõi bị hỏng"
+    },
+    {
+      "num": 32,
+      "title": "Thu hoạch lớn! Máy phát điện diesel!"
+    },
+    {
+      "num": 33,
+      "title": "Nâng cấp nơi trú ẩn, thuê người thiết kế bản vẽ!"
+    },
+    {
+      "num": 34,
+      "title": "Chúng ta phải sống sót trở về Trái Đất!"
+    },
+    {
+      "num": 35,
+      "title": "Khởi đầu thời đại mạt thế! Cập nhật phiên bản 1.0！"
+    },
+    {
+      "num": 36,
+      "title": "Quy tắc thay đổi lớn, thiên tai đợt hai!"
+    },
+    {
+      "num": 37,
+      "title": "A~ Lần đầu tiên “ra ngoài xa”"
+    },
+    {
+      "num": 38,
+      "title": "Nhanh chân đến trước? Khám phá di tích!"
+    },
+    {
+      "num": 39,
+      "title": "Có... có xe rồi!"
+    },
+    {
+      "num": 40,
+      "title": "Thế giới này điên cuồng quá rồi!"
+    },
+    {
+      "num": 41,
+      "title": "Phát tài rồi! Di tích đổi chủ!"
+    },
+    {
+      "num": 42,
+      "title": "Sắp đặt hiện trường, quay về căn cứ"
+    },
+    {
+      "num": 43,
+      "title": "Cuối cùng cũng chế tạo xong! Nỏ điện liên thanh!"
+    },
+    {
+      "num": 44,
+      "title": "Cột mốc! Trở lại thời đại điện khí hóa"
+    },
+    {
+      "num": 45,
+      "title": "Giám sát từ xa, đè bẹp đối thủ bằng lợi thế vượt trội"
+    },
+    {
+      "num": 46,
+      "title": "Giết gọn trong chớp mắt! Nỏ điện trổ uy"
+    },
+    {
+      "num": 47,
+      "title": "Tên Tù Binh Ngốc Nghếch, Cuộc Sống Có Thêm Chút Tiến Bộ!"
+    },
+    {
+      "num": 48,
+      "title": "Tra khảo! Bí mật thi triển phép thuật!"
+    },
+    {
+      "num": 49,
+      "title": "Tuần đầu tiên ở vùng đất hoang, hy vọng nảy mầm"
+    },
+    {
+      "num": 50,
+      "title": "Bản thiết kế hoàn hảo! Tám hạng mục công trình!"
+    },
+    {
+      "num": 51,
+      "title": "Xây dựng lại nơi trú ẩn cấp 1"
+    },
+    {
+      "num": 52,
+      "title": "Xin lỗi, có bàn chế tạo thì đúng là muốn làm gì cũng được"
+    },
+    {
+      "num": 53,
+      "title": "Bắt đầu chế tạo, bàn làm việc thần kỳ!"
+    },
+    {
+      "num": 54,
+      "title": "Tự tay chế tạo, vô địch thiên hạ, vỗ tay nào"
+    },
+    {
+      "num": 55,
+      "title": "Bất ngờ, đón thêm hàng xóm mới"
+    },
+    {
+      "num": 56,
+      "title": "Hôm nay lại là một ngày chăm chỉ đào mỏ!"
+    },
+    {
+      "num": 57,
+      "title": "Thao tác tỉ mỉ, tinh luyện lưu huỳnh"
+    },
+    {
+      "num": 58,
+      "title": "Đêm nơi đất hoang! Tiếp tục thám hiểm!"
+    },
+    {
+      "num": 59,
+      "title": "Sửa chữa! Ca ngợi máy móc"
+    },
+    {
+      "num": 60,
+      "title": "Người tiên phong! Nhật ký của Mã Cổ"
+    },
+    {
+      "num": 61,
+      "title": "Người bạn, anh không cần phải cô độc!"
+    },
+    {
+      "num": 62,
+      "title": "Trận chiến đã bước vào hồi gay cấn nhất! Mong mọi người tiếp tục ủng hộ!"
+    },
+    {
+      "num": 63,
+      "title": "Đây là một bước nhỏ của ta trên con đường tung hoành đất hoang, nhưng..."
+    },
+    {
+      "num": 64,
+      "title": "Ngày thứ tám ở vùng đất hoang, nâng cấp trang bị toàn diện"
+    },
+    {
+      "num": 65,
+      "title": "Cập nhật toàn diện, sức chiến đấu tăng vọt！"
+    },
+    {
+      "num": 66,
+      "title": "Chuẩn bị xong xuôi, lên đường đến mỏ diêm tiêu"
+    },
+    {
+      "num": 67,
+      "title": "Thăm dò lần đầu! Mỏ diêm tiêu hùng vĩ!"
+    },
+    {
+      "num": 68,
+      "title": "Kẻ phản bội loài người, khởi đầu cho sự sụp đổ của lòng tin"
+    },
+    {
+      "num": 69,
+      "title": "Lựa chọn? Ta lấy hết!"
+    },
+    {
+      "num": 70,
+      "title": "Đánh liên tiếp, tiêu diệt toàn bộ dị tộc!"
+    },
+    {
+      "num": 71,
+      "title": "Thu hoạch nhỏ! Phiếu mở rộng không gian chứa đồ"
+    },
+    {
+      "num": 72,
+      "title": "Nói về Tô Ma ấy mà... hắn chọc nhầm ổ chó rồi!"
+    },
+    {
+      "num": 73,
+      "title": "Ba mươi năm Hà Đông, ba mươi năm Hà Tây!"
+    },
+    {
+      "num": 74,
+      "title": "Ăn no uống đủ, tinh chế diêm tiêu"
+    },
+    {
+      "num": 75,
+      "title": "Lời cảm ơn của Tam Giang!"
+    },
+    {
+      "num": 76,
+      "title": "Diêm tiêu kỳ diệu, đổi lấy tình báo!"
+    },
+    {
+      "num": 77,
+      "title": "Ánh sáng mang tên “Tô Ma”!"
+    },
+    {
+      "num": 78,
+      "title": "Giàu to, hàng chuyển phát nhanh đến rồi!"
+    },
+    {
+      "num": 79,
+      "title": "Lá Bài Chủ Lực Cực Mạnh, Nâng Cấp Cổng Lớn!"
+    },
+    {
+      "num": 80,
+      "title": "Mỏ dầu, sửa chữa!"
+    },
+    {
+      "num": 81,
+      "title": "Nâng cấp dung hợp! Nơi trú ẩn thứ hai!"
+    },
+    {
+      "num": 82,
+      "title": "Sửa chữa, nơi trú ẩn dưới biển sâu"
+    },
+    {
+      "num": 83,
+      "title": "Chuẩn bị chiến đấu! Di tích lại xuất hiện (Xin vé tháng)"
+    },
+    {
+      "num": 84,
+      "title": "Lời tâm sự trước khi lên kệ!!"
+    },
+    {
+      "num": 85,
+      "title": "Lại vào di tích! Di tích trấn Lương Phường! (Cầu đăng ký!)"
+    },
+    {
+      "num": 86,
+      "title": "Ta đã lợi dụng được lỗi, còn phải sợ ngươi sao? (Cầu đăng ký)"
+    },
+    {
+      "num": 87,
+      "title": "Núi cùng nước tận ngờ hết lối, bóng liễu hoa tươi lại thấy làng (Cầu..."
+    },
+    {
+      "num": 88,
+      "title": "Song tinh phẩm, thu hoạch kinh người! (Cầu đặt mua)"
+    },
+    {
+      "num": 89,
+      "title": "Một ngày trên trời, một năm dưới đất (Cầu đặt mua!)"
+    },
+    {
+      "num": 90,
+      "title": "Trốn nạn trong di tích, bí mật của thời gian! (Chương 1)"
+    },
+    {
+      "num": 91,
+      "title": "Sức mạnh tăng lên, chiếc tivi siêu đỉnh! (Canh hai)"
+    },
+    {
+      "num": 92,
+      "title": "Chuyên tâm học hỏi, cuối cùng cũng nhập môn rèn đúc! (Chương thứ ba)"
+    },
+    {
+      "num": 93,
+      "title": "Đại tích trữ! Hội chứng sợ hỏa lực! (Canh một)"
+    },
+    {
+      "num": 94,
+      "title": "Tuần thứ hai ở vùng đất hoang, doanh trại thay đổi lớn (Chương thứ hai trong ngày)"
+    },
+    {
+      "num": 95,
+      "title": "Tìm kiếm hợp tác, mượn dao giết người (Phần 3)"
+    },
+    {
+      "num": 96,
+      "title": "Xung phong! Bom người sư tử! (Canh một)"
+    },
+    {
+      "num": 97,
+      "title": "Không cùng giống loài, ắt có lòng khác biệt (Phần 2)"
+    },
+    {
+      "num": 98,
+      "title": "Bùm! Sư Tượng Thần Tướng đã vào tay! (Chương thứ ba trong ngày)"
+    },
+    {
+      "num": 99,
+      "title": "Mưa móc chia đều, mìn mẹ con liên hoàn (Canh một)"
+    },
+    {
+      "num": 100,
+      "title": "Thu hoạch lớn, nâng cấp xe! (Canh hai)"
+    },
+    {
+      "num": 101,
+      "title": "Hòm báu đầy ắp! Địa Hổ xuất thế! (Phần 1)"
+    },
+    {
+      "num": 102,
+      "title": "Chiến tranh giữa các tộc, xóa dấu vết (Canh hai)"
+    },
+    {
+      "num": 103,
+      "title": "Trở về, dấu hiệu của tai họa lần thứ hai! (Chương thứ ba trong ngày)"
+    },
+    {
+      "num": 104,
+      "title": "Mùa đông sắp đến, loài người phản công! (Chương 1)"
+    },
+    {
+      "num": 105,
+      "title": "Tượng Thần Sư Tử Ngon Miệng (Chương thứ hai)"
+    },
+    {
+      "num": 106,
+      "title": "Tan vỡ! Thuộc tính siêu phàm thứ hai! (Chương thứ ba)"
+    },
+    {
+      "num": 107,
+      "title": "Khống chế gió, đối mặt với cuồng phong! (Phần 1)"
+    },
+    {
+      "num": 108,
+      "title": "Phá vỡ giới hạn! Cấp Tinh Lương! (Canh hai)"
+    },
+    {
+      "num": 109,
+      "title": "Bắt đầu sinh tồn, bão tuyết phủ kín đất trời! (Canh ba)"
+    },
+    {
+      "num": 110,
+      "title": "Đếm ngược bảy ngày, người giao hàng ghé thăm! (Phần 1)"
+    },
+    {
+      "num": 111,
+      "title": "Tiếp tục tăng quân, bí mật đằng sau thảm họa! (Phần 2)"
+    },
+    {
+      "num": 112,
+      "title": "Trao đổi tin tức, cuối cùng vẫn là chim sẻ đợi sau (Chương thứ ba)!"
+    },
+    {
+      "num": 113,
+      "title": "Ngươi tưởng mình đang ở tầng thứ năm, thật ra... (Canh một)"
+    },
+    {
+      "num": 114,
+      "title": "Màn lớn mở ra! Các phe lần lượt lên sân khấu! (Kỳ 2)"
+    },
+    {
+      "num": 115,
+      "title": "Xin hỏi, ngươi đang tìm ta sao? (Canh thứ ba)"
+    },
+    {
+      "num": 116,
+      "title": "Cứ tát thẳng tay! Đúng là hả hê lòng người! (Phần 1)"
+    },
+    {
+      "num": 117,
+      "title": "Người chết như đèn tắt, muôn niệm hóa tro tàn (Canh hai)"
+    },
+    {
+      "num": 118,
+      "title": "Giàu Nứt Đố Đổ Vách! Hạch Tâm Bùng Nổ! (Chương 1)"
+    },
+    {
+      "num": 119,
+      "title": "Vũ khí nóng giữa ngày tuyết, súng ngắn tự động K-1! (Chương thứ hai)"
+    },
+    {
+      "num": 120,
+      "title": "Tắm thôi! Mục tiêu mới! (Canh ba)"
+    },
+    {
+      "num": 121,
+      "title": "Bí mật về biến số, siêu lõi! (Phần 1)"
+    },
+    {
+      "num": 122,
+      "title": "Một kiểu nâng cấp khác, lời chúc phúc phản tổ! (Chương thứ hai)"
+    },
+    {
+      "num": 123,
+      "title": "Ngày thứ mười sáu! Trở ngại cuối cùng! (Canh ba)"
+    },
+    {
+      "num": 124,
+      "title": "Chiến đấu! Một người, một ngọn giáo! (Phần 1)"
+    },
+    {
+      "num": 125,
+      "title": "Ra tay giết chóc, cuối cùng cũng bắt được Ứng Hùng! (Canh hai)"
+    },
+    {
+      "num": 126,
+      "title": "Tra khảo! Chuyện trong doanh trại (Phần 3)"
+    },
+    {
+      "num": 127,
+      "title": "Ta bảo đảm, ngươi nhất định sẽ chết (Chương 1)"
+    },
+    {
+      "num": 128,
+      "title": "Trên vùng đất hoang, dưới địa ngục (Chương 2)"
+    },
+    {
+      "num": 129,
+      "title": "Rời đi, gieo xuống hạt giống hy vọng! (Chương thứ ba)"
+    },
+    {
+      "num": 130,
+      "title": "Tan ra là sao trời đầy trời, cuộc giằng co giữa Sư Tử và Cẩu Đầu Nhân! (Canh một)"
+    },
+    {
+      "num": 131,
+      "title": "Người đàn ông đứng trên đỉnh chuỗi thức ăn của “vùng trũng” (1)"
+    },
+    {
+      "num": 132,
+      "title": "Lò Luyện Kim! Tài Nguyên Trồi Lên Từ Mặt Đất! (Chương thứ ba trong ngày)"
+    },
+    {
+      "num": 133,
+      "title": "Tài nguyên! Phương thức phát điện mới (Chương 1)"
+    },
+    {
+      "num": 134,
+      "title": "Thời đại tranh giành khốc liệt, quy hoạch lãnh địa mới! (Chương thứ hai)"
+    },
+    {
+      "num": 135,
+      "title": "Khao khát sức mạnh! Thu mua võ thuật thực chiến! (Chương thứ ba trong ngày)"
+    },
+    {
+      "num": 136,
+      "title": "Khen hết lời, bánh bao đổi lấy thương pháp! (Phần 1)"
+    },
+    {
+      "num": 137,
+      "title": "Học được thương pháp! Quy hoạch lần thứ hai (Chương 2)"
+    },
+    {
+      "num": 138,
+      "title": "Nâng cấp! Nơi trú ẩn dưới lòng đất LV2! (Canh ba)"
+    },
+    {
+      "num": 139,
+      "title": "Điều kiện lên cấp 3, xây dựng tầng thứ ba! (Phần 1)"
+    },
+    {
+      "num": 140,
+      "title": "Mở rộng! Ngọn đồi nhỏ đang vươn mình! (Phần 2)"
+    },
+    {
+      "num": 141,
+      "title": "Dâng tế, sức mạnh nâng vật kỳ diệu (Canh ba)"
+    },
+    {
+      "num": 142,
+      "title": "Hợp nhất nâng cấp! Bản thiết kế siêu cấp! (Chương đầu tiên trong ngày)"
+    },
+    {
+      "num": 143,
+      "title": "Tái cấu trúc lần hai, hình hài của siêu nơi trú ẩn! (Phần 2)"
+    },
+    {
+      "num": 144,
+      "title": "Mở rương báu! Thu hoạch lớn! (Canh ba)"
+    },
+    {
+      "num": 145,
+      "title": "Đợt cải tạo đầu tiên, bản thiết kế súng ống! (Canh một)"
+    },
+    {
+      "num": 146,
+      "title": "Thay đổi hoàn toàn, không gian xa hoa! (Phần 2)"
+    },
+    {
+      "num": 147,
+      "title": "Giới hạn của lời chúc phúc, chiếc lông vũ bí ẩn (Canh ba)"
+    },
+    {
+      "num": 148,
+      "title": "Thông gió tuần hoàn, nâng cấp hoàn tất (Phần 1)"
+    },
+    {
+      "num": 149,
+      "title": "Nhật ký của Maeda, lửa đỏ rực trời! (Canh hai)"
+    },
+    {
+      "num": 150,
+      "title": "Phản công, gió dữ cũng có đường về (Chương 3)"
+    },
+    {
+      "num": 151,
+      "title": "Thừa lúc cháy nhà hôi của, đột nhập lâu đài!"
+    },
+    {
+      "num": 152,
+      "title": "Phá vỡ phòng tuyến, đầu dò laser!"
+    },
+    {
+      "num": 153,
+      "title": "Ta đã nói rồi, sẽ không ai phải chết!"
+    },
+    {
+      "num": 154,
+      "title": "Thoát khỏi biển lửa! Cuối cùng cũng lấy được đầu dò!"
+    },
+    {
+      "num": 155,
+      "title": "Rời đi, dòng thác thép bắt đầu hình thành!"
+    },
+    {
+      "num": 156,
+      "title": "Sửa chữa máy công cụ, chế tạo vũ khí nóng"
+    },
+    {
+      "num": 157,
+      "title": "Mở liền năm lượt, tài nguyên đổ về như thác"
+    },
+    {
+      "num": 158,
+      "title": "Dưỡng thương, cá chép bội thu"
+    },
+    {
+      "num": 159,
+      "title": "Kiểm kê vật tư, chế tạo công cụ"
+    },
+    {
+      "num": 160,
+      "title": "Điên cuồng chế tạo, ngày áp chót cuối cùng cũng đến"
+    },
+    {
+      "num": 161,
+      "title": "Khôi phục thể trạng, bắt cá làm bánh nướng"
+    },
+    {
+      "num": 162,
+      "title": "Ngày cuối cùng, bí cảnh mở ra！"
+    },
+    {
+      "num": 163,
+      "title": "Chiếc bánh vẽ “siêu to khổng lồ”! Gặp lại người thân!"
+    },
+    {
+      "num": 164,
+      "title": "Vớ được món hời động trời! Bản thiết kế hiếm có!"
+    },
+    {
+      "num": 165,
+      "title": "Thu mua vật liệu, điên cuồng tích trữ vật tư"
+    },
+    {
+      "num": 166,
+      "title": "Chế tạo súng, mở khóa cây công nghệ súng đạn!"
+    },
+    {
+      "num": 167,
+      "title": "Thả thính thưởng trên không, thảm họa ập xuống"
+    },
+    {
+      "num": 168,
+      "title": "Trận bão tuyết đúng nghĩa của hai chữ “bão tuyết”!"
+    },
+    {
+      "num": 169,
+      "title": "Trong gió tuyết! Oreo thức tỉnh"
+    },
+    {
+      "num": 170,
+      "title": "Luật mới, ngày hội của những kẻ đơn độc"
+    },
+    {
+      "num": 171,
+      "title": "Sức nóng toàn cầu, đạn dược cuối cùng cũng hoàn thành!"
+    },
+    {
+      "num": 172,
+      "title": "Trang bị đạn, vươn lên đứng đầu"
+    },
+    {
+      "num": 173,
+      "title": "Ăn livestream, một tỷ người theo dõi!"
+    },
+    {
+      "num": 174,
+      "title": "Sự ưu ái của băng tuyết, tiến hóa hoàn tất"
+    },
+    {
+      "num": 175,
+      "title": "Cấp bách! Đưa người thân vào thế giới này!"
+    },
+    {
+      "num": 176,
+      "title": "Đêm tuyết tập kích, quyền năng của Husky!"
+    },
+    {
+      "num": 177,
+      "title": "Hạt giống nảy mầm, phá tan lồng giam!"
+    },
+    {
+      "num": 178,
+      "title": "Pháo vô lương tâm, vén màn sương mù"
+    },
+    {
+      "num": 179,
+      "title": "Chấn động toàn cầu! Chúng ta dựa vào thứ này!"
+    },
+    {
+      "num": 180,
+      "title": "Hai tỷ người, phát súng đầu tiên của cuộc chiến giữa các chủng tộc!"
+    },
+    {
+      "num": 181,
+      "title": "Pháo không cần người điều khiển! Bắn cho lão tử!"
+    },
+    {
+      "num": 182,
+      "title": "Đêm trước ngày diệt tộc, Cự Thần giáng xuống!"
+    },
+    {
+      "num": 183,
+      "title": "Nỗi kinh hoàng ấp ủ, tuyệt vọng dần nảy sinh"
+    },
+    {
+      "num": 184,
+      "title": "Chỉ là ngụy thần, cũng xứng sủa bậy!"
+    },
+    {
+      "num": 185,
+      "title": "Chuyển phát nhanh Đông Phong! Sứ mệnh diệt thần!"
+    },
+    {
+      "num": 186,
+      "title": "Thảm Họa Cấp Vàng! Phúc Lợi Toàn Dân!"
+    },
+    {
+      "num": 187,
+      "title": "Thẻ Truyền Thuyết, Đánh tráo thân phận"
+    },
+    {
+      "num": 188,
+      "title": "Bức Tranh Sơn Hải, Trời Sáng Rồi!"
+    },
+    {
+      "num": 189,
+      "title": "Cuối cùng cũng liên lạc được, chân tướng sáng tỏ!"
+    },
+    {
+      "num": 190,
+      "title": "Hấp thụ thần cách, giữ nguyên lời hứa!"
+    },
+    {
+      "num": 191,
+      "title": "Di tích nhiệm vụ! Tiền tệ thời gian!"
+    },
+    {
+      "num": 192,
+      "title": "Nâng cấp phẩm chất, máy xúc cấp Tinh Xảo"
+    },
+    {
+      "num": 193,
+      "title": "Điểm sinh tồn vượt mười nghìn! Nâng cấp chức năng thứ ba!"
+    },
+    {
+      "num": 194,
+      "title": "Ý chí phi thường! Thiên phú của kẻ mạnh！"
+    },
+    {
+      "num": 195,
+      "title": "Vạn dặm đường, tấm bản đồ bí ẩn"
+    },
+    {
+      "num": 196,
+      "title": "Giống mới, cà chua tinh thể năng lượng u"
+    },
+    {
+      "num": 197,
+      "title": "Lên bậc cao cấp, người làm vườn cần mẫn!"
+    },
+    {
+      "num": 198,
+      "title": "Mở rương báu, thu về bốn món đồ quý"
+    },
+    {
+      "num": 199,
+      "title": "Hạt Giống Giá Trên Trời! Thị Trường Điên Cuồng"
+    },
+    {
+      "num": 200,
+      "title": "Chọn giống cây trồng, bắt tay hợp tác mang tính lịch sử！"
+    },
+    {
+      "num": 201,
+      "title": "Chia bảy ba! Người Sư Tử cuối cùng!"
+    },
+    {
+      "num": 202,
+      "title": "Kinh ngạc! “Tô Ma” trong lời đồn"
+    },
+    {
+      "num": 203,
+      "title": "Hy vọng không tắt! Lòng người không chết!"
+    },
+    {
+      "num": 204,
+      "title": "Lại tìm ra bug nữa à? Tin tức về di tích!"
+    },
+    {
+      "num": 205,
+      "title": "Điên cuồng khai khẩn, sản lượng lên đến sáu chữ số！"
+    },
+    {
+      "num": 206,
+      "title": "Giải mã lá bùa, thảm họa trừng phạt!"
+    },
+    {
+      "num": 207,
+      "title": "Manh mối, thế giới trong lá bùa!"
+    },
+    {
+      "num": 208,
+      "title": "Rút lui, Trộm Thiên Cơ"
+    },
+    {
+      "num": 209,
+      "title": "Chiến binh bẩm sinh, thú cưng thứ hai"
+    },
+    {
+      "num": 210,
+      "title": "Di Tích Ánh Nến, Nhảy Xuống!"
+    },
+    {
+      "num": 211,
+      "title": "Vượt qua thời không, trở về quá khứ!"
+    },
+    {
+      "num": 212,
+      "title": "Bù đắp tiếc nuối, cuối cùng cũng tìm thấy lõi trung tâm!"
+    },
+    {
+      "num": 213,
+      "title": "Ha lô, còn nhớ tôi không?"
+    },
+    {
+      "num": 214,
+      "title": "Nào! Uống thả ga, ăn thỏa thích"
+    },
+    {
+      "num": 215,
+      "title": "Lần theo dấu vết, tìm kiếm tắc kè hoa"
+    },
+    {
+      "num": 216,
+      "title": "Cấp Truyền Thuyết! Bí ẩn về tắc kè hoa!"
+    },
+    {
+      "num": 217,
+      "title": "Nghi thức bay lên trời, rương báu cấp Sử Thi!"
+    },
+    {
+      "num": 218,
+      "title": "Tương lai tăm tối, vùng đất hy vọng!"
+    },
+    {
+      "num": 219,
+      "title": "Long trời lở đất, nơi trú ẩn Ánh Sáng"
+    },
+    {
+      "num": 220,
+      "title": "Càn quét thị trường, cả nhân loại cùng hưởng lợi!"
+    },
+    {
+      "num": 221,
+      "title": "Chàng có tình, thiếp có ý"
+    },
+    {
+      "num": 222,
+      "title": "Vượt ải không tổn thất, rời đi!"
+    },
+    {
+      "num": 223,
+      "title": "Ràng buộc, phần thưởng 120%！"
+    },
+    {
+      "num": 224,
+      "title": "Về nhà! Ba hướng phát triển của lúa mì xuân"
+    },
+    {
+      "num": 225,
+      "title": "Câu chuyện của Zeta, trang bị cấp Sử Thi!"
+    },
+    {
+      "num": 226,
+      "title": "Tính toán, chăm chút từng tấc đất"
+    },
+    {
+      "num": 227,
+      "title": "Đổi tài nguyên, cuối cùng cũng có hạt giống trong tay!"
+    },
+    {
+      "num": 228,
+      "title": "Gộp nhật báo, thu hoạch siêu khủng!"
+    },
+    {
+      "num": 229,
+      "title": "Bước tiến vượt bậc, ba mươi hai loại máy móc"
+    },
+    {
+      "num": 230,
+      "title": "Kịch bản! Tôi bao hết!"
+    },
+    {
+      "num": 231,
+      "title": "Chế tạo, máy gặt đập liên hợp tự động hoàn toàn!"
+    },
+    {
+      "num": 232,
+      "title": "Bảng điều khiển tinh thể lỏng, máy gặt đập liên hợp hoàn toàn mới!"
+    },
+    {
+      "num": 233,
+      "title": "Chuẩn bị, ngày cuối cùng bận rộn (Xin vé tháng)"
+    },
+    {
+      "num": 234,
+      "title": "Bước Nhảy Thời Gian! Thu Hoạch Bội Thu!"
+    },
+    {
+      "num": 235,
+      "title": "Bí cảnh cấp Sắt, quy tắc khế ước"
+    },
+    {
+      "num": 236,
+      "title": "Oanh tạc chợ giao dịch, bản thiết kế cấp Sử Thi"
+    },
+    {
+      "num": 237,
+      "title": "Máy tính cấp sử thi!"
+    },
+    {
+      "num": 238,
+      "title": "Máy công cụ nâng cấp, giao dịch hoàn tất"
+    },
+    {
+      "num": 239,
+      "title": "Một nghìn món! Cơn bão thu mua!"
+    },
+    {
+      "num": 240,
+      "title": "Thùng Tiếp Tế Vàng! Chuyển Đổi Vật Chất!"
+    },
+    {
+      "num": 241,
+      "title": "Ý tưởng chế tạo tàu khu trục, màn dạo đầu cho đêm cuồng hoan!"
+    },
+    {
+      "num": 242,
+      "title": "Lựa chọn, mối nguy thực sự của trận đại hồng thủy"
+    },
+    {
+      "num": 243,
+      "title": "Ba năm nở hoa, ba năm kết trái"
+    },
+    {
+      "num": 244,
+      "title": "Nước U Năng! Nâng cấp!"
+    },
+    {
+      "num": 245,
+      "title": "Mồ hôi, thu hoạch, khúc nhạc vang lên!"
+    },
+    {
+      "num": 246,
+      "title": "Lựa chọn, thuyền lớn hay thuyền nhỏ"
+    },
+    {
+      "num": 247,
+      "title": "Chúng ta nhất định phải... trở về Địa Cầu!"
+    },
+    {
+      "num": 248,
+      "title": "Đêm giao thừa, những suy tính nhỏ của đám người tị nạn!"
+    },
+    {
+      "num": 249,
+      "title": "Đón Tết! Phúc lợi ập đến!"
+    },
+    {
+      "num": 250,
+      "title": "Thời đại 8G, ngươi cũng muốn lướt mạng sao?"
+    },
+    {
+      "num": 251,
+      "title": "Lò Luyện Khởi Động! Thép Quân Hạm!"
+    },
+    {
+      "num": 252,
+      "title": "Độ dày đáng sợ, 490mm chưa từng có trong lịch sử"
+    },
+    {
+      "num": 253,
+      "title": "Tranh thủ thu hoạch, thành quả nhiều đến mức khiến người ta tê cả da đầu!"
+    },
+    {
+      "num": 254,
+      "title": "Thiết kế kho hàng, nỗi băn khoăn của Moore"
+    },
+    {
+      "num": 255,
+      "title": "Biển Cả! Phiên Bản 2.0 Của Trò Chơi Sắp Ra Mắt!"
+    },
+    {
+      "num": 256,
+      "title": "Chưa từng có tiền lệ, ba trận thiên tai liên tiếp!"
+    },
+    {
+      "num": 257,
+      "title": "Báo trước! Nơi trú ẩn kiểu mới"
+    },
+    {
+      "num": 258,
+      "title": "Liên tiếp thăng cấp! Nơi trú ẩn LV4!"
+    },
+    {
+      "num": 259,
+      "title": "Chốt! Khu trục hạm dài tám mươi mét!"
+    },
+    {
+      "num": 260,
+      "title": "Di cư! Ánh lửa thắp lên hy vọng!"
+    },
+    {
+      "num": 261,
+      "title": "Phi thuyền vũ trụ, Xưởng Đóng Tàu Tạo Thiên Số Một"
+    },
+    {
+      "num": 262,
+      "title": "Kho chứa được dựng lên, cuộc di cư chính thức bắt đầu!"
+    },
+    {
+      "num": 263,
+      "title": "Gom đủ điều kiện, lời chúc phúc phản tổ"
+    },
+    {
+      "num": 264,
+      "title": "Trận dạy đời, màn ăn mừng của đám thương nhân đen tối!"
+    },
+    {
+      "num": 265,
+      "title": "0.19, câu chuyện về liên minh tư bản!"
+    },
+    {
+      "num": 266,
+      "title": "Là ngươi! Tô lão ma!"
+    },
+    {
+      "num": 267,
+      "title": "Dựng tổ xây hang, khởi đầu mới"
+    },
+    {
+      "num": 268,
+      "title": "Thôn Hy Vọng, thời đại 2.0!"
+    },
+    {
+      "num": 269,
+      "title": "Khó khăn khi đóng tàu, còn khó hơn lên trời"
+    },
+    {
+      "num": 270,
+      "title": "Công nghệ thứ năm, hợp thành!"
+    },
+    {
+      "num": 271,
+      "title": "Cực quang đen xanh, thăm dò di tích sương đen lần nữa"
+    },
+    {
+      "num": 272,
+      "title": "Suy đoán kinh thiên! Bí ẩn di tích!"
+    },
+    {
+      "num": 273,
+      "title": "Chú Ngao Đậu Đậu, tung tích chiếc máy tính!"
+    },
+    {
+      "num": 274,
+      "title": "Áp đảo bằng hỏa lực, nơi trú ẩn trên mặt đất bốn tầng"
+    },
+    {
+      "num": 275,
+      "title": "Viêm Quốc! Trên vùng đất hoang!"
+    },
+    {
+      "num": 276,
+      "title": "Lá Chắn Bầu Trời, Virus Sinh Học"
+    },
+    {
+      "num": 277,
+      "title": "Tầng hai! Lời mời của Mã Lão Cẩu！"
+    },
+    {
+      "num": 278,
+      "title": "Tiến hóa cơ giới, sự phồn vinh giả tạo！"
+    },
+    {
+      "num": 279,
+      "title": "Ăn thịt người! Bầu trời rung chuyển!"
+    },
+    {
+      "num": 280,
+      "title": "Phe thần bí? “Chiếc áo khoác” che đậy rào cản giai cấp!"
+    },
+    {
+      "num": 281,
+      "title": "Vơ vét điên cuồng! Trở về thế giới thực!"
+    },
+    {
+      "num": 282,
+      "title": "Thứ tôi cần... là khiến các người phải sợ tôi!"
+    },
+    {
+      "num": 283,
+      "title": "Bùng nổ! Tin dữ Zeus mang đến"
+    },
+    {
+      "num": 284,
+      "title": "Thu phục! Kết nối với lõi của dị tộc!"
+    },
+    {
+      "num": 285,
+      "title": "Hổ Chú, kế hoạch săn bắt ngoài biển"
+    },
+    {
+      "num": 286,
+      "title": "Mục tiêu... không phải con người!"
+    },
+    {
+      "num": 287,
+      "title": "Nhiều bên đấu trí, chính quyền âm thầm nhẫn nhịn"
+    },
+    {
+      "num": 288,
+      "title": "Điều ta muốn làm, chính là sống sót!"
+    },
+    {
+      "num": 289,
+      "title": "Cột mốc, 3090... khởi động!"
+    },
+    {
+      "num": 290,
+      "title": "Nâng cấp! Thợ máy mô phỏng sinh học hai hướng!"
+    },
+    {
+      "num": 291,
+      "title": "Rồng lớn Hoa Hạ, ngang tàng vươn mình!"
+    },
+    {
+      "num": 292,
+      "title": "Thu hoạch lớn, số điểm sinh tồn trở lại năm chữ số"
+    },
+    {
+      "num": 293,
+      "title": "Hai loại bản vẽ, ý tưởng về radar!"
+    },
+    {
+      "num": 294,
+      "title": "Chuẩn bị vũ khí, những thay đổi ở Hi Vọng Thôn"
+    },
+    {
+      "num": 295,
+      "title": "Thay đổi chóng mặt, luật lệ nơi đất hoang"
+    },
+    {
+      "num": 296,
+      "title": "Giới hạn chiều không gian, nhân loại vũ trụ!"
+    },
+    {
+      "num": 297,
+      "title": "Nghĩa tặc! Ta... gia nhập!"
+    },
+    {
+      "num": 298,
+      "title": "Thực Thần “Tô Ma”, Hải Thần là chiến hữu của ta?"
+    },
+    {
+      "num": 299,
+      "title": "Suy tính, tất cả loạn lên đi!"
+    },
+    {
+      "num": 300,
+      "title": "Thức tỉnh, chớp mắt đã mười ngày!"
+    },
+    {
+      "num": 301,
+      "title": "Nghi thức cắt băng, thành quả của mười ngày bận rộn"
+    },
+    {
+      "num": 302,
+      "title": "Đánh cắp thiên cơ, ba cơ hội thử nghiệm!"
+    },
+    {
+      "num": 303,
+      "title": "Một đao! Chém ra cả tương lai của hắn!"
+    },
+    {
+      "num": 304,
+      "title": "Hào Hoa Hi Vọng Hiệu, trải nghiệm đầu tiên của dân làng trên tàu!"
+    },
+    {
+      "num": 305,
+      "title": "Bản hoang tàn: Lẻn vào và tìm kiếm"
+    },
+    {
+      "num": 306,
+      "title": "Binh pháp, điệu hổ ly sơn"
+    },
+    {
+      "num": 307,
+      "title": "Khởi động! Động cơ chuyển hóa vật chất!"
+    },
+    {
+      "num": 308,
+      "title": "Mọi thứ đã sẵn sàng, bắt đầu thử nghiệm!"
+    },
+    {
+      "num": 309,
+      "title": "Hy Vọng, phát sáng màu cam!"
+    },
+    {
+      "num": 310,
+      "title": "Á Truyền Kỳ, Khởi Đầu Của Bá Chủ Đại Dương！"
+    },
+    {
+      "num": 311,
+      "title": "67 hải lý! Bảy năng lực khiến người ta chấn động!"
+    },
+    {
+      "num": 312,
+      "title": "Thử nghiệm lần đầu, hạm trưởng Tô Ma!"
+    },
+    {
+      "num": 313,
+      "title": "Thiên tai kinh hoàng! Con đường truyền thuyết!"
+    },
+    {
+      "num": 314,
+      "title": "Hy Vọng kiên cường! Tiếp tục xông lên!"
+    },
+    {
+      "num": 315,
+      "title": "Giao long xuống biển, thành công mỹ mãn"
+    },
+    {
+      "num": 316,
+      "title": "Bug mới, bảy điều cần suy tính"
+    },
+    {
+      "num": 317,
+      "title": "Đấng cứu thế hay người lãnh đạo?"
+    },
+    {
+      "num": 318,
+      "title": "Thứ có thể giúp thành thần, đi đường khác để thắng"
+    },
+    {
+      "num": 319,
+      "title": "Oreo? Bí mật về nguồn sức mạnh của dị tộc!"
+    },
+    {
+      "num": 320,
+      "title": "Tộc thuộc, khởi đầu của công nghệ đen"
+    },
+    {
+      "num": 321,
+      "title": "Quyền hạn cấp một, lựa chọn phần thưởng！"
+    },
+    {
+      "num": 322,
+      "title": "Khả năng bổ trợ của con tàu, cuộc chiến của một người"
+    },
+    {
+      "num": 323,
+      "title": "Nâng cao thần vị, Hải Phong!"
+    },
+    {
+      "num": 324,
+      "title": "Kiểm tra lần cuối! Cơ hội cuối cùng!"
+    },
+    {
+      "num": 325,
+      "title": "Mười tám lớp phòng thủ, vượt qua thiên tai không tổn hại!"
+    },
+    {
+      "num": 326,
+      "title": "Vén màn sương mù, vị trí thật sự của dị tộc!"
+    },
+    {
+      "num": 327,
+      "title": "Bọn chúng không hiểu, bọn chúng sẽ phải chết!"
+    },
+    {
+      "num": 328,
+      "title": "Chân lý chỉ nằm trong tầm bắn của đại bác!"
+    },
+    {
+      "num": 329,
+      "title": "Rút liên tục, tiếng gọi của Hy Vọng Hào!"
+    },
+    {
+      "num": 330,
+      "title": "Pháo chính hủy diệt, tốc độ bắn 140 phát/phút！"
+    },
+    {
+      "num": 331,
+      "title": "Thiết giáp hạm buồm, những tầng lớp mới trên vùng đất hoang"
+    },
+    {
+      "num": 332,
+      "title": "Đài Nguyên Hiệu, kế hoạch chinh phục Tô Thần!"
+    },
+    {
+      "num": 333,
+      "title": "Hiệu ứng cánh bướm, sức mạnh đáng gờm của kênh 001!"
+    },
+    {
+      "num": 334,
+      "title": "Thời đại sụp đổ! Toàn thế giới chấn động!"
+    },
+    {
+      "num": 335,
+      "title": "Toàn tuyến sụp đổ, cọng rơm cuối cùng đè chết con lạc đà"
+    },
+    {
+      "num": 336,
+      "title": "Đủ cả rồi! Mảnh ghép cuối cùng trước khi ra khơi!"
+    },
+    {
+      "num": 337,
+      "title": "Ngươi ngửi thử xem, đây là mùi gì?"
+    },
+    {
+      "num": 338,
+      "title": "Lời chúc phúc mới! Những bước chuẩn bị cuối cùng"
+    },
+    {
+      "num": 339,
+      "title": "Bug mới! 23.400!"
+    },
+    {
+      "num": 340,
+      "title": "Đã tới tay, kế hoạch tấn công của nhân loại! (Cảm ơn Tu Chân づ)"
+    },
+    {
+      "num": 341,
+      "title": "Phân tích, suy đoán về ba vị trí"
+    },
+    {
+      "num": 342,
+      "title": "Một bước nhỏ của viện trưởng, một bước tiến lớn của dân làng"
+    },
+    {
+      "num": 343,
+      "title": "Khó chịu thì đánh, không phục thì đánh, không chịu khuất phục... cũng đánh"
+    },
+    {
+      "num": 344,
+      "title": "Vùng trũng, chờ ta trở về!"
+    },
+    {
+      "num": 345,
+      "title": "Mãnh hổ về núi, giao long xuống biển!"
+    },
+    {
+      "num": 346,
+      "title": "Dị tộc livestream! Chưa từng có tiền lệ!"
+    },
+    {
+      "num": 347,
+      "title": "Dị tộc đứng đầu, thuyền buồm cánh én"
+    },
+    {
+      "num": 348,
+      "title": "Vua Sư Tử Lông Vàng, mãi mãi là thần!"
+    },
+    {
+      "num": 349,
+      "title": "Vua Mưa Axit, Đế Hoàng Tuyết!"
+    },
+    {
+      "num": 350,
+      "title": "Ngày đầu tiên trên biển, dòng thời gian bắt đầu chuyển động!"
+    },
+    {
+      "num": 351,
+      "title": "Đại bác gầm vang! Con đường thuộc về nhân loại!"
+    },
+    {
+      "num": 352,
+      "title": "Kế hoạch bắt đầu, tình hình trên biển tồi tệ"
+    },
+    {
+      "num": 353,
+      "title": "Nâng cấp lần nữa, ngụy trang hoàn hảo!"
+    },
+    {
+      "num": 354,
+      "title": "Khai màn! Đêm trao giải Oscar!"
+    },
+    {
+      "num": 355,
+      "title": "Hắn dường như... đã kìm nén cơn giận quá lâu rồi!"
+    },
+    {
+      "num": 356,
+      "title": "Thế giới động vật, kẻ mạnh làm vua"
+    },
+    {
+      "num": 357,
+      "title": "“Thời đại Đất Màu Mỡ” đã biến mất trong dòng thời gian!"
+    },
+    {
+      "num": 358,
+      "title": "Xuống biển ngộ đạo, mở màn cuộc hỗn chiến！"
+    },
+    {
+      "num": 359,
+      "title": "Ngại quá, gia đã bao vây tất cả các ngươi rồi!"
+    },
+    {
+      "num": 360,
+      "title": "Sóng trắng cao như núi, nào ai vượt nổi; cuồng phong khiến người giương buồm phải kinh hồn!"
+    },
+    {
+      "num": 361,
+      "title": "Vứt bỏ lớp ngụy trang, giải phóng cơn giận!"
+    },
+    {
+      "num": 362,
+      "title": "Khai hỏa! Khai hỏa! Khai hỏa！"
+    },
+    {
+      "num": 363,
+      "title": "Hỏa lực nghiền ép! Ta... chính là Tô lão ma!"
+    },
+    {
+      "num": 364,
+      "title": "Giàu to! Những rương vàng chất thành núi!"
+    },
+    {
+      "num": 365,
+      "title": "Thu hồi vốn rồi, những món lời khủng khiếp không ngờ tới"
+    },
+    {
+      "num": 366,
+      "title": "Hết cơn bĩ cực, đến hồi thái lai, truyền thuyết vàng!"
+    },
+    {
+      "num": 367,
+      "title": "Bù đắp những thiếu sót, những thành quả thầm lặng đầy bất ngờ"
+    },
+    {
+      "num": 368,
+      "title": "Ba nghìn cây số, đường trời hiểm trở nay hóa thành đường thông suốt!"
+    },
+    {
+      "num": 369,
+      "title": "Bươm bướm vỗ cánh, sự đa dạng trong quá trình phát triển của nhân loại"
+    },
+    {
+      "num": 370,
+      "title": "Người đàng hoàng chúng ta, cày danh hiệu sao có thể gọi là cày được!"
+    },
+    {
+      "num": 371,
+      "title": "Đẩy thuyền theo nước, tính toán nhỏ của trò chơi"
+    },
+    {
+      "num": 372,
+      "title": "Điên cuồng cày điểm, tăng vọt hàng chục triệu!"
+    },
+    {
+      "num": 373,
+      "title": "Biết chơi đấy, di tích tập thể dành cho ba trăm nghìn người!"
+    },
+    {
+      "num": 374,
+      "title": "Một công đôi ba việc, nhiệm vụ vượt ải kỳ quặc!"
+    },
+    {
+      "num": 375,
+      "title": "Lãnh chúa, đào binh, tội phạm bị truy nã！"
+    },
+    {
+      "num": 376,
+      "title": "Thời đại đất đai màu mỡ! Chủ đảo Bạch Sa tiến lên!"
+    },
+    {
+      "num": 377,
+      "title": "Phục hưng văn hóa, kế hoạch phát triển đảo Bạch Sa 1.0"
+    },
+    {
+      "num": 378,
+      "title": "Đội truy đuổi chó điên, khả năng cày quái theo vòng lặp!"
+    },
+    {
+      "num": 379,
+      "title": "Tai họa ập đến! Âm mưu kinh thiên bắt đầu!"
+    },
+    {
+      "num": 380,
+      "title": "Huynh muội cuối cùng cũng gặp lại, vua của thế giới biển sâu!"
+    },
+    {
+      "num": 381,
+      "title": "Gió lớn trợ sức, Hy Vọng Vô Địch!"
+    },
+    {
+      "num": 382,
+      "title": "Quỳ xuống, quỳ trước họng súng của ta!"
+    },
+    {
+      "num": 383,
+      "title": "Không giả vờ nữa, ngửa bài thôi, ông đây... cũng là thần linh!"
+    },
+    {
+      "num": 384,
+      "title": "Nơi trú ẩn cấp Lv5, nâng cấp!"
+    },
+    {
+      "num": 385,
+      "title": "Niềm vui của bảng điều khiển! Phần thưởng bao trọn mọi mặt!"
+    },
+    {
+      "num": 386,
+      "title": "Hải Thần ban phước! Hy Vọng Hào bay lên trời!"
+    },
+    {
+      "num": 387,
+      "title": "Mở ra nhiệm vụ thăng cấp Truyền Thuyết!"
+    },
+    {
+      "num": 388,
+      "title": "Tình thế cấp bách, tia hy vọng giữa đường cùng"
+    },
+    {
+      "num": 389,
+      "title": "Lần theo từng manh mối, khoảnh khắc cuối cùng trước khi bão tố ập đến"
+    },
+    {
+      "num": 390,
+      "title": "Lục Sở, rốt cuộc ngài đang chờ đợi điều gì vậy?!"
+    },
+    {
+      "num": 391,
+      "title": "Vòng lặp khép kín? Ông đây chuyên phá vòng lặp!"
+    },
+    {
+      "num": 392,
+      "title": "Ta đang đợi Kim Mao Sư Vương, còn ngươi đang đợi...?"
+    },
+    {
+      "num": 393,
+      "title": "Lần đầu chạm trán, tên cuồng chiến tranh!"
+    },
+    {
+      "num": 394,
+      "title": "Tô Thần uy vũ, lời hứa đến từ Cộng Đồng!"
+    },
+    {
+      "num": 395,
+      "title": "Bè gỗ vượt biển, sức mạnh đáng gờm của máy công cụ tầm trung!"
+    },
+    {
+      "num": 396,
+      "title": "Ca nô lướt sóng, sức mạnh vô song!"
+    },
+    {
+      "num": 397,
+      "title": "Vào vị trí! Đêm trước cuộc phản công!"
+    },
+    {
+      "num": 398,
+      "title": "Đòn phản công kinh thiên, sức mạnh thực sự của nhân loại cuối cùng cũng bùng nổ!"
+    },
+    {
+      "num": 399,
+      "title": "Nỗi kinh hoàng tột độ! Ngày tàn của dị tộc!"
+    },
+    {
+      "num": 400,
+      "title": "Đại khai sát giới! “Mùa xuân” của loài người đã đến!"
+    },
+    {
+      "num": 401,
+      "title": "Uống thuốc độc giải khát? Tự đào mồ chôn mình!"
+    },
+    {
+      "num": 402,
+      "title": "Chiến hạm thép! Long An Quốc kinh ngạc!"
+    },
+    {
+      "num": 403,
+      "title": "Thiên thần giáng trần, dị tộc gào thét!"
+    },
+    {
+      "num": 404,
+      "title": "Chiến tranh! Thư gửi toàn thể đồng bào nhân loại!"
+    },
+    {
+      "num": 405,
+      "title": "Lửa cháy lan đồng cỏ, dị tộc bao vây tứ phía!"
+    },
+    {
+      "num": 406,
+      "title": "Chiến dịch chặt đầu, cú đâm sau lưng đến từ chính loài người"
+    },
+    {
+      "num": 407,
+      "title": "Tuyệt cảnh, lời nói dối"
+    },
+    {
+      "num": 408,
+      "title": "Đường dự đoán! Trò chơi bất ngờ cập nhật!"
+    },
+    {
+      "num": 409,
+      "title": "Phía sau điện, trận quyết chiến bắt đầu!"
+    },
+    {
+      "num": 410,
+      "title": "Cú lật ngược tình thế! Hắn đang cười lớn!"
+    },
+    {
+      "num": 411,
+      "title": "Cảm ơn anh, Ứng Thiên Long!"
+    },
+    {
+      "num": 412,
+      "title": "Tẩy lễ! Mọi bóng tối đều dừng lại trước ta!"
+    },
+    {
+      "num": 413,
+      "title": "Cung nghênh... Tô Thần!"
+    },
+    {
+      "num": 414,
+      "title": "Yêu cầu áp mạn, cuộc gặp gỡ mang tính lịch sử!"
+    },
+    {
+      "num": 415,
+      "title": "Phiên bản 3.0, sinh tồn chân thực！"
+    },
+    {
+      "num": 416,
+      "title": "Tụ hội đi! Mở khóa hy vọng cấp Truyền Thuyết!"
+    },
+    {
+      "num": 417,
+      "title": "Đã gặp Tô Thần, sao còn không quỳ bái!"
+    },
+    {
+      "num": 418,
+      "title": "Đứng dậy! Đứng dậy! Đứng dậy!"
+    },
+    {
+      "num": 419,
+      "title": "Ta đến, ta thấy, ta chinh phục!"
+    },
+    {
+      "num": 420,
+      "title": "Trận chiến cuối cùng! Phần thưởng điên cuồng!"
+    },
+    {
+      "num": 421,
+      "title": "Tự tay kết liễu! Mưa tan trời sáng!"
+    },
+    {
+      "num": 422,
+      "title": "Rương Báu Bạch Kim! Thu Hoạch Kinh Người!"
+    },
+    {
+      "num": 423,
+      "title": "Hệ thống cập nhật! Tính năng cấp tỷ!"
+    },
+    {
+      "num": 424,
+      "title": "Lần đầu tiếp xúc! Nâng cấp phần thưởng!"
+    },
+    {
+      "num": 425,
+      "title": "Cảm ơn ngươi, “Mã Phi” thứ hai của ta!"
+    },
+    {
+      "num": 426,
+      "title": "Mạnh tay cải tổ, tuyển dụng nhân tài cấp SAB!"
+    },
+    {
+      "num": 427,
+      "title": "Nền móng vùng trũng, khúc dạo đầu cho sự cất cánh!"
+    },
+    {
+      "num": 428,
+      "title": "Đêm trước ngày rời đi, vùng đất hoang sôi sục!"
+    },
+    {
+      "num": 429,
+      "title": "Con đường phía trước, sự sống mới, phần thưởng cuối cùng cũng đến!"
+    },
+    {
+      "num": 430,
+      "title": "Đặc quyền siêu cấp, nhân loại nhất định sẽ trỗi dậy!"
+    },
+    {
+      "num": 431,
+      "title": "Phần thưởng cá nhân, mở liên tiếp mười lượt cực khủng!"
+    },
+    {
+      "num": 432,
+      "title": "Cấp sử thi, cơ hội sở hữu thảm bay!"
+    },
+    {
+      "num": 433,
+      "title": "Càn quét suốt đêm, thu hoạch điên cuồng!"
+    },
+    {
+      "num": 434,
+      "title": "Ánh vàng chợt lóe, thảm bay xuất hiện!"
+    },
+    {
+      "num": 435,
+      "title": "Sửa chữa! Thảm bay ma pháp cấp Sử Thi!"
+    },
+    {
+      "num": 436,
+      "title": "Ba hướng phát triển, văn minh không ngừng tiến lên giữa gian khó!"
+    },
+    {
+      "num": 437,
+      "title": "Kỳ quan! Văn minh nâng cấp!"
+    },
+    {
+      "num": 438,
+      "title": "Vinh dự tối cao! Cơ hội có một không hai trong lịch sử!"
+    },
+    {
+      "num": 439,
+      "title": "Bay lên! Chung Thanh Thục “biến mất”!"
+    },
+    {
+      "num": 440,
+      "title": "Rời đi, cập nhật, tự do!"
+    },
+    {
+      "num": 441,
+      "title": "Lão Cẩu Hải Thần, nơi ẩn náu không ai ngờ tới!"
+    },
+    {
+      "num": 442,
+      "title": "Món quà, một “trái tim” đang lớn lên!"
+    },
+    {
+      "num": 443,
+      "title": "Rời đi, phúc lợi ẩn của Thần Sứ!"
+    },
+    {
+      "num": 444,
+      "title": "Đối mặt với nỗi sợ, xuyên qua độ sâu 5.000 mét dưới đáy biển!"
+    },
+    {
+      "num": 445,
+      "title": "Công nghệ đáng sợ, đội quân viễn chinh Cyberpunk!"
+    },
+    {
+      "num": 446,
+      "title": "Huyết mạch! Cuộc trò chuyện đến từ thời không song song!"
+    },
+    {
+      "num": 447,
+      "title": "Tô Đức Bản, bí ẩn của vùng đất hoang!"
+    },
+    {
+      "num": 448,
+      "title": "Gian lận, quân viễn chinh đã đi sai đường!"
+    },
+    {
+      "num": 449,
+      "title": "Món quà, ba công nghệ quý giá!"
+    },
+    {
+      "num": 450,
+      "title": "Khủng long bạo chúa hình người, sự kinh ngạc của Lữ Khoan！"
+    },
+    {
+      "num": 451,
+      "title": "Ký sinh, cộng sinh, một kiểu trường sinh khác!"
+    },
+    {
+      "num": 452,
+      "title": "Nâng cấp! Tên lửa xuyên không U Năng!"
+    },
+    {
+      "num": 453,
+      "title": "Hoàng hôn của chư thần, Thực Thần trở về！"
+    },
+    {
+      "num": 454,
+      "title": "Dùng quyền hạn! Thế giới sau lớp kính!"
+    },
+    {
+      "num": 455,
+      "title": "Vũ trụ song song, điều kiện để nâng cấp chiều không gian"
+    },
+    {
+      "num": 456,
+      "title": "Nếu có thể, xin hãy để nó phát huy chút sức lực cuối cùng"
+    },
+    {
+      "num": 457,
+      "title": "Xuyên qua, vương quốc Hải Thần"
+    },
+    {
+      "num": 458,
+      "title": "Tử địa, nơi “an toàn” nhất!"
+    },
+    {
+      "num": 459,
+      "title": "Người cùng quê gặp nhau, đôi mắt đỏ hoe"
+    },
+    {
+      "num": 460,
+      "title": "Khởi nguồn, quá khứ bị phủ kín trong màn sương lịch sử"
+    },
+    {
+      "num": 461,
+      "title": "Kẻ điều khiển biến mất, sự thật của thế giới!"
+    },
+    {
+      "num": 462,
+      "title": "Quyền hạn dung hợp, cách sử dụng mới!"
+    },
+    {
+      "num": 463,
+      "title": "Thu hoạch đầy tay, chiến đấu vì ngày mai！"
+    },
+    {
+      "num": 464,
+      "title": "Sao băng giáng xuống, đích đến: Biển Sao!"
+    },
+    {
+      "num": 465,
+      "title": "Sẵn sàng lên đường, tham vọng chinh phục đại lục mới (Cảm ơn mọi người đã ủng hộ)"
+    },
+    {
+      "num": 466,
+      "title": "Đất máu, “đất nuôi dưỡng” phản ứng nhiệt hạch!"
+    },
+    {
+      "num": 467,
+      "title": "Trở về, bắt đầu hành trình mới!"
+    },
+    {
+      "num": 468,
+      "title": "Hội ngộ, nền công nghệ bí ẩn từ thời xa xưa"
+    },
+    {
+      "num": 469,
+      "title": "Vùng trũng, ta... trở về rồi!"
+    },
+    {
+      "num": 470,
+      "title": "Thời đại mạt pháp, vua trở về!"
+    },
+    {
+      "num": 471,
+      "title": "Thu phục lòng người, những thay đổi mà Tô Thiền mang đến!"
+    },
+    {
+      "num": 472,
+      "title": "Tình hình căng thẳng, tin tức từ Tân Đại Lục!"
+    },
+    {
+      "num": 473,
+      "title": "Rồi sẽ có một ngày, ta sẽ cắm kín những lá cờ đỏ thắm khắp chốn..."
+    },
+    {
+      "num": 474,
+      "title": "Trao thưởng, phiên bản tàn khốc của sự thật"
+    },
+    {
+      "num": 475,
+      "title": "Quy định mới! Giương buồm ra khơi!"
+    },
+    {
+      "num": 476,
+      "title": "Mạnh mẽ! Những cách sử dụng khác nhau của thực tế ảo!"
+    },
+    {
+      "num": 477,
+      "title": "Ba mức độ khó, lựa chọn nan giải!"
+    },
+    {
+      "num": 478,
+      "title": "Lột Xác, Sức Mạnh Của Người Đứng Đầu!"
+    },
+    {
+      "num": 479,
+      "title": "Cấp Truyền Thuyết! Sức Mạnh Của Hy Vọng Hiệu!"
+    },
+    {
+      "num": 480,
+      "title": "Quy hoạch tổng thể, “người toàn tài” đầu tiên trong lịch sử nhân loại"
+    },
+    {
+      "num": 481,
+      "title": "Nhiệt độ cực thấp! Tuyết rơi dữ dội! Bão tố ập đến!"
+    },
+    {
+      "num": 482,
+      "title": "Khác nơi nhưng chung một lòng, thảm họa thứ chín của nhân loại!"
+    },
+    {
+      "num": 483,
+      "title": "Nội tình, mười hai tấm thẻ tạo tài nguyên!"
+    },
+    {
+      "num": 484,
+      "title": "Tháo rời, bí mật của công nghệ mô-đun!"
+    },
+    {
+      "num": 485,
+      "title": "Sắp xếp xong xuôi, chuyển đi trong đêm"
+    },
+    {
+      "num": 486,
+      "title": "Hành quân thần tốc! Thiên đường và địa ngục!"
+    },
+    {
+      "num": 487,
+      "title": "Trăm việc chờ khôi phục, tương lai của chúng ta đều tươi sáng!（"
+    },
+    {
+      "num": 488,
+      "title": "Học hỏi sở trường của muôn người, “người hàng xóm” đầu tiên của vùng trũng ("
+    },
+    {
+      "num": 489,
+      "title": "Tên trộm mỏ than! Cạy mở điểm tựa của nền khoa học kỹ thuật ngày xưa (2)"
+    },
+    {
+      "num": 490,
+      "title": "Không có sự cho phép của tôi, không ai được chết! (Hai chương gộp lại)"
+    },
+    {
+      "num": 491,
+      "title": "Cơn mưa đúng lúc, “món quà” của người lùn! (Hai chương gộp một)"
+    },
+    {
+      "num": 492,
+      "title": "Bùng nổ! Đêm đầu tiên náo nhiệt ở vùng trũng! (Hai chương gộp một)"
+    },
+    {
+      "num": 493,
+      "title": "Tin tình báo lớn, nơi “an toàn” nhất! (Hai chương gộp một)"
+    },
+    {
+      "num": 494,
+      "title": "Tài nguyên cấp bốn! Thu hoạch khủng khiếp khiến người ta tê cả da đầu"
+    },
+    {
+      "num": 495,
+      "title": "Điểm sinh tồn mới! Khởi đầu công cuộc xây dựng quy mô lớn! (Hai chương gộp một)"
+    },
+    {
+      "num": 496,
+      "title": "Tiềm lực tăng vọt, lãnh địa hoàn toàn mới! (Hai chương gộp một)"
+    },
+    {
+      "num": 497,
+      "title": "Bốn người hàng xóm, vùng trũng “trù phú”! (Hai chương gộp lại)"
+    },
+    {
+      "num": 498,
+      "title": "Công trình đặc biệt, hướng phát triển riêng! (Hai chương gộp một)"
+    },
+    {
+      "num": 499,
+      "title": "Người cây cổ xưa, Thỏa thuận liên minh cấp 5 (2 chương gộp)"
+    },
+    {
+      "num": 500,
+      "title": "Trời sắp đổi, kế hoạch táo bạo qua mặt trời cao! (Hai chương gộp một)"
+    },
+    {
+      "num": 501,
+      "title": "Chấn động chưa từng có! Kế hoạch Nam Thiên Môn! (Hai chương gộp một)"
+    },
+    {
+      "num": 502,
+      "title": "Gặp lại cấp Sử Thi! Cây trồng nền móng đầu tiên của vùng trũng!"
+    },
+    {
+      "num": 503,
+      "title": "Dã tâm bành trướng, cỗ “xe chiến” không thể dừng lại"
+    },
+    {
+      "num": 504,
+      "title": "Cải cách, chiếc túi phúc bảy sắc đầu tiên!"
+    },
+    {
+      "num": 505,
+      "title": "Cảnh tỉnh, vị khách không mời giữa đêm! (Hai chương gộp một)"
+    },
+    {
+      "num": 506,
+      "title": "Công nghệ nghiền ép, bộ mặt thật của tộc Ma Hồn! (Hai chương gộp một)"
+    },
+    {
+      "num": 507,
+      "title": "Khoản vay khổng lồ! Cơ hội tốt nhất để trà trộn vào Ma Hồn tộc!"
+    },
+    {
+      "num": 508,
+      "title": "Bảy Mươi Hai Phép Biến Hóa! Cứ Để Khoản Vay Bay Một Lát (Hai chương gộp một)"
+    },
+    {
+      "num": 509,
+      "title": "Vào thành, nỗi kinh ngạc đến từ những chủng tộc khác!"
+    },
+    {
+      "num": 510,
+      "title": "Tử chiến, người thợ rèn người lùn xông lên!"
+    },
+    {
+      "num": 511,
+      "title": "Kẻ chấp pháp, thân phận bí ẩn của Cáp Nhĩ!"
+    },
+    {
+      "num": 512,
+      "title": "Quyền giám sát, đêm đầu tiên ở Tự Do Thành"
+    },
+    {
+      "num": 513,
+      "title": "Cơn sốt săn hàng! Mười sàn giao dịch lớn nhất cũng phải cứng họng!"
+    },
+    {
+      "num": 514,
+      "title": "Khai sáng, nhà tư bản đầu tiên của Tự Do Thành！"
+    },
+    {
+      "num": 515,
+      "title": "Đàm phán, lãnh chúa Ma Hồn tộc bị mất hết quyền lực!"
+    },
+    {
+      "num": 516,
+      "title": "Đêm sao trở về, chim khách chiếm tổ chim cu!"
+    },
+    {
+      "num": 517,
+      "title": "Quét sạch bằng bạo lực, lãnh địa đổi thay hoàn toàn!"
+    },
+    {
+      "num": 518,
+      "title": "Bất ngờ ngoài dự liệu, ý tưởng vĩ đại “người người như rồng”"
+    },
+    {
+      "num": 519,
+      "title": "Thôn làng “mới”, khúc dạo đầu cho thời kỳ phát triển thần tốc!"
+    },
+    {
+      "num": 520,
+      "title": "Nâng cấp toàn diện, súng trường đổi thành đại bác!"
+    },
+    {
+      "num": 521,
+      "title": "Tường lửa! Giới hạn biến hình của loài người!"
+    },
+    {
+      "num": 522,
+      "title": "Bốn phương chấn động, kỳ quan khởi hành！"
+    },
+    {
+      "num": 523,
+      "title": "Thuộc tính lãnh địa! Hình thành bước đầu của động thiên phúc địa!"
+    },
+    {
+      "num": 524,
+      "title": "Biến số ẩn, bộ điều khiển ăn sâu vào máu"
+    },
+    {
+      "num": 525,
+      "title": "Kinh Hồng Thoáng Nhìn! Thế Giới Sau Bức Tường!"
+    },
+    {
+      "num": 526,
+      "title": "Chọn điểm neo, khoảng cách không thể vượt qua!"
+    },
+    {
+      "num": 527,
+      "title": "Ra tay sấm sét! Đổi mệnh nghịch thiên!"
+    },
+    {
+      "num": 528,
+      "title": "Dung hợp, chuyện nạp tiền ta là giỏi nhất!"
+    },
+    {
+      "num": 529,
+      "title": "Run rẩy đi! Những cây hẹ ở Thành Tự Do!"
+    },
+    {
+      "num": 530,
+      "title": "Mệt mỏi vô cùng, những sắp xếp cuối cùng trước mùa đông dài đằng đẵng！"
+    },
+    {
+      "num": 531,
+      "title": "Phòng lò hơi tự chế, công dụng kỳ diệu của đá nóng!"
+    },
+    {
+      "num": 532,
+      "title": "Ngươi xem, đây mới là lòng người ấm nóng!"
+    },
+    {
+      "num": 533,
+      "title": "Sưởi ấm, lên đường, hành trình cuồn cuộn tiến về phía trước!"
+    },
+    {
+      "num": 534,
+      "title": "Cục diện phức tạp, điểm cân bằng tiến thoái lưỡng nan!"
+    },
+    {
+      "num": 535,
+      "title": "Mâu thuẫn trong ngoài, Tự Do Thành “mục nát”!"
+    },
+    {
+      "num": 536,
+      "title": "Gặp lại loài người! Tin tức về khu tập trung siêu lớn!"
+    },
+    {
+      "num": 537,
+      "title": "Đội ngũ mới, bất ngờ bị người khác nẫng tay trên!"
+    },
+    {
+      "num": 538,
+      "title": "Dọn sạch nội gián, “con mồi béo” tự dẫn xác đến cửa"
+    },
+    {
+      "num": 539,
+      "title": "Trời đất đổi thay! Đòn tấn công bất ngờ!"
+    },
+    {
+      "num": 540,
+      "title": "Đánh trả dữ dội, nhân lúc cháy nhà mà hôi của!"
+    },
+    {
+      "num": 541,
+      "title": "Đục nước béo cò, một đêm giàu sụ!"
+    },
+    {
+      "num": 542,
+      "title": "Trọng thương, thu hoạch khủng khiếp đến khó tin!"
+    },
+    {
+      "num": 543,
+      "title": "Nội tình, tự nhìn lại, một lần ẩn mình mới"
+    },
+    {
+      "num": 544,
+      "title": "Mưu tính thành công, thắng lợi trở về!"
+    },
+    {
+      "num": 545,
+      "title": "Đại thu hoạch, những thuộc tính mới phát triển toàn diện!"
+    },
+    {
+      "num": 546,
+      "title": "Điểm xanh, bảng trạng thái kỳ diệu!"
+    },
+    {
+      "num": 547,
+      "title": "Cửa Sài Nghe Tiếng Chó Sủa, Người Trở Về Trong Đêm Tuyết Gió"
+    },
+    {
+      "num": 548,
+      "title": "Ảnh hưởng, tất cả mọi người đều cần đến ta!"
+    },
+    {
+      "num": 549,
+      "title": "Cuộc cách mạng máy móc, nền khoa học kỹ thuật đủ sức thúc đẩy văn minh phát triển"
+    },
+    {
+      "num": 550,
+      "title": "Ta từng nhìn thấy thiên đường, nên mới biết địa ngục là gì!"
+    },
+    {
+      "num": 551,
+      "title": "Dễ dàng nhìn thấu, vị lãnh chúa loài người đầu tiên！"
+    },
+    {
+      "num": 552,
+      "title": "Nâng cấp thay đổi về chất! Mỏ đá nóng tiến hóa!"
+    },
+    {
+      "num": 553,
+      "title": "Đá năng lượng KF, khởi đầu cho thời kỳ phát triển mạnh mẽ!"
+    },
+    {
+      "num": 554,
+      "title": "Thỏ khôn có ba hang, sự cần thiết của việc nghiên cứu thuốc giải!"
+    },
+    {
+      "num": 555,
+      "title": "Cú bất ngờ lớn, thiết bị đầu cuối phiêu lưu kỳ diệu!"
+    },
+    {
+      "num": 556,
+      "title": "Chấn động chưa từng có, mô-đun hóa đúng nghĩa!"
+    },
+    {
+      "num": 557,
+      "title": "Những trở ngại trong quá trình phát triển, lần đầu tiên Vùng Trũng chính thức tiến hành ngoại giao！"
+    },
+    {
+      "num": 558,
+      "title": "Hoa đất, hệ cộng sinh Người Cây hiếm gặp!"
+    },
+    {
+      "num": 559,
+      "title": "Lễ ra mắt, ta đã nhìn thấu cả đáy quần của ngươi!"
+    },
+    {
+      "num": 560,
+      "title": "Ba loại thực vật, tham vọng ngày càng lớn!"
+    },
+    {
+      "num": 561,
+      "title": "Kế hoạch C! Màn đấu trí đỉnh cao!"
+    },
+    {
+      "num": 562,
+      "title": "Vung tiền như nước, ngài Thiết Cức hào phóng!"
+    },
+    {
+      "num": 563,
+      "title": "Kế hoạch thu phục, toàn là kẻ xấu!"
+    },
+    {
+      "num": 564,
+      "title": "Chuẩn bị chiến đấu, toàn quân xuất động！"
+    },
+    {
+      "num": 565,
+      "title": "Cuộc chiến thông tin, sức áp đảo đến từ chiến tranh hiện đại!"
+    },
+    {
+      "num": 566,
+      "title": "Thu hoạch lớn! Niềm vui được ăn không đã lâu không gặp！"
+    },
+    {
+      "num": 567,
+      "title": "Mỏ Than Khổng Lồ, Thoải Mái Nằm Không!"
+    },
+    {
+      "num": 568,
+      "title": "Bốn nhà máy lớn, ý tưởng vĩ đại về dây chuyền sản xuất hiện đại!"
+    },
+    {
+      "num": 569,
+      "title": "Diện mạo mới, tương lai của chúng ta đều rộng mở!"
+    },
+    {
+      "num": 570,
+      "title": "Thu hoạch đáng mừng! Nghiên cứu chế tạo vòng tụ năng!"
+    },
+    {
+      "num": 571,
+      "title": "Tạo nên lịch sử! Truyền năng lượng không dây với tốc độ ánh sáng!"
+    },
+    {
+      "num": 572,
+      "title": "Thực vật kỳ lạ, những đặc tính biến đổi muôn hình vạn trạng！"
+    },
+    {
+      "num": 573,
+      "title": "Cải tạo hàng loạt, biến đồ bỏ đi thành báu vật!"
+    },
+    {
+      "num": 574,
+      "title": "Kết hợp phối hợp, những ngày tháng bình dị bận rộn！"
+    },
+    {
+      "num": 575,
+      "title": "Có điện! Kỳ quan ‘Oreo’ hoàn thành!"
+    },
+    {
+      "num": 576,
+      "title": "Tín ngưỡng nguyên thủy, gieo xuống hạt giống ‘hy vọng’!"
+    },
+    {
+      "num": 577,
+      "title": "Vô tuyến điện! Con người vượt qua khoảng cách để liên lạc với nhau!"
+    },
+    {
+      "num": 578,
+      "title": "Vận hành ma trận, di tích của ‘người một nhà’!"
+    },
+    {
+      "num": 579,
+      "title": "Ý tưởng cải tiến, mùa đông sắp đến!"
+    },
+    {
+      "num": 580,
+      "title": "Tám bộ phận lớn! Cùng chung một gốc rễ!"
+    },
+    {
+      "num": 581,
+      "title": "Thả dù bạch kim, thu hoạch khủng khiếp gấp ba!"
+    },
+    {
+      "num": 582,
+      "title": "Bước nhảy vọt về công nghệ! Món quà từ thời đại du hành giữa các vì sao chặng ngắn và trung bình"
+    },
+    {
+      "num": 583,
+      "title": "Lòng người có thể dùng, trưởng thành bình thường nhưng đầy sức sống!"
+    },
+    {
+      "num": 584,
+      "title": "Lãnh địa Thiên Nguyên! Mười sáu cải cách chưa từng có trong lịch sử!"
+    },
+    {
+      "num": 585,
+      "title": "Liên lạc đường dài, loài người Trái Đất tiến lên!"
+    },
+    {
+      "num": 586,
+      "title": "Tuyết lớn cuối cùng cũng đến, quy định mới để chống thiên tai!"
+    },
+    {
+      "num": 587,
+      "title": "Nhiệm vụ tăng lượt xem, đại lục mới điên cuồng!"
+    },
+    {
+      "num": 588,
+      "title": "Ngày đầu tiên, video chống thiên tai bùng nổ!"
+    },
+    {
+      "num": 589,
+      "title": "Nỗi lo tuyết chất đống, lò luyện đan nâng cấp!"
+    },
+    {
+      "num": 590,
+      "title": "Tận mắt trải nghiệm, lần nữa khám phá giới hạn công nghệ của nhân loại!"
+    },
+    {
+      "num": 591,
+      "title": "Vượt qua thiên tai bình an, kế hoạch tiến vào núi!"
+    },
+    {
+      "num": 592,
+      "title": "Xe leo trèo thu nhỏ, chuẩn bị cho chuyến đi bước đầu!"
+    },
+    {
+      "num": 593,
+      "title": "Ngày thứ hai, hạnh phúc của một người bình thường!"
+    },
+    {
+      "num": 594,
+      "title": "Truyền thừa văn minh, sức mạnh thực sự của tính năng cấp tỷ"
+    },
+    {
+      "num": 595,
+      "title": "Ngày thứ năm, một chuyện vui, người làm chứng cho hôn lễ!"
+    },
+    {
+      "num": 596,
+      "title": "Tăng tốc lên 100 km/h chỉ trong hai giây, động cơ đá năng lượng mạnh mẽ!"
+    },
+    {
+      "num": 597,
+      "title": "Lần đầu chế tạo xe, công nhân cơ khí được nâng cấp toàn diện!"
+    },
+    {
+      "num": 598,
+      "title": "Trạm y tế, trạm máy nông nghiệp, ban xây dựng cơ bản!"
+    },
+    {
+      "num": 599,
+      "title": "Xuất phát! Tiến thẳng vào dãy núi vạn dặm!"
+    },
+    {
+      "num": 600,
+      "title": "Vượt núi khó, khó hơn lên trời xanh!"
+    },
+    {
+      "num": 601,
+      "title": "Vượt núi cao, một nơi tụ họp mới của loài người!"
+    },
+    {
+      "num": 602,
+      "title": "Lòng người đáng sợ, bóng tối ẩn mình trong ánh sáng!"
+    },
+    {
+      "num": 603,
+      "title": "Ngươi hỏi ta là ai? Đoán xem ta là ai!"
+    },
+    {
+      "num": 604,
+      "title": "Dùng vũ lực giải phóng, lãnh địa vách núi bừng cháy!"
+    },
+    {
+      "num": 605,
+      "title": "Ta là ai? Ta chính là Tô Ma!"
+    },
+    {
+      "num": 606,
+      "title": "Sai lầm nghiêm trọng, ba mặt phức tạp của bản tính con người！"
+    },
+    {
+      "num": 607,
+      "title": "Ba cuốn sách tranh, sức mạnh của những cường giả thời đại trước!"
+    },
+    {
+      "num": 608,
+      "title": "Bí mật trong núi, kẻ quái dị tập kích!"
+    },
+    {
+      "num": 609,
+      "title": "Cuốn sổ ghi chép bí ẩn, ý tưởng về trại lao dịch!"
+    },
+    {
+      "num": 610,
+      "title": "Núi Đại Vương, vùng đất máu tanh không một bóng người!"
+    },
+    {
+      "num": 611,
+      "title": "Dấu vết nhỏ, dòng thời gian không khớp!"
+    },
+    {
+      "num": 612,
+      "title": "Hai ngày biến mất, bí mật của Vương Nguyên Soái!"
+    },
+    {
+      "num": 613,
+      "title": "Lãnh chúa nữ đầu tiên, cuộc tập kích bất ngờ trong đêm!"
+    },
+    {
+      "num": 614,
+      "title": "Lá bài tẩy bùng nổ, kẻ địch vừa xa lạ vừa quen thuộc!"
+    },
+    {
+      "num": 615,
+      "title": "Tác chiến đặc biệt, hàng thật giá thật!"
+    },
+    {
+      "num": 616,
+      "title": "Chiêu Mộ! Tôi Là Ai? Chuyện Đó Không Quan Trọng!"
+    },
+    {
+      "num": 617,
+      "title": "Nghịch thiên đổi mệnh, cách thu phục không giống ai!"
+    },
+    {
+      "num": 618,
+      "title": "Ngoài dự liệu, gặp lại người quen!"
+    },
+    {
+      "num": 619,
+      "title": "Cơ hội kết đồng minh, manh mối quan trọng đến từ Quan Vũ An！"
+    },
+    {
+      "num": 620,
+      "title": "Không tìm thấy người này, khoảng cách giữa các vùng lãnh địa khác nhau một trời một vực！"
+    },
+    {
+      "num": 621,
+      "title": "Linh kiện đồng hồ bỏ túi, khả năng khôi phục hoàn chỉnh!"
+    },
+    {
+      "num": 622,
+      "title": "Mỗi người một tính toán, thiên tài nghiên cứu vũ khí giữa núi rừng!"
+    },
+    {
+      "num": 623,
+      "title": "Nhảy Vọt Thời Gian! Di Tích Đặc Biệt Thứ Hai!"
+    },
+    {
+      "num": 624,
+      "title": "Năm năm, tám năm, mười năm！"
+    },
+    {
+      "num": 625,
+      "title": "Giáng lâm, giáng lâm, giáng lâm!"
+    },
+    {
+      "num": 626,
+      "title": "Dấu vết bí ẩn nơi núi hoang, công trình kỳ lạ!"
+    },
+    {
+      "num": 627,
+      "title": "Thiên Tổ Tam Hiệu, món quà đến từ Trái Đất!"
+    },
+    {
+      "num": 628,
+      "title": "Tin tức từ quê nhà, thu hoạch kha khá đồ điện gia dụng!"
+    },
+    {
+      "num": 629,
+      "title": "Đồng hương ơi, mau mở cửa! Chúng tôi đến mang hơi ấm cho mọi người đây!"
+    },
+    {
+      "num": 630,
+      "title": "Lần đầu mở cửa, bảy chữ cái trên cây cột đồng!"
+    },
+    {
+      "num": 631,
+      "title": "Trừ phi nó rơi trúng đầu ông đây!"
+    },
+    {
+      "num": 632,
+      "title": "Sao băng rơi xuống, ngôi làng bí ẩn!"
+    },
+    {
+      "num": 633,
+      "title": "Bọn họ không phải con người! Vậy bọn họ là ai?!"
+    },
+    {
+      "num": 634,
+      "title": "Dê vào miệng cọp? Nhiệm vụ ủy thác từ Người Cá!"
+    },
+    {
+      "num": 635,
+      "title": "Chủ nhân biển sâu, chúng tôi trở về theo bước chân ngài!"
+    },
+    {
+      "num": 636,
+      "title": "Gặp lại người cá! Công dụng thứ hai của lò luyện đan!"
+    },
+    {
+      "num": 637,
+      "title": "Quyết định của Tô Ma, khởi đầu của những biến loạn và tai họa!"
+    },
+    {
+      "num": 638,
+      "title": "Sáu ngày gian nan, đội ngũ cuối cùng cũng đến nơi!"
+    },
+    {
+      "num": 639,
+      "title": "Lãnh địa thay đổi, cuối cùng cũng đến Khởi Nguyên!"
+    },
+    {
+      "num": 640,
+      "title": "Cuối cùng cũng tiến vào! Lò luyện méo mó của lòng người!"
+    },
+    {
+      "num": 641,
+      "title": "Có việc rồi! “Tôm tép” tự dâng đến tận cửa!"
+    },
+    {
+      "num": 642,
+      "title": "Chuyển hướng mũi nhọn, thủ đoạn của vị lãnh chúa bí ẩn"
+    },
+    {
+      "num": 643,
+      "title": "Giao dịch, hình như tôi từng gặp anh ở đâu rồi?"
+    },
+    {
+      "num": 644,
+      "title": "Chạm mặt, màn đấu trí không lời!"
+    },
+    {
+      "num": 645,
+      "title": "Điều kỳ lạ, màn sương nghi hoặc bao trùm những người bình thường!"
+    },
+    {
+      "num": 646,
+      "title": "Lần theo manh mối, là địch chứ không phải bạn!"
+    },
+    {
+      "num": 647,
+      "title": "Tranh công? Căng thẳng chực bùng nổ！"
+    },
+    {
+      "num": 648,
+      "title": "Nghe lén giữa đêm, quyết định ngay lập tức!"
+    },
+    {
+      "num": 649,
+      "title": "Truy tìm trong đêm, đánh thẳng vào hang ổ!"
+    },
+    {
+      "num": 650,
+      "title": "Chờ đợi, di tích bên trong vách đá!"
+    },
+    {
+      "num": 651,
+      "title": "Tiến vào, một không gian khác được trò chơi công nhận!"
+    },
+    {
+      "num": 652,
+      "title": "Bí cảnh đổ nát, khởi nguồn từ đâu!"
+    },
+    {
+      "num": 653,
+      "title": "Mưa lớn, từ trên xuống dưới đều đã hỏng cả rồi!"
+    },
+    {
+      "num": 654,
+      "title": "Lựa chọn khó khăn, thử thách lòng người!"
+    },
+    {
+      "num": 655,
+      "title": "Bốn tuyến phối hợp, đêm đen trước bình minh!"
+    },
+    {
+      "num": 656,
+      "title": "Đánh tan từng nhóm, tư duy ngược!"
+    },
+    {
+      "num": 657,
+      "title": "Bất ngờ ngoài dự tính, Hầu Thiết Long kinh ngạc!"
+    },
+    {
+      "num": 658,
+      "title": "Tiền căn hậu quả, lịch sử vươn lên của một kẻ vô danh!"
+    },
+    {
+      "num": 659,
+      "title": "Vũ khí còn sót lại, thương tích khó tránh khỏi!"
+    },
+    {
+      "num": 660,
+      "title": "Sinh vật máy móc, một con đường tiến hóa khác"
+    },
+    {
+      "num": 661,
+      "title": "Nhiệt độ đột ngột giảm, mùa đông giá rét sắp đến!"
+    },
+    {
+      "num": 662,
+      "title": "Sự kết hợp kỳ diệu! Thiên Cơ Đạo Tặc hoàn toàn mới!"
+    },
+    {
+      "num": 663,
+      "title": "Hy sinh, dòng thác thép!"
+    },
+    {
+      "num": 664,
+      "title": "Xác Suất Ngang Nhau, Sinh Tồn Tàn Khốc Ở Vùng Đất Hoang!"
+    },
+    {
+      "num": 665,
+      "title": "Giao chiến dữ dội, cuộc đối đầu giữa những kẻ mạnh!"
+    },
+    {
+      "num": 666,
+      "title": "Giằng co trước trận, quyết tử không lùi!"
+    },
+    {
+      "num": 667,
+      "title": "Máu và lửa, cuối cùng cũng đối đầu!"
+    },
+    {
+      "num": 668,
+      "title": "Tung hết con bài, thể hiện thực lực thật sự!"
+    },
+    {
+      "num": 669,
+      "title": "Mùa đông khắc nghiệt sắp đến, giành lại “tự do”!"
+    },
+    {
+      "num": 670,
+      "title": "Chim dậy sớm bay trước, thế giới tương lai!"
+    },
+    {
+      "num": 671,
+      "title": "Ba đặc quyền, trở về tầng đáy!"
+    },
+    {
+      "num": 672,
+      "title": "Xuyên Không Giáng Xuống, Vùng Đất Hoang Tám Năm Sau!"
+    },
+    {
+      "num": 673,
+      "title": "Sự ngăn cách thân phận, điều tất yếu của sự phát triển tuyến tính!"
+    },
+    {
+      "num": 674,
+      "title": "Chế độ điểm tích lũy, thế giới mục nát!"
+    },
+    {
+      "num": 675,
+      "title": "Ảnh hưởng tích cực, tiền bạc là trên hết！"
+    },
+    {
+      "num": 676,
+      "title": "Tóm gọn cả ổ, kiếm một món hời lớn!"
+    },
+    {
+      "num": 677,
+      "title": "Danh tính mới, lên đường trở về nhà!"
+    },
+    {
+      "num": 678,
+      "title": "Bản đồ mới, nguồn cảm hứng thiết kế đến từ tương lai!"
+    },
+    {
+      "num": 679,
+      "title": "Xung đột bùng nổ! Thảm họa kinh hoàng nửa năm sau!"
+    },
+    {
+      "num": 680,
+      "title": "Nhiệm vụ mới, khởi đầu năm thứ tám ở vùng đất hoang!"
+    },
+    {
+      "num": 681,
+      "title": "Ra đây luyện thử, tranh giành lãnh địa!"
+    },
+    {
+      "num": 682,
+      "title": "Xung đột dữ dội, binh trời giáng xuống!"
+    },
+    {
+      "num": 683,
+      "title": "Gặp lại người xưa, một khởi đầu cao hơn nữa！"
+    },
+    {
+      "num": 684,
+      "title": "Giao đấu, cuộc so tài đến từ những dòng thời gian khác nhau!"
+    },
+    {
+      "num": 685,
+      "title": "Nguyệt Khê Bảo Thủy, bảy năm của Phong Long!"
+    },
+    {
+      "num": 686,
+      "title": "Nhóc con, đúng là thiên tài thật đấy!"
+    },
+    {
+      "num": 687,
+      "title": "Cuối cùng cũng đến nơi, thành phố Hy Vọng phồn hoa và xa lạ!"
+    },
+    {
+      "num": 688,
+      "title": "Vừa đến lãnh địa, thành phố tiền bạc!"
+    },
+    {
+      "num": 689,
+      "title": "Lên đường nhận việc, công việc đầu tiên"
+    },
+    {
+      "num": 690,
+      "title": "Tung hết mọi cách, cuộc cạnh tranh kinh doanh ở thị trấn Tang Điền!"
+    },
+    {
+      "num": 691,
+      "title": "Cạnh tranh giữa các cửa hàng lương thực, đến cả vùng đất hoang cũng chạy đua thành tích!"
+    },
+    {
+      "num": 692,
+      "title": "Kỳ quặc đến cùng, công việc chính thức đầu tiên!"
+    },
+    {
+      "num": 693,
+      "title": "Nhận việc, nói về nhu cầu của một thợ điện hàng đầu!"
+    },
+    {
+      "num": 694,
+      "title": "Động não, nền tảng phát triển thu nhỏ quý giá!"
+    },
+    {
+      "num": 695,
+      "title": "Sóng ngầm dâng lên, bất đồng quan điểm!"
+    },
+    {
+      "num": 696,
+      "title": "Khủng hoảng giám sát, ý tưởng về siêu chiến giáp!"
+    },
+    {
+      "num": 697,
+      "title": "Nhà họ Trương kỳ lạ, lần đầu làm thầy!"
+    },
+    {
+      "num": 698,
+      "title": "Cơn mưa tháng Năm, sức ép đến từ đội thanh tra!"
+    },
+    {
+      "num": 699,
+      "title": "Nâng cấp! Nâng cấp! Trục Nhật loại một!"
+    },
+    {
+      "num": 700,
+      "title": "Nguy cơ ập đến, thảm họa thu hoạch mùa hè sắp sửa giáng xuống!"
+    },
+    {
+      "num": 701,
+      "title": "Gió nổi mây vần, lọt vào tầm mắt của Đội Thanh Tra!"
+    },
+    {
+      "num": 702,
+      "title": "Phong tỏa thông tin, tranh chấp thế lực!"
+    },
+    {
+      "num": 703,
+      "title": "Đầu bếp mới đến, vị đại ca này không hề tầm thường!"
+    },
+    {
+      "num": 704,
+      "title": "Nghiên cứu thành công! Chủ động ra tay!"
+    },
+    {
+      "num": 705,
+      "title": "Ngoài dự liệu, màn mở đầu của vụ thu hoạch mùa hè!"
+    },
+    {
+      "num": 706,
+      "title": "Nhị vương tử, đại hội khởi động trước mùa thu hoạch hè!"
+    },
+    {
+      "num": 707,
+      "title": "Cuộc sống của người bình thường, cổ phần Lương Phường đã vào tay!"
+    },
+    {
+      "num": 708,
+      "title": "Tầm mắt hội tụ, tư tưởng va chạm！"
+    },
+    {
+      "num": 709,
+      "title": "Mưa đá kinh hoàng, thế đạo vốn dĩ là như vậy!"
+    },
+    {
+      "num": 710,
+      "title": "Thăm dò Hi Vọng Thị lần thứ hai, Bảo Ngư Trọng Công!"
+    },
+    {
+      "num": 711,
+      "title": "Lần đầu đến Viện Khoa Học, khoảng cách giàu nghèo bị chia cắt!"
+    },
+    {
+      "num": 712,
+      "title": "Gặp lại người xưa, cơ hội cho cuộc bùng nổ khoa học lần thứ tư!"
+    },
+    {
+      "num": 713,
+      "title": "Ba tấm bia đá, đủ sức thỏa mãn mọi trí tưởng tượng về khoa học"
+    },
+    {
+      "num": 714,
+      "title": "Cột Chống Trời! Khả Năng Chịu Lực Gấp Năm Trăm Lần, Vươn Thẳng Lên Trời!"
+    },
+    {
+      "num": 715,
+      "title": "Bên bờ xung đột, tranh giành phe thứ năm!"
+    },
+    {
+      "num": 716,
+      "title": "Lên ngàn tầng, ngón tay chạm trời, bàn tay hái sao!"
+    },
+    {
+      "num": 717,
+      "title": "Bùng nổ! Hy sinh! Phẫn nộ!"
+    },
+    {
+      "num": 718,
+      "title": "Ai là con cừu? Ai là kẻ đồ tể!"
+    },
+    {
+      "num": 719,
+      "title": "Liều chết đánh một trận! Vũ khí tối thượng của Viện Khoa Học!"
+    },
+    {
+      "num": 720,
+      "title": "Hiệp ước cống hiến, Chí Tôn trong một ngày!"
+    },
+    {
+      "num": 721,
+      "title": "Mọi chuyện đã ngã ngũ, tư duy siêu tốc!"
+    },
+    {
+      "num": 722,
+      "title": "Người cũ đã già, sức chống trả vượt qua giới hạn!"
+    },
+    {
+      "num": 723,
+      "title": "Đối mặt trực tiếp với Cát Dương, dòng thông tin trống!"
+    },
+    {
+      "num": 724,
+      "title": "Mặt trời lặn, chờ đợi, đuổi theo mặt trời!"
+    },
+    {
+      "num": 725,
+      "title": "Hiện tại đầy rẫy thương tích, tương lai lại một lần nữa tràn đầy hy vọng!"
+    },
+    {
+      "num": 726,
+      "title": "Người không có ý hại hổ, hổ lại mang lòng hại người！"
+    },
+    {
+      "num": 727,
+      "title": "Pháo hoa rực rỡ, khách đảo thành chủ!"
+    },
+    {
+      "num": 728,
+      "title": "Cùng nhau thưởng thức đi, đây chính là âm thanh của thời đại đổi thay!"
+    },
+    {
+      "num": 729,
+      "title": "Thân phận mới, đứng vững gót chân!"
+    },
+    {
+      "num": 730,
+      "title": "Lại đến Bảo Ngư, mục tiêu mới!"
+    },
+    {
+      "num": 731,
+      "title": "Quy luật của tai họa, màn sương mù đáng sợ!"
+    },
+    {
+      "num": 732,
+      "title": "Màn Sương Không Có Lời Giải, Mùa Thu Hoạch Hè Đang Diễn Ra"
+    },
+    {
+      "num": 733,
+      "title": "Thông báo thảm họa, hỗn loạn sắp ập đến!"
+    },
+    {
+      "num": 734,
+      "title": "Sóng gió bất ngờ, thông tin thế giới！"
+    },
+    {
+      "num": 735,
+      "title": "Chỉ trong chớp mắt, gặp lại nhau xuyên thời gian và không gian!"
+    },
+    {
+      "num": 736,
+      "title": "Phần thưởng thân phận, tai họa giáng xuống!"
+    },
+    {
+      "num": 737,
+      "title": "Thảm họa kết thúc, giá lương thực tăng vọt!"
+    },
+    {
+      "num": 738,
+      "title": "Biến Cố Mở Màn, Giấy Phép Giao Dịch!"
+    },
+    {
+      "num": 739,
+      "title": "Rầm rộ phô trương! Toan tính nhỏ nhen của nhà họ Trương!"
+    },
+    {
+      "num": 740,
+      "title": "Hội anh hùng, thời thế tạo nên anh hùng!"
+    },
+    {
+      "num": 741,
+      "title": "Tiệc tối nhà họ Trần, người quen dưới lớp mặt nạ!"
+    },
+    {
+      "num": 742,
+      "title": "Hồng Môn Yến, đối mặt trực tiếp với Trần thị!"
+    },
+    {
+      "num": 743,
+      "title": "Con nước thời đại, con thuyền lãnh địa!"
+    },
+    {
+      "num": 744,
+      "title": "Người cũ đã khuất, đếm ngược đến thời điểm ký thỏa thuận ngừng chiến!"
+    },
+    {
+      "num": 745,
+      "title": "Canh bạc lớn! Đứng trước ngã rẽ của tương lai!"
+    },
+    {
+      "num": 746,
+      "title": "Đầu đuôi thân phận, quy tắc đào thải！"
+    },
+    {
+      "num": 747,
+      "title": "Bá Chủ Trở Về, Khởi Đầu Ban Đầu Của Trần Thị!"
+    },
+    {
+      "num": 748,
+      "title": "Lên kế hoạch cho Bảo Ngư, lòng người vẫn có thể trông cậy!"
+    },
+    {
+      "num": 749,
+      "title": "Rồng về biển lớn, lệnh triệu tập anh hùng!"
+    },
+    {
+      "num": 750,
+      "title": "Tuyển chọn anh hùng, gieo mầm cho lời hẹn ước！"
+    },
+    {
+      "num": 751,
+      "title": "Tụ lại là một ngọn lửa, tan ra là muôn ánh sao!"
+    },
+    {
+      "num": 752,
+      "title": "Thời loạn điên cuồng, bánh xe thời đại cuồn cuộn tiến về phía trước!"
+    },
+    {
+      "num": 753,
+      "title": "Tiền đã chuẩn bị đủ, đêm trước ngày rời đi!"
+    },
+    {
+      "num": 754,
+      "title": "Sự nhạy bén của Bùi Thiệu, cuối cùng cũng lấy được quặng!"
+    },
+    {
+      "num": 755,
+      "title": "Tiễn người đi thi, rốt cuộc ngươi là ai!"
+    },
+    {
+      "num": 756,
+      "title": "Muôn hình muôn vẻ chúng sinh, sự phản kháng của những kẻ nhỏ bé!"
+    },
+    {
+      "num": 757,
+      "title": "Lựa chọn khó khăn, cán cân thế lực!"
+    },
+    {
+      "num": 758,
+      "title": "Rời đi, khởi đầu của Tập đoàn Tự Tại!"
+    },
+    {
+      "num": 759,
+      "title": "Đột kích Long Ngâm Trấn, tầm nhìn của Tô đại thiện nhân!"
+    },
+    {
+      "num": 760,
+      "title": "Nguy Cơ Tuyệt Cảnh Ập Đến! Thần Binh Của Minh Chủ Giáng Lâm!"
+    },
+    {
+      "num": 761,
+      "title": "Khởi đầu mới, cuộc đời mới！"
+    },
+    {
+      "num": 762,
+      "title": "Trường Long Tiên Giang, đặt chân đến Bảo Ngư!"
+    },
+    {
+      "num": 763,
+      "title": "Ngày tàn của dị tộc, cuộc chiến vì lợi ích!"
+    },
+    {
+      "num": 764,
+      "title": "Quan mới nhậm chức, tiêu chuẩn cá quý!"
+    },
+    {
+      "num": 765,
+      "title": "Vùng đất hoang chân thực, bóng tối bị che giấu!"
+    },
+    {
+      "num": 766,
+      "title": "Thiên phú khác nhau, lựa chọn cũng khác nhau！"
+    },
+    {
+      "num": 767,
+      "title": "Danh tiếng vang xa, cao thủ võ hiệp!"
+    },
+    {
+      "num": 768,
+      "title": "Bản chất của U Năng, cơ thể tiến hóa!"
+    },
+    {
+      "num": 769,
+      "title": "Lúa Thần Linh, chiếc chìa khóa để bước chân vào con đường tiến hóa!"
+    },
+    {
+      "num": 770,
+      "title": "Bão tố âm ỉ, cái giá của phát triển！"
+    },
+    {
+      "num": 771,
+      "title": "Đại nhân, hóa ra tất cả đều nằm trong kế hoạch của ngài!"
+    },
+    {
+      "num": 772,
+      "title": "Trí Năng Khoa Phụ, hệ thống nhà thám hiểm!"
+    },
+    {
+      "num": 773,
+      "title": "Thử nghiệm đầu tiên của Chiến Giáp Truy Nhật, trí tuệ nhân tạo hỗ trợ mạnh mẽ!"
+    },
+    {
+      "num": 774,
+      "title": "Sức sống mới, mượn sức đánh sức!"
+    },
+    {
+      "num": 775,
+      "title": "Công nghệ thiết bị đầu cuối, tuyến đường buôn bán mở rộng về phía Tây!"
+    },
+    {
+      "num": 776,
+      "title": "Chinh phục quá khứ, mở lối tương lai！"
+    },
+    {
+      "num": 777,
+      "title": "Tranh giành nhân tài, trở lại đỉnh cao！"
+    },
+    {
+      "num": 778,
+      "title": "Di dân bùng nổ, hiệu ứng dây chuyền đáng sợ!"
+    },
+    {
+      "num": 779,
+      "title": "Thế cờ đảo chiều, thẻ cấp năm siêu cấp!"
+    },
+    {
+      "num": 780,
+      "title": "Chiến giáp vừa hoàn thành, chuẩn bị trước khi lên đường!"
+    },
+    {
+      "num": 781,
+      "title": "Cá Vua biến mất, bí ẩn về nguồn gốc huyện Bảo Ngư!"
+    },
+    {
+      "num": 782,
+      "title": "Lợi thế địa thế, thời cơ để vươn mình hưng thịnh!"
+    },
+    {
+      "num": 783,
+      "title": "Sự tôn trọng và lựa chọn, bí mật bị chôn vùi trong quá khứ!"
+    },
+    {
+      "num": 784,
+      "title": "Quyết tâm đã định, thổi vang kèn lệnh mở rộng lãnh địa!"
+    },
+    {
+      "num": 785,
+      "title": "Đại loạn! Cơ hội! Thiên Nguyên chấn động!"
+    },
+    {
+      "num": 786,
+      "title": "Căn cứ ngầm, nơi an toàn nhất!"
+    },
+    {
+      "num": 787,
+      "title": "Trời đất nứt toác, nhật nguyệt đổi dời, Thiên Nguyên trở về vị trí cũ!"
+    },
+    {
+      "num": 788,
+      "title": "Cái gọi là “chân thực”, tương lai còn tàn khốc hơn!"
+    },
+    {
+      "num": 789,
+      "title": "Nội tình dưới mặt nước, vươn ra biển sao!"
+    },
+    {
+      "num": 790,
+      "title": "Dùng máu lập uy, người cá âm mưu!"
+    },
+    {
+      "num": 791,
+      "title": "Người cá pháp sư, quyền năng của Hải Thần!"
+    },
+    {
+      "num": 792,
+      "title": "Nước biển trong vắt, sức mạnh bí ẩn thứ ba!"
+    },
+    {
+      "num": 793,
+      "title": "Đè bẹp bằng sức mạnh, sức mạnh của biển cả!"
+    },
+    {
+      "num": 794,
+      "title": "Lựa chọn mới, con đường thành thần!"
+    },
+    {
+      "num": 795,
+      "title": "Công nghệ viễn tưởng, ý tưởng táo bạo!"
+    },
+    {
+      "num": 796,
+      "title": "Ngày tháng thoi đưa, thu qua đông đến！"
+    },
+    {
+      "num": 797,
+      "title": "Khúc dạo đầu của thi triều, đếm ngược ngày trở về!"
+    },
+    {
+      "num": 798,
+      "title": "Tình cờ gặp gỡ, vị thần phiêu lưu cấp mười!"
+    },
+    {
+      "num": 799,
+      "title": "Vùng đất cực Bắc, đỉnh cao của những nhà phiêu lưu!"
+    },
+    {
+      "num": 800,
+      "title": "Nghiên cứu dịch bệnh máu, sức mạnh đến từ máu!"
+    },
+    {
+      "num": 801,
+      "title": "Tiến hóa phi nhân loại, bí ẩn của dòng thông tin!"
+    },
+    {
+      "num": 802,
+      "title": "Ghép gen, phòng tuyến cuối cùng của nhân loại!"
+    },
+    {
+      "num": 803,
+      "title": "Chuyển hóa sức mạnh, lấy độc trị độc！"
+    },
+    {
+      "num": 804,
+      "title": "Người chăn cừu, đã có vật liệu thí nghiệm!"
+    },
+    {
+      "num": 805,
+      "title": "Biến thành của mình, khách quý lại tìm đến!"
+    },
+    {
+      "num": 806,
+      "title": "Chênh lệch sức mạnh, đánh nát Thiên Thần Giáp!"
+    },
+    {
+      "num": 807,
+      "title": "Cội nguồn nhân loại, giải mã dòng thông tin!"
+    },
+    {
+      "num": 808,
+      "title": "Trao đổi lợi ích, hoàn thành tâm nguyện!"
+    },
+    {
+      "num": 809,
+      "title": "Thử nghiệm khả năng dung nạp, lên đường đến cực Bắc!"
+    },
+    {
+      "num": 810,
+      "title": "Tế bào Hải Thần, sóng ngầm cuộn trào！"
+    },
+    {
+      "num": 811,
+      "title": "Nước dâng sóng trào, cuộc chiến bí mật!"
+    },
+    {
+      "num": 812,
+      "title": "Xung đột dần bùng phát, tâm điểm của vòng xoáy!"
+    },
+    {
+      "num": 813,
+      "title": "Nguồn Gốc Của Huyết Dịch, Nỗi Lo Của Trần Kiểm!"
+    },
+    {
+      "num": 814,
+      "title": "Tỏ ra yếu thế, dấu hiệu hỗn loạn ban đầu！"
+    },
+    {
+      "num": 815,
+      "title": "Chẳng lẽ đều đã định sẵn, mọi chuyện đều có nguyên do!"
+    },
+    {
+      "num": 816,
+      "title": "Mối ràng buộc mới, lên đường đến vùng cực Bắc!"
+    },
+    {
+      "num": 817,
+      "title": "Đại chiến gen, kế hoạch của Thần Đình！"
+    },
+    {
+      "num": 818,
+      "title": "Tín đồ Hải Thần, khả năng tiến hóa!"
+    },
+    {
+      "num": 819,
+      "title": "Âm thầm lan truyền, cuối cùng cũng đến vùng cực Bắc!"
+    },
+    {
+      "num": 820,
+      "title": "Giao dịch vượt thời đại, cuối cùng cũng có được công nghệ chế tạo thiết bị đầu cuối!"
+    },
+    {
+      "num": 821,
+      "title": "Bí mật của thiết bị đầu cuối, thứ thay thế khó tìm!"
+    },
+    {
+      "num": 822,
+      "title": "Kết giới thần lực, trở lại thời đại man rợ!"
+    },
+    {
+      "num": 823,
+      "title": "Dương mưu không cách phá, âm mưu chẳng thiếu kế!"
+    },
+    {
+      "num": 824,
+      "title": "Tình thế đột ngột thay đổi, toàn diện thất thủ！"
+    },
+    {
+      "num": 825,
+      "title": "Khúc dạo đầu của làn sóng xác sống, đại trận tế máu!"
+    },
+    {
+      "num": 826,
+      "title": "Nguồn sức mạnh thần linh, cơn ác mộng sắp ập đến!"
+    },
+    {
+      "num": 827,
+      "title": "Biến động xác sống, khởi đầu của sự sụp đổ!"
+    },
+    {
+      "num": 828,
+      "title": "Vội vã chạy trốn, chiến tranh nguyên thủy!"
+    },
+    {
+      "num": 829,
+      "title": "Bức tường chống trời, hy vọng cuối cùng!"
+    },
+    {
+      "num": 830,
+      "title": "Thiên Cẩu Nuốt Trăng, Dịch Máu Bùng Phát Kinh Hoàng!"
+    },
+    {
+      "num": 831,
+      "title": "Sức mạnh thần thánh triệt tiêu lẫn nhau, kết giới đặc biệt!"
+    },
+    {
+      "num": 832,
+      "title": "Bí mật của tượng thần, một vùng thần vực khác!"
+    },
+    {
+      "num": 833,
+      "title": "Tượng Thần Rừng, Bản Nguyên Thần Lực!"
+    },
+    {
+      "num": 834,
+      "title": "Giả thuyết về Thần Vực, hình thái cuối cùng của nơi trú ẩn!"
+    },
+    {
+      "num": 835,
+      "title": "Cha con gặp mặt, thần linh giáng thế！"
+    },
+    {
+      "num": 836,
+      "title": "Thần linh đánh hộ, tượng thần nuốt chửng lẫn nhau！"
+    },
+    {
+      "num": 837,
+      "title": "Đại chiến bắt đầu, đếm ngược đến ngày thất thủ！"
+    },
+    {
+      "num": 838,
+      "title": "Bí mật Thần Vực, toàn diện thất thủ!"
+    },
+    {
+      "num": 839,
+      "title": "Tối hậu thư năm ngày, trở về Thiên Nguyên!"
+    },
+    {
+      "num": 840,
+      "title": "Thảm họa xác sống, hoàn toàn mất kiểm soát！"
+    },
+    {
+      "num": 841,
+      "title": "Thần lực ngàn vạn, con át chủ bài lớn nhất!"
+    },
+    {
+      "num": 842,
+      "title": "Đại chiến xác sống, livestream đẫm máu!"
+    },
+    {
+      "num": 843,
+      "title": "Buổi học đầu tiên, sự bình lặng cuối cùng!"
+    },
+    {
+      "num": 844,
+      "title": "Hạt giống thần lực, tư thế của kẻ chiến thắng!"
+    },
+    {
+      "num": 845,
+      "title": "Bởi vì, ta chính là Hải Thần!"
+    },
+    {
+      "num": 846,
+      "title": "Nhược Thủy thất thủ, thần chiến sắp sửa nổ ra!"
+    },
+    {
+      "num": 847,
+      "title": "Thần lực tưới tắm, lúa thần chín!"
+    },
+    {
+      "num": 848,
+      "title": "Huyết tế bắt đầu, thành phố Phong Hỏa cuối cùng!"
+    },
+    {
+      "num": 849,
+      "title": "Liên minh sụp đổ, bức thư thứ hai gửi toàn thể đồng bào nhân loại!"
+    },
+    {
+      "num": 850,
+      "title": "Kế hoạch Tạo Thần, quân bài cuối cùng của nhân loại!"
+    },
+    {
+      "num": 851,
+      "title": "Mở khóa các phiên bản, tiếng gầm bi thương của rồng!"
+    },
+    {
+      "num": 852,
+      "title": "Trời đất sụp đổ, nhật nguyệt tan vỡ, vùng đất hoang chìm trong đêm tối vĩnh hằng!"
+    },
+    {
+      "num": 853,
+      "title": "Cốt lõi thế giới, thân phận thật sự của trò chơi!"
+    },
+    {
+      "num": 854,
+      "title": "Ba ngày huyết chiến, thần linh tái hiện！"
+    },
+    {
+      "num": 855,
+      "title": "Ba vị thần cùng xuất hiện, quy tắc tan vỡ!"
+    },
+    {
+      "num": 856,
+      "title": "Thần linh ngã xuống, lòng người đại loạn!"
+    },
+    {
+      "num": 857,
+      "title": "Mùa đông hạt nhân, gió thổi về phía tây!"
+    },
+    {
+      "num": 858,
+      "title": "Kế hoạch rút lui, nhân loại không có thần!"
+    },
+    {
+      "num": 859,
+      "title": "Loạn! Loạn! Loạn!"
+    },
+    {
+      "num": 860,
+      "title": "Lòng người cuồng loạn, Adam nhượng bộ!"
+    },
+    {
+      "num": 861,
+      "title": "Bí mật của thế giới, Khay Hồn Chứa Vật!"
+    },
+    {
+      "num": 862,
+      "title": "Rút lui công bằng, chiến đấu đến phút cuối không hối tiếc！"
+    },
+    {
+      "num": 863,
+      "title": "Phá bỏ khoa học, xây dựng lại khoa học!"
+    },
+    {
+      "num": 864,
+      "title": "Đánh rơi khỏi mây xanh, Tổ Thần giáng lâm!"
+    },
+    {
+      "num": 865,
+      "title": "Hai vị thần bỏ trốn, Lôi Ngục Tuyết Cảnh xuất hiện!"
+    },
+    {
+      "num": 866,
+      "title": "Biến cố liên tiếp, thần linh hỗn chiến!"
+    },
+    {
+      "num": 867,
+      "title": "Nhân loại không có thần, ta chính là thần!"
+    },
+    {
+      "num": 868,
+      "title": "Chỉ khẽ búng tay đã hóa thành tro bụi, phất tay một cái liền tan biến!"
+    },
+    {
+      "num": 869,
+      "title": "Vua Tân Đại Lục, ta nhớ kỹ ngươi rồi!"
+    },
+    {
+      "num": 870,
+      "title": "Đỉnh cao thế giới, tai họa vĩnh viễn!"
+    },
+    {
+      "num": 871,
+      "title": "Lựa chọn khó khăn, các cấp bậc thần linh!"
+    },
+    {
+      "num": 872,
+      "title": "Mọi chuyện đã ngã ngũ, thành phố của thần linh!"
+    },
+    {
+      "num": 873,
+      "title": "Thế giới kỳ diệu, ngân hàng thần lực!"
+    },
+    {
+      "num": 874,
+      "title": "Vạn tộc tranh bảng, nhân quả kết thúc!"
+    },
+    {
+      "num": 875,
+      "title": "Ra tay tàn sát, đêm trước ngày rời đi!"
+    },
+    {
+      "num": 876,
+      "title": "Cuối cùng cũng trở về, cuộc tập kích không ngờ tới!"
+    },
+    {
+      "num": 877,
+      "title": "Cảm giác như đã cách cả một đời, khởi đầu hoàn toàn mới!"
+    },
+    {
+      "num": 878,
+      "title": "Đánh thẳng đến tận cửa, tiêu diệt toàn bộ!"
+    },
+    {
+      "num": 879,
+      "title": "Ân oán kết thúc, ngày trở về đã định!"
+    },
+    {
+      "num": 880,
+      "title": "Cùng nhau trở về nhà, nguyên mẫu xe vận tải!"
+    },
+    {
+      "num": 881,
+      "title": "Thiết bị tự chế, món quà lớn từ trạng thái!"
+    },
+    {
+      "num": 882,
+      "title": "Đôi Mắt Chân Thật, thần kỹ của lãnh chúa!"
+    },
+    {
+      "num": 883,
+      "title": "Truyền dẫn không gian, phương tiện truyền kỳ ra đời!"
+    },
+    {
+      "num": 884,
+      "title": "Như Ý Chiến Xa, dị tộc thần linh!"
+    },
+    {
+      "num": 885,
+      "title": "Cực Quang Hội, kế hoạch Thiên Nguyên!"
+    },
+    {
+      "num": 886,
+      "title": "Vượt ngàn dặm đường, người đi xa trở về nhà!"
+    },
+    {
+      "num": 887,
+      "title": "Lãnh địa thay đổi diện mạo, tiềm lực tăng vọt!"
+    },
+    {
+      "num": 888,
+      "title": "Đội buôn Tứ Bình, muôn vật đổi mới!"
+    },
+    {
+      "num": 889,
+      "title": "Gì cơ? Ngươi nói nơi này là đất hoang ư?"
+    },
+    {
+      "num": 890,
+      "title": "Quy trình nhiệm vụ, di tích bị áp chế!"
+    },
+    {
+      "num": 891,
+      "title": "Di tích bị cắt xén, cái giá phải trả khi khai quật!"
+    },
+    {
+      "num": 892,
+      "title": "Bóng dáng của một thời đại, anh hùng thức tỉnh!"
+    },
+    {
+      "num": 893,
+      "title": "Khí, Hồn, Phách – Loạn chiến sắp sửa bắt đầu!"
+    },
+    {
+      "num": 894,
+      "title": "Trở về tay trắng, chuyển hướng trọng tâm！"
+    },
+    {
+      "num": 895,
+      "title": "Khủng hoảng lương thực, trăm việc chờ chấn chỉnh！"
+    },
+    {
+      "num": 896,
+      "title": "Ngọa Long Phượng Sồ, cải cách theo hướng thị trường!"
+    },
+    {
+      "num": 897,
+      "title": "Dự báo thảm họa, bức tường sương mù!"
+    },
+    {
+      "num": 898,
+      "title": "Thu phục Người Cá, sương mù kết nối!"
+    },
+    {
+      "num": 899,
+      "title": "Thiên tai lần thứ mười, Sương Mù Ngàn Ảo!"
+    },
+    {
+      "num": 900,
+      "title": "Phiên bản 4.0, Khởi nguồn vạn nẻo!"
+    },
+    {
+      "num": 901,
+      "title": "Phần thưởng từ bản cập nhật, phiên bản phù hợp nhất với loài người!"
+    },
+    {
+      "num": 902,
+      "title": "Thu hẹp chiến tuyến, bất ngờ ngoài dự tính từ Hác Cường!"
+    },
+    {
+      "num": 903,
+      "title": "Lưu thông trên thị trường, cải tổ từ gốc!"
+    },
+    {
+      "num": 904,
+      "title": "Cập nhật phiên bản chính thức, tính năng hoàn toàn mới！"
+    },
+    {
+      "num": 905,
+      "title": "Định hướng lộ trình, mở ra muôn ngả đường!"
+    },
+    {
+      "num": 906,
+      "title": "Bảy lựa chọn, Sương Mù Ngàn Ảo sắp ập đến!"
+    },
+    {
+      "num": 907,
+      "title": "Đột phá 100 điểm, mở khóa hạng mục nâng cấp mới!"
+    },
+    {
+      "num": 908,
+      "title": "Ra mắt, Lãnh Địa Thiên Nguyên 2.0!"
+    },
+    {
+      "num": 909,
+      "title": "Phát hành tiền tệ, hội nghị chọn hướng phát triển!"
+    },
+    {
+      "num": 910,
+      "title": "Kiểm tra lộ trình, sương xám ập đến!"
+    },
+    {
+      "num": 911,
+      "title": "Phế tích sụp đổ, thế giới mới tan hoang!"
+    },
+    {
+      "num": 912,
+      "title": "Đáp án phiên bản này là... Kẻ nhặt phế liệu?!"
+    },
+    {
+      "num": 913,
+      "title": "Thị trường khởi sắc, bánh màn thầu hôm nay thơm quá đi mất!"
+    },
+    {
+      "num": 914,
+      "title": "Bộ lạc Xương Hoang! Mạng hạ gục đầu tiên của Thiên Nguyên! (Chúc mừng đêm giao thừa~)"
+    },
+    {
+      "num": 915,
+      "title": "Thế giới hậu chiến, cả một thành phố xuyên không đến đây!"
+    },
+    {
+      "num": 916,
+      "title": "Thời đại đồ đồng, sinh mệnh trí tuệ!"
+    },
+    {
+      "num": 917,
+      "title": "Vô số cơ hội, cửa hàng đầu tiên của dân làng!"
+    },
+    {
+      "num": 918,
+      "title": "Sáu bản hợp đồng, xây dựng nền móng cho các ngành công nghiệp cơ bản!"
+    },
+    {
+      "num": 919,
+      "title": "Khám phá bước đầu Thanh Cảng, thành phố sau chiến tranh!"
+    },
+    {
+      "num": 920,
+      "title": "Khu chợ nhỏ nhộn nhịp, điểm nền móng thứ hai!"
+    },
+    {
+      "num": 921,
+      "title": "Tiềm năng của nền móng, đường nào cũng dẫn đến thành Rome!"
+    },
+    {
+      "num": 922,
+      "title": "Nỏ Chó Điên, Cửa Hàng Vũ Khí Hỏa Lực Khai Trương!"
+    },
+    {
+      "num": 923,
+      "title": "Nhu cầu tăng vọt, sức mua nội địa bùng nổ！"
+    },
+    {
+      "num": 924,
+      "title": "Tự Do Bang, những người bản địa sở hữu nơi trú ẩn!"
+    },
+    {
+      "num": 925,
+      "title": "Cải tạo, nâng cấp! Nơi trú ẩn cấp 7!"
+    },
+    {
+      "num": 926,
+      "title": "Kết cấu thép! Diện mạo hoàn toàn mới!"
+    },
+    {
+      "num": 927,
+      "title": "Hiệu ứng đặc biệt! Tin vui từ Nhà máy Thép Luyện Mộng!"
+    },
+    {
+      "num": 928,
+      "title": "Giao thương trong thành phố, luật lệ của đám Chuột Chũi!"
+    },
+    {
+      "num": 929,
+      "title": "Ba trăm năm dưới lòng đất, Nơi trú ẩn Bình Than!"
+    },
+    {
+      "num": 930,
+      "title": "Hải cảng biến mất, cơ hội mới!"
+    },
+    {
+      "num": 931,
+      "title": "Bạo Kích! Bạo Kích! Nghệ Thuật Chính Là Sức Mạnh!"
+    },
+    {
+      "num": 932,
+      "title": "Hiệu quả tích năng lượng, nhà máy thép tiến lên!"
+    },
+    {
+      "num": 933,
+      "title": "Cải tổ quân Thiên Nguyên, ngôi làng thứ hai trong lãnh địa!"
+    },
+    {
+      "num": 934,
+      "title": "Cuối cùng cũng nâng cấp xong! Bước đầu tiên trên con đường xây dựng nơi trú ẩn siêu cấp!"
+    },
+    {
+      "num": 935,
+      "title": "Xuyên thủng mọi giới hạn, Thành phố ngầm Thiên Nguyên!"
+    },
+    {
+      "num": 936,
+      "title": "Học viên kiến trúc lv.5, Thành chủ Thiên Nguyên!"
+    },
+    {
+      "num": 937,
+      "title": "Nền Tảng Cấp Ba, Mùa Xuân Của Những Người Làm Nông!"
+    },
+    {
+      "num": 938,
+      "title": "Bắt tay với hổ để mưu lợi, đại pháo nạp đạn trước!"
+    },
+    {
+      "num": 939,
+      "title": "Bí mật của Tình Cảng, giao dịch thành công!"
+    },
+    {
+      "num": 940,
+      "title": "Khai hỏa! Chào mừng gia nhập Liên minh Thiên Nguyên!"
+    },
+    {
+      "num": 941,
+      "title": "Sửa chữa máy công cụ, dây chuyền sản xuất vũ khí đầu tiên!"
+    },
+    {
+      "num": 942,
+      "title": "Khách từ phương xa, dân bản địa cũng có thương nhân đi buôn?"
+    },
+    {
+      "num": 943,
+      "title": "Thế lực Lam Tinh, đơn hàng ngoại thương đầu tiên!"
+    },
+    {
+      "num": 944,
+      "title": "Xe chiến đấu Nhện Đỏ, tín hiệu cảnh báo sinh vật chất!"
+    },
+    {
+      "num": 945,
+      "title": "Đạt được thỏa thuận hợp tác, cuộc tranh giành giữa đám Chuột Chũi!"
+    },
+    {
+      "num": 946,
+      "title": "Âm dương xui khiến, Kim Đại Chí gặp hạn!"
+    },
+    {
+      "num": 947,
+      "title": "Cuộc săn điên cuồng của mãnh hổ, sức chiến đấu vượt xa sức tưởng tượng!"
+    },
+    {
+      "num": 948,
+      "title": "Tình Cảng quét sạch chiến trường, đôi bên cùng thiệt hại!"
+    },
+    {
+      "num": 949,
+      "title": "Nhiều bên lo ngại, trái tim của nền công nghiệp!"
+    },
+    {
+      "num": 950,
+      "title": "Thời đại đổi thay, những kỹ thuật “vô dụng”！"
+    },
+    {
+      "num": 951,
+      "title": "Mở dây chuyền sản xuất, khẩu súng trường sản xuất hàng loạt đầu tiên!"
+    },
+    {
+      "num": 952,
+      "title": "Đội Nhặt Đồ, nơi này đâu đâu cũng là kho báu!"
+    },
+    {
+      "num": 953,
+      "title": "Đã là dân nhặt đồ, tiện tay lấy chút trang bị thì có gì sai đâu!"
+    },
+    {
+      "num": 954,
+      "title": "Ngoài cung cấp nhân công, chúng tôi còn có dịch vụ “giao đồ ăn tận nơi”"
+    },
+    {
+      "num": 955,
+      "title": "Kiếm lời một khoản, ba công nghệ!"
+    },
+    {
+      "num": 956,
+      "title": "Nơi này yên ắng, nơi khác náo nhiệt!"
+    },
+    {
+      "num": 957,
+      "title": "Tiến vào khu nội thành, đường lui và lựa chọn!"
+    },
+    {
+      "num": 958,
+      "title": "Cục diện Ngũ Hoàn, Giải trí Tạo Mộng！"
+    },
+    {
+      "num": 959,
+      "title": "Thiên đường của dân nhặt phế liệu, nơi đây đâu đâu cũng là kho báu!"
+    },
+    {
+      "num": 960,
+      "title": "Bệnh viện thời tiền chiến, máy đào hầm bỏ hoang!"
+    },
+    {
+      "num": 961,
+      "title": "Vị khách bất ngờ, thư mời từ Cảng Nắng!"
+    },
+    {
+      "num": 962,
+      "title": "Hội nghị viễn chinh, kế hoạch tự bảo vệ mình！"
+    },
+    {
+      "num": 963,
+      "title": "Buôn bán bông, hội chứng sợ thiếu hỏa lực!"
+    },
+    {
+      "num": 964,
+      "title": "Nhiệm vụ mới, vùng ngoại ô phía Tây quả nhiên là một kho báu!"
+    },
+    {
+      "num": 965,
+      "title": "Rừng Lang Thang, chúng ta cần thâm nhập vào nội bộ địch!"
+    },
+    {
+      "num": 966,
+      "title": "Tuy quy mô đã mở rộng hơn, nhưng đây lại là chuyện tốt!"
+    },
+    {
+      "num": 967,
+      "title": "Hội nghị bắt đầu, Quỹ Hội ra mặt chống lưng!"
+    },
+    {
+      "num": 968,
+      "title": "Di sản trước chiến tranh, khu công nghiệp phía sau bức tường cao!"
+    },
+    {
+      "num": 969,
+      "title": "Đòn phủ đầu, Tháp năng lượng nhiệt hạch!"
+    },
+    {
+      "num": 970,
+      "title": "Gặp mặt lần đầu, kế hoạch tái thiết Tình Cảng!"
+    },
+    {
+      "num": 971,
+      "title": "Tất Cả Đều Rối Loạn! Tai Họa Bất Ngờ Ập Đến!"
+    },
+    {
+      "num": 972,
+      "title": "Mười Một Lần Thiên Tai, Vạn Vật Trở Về!"
+    },
+    {
+      "num": 973,
+      "title": "Giao thương ẩm thực, niềm vui bất ngờ!"
+    },
+    {
+      "num": 974,
+      "title": "Nhà máy đồ hộp tương lai, người lang thang nổi loạn！"
+    },
+    {
+      "num": 975,
+      "title": "Ra tay trước chiếm lợi thế, chậm chân ắt gặp họa!"
+    },
+    {
+      "num": 976,
+      "title": "Đục nước béo cò, khu công nghiệp chẳng khác nào một mỏ vàng"
+    },
+    {
+      "num": 977,
+      "title": "Cày cấp điên cuồng, mùa xuân của những người lính dự bị!"
+    },
+    {
+      "num": 978,
+      "title": "Hạt nhân công nghiệp bị đánh cắp, xung đột lan rộng!"
+    },
+    {
+      "num": 979,
+      "title": "Đắp tường cao, tích trữ lương thực, khoan xưng vương!"
+    },
+    {
+      "num": 980,
+      "title": "Rời đi, bộ giáp khung xương ngoài Nguyên Kỵ Binh I!"
+    },
+    {
+      "num": 981,
+      "title": "Án binh bất động, nỗi sợ hãi lại trỗi dậy!"
+    },
+    {
+      "num": 982,
+      "title": "Thiên tai kinh hoàng, vạn vật sinh diệt!"
+    },
+    {
+      "num": 983,
+      "title": "Hồi Sinh Sau Cái Chết, Phong Cách Của Trò Chơi Chết Tiệt Này Lại Thay Đổi Rồi!"
+    },
+    {
+      "num": 984,
+      "title": "Tiến sát vùng ngoại ô phía Nam, làn sóng dân chạy nạn thứ hai bất ngờ xuất hiện!"
+    },
+    {
+      "num": 985,
+      "title": "Tương lai, các người sẽ tìm thấy điều mới mẻ trên mảnh đất này"
+    },
+    {
+      "num": 986,
+      "title": "Thành phố hỗn loạn, sinh vật phóng xạ đáng sợ! Tám mươi bốn lữ khách mới gia nhập sau khi bị tước vũ khí còn bị kiểm tra toàn bộ đồ mang theo, không chút riêng tư."
+    },
+    {
+      "num": 987,
+      "title": "Khu vực phía Nam phức tạp, những khu phố đã bị chiếm đóng！"
+    },
+    {
+      "num": 988,
+      "title": "Tường phòng thủ Thiên Nguyên, trận chiến đầu tiên của những kẻ nhặt phế liệu!"
+    },
+    {
+      "num": 989,
+      "title": "Vua Linh Cẩu, một đường hầm ngầm khác!"
+    },
+    {
+      "num": 990,
+      "title": "Ký sinh nguy hiểm, cửa xả chất thải!"
+    },
+    {
+      "num": 991,
+      "title": "Đêm thứ hai, nơi trú ẩn Cảng Nắng thê thảm!"
+    },
+    {
+      "num": 992,
+      "title": "Tình Cảng thất thủ, bước nhảy vọt công nghiệp lần thứ nhất！"
+    },
+    {
+      "num": 993,
+      "title": "Giấy phép mang súng, thẻ cư dân Thiên Nguyên đời đầu！"
+    },
+    {
+      "num": 994,
+      "title": "Có qua có lại, thị trường của đám Chuột Chũi thật sự đến rồi!"
+    },
+    {
+      "num": 995,
+      "title": "Thế giới tinh thần nghèo nàn, “cánh cửa lớn” của đám Chuột Chũi rộng mở"
+    },
+    {
+      "num": 996,
+      "title": "Dưới lòng đất Tình Cảng, màn “phản công” của những kẻ lang thang!"
+    },
+    {
+      "num": 997,
+      "title": "Nhà kính báu vật, nơi trú ẩn Hạch Đỏ giàu có!"
+    },
+    {
+      "num": 998,
+      "title": "Thoát khỏi thành phố, tin tức về những người hàng xóm mới!"
+    },
+    {
+      "num": 999,
+      "title": "Đường ống sụp đổ, thương vong ngoài dự tính!"
+    },
+    {
+      "num": 1000,
+      "title": "Tang lễ, ẩn mình chờ thời！"
+    },
+    {
+      "num": 1001,
+      "title": "Điên rồi, ngươi muốn chơi game... ngay trong game sao?"
+    },
+    {
+      "num": 1002,
+      "title": "Gió mưa chao đảo, một năm khép lại!"
+    },
+    {
+      "num": 1003,
+      "title": "Thay trời đổi đất, chặt đứt sương mù quỷ dị, mặt trời mặt trăng lại sáng, đón mùa màng bội thu!"
+    },
+    {
+      "num": 1004,
+      "title": "Ốc đảo giữa vùng đất hoang, nơi đây đâu đâu cũng có lương thực!"
+    },
+    {
+      "num": 1005,
+      "title": "Thế hệ máy mô phỏng đầu tiên, chuẩn bị cho chiến tranh!"
+    },
+    {
+      "num": 1006,
+      "title": "Nỗi lo của Liệp Hổ, rồng mạnh cũng khó áp đảo rắn bản địa!"
+    },
+    {
+      "num": 1007,
+      "title": "‘Chân Giới’ ra đời, lương thực giảm giá mạnh!"
+    },
+    {
+      "num": 1008,
+      "title": "Nhà máy Địa Phủ, dịch vụ đặt làm riêng giá 200 điểm!"
+    },
+    {
+      "num": 1009,
+      "title": "Chiến binh, chào mừng các bạn đến với Chân Giới!"
+    },
+    {
+      "num": 1010,
+      "title": "Thành mới trong và ngoài, thế giới chân thực kỳ diệu!"
+    },
+    {
+      "num": 1011,
+      "title": "Làm việc trên cao, trực thăng này mô phỏng chân thực quá đi mất!"
+    },
+    {
+      "num": 1012,
+      "title": "Sức mạnh của Chân Giới, “kẻ địch” từ trên trời rơi xuống!"
+    },
+    {
+      "num": 1013,
+      "title": "Như gặp đại địch, đây là trò mà người chơi có thể làm ra được sao?"
+    },
+    {
+      "num": 1014,
+      "title": "Năm hết Tết đến, máy bay thu được!"
+    },
+    {
+      "num": 1015,
+      "title": "Năm mới, tin tức từ hải ngoại!"
+    },
+    {
+      "num": 1016,
+      "title": "Phản ứng dây chuyền, một chút chấn động nhỏ!"
+    },
+    {
+      "num": 1017,
+      "title": "Hãy nhớ mảnh đất này, từ nay nó sẽ là nhà mới của các bạn!"
+    },
+    {
+      "num": 1018,
+      "title": "Đừng lo phía trước không có tri kỷ, khắp thiên hạ ai mà chẳng biết đến anh!"
+    },
+    {
+      "num": 1019,
+      "title": "Làn sóng di cư bắt đầu, kết thúc cũng chính là khởi đầu!"
+    },
+    {
+      "num": 1020,
+      "title": "Hy vọng duy nhất, chúng ta có thể chữa khỏi ‘Hoa Địa Ngục’"
+    },
+    {
+      "num": 1021,
+      "title": "Ánh sáng vụt qua khe cửa, năm tháng sang trang!"
+    },
+    {
+      "num": 1022,
+      "title": "Cải tiến thiết bị đầu cuối, kết nối mạng không dây!"
+    },
+    {
+      "num": 1023,
+      "title": "Năm tháng đổi thay, năm đầu tiên ở vùng đất hoang khép lại!"
+    },
+    {
+      "num": 1024,
+      "title": "Khởi đầu năm thứ hai, hệ thống cập nhật lớn!"
+    },
+    {
+      "num": 1025,
+      "title": "Phiên bản v1.1, song hỷ lâm môn!"
+    },
+    {
+      "num": 1026,
+      "title": "Sương độc kết thúc, thảm họa mang tên 'Kim Loại' cuối cùng cũng ập đến!"
+    },
+    {
+      "num": 1027,
+      "title": "Đánh úp, tập kích chớp nhoáng, hỗn chiến ở Cảng Nắng!"
+    },
+    {
+      "num": 1028,
+      "title": "Còn chưa thấy mặt địch, chúng ta đã đầu hàng rồi?!"
+    },
+    {
+      "num": 1029,
+      "title": "Đánh thắng trận này, trở thành “đại ca” khu Tây!"
+    },
+    {
+      "num": 1030,
+      "title": "Phần thưởng chiến tranh, chiến lợi phẩm chất cao như núi!"
+    },
+    {
+      "num": 1031,
+      "title": "Nâng cấp phẩm chất, cuộc sống tuổi già của Liệp Hổ!"
+    },
+    {
+      "num": 1032,
+      "title": "Chuẩn bị đi, cơ hội của chúng ta còn nhiều!"
+    },
+    {
+      "num": 1033,
+      "title": "Liên minh Tây Giao, cú sốc của Liệp Hổ!"
+    },
+    {
+      "num": 1034,
+      "title": "Bạn cũ, nơi này yên bình quá rồi!"
+    },
+    {
+      "num": 1035,
+      "title": "Bố trí phòng thủ Ngũ Hoàn, trao đổi lợi ích!"
+    },
+    {
+      "num": 1036,
+      "title": "Hệ thống chính thức khởi động, sức mạnh của phiên bản V1.1!"
+    },
+    {
+      "num": 1037,
+      "title": "Làm mới nhận thức, bản V1.1 với những thay đổi hoàn toàn mới về tính năng 'nâng cấp'"
+    },
+    {
+      "num": 1038,
+      "title": "Thoát khỏi màn sương, thiên tai lần thứ mười ba ập đến!"
+    },
+    {
+      "num": 1039,
+      "title": "Cảm hứng kỳ diệu, đột phá công nghệ!"
+    },
+    {
+      "num": 1040,
+      "title": "Tin tức được gửi đi nhưng bị từ chối tiếp nhận, bóng tối dưới biển sâu!"
+    },
+    {
+      "num": 1041,
+      "title": "Rắc rối lớn, những hệ lụy dây chuyền của làn sóng di cư!"
+    },
+    {
+      "num": 1042,
+      "title": "Sương Mù Ảo Ảnh Tan Biến, Chiến Tranh Sắp Bùng Nổ!"
+    },
+    {
+      "num": 1043,
+      "title": "Lệnh cấm được gỡ bỏ, xuất phát, mục tiêu: Địa Bảo！"
+    },
+    {
+      "num": 1044,
+      "title": "Đại quân áp sát, đêm mất ngủ của Liên minh Nam Giao!"
+    },
+    {
+      "num": 1045,
+      "title": "Mở màn chiến tranh, hay là chúng ta cũng gia nhập ‘Tây Giao’?"
+    },
+    {
+      "num": 1046,
+      "title": "Thăm dò hầm trú ẩn, nhu cầu của chiến tranh và hòa bình！"
+    },
+    {
+      "num": 1047,
+      "title": "Giao thương hai chiều, lịch sử đã mở sang một trang mới"
+    },
+    {
+      "num": 1048,
+      "title": "Chiến tranh bùng nổ, quân tiếp viện từ phía Tây đã đến!"
+    },
+    {
+      "num": 1049,
+      "title": "Kéo giãn làn đạn, trận chạm trán đầu tiên của cư dân!"
+    },
+    {
+      "num": 1050,
+      "title": "Lao động giá rẻ, đơn hàng vũ khí đầu tiên!"
+    },
+    {
+      "num": 1051,
+      "title": "Căn cứ boong-ke, chủ nhân ẩn mình dưới tầng hầm!"
+    },
+    {
+      "num": 1052,
+      "title": "Nhu cầu an toàn, lần đầu tiên liên quân Tây Giao xuất quân"
+    },
+    {
+      "num": 1053,
+      "title": "Thế cục đảo chiều, cách đối phó với tình trạng lão hóa!"
+    },
+    {
+      "num": 1054,
+      "title": "Những đường vân lão hóa, người chơi bất ngờ lạc vào Cảng Tạnh Trời!"
+    },
+    {
+      "num": 1055,
+      "title": "Lòng hiếu kỳ, căn cứ học viện ngay trong tầm mắt!"
+    },
+    {
+      "num": 1056,
+      "title": "Thí nghiệm và lựa chọn, hỗn chiến trong đêm đen!"
+    },
+    {
+      "num": 1057,
+      "title": "Căn cứ Đại Hẻm Núi, khả năng mở ra tuyến đường hiếm!"
+    },
+    {
+      "num": 1058,
+      "title": "Phân tích mảnh vỡ, tiến hóa lần đầu tiên!"
+    },
+    {
+      "num": 1059,
+      "title": "Thảm họa lần thứ mười ba, tiếng kim loại than khóc！"
+    },
+    {
+      "num": 1060,
+      "title": "Những ảnh hưởng dây chuyền, phản ứng liên hoàn dưới đáy biển sâu!"
+    },
+    {
+      "num": 1061,
+      "title": "Gặp mặt trong hầm trú ẩn, hệ thống của Học Viện!"
+    },
+    {
+      "num": 1062,
+      "title": "Nguồn gốc của Học Viện, thuê nghiên cứu viên!"
+    },
+    {
+      "num": 1063,
+      "title": "Dễ dàng tóm gọn, một cuộc hợp tác ngoài dự liệu!"
+    },
+    {
+      "num": 1064,
+      "title": "Tóm gọn một mẻ, mâu thuẫn không thể hóa giải！"
+    },
+    {
+      "num": 1065,
+      "title": "Tin tức về Tập đoàn, thành phố Hồ Lai!"
+    },
+    {
+      "num": 1066,
+      "title": "Phiên bản đại xây dựng, chuẩn bị chiến tranh！"
+    },
+    {
+      "num": 1067,
+      "title": "Đãi ngộ dành cho người mới, phương án ứng phó làn sóng di cư!"
+    },
+    {
+      "num": 1068,
+      "title": "Lãnh chúa của những kẻ lang thang, Hoang Cốt Thôn phát triển vượt bậc!"
+    },
+    {
+      "num": 1069,
+      "title": "Thảm họa đẩy nhanh biến động, Nam Giao đổi thay dữ dội!"
+    },
+    {
+      "num": 1070,
+      "title": "Mở rộng tầm ảnh hưởng, cuộc họp liên minh lần thứ hai！"
+    },
+    {
+      "num": 1071,
+      "title": "Trở lại mặt đất, điều kiện của liên minh!"
+    },
+    {
+      "num": 1072,
+      "title": "Muốn được che chở? Vậy chi bằng xây căn cứ ngay trên địa bàn của Liên Minh"
+    },
+    {
+      "num": 1073,
+      "title": "Kevin kinh ngạc, gia nhập liên minh!"
+    },
+    {
+      "num": 1074,
+      "title": "Đồng minh thứ tư, Tình Cảng xảy ra biến cố!"
+    },
+    {
+      "num": 1075,
+      "title": "Thằn lằn bọc thép hạng nặng, đội quân người lùn đáng sợ!"
+    },
+    {
+      "num": 1076,
+      "title": "Minh Vương tỉnh giấc, bom Năng Thạch!"
+    },
+    {
+      "num": 1077,
+      "title": "Thế trận leo thang, cuộc tấn công bùng nổ sớm hơn dự kiến!"
+    },
+    {
+      "num": 1078,
+      "title": "Minh Vương thức tỉnh, chiến trường xuất hiện biến cố!"
+    },
+    {
+      "num": 1079,
+      "title": "Người Lùn Đại Bại, ‘Thuốc Ức Chế’ Còn Đáng Sợ Hơn!"
+    },
+    {
+      "num": 1080,
+      "title": "Phản ứng của các đồng minh, chuỗi gen!"
+    },
+    {
+      "num": 1081,
+      "title": "Thoát khỏi lồng giam, hội nghị lần thứ hai tại Cảng Nắng!"
+    },
+    {
+      "num": 1082,
+      "title": "Ông chủ nhà máy túng thiếu, lãnh chúa giàu có!"
+    },
+    {
+      "num": 1083,
+      "title": "Đợt cải tổ quân đội lần thứ ba, chính sách tuyển lính mới!"
+    },
+    {
+      "num": 1084,
+      "title": "Dời doanh trại, những kẻ lang thang muốn lập công!"
+    },
+    {
+      "num": 1085,
+      "title": "Nhà sinh vật học, bánh xe số phận bắt đầu xoay chuyển!"
+    },
+    {
+      "num": 1086,
+      "title": "Tháng Hai năm thứ hai, nhiệm vụ được làm mới!"
+    },
+    {
+      "num": 1087,
+      "title": "Vòng tuần hoàn kinh tế, toan tính của đồng minh!"
+    },
+    {
+      "num": 1088,
+      "title": "Nơi trú ẩn Tình Cảng, những quy tắc dưới lòng đất!"
+    },
+    {
+      "num": 1089,
+      "title": "Nỗi khiếp sợ của người lùn, kẻ mạnh nhất trong loài người!"
+    },
+    {
+      "num": 1090,
+      "title": "Đây chính là câu trả lời của tôi!"
+    },
+    {
+      "num": 1091,
+      "title": "Bất ngờ, nhiệm vụ thử thách hoàn thành trước thời hạn!"
+    },
+    {
+      "num": 1092,
+      "title": "Bỏ gần tìm xa, “tầm nhìn xa” của Hades!"
+    },
+    {
+      "num": 1093,
+      "title": "Rút thưởng lần nữa, phần thưởng giới hạn thời gian quá khủng!"
+    },
+    {
+      "num": 1094,
+      "title": "Đội trưởng đội vệ binh, rắc rối lớn từ gốc cây khổng lồ!"
+    },
+    {
+      "num": 1095,
+      "title": "Tâm tư riêng, Đội trưởng Bao Lôi chính nghĩa!"
+    },
+    {
+      "num": 1096,
+      "title": "Bộ đồ chống rét, ưu thế và nhược điểm!"
+    },
+    {
+      "num": 1097,
+      "title": "Thang máy ngầm, tầng thứ sáu của nơi trú ẩn!"
+    },
+    {
+      "num": 1098,
+      "title": "Thiết bị vượt thời đại, mở rộng tầm mắt!"
+    },
+    {
+      "num": 1099,
+      "title": "B6 kỳ diệu, tuyệt chiêu hút cạn điện năng!"
+    },
+    {
+      "num": 1100,
+      "title": "Mở rộng tầm mắt, tầng quản lý kinh ngạc tột độ!"
+    },
+    {
+      "num": 1101,
+      "title": "Máy phát điện hạt nhân, mùa đông khó sống!"
+    },
+    {
+      "num": 1102,
+      "title": "Bộ lạc du cư, mùa đông thứ hai của Thiên Nguyên!"
+    },
+    {
+      "num": 1103,
+      "title": "Eureka! Lò phản ứng nhiệt hạch cỡ nhỏ kiểu Vẫn Đông 105!"
+    },
+    {
+      "num": 1104,
+      "title": "Sứ đoàn Thanh Cảng, nỗi kinh ngạc của Tích Đức!"
+    },
+    {
+      "num": 1105,
+      "title": "Tự do buôn bán, chế độ hoàn toàn khác biệt！"
+    },
+    {
+      "num": 1106,
+      "title": "Đứng ngồi không yên, thu hoạch đầy tay！"
+    },
+    {
+      "num": 1107,
+      "title": "Quán rượu Lãng Du, những cư dân thành mới không cam lòng!"
+    },
+    {
+      "num": 1108,
+      "title": "Thành phố hoang tàn, thức ăn đến từ Thiên Nguyên!"
+    },
+    {
+      "num": 1109,
+      "title": "Thiên đường trong mơ, bên ngoài bức tường khổng lồ!"
+    },
+    {
+      "num": 1110,
+      "title": "Lá thư mời thứ hai, tham quan Bình Than!"
+    },
+    {
+      "num": 1111,
+      "title": "Tiến vào Bình Than, chuyến viếng thăm chính thức đầu tiên!"
+    },
+    {
+      "num": 1112,
+      "title": "Mượn người, thu hoạch ngoài dự tính!"
+    },
+    {
+      "num": 1113,
+      "title": "Thanh nhiên liệu, khả năng tích trữ số lượng lớn!"
+    },
+    {
+      "num": 1114,
+      "title": "Cơn mưa đúng lúc, tân binh trình diện！"
+    },
+    {
+      "num": 1115,
+      "title": "Tân binh kinh ngạc, nhiệm vụ thử thách đầu tiên!"
+    },
+    {
+      "num": 1116,
+      "title": "Thử thách đầu tiên, thủ đoạn của Tô Đức Bản!"
+    },
+    {
+      "num": 1117,
+      "title": "Liên tiếp thử thách, khảo nghiệm lòng người!"
+    },
+    {
+      "num": 1118,
+      "title": "Tôn nghiêm, thứ cảm giác đặc biệt mà trước nay chưa từng có!"
+    },
+    {
+      "num": 1119,
+      "title": "Tự hỏi lòng mình, rốt cuộc chiến đấu vì điều gì!"
+    },
+    {
+      "num": 1120,
+      "title": "Bắt đầu huấn luyện, nhiệm vụ thử thách đặc biệt có thời hạn!"
+    },
+    {
+      "num": 1121,
+      "title": "Mạnh dạn suy đoán, thiên thạch và sự giáng xuống!"
+    },
+    {
+      "num": 1122,
+      "title": "Rối loạn nhận thức, Con mắt trinh sát!"
+    },
+    {
+      "num": 1123,
+      "title": "Chuẩn bị chiến tranh, vùng biển Rễ Cây Khổng Lồ náo nhiệt!"
+    },
+    {
+      "num": 1124,
+      "title": "Dòng chảy ngầm dưới biển sâu, sự phồn thịnh kỳ lạ!"
+    },
+    {
+      "num": 1125,
+      "title": "Đến tận cửa thăm hỏi, vùng đất hoang cũng chạy đua khốc liệt!"
+    },
+    {
+      "num": 1126,
+      "title": "Thăm dò lẫn nhau, ngòi nổ bùng phát!"
+    },
+    {
+      "num": 1127,
+      "title": "Coi nhau như tri kỷ, hỗn loạn sắp kéo đến!"
+    },
+    {
+      "num": 1128,
+      "title": "Chúng ta có nhiều thế giới hơn những người khác!"
+    },
+    {
+      "num": 1129,
+      "title": "Thảm họa kết thúc, hỗn loạn bắt đầu!"
+    },
+    {
+      "num": 1130,
+      "title": "Khiêu khích ngông cuồng, sự chi viện 'vô nghĩa'!"
+    },
+    {
+      "num": 1131,
+      "title": "Công nghiệp khởi động lại, sản lượng tăng vọt!"
+    },
+    {
+      "num": 1132,
+      "title": "Đợt chi viện đầu tiên, quy mô khủng khiếp!"
+    },
+    {
+      "num": 1133,
+      "title": "Chia phe, rắc rối của hạm đội Đài Nguyên!"
+    },
+    {
+      "num": 1134,
+      "title": "Bị vạn người vây kín, giết ra một đường sống đến bình minh!"
+    },
+    {
+      "num": 1135,
+      "title": "Xung đột giằng co, viện binh kéo đến！"
+    },
+    {
+      "num": 1136,
+      "title": "Dễ dàng nghiền nát, con chim khổng lồ màu đen!"
+    },
+    {
+      "num": 1137,
+      "title": "Ba bang phái diệt vong, cục diện đã định!"
+    },
+    {
+      "num": 1138,
+      "title": "Sóng gió tạm lắng, duyệt binh trước chiến tranh!"
+    },
+    {
+      "num": 1139,
+      "title": "Đoàn viễn chinh xuất phát, kỳ nghỉ hiếm hoi đã lâu không có!"
+    },
+    {
+      "num": 1140,
+      "title": "Nhiệm vụ tháng, cách nhận thưởng mới!"
+    },
+    {
+      "num": 1141,
+      "title": "Loài ngoại lai xâm lấn, bán rau giữa vùng đất hoang!"
+    },
+    {
+      "num": 1142,
+      "title": "Hệ thống ngành nghề, dây chuyền gia công dụng cụ chính xác cao!"
+    },
+    {
+      "num": 1143,
+      "title": "Đội thám hiểm, những người sống sót giữa núi non!"
+    },
+    {
+      "num": 1144,
+      "title": "Đại nạn ập đến, thú phóng xạ tụ tập!"
+    },
+    {
+      "num": 1145,
+      "title": "Dịch vụ đặc biệt, lời kêu gọi từ đội cứu hộ!"
+    },
+    {
+      "num": 1146,
+      "title": "Phòng tuyến cuối cùng, tiếng nói trong chiếc radio!"
+    },
+    {
+      "num": 1147,
+      "title": "Nơi hoang vu hẻo lánh, nỗi sợ hãi khắc sâu trong gen!"
+    },
+    {
+      "num": 1148,
+      "title": "Vật tư cứu trợ, những người sống sót kinh ngạc!"
+    },
+    {
+      "num": 1149,
+      "title": "Người giữ lòng trong sáng, chí hướng tự cao xa; sinh vào thời mạt thế, vận số lại chẳng thuận!"
+    },
+    {
+      "num": 1150,
+      "title": "Sinh hoạt thường ngày năm thứ hai, tin tức về ngày càng nhiều người sống sót!"
+    },
+    {
+      "num": 1151,
+      "title": "Những người sống sót đã đến, đừng quên giữ lòng bình yên!"
+    },
+    {
+      "num": 1152,
+      "title": "Sự tàn khốc của phát triển, kết cấu hình kim tự tháp!"
+    },
+    {
+      "num": 1153,
+      "title": "Chợ tuyển dụng nhân tài, chế độ người mắc nợ!"
+    },
+    {
+      "num": 1154,
+      "title": "Buổi tuyển dụng náo nhiệt, đúng là một đám rau hẹ tươi ngon!"
+    },
+    {
+      "num": 1155,
+      "title": "Lựa chọn của những người mới, chế độ làm việc hoàn thiện!"
+    },
+    {
+      "num": 1156,
+      "title": "Điều kiện đã đủ, thời khắc văn minh nâng cấp đang đến gần!"
+    },
+    {
+      "num": 1157,
+      "title": "Thời đại tăm tối, hai hướng phát triển văn minh!"
+    },
+    {
+      "num": 1158,
+      "title": "Phá vỡ nhận thức, thời đại Truy Năng!"
+    },
+    {
+      "num": 1159,
+      "title": "Sáng tạo lộ tuyến, vô vàn khả năng!"
+    },
+    {
+      "num": 1160,
+      "title": "Dân số tăng vọt, Vạn Đường Tranh Phong!"
+    },
+    {
+      "num": 1161,
+      "title": "Kích hoạt chip, lãnh địa hoàn chỉnh hơn!"
+    },
+    {
+      "num": 1162,
+      "title": "Thay đổi chóng mặt, buổi đầu của trấn Hy Vọng!"
+    },
+    {
+      "num": 1163,
+      "title": "Sự thay đổi trong tư tưởng, hệ thống ngày càng hoàn thiện!"
+    },
+    {
+      "num": 1164,
+      "title": "Người Cá Sinh Sôi, Cá Báu Vật Của Huyện Báu Vật!"
+    },
+    {
+      "num": 1165,
+      "title": "Viễn chinh đến nơi, cuộc tranh đấu bắt đầu!"
+    },
+    {
+      "num": 1166,
+      "title": "Thời cơ đã đến, thổi vang hồi kèn khai chiến！"
+    },
+    {
+      "num": 1167,
+      "title": "Tính trước rồi mới đánh, đó mới là chiến tranh!"
+    },
+    {
+      "num": 1168,
+      "title": "Sức mạnh của Chân Giới, chúng ta là người chơi!"
+    },
+    {
+      "num": 1169,
+      "title": "Ra quân trơn tru, đại thắng toàn diện!"
+    },
+    {
+      "num": 1170,
+      "title": "Chiến tranh kết thúc, thu hoạch khổng lồ đến khó tin!"
+    },
+    {
+      "num": 1171,
+      "title": "Thu gom, kiểm kê, nỗi lo của Tô Ma！"
+    },
+    {
+      "num": 1172,
+      "title": "Vòng tuyển chọn đào thải, hoàn thành điều kiện!"
+    },
+    {
+      "num": 1173,
+      "title": "Ba vị giám khảo, vòng loại thu hút hàng triệu người xem!"
+    },
+    {
+      "num": 1174,
+      "title": "Đối đầu công bằng, phần thưởng nâng cấp!"
+    },
+    {
+      "num": 1175,
+      "title": "Tổ hợp nội năng, học việc dược thiện!"
+    },
+    {
+      "num": 1176,
+      "title": "Bất ngờ, phúc lợi do lỗ hổng gây ra!"
+    },
+    {
+      "num": 1177,
+      "title": "Cội nguồn của Vạn Lối, mục đích của trò chơi!"
+    },
+    {
+      "num": 1178,
+      "title": "Vòng thứ hai, khán đài náo nhiệt!"
+    },
+    {
+      "num": 1179,
+      "title": "Bất ngờ, lựa chọn ẩn dành riêng cho giám khảo lãnh chúa!"
+    },
+    {
+      "num": 1180,
+      "title": "Chuyện chưa từng nghe thấy, Trụ Chọc Trời tái xuất!"
+    },
+    {
+      "num": 1181,
+      "title": "Tương lai lại đổi khác, Liên minh lớn Bắc Cảnh!"
+    },
+    {
+      "num": 1182,
+      "title": "Khổ tận cam lai, số phận của những người bình thường!"
+    },
+    {
+      "num": 1183,
+      "title": "Đưa người đến nơi theo khế ước, thành phố của người Lam Tinh!"
+    },
+    {
+      "num": 1184,
+      "title": "Trở lại rừng sắt thép, quê hương của nhân loại!"
+    },
+    {
+      "num": 1185,
+      "title": "Thiên Nguyên của Liên Minh, Liên Minh của Thiên Nguyên!"
+    },
+    {
+      "num": 1186,
+      "title": "Báo động cấp cao nhất, lực lượng vũ trang khủng khiếp!"
+    },
+    {
+      "num": 1187,
+      "title": "Uy thế của Thiên Nguyên, sức ảnh hưởng của liên minh!"
+    },
+    {
+      "num": 1188,
+      "title": "Những thay đổi ở ngoại ô phía Tây, Thiên Nguyên sừng sững!"
+    },
+    {
+      "num": 1189,
+      "title": "Vạn Kính lại thay đổi, liên tục chiến đấu！"
+    },
+    {
+      "num": 1190,
+      "title": "May mắn hay xui xẻo, lại gặp người quen!"
+    },
+    {
+      "num": 1191,
+      "title": "Tái chiến Ẩm Thực, uy lực của lẩu cay!"
+    },
+    {
+      "num": 1192,
+      "title": "Sóng ngầm cuộn trào, vòng đấu chính thức bắt đầu!"
+    },
+    {
+      "num": 1193,
+      "title": "Chín loại địa hình, tranh đỉnh núi trong sương mù!"
+    },
+    {
+      "num": 1194,
+      "title": "Liên Minh Thương Hội, Đội Viễn Chinh Trở Về!"
+    },
+    {
+      "num": 1195,
+      "title": "Biến động lớn, cơ hội mới, mở rộng tầm nhìn！"
+    },
+    {
+      "num": 1196,
+      "title": "Ngày tháng đổi thay, trời đất đảo điên！"
+    },
+    {
+      "num": 1197,
+      "title": "Tiêu dùng, sản xuất, tiềm lực lãnh địa cuối cùng cũng vượt mốc một nghìn!"
+    },
+    {
+      "num": 1198,
+      "title": "Chuyển hướng phát triển, đại chiến sắp đến!"
+    },
+    {
+      "num": 1199,
+      "title": "Chính thức bước vào vòng đấu chính, lại làm nghề quen thuộc!"
+    },
+    {
+      "num": 1200,
+      "title": "Sa mạc Địa Hỏa, cuộc chiến sinh tồn bắt đầu!"
+    },
+    {
+      "num": 1201,
+      "title": "Máy Tạo Nước, Sinh Tồn Cũng Phải Rộng Rãi!"
+    },
+    {
+      "num": 1202,
+      "title": "Sảng khoái tột độ, sự kinh ngạc của Thích Kiệt!"
+    },
+    {
+      "num": 1203,
+      "title": "Thương nhân bí ẩn, lại gặp công nghệ mô-đun!"
+    },
+    {
+      "num": 1204,
+      "title": "Cơ Hội Khổng Lồ, Kiếm Được Món Tiền Đầu Tiên!"
+    },
+    {
+      "num": 1205,
+      "title": "Con đường kiếm tiền, tạo thành vòng tuần hoàn tốt đẹp!"
+    },
+    {
+      "num": 1206,
+      "title": "Tích hợp sơ cấp, phân cấp mô-đun!"
+    },
+    {
+      "num": 1207,
+      "title": "Thiên tai nhỏ, bão bụi địa hỏa!"
+    },
+    {
+      "num": 1208,
+      "title": "Thong thả nghỉ ngơi, xe chạy trên cát!"
+    },
+    {
+      "num": 1209,
+      "title": "Mở rộng địa bàn, trí khôn của con người!"
+    },
+    {
+      "num": 1210,
+      "title": "Thuê nhân công, có tiền thì ma cũng phải đẩy cối xay!"
+    },
+    {
+      "num": 1211,
+      "title": "Thưởng phạt phân minh, giai đoạn thứ ba!"
+    },
+    {
+      "num": 1212,
+      "title": "Thương nhân tầng ba, muôn hoa đua nở!"
+    },
+    {
+      "num": 1213,
+      "title": "Bất đồng giữa các phe phái, sóng gió sắp nổi lên!"
+    },
+    {
+      "num": 1214,
+      "title": "Mối làm ăn không vốn, mở rộng quy mô!"
+    },
+    {
+      "num": 1215,
+      "title": "Địa Chấn Cát Đỏ, Phát Tài Bất Ngờ!"
+    },
+    {
+      "num": 1216,
+      "title": "Hẻm Núi Đá Lăn, Hiểm Trở Khó Qua!"
+    },
+    {
+      "num": 1217,
+      "title": "Thương nhân thật giả, những người dự thi ngơ ngác!"
+    },
+    {
+      "num": 1218,
+      "title": "Mạnh tay tiêu năm vạn điểm, nhận được tình báo đặc biệt!"
+    },
+    {
+      "num": 1219,
+      "title": "Doanh trại mô-đun, kế hoạch kiếm điểm!"
+    },
+    {
+      "num": 1220,
+      "title": "Nửa Trên Và Nửa Dưới, Khác Nhau Một Trời Một Vực!"
+    },
+    {
+      "num": 1221,
+      "title": "Căn cứ phát triển, những người tham gia chấn động!"
+    },
+    {
+      "num": 1222,
+      "title": "Độc quyền một mối, món hời bạc triệu!"
+    },
+    {
+      "num": 1223,
+      "title": "Liên tiếp vượt ba cửa ải, Đồng Bằng Khổng Lồ!"
+    },
+    {
+      "num": 1224,
+      "title": "Thú dữ trong lòng, sinh vật tiền sử!"
+    },
+    {
+      "num": 1225,
+      "title": "Cái gọi là ngoại lực, đôi bên cùng có lợi!"
+    },
+    {
+      "num": 1226,
+      "title": "Ra tay sấm sét, chấn chỉnh quy củ!"
+    },
+    {
+      "num": 1227,
+      "title": "Hiệu ứng dây chuyền, lãnh địa Lục Giang khốn đốn!"
+    },
+    {
+      "num": 1228,
+      "title": "Dịch vụ đưa người qua ải, khoảng cách ngày càng nới rộng！"
+    },
+    {
+      "num": 1229,
+      "title": "Chinh phục cự thú, hóa ra kẻ hề chính là ta!"
+    },
+    {
+      "num": 1230,
+      "title": "Lại có thêm một căn cứ, dân câu cá mừng như bắt được vàng!"
+    },
+    {
+      "num": 1231,
+      "title": "Thiên phú đánh cá bẩm sinh, nửa trên khu vực chấn động!"
+    },
+    {
+      "num": 1232,
+      "title": "Cái gì, người đi sinh tồn còn ăn ngon hơn cả chúng ta?!"
+    },
+    {
+      "num": 1233,
+      "title": "Di cư giữa hai nửa, Long Kỳ kéo đến ăn chùa"
+    },
+    {
+      "num": 1234,
+      "title": "Làm từ thiện, kế hoạch nằm im hưởng lợi bị chấm dứt!"
+    },
+    {
+      "num": 1235,
+      "title": "Dồn toàn lực, đánh gục vùng núi!"
+    },
+    {
+      "num": 1236,
+      "title": "Kiểm kê tài sản, giàu ngang một nước!"
+    },
+    {
+      "num": 1237,
+      "title": "Xuyên qua khu rừng, sức ép đến từ độ khó năm sao!"
+    },
+    {
+      "num": 1238,
+      "title": "Thu hoạch nghịch thiên, Giường Mẹ Mô-đun!"
+    },
+    {
+      "num": 1239,
+      "title": "Truyền thuyết khắp nơi, mở rộng tầm mắt!"
+    },
+    {
+      "num": 1240,
+      "title": "Truyền thuyết đã vào tay, vòng thi chính thức bước vào hồi kết!"
+    },
+    {
+      "num": 1241,
+      "title": "Hạ màn, vòng đấu chính thức kết thúc!"
+    },
+    {
+      "num": 1242,
+      "title": "Giới Đỉnh, cuộc chiến chung kết!"
+    },
+    {
+      "num": 1243,
+      "title": "Trận chung kết cô độc, chinh phục đỉnh núi sương mù!"
+    },
+    {
+      "num": 1244,
+      "title": "Băng qua rừng mưa, vượt núi ngàn trượng, nếm đủ gió tuyết!"
+    },
+    {
+      "num": 1245,
+      "title": "Thế giới tựa lò luyện, chúng sinh như củi đốt!"
+    },
+    {
+      "num": 1246,
+      "title": "Lấy được Đỉnh Giới, mang đi hay từ bỏ!"
+    },
+    {
+      "num": 1247,
+      "title": "Thiên Nguyên Giới, chủ nhân Thiên Nguyên Giới! (Hết quyển)"
+    },
+    {
+      "num": 1248,
+      "title": "Thời đại mới, thiên tai trừng phạt!"
+    },
+    {
+      "num": 1249,
+      "title": "Dấu tích còn sót lại của Cự Sơn, mười thế giới!"
+    },
+    {
+      "num": 1250,
+      "title": "Mở rộng thôn thành trấn, địa bàn thay đổi!"
+    },
+    {
+      "num": 1251,
+      "title": "Tây Giao xây dựng lại, trí khôn lớn của Lạp Hổ!"
+    },
+    {
+      "num": 1252,
+      "title": "Thay đổi, sức mạnh của liên minh!"
+    },
+    {
+      "num": 1253,
+      "title": "Tình Cảng náo nhiệt, cái giá phải trả cho sự kiêu ngạo!"
+    },
+    {
+      "num": 1254,
+      "title": "Thu hoạch bội thu, dân số tăng ngoài dự kiến!"
+    },
+    {
+      "num": 1255,
+      "title": "Khách khứa tới chúc mừng, tân chủ nhân của Tình Cảng!"
+    },
+    {
+      "num": 1256,
+      "title": "Chế độ thành viên, những nhà quản lý phát cuồng!"
+    },
+    {
+      "num": 1257,
+      "title": "Năng lực của Máy Mẹ, công nghệ bùng nổ lần nữa!"
+    },
+    {
+      "num": 1258,
+      "title": "Trước thềm tai họa, đoàn thương nhân Nhện Đỏ chở đầy hàng hóa kéo đến!"
+    },
+    {
+      "num": 1259,
+      "title": "Ba ngày không gặp, chặn tín hiệu và phá chặn tín hiệu!"
+    },
+    {
+      "num": 1260,
+      "title": "Đây là Thanh Cảng? Đây là Thiên Nguyên?"
+    },
+    {
+      "num": 1261,
+      "title": "Dễ dàng nghiền ép, Sean kinh hãi!"
+    },
+    {
+      "num": 1262,
+      "title": "Chỗ dựa vững chắc, món quà bất ngờ đến từ Quỹ Đầu Tư!"
+    },
+    {
+      "num": 1263,
+      "title": "Giao dịch theo giá vốn, những thứ quý giá giúp bồi đắp nền tảng"
+    },
+    {
+      "num": 1264,
+      "title": "Động đất sắp ập đến, cục diện dần lộ rõ!"
+    },
+    {
+      "num": 1265,
+      "title": "Cơ hội xuất khẩu mô-đun, dẫn đầu thời đại"
+    },
+    {
+      "num": 1266,
+      "title": "Hiệp Ước Hợp Tác Sâu Rộng, Khả Năng Trở Thành Thế Lực Siêu Cấp!"
+    },
+    {
+      "num": 1267,
+      "title": "Đất trời sụp đổ, núi non tan hoang, các mảng lục địa chia cắt!"
+    },
+    {
+      "num": 1268,
+      "title": "Khai thiên lập địa, nước sông cuồn cuộn từ trời đổ xuống!"
+    },
+    {
+      "num": 1269,
+      "title": "Năm đại lục, dòng sông tiên khổng lồ!"
+    },
+    {
+      "num": 1270,
+      "title": "Tuyến đường trên vùng đất hoang, Kế hoạch Sao Trời!"
+    },
+    {
+      "num": 1271,
+      "title": "Hạm đội, bến cảng, tiềm lực trải khắp đại lục!"
+    },
+    {
+      "num": 1272,
+      "title": "Khởi động kinh tế kênh đào, đoàn khách phương xa đầu tiên!"
+    },
+    {
+      "num": 1273,
+      "title": "Vùng đất xa lạ, nền văn minh thân thuộc!"
+    },
+    {
+      "num": 1274,
+      "title": "Mua sắm điên cuồng, sức mua đáng kinh ngạc!"
+    },
+    {
+      "num": 1275,
+      "title": "Đảo lộn mọi nhận thức, cảm giác như được trở về nhà!"
+    },
+    {
+      "num": 1276,
+      "title": "Nhu cầu trong và ngoài, sức mua khủng khiếp của khách từ nơi khác đến！"
+    },
+    {
+      "num": 1277,
+      "title": "Chuẩn bị chiến tranh, phát súng đầu tiên!"
+    },
+    {
+      "num": 1278,
+      "title": "Mở cửa giao thương, đại quân tiến về phương Bắc!"
+    },
+    {
+      "num": 1279,
+      "title": "Con đường ngày càng rộng mở, kế hoạch Tổ Ong chưa từng có tiền lệ"
+    },
+    {
+      "num": 1280,
+      "title": "Mang hy vọng đến, mang của cải về!"
+    },
+    {
+      "num": 1281,
+      "title": "Hạm đội khởi hành, tai họa liên tiếp ập đến!"
+    },
+    {
+      "num": 1282,
+      "title": "Gian nan chọn một trong ba, tương lai hay hiện tại!"
+    },
+    {
+      "num": 1283,
+      "title": "Thời thế thay đổi, thiên tai thứ mười lăm!"
+    },
+    {
+      "num": 1284,
+      "title": "Giai đoạn đau đớn khi chuyển đổi, những hy sinh không thể tránh khỏi！"
+    },
+    {
+      "num": 1285,
+      "title": "Hỗn loạn bắt đầu, mở màn cho cuộc đại chiến phế thổ lần thứ nhất！"
+    },
+    {
+      "num": 1286,
+      "title": "Rắn chuột một ổ, tương kế tựu kế!"
+    },
+    {
+      "num": 1287,
+      "title": "Hệ thống chiến lược quý giá, kẻ địch của ngươi không thông minh đến thế"
+    },
+    {
+      "num": 1288,
+      "title": "Một màn kịch hay, chính thức mở màn!"
+    },
+    {
+      "num": 1289,
+      "title": "Cho không? Đại thắng ở cảng Hồng Hoa!"
+    },
+    {
+      "num": 1290,
+      "title": "Nhiệm vụ giới hạn thời gian, điểm chiến tranh quý giá!"
+    },
+    {
+      "num": 1291,
+      "title": "Truyền Thuyết Màu Vàng, May Mắn Và Bất Hạnh!"
+    },
+    {
+      "num": 1292,
+      "title": "Dốc toàn lực xuất quân, ngươi gọi một trăm nghìn người là viện binh à?"
+    },
+    {
+      "num": 1293,
+      "title": "Thay đổi kế hoạch, thâm nhập hang hổ!"
+    },
+    {
+      "num": 1294,
+      "title": "Quyết định của Liệp Hổ, sở hữu đặc tính bẩm sinh màu vàng"
+    },
+    {
+      "num": 1295,
+      "title": "Hổ Đại Tướng Quân, đặc tính màu vàng biến thái!"
+    },
+    {
+      "num": 1296,
+      "title": "Khỏi cần nói nữa, tôi chọn làm chó của anh!"
+    },
+    {
+      "num": 1297,
+      "title": "Vị khách quý bất ngờ, doanh nghiệp tìm đến tận cửa！"
+    },
+    {
+      "num": 1298,
+      "title": "Thành Hồ Lai, tham vọng của doanh nghiệp!"
+    },
+    {
+      "num": 1299,
+      "title": "Ba hình thức hợp tác, trao đổi thông tin！"
+    },
+    {
+      "num": 1300,
+      "title": "Kho báu di động, phương thức hợp tác thứ tư!"
+    },
+    {
+      "num": 1301,
+      "title": "Bàn chuyện hợp tác, thu mua công nghệ, thu hoạch lớn!"
+    },
+    {
+      "num": 1302,
+      "title": "Thu hoạch bất ngờ, kỹ thuật cấp D!"
+    },
+    {
+      "num": 1303,
+      "title": "So với hợp tác, tuyến đường buôn bán còn quan trọng hơn!"
+    },
+    {
+      "num": 1304,
+      "title": "Thảm họa sắp ập đến, chiến dịch chính thức khởi động!"
+    },
+    {
+      "num": 1305,
+      "title": "Quân cờ đứng sau, mưu lược của Liệp Hổ!"
+    },
+    {
+      "num": 1306,
+      "title": "Tính toán, kiểm kê, triển khai song song hai hướng!"
+    },
+    {
+      "num": 1307,
+      "title": "Gió nổi mây vần, rét nàng Bân ập đến!"
+    },
+    {
+      "num": 1308,
+      "title": "Dừng binh đao mới là sức mạnh, tia sáng bình minh giữa bóng tối!"
+    },
+    {
+      "num": 1309,
+      "title": "Lấy bạo chế bạo, lấy giết ngăn giết！"
+    },
+    {
+      "num": 1310,
+      "title": "Đông người thêm thế mạnh, hành trình mới!"
+    },
+    {
+      "num": 1311,
+      "title": "Cấp trên từ trên trời rơi xuống, âm thầm nâng đỡ!"
+    },
+    {
+      "num": 1312,
+      "title": "Vũ trang riêng, mượn dao giết người!"
+    },
+    {
+      "num": 1313,
+      "title": "Dùng nắm đấm để phân rõ phải trái, rồng vượt sông từ phương xa!"
+    },
+    {
+      "num": 1314,
+      "title": "Muốn giết thì giết, không phục cứ đánh!"
+    },
+    {
+      "num": 1315,
+      "title": "Ảo tưởng và hiện thực, Tân Cách chịu thua!"
+    },
+    {
+      "num": 1316,
+      "title": "Tự Dâng Mồi Đến Cửa, Ác Hổ Cuồng Săn!"
+    },
+    {
+      "num": 1317,
+      "title": "Xin lỗi mà có ích thì còn cần quy tắc làm gì?"
+    },
+    {
+      "num": 1318,
+      "title": "Chia quân làm bốn ngả, đánh thẳng vào hang ổ địch!"
+    },
+    {
+      "num": 1319,
+      "title": "Phát hiện quan trọng, tuyến đường bí mật dẫn thẳng vào vùng lõi"
+    },
+    {
+      "num": 1320,
+      "title": "Chào buổi tối, lãnh chúa Kỷ!"
+    },
+    {
+      "num": 1321,
+      "title": "Mỗi bên đều có toan tính riêng, dị tộc nóng lòng đưa đầu đến nộp mạng"
+    },
+    {
+      "num": 1322,
+      "title": "Cứ tưởng gặp được một mẻ lớn, ai ngờ lại vớ phải một đống rắc rối"
+    },
+    {
+      "num": 1323,
+      "title": "Ba điều kiện, Vòng quay Chiến dịch!"
+    },
+    {
+      "num": 1324,
+      "title": "Nhiệt độ giảm sâu, cửa hàng thế lực!"
+    },
+    {
+      "num": 1325,
+      "title": "Dễ dàng lên nắm quyền, khống chế ngược lại người lùn!"
+    },
+    {
+      "num": 1326,
+      "title": "Phản công bắt đầu, mục tiêu: Hắc Thạch Thành!"
+    },
+    {
+      "num": 1327,
+      "title": "Tổng động viên chiến tranh, con át chủ bài lớn nhất!"
+    },
+    {
+      "num": 1328,
+      "title": "Lệnh tổng động viên, tuốt kiếm khỏi vỏ!"
+    },
+    {
+      "num": 1329,
+      "title": "Đại chiến sắp nổ ra, người Trái Đất chưa bao giờ nói đến chữ “tín”"
+    },
+    {
+      "num": 1330,
+      "title": "Hội tụ nơi tiền tuyến, thâm nhập sâu vào hậu phương địch!"
+    },
+    {
+      "num": 1331,
+      "title": "Những người lùn phức tạp, tính cách phân hóa!"
+    },
+    {
+      "num": 1332,
+      "title": "Cách chỉ huy tốt nhất ở giai đoạn hiện tại chính là không chỉ huy"
+    },
+    {
+      "num": 1333,
+      "title": "Chơi thuốc nổ, chúng ta mới là dân trong nghề!"
+    },
+    {
+      "num": 1334,
+      "title": "Toàn quân áp sát, cuộc chiến nghiền nát mọi thứ!"
+    },
+    {
+      "num": 1335,
+      "title": "Ngồi yên trong nhà, điểm tích lũy từ trên trời rơi xuống, đúng là..."
+    },
+    {
+      "num": 1336,
+      "title": "Trận chiến tại Hắc Thạch Thành kết thúc, luận công ban thưởng!"
+    },
+    {
+      "num": 1337,
+      "title": "Huyết thống biến đổi, tiến hóa lần hai!"
+    },
+    {
+      "num": 1338,
+      "title": "Chiến hỏa bùng lên, rút lui chiến lược!"
+    },
+    {
+      "num": 1339,
+      "title": "Tổng kết và kiểm kê, kẻ tay trắng chẳng sợ người có của"
+    },
+    {
+      "num": 1340,
+      "title": "Ngay cả kẻ đen đủi cũng có lúc gặp vận may"
+    },
+    {
+      "num": 1341,
+      "title": "Sắp xếp những việc tiếp theo, kết thúc chuyến viễn chinh đầu tiên!"
+    },
+    {
+      "num": 1342,
+      "title": "Khải hoàn trở về, trước tiên làm một trăm lượt mười lần đi!"
+    },
+    {
+      "num": 1343,
+      "title": "Ta đã liều mạng đến mức này, không phát tài thì ai phát tài?"
+    },
+    {
+      "num": 1344,
+      "title": "Thái độ hoàn toàn khác biệt, tái thiết Tình Cảng (20)"
+    },
+    {
+      "num": 1345,
+      "title": "Thuận buồm xuôi gió, thành phố Cảng Nắng rồi sẽ mang họ “Tô”"
+    },
+    {
+      "num": 1346,
+      "title": "Cuộc đời không có KPI thì chẳng trọn vẹn!"
+    },
+    {
+      "num": 1347,
+      "title": "Đây, đây chính là thực lực của Thiên Nguyên sao?"
+    },
+    {
+      "num": 1348,
+      "title": "Liên minh Đảo Mỏ, vùng đất hoang tàn còn tăm tối hơn cả tưởng tượng"
+    },
+    {
+      "num": 1349,
+      "title": "Vẫn nghèo, nhưng nghèo có khí phách!"
+    },
+    {
+      "num": 1350,
+      "title": "Tham quan, mặt bằng chung của các khu tập trung trên vùng đất hoang"
+    },
+    {
+      "num": 1351,
+      "title": "Ăn ý ngay lập tức, ra ngoài lăn lộn chẳng lẽ không nói chuyện tiền bạc?"
+    },
+    {
+      "num": 1352,
+      "title": "Có thực lực trong tay, đến Thượng Đế cũng phải nể mặt"
+    },
+    {
+      "num": 1353,
+      "title": "Đạt được thỏa thuận hợp tác, thế lực địa phương không chịu an phận!"
+    },
+    {
+      "num": 1354,
+      "title": "Mời tôi đến làm khách, tôi lại tiễn anh xuống địa ngục đấy!"
+    },
+    {
+      "num": 1355,
+      "title": "Cạnh tranh làm ăn, đôi khi lại đơn giản đến thế"
+    },
+    {
+      "num": 1356,
+      "title": "Thuyền không biết lái, chẳng lẽ còn không biết dùng vũ khí?"
+    },
+    {
+      "num": 1357,
+      "title": "Thế cân bằng bị phá vỡ, sức ảnh hưởng của con tàu bọc thép!"
+    },
+    {
+      "num": 1358,
+      "title": "Đổi vị trí, vũ khí của tôi sao lại tự..."
+    },
+    {
+      "num": 1359,
+      "title": "Một trận đánh quét sạch toàn bộ, Liên minh Đảo Mỏ chìm trong biển lửa!"
+    },
+    {
+      "num": 1360,
+      "title": "Trời long đất lở, kẻ sống sót mới là người nắm quyền"
+    },
+    {
+      "num": 1361,
+      "title": "Ta còn chưa ra tay, sao các ngươi đã ngã xuống rồi"
+    },
+    {
+      "num": 1362,
+      "title": "Mọi chuyện đã ngã ngũ, vậy mà bọn họ còn phải nói lời cảm ơn"
+    },
+    {
+      "num": 1363,
+      "title": "Ngươi vui vẻ đến thế, ta không xử lý ngươi thì khó mà ăn nói được"
+    },
+    {
+      "num": 1364,
+      "title": "Mọi người đừng hoảng, chúng tôi cam kết sẽ không ra tay trước"
+    },
+    {
+      "num": 1365,
+      "title": "Kim Ngưu Khổng Lồ, Uy Áp Của Lãnh Chúa!"
+    },
+    {
+      "num": 1366,
+      "title": "Vận xui kéo đến, muốn tránh cũng không tránh nổi!"
+    },
+    {
+      "num": 1367,
+      "title": "Giết ngươi, chẳng lẽ còn cần lý do sao?"
+    },
+    {
+      "num": 1368,
+      "title": "Cấu kết với người ngoài, quản lý Tôn cũng phải có phần"
+    },
+    {
+      "num": 1369,
+      "title": "Ba câu hỏi, lãnh địa Lục Giang lại tìm đến?"
+    },
+    {
+      "num": 1370,
+      "title": "Đừng nhắc nữa, tôi sợ xưởng trưởng Thư hiểu lầm!"
+    },
+    {
+      "num": 1371,
+      "title": "Khoan đã, sao người này trông quen mắt thế?"
+    },
+    {
+      "num": 1372,
+      "title": "Sáp nhập vào Thiên Nguyên, trữ lượng khoáng sản nhiều đến mức khó tin"
+    },
+    {
+      "num": 1373,
+      "title": "Nuôi một quân bài bí mật, vươn tầm ảnh hưởng khắp miền Nam!"
+    },
+    {
+      "num": 1374,
+      "title": "Trên bàn ăn của họ phải có thịt, có trứng,"
+    },
+    {
+      "num": 1375,
+      "title": "Rời đi một mình, lại tiến vào vùng hoang dã!"
+    },
+    {
+      "num": 1376,
+      "title": "Thuyết viên bi, nguồn gốc thực sự của tai họa!"
+    },
+    {
+      "num": 1377,
+      "title": "Bí mật kinh thiên, hai cách kết thúc thảm họa Vĩnh Định"
+    },
+    {
+      "num": 1378,
+      "title": "Chơi một vố lớn, thiên tai lần thứ mười lăm!"
+    },
+    {
+      "num": 1379,
+      "title": "Thú triều tử thần, cơ hội trỗi dậy!"
+    },
+    {
+      "num": 1380,
+      "title": "Thế giới bên ngoài, sức sống bền bỉ của nhân loại!"
+    },
+    {
+      "num": 1381,
+      "title": "Đường bá đến rồi, các người tưởng ta là người tốt bụng lắm sao?"
+    },
+    {
+      "num": 1382,
+      "title": "La Hựu, ngươi cũng định chạy sao?"
+    },
+    {
+      "num": 1383,
+      "title": "Trao đổi, cách làm việc với người thông minh"
+    },
+    {
+      "num": 1384,
+      "title": "Đáp án, chúng ta có chung kẻ thù!"
+    },
+    {
+      "num": 1385,
+      "title": "Bộ lạc Người Ếch, tặng chúng một bất ngờ!"
+    },
+    {
+      "num": 1386,
+      "title": "Ba loại người, kẻ tàn nhẫn, kẻ khờ khạo, kẻ ngu ngốc!"
+    },
+    {
+      "num": 1387,
+      "title": "Sự tự tin của La Hựu tan vỡ!"
+    },
+    {
+      "num": 1388,
+      "title": "Không cần người khác công nhận ta đúng hay sai, chỉ người thành công mới có tư cách lên tiếng!"
+    },
+    {
+      "num": 1389,
+      "title": "Rãnh biển Người Cá Ếch, mỏ U Năng tự nhiên?!"
+    },
+    {
+      "num": 1390,
+      "title": "Đá Tín Ngưỡng, nằm không cũng kiếm được tiền!"
+    },
+    {
+      "num": 1391,
+      "title": "Thủ đoạn quen thuộc, tên Người Ếch bị chuốc đến ngốc cả người!"
+    },
+    {
+      "num": 1392,
+      "title": "Bất ngờ xảy ra, đến thành Hồ Lai!"
+    },
+    {
+      "num": 1393,
+      "title": "Tính toán sâu xa, sự thay đổi của doanh nghiệp!"
+    },
+    {
+      "num": 1394,
+      "title": "Trăm việc ngổn ngang, kế hoạch xây dựng hệ sinh thái!"
+    },
+    {
+      "num": 1395,
+      "title": "Bài toán phân chia, mâu thuẫn tất yếu trong quá trình phát triển！"
+    },
+    {
+      "num": 1396,
+      "title": "Trần Kiểm trở về, tham vọng của doanh nghiệp!"
+    },
+    {
+      "num": 1397,
+      "title": "Nhìn về tương lai, sống vì đi tìm lời giải đáp！"
+    },
+    {
+      "num": 1398,
+      "title": "Nỗi sợ hãi, khát vọng, thời đại thần linh toàn cầu!"
+    },
+    {
+      "num": 1399,
+      "title": "Suy tính mới, khởi động lại việc đưa người chơi vào thế giới hoang tàn!"
+    },
+    {
+      "num": 1400,
+      "title": "Cơ Chế Ràng Buộc, Phương Thức Đưa Người Chơi Mới Xuống Hoàn Toàn Khác Biệt!"
+    },
+    {
+      "num": 1401,
+      "title": "Cùng nhau góp sức, quy tắc thần linh!"
+    },
+    {
+      "num": 1402,
+      "title": "Đổi hướng phát triển, tiến về phía tương lai chưa biết!"
+    },
+    {
+      "num": 1403,
+      "title": "Cuộc thảo luận cấp cao nhất, quyết định những thay đổi định đoạt tương lai nhân loại!"
+    },
+    {
+      "num": 1404,
+      "title": "Đào góc tường, ảnh hưởng của biến động thời không!"
+    },
+    {
+      "num": 1405,
+      "title": "Phế thổ vẫn còn đó, nhưng những kẻ đứng đầu thì thay nhau đổi chỗ!"
+    },
+    {
+      "num": 1406,
+      "title": "Sự phồn thịnh của vùng đất hoang, khúc ca ngợi ca lòng dũng cảm!"
+    },
+    {
+      "num": 1407,
+      "title": "Cái thiện và cái ác trong lòng người!"
+    },
+    {
+      "num": 1408,
+      "title": "Dựng một lãnh địa, ngươi làm lãnh chủ!"
+    },
+    {
+      "num": 1409,
+      "title": "Lãnh địa Đá Khổng Lồ, công khai đào người của đối phương!"
+    },
+    {
+      "num": 1410,
+      "title": "Biến đổi kỳ lạ, mưa đen ập đến！"
+    },
+    {
+      "num": 1411,
+      "title": "Rơi xuống đáy vực, sau cơn bĩ cực ắt đến hồi thái lai!"
+    },
+    {
+      "num": 1412,
+      "title": "Lần sau, để ta đi tìm nàng!"
+    },
+    {
+      "num": 1413,
+      "title": "Dị biến ngoài lãnh thổ, cả tộc hiến tế! (Hết quyển)"
+    },
+    {
+      "num": 1414,
+      "title": "Thảm họa cấp Huyền, cuộc cá cược giữa các vị thần!"
+    },
+    {
+      "num": 1415,
+      "title": "Giai đoạn Thủy Triều Chết, thời đại đất hoang toàn cầu kết thúc!"
+    },
+    {
+      "num": 1416,
+      "title": "Ba câu hỏi, bí mật của hệ thống!"
+    },
+    {
+      "num": 1417,
+      "title": "Điều chỉnh cân bằng, Hy Vọng trở về!"
+    },
+    {
+      "num": 1418,
+      "title": "Cảnh cá cược, dùng tà thuật nguyền rủa giết người!"
+    },
+    {
+      "num": 1419,
+      "title": "Thế giới song song, gieo mầm thần linh!"
+    },
+    {
+      "num": 1420,
+      "title": "Bài toán dân số, Sổ tay phát triển khẩn cấp！"
+    },
+    {
+      "num": 1421,
+      "title": "Định ra quy tắc, các lãnh địa chung tay hỗ trợ!"
+    },
+    {
+      "num": 1422,
+      "title": "Sửa lại lịch sử, Đạo luật Hướng dẫn Người Sống Sót!"
+    },
+    {
+      "num": 1423,
+      "title": "Chiếm đoạt sức sống, cơ chế đặc biệt!"
+    },
+    {
+      "num": 1424,
+      "title": "Thần của nhân loại, Thần của dị tộc!"
+    },
+    {
+      "num": 1425,
+      "title": "Nền văn minh trong quá khứ, tất cả đều diệt vong!"
+    },
+    {
+      "num": 1426,
+      "title": "Uy, Hạt Nhân Vũ Trụ!"
+    },
+    {
+      "num": 1427,
+      "title": "Chức năng trở lại, chuẩn bị trước trận quyết chiến!"
+    },
+    {
+      "num": 1428,
+      "title": "Sắp xếp nhiều hướng, tòa thành cô độc không thể trở về nhà!"
+    },
+    {
+      "num": 1429,
+      "title": "Thành phố tự động hóa, trí tuệ nhân tạo bị trói buộc!"
+    },
+    {
+      "num": 1430,
+      "title": "Tử Triều Giáng Lâm, Ô Nhiễm Hủy Diệt!"
+    },
+    {
+      "num": 1431,
+      "title": "Thử đi thử lại, khả năng kiếm điểm số lượng lớn!"
+    },
+    {
+      "num": 1432,
+      "title": "Xuống núi giao dịch, lòng người có thể dùng!"
+    },
+    {
+      "num": 1433,
+      "title": "Thu phục lòng người, quy mô tăng vọt!"
+    },
+    {
+      "num": 1434,
+      "title": "Món hàng đặc biệt, con đường vươn mình cất cánh!"
+    },
+    {
+      "num": 1435,
+      "title": "Lần đầu tiên đạt mức tối đa, phần thưởng đặc biệt bổ sung!"
+    },
+    {
+      "num": 1436,
+      "title": "Nâng cấp, tái tạo, một phen khiến người ta kinh ngạc!"
+    },
+    {
+      "num": 1437,
+      "title": "Nắng nóng chấm dứt, mùa thu hoạch lặng lẽ kéo đến!"
+    },
+    {
+      "num": 1438,
+      "title": "Gặp trở ngại khi thu mua lương thực, máy dò dao động thần lực!"
+    },
+    {
+      "num": 1439,
+      "title": "Sự phát triển cách biệt, những ngày bình yên cuối cùng!"
+    },
+    {
+      "num": 1440,
+      "title": "Kính lương thực đầy kho, kính hy vọng trường tồn!"
+    },
+    {
+      "num": 1441,
+      "title": "Sinh trong gian khó, chết trong an nhàn!"
+    },
+    {
+      "num": 1442,
+      "title": "Cách phá vỡ thế bế tắc, thời hạn tháng Năm!"
+    },
+    {
+      "num": 1443,
+      "title": "Tâm nguyện, nỗi kinh ngạc của Quách Bố La!"
+    },
+    {
+      "num": 1444,
+      "title": "Lấy cớ dò hỏi, cơ hội tự tìm đến!"
+    },
+    {
+      "num": 1445,
+      "title": "Tiên sinh Mã, thời đại đã thay đổi rồi!"
+    },
+    {
+      "num": 1446,
+      "title": "Lần đầu gặp mặt, Tát Ngõa Nhĩ Đa tuyệt vọng!"
+    },
+    {
+      "num": 1447,
+      "title": "Là cuộc tranh biện hay buổi lên lớp?"
+    },
+    {
+      "num": 1448,
+      "title": "Chợ Đen Ưng Giác, Sóng Gió Bắt Đầu Lộ Diện!"
+    },
+    {
+      "num": 1449,
+      "title": "Xác định con đường, đi con đường của riêng Cự Thạch!"
+    },
+    {
+      "num": 1450,
+      "title": "Giai đoạn thứ hai, tổng lực khai chiến!"
+    },
+    {
+      "num": 1451,
+      "title": "Chiến tranh bắt đầu, âm mưu của dị tộc!"
+    },
+    {
+      "num": 1452,
+      "title": "Lựa chọn vũ khí, nỗi lo từ nhiều phía!"
+    },
+    {
+      "num": 1453,
+      "title": "Lưu danh sử sách, chiến đấu vì lý tưởng!"
+    },
+    {
+      "num": 1454,
+      "title": "Đặt chân đến miền Đông, đại bản doanh của dị tộc!"
+    },
+    {
+      "num": 1455,
+      "title": "Cự thú thành trì kinh hoàng, doanh trại di động của dị tộc!"
+    },
+    {
+      "num": 1456,
+      "title": "Gặp lại Connie, âm mưu của dị tộc!"
+    },
+    {
+      "num": 1457,
+      "title": "Lấy độc trị độc, tình báo về cuộc cá cược đầu tiên!"
+    },
+    {
+      "num": 1458,
+      "title": "Đánh vòng, thành thú xuất hiện biến động！"
+    },
+    {
+      "num": 1459,
+      "title": "Mưu sự tại nhân, trận quyết đấu đã cận kề!"
+    },
+    {
+      "num": 1460,
+      "title": "Dị thú thành vực sâu, hình mẫu nơi trú ẩn hoàn hảo nhất!"
+    },
+    {
+      "num": 1461,
+      "title": "Góp vốn vào Thành Thú, thiếu hụt điểm sinh tồn!"
+    },
+    {
+      "num": 1462,
+      "title": "Hy vọng, hy vọng, hy vọng!"
+    },
+    {
+      "num": 1463,
+      "title": "Những chuẩn bị cuối cùng, đếm ngược đến trận đánh cược!"
+    },
+    {
+      "num": 1464,
+      "title": "Ba năm nơi đất hoang, món quà trong két sắt!"
+    },
+    {
+      "num": 1465,
+      "title": "Cấp Bán Thần, lựa chọn theo tiếng lòng!"
+    },
+    {
+      "num": 1466,
+      "title": "Thông báo về cuộc đấu cược, chủ đề tranh tài đặc biệt!"
+    },
+    {
+      "num": 1467,
+      "title": "Âm mưu công khai đáng sợ, kế hoạch thực sự của dị tộc!"
+    },
+    {
+      "num": 1468,
+      "title": "Tấn công lẫn nhau, thời khắc quyết định!"
+    },
+    {
+      "num": 1469,
+      "title": "Quyền hạn áp đảo, thu hoạch ngoài dự tính！"
+    },
+    {
+      "num": 1470,
+      "title": "Cộng hưởng năng lượng, tiến hóa thành nhân loại siêu tinh cầu!"
+    },
+    {
+      "num": 1471,
+      "title": "Đêm trước trận cá cược, sóng gió nổi lên!"
+    },
+    {
+      "num": 1472,
+      "title": "Hội Hướng Sinh, cuộc đấu đá trong bóng tối!"
+    },
+    {
+      "num": 1473,
+      "title": "Chiến dịch nhổ tận gốc, chuẩn bị trước chiến tranh!"
+    },
+    {
+      "num": 1474,
+      "title": "Băng tan, sức mạnh tăng lên ngoài dự đoán!"
+    },
+    {
+      "num": 1475,
+      "title": "Chuẩn bị cuối cùng, trận đánh cược chính thức bắt đầu!"
+    },
+    {
+      "num": 1476,
+      "title": "Mùa đông hạt nhân, khởi đầu của ngày tận thế!"
+    },
+    {
+      "num": 1477,
+      "title": "Khởi đầu tuyệt vọng, nhiệm vụ bất khả thi!"
+    },
+    {
+      "num": 1478,
+      "title": "Bộ lạc Hỏa Quyền, cửa ải đầu tiên!"
+    },
+    {
+      "num": 1479,
+      "title": "Khan hiếm vật tư, cửa ải khó khăn thứ hai!"
+    },
+    {
+      "num": 1480,
+      "title": "Tranh giành khe nứt, quy luật sinh tồn!"
+    },
+    {
+      "num": 1481,
+      "title": "Nguồn gốc của thần, phân chia cấp bậc tế sư！"
+    },
+    {
+      "num": 1482,
+      "title": "Lỗ hổng trong thần thuật, truyền thừa tế ty！"
+    },
+    {
+      "num": 1483,
+      "title": "Thần thuật chào hỏi, đại chiến bắt đầu!"
+    },
+    {
+      "num": 1484,
+      "title": "Bộ lạc Mưa Đỏ, Sa Độ trọng thương!"
+    },
+    {
+      "num": 1485,
+      "title": "Sát chiêu bất ngờ, đành thuận theo dòng nước!"
+    },
+    {
+      "num": 1486,
+      "title": "Thăng lên cấp ba, vượt ải phàm tục!"
+    },
+    {
+      "num": 1487,
+      "title": "Liên hoàn tử cục, Tư tế Thang Mã uy vũ!"
+    },
+    {
+      "num": 1488,
+      "title": "Đục nước béo cò, chủ động tung đòn bất ngờ!"
+    },
+    {
+      "num": 1489,
+      "title": "Là Ta Giết, Các Ngươi Có Ý Kiến Gì Không?"
+    },
+    {
+      "num": 1490,
+      "title": "Tiền thưởng truy nã, Liên minh Hỏa Quyền!"
+    },
+    {
+      "num": 1491,
+      "title": "Thắng Trời Nửa Nước Cờ, Tự Mình Bước Vào Bàn Cờ!"
+    },
+    {
+      "num": 1492,
+      "title": "Cách phá vỡ thế bí, sự đặc biệt của tín ngưỡng!"
+    },
+    {
+      "num": 1493,
+      "title": "Nuôi dưỡng đức tin, nâng đỡ thần linh!"
+    },
+    {
+      "num": 1494,
+      "title": "Con đường thành thần, vô tận đám cướp tuyết!"
+    },
+    {
+      "num": 1495,
+      "title": "Nước Cờ Dự Phòng Hai Lớp, Bọn Cướp Tuyết Tấn Công!"
+    },
+    {
+      "num": 1496,
+      "title": "Giành trước một bước, phần thưởng khoáng thạch thần bí!"
+    },
+    {
+      "num": 1497,
+      "title": "Ý tưởng táo bạo, thợ săn và con mồi!"
+    },
+    {
+      "num": 1498,
+      "title": "Thu hoạch bất ngờ, nhận thưởng kép!"
+    },
+    {
+      "num": 1499,
+      "title": "Thu hoạch vượt xa dự tính, thần thuật và thần khoáng đều thu về đầy đủ!"
+    },
+    {
+      "num": 1500,
+      "title": "Ba nhiệm vụ, bắt đầu moi của cải từ những kẻ giàu có!"
+    },
+    {
+      "num": 1501,
+      "title": "Không vào hang cọp, sao bắt được cọp con!"
+    },
+    {
+      "num": 1502,
+      "title": "Người vì tiền mà chết, chim vì thức ăn mà vong!"
+    },
+    {
+      "num": 1503,
+      "title": "Kỳ hạn ba tháng, thần khoáng cuối cùng cũng gom đủ!"
+    },
+    {
+      "num": 1504,
+      "title": "Nâng cấp nghi thức, thần thuật trời ban!"
+    },
+    {
+      "num": 1505,
+      "title": "Trong họa được phúc, biến cố lớn đến sớm!"
+    },
+    {
+      "num": 1506,
+      "title": "Để hắn lại cho ta, ta muốn tự tay đánh chết hắn!"
+    },
+    {
+      "num": 1507,
+      "title": "Thuật Tế Luyện Huyết Thực, Kẻ Mang Khí Vận!"
+    },
+    {
+      "num": 1508,
+      "title": "Món hời không vốn, thu hoạch vật tư đầy ắp！"
+    },
+    {
+      "num": 1509,
+      "title": "Vượt đến Vân Tiêu, quy mô tăng mạnh!"
+    },
+    {
+      "num": 1510,
+      "title": "Ba bộ sáu ban, cuộc chiến giữa các phu nhân!"
+    },
+    {
+      "num": 1511,
+      "title": "Tỏ ra yếu thế trước mặt kẻ địch, thừa cơ trục lợi!"
+    },
+    {
+      "num": 1512,
+      "title": "Dám giở trò với ta à? Đồ khốn!"
+    },
+    {
+      "num": 1513,
+      "title": "Người một nhà, Trương Thúy Thúy bỏ trốn!"
+    },
+    {
+      "num": 1514,
+      "title": "Tiền mua mạng, vinh quang của tế tư！"
+    },
+    {
+      "num": 1515,
+      "title": "Tiếp quản, chuyện xấu trong nhà không thể để người ngoài biết!"
+    },
+    {
+      "num": 1516,
+      "title": "Biến cố lớn bùng nổ, cục diện thay đổi!"
+    },
+    {
+      "num": 1517,
+      "title": "Giẫm lên vết xe đổ, đại loạn nổi lên!"
+    },
+    {
+      "num": 1518,
+      "title": "Số liệu tăng vọt, các dị tộc tuyệt vọng!"
+    },
+    {
+      "num": 1519,
+      "title": "Đại chiến lưu danh sử sách, Âm Viên bỏ mạng!"
+    },
+    {
+      "num": 1520,
+      "title": "Đầu Sỏ Khe Nứt, Đại Điển Tế Tư!"
+    },
+    {
+      "num": 1521,
+      "title": "Đại sự kiện lần thứ hai, cục diện đã định!"
+    },
+    {
+      "num": 1522,
+      "title": "Biến động tiền tuyến, một món quà!"
+    },
+    {
+      "num": 1523,
+      "title": "Dương mưu và âm mưu, xuất quân chưa thắng đã bỏ mạng!"
+    },
+    {
+      "num": 1524,
+      "title": "Năm mươi lăm tuổi, hiểu rõ mệnh trời!"
+    },
+    {
+      "num": 1525,
+      "title": "Sắp xếp những việc cuối cùng, đôi mắt sau lớp kính mờ!"
+    },
+    {
+      "num": 1526,
+      "title": "Khế Ước Vặn Vẹo, Đây Là Bước Cuối Cùng Để Giành Chiến Thắng!"
+    },
+    {
+      "num": 1527,
+      "title": "Nô lệ của Chủ Thần, ba năm chín tháng!"
+    },
+    {
+      "num": 1528,
+      "title": "Phế Thổ Biến Đổi Lớn, Thời Đại Công Nghiệp!"
+    },
+    {
+      "num": 1529,
+      "title": "Kết nối lại, nhận được bảng giao diện một lần nữa!"
+    },
+    {
+      "num": 1530,
+      "title": "Hỏi khắp thế gian anh hùng, ai dám tranh phong?"
+    },
+    {
+      "num": 1531,
+      "title": "Đứng giữa trời đất, ếch ngồi đáy giếng ngắm trăng!"
+    },
+    {
+      "num": 1532,
+      "title": "Xong việc phủi áo ra đi, giấu kín công lao và danh tiếng!"
+    },
+    {
+      "num": 1533,
+      "title": "Gặp lại Uy, nguyên nhân xuyên không!"
+    },
+    {
+      "num": 1534,
+      "title": "Ba phần thưởng, công nghệ cấp độ liên sao!"
+    },
+    {
+      "num": 1535,
+      "title": "Thời đại tồi tệ nhất, cũng là thời đại tốt đẹp nhất!"
+    },
+    {
+      "num": 1536,
+      "title": "Tân Thiên Nguyên, dư vị của sự trường sinh!"
+    },
+    {
+      "num": 1537,
+      "title": "Gặp lại người thiếu niên từng giương cung, chẳng sợ năm tháng, chẳng ngại gió sương!"
+    },
+    {
+      "num": 1538,
+      "title": "Thời thịnh trị như mong ước, hàng triệu điểm sinh tồn!"
+    },
+    {
+      "num": 1539,
+      "title": "Năm tháng nối tiếp, hồi kết của vùng đất hoang!"
+    },
+    {
+      "num": 1540,
+      "title": "Thông Thiên Tháp, kỳ quan văn minh thứ ba!"
+    },
+    {
+      "num": 1541,
+      "title": "Mở ra trang sử mới, cuộc cách mạng công nghiệp lần thứ tư!"
+    },
+    {
+      "num": 1542,
+      "title": "Nỗi lo của lão Mã, được và mất!"
+    },
+    {
+      "num": 1543,
+      "title": "Đại hội đi vào sử sách, công nghệ thế hệ thứ tư cuối cùng cũng ra mắt!"
+    },
+    {
+      "num": 1544,
+      "title": "Công nghệ đột phá ra mắt, vạch ra tương lai!"
+    },
+    {
+      "num": 1545,
+      "title": "Đơn đặt hàng khổng lồ, bước đường vươn lên của xưởng trưởng Lưu!"
+    },
+    {
+      "num": 1546,
+      "title": "Thời đại mới, thuyền trưởng của nền văn minh!"
+    },
+    {
+      "num": 1547,
+      "title": "Vượt qua biển sao, tiến tới đỉnh cao vũ trụ!"
+    },
+    {
+      "num": 1548,
+      "title": "Công nghệ thế hệ thứ tư, đại hội khép lại!"
+    },
+    {
+      "num": 1549,
+      "title": "Bộ não trung tâm, lại đến Hồ Lai Thành!"
+    },
+    {
+      "num": 1550,
+      "title": "Bổ sung nền tảng, nâng cấp Số 0!"
+    },
+    {
+      "num": 1551,
+      "title": "Phong Bạo Tinh, trí tuệ nhân tạo thứ hai!"
+    },
+    {
+      "num": 1552,
+      "title": "Xây dựng mạng lưới, thống nhất Tình Cảng！"
+    },
+    {
+      "num": 1553,
+      "title": "Tướng quân Săn Hổ, cái chết của Hades!"
+    },
+    {
+      "num": 1554,
+      "title": "Thiên Nguyên Thị, mặt trận phía Đông phồn hoa!"
+    },
+    {
+      "num": 1555,
+      "title": "Lính đánh thuê, một góc nhìn khác!"
+    },
+    {
+      "num": 1556,
+      "title": "Chế độ bố trí nơi ở, kiểm tra thực lực！"
+    },
+    {
+      "num": 1557,
+      "title": "Đội Trấn Hỏa, năng lực cấp A!"
+    },
+    {
+      "num": 1558,
+      "title": "Tiến sâu vào phía Đông, lần thứ hai tiến vào Bách Đoạn Sơn!"
+    },
+    {
+      "num": 1559,
+      "title": "Thân phận bị lộ, cơ hội giành lấy tất cả!"
+    },
+    {
+      "num": 1560,
+      "title": "Phá hủy đường núi, dị tộc ra tay!"
+    },
+    {
+      "num": 1561,
+      "title": "Không còn đường thoát, đôi bên đấu trí!"
+    },
+    {
+      "num": 1562,
+      "title": "Binh đoàn du kích, tình hình vượt ngoài tầm kiểm soát!"
+    },
+    {
+      "num": 1563,
+      "title": "Báo động cấp một, trước thềm trận đại chiến cuối cùng!"
+    },
+    {
+      "num": 1564,
+      "title": "Tương kế tựu kế, rốt cuộc ai mới là kẻ cao tay hơn?"
+    },
+    {
+      "num": 1565,
+      "title": "Ba trăm triệu đại quân, liều chết đánh một trận!"
+    },
+    {
+      "num": 1566,
+      "title": "Giai đoạn dị tộc, chỗ dựa kỳ lạ!"
+    },
+    {
+      "num": 1567,
+      "title": "Đuổi Tộc Ảnh Thú Ra Khỏi Cơ Thể, Phân Thân Thành Thú!"
+    },
+    {
+      "num": 1568,
+      "title": "Triển khai trên toàn mặt trận, cỗ máy nghiền nát chiến tranh!"
+    },
+    {
+      "num": 1569,
+      "title": "Đại thắng tiền tuyến, dị tộc vừa chạm mặt đã tan tác!"
+    },
+    {
+      "num": 1570,
+      "title": "Lửa cháy đến chân, trận chiến thảm khốc!"
+    },
+    {
+      "num": 1571,
+      "title": "Trận chiến tại Minh Sa Cốc, màn kịch lớn chính thức mở màn！"
+    },
+    {
+      "num": 1572,
+      "title": "Quyết chiến đến cùng, nội gián lập công lớn!"
+    },
+    {
+      "num": 1573,
+      "title": "Đến bao giờ đánh thua trận cũng được tính là công lao vậy?"
+    },
+    {
+      "num": 1574,
+      "title": "Hai bên đều thắng, vậy ai mới là kẻ thua cuộc?"
+    },
+    {
+      "num": 1575,
+      "title": "Gió nổi từ ngọn cỏ cuối chân trời, sóng dâng từ những gợn nước lăn tăn!"
+    },
+    {
+      "num": 1576,
+      "title": "Tổ Thần nổi giận, tung ra con át chủ bài!"
+    },
+    {
+      "num": 1577,
+      "title": "Thiết lập lại quy tắc, đại chiến quyết định bắt đầu!"
+    },
+    {
+      "num": 1578,
+      "title": "Ta là Tô Ma, màn kịch hay chính thức bắt đầu!"
+    },
+    {
+      "num": 1579,
+      "title": "Muốn đánh, vậy thì đánh một trận cho thật thống khoái!"
+    },
+    {
+      "num": 1580,
+      "title": "Đến lúc lật bài, dung hợp thành thú!"
+    },
+    {
+      "num": 1581,
+      "title": "Tộc Ảnh Thú thê thảm, cướp đoạt quyền kiểm soát!"
+    },
+    {
+      "num": 1582,
+      "title": "Trận chiến khởi nguyên, quyết chiến tại Bách Đoạn Sơn!"
+    },
+    {
+      "num": 1583,
+      "title": "Năm năm đã qua, tình thế nay đã khác!"
+    },
+    {
+      "num": 1584,
+      "title": "Không phải chỉ nghĩ đến chuyện chiến thắng, mà là chưa từng nghĩ đến thất bại!"
+    },
+    {
+      "num": 1585,
+      "title": "Sự kinh ngạc của ông Tống, nghi thức bán thần！"
+    },
+    {
+      "num": 1586,
+      "title": "Thần dịch bệnh, tối hậu thư mười ngày!"
+    },
+    {
+      "num": 1587,
+      "title": "Nhân loại không có thần, ta chính là chí tôn!"
+    },
+    {
+      "num": 1588,
+      "title": "Ba vị thần cùng xuất hiện, nhật nguyệt đều lu mờ!"
+    },
+    {
+      "num": 1589,
+      "title": "Thiên Cẩu Nuốt Nhật Nguyệt, Thất Thần Cùng Xuất Hiện！"
+    },
+    {
+      "num": 1590,
+      "title": "Há Nói Không Có Thần, Trấn Áp Bốn Phương!"
+    },
+    {
+      "num": 1591,
+      "title": "Nhổ tận gốc dị tộc, thời khắc gần chiến thắng nhất!"
+    },
+    {
+      "num": 1592,
+      "title": "Con át chủ bài đầu tiên, Lam Tư truyền dạy thần pháp!"
+    },
+    {
+      "num": 1593,
+      "title": "Phong ấn được giải trừ, Thất Thần xuống Thiên Sơn!"
+    },
+    {
+      "num": 1594,
+      "title": "Thất Tinh Trói Hổ, dùng chính cách của ngươi đánh bại ngươi!"
+    },
+    {
+      "num": 1595,
+      "title": "Thắng, thắng, thắng! Đánh cho con hổ sa cơ không ngóc đầu lên nổi!"
+    },
+    {
+      "num": 1596,
+      "title": "Liều Mạng Trong Tuyệt Cảnh, Sức Mạnh Của Tinh Long！"
+    },
+    {
+      "num": 1597,
+      "title": "Dập tắt tuyệt vọng, thiêu đốt thần huyết!"
+    },
+    {
+      "num": 1598,
+      "title": "Thần linh ngã xuống, trời đất cùng khóc!"
+    },
+    {
+      "num": 1599,
+      "title": "Trời long đất lở, chiến đấu đến hơi thở cuối cùng!"
+    },
+    {
+      "num": 1600,
+      "title": "Nhóc hổ con, ông nội Du Thiết của ngươi đến đây!"
+    },
+    {
+      "num": 1601,
+      "title": "Quét sạch như chẻ tre, Thiên Cung giáng thế!"
+    },
+    {
+      "num": 1602,
+      "title": "Trò chơi kết thúc, nơi giấc mơ bắt đầu!"
+    },
+    {
+      "num": 1603,
+      "title": "Xiềng xích văn minh, trận chiến dựng nên một tộc!"
+    },
+    {
+      "num": 1604,
+      "title": "Chân Thần mạnh nhất, kết thúc cũng chính là khởi đầu!"
+    },
+    {
+      "num": 1605,
+      "title": "Tinh Giới khép lại, tôn nghiêm chỉ nằm trên mũi kiếm!"
+    },
+    {
+      "num": 1606,
+      "title": "Món quà nhỏ, bảng thông tin mới!"
+    },
+    {
+      "num": 1607,
+      "title": "Bảng Văn Minh, Kế Hoạch Xây Nền Móng!"
+    },
+    {
+      "num": 1608,
+      "title": "Chư vị, có nguyện cùng ta đi hết chặng đường này?"
+    },
+    {
+      "num": 1609,
+      "title": "Vũ trụ tàn khốc, chuỗi thức ăn của thần linh!"
+    },
+    {
+      "num": 1610,
+      "title": "Thần Quốc Phong Tỏa, Du Thiết Chơi Lớn!"
+    },
+    {
+      "num": 1611,
+      "title": "Tuyên ngôn thế kỷ, lịch sử đã bước sang trang mới!"
+    },
+    {
+      "num": 1612,
+      "title": "Không thể nói ra, sự trỗi dậy thực sự!\\"
+    },
+    {
+      "num": 1613,
+      "title": "Mười năm, mười năm, mười năm!"
+    },
+    {
+      "num": 1614,
+      "title": "Trong núi chẳng biết ngày tháng, đông tàn cũng chẳng hay năm!"
+    },
+    {
+      "num": 1615,
+      "title": "Liên Bang Thiên Nguyên, Sao Tô Cực!"
+    },
+    {
+      "num": 1616,
+      "title": "Ngươi đã đi rất lâu, nhưng vẫn luôn có người chờ ngươi về nhà!"
+    },
+    {
+      "num": 1617,
+      "title": "Người đàn ông ấy, chính là người đàn ông ấy!"
+    },
+    {
+      "num": 1618,
+      "title": "Ta đã ngoài tám mươi, phong thái của viện trưởng vẫn chẳng hề đổi thay!"
+    },
+    {
+      "num": 1619,
+      "title": "Nguồn gốc của Uy, nguồn gốc của hệ thống!"
+    },
+    {
+      "num": 1620,
+      "title": "Nơi Trú Ẩn, Nâng Cấp Không Giới Hạn!"
+    },
+    {
+      "num": 1621,
+      "title": "Khởi đầu mới, truyền thuyết nhân gian (Hết truyện!)"
+    }
+  ],
+  "slug": "toan_cau_phe_tho_noi_tru_an",
+  "title": "Toàn Cầu Phế Thổ: Nơi Trú Ẩn Nâng Cấp Vô Hạn",
+  "author": "Cân Cân Cân (斤斤斤)",
+  "synopsis": "Truyện khoa huyễn hậu tận thế sinh tồn, xây dựng căn cứ của Cân Cân Cân (斤斤斤), đã hoàn thành. Thiên tai liên tiếp ập xuống, toàn nhân loại bị đưa tới một thế giới hoang tàn và buộc phải dựng nơi trú ẩn để sống sót. Tô Ma thức tỉnh \"hệ thống nơi trú ẩn nâng cấp vô hạn\": từ cánh cửa gỗ lên cửa hợp kim, từ máy phát diesel lên nhiệt điện, anh chuẩn bị đầy đủ hơn mọi người, từng bước lập nên lãnh địa Thiên Nguyên, đối đầu các thế lực dị tộc, thú hoang, bộ lạc và cả những bí ẩn của vùng đất hoang. Chương dài, nhịp đều, nhiều chi tiết sinh tồn và chế tạo; trọn bộ một nghìn sáu trăm hai mươi mốt chương, kết thúc ở chương \"Khởi đầu mới, truyền thuyết nhân gian\".",
+  "coverColor": "#6b4f2a"
+}
