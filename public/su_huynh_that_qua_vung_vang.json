@@ -1,0 +1,3070 @@
+{
+  "totalChapters": 765,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Tiểu Linh Nga"
+    },
+    {
+      "num": 2,
+      "title": "Bài kiểm tra nhập môn của sư huynh"
+    },
+    {
+      "num": 3,
+      "title": "Bài học đầu tiên khi nhập môn"
+    },
+    {
+      "num": 4,
+      "title": "Thế gian hiểm ác"
+    },
+    {
+      "num": 5,
+      "title": "Buổi học thêm ban đêm của sư muội"
+    },
+    {
+      "num": 6,
+      "title": "Sư muội mới lớn"
+    },
+    {
+      "num": 7,
+      "title": "Đại hội rèn luyện"
+    },
+    {
+      "num": 8,
+      "title": "Tửu Tiên Nhân lên sàn"
+    },
+    {
+      "num": 9,
+      "title": "Xin hãy giữ lấy vẻ kiêu kỳ vốn có của một tảng băng!"
+    },
+    {
+      "num": 10,
+      "title": "Món quà tạ lỗi của Hữu Cầm Huyền Nhã"
+    },
+    {
+      "num": 11,
+      "title": "Rời đội, người nhẹ nhõm"
+    },
+    {
+      "num": 12,
+      "title": "Đuôi hồ ly"
+    },
+    {
+      "num": 13,
+      "title": "Phản Sát"
+    },
+    {
+      "num": 14,
+      "title": "Chuyện này còn có thể từ trên trời rơi xuống sao?"
+    },
+    {
+      "num": 15,
+      "title": "Một anh chàng đẹp trai không muốn tiết lộ tên tuổi"
+    },
+    {
+      "num": 16,
+      "title": "Có độc, chắc chắn là có độc"
+    },
+    {
+      "num": 17,
+      "title": "Chỉ sống đến cuối cùng mới là chim sẻ đứng sau rình mồi"
+    },
+    {
+      "num": 18,
+      "title": "Ra đi thanh thản"
+    },
+    {
+      "num": 19,
+      "title": "Sư phụ các bên đến cứu viện"
+    },
+    {
+      "num": 20,
+      "title": "Có những cái hố không thể không nhảy xuống"
+    },
+    {
+      "num": 21,
+      "title": "Sư huynh đáng ghét"
+    },
+    {
+      "num": 22,
+      "title": "Phương án thứ nhất trong kế hoạch “Giúp sư phụ vượt thiên kiếp”"
+    },
+    {
+      "num": 23,
+      "title": "Bị sư huynh sắp đặt mất rồi"
+    },
+    {
+      "num": 24,
+      "title": "Chân Tiên không đời nào đi làm thuê"
+    },
+    {
+      "num": 25,
+      "title": "Sư thúc chăn nuôi viên"
+    },
+    {
+      "num": 26,
+      "title": "Vẻ bề ngoài"
+    },
+    {
+      "num": 27,
+      "title": "Hừ, chỉ là một trận pháp nhỏ nhoi này thôi!"
+    },
+    {
+      "num": 28,
+      "title": "Đêm gặp “người cha già”"
+    },
+    {
+      "num": 29,
+      "title": "Phương án thứ hai trong kế hoạch “Giúp sư phụ vượt qua thiên kiếp”"
+    },
+    {
+      "num": 30,
+      "title": "Sư Đồ"
+    },
+    {
+      "num": 31,
+      "title": "Lời mời từ Long Cung"
+    },
+    {
+      "num": 32,
+      "title": "Ta, Tề Nguyên, hôm nay dù có bị thiên kiếp đánh chết cũng phải...!"
+    },
+    {
+      "num": 33,
+      "title": "Suy cho cùng, vị sư bá này cũng chẳng phải người xấu gì"
+    },
+    {
+      "num": 34,
+      "title": "Mô Phỏng Cuộc Đời Tiên Nhân"
+    },
+    {
+      "num": 35,
+      "title": "Mưu kế, phá mưu kế, rồi lại phá mưu kế"
+    },
+    {
+      "num": 36,
+      "title": "Kế này không xong thì ta trèo tường"
+    },
+    {
+      "num": 37,
+      "title": "Đại cảnh tượng, tiểu mánh khóe"
+    },
+    {
+      "num": 38,
+      "title": "Chỉ cần đủ bình tĩnh, coi như chẳng có chuyện gì xảy ra"
+    },
+    {
+      "num": 39,
+      "title": "Tam Giáo, Luyện Khí Sĩ, Thiên Kiếp"
+    },
+    {
+      "num": 40,
+      "title": "Ta, Nhị Thái Tử Long Cung"
+    },
+    {
+      "num": 41,
+      "title": "Đỉnh Cao Đối Đầu Giữa Người Và Rồng!"
+    },
+    {
+      "num": 42,
+      "title": "Tính kế sư huynh ta…"
+    },
+    {
+      "num": 43,
+      "title": "Chỉ cần mặt đủ dày là được"
+    },
+    {
+      "num": 44,
+      "title": "Sư phụ, thật ra sư huynh của con..."
+    },
+    {
+      "num": 45,
+      "title": "Từng chút một, tính đường Phong Thần"
+    },
+    {
+      "num": 46,
+      "title": "Sư điệt, ta đâu phải kẻ xấu xa"
+    },
+    {
+      "num": 47,
+      "title": "Nghịch tử của Long tộc, đang trực tuyến…"
+    },
+    {
+      "num": 48,
+      "title": "Ực ực ực ực ực"
+    },
+    {
+      "num": 49,
+      "title": "Tính cách phiền phức của vị sư huynh này"
+    },
+    {
+      "num": 50,
+      "title": "Chọn nơi độ kiếp"
+    },
+    {
+      "num": 51,
+      "title": "Tẩy Long"
+    },
+    {
+      "num": 52,
+      "title": "Cảm tạ đại nhân Thiên Kiếp trăm công nghìn việc vẫn dành thời gian bổ xuống một nhát!"
+    },
+    {
+      "num": 53,
+      "title": "Thiên kiếp, xin hãy yêu ta thêm một lần nữa!"
+    },
+    {
+      "num": 54,
+      "title": "Đại Kiếp Cửu Tiêu Thần Ma!"
+    },
+    {
+      "num": 55,
+      "title": "Sư huynh phiêu dạt Nam Hải ký"
+    },
+    {
+      "num": 56,
+      "title": "Hùng Thị, Hùng Trại"
+    },
+    {
+      "num": 57,
+      "title": "Công Đức"
+    },
+    {
+      "num": 58,
+      "title": "Khắp chốn nhân gian đều có... chiêu trò!"
+    },
+    {
+      "num": 59,
+      "title": "Bí mật về sức khỏe của trại Gấu · Hàng giả"
+    },
+    {
+      "num": 60,
+      "title": "Kinh Vững Vàng"
+    },
+    {
+      "num": 61,
+      "title": "Tiểu Cùng Phong"
+    },
+    {
+      "num": 62,
+      "title": "Làm đại sư huynh Nhân Giáo thật chẳng dễ dàng gì"
+    },
+    {
+      "num": 63,
+      "title": "Bớt một chút mưu mẹo, thêm một chút chân thành"
+    },
+    {
+      "num": 64,
+      "title": "Tha hồ tung hoành trên con đường luyện độc"
+    },
+    {
+      "num": 65,
+      "title": "Ta, sư muội, lượt thử này ít nhất cũng phải được đánh giá xuất sắc!"
+    },
+    {
+      "num": 66,
+      "title": "Hóa ra là ngươi giở trò"
+    },
+    {
+      "num": 67,
+      "title": "Người hiểu ta, Trường Thọ vậy!"
+    },
+    {
+      "num": 68,
+      "title": "Trải nghiệm đầu tiên với thần thông được cải tiến theo cách dị thường"
+    },
+    {
+      "num": 69,
+      "title": "Đừng ép ta rút kiếm!"
+    },
+    {
+      "num": 70,
+      "title": "Đây là kiểu gì vậy?"
+    },
+    {
+      "num": 71,
+      "title": "Ta, Ngao Ất… Không Lớn Nữa"
+    },
+    {
+      "num": 72,
+      "title": "Yên tâm, lần này chắc chắn không đánh nhau nổi đâu"
+    },
+    {
+      "num": 73,
+      "title": "Tiên thức vừa quét, nửa tiếng ngáy…"
+    },
+    {
+      "num": 74,
+      "title": "Ta ngửa bài đây!"
+    },
+    {
+      "num": 75,
+      "title": "Vững vàng cầu thắng · Thức thứ nhất"
+    },
+    {
+      "num": 76,
+      "title": "Bí ẩn khiến sư muội kinh hãi!"
+    },
+    {
+      "num": 77,
+      "title": "Lão thân xin chào!"
+    },
+    {
+      "num": 78,
+      "title": "Lệnh cho phép vào nội điện Đạo Tàng!"
+    },
+    {
+      "num": 79,
+      "title": "Được như ý nguyện, Tửu Nương xuất quan"
+    },
+    {
+      "num": 80,
+      "title": "Nguyên Trạch: Việc này nhất định sẽ thành công!"
+    },
+    {
+      "num": 81,
+      "title": "Một chiếc bình sứ gây ra..."
+    },
+    {
+      "num": 82,
+      "title": "《Chuẩn Bị Chiến Đấu》"
+    },
+    {
+      "num": 83,
+      "title": "Độc độc bắt tay"
+    },
+    {
+      "num": 84,
+      "title": "Trường Thọ, ngươi nói xem phải làm sao?"
+    },
+    {
+      "num": 85,
+      "title": "Kế diệt muỗi nằm ở……"
+    },
+    {
+      "num": 86,
+      "title": "Giả sử ta là kẻ đánh lén...?"
+    },
+    {
+      "num": 87,
+      "title": "Độc trận chiến, hê, độc trận chiến!"
+    },
+    {
+      "num": 88,
+      "title": "Tặng Kèm Dịch Vụ Tang Lễ"
+    },
+    {
+      "num": 89,
+      "title": "Mau đi mời…"
+    },
+    {
+      "num": 90,
+      "title": "Khóc cũng là cả một nghệ thuật"
+    },
+    {
+      "num": 91,
+      "title": "Quân Giấy Tấn Công Bất Ngờ!"
+    },
+    {
+      "num": 92,
+      "title": "“Có giỏi thì tới đây!”"
+    },
+    {
+      "num": 93,
+      "title": "Lò Hỏa Táng Tiểu Quỳ Khai Trương, Đại Hạ Giá Ưu Đãi"
+    },
+    {
+      "num": 94,
+      "title": "Cầu Ổn"
+    },
+    {
+      "num": 95,
+      "title": "Một chút át chủ bài"
+    },
+    {
+      "num": 96,
+      "title": "《Dọa Muỗi》"
+    },
+    {
+      "num": 97,
+      "title": "Đùi to đúng nghĩa"
+    },
+    {
+      "num": 98,
+      "title": "Đệ tử của ngươi, ta sẽ chăm sóc chu đáo"
+    },
+    {
+      "num": 99,
+      "title": "Nỗi lo của vị thần ‘hoang dã’"
+    },
+    {
+      "num": 100,
+      "title": "Đàn ông thì phải biết tàn nhẫn với chính mình…"
+    },
+    {
+      "num": 101,
+      "title": "Sự ra đời của kẻ nghèo"
+    },
+    {
+      "num": 102,
+      "title": "Ngươi căn bản không hiểu Hải Thần!"
+    },
+    {
+      "num": 103,
+      "title": "Trận đầu tiên tự tay phá hủy Thần Giáo"
+    },
+    {
+      "num": 104,
+      "title": "Kịch bản này có gì đó không ổn"
+    },
+    {
+      "num": 105,
+      "title": "Bí mật về sức mạnh của người trại Gấu – Sự thật"
+    },
+    {
+      "num": 106,
+      "title": "Lý Trường Thọ không nắm chắc phần thắng"
+    },
+    {
+      "num": 107,
+      "title": "Con Rồng Cứ Thế Mà Thành Rồng Què"
+    },
+    {
+      "num": 108,
+      "title": "Công đức ta lấy, cái nồi các ngươi gánh"
+    },
+    {
+      "num": 109,
+      "title": "Sư huynh cười một tiếng"
+    },
+    {
+      "num": 110,
+      "title": "Đạo hữu, ngài đã từng nghe nói…"
+    },
+    {
+      "num": 111,
+      "title": "Luyện Khí Sĩ Không Thể Nào Đi Dạo Thanh Lâu"
+    },
+    {
+      "num": 112,
+      "title": "Bàn về ảnh hưởng của địa hình đến cảm giác khi rải tro"
+    },
+    {
+      "num": 113,
+      "title": "Khắc tinh của mọi phép mê hoặc!"
+    },
+    {
+      "num": 114,
+      "title": "Kẻ đầu sỏ khiến sư phụ bị lừa"
+    },
+    {
+      "num": 115,
+      "title": "Đạo hữu, đường này ngươi đi hẹp rồi"
+    },
+    {
+      "num": 116,
+      "title": "Lấy đạo của người, trả lại gấp bội cho người"
+    },
+    {
+      "num": 117,
+      "title": "Ôi, tình cảm tan vỡ rồi!"
+    },
+    {
+      "num": 118,
+      "title": "Đặc sản Tiểu Quỳnh Phong – Đan Hùng Tâm"
+    },
+    {
+      "num": 119,
+      "title": "Đại hội khai mạc, hai vị giáo chủ đến cổ vũ"
+    },
+    {
+      "num": 120,
+      "title": "Đúng là một trận đấu ngang tài ngang sức"
+    },
+    {
+      "num": 121,
+      "title": "Cách duy nhất để chiến thắng nỗi sợ hãi"
+    },
+    {
+      "num": 122,
+      "title": "Người đàn ông áo trắng trong Hải Thần Miếu"
+    },
+    {
+      "num": 123,
+      "title": "Kẻ hiểu lòng ta, chính là Hải Thần Nam Hải!"
+    },
+    {
+      "num": 124,
+      "title": "Lam Linh Nga – “Thiên tài” tu đạo"
+    },
+    {
+      "num": 125,
+      "title": "Những địa điểm nhất định phải ghé thăm ở Độ Tiên Môn"
+    },
+    {
+      "num": 126,
+      "title": "Học được rồi, học được rồi"
+    },
+    {
+      "num": 127,
+      "title": "Món quà chia tay của Trường Thọ"
+    },
+    {
+      "num": 128,
+      "title": "Sư huynh 1 ‘giận’"
+    },
+    {
+      "num": 129,
+      "title": "Đan độc nhằm vào tiên thức: Lửa lòng thiêu đốt"
+    },
+    {
+      "num": 130,
+      "title": "Sư phụ, đệ tử đã cố hết sức rồi"
+    },
+    {
+      "num": 131,
+      "title": "Ngươi vốn đã rất tuấn tú"
+    },
+    {
+      "num": 132,
+      "title": "Viên thuốc nhỏ thật giả"
+    },
+    {
+      "num": 133,
+      "title": "Kế hoạch đưa Tiểu Quỳnh Phong đi lang thang"
+    },
+    {
+      "num": 134,
+      "title": "Ta… có một đạo hữu"
+    },
+    {
+      "num": 135,
+      "title": "Ếch mù gặp muỗi chết"
+    },
+    {
+      "num": 136,
+      "title": "Leng keng"
+    },
+    {
+      "num": 137,
+      "title": "Nam Châu nổi chiến, Trường Thọ bái tượng Thánh"
+    },
+    {
+      "num": 138,
+      "title": "Cái đùi thứ hai của Nhân Giáo!"
+    },
+    {
+      "num": 139,
+      "title": "Lời răn dạy của Đại Pháp Sư"
+    },
+    {
+      "num": 140,
+      "title": "Một hòn đá làm kinh động cả đàn chim"
+    },
+    {
+      "num": 141,
+      "title": "Đạo nhân Trường Canh"
+    },
+    {
+      "num": 142,
+      "title": "Trên trời rơi xuống một..."
+    },
+    {
+      "num": 143,
+      "title": "Tiểu Quỳnh, ta là Lâm ‘ca’"
+    },
+    {
+      "num": 144,
+      "title": "Chỉ có tiểu sư thúc mới đánh bại được tiểu sư thúc!"
+    },
+    {
+      "num": 145,
+      "title": "Bản lông thú của 《Sổ Binh Pháp Hải Thần》 – Quyển thứ tư của môn phái vững vàng"
+    },
+    {
+      "num": 146,
+      "title": "Đồ đệ đời cháu này…"
+    },
+    {
+      "num": 147,
+      "title": "Ta Có Hẹn Với Thần Tài"
+    },
+    {
+      "num": 148,
+      "title": "Triệu Đại Gia Nghĩa Khí Ngút Trời"
+    },
+    {
+      "num": 149,
+      "title": "Vụ ăn vạ bài bản đầu tiên của Hồng Hoang"
+    },
+    {
+      "num": 150,
+      "title": "Sư huynh giảng bài lần nữa, truyền dạy phép vững vàng"
+    },
+    {
+      "num": 151,
+      "title": "Lớp học nhỏ trên Tiểu Quỳnh Phong"
+    },
+    {
+      "num": 152,
+      "title": "《Giả Bị Thương》 — Từ nhập môn đến bỏ cuộc"
+    },
+    {
+      "num": 153,
+      "title": "Sự ra đời của Giấy Phân Thân cấp Thiên Tiên"
+    },
+    {
+      "num": 154,
+      "title": "Người biết dùng pháp bảo thì..."
+    },
+    {
+      "num": 155,
+      "title": "Sắp lên đường, Linh Nga gửi gắm sư huynh"
+    },
+    {
+      "num": 156,
+      "title": "Tấu chương thứ nhất của Trường Canh"
+    },
+    {
+      "num": 157,
+      "title": "Áo khoác công đức n"
+    },
+    {
+      "num": 158,
+      "title": "Hải Thần sao lại ở đây?"
+    },
+    {
+      "num": 159,
+      "title": "Chuyện gấu con bái sư"
+    },
+    {
+      "num": 160,
+      "title": "Ba Giáo Tề Tụ, Lắc Ngọc Phù Gọi Người"
+    },
+    {
+      "num": 161,
+      "title": "Bức Tranh Non Nước Tiểu Xã Tắc"
+    },
+    {
+      "num": 162,
+      "title": "Gấu ở ngoài sáng, người ở trong tối"
+    },
+    {
+      "num": 163,
+      "title": "Bài kiểm tra cấp cao nhất của Nhân Giáo"
+    },
+    {
+      "num": 164,
+      "title": "Phản đòn dạy dỗ của Trường Thọ"
+    },
+    {
+      "num": 165,
+      "title": "Con Đường Đưa Lồng Chim Pháp Gia Danh Chấn Hồng Hoang"
+    },
+    {
+      "num": 166,
+      "title": "Nhìn sắc mặt ta mà hành sự"
+    },
+    {
+      "num": 167,
+      "title": "Ngươi tưởng ta có thể chịu thiệt, nhưng…"
+    },
+    {
+      "num": 168,
+      "title": "《Ăn Vạ》・Bản Nâng Cấp Của Quỳnh Tiêu"
+    },
+    {
+      "num": 169,
+      "title": "Hồng Hoang quá phức tạp, đường xa lại trơn trượt"
+    },
+    {
+      "num": 170,
+      "title": "Hay là, Đại Pháp Sư lập lời thề đi…"
+    },
+    {
+      "num": 171,
+      "title": "Chế độ đấu pháp thông thường"
+    },
+    {
+      "num": 172,
+      "title": "Haiz, Kim Tiên quả nhiên khó giết"
+    },
+    {
+      "num": 173,
+      "title": "Tiểu pháp sư có giấy chứng nhận hành nghề"
+    },
+    {
+      "num": 174,
+      "title": "Gây chuyện trong biển sâu~"
+    },
+    {
+      "num": 175,
+      "title": "Thần thông: Rải đậu thành binh!"
+    },
+    {
+      "num": 176,
+      "title": "Âm sai dương cũng sai"
+    },
+    {
+      "num": 177,
+      "title": "Kẻ tàn nhẫn, kẻ tàn nhẫn và người vững vàng"
+    },
+    {
+      "num": 178,
+      "title": "Những tầng tính toán chồng chất của Trường Thọ"
+    },
+    {
+      "num": 179,
+      "title": "Điều đáng sợ nhất là người xa lạ đột nhiên quan tâm"
+    },
+    {
+      "num": 180,
+      "title": "Đại vận Đạo Môn, nối dài thêm ức giây!"
+    },
+    {
+      "num": 181,
+      "title": "Hồng Hoang chỉnh đốn phong khí, bước nhỏ thứ nhất"
+    },
+    {
+      "num": 182,
+      "title": "Diễn trò trước cửa trường sinh"
+    },
+    {
+      "num": 183,
+      "title": "Đối phó ăn vạ, dũng cảm nói không!"
+    },
+    {
+      "num": 184,
+      "title": "Chuyện của bậc đại năng, có thể nói là sợ sao?"
+    },
+    {
+      "num": 185,
+      "title": "Sư muội không làm nổi đâu!"
+    },
+    {
+      "num": 186,
+      "title": "Đáp án không thể đơn giản như vậy được!"
+    },
+    {
+      "num": 187,
+      "title": "Món quà hậu hĩnh hại người"
+    },
+    {
+      "num": 188,
+      "title": "Hiểu rồi, hiểu hết rồi!"
+    },
+    {
+      "num": 189,
+      "title": "Bối Ảnh"
+    },
+    {
+      "num": 190,
+      "title": "Người được chọn làm pháp bảo"
+    },
+    {
+      "num": 191,
+      "title": "Không sửa đổi thì chẳng còn gì thú vị"
+    },
+    {
+      "num": 192,
+      "title": "Không thể trông mặt mà bắt… đậu"
+    },
+    {
+      "num": 193,
+      "title": "Đến rồi"
+    },
+    {
+      "num": 194,
+      "title": "Nguyệt Lão trọng tình, trực tuyến bảo vệ Trường Thọ"
+    },
+    {
+      "num": 195,
+      "title": "Biển sứ vô biên"
+    },
+    {
+      "num": 196,
+      "title": "Đừng nói, hôn ngỗng!"
+    },
+    {
+      "num": 197,
+      "title": "Lương tâm của kẻ cùng hung cực ác"
+    },
+    {
+      "num": 198,
+      "title": "Ta, Ngao Ất, tuyệt đối không thể là nữ…"
+    },
+    {
+      "num": 199,
+      "title": "Xin hỏi tiên tử tên gì!"
+    },
+    {
+      "num": 200,
+      "title": "Nỗi buồn lớn đến nhường nào"
+    },
+    {
+      "num": 201,
+      "title": "Từ xưa kẻ đa tình thường chỉ ôm hận, mối hận này…"
+    },
+    {
+      "num": 202,
+      "title": "Trong vẻ kín đáo lại ẩn chứa chút xa hoa"
+    },
+    {
+      "num": 203,
+      "title": "Sơn Thọ tự có diệu kế"
+    },
+    {
+      "num": 204,
+      "title": "Sư tổ, đệ tử chỉ có thể giúp người đến đây thôi"
+    },
+    {
+      "num": 205,
+      "title": "Không ai có thể đánh bại bần đạo trong lĩnh vực này!"
+    },
+    {
+      "num": 206,
+      "title": "Lời thề Đại Đạo, một phím năm lần liên tiếp"
+    },
+    {
+      "num": 207,
+      "title": "Chuyện này, Công Minh giúp chắc rồi!"
+    },
+    {
+      "num": 208,
+      "title": "Binh Đậu Tiên · Tiến Hóa Siêu Cấp"
+    },
+    {
+      "num": 209,
+      "title": "Người giỏi sắp đặt, cuối cùng lại bị…"
+    },
+    {
+      "num": 210,
+      "title": "Từ đạo diễn đến khán giả"
+    },
+    {
+      "num": 211,
+      "title": "Đúng là ngươi tên Biện Trang đấy à!"
+    },
+    {
+      "num": 212,
+      "title": "‘Cười mà không nói’"
+    },
+    {
+      "num": 213,
+      "title": "Kiếp nạn nổi lên ở Nam Hải, chim sẻ vẫn chưa rõ là ai!"
+    },
+    {
+      "num": 214,
+      "title": "Mưu thứ mười hai của chữ Vững: Đánh tráo trời đất"
+    },
+    {
+      "num": 215,
+      "title": "Đại pháp sư, ngài nhìn xem đó là ai kìa~"
+    },
+    {
+      "num": 216,
+      "title": "Thậm chí, chúng ta còn chuẩn bị cả nhạc ra sân nữa"
+    },
+    {
+      "num": 217,
+      "title": "Bề ngoài 40.000, thực tế…"
+    },
+    {
+      "num": 218,
+      "title": "Cất Kim Đan Cửu Chuyển Vào Kho Bài Tẩy!"
+    },
+    {
+      "num": 219,
+      "title": "Ai mà chưa từng mắng Ngọc Đế chứ?"
+    },
+    {
+      "num": 220,
+      "title": "Một liều thuốc mạnh"
+    },
+    {
+      "num": 221,
+      "title": "Trò thưởng nhỏ cho hành vi khó hiểu của Thiên Đạo"
+    },
+    {
+      "num": 222,
+      "title": "Hề Hề"
+    },
+    {
+      "num": 223,
+      "title": "Các ngươi muốn tìm Hải Thần, liên quan gì đến ta…"
+    },
+    {
+      "num": 224,
+      "title": "Lần đầu trải nghiệm tài ăn nói độc miệng của Trường Thọ"
+    },
+    {
+      "num": 225,
+      "title": "Ta, Vương Phú Quý, không xứng có đạo lữ!"
+    },
+    {
+      "num": 226,
+      "title": "Tiếng xấu từ trên trời rơi xuống"
+    },
+    {
+      "num": 227,
+      "title": "Triệu đại gia có... fan nữ mê mẩn?"
+    },
+    {
+      "num": 228,
+      "title": "Kẻ Bị Nhắm Đến, Thọ"
+    },
+    {
+      "num": 229,
+      "title": "Thỏ khôn ba hang"
+    },
+    {
+      "num": 230,
+      "title": "Phải trở thành một nữ vương thật xuất sắc nhé"
+    },
+    {
+      "num": 231,
+      "title": "Thiên Kiếp Nóng Bỏng"
+    },
+    {
+      "num": 232,
+      "title": "Đạo hữu, ngươi đã từng nghe nói đến Nam Hải Hải Thần chưa (@)"
+    },
+    {
+      "num": 233,
+      "title": "Độ (Nhân) Tiên (Giáo) Tiểu Nguyệt Lão"
+    },
+    {
+      "num": 234,
+      "title": "Khiến Thọ Rụng Tóc"
+    },
+    {
+      "num": 235,
+      "title": "Trách hắn... quá chủ động"
+    },
+    {
+      "num": 236,
+      "title": "Phía trước đến trạm, U Minh Đông"
+    },
+    {
+      "num": 237,
+      "title": "Tiểu Quỷ Khó Chơi"
+    },
+    {
+      "num": 238,
+      "title": "Mấy mánh nhỏ quen thuộc của Thọ"
+    },
+    {
+      "num": 239,
+      "title": "Cứu cây của sư bá!"
+    },
+    {
+      "num": 240,
+      "title": "Nghề truyền thống của Long tộc"
+    },
+    {
+      "num": 241,
+      "title": "Tiểu Quỳ Phong đón thêm người mới"
+    },
+    {
+      "num": 242,
+      "title": "Thiên Đình, Ngọc Đế, tình hình hiện tại"
+    },
+    {
+      "num": 243,
+      "title": "Một người bạn Ngọc Đế của ta"
+    },
+    {
+      "num": 244,
+      "title": "Sắp lên trời!"
+    },
+    {
+      "num": 245,
+      "title": "Đúng là ngươi!"
+    },
+    {
+      "num": 246,
+      "title": "Con bò từng khoác lác năm xưa, hôm nay…"
+    },
+    {
+      "num": 247,
+      "title": "Hình thức giải trí mới của Hồng Hoang"
+    },
+    {
+      "num": 248,
+      "title": "Phong thần! Ban thưởng! Ngôi chính thần!"
+    },
+    {
+      "num": 249,
+      "title": "Có thể đổi thành tiền được không?"
+    },
+    {
+      "num": 250,
+      "title": "Tuyệt Kỹ Truyền Thống Của Nhân Giáo"
+    },
+    {
+      "num": 251,
+      "title": "Là người tốt"
+    },
+    {
+      "num": 252,
+      "title": "Cũng chỉ là đãi ngộ của một vị quyền thần bình thường"
+    },
+    {
+      "num": 253,
+      "title": "Cách duy nhất để chữa chứng hôn mê"
+    },
+    {
+      "num": 254,
+      "title": "Nhân Giáo 6 – Tiểu Kiệt"
+    },
+    {
+      "num": 255,
+      "title": "Vẫn là công thức cũ, vẫn là hương vị quen thuộc"
+    },
+    {
+      "num": 256,
+      "title": "Dạy cách giăng bẫy ngay tại chỗ"
+    },
+    {
+      "num": 257,
+      "title": "Tiễn sư bá… lên đường"
+    },
+    {
+      "num": 258,
+      "title": "Lối đi ưu tiên cho khách đầu thai"
+    },
+    {
+      "num": 259,
+      "title": "Đếm ngược đến Kim Tiên kiếp!"
+    },
+    {
+      "num": 260,
+      "title": "Chọn nơi độ kiếp (2)"
+    },
+    {
+      "num": 261,
+      "title": "Lần này chắc chắn độ kiếp?"
+    },
+    {
+      "num": 262,
+      "title": "Chữ ít, chuyện lớn, vạn linh kiếp!"
+    },
+    {
+      "num": 263,
+      "title": "Thần thông mạnh nhất của Trường Thọ!"
+    },
+    {
+      "num": 264,
+      "title": "Thật đấy, cản cũng không nổi"
+    },
+    {
+      "num": 265,
+      "title": "Có những chuyện quả thật khó hiểu"
+    },
+    {
+      "num": 266,
+      "title": "Nhìn cái hố này xem, vừa to vừa sâu"
+    },
+    {
+      "num": 267,
+      "title": "Bảo trọng nhé, những người bạn cũ!"
+    },
+    {
+      "num": 268,
+      "title": "Cuộc tuyển chọn đầu tiên của Hồng Hoang…"
+    },
+    {
+      "num": 269,
+      "title": "Không thể cứ thế đối đầu trực diện"
+    },
+    {
+      "num": 270,
+      "title": "Trận ‘Chiến’ Đầu Tiên Với Nhiên Đăng"
+    },
+    {
+      "num": 271,
+      "title": "Ta cần bồi đắp bản thân!"
+    },
+    {
+      "num": 272,
+      "title": "Sư phụ, người nhìn bên này…"
+    },
+    {
+      "num": 273,
+      "title": "Sứ giả hộ thọ"
+    },
+    {
+      "num": 274,
+      "title": "Gia vị, mới là sự lãng mạn của đàn ông!"
+    },
+    {
+      "num": 275,
+      "title": "Dâng tấu lên điện Lăng Tiêu, Nhật Thiên đích thân xuất chinh!"
+    },
+    {
+      "num": 276,
+      "title": "Anh đẹp trai, ngươi là ai?"
+    },
+    {
+      "num": 277,
+      "title": "Con cá lớn bất ngờ bị lôi ra"
+    },
+    {
+      "num": 278,
+      "title": "Vua Đối Thơ"
+    },
+    {
+      "num": 279,
+      "title": "Bạch Y Thiên Đế nổi sát tâm"
+    },
+    {
+      "num": 280,
+      "title": "Mọi chuyện đều là… lựa chọn của Tạo Hóa Ngọc Điệp"
+    },
+    {
+      "num": 281,
+      "title": "Có lòng đi tìm bảo vật lại chẳng được gì, vô tình trồng liễu lại thành chuyện lớn"
+    },
+    {
+      "num": 282,
+      "title": "Thọ… Thọ Nhi"
+    },
+    {
+      "num": 283,
+      "title": "A, hóa ra là cô đơn…"
+    },
+    {
+      "num": 284,
+      "title": "Thăm dò Hỏa Vân Động, hồ ly tuyết hỏi lòng mình"
+    },
+    {
+      "num": 285,
+      "title": "Cuộc sống hài hòa, quan tâm đến vị Nhân Hoàng đã nghỉ hưu"
+    },
+    {
+      "num": 286,
+      "title": "Không nhận là không nể mặt ta đấy nhé"
+    },
+    {
+      "num": 287,
+      "title": "Đa tạ tiền bối!"
+    },
+    {
+      "num": 288,
+      "title": "Con đường nghiên cứu tiên pháp dài dằng dặc, từng bước đều nổ tung linh lực"
+    },
+    {
+      "num": 289,
+      "title": "Ngươi đã từng thấy… vào giờ Sửu ở Hồng Hoang, thiên phạt thần lôi biết quẹo cua chưa?"
+    },
+    {
+      "num": 290,
+      "title": "Bảo vật chưa ra đời, đại lão đã kéo đến"
+    },
+    {
+      "num": 291,
+      "title": "Ai mà chẳng có chút sở thích riêng chứ!"
+    },
+    {
+      "num": 292,
+      "title": "Đồng Tiền Lạc Bảo!"
+    },
+    {
+      "num": 293,
+      "title": "Lại có thêm Ngũ Hành Châu, Đa Bảo đối đầu Nhiên Đăng"
+    },
+    {
+      "num": 294,
+      "title": "Vân Tiêu Ba Câu Hỏi Đẩy Lui Nhiên Đăng"
+    },
+    {
+      "num": 295,
+      "title": "Đêm sao tiễn đi vạn dặm, Linh Nga sắp độ kiếp"
+    },
+    {
+      "num": 296,
+      "title": "Cửu Thiên Tố Linh Kiếp!"
+    },
+    {
+      "num": 297,
+      "title": "Sư huynh, muội nhất định…"
+    },
+    {
+      "num": 298,
+      "title": "Trường Canh phụng chỉ trêu Hắc Báo"
+    },
+    {
+      "num": 299,
+      "title": "Lá Bài Bí Mật"
+    },
+    {
+      "num": 300,
+      "title": "Dẫn Ngọc Đế đi câu ‘cá’"
+    },
+    {
+      "num": 301,
+      "title": "Sư huynh Ngự Đệ, huynh chắn đường rồi"
+    },
+    {
+      "num": 302,
+      "title": "Bạch Y Ngọc Đế, tỏ rõ đế tâm"
+    },
+    {
+      "num": 303,
+      "title": "Huyền Đô dạo chơi Tiểu Quỳnh, Trường Thọ muốn truyền kinh"
+    },
+    {
+      "num": 304,
+      "title": "Trước hết, phải có một kế hoạch nho nhỏ"
+    },
+    {
+      "num": 305,
+      "title": "Bàn về Thánh Nhân"
+    },
+    {
+      "num": 306,
+      "title": "Tháp Gia Nóng Tính, Trực Tuyến…"
+    },
+    {
+      "num": 307,
+      "title": "Lá Bài Tẩy Cuối Cùng... (1)"
+    },
+    {
+      "num": 308,
+      "title": "Lần đầu gặp Thánh Nhân, số kiếp Kim Thiền"
+    },
+    {
+      "num": 309,
+      "title": "Thu lưới Long tộc, tìm kiếm tâm ma nơi sơn môn"
+    },
+    {
+      "num": 310,
+      "title": "Chỉ có… mới thắng được tâm ma!"
+    },
+    {
+      "num": 311,
+      "title": "Thiên Đế Trảm Ma Kiếm, Phong Thần Sông Ngòi Hồ Biển!"
+    },
+    {
+      "num": 312,
+      "title": "Hải Thần, ngài có thiếu đồ đệ nữ không?"
+    },
+    {
+      "num": 313,
+      "title": "Đại Pháp Sư về núi, ba đảo tiên tặng đào"
+    },
+    {
+      "num": 314,
+      "title": "Chỉ có Hải Thần là ăn cả ba giáo!"
+    },
+    {
+      "num": 315,
+      "title": "Định lòng Rồng trong Thủy Tinh Cung!"
+    },
+    {
+      "num": 316,
+      "title": "Quả dưa này của ngươi có chắc là dưa chín không?"
+    },
+    {
+      "num": 317,
+      "title": "Cần linh thú gì? Ngươi cần linh thú gì!"
+    },
+    {
+      "num": 318,
+      "title": "Tiểu Quỳ Phong chia đào, ba vị tiên tử trên Tam Tiên Đảo sinh lòng nghi hoặc"
+    },
+    {
+      "num": 319,
+      "title": "Hành Động Khó Hiểu Của Giáo Chủ"
+    },
+    {
+      "num": 320,
+      "title": "Nay ta đến đây, trong lòng chàng nghĩ gì? Nay nàng đến đây, đã hiểu lòng ta nghĩ gì."
+    },
+    {
+      "num": 321,
+      "title": "Tiệt Giáo, bảo trọng nhé"
+    },
+    {
+      "num": 322,
+      "title": "Tiệc Bàn Đào sắp mở, Trường Thọ mưu tính Phong Thần!"
+    },
+    {
+      "num": 323,
+      "title": "Thiên Đình từ nay hưng thịnh!"
+    },
+    {
+      "num": 324,
+      "title": "Tiên sinh chẳng qua cũng chỉ là một vở kịch"
+    },
+    {
+      "num": 325,
+      "title": "Thể diện của hai vị Thánh Nhân phương Tây, hôm nay do Hải Thần ta bảo vệ!"
+    },
+    {
+      "num": 326,
+      "title": "Tiệc Bàn Đào, Trường Canh thăng ba bậc, thu phục Long tộc, bốn biển quy thuận Thiên Đình!"
+    },
+    {
+      "num": 327,
+      "title": "Mối nguy mà Trường Thọ cảm nhận được"
+    },
+    {
+      "num": 328,
+      "title": "Nuôi sư muội từ thuở lên ba, dùng..."
+    },
+    {
+      "num": 329,
+      "title": "Muốn kiếm một mảnh đất trên Thiên Đình, làm hàng xóm với Lão Quân"
+    },
+    {
+      "num": 330,
+      "title": "Thiên Đế ra tay nhanh như sấm chớp!"
+    },
+    {
+      "num": 331,
+      "title": "Là ngươi, Lý!"
+    },
+    {
+      "num": 332,
+      "title": "《Sắp xếp》: Từ tu hành đến lên trời"
+    },
+    {
+      "num": 333,
+      "title": "Yên tâm, ta sẽ giữ kín như bưng!"
+    },
+    {
+      "num": 334,
+      "title": "Giao lưu xuyên máy chủ"
+    },
+    {
+      "num": 335,
+      "title": "Thua người chứ không thua khí thế!"
+    },
+    {
+      "num": 336,
+      "title": "Tây Hải nổi sóng, tiên tử đồng hành"
+    },
+    {
+      "num": 337,
+      "title": "Không ai hiểu rõ chuyện [câu giờ] hơn ta"
+    },
+    {
+      "num": 338,
+      "title": "Văn quan Thiên Đình, không giỏi đấu pháp"
+    },
+    {
+      "num": 339,
+      "title": "Hồng Hoang, Vua Hỗ Trợ Mạnh Nhất!"
+    },
+    {
+      "num": 340,
+      "title": "Tình cờ đi ngang qua"
+    },
+    {
+      "num": 341,
+      "title": "Thọ số có lúc tận, kiếp nạn giáng xuống đầu Long tộc!"
+    },
+    {
+      "num": 342,
+      "title": "Nguyện, vì chúng sinh mà lo!"
+    },
+    {
+      "num": 343,
+      "title": "Niềm vui khi không làm người"
+    },
+    {
+      "num": 344,
+      "title": "Lần đầu nghe tên kẻ địch"
+    },
+    {
+      "num": 345,
+      "title": "Giữ kín như bưng (Chuyện này còn có phần tiếp theo)"
+    },
+    {
+      "num": 346,
+      "title": "Hồng Hoang trị… nhà nào mạnh nhất!"
+    },
+    {
+      "num": 347,
+      "title": "Quân tử báo thù, không cần chờ quá lâu"
+    },
+    {
+      "num": 348,
+      "title": "Hai giáo Xiển, Tiệt đối đầu giữa Trung Châu, một mình ngồi trên Linh Sơn âm thầm lo lắng"
+    },
+    {
+      "num": 349,
+      "title": "Tiên nhân ba giáo cùng lên Linh Sơn!"
+    },
+    {
+      "num": 350,
+      "title": "Thọ, đến mặt cũng chẳng buồn lộ diện"
+    },
+    {
+      "num": 351,
+      "title": "Thì ra ngươi tên là Cây Bảy Báu à!"
+    },
+    {
+      "num": 352,
+      "title": "Chuyện nhỏ bằng một điểm nhỏ"
+    },
+    {
+      "num": 353,
+      "title": "Âm Dương Chưa Định"
+    },
+    {
+      "num": 354,
+      "title": "Ba bước, một liệu trình"
+    },
+    {
+      "num": 355,
+      "title": "Hồn Ma Cô Gái Đẹp"
+    },
+    {
+      "num": 356,
+      "title": "Thật ra cũng có thể có"
+    },
+    {
+      "num": 357,
+      "title": "Cao thủ chữa bệnh phụ khoa chỉ có Thủy Thần"
+    },
+    {
+      "num": 358,
+      "title": "Hang yêu dưới lòng đất, kiếm hồn Vu tộc!"
+    },
+    {
+      "num": 359,
+      "title": "Trường Thọ tính kế yêu tộc, Nhạc Nhi trợ trận! [Chương dài 6000 chữ]"
+    },
+    {
+      "num": 360,
+      "title": "Trận chiến xoay chuyển vận mệnh yêu tộc! [Chương dài vạn chữ]"
+    },
+    {
+      "num": 361,
+      "title": "Thừa lúc người ta yếu thế"
+    },
+    {
+      "num": 362,
+      "title": "Vào cung Nữ Oa bái kiến Nữ Oa"
+    },
+    {
+      "num": 363,
+      "title": "Nữ Oa hỏi ba câu"
+    },
+    {
+      "num": 364,
+      "title": "Nữ Thần Bên Hồ Nước【Chương vừa 5.000 chữ】"
+    },
+    {
+      "num": 365,
+      "title": "Quyết tâm của Trường Thọ, đạo của Trường Thọ"
+    },
+    {
+      "num": 366,
+      "title": "Cuộc phiêu lưu kỳ diệu của Tề Nguyên"
+    },
+    {
+      "num": 367,
+      "title": "Bài học nhất định phải trải qua trong đời"
+    },
+    {
+      "num": 368,
+      "title": "Mưu tính nhỏ, trả đũa lớn"
+    },
+    {
+      "num": 369,
+      "title": "Thần Châu đấu Thần Quang, Công Minh gặp Khổng Tuyên"
+    },
+    {
+      "num": 370,
+      "title": "Sư đệ Nhân Giáo, trợ công trực tuyến"
+    },
+    {
+      "num": 371,
+      "title": "Tiên Tử Điểm Thọ"
+    },
+    {
+      "num": 372,
+      "title": "Có những người, đi mãi đi mãi… rồi đường càng lúc càng hẹp"
+    },
+    {
+      "num": 373,
+      "title": "Săn Thủy Thần"
+    },
+    {
+      "num": 374,
+      "title": "Địa Tạng đạo hữu quả nhiên không lừa ta"
+    },
+    {
+      "num": 375,
+      "title": "Tham khảo sức chiến đấu của quan văn Thiên Đình"
+    },
+    {
+      "num": 376,
+      "title": "Thủy Thần ta tuyệt đối không hề hợp tác với Địa Tạng"
+    },
+    {
+      "num": 377,
+      "title": "Nàng chỉ là em gái của ta…"
+    },
+    {
+      "num": 378,
+      "title": "Cây khô Thuần Dương gặp mùa xuân"
+    },
+    {
+      "num": 379,
+      "title": "Nỗi phiền lòng của Ngọc Đế"
+    },
+    {
+      "num": 380,
+      "title": "Phổ Thông"
+    },
+    {
+      "num": 381,
+      "title": "Bảo vệ! Vị tổ tiên ‘dịu dàng’ nhất của Vu tộc!"
+    },
+    {
+      "num": 382,
+      "title": "Hình phạt của Vương Mẫu, nỗi khổ của Ngọc Đế"
+    },
+    {
+      "num": 383,
+      "title": "Dù chỉ tu thành Trọc Tiên…"
+    },
+    {
+      "num": 384,
+      "title": "Phần thưởng tốt nhất dành cho những người lính, chính là…"
+    },
+    {
+      "num": 385,
+      "title": "Buôn bán [Thượng]"
+    },
+    {
+      "num": 386,
+      "title": "Sư huynh, bảo trọng"
+    },
+    {
+      "num": 387,
+      "title": "《Chi Viện》"
+    },
+    {
+      "num": 388,
+      "title": "Cho ta... chút thể diện! Chương giữa"
+    },
+    {
+      "num": 389,
+      "title": "Buôn bán (Hạ)"
+    },
+    {
+      "num": 390,
+      "title": "Một bữa rượu nhỏ"
+    },
+    {
+      "num": 391,
+      "title": "Đối thoại với Thái Thanh Thánh Nhân Chúc mừng Bạch Ngân Đại Minh Chủ ‘Phúc Bồn Tử Sữa Chua…’"
+    },
+    {
+      "num": 392,
+      "title": "Lời cầu cứu từ nơi sâu nhất của Địa Phủ"
+    },
+    {
+      "num": 393,
+      "title": "Bí mật nghe được trong cung Nữ Oa"
+    },
+    {
+      "num": 394,
+      "title": "Nỗi buồn lớn đến nhường nàoChúc mừng ‘Cz ·’ trở thành Bạch Ngân Đại Minh!"
+    },
+    {
+      "num": 395,
+      "title": "Mong muốn tháo bỏ xiềng xích"
+    },
+    {
+      "num": 396,
+      "title": "Khắc tinh"
+    },
+    {
+      "num": 397,
+      "title": "Cao thủ, chúng ta cần rất nhiều cao thủ"
+    },
+    {
+      "num": 398,
+      "title": "Đội hình xa hoa"
+    },
+    {
+      "num": 399,
+      "title": "Đội ngũ chuyên nghiệp"
+    },
+    {
+      "num": 400,
+      "title": "Hậu Thổ · Bảy Tình [Chương siêu dài]"
+    },
+    {
+      "num": 401,
+      "title": "Bát Cửu Huyền Công"
+    },
+    {
+      "num": 402,
+      "title": "Trường Thọ về núi, Hắc Báo thăm bạn"
+    },
+    {
+      "num": 403,
+      "title": "Ám Hoạt"
+    },
+    {
+      "num": 404,
+      "title": "Một vị thần thú nào đó: Ta và Thủy Thần đã thần giao cách cảm từ lâu (đơn phương)"
+    },
+    {
+      "num": 405,
+      "title": "Thật sự muốn đối đầu với Thiên Đình?"
+    },
+    {
+      "num": 406,
+      "title": "Món quà hậu hĩnh của Đại Pháp Sư"
+    },
+    {
+      "num": 407,
+      "title": "Từng có mười vạn ma binh, đạp trời phá tan Yêu Đình"
+    },
+    {
+      "num": 408,
+      "title": "Phải thừa nhận, trong chuyện này quả thực có phần đánh cược"
+    },
+    {
+      "num": 409,
+      "title": "Nhà nào giỏi bắt nạt Thụy Thú hơn?"
+    },
+    {
+      "num": 410,
+      "title": "Bàn về Hắc Trì"
+    },
+    {
+      "num": 411,
+      "title": "《Cho Không》"
+    },
+    {
+      "num": 412,
+      "title": "Linh Châu Tử như thế này"
+    },
+    {
+      "num": 413,
+      "title": "Đứa nhỏ này, đến gây họa cũng không biết!"
+    },
+    {
+      "num": 414,
+      "title": "Bạch Trạch lần đầu trổ uy, Tây Phương lại giở trò tính kế"
+    },
+    {
+      "num": 415,
+      "title": "Ánh Sáng Chính Đạo!"
+    },
+    {
+      "num": 416,
+      "title": "Giáng Lâm Chương siêu dài"
+    },
+    {
+      "num": 417,
+      "title": "Đại chiến Kim Ô! Phụng thiên thừa mệnh."
+    },
+    {
+      "num": 418,
+      "title": "Công tử họ Vân đến cửa"
+    },
+    {
+      "num": 419,
+      "title": "Trận này phải đánh thế nào đây!"
+    },
+    {
+      "num": 420,
+      "title": "Hội Linh Tiêu"
+    },
+    {
+      "num": 421,
+      "title": "Tru Tiên Tứ Kiếm Đồ"
+    },
+    {
+      "num": 422,
+      "title": "Quản Lý Thời Gian"
+    },
+    {
+      "num": 423,
+      "title": "Linh Nga xuống núi"
+    },
+    {
+      "num": 424,
+      "title": "Thưởng phạt phân minh"
+    },
+    {
+      "num": 425,
+      "title": "Tạm Rời Năm Bộ Châu"
+    },
+    {
+      "num": 426,
+      "title": "Trẻ người nhưng lắm mưu"
+    },
+    {
+      "num": 427,
+      "title": "Vương Mẫu và Ngọc Đế"
+    },
+    {
+      "num": 428,
+      "title": "Thiên Ngoại Chi Ma"
+    },
+    {
+      "num": 429,
+      "title": "Đế Thính mất mặt, trực tuyến cầu sinh"
+    },
+    {
+      "num": 430,
+      "title": "Tiếng lòng của Thiên Ma"
+    },
+    {
+      "num": 431,
+      "title": "Ngươi đuổi ta, ngươi đuổi được ta..."
+    },
+    {
+      "num": 432,
+      "title": "Nga trở về núi"
+    },
+    {
+      "num": 433,
+      "title": "Hữu Minh Và Ngưng Sương"
+    },
+    {
+      "num": 434,
+      "title": "Kiếp vận vừa khởi"
+    },
+    {
+      "num": 435,
+      "title": "Chiến Bắc Châu (Thượng)"
+    },
+    {
+      "num": 436,
+      "title": "Vạn Vật Cân Bằng! Chương siêu dài, cao trào cực độ"
+    },
+    {
+      "num": 437,
+      "title": "Ngọc Đế: Tâm trạng này đúng là sụp đổ mất thôi!"
+    },
+    {
+      "num": 438,
+      "title": "Trường Thọ định kế kéo Tây Phương vào cuộc, Ngọc Đế nổi giận khởi động Phong Thần!"
+    },
+    {
+      "num": 439,
+      "title": "Không, muội không vuiChúc mừng sinh nhật Linh Nga!"
+    },
+    {
+      "num": 440,
+      "title": "300 Tổng giáo tập Thường Nga"
+    },
+    {
+      "num": 441,
+      "title": "Bàn chuyện đại kiếp ở điện Lăng Tiêu, giảng đạo ở miếu Thủy Thần"
+    },
+    {
+      "num": 442,
+      "title": "Vân Tiêu Túy Tửu"
+    },
+    {
+      "num": 443,
+      "title": "Trảm Tiên Phi Đao · Hướng dẫn tháo rời"
+    },
+    {
+      "num": 444,
+      "title": "Thiên Đình lại xuất binh, Thủy Thần nắm quyền sinh sát!"
+    },
+    {
+      "num": 445,
+      "title": "Đánh trận ở Bắc Châu! Không ai ngờ vẫn còn phần tiếp theo nhỉ!"
+    },
+    {
+      "num": 446,
+      "title": "Chỉ là Nguyệt Cung"
+    },
+    {
+      "num": 447,
+      "title": "Thủy Thần xông vào Nguyệt Cung, Ngọc Thố suýt bị đem hầm"
+    },
+    {
+      "num": 448,
+      "title": "Trường Thọ âm thầm giương Đông kích Tây, Vân Hoa tiên tử động lòng phàm"
+    },
+    {
+      "num": 449,
+      "title": "Năm chữ giết Tiên Ông"
+    },
+    {
+      "num": 450,
+      "title": "Một chút, lá bài tẩy nhỏ"
+    },
+    {
+      "num": 451,
+      "title": "Từng chút một, phản đòn nho nhỏ"
+    },
+    {
+      "num": 452,
+      "title": "Lòng hiếu thắng của các nữ tiên"
+    },
+    {
+      "num": 453,
+      "title": "Rộng Lớn Đến Thế"
+    },
+    {
+      "num": 454,
+      "title": "Chương 455:"
+    },
+    {
+      "num": 455,
+      "title": "Tiếng gọi đến từ Thái Thanh！"
+    },
+    {
+      "num": 456,
+      "title": "Bái Thái Thanh trong Thái Thanh Quan"
+    },
+    {
+      "num": 457,
+      "title": "Huyền Nhã lên trời, Thọ thăm Ngọc Tuyền"
+    },
+    {
+      "num": 458,
+      "title": "Văn Tịnh báo tin, Biện Trang hoảng hốt"
+    },
+    {
+      "num": 459,
+      "title": "Định Điện Bí Mật Trong Phòng Cờ, Gặp Ôn Thần Ở Bí Cảnh Thiên Nhai"
+    },
+    {
+      "num": 460,
+      "title": "Lần đầu gặp Lữ Nhạc"
+    },
+    {
+      "num": 461,
+      "title": "Ôn Thần Say Rượu Khoe Anh Hùng"
+    },
+    {
+      "num": 462,
+      "title": "Thọ Hóa Cộng 1"
+    },
+    {
+      "num": 463,
+      "title": "Chuyện kinh dị nhỏ ở Hồng Hoang"
+    },
+    {
+      "num": 464,
+      "title": "Nga Đích Sứ Dụng Phương Pháp"
+    },
+    {
+      "num": 465,
+      "title": "Người nắm giữ trái phiếu Thiên Đạo"
+    },
+    {
+      "num": 466,
+      "title": "Lời của Diêm Quân, Thánh Nữ Lâm Thiên"
+    },
+    {
+      "num": 467,
+      "title": "Huyết Hải xảy ra biến cố"
+    },
+    {
+      "num": 468,
+      "title": "Triệu gọi cao thủ, vững vàng tập hợp! Đội hình cao thủ hàng đầu!"
+    },
+    {
+      "num": 469,
+      "title": "Vững vàng như gió, trường thọ thường bên thân"
+    },
+    {
+      "num": 470,
+      "title": "Trận đầu tiên của Thất Tình!"
+    },
+    {
+      "num": 471,
+      "title": "Chuyện nói phải trái, sao có thể tính là mạo phạm Thánh NhânChương siêu dài"
+    },
+    {
+      "num": 472,
+      "title": "Giáo chủ Thông Thiên, đang trực tuyến...Trung"
+    },
+    {
+      "num": 473,
+      "title": "Thọ Biện Quần Hùng"
+    },
+    {
+      "num": 474,
+      "title": "Khai màn!"
+    },
+    {
+      "num": 475,
+      "title": "Giết Thái Ất, chỉnh lại đạo tâm!"
+    },
+    {
+      "num": 476,
+      "title": "Nguyên Thủy mỉm cười tiếp đón Tiếp Dẫn, Trường Thọ tranh luận với Địa Tàng"
+    },
+    {
+      "num": 477,
+      "title": "Tam Đồ Hà xuất hiện・Luân hồi thứ haiChương siêu dài"
+    },
+    {
+      "num": 478,
+      "title": "Hy vọng người không sao"
+    },
+    {
+      "num": 479,
+      "title": "Thông Thiên ban bảo vật, Hậu Thổ nhờ cậy"
+    },
+    {
+      "num": 480,
+      "title": "Phong Thái Bạch, ép Địa Tạng vững vàng"
+    },
+    {
+      "num": 481,
+      "title": "Lúc này, chúng ta lại thêm một chút chi tiết…"
+    },
+    {
+      "num": 482,
+      "title": "Tu La Tràng chẳng mấy thảm khốc của sư huynh ta"
+    },
+    {
+      "num": 483,
+      "title": "Hết lòng rồi, đành chịu thôi"
+    },
+    {
+      "num": 484,
+      "title": "Linh Châu khác thường, lại đến Quảng Hàn"
+    },
+    {
+      "num": 485,
+      "title": "Đến núi Côn Luân, thăm Ngọc Hư"
+    },
+    {
+      "num": 486,
+      "title": "Minh Chủ Tiên Minh"
+    },
+    {
+      "num": 487,
+      "title": "Chim Điên Kim Sí Đại Bằng"
+    },
+    {
+      "num": 488,
+      "title": "Trận đòn đến từ tiên tử"
+    },
+    {
+      "num": 489,
+      "title": "Thủy Thần huấn luyện chim ưng"
+    },
+    {
+      "num": 490,
+      "title": "Ngươi, ngộ ra chưa?"
+    },
+    {
+      "num": 491,
+      "title": "Đêm trước Đại hội Tiên Minh"
+    },
+    {
+      "num": 492,
+      "title": "Trường Canh nắm chắc quyền hành!"
+    },
+    {
+      "num": 493,
+      "title": "Tranh luận giữa tiên và phàm (Thượng)"
+    },
+    {
+      "num": 494,
+      "title": "Tranh luận giữa tiên và phàm (Hạ)"
+    },
+    {
+      "num": 495,
+      "title": "Kiếp nạn trường sinh của Độc Tiên, vị tướng thứ sáu đến thăm Thiên Đình"
+    },
+    {
+      "num": 496,
+      "title": "Thiên Đạo đánh người rồi! Mau đến xem nào!"
+    },
+    {
+      "num": 497,
+      "title": "Bạch Y Ngọc Đế Đối Đầu Chuẩn Đề"
+    },
+    {
+      "num": 498,
+      "title": "Khứ"
+    },
+    {
+      "num": 499,
+      "title": "Trở về rồi, tất cả đều trở về rồi!"
+    },
+    {
+      "num": 500,
+      "title": "Gió nổi tụ về đài sen đỏ, Xiển Giáo và Triệt Giáo ngấm ngầm tranh đấu"
+    },
+    {
+      "num": 501,
+      "title": "Anh rể~"
+    },
+    {
+      "num": 502,
+      "title": "Linh hồn thú vị"
+    },
+    {
+      "num": 503,
+      "title": "Đạo Môn, lời hứa không giao chiến!"
+    },
+    {
+      "num": 504,
+      "title": "Sát Thần Thương bất ngờ xuất hiện！"
+    },
+    {
+      "num": 505,
+      "title": "Tiên đoàn mạnh nhất, trực tiếp tiến vào giấc mộng! Chương dài!"
+    },
+    {
+      "num": 506,
+      "title": "A, hơi thở mùa xuân này"
+    },
+    {
+      "num": 507,
+      "title": "Ngươi, vốn chẳng quan trọngBản siêu đại"
+    },
+    {
+      "num": 508,
+      "title": "Quạt Ba Tiêu！"
+    },
+    {
+      "num": 509,
+      "title": "Thăm tiểu viện Tam Thanh, ngắm dung nhan lúc ngủ của tiên tử"
+    },
+    {
+      "num": 510,
+      "title": "Kinh ngạc! Thánh Nhân Tiệt Giáo lại có quan hệ thân thiết với Thủy Thần Thiên Đình…"
+    },
+    {
+      "num": 511,
+      "title": "Tuổi thọ cũng có lúc cạn"
+    },
+    {
+      "num": 512,
+      "title": "Hồng Hoang tuyên truyền, nhà nào giỏi nhất!"
+    },
+    {
+      "num": 513,
+      "title": "Dù sao ta cũng chẳng phải ác thần gì"
+    },
+    {
+      "num": 514,
+      "title": "Chống lưng"
+    },
+    {
+      "num": 515,
+      "title": "Trải Nghiệm Hoàn Hảo Của Linh Nga"
+    },
+    {
+      "num": 516,
+      "title": "Thạch Cơ xui xẻo"
+    },
+    {
+      "num": 517,
+      "title": "Đa Bảo: Ta, Thủy Thần, đến đòi tiền đây!"
+    },
+    {
+      "num": 518,
+      "title": "Đa Bảo nổi giận mắng nhiếc các vị tiên Tiệt Giáo"
+    },
+    {
+      "num": 519,
+      "title": "Huynh đệ, ngươi có gì đó không ổn!"
+    },
+    {
+      "num": 520,
+      "title": "Ta vốn là người kín tiếng"
+    },
+    {
+      "num": 521,
+      "title": "Dịch nghĩa đi, thế nào mới gọi là bất ngờ"
+    },
+    {
+      "num": 522,
+      "title": "Thái Bạch Cung! Thái Bạch Điện!"
+    },
+    {
+      "num": 523,
+      "title": "Lăn đi, sóng ngầm!"
+    },
+    {
+      "num": 524,
+      "title": "Nhân Mạch"
+    },
+    {
+      "num": 525,
+      "title": "Thái Bạch kính rượu"
+    },
+    {
+      "num": 526,
+      "title": "Long Cát bái sư!"
+    },
+    {
+      "num": 527,
+      "title": "Thái Bạch đối đápCảm ơn đại minh chủ bạc ‘Diễn Viên E Thẹn’ đã ủng hộ gấp đôi…"
+    },
+    {
+      "num": 528,
+      "title": "Làm thần tiên ấy mà, vui vẻ mới là điều quan trọng nhất"
+    },
+    {
+      "num": 529,
+      "title": "Nước ngập miếu Hải Thần"
+    },
+    {
+      "num": 530,
+      "title": "Trường Canh tu luyện Huyền Công, sắp đến Tử Tiêu Cung!"
+    },
+    {
+      "num": 531,
+      "title": "Ê-kíp của Trường Canh, vào vị trí…"
+    },
+    {
+      "num": 532,
+      "title": "Là Ai Mang Đến, Tiếng Gọi Của Thái Thanh~"
+    },
+    {
+      "num": 533,
+      "title": "Khuy Thánh"
+    },
+    {
+      "num": 534,
+      "title": "Sáu vị Thánh cùng tụ hội tại Tử Tiêu Cung!"
+    },
+    {
+      "num": 535,
+      "title": "Vua tôi tung hứng đối đáp"
+    },
+    {
+      "num": 536,
+      "title": "Đạo Tổ mở bếp riêng"
+    },
+    {
+      "num": 537,
+      "title": "Hai Giáo Đang Hành Động"
+    },
+    {
+      "num": 538,
+      "title": "Chân tướng, chỉ có một!"
+    },
+    {
+      "num": 539,
+      "title": "Quyết tâm của tiên tử [Ly lớn]"
+    },
+    {
+      "num": 540,
+      "title": "Thảm! Côn Bằng! Thảm rồi! Cỡ vừa"
+    },
+    {
+      "num": 541,
+      "title": "Yêu Sư Quỷ Kế!"
+    },
+    {
+      "num": 542,
+      "title": "Nhật ký của kẻ phiêu bạt ‘Năm’"
+    },
+    {
+      "num": 543,
+      "title": "Ngao Ất độ kiếp bước vào Kim Tiên, sóng gió nổi lên ngoài Tiểu Quỳnh Phong"
+    },
+    {
+      "num": 544,
+      "title": "Linh Sơn vừa động, tin tức tám phương kéo đến！"
+    },
+    {
+      "num": 545,
+      "title": "Di Lặc!"
+    },
+    {
+      "num": 546,
+      "title": "Vượt thiên kiếp, Tiểu Quỳnh Phong! Ly lớn"
+    },
+    {
+      "num": 547,
+      "title": "Xã hội ta Thọ ca"
+    },
+    {
+      "num": 548,
+      "title": "Lý Trường Canh “rộng lượng”"
+    },
+    {
+      "num": 549,
+      "title": "Nga sống quá đỗi gian nan; Đại chiến thế giới ba nghìn!"
+    },
+    {
+      "num": 550,
+      "title": "Tiểu Thiên Đạo quanh co lòng vòng này"
+    },
+    {
+      "num": 551,
+      "title": "Thiên Ma vĩnh viễn không làm nô lệ!"
+    },
+    {
+      "num": 552,
+      "title": "Tiên phong thúc giục thiên đạo! Chúc các sĩ tử thi đỗ bảng vàng, bổ sung chương mới…"
+    },
+    {
+      "num": 553,
+      "title": "Di Lặc: Lời chửi thề của Tây Phương!"
+    },
+    {
+      "num": 554,
+      "title": "Gặp Vân Tiêu, cảnh cáo Long tộc, đối đầu hung thần phương Tây"
+    },
+    {
+      "num": 555,
+      "title": "Hồng Hoang Hộ Đoản Bảng Xếp Hạng Thứ Ba"
+    },
+    {
+      "num": 556,
+      "title": "Dương Tiễn rời Ngọc Tuyền Sơn, Thái Bạch tính kế Bồ Đề"
+    },
+    {
+      "num": 557,
+      "title": "Hái nho, bắt Bồ Đề!"
+    },
+    {
+      "num": 558,
+      "title": "Dùng ảo cảnh gieo tâm ma, Ngọc Đế chuyện gì cũng biết"
+    },
+    {
+      "num": 559,
+      "title": "Phong vân dần nổi, Trường Canh âm thầm đặt quân cờ"
+    },
+    {
+      "num": 560,
+      "title": "Phạt Thiên – Thượng"
+    },
+    {
+      "num": 561,
+      "title": "Thế lực đen tối chốn Hồng Hoang – Thái Bạch Cung (Trung)"
+    },
+    {
+      "num": 562,
+      "title": "Thiên Nhãn! Mở!"
+    },
+    {
+      "num": 563,
+      "title": "Nhị Lang bổ núi, Thái Bạch che chở, cuối cùng chỉ nghe điều động chứ không nghe sai khiến"
+    },
+    {
+      "num": 564,
+      "title": "Túi gấm ngày tận thế – Bản nâng cấp"
+    },
+    {
+      "num": 565,
+      "title": "Sóng trước chưa yên, sóng sau đã ập tới"
+    },
+    {
+      "num": 566,
+      "title": "Tiếp viện Huyền Đô Thành"
+    },
+    {
+      "num": 567,
+      "title": "Lời mời của Côn Bằng"
+    },
+    {
+      "num": 568,
+      "title": "Cự Tinh Dương Tiễn! Đều là người chơi mưu kế ở Hồng Hoang, bày trò trước mặt ai đấy?"
+    },
+    {
+      "num": 569,
+      "title": "Thánh Nữ Say Tình, Gặp Gỡ Thất Tình"
+    },
+    {
+      "num": 570,
+      "title": "Bàn Cổ"
+    },
+    {
+      "num": 571,
+      "title": "Con Côn Bằng này lại chủ động khác thường"
+    },
+    {
+      "num": 572,
+      "title": "Thiên Ất Khai Thương!"
+    },
+    {
+      "num": 573,
+      "title": "Thiên Ma... què rồi。"
+    },
+    {
+      "num": 574,
+      "title": "Sư đệ có lương tâm, đang trực tuyến…"
+    },
+    {
+      "num": 575,
+      "title": "Sư thúc tâm sự, cuộc đấu trí với Côn Bằng"
+    },
+    {
+      "num": 576,
+      "title": "Nỗi nghi hoặc của Đạo Tổ"
+    },
+    {
+      "num": 577,
+      "title": "Tiến công nào, Linh Nga!"
+    },
+    {
+      "num": 578,
+      "title": "Đức lửa của Toại Nhân, đại đạo chẳng bao giờ tắt"
+    },
+    {
+      "num": 579,
+      "title": "Đội Bắt Cá Mạnh Nhất Hồng Hoang!"
+    },
+    {
+      "num": 580,
+      "title": "Thế mà cũng có thể gặp được chút thu hoạch bất ngờ"
+    },
+    {
+      "num": 581,
+      "title": "Trận chiến sinh tử, kết giao xanh"
+    },
+    {
+      "num": 582,
+      "title": "Dịu dàng"
+    },
+    {
+      "num": 583,
+      "title": "Chậc, chín thành tám"
+    },
+    {
+      "num": 584,
+      "title": "Thuần Phục Phi Đao, Vén Màn Đại Chiến!"
+    },
+    {
+      "num": 585,
+      "title": "Hội tụ gió mây, Hồng Mông Tử Khí khuấy động thần linh"
+    },
+    {
+      "num": 586,
+      "title": "Tử Khí Chính Tông! [Cỡ Vừa Hơi Lớn]"
+    },
+    {
+      "num": 587,
+      "title": "Thái Bạch chống lệnh Đạo Tổ, Vân Tiêu nắm giữ Thanh Bình! Ly lớn!"
+    },
+    {
+      "num": 588,
+      "title": "Tiên Tử Và Lòng Phàm Nhân"
+    },
+    {
+      "num": 589,
+      "title": "Tâm mạch Côn Bằng, mật thất của Lãng tiền bối!"
+    },
+    {
+      "num": 590,
+      "title": "Đây chắc chắn không phải thử thách tự kỷ gì chứ?"
+    },
+    {
+      "num": 591,
+      "title": "Cánh Cửa Thiên Đạo, Kiếp Nạn Phía Trước Của Công Minh"
+    },
+    {
+      "num": 592,
+      "title": "Nguy・Thọ・Nguy"
+    },
+    {
+      "num": 593,
+      "title": "Lại Lên Tử Tiêu Cung"
+    },
+    {
+      "num": 594,
+      "title": "Thái Bạch trở về, Thiên Đình chuyển mình"
+    },
+    {
+      "num": 595,
+      "title": "Làm một vố thật lớn!"
+    },
+    {
+      "num": 596,
+      "title": "Đát Kỷ hiện thân, yêu tộc bị xóa tên"
+    },
+    {
+      "num": 597,
+      "title": "Bình định yêu tộc phương Bắc, vững vàng lừa Linh Sơn"
+    },
+    {
+      "num": 598,
+      "title": "Kiến nghị đổi thành: Nhân tài trẻ tuổi"
+    },
+    {
+      "num": 599,
+      "title": "Đối Mặt Thánh Nhân Tây Phương, Thái Bạch Lục Soát Linh Sơn！"
+    },
+    {
+      "num": 600,
+      "title": "Trường Canh đấu khẩu với Văn Tịnh, Hoa Quả Sơn xuất hiện ở Đông Châu！"
+    },
+    {
+      "num": 601,
+      "title": "Lần này nhất định thành công!"
+    },
+    {
+      "num": 602,
+      "title": "Mười Hai Kim Tiên Xiển Giáo: Đánh kiểu quái gì đây?"
+    },
+    {
+      "num": 603,
+      "title": "Tiểu Trọng à, con người cũng khá đấy"
+    },
+    {
+      "num": 604,
+      "title": "Thế bí chết người của Biện Trang"
+    },
+    {
+      "num": 605,
+      "title": "Thọ phản công, ra tay lật bàn"
+    },
+    {
+      "num": 606,
+      "title": "Quân Thần · Cặp Bài Trùng Hoàn Hảo"
+    },
+    {
+      "num": 607,
+      "title": "Cơn bão phản kích!"
+    },
+    {
+      "num": 608,
+      "title": "Trường Thọ mạnh tay bắt sống Câu Lưu Tôn!"
+    },
+    {
+      "num": 609,
+      "title": "Cái giá của việc diễn quá đà"
+    },
+    {
+      "num": 610,
+      "title": "Ngọc Đế dùng thiên uy trấn áp Côn Luân!"
+    },
+    {
+      "num": 611,
+      "title": "Mở phiên xử tại Lăng Tiêu Điện, xét xử chính thức Nhiên Đăng!"
+    },
+    {
+      "num": 612,
+      "title": "Thái Bạch nổi sát khí"
+    },
+    {
+      "num": 613,
+      "title": "Thế cục đột ngột đổi chiều, kiếp nạn của Nhiên Đăng"
+    },
+    {
+      "num": 614,
+      "title": "Trước Điện Lăng Tiêu! Lật Ngược Thế Cờ Đến Phút Cuối!"
+    },
+    {
+      "num": 615,
+      "title": "Diệt Đăng! Diệt Đăng! Bản siêu dài"
+    },
+    {
+      "num": 616,
+      "title": "Tháp Luân Hồi trấn cổ quan, bạn tiên tụ hội Tiểu Quỳnh Phong"
+    },
+    {
+      "num": 617,
+      "title": "Lão ca, ta chỉ có thể giúp huynh đến đây thôi"
+    },
+    {
+      "num": 618,
+      "title": "Áo bông nhỏ của Thánh Nhân, chạy khắp các đạo trường"
+    },
+    {
+      "num": 619,
+      "title": "Đột Kích Kiểm Tra Nhỏ"
+    },
+    {
+      "num": 620,
+      "title": "Chặn đường Hỗn Độn Chung!"
+    },
+    {
+      "num": 621,
+      "title": "Đậu xanh! Vô tình quá!"
+    },
+    {
+      "num": 622,
+      "title": "Chuông Hỗn Độn — Khó mà thu phục"
+    },
+    {
+      "num": 623,
+      "title": "Sát Kiếp Sắp Nổi Lên"
+    },
+    {
+      "num": 624,
+      "title": "Nhiệm Vụ Hàng Đầu Của Thái Thanh Quán"
+    },
+    {
+      "num": 625,
+      "title": "Chương 626"
+    },
+    {
+      "num": 626,
+      "title": "Thăm dò tảng đá ở Hoa Quả Sơn, ba yêu quái Hiên Viên trở về đúng vị trí"
+    },
+    {
+      "num": 627,
+      "title": "Lý Tĩnh sắp xuống núi, kiếp nạn Kim Tiên của Linh Nga"
+    },
+    {
+      "num": 628,
+      "title": "Người một nhà, cứ tự nhiên"
+    },
+    {
+      "num": 629,
+      "title": "Nguyên nhân chính khiến Linh Châu Tử chuyển thế"
+    },
+    {
+      "num": 630,
+      "title": "Huynh đệ tốt, trọn đời bên nhau!"
+    },
+    {
+      "num": 631,
+      "title": "Thư từ Địa Phủ, Thái Công sắp đến"
+    },
+    {
+      "num": 632,
+      "title": "Hoa Có Thể Nở Lại, Nhưng Cánh Hoa Đã Chẳng Còn Như Xưa"
+    },
+    {
+      "num": 633,
+      "title": "Thánh Nhân Họp Bàn"
+    },
+    {
+      "num": 634,
+      "title": "Chuyến dạo chơi của hai người"
+    },
+    {
+      "num": 635,
+      "title": "Đây là lời nói dối, ai cũng không chịu nhường ai"
+    },
+    {
+      "num": 636,
+      "title": "Thiên Đế Đạo Sư"
+    },
+    {
+      "num": 637,
+      "title": "Thiên Tự Nhất Hiệu Trường Công"
+    },
+    {
+      "num": 638,
+      "title": "Lệnh Giết Của Tiệt Giáo! Cỡ vừa thông thường"
+    },
+    {
+      "num": 639,
+      "title": "Bí mật nhỏ của Thiên Đạo"
+    },
+    {
+      "num": 640,
+      "title": "Vạn Tiên Bao Vây Linh Sơn! Chương Siêu Dài"
+    },
+    {
+      "num": 641,
+      "title": "Dạy cách nói chuyện"
+    },
+    {
+      "num": 642,
+      "title": "Đạo chiến Linh Sơn!"
+    },
+    {
+      "num": 643,
+      "title": "Huyền Đô và Đa Bảo đại chiến Chuẩn Đề, Công Minh nằm ngang đường Côn Lôn"
+    },
+    {
+      "num": 644,
+      "title": "Tiểu thần xin nói một câu công bằng"
+    },
+    {
+      "num": 645,
+      "title": "Phía Tây tạm thời yên nghỉ"
+    },
+    {
+      "num": 646,
+      "title": "Chủ động đến kỳ lạ"
+    },
+    {
+      "num": 647,
+      "title": "Chuông ở lại Tiểu Quỳnh Phong"
+    },
+    {
+      "num": 648,
+      "title": "Lớp học nhỏ của Thái Bạch"
+    },
+    {
+      "num": 649,
+      "title": "Cha thân yêu ở trên!"
+    },
+    {
+      "num": 650,
+      "title": "Bậc Thầy Điều Khiển Nhịp Điệu"
+    },
+    {
+      "num": 651,
+      "title": "Chuyện làm quan nhỏ như hạt bụi"
+    },
+    {
+      "num": 652,
+      "title": "Đế Tân Giáng Thế"
+    },
+    {
+      "num": 653,
+      "title": "Hắc Báo đổi tên, tính kế Bồ Đề"
+    },
+    {
+      "num": 654,
+      "title": "Đếm ngược đến đại kiếp Phong Thần!"
+    },
+    {
+      "num": 655,
+      "title": "Thân Báo và Khương Công trở về Ngọc Hư, Lý Tĩnh ở Trần Đường đón quý tử"
+    },
+    {
+      "num": 656,
+      "title": "Chữ “Tra” có mấy cách viết?"
+    },
+    {
+      "num": 657,
+      "title": "Đêm Gặp Gỡ Tử Thụ"
+    },
+    {
+      "num": 658,
+      "title": "Gió nổi Nam Châu"
+    },
+    {
+      "num": 659,
+      "title": "Thành Triều Ca tranh ngôi nóng như lửa, Văn Thù bất ngờ đến ải Trần Đường"
+    },
+    {
+      "num": 660,
+      "title": "Khí thế ngút trời"
+    },
+    {
+      "num": 661,
+      "title": "Đế · Tân"
+    },
+    {
+      "num": 662,
+      "title": "Linh Châu sắp chuyển thế đầu thai"
+    },
+    {
+      "num": 663,
+      "title": "Trần Đường Biến！"
+    },
+    {
+      "num": 664,
+      "title": "Lựa chọn"
+    },
+    {
+      "num": 665,
+      "title": "Là hắn, chính là hắn, không sai vào đâu được!"
+    },
+    {
+      "num": 666,
+      "title": "Một chút sơ suất của Trường Thọ"
+    },
+    {
+      "num": 667,
+      "title": "Đúng là Ngao Bính"
+    },
+    {
+      "num": 668,
+      "title": "Cuộc chiến ngầm trong miếu Nữ Oa"
+    },
+    {
+      "num": 669,
+      "title": "Kệ mẹ Thiên Đạo! Nhất định phải đọc · Giả vờ cao trào · Cỡ vừa"
+    },
+    {
+      "num": 670,
+      "title": "Phạt Thiên · Trung Thiên"
+    },
+    {
+      "num": 671,
+      "title": "Tàn Tro"
+    },
+    {
+      "num": 672,
+      "title": "Bốn phần"
+    },
+    {
+      "num": 673,
+      "title": "Nỗi lo của Mộc Công, Đát Kỷ sắp xuất hiện"
+    },
+    {
+      "num": 674,
+      "title": "Món bảo vật này cũng thú vị đấy"
+    },
+    {
+      "num": 675,
+      "title": "Na Tra!"
+    },
+    {
+      "num": 676,
+      "title": "Lần đầu xung đột với Ngao công tử"
+    },
+    {
+      "num": 677,
+      "title": "Thảm! Chưởng môn! Thảm!"
+    },
+    {
+      "num": 678,
+      "title": "Đát Kỷ vào cung"
+    },
+    {
+      "num": 679,
+      "title": "Ngao Bính nổi sát tâm"
+    },
+    {
+      "num": 680,
+      "title": "Hồn phách đầu tiên của Phong Thần!"
+    },
+    {
+      "num": 681,
+      "title": "Tính kế Long tộc, bảo vệ Nhân đạo"
+    },
+    {
+      "num": 682,
+      "title": "Tiểu lớp dạy ăn nói của Thái Ất Chân Nhân"
+    },
+    {
+      "num": 683,
+      "title": "Nhấn chìm Trần Đường!"
+    },
+    {
+      "num": 684,
+      "title": "Cha ta, Lý Tĩnh ở Trần Đường Quan!"
+    },
+    {
+      "num": 685,
+      "title": "Thái Bạch ép rồng"
+    },
+    {
+      "num": 686,
+      "title": "Giáo phái Vững Vàng"
+    },
+    {
+      "num": 687,
+      "title": "Bàn đạo cùng Hồng Quân (Thượng)"
+    },
+    {
+      "num": 688,
+      "title": "Sư tổ, lần này thật sự không phải con cố ý tính kế"
+    },
+    {
+      "num": 689,
+      "title": "Học viện Phong Thần!"
+    },
+    {
+      "num": 690,
+      "title": "Trận chiến đầu tiên giữa Xiển Giáo và Triệt Giáo"
+    },
+    {
+      "num": 691,
+      "title": "Suýt chút nữa thì chiếc chuông nhỏ lỡ miệng"
+    },
+    {
+      "num": 692,
+      "title": "Công Minh Đại Hôn!"
+    },
+    {
+      "num": 693,
+      "title": "Đám cưới của Nga lần này, nhất định phải thật hoành tráng!"
+    },
+    {
+      "num": 694,
+      "title": "Ngươi Không Hiểu Đâu!"
+    },
+    {
+      "num": 695,
+      "title": "Thần Nông Dưỡng Linh Đan!"
+    },
+    {
+      "num": 696,
+      "title": "Giết đến phát điên, giết đến phát điên"
+    },
+    {
+      "num": 697,
+      "title": "Kim Linh Có Tin Vui"
+    },
+    {
+      "num": 698,
+      "title": "Có thật có giả, kế hoạch đánh lừa Thiên Đạo"
+    },
+    {
+      "num": 699,
+      "title": "Thái Bạch 1 bái"
+    },
+    {
+      "num": 700,
+      "title": "Thánh Mẫu Cung Giam Giữ Thân Mình"
+    },
+    {
+      "num": 701,
+      "title": "Mong ngọn lửa này có thể sưởi ấm người đôi chút"
+    },
+    {
+      "num": 702,
+      "title": "Hai chương gộp 702–703"
+    },
+    {
+      "num": 703,
+      "title": "Thánh Nhân Ra Tay, Mười Tuyệt Trận Nguy Hiểm Chết NgườiCỡ Vừa"
+    },
+    {
+      "num": 704,
+      "title": "Nỗi lo của Trường Thọ"
+    },
+    {
+      "num": 705,
+      "title": "Kẻ Giết Thánh Nhân: Thọ [Cốc Lớn Nhất!]"
+    },
+    {
+      "num": 706,
+      "title": "Từ hôm nay, Hồng Hoang chỉ còn năm vị Thánh!"
+    },
+    {
+      "num": 707,
+      "title": "Rắc tro cũng là một việc rất có nghi thức"
+    },
+    {
+      "num": 708,
+      "title": "Con Đường Phá Cục Đại Kiếp!"
+    },
+    {
+      "num": 709,
+      "title": "Long hồn cổ long thời viễn cổ"
+    },
+    {
+      "num": 710,
+      "title": "Luận Đạo Hồng Quân (Trung) Chúc mừng Quốc khánh và Tết Trung thu vui vẻ~"
+    },
+    {
+      "num": 711,
+      "title": "Dùng muỗi tính kế Kim Liên"
+    },
+    {
+      "num": 712,
+      "title": "Kẻ thù của chúng sinh!"
+    },
+    {
+      "num": 713,
+      "title": "Văn Trọng bỏ mạng, hiến kế trong mộng"
+    },
+    {
+      "num": 714,
+      "title": "Đạo Tổ Đích Thân Đến Cửa!"
+    },
+    {
+      "num": 715,
+      "title": "Một trận đấu mà thọ mệnh thắng Đạo Tổ!"
+    },
+    {
+      "num": 716,
+      "title": "Sư tổ, người chấp tướng rồi"
+    },
+    {
+      "num": 717,
+      "title": "Quảng Thành Tử định kế, đánh úp bất ngờ"
+    },
+    {
+      "num": 718,
+      "title": "Trích Tinh"
+    },
+    {
+      "num": 719,
+      "title": "Thọ đến Cốc vừa"
+    },
+    {
+      "num": 720,
+      "title": "Xé toạc vết thương!"
+    },
+    {
+      "num": 721,
+      "title": "Nguyên Thủy Thiên Tôn"
+    },
+    {
+      "num": 722,
+      "title": "Thiên Biến"
+    },
+    {
+      "num": 723,
+      "title": "Thái Thanh Không Bại！"
+    },
+    {
+      "num": 724,
+      "title": "Lưu Lạc Huyền Đô Thành! Siêu Đại Cốc!"
+    },
+    {
+      "num": 725,
+      "title": "Nhìn Hồng Hoang từ một góc độ khác"
+    },
+    {
+      "num": 726,
+      "title": "Danh Sách Pháp Bảo Của Lý Trường Thọ"
+    },
+    {
+      "num": 727,
+      "title": "Ê hê hê"
+    },
+    {
+      "num": 728,
+      "title": "Ồ, cái giọng điệu quen thuộc này"
+    },
+    {
+      "num": 729,
+      "title": "Gặp Đa Bảo trước, gặp Lão Quân sau"
+    },
+    {
+      "num": 730,
+      "title": "Lão Quân điểm một ngón tay, Đạo Tổ gửi thạch thai!"
+    },
+    {
+      "num": 731,
+      "title": "Ngồi giữa núi Phương Thốn, Bồ Đề chờ khỉ đến"
+    },
+    {
+      "num": 732,
+      "title": "Hóa Hồ Thành Phật!"
+    },
+    {
+      "num": 733,
+      "title": "Cướp quyền ở Linh Sơn"
+    },
+    {
+      "num": 734,
+      "title": "Thạch Hầu xuất thế!"
+    },
+    {
+      "num": 735,
+      "title": "Đạo Tổ, con khỉ lớn đáng ghét này!"
+    },
+    {
+      "num": 736,
+      "title": "Ký Ức Bị Xóa Sạch"
+    },
+    {
+      "num": 737,
+      "title": "Người đi thỉnh kinh"
+    },
+    {
+      "num": 738,
+      "title": "Dạy Khỉ (Thượng)"
+    },
+    {
+      "num": 739,
+      "title": "Dạy Khỉ (Hạ)"
+    },
+    {
+      "num": 740,
+      "title": "Kết cục của ‘Hư Bồ Đề’"
+    },
+    {
+      "num": 741,
+      "title": "Bất Diệt Kim Hồn"
+    },
+    {
+      "num": 742,
+      "title": "Đề Bồ Đề"
+    },
+    {
+      "num": 743,
+      "title": "Đại sư chuyên bắt mối"
+    },
+    {
+      "num": 744,
+      "title": "Phản thiên"
+    },
+    {
+      "num": 745,
+      "title": "Nguy・Kim Thiền・Nguy"
+    },
+    {
+      "num": 746,
+      "title": "Tiếp Dẫn triệu gọi"
+    },
+    {
+      "num": 747,
+      "title": "《Đại Thánh》Ly lớn!"
+    },
+    {
+      "num": 748,
+      "title": "Ngộ Không lại lên trời, Bồ Đề ngồi bên hồ sen"
+    },
+    {
+      "num": 749,
+      "title": "Lời can gián của Huyền Nhã"
+    },
+    {
+      "num": 750,
+      "title": "Hỏng rồi!"
+    },
+    {
+      "num": 751,
+      "title": "Đại Đạo Cân Bằng Tái Lâm! Ly lớn"
+    },
+    {
+      "num": 752,
+      "title": "Hướng đến, Tử Tiêu Cung! Ly lớn"
+    },
+    {
+      "num": 753,
+      "title": "Bàn đạo cùng Hồng Quân! (Hạ)"
+    },
+    {
+      "num": 754,
+      "title": "Yếu ớt, nhưng lại nắm quyền chi phối"
+    },
+    {
+      "num": 755,
+      "title": "Nguyện đạo ta từ đêm dài thắp lên ngọn lửa tinh tú"
+    },
+    {
+      "num": 756,
+      "title": "Phạt Thiên · Hạ!"
+    },
+    {
+      "num": 757,
+      "title": "Quyết chiến với Đạo Tổ! Chương vạn chữ"
+    },
+    {
+      "num": 758,
+      "title": "Thật ra, có người đã nói dối"
+    },
+    {
+      "num": 759,
+      "title": "Kim Tiên yếu nhất (còn có tên: Luận đạo với Hồng Quân · Kết thúc)"
+    },
+    {
+      "num": 760,
+      "title": "Tiểu Quỳnh Phong mãi mãi không khép màn · Đại kết cục"
+    },
+    {
+      "num": 761,
+      "title": "Ngoại truyện 1: Đồng hành một đường (Thượng)"
+    },
+    {
+      "num": 762,
+      "title": "Ngoại truyện 1: Đồng hành một đường (vẫn chưa đến hồi kết)"
+    },
+    {
+      "num": 763,
+      "title": "Ngoại truyện 1: Đồng hành một đường (trung)"
+    },
+    {
+      "num": 764,
+      "title": "Ngoại truyện 1: Đồng hành một đường (Phần giữa 5)"
+    },
+    {
+      "num": 765,
+      "title": "Ngoại truyện 1: Đồng hành trên một chặng đường (Hạ)"
+    }
+  ],
+  "slug": "su_huynh_that_qua_vung_vang",
+  "title": "Sư Huynh Của Ta Thật Quá Vững Vàng",
+  "author": "Ngôn Quy Chính Truyện",
+  "synopsis": "Truyện tiên hiệp hài hước bối cảnh Phong Thần của Ngôn Quy Chính Truyện (言歸正傳), đã hoàn thành. Lý Trường Thọ xuyên về thượng cổ, ngay trước đại chiến Phong Thần, chỉ là một tu sĩ luyện khí nhỏ bé không có khí vận, chỉ mong tu tiên trường sinh nên cực kỳ cẩn trọng: tránh nhân quả, giấu bài tẩy, tính toán kỹ rồi mới hành động. Thế nhưng sư phụ lại nhận thêm sư muội, nhiều điển tích Phong Thần, Tây Du cứ thế kéo tới, khiến vị sư huynh \"vững vàng\" liên tục rơi vào những tình huống dở khóc dở cười.",
+  "coverColor": "#3d4a3a"
+}
