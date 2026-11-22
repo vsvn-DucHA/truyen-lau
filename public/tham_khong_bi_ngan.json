@@ -1,0 +1,5742 @@
+{
+  "totalChapters": 1433,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Cố Thổ"
+    },
+    {
+      "num": 2,
+      "title": "Thanh xuân dễ trôi qua"
+    },
+    {
+      "num": 3,
+      "title": "Hạng mục kéo dài tuổi thọ"
+    },
+    {
+      "num": 4,
+      "title": "Siêu nhiên"
+    },
+    {
+      "num": 5,
+      "title": "Bị vứt bỏ như giày rách"
+    },
+    {
+      "num": 6,
+      "title": "Nữ thần"
+    },
+    {
+      "num": 7,
+      "title": "Liệt Tiên không còn tồn tại"
+    },
+    {
+      "num": 8,
+      "title": "Buổi tụ họp"
+    },
+    {
+      "num": 9,
+      "title": "Bạn học cùng trường"
+    },
+    {
+      "num": 10,
+      "title": "Tân thuật"
+    },
+    {
+      "num": 11,
+      "title": "Cuộc đối đầu giữa cái cũ và cái mới"
+    },
+    {
+      "num": 12,
+      "title": "Ôn hòa nhìn xuống"
+    },
+    {
+      "num": 13,
+      "title": "Điểm cuối của con đường thuật cũ"
+    },
+    {
+      "num": 14,
+      "title": "Thám hiểm"
+    },
+    {
+      "num": 15,
+      "title": "Vũ Hóa"
+    },
+    {
+      "num": 16,
+      "title": "Quyển sách da thú màu bạc"
+    },
+    {
+      "num": 17,
+      "title": "Cướp công"
+    },
+    {
+      "num": 18,
+      "title": "Tình cờ gặp gỡ"
+    },
+    {
+      "num": 19,
+      "title": "Bạn gái cũ"
+    },
+    {
+      "num": 20,
+      "title": "Tiểu Vương quá dữ"
+    },
+    {
+      "num": 21,
+      "title": "Không được phép thành tinh"
+    },
+    {
+      "num": 22,
+      "title": "Suýt chút nữa đã chết"
+    },
+    {
+      "num": 23,
+      "title": "Siêu Cảm"
+    },
+    {
+      "num": 24,
+      "title": "Cách mở đúng những thẻ tre thời Tiên Tần"
+    },
+    {
+      "num": 25,
+      "title": "Tiếp xúc với điều thần bí"
+    },
+    {
+      "num": 26,
+      "title": "Không có tính phổ quát"
+    },
+    {
+      "num": 27,
+      "title": "Mộ Tiên"
+    },
+    {
+      "num": 28,
+      "title": "Câu cá"
+    },
+    {
+      "num": 29,
+      "title": "Nữ Phương Sĩ Còn Sống"
+    },
+    {
+      "num": 30,
+      "title": "Thất bại trên đường thành tiên"
+    },
+    {
+      "num": 31,
+      "title": "Kế hoạch tạo ra giống loài trường sinh"
+    },
+    {
+      "num": 32,
+      "title": "Vật lạ"
+    },
+    {
+      "num": 33,
+      "title": "Con đường tắt dẫn vào vùng đất nội cảnh"
+    },
+    {
+      "num": 34,
+      "title": "Chương ba mươi tư: Nàng lộ hết rồi"
+    },
+    {
+      "num": 35,
+      "title": "Gần tiên, gần yêu"
+    },
+    {
+      "num": 36,
+      "title": "Xảy ra chuyện rồi"
+    },
+    {
+      "num": 37,
+      "title": "Tiên nữ xinh đẹp bầu bạn trong giấc ngủ"
+    },
+    {
+      "num": 38,
+      "title": "Tìm tiên giữa mưa"
+    },
+    {
+      "num": 39,
+      "title": "Đại chiến Hắc Sơn"
+    },
+    {
+      "num": 40,
+      "title": "Mở ra một con đường cho thuật cũ"
+    },
+    {
+      "num": 41,
+      "title": "Lần đầu tiên trong đời"
+    },
+    {
+      "num": 42,
+      "title": "Lão Trần trở về"
+    },
+    {
+      "num": 43,
+      "title": "Tiên Phật ở bên cạnh"
+    },
+    {
+      "num": 44,
+      "title": "Phật muốn cầu người phàm thì phải làm thế nào"
+    },
+    {
+      "num": 45,
+      "title": "Bồ Tát Dời Chùa"
+    },
+    {
+      "num": 46,
+      "title": "Cuộc gặp gỡ"
+    },
+    {
+      "num": 47,
+      "title": "Tài xế tiểu thư nhà giàu"
+    },
+    {
+      "num": 48,
+      "title": "Bức thư từ sâu trong vũ trụ"
+    },
+    {
+      "num": 49,
+      "title": "Thể chất chiêu gọi tiên nhân"
+    },
+    {
+      "num": 50,
+      "title": "Thần vật hiếm có trên đời"
+    },
+    {
+      "num": 51,
+      "title": "Quan niệm và lợi ích"
+    },
+    {
+      "num": 52,
+      "title": "Cuộc đối đầu giữa cái cũ và cái mới"
+    },
+    {
+      "num": 53,
+      "title": "Ánh huy hoàng cuối cùng của cựu thuật"
+    },
+    {
+      "num": 54,
+      "title": "Đại Tông Sư"
+    },
+    {
+      "num": 55,
+      "title": "Đào tận gốc thuật cũ"
+    },
+    {
+      "num": 56,
+      "title": "Bị nẫng mất món hời"
+    },
+    {
+      "num": 57,
+      "title": "Màn kết thúc rực rỡ"
+    },
+    {
+      "num": 58,
+      "title": "Dùng sức một mình nối dài sinh mệnh cho Cựu Thuật"
+    },
+    {
+      "num": 59,
+      "title": "Khơi dậy máu nóng"
+    },
+    {
+      "num": 60,
+      "title": "Người hộ đạo của lão Trần"
+    },
+    {
+      "num": 61,
+      "title": "Di vật của người xưa để lại"
+    },
+    {
+      "num": 62,
+      "title": "Đồng lòng hợp sức"
+    },
+    {
+      "num": 63,
+      "title": "Nữ Kiếm Tiên"
+    },
+    {
+      "num": 64,
+      "title": "Vương Giáo Tổ"
+    },
+    {
+      "num": 65,
+      "title": "Chỉ cần nhìn thấy kiếm là muốn nôn"
+    },
+    {
+      "num": 66,
+      "title": "Giới quý tộc ở An Thành"
+    },
+    {
+      "num": 67,
+      "title": "Đối chiếu sơ bộ các tầng cảnh giới xưa và nay"
+    },
+    {
+      "num": 68,
+      "title": "Nỗi lo về nội cảnh (Xin nguyệt phiếu!)"
+    },
+    {
+      "num": 69,
+      "title": "Khoảng thời gian yên bình cuối cùng"
+    },
+    {
+      "num": 70,
+      "title": "Ôm đến nổ tung"
+    },
+    {
+      "num": 71,
+      "title": "Chương bảy mươi mốt: Lão Trần bị mèo tha đi mất (Xin nguyệt phiếu)"
+    },
+    {
+      "num": 72,
+      "title": "Bồ Tát Bị Dọa Chạy"
+    },
+    {
+      "num": 73,
+      "title": "Nữ Yêu Tiên Mạnh Mẽ"
+    },
+    {
+      "num": 74,
+      "title": "Lần đầu tiên nội cảnh nhuốm máu"
+    },
+    {
+      "num": 75,
+      "title": "Tiểu Vương ra oai"
+    },
+    {
+      "num": 76,
+      "title": "Lòng vẫn sục sôi nhiệt huyết"
+    },
+    {
+      "num": 77,
+      "title": "Một mình đánh xuyên mọi phe phái"
+    },
+    {
+      "num": 78,
+      "title": "Thiếu Niên Là Một Kho Báu"
+    },
+    {
+      "num": 79,
+      "title": "Thế giới ba năm sau sẽ đáng sợ đến mức nào"
+    },
+    {
+      "num": 80,
+      "title": "Hẹn ước ba năm"
+    },
+    {
+      "num": 81,
+      "title": "Khế Ước Cũ Khóa Chân Ngôn"
+    },
+    {
+      "num": 82,
+      "title": "Gỡ rối lịch sử thuật cũ"
+    },
+    {
+      "num": 83,
+      "title": "Chương tám mươi ba: Thuật cũ chẳng hề cũ"
+    },
+    {
+      "num": 84,
+      "title": "Chiến hạm có thể tiêu diệt chư tiên không"
+    },
+    {
+      "num": 85,
+      "title": "Đêm mưa truy sát"
+    },
+    {
+      "num": 86,
+      "title": "Vương Tông Sư!"
+    },
+    {
+      "num": 87,
+      "title": "Thần thoại"
+    },
+    {
+      "num": 88,
+      "title": "Thời đại đã đổi thay"
+    },
+    {
+      "num": 89,
+      "title": "Đêm mưa giông sấm chớp, đêm giết người"
+    },
+    {
+      "num": 90,
+      "title": "Ngày mai sẽ ra sao"
+    },
+    {
+      "num": 91,
+      "title": "Thanh kiếm cổ khiến quỷ thần phải tránh xa"
+    },
+    {
+      "num": 92,
+      "title": "Cuối cùng cũng có thể tham dự tang lễ"
+    },
+    {
+      "num": 93,
+      "title": "Chương chín mươi ba: Hình ảnh và chữ nghĩa đầy đủ"
+    },
+    {
+      "num": 94,
+      "title": "Lái phi thuyền hái thiên dược"
+    },
+    {
+      "num": 95,
+      "title": "Cướp thức ăn từ miệng tiên"
+    },
+    {
+      "num": 96,
+      "title": "Ý thức của bậc tông sư"
+    },
+    {
+      "num": 97,
+      "title": "Hồng Nhan Tri Kỷ"
+    },
+    {
+      "num": 98,
+      "title": "Dị loại hướng về Liệt Tiên"
+    },
+    {
+      "num": 99,
+      "title": "Vùng đất bí ẩn giữa biển sao"
+    },
+    {
+      "num": 100,
+      "title": "Vương Tông Sư rực rỡ"
+    },
+    {
+      "num": 101,
+      "title": "Tư chất trời sinh"
+    },
+    {
+      "num": 102,
+      "title": "Khúc nhạc kết thúc, người cũng tan"
+    },
+    {
+      "num": 103,
+      "title": "Chia tay đau lòng"
+    },
+    {
+      "num": 104,
+      "title": "Tiếp xúc bí ẩn"
+    },
+    {
+      "num": 105,
+      "title": "Du hành giữa các vì sao"
+    },
+    {
+      "num": 106,
+      "title": "Tình cờ gặp mặt"
+    },
+    {
+      "num": 107,
+      "title": "Trên mặt trăng"
+    },
+    {
+      "num": 108,
+      "title": "Các vị Bồ Tát nhiệt tình quá mức"
+    },
+    {
+      "num": 109,
+      "title": "Lão Lăng uy vũ"
+    },
+    {
+      "num": 110,
+      "title": "Theo đuổi và thực hiện"
+    },
+    {
+      "num": 111,
+      "title": "Giết chết một vị tiên"
+    },
+    {
+      "num": 112,
+      "title": "Bị Tiên Nhân Nhắm Đến"
+    },
+    {
+      "num": 113,
+      "title": "Chương thứ một trăm mười ba: Thần thoại không thuộc về thế giới hiện thực"
+    },
+    {
+      "num": 114,
+      "title": "Mặt Trăng nổ tung"
+    },
+    {
+      "num": 115,
+      "title": "Nhân gian thuộc về ai"
+    },
+    {
+      "num": 116,
+      "title": "Chiến hạm đánh chư tiên"
+    },
+    {
+      "num": 117,
+      "title": "Thế giới phía sau bức màn"
+    },
+    {
+      "num": 118,
+      "title": "Cái giá của giao ước cũ và sự trả thù"
+    },
+    {
+      "num": 119,
+      "title": "Lần đầu đặt chân đến thế giới mới"
+    },
+    {
+      "num": 120,
+      "title": "Dân bản địa của Tân Tinh"
+    },
+    {
+      "num": 121,
+      "title": "Nơi tọa lạc của vùng đất bí ẩn"
+    },
+    {
+      "num": 122,
+      "title": "Cả đội bị diệt sạch mới là chuyện thường"
+    },
+    {
+      "num": 123,
+      "title": "Lão Chung vác cả chiến hạm chạy mất"
+    },
+    {
+      "num": 124,
+      "title": "Nữ thần họ Triệu"
+    },
+    {
+      "num": 125,
+      "title": "Đại thời đại sắp đến"
+    },
+    {
+      "num": 126,
+      "title": "Biển Sao Mênh Mông"
+    },
+    {
+      "num": 127,
+      "title": "Phong thái của cú đá ấy"
+    },
+    {
+      "num": 128,
+      "title": "Trải nghiệm đầu tiên ở thế giới mới (Cầu nguyệt phiếu)"
+    },
+    {
+      "num": 129,
+      "title": "Gương mặt người hiện ra dưới trăng"
+    },
+    {
+      "num": 130,
+      "title": "Sắc màu máu"
+    },
+    {
+      "num": 131,
+      "title": "Kỳ tích đêm trăng"
+    },
+    {
+      "num": 132,
+      "title": "Nhân tính (Thượng giá rồi, mong mọi người đăng ký, xin vé tháng bảo đảm)"
+    },
+    {
+      "num": 133,
+      "title": "Cặp đôi (Bốn chương liên tiếp, cầu đăng ký, cầu vé tháng tối thiểu)"
+    },
+    {
+      "num": 134,
+      "title": "Giao (cầu đăng ký, cầu vé tháng bảo đảm)"
+    },
+    {
+      "num": 135,
+      "title": "Kim Thân lại lột xác (Canh sáu)"
+    },
+    {
+      "num": 136,
+      "title": "Đại Tông Sư"
+    },
+    {
+      "num": 137,
+      "title": "Vùng đất bí ẩn đen tối"
+    },
+    {
+      "num": 138,
+      "title": "Một mình một ngựa, giết xuyên doanh trại địch"
+    },
+    {
+      "num": 139,
+      "title": "Cứu người"
+    },
+    {
+      "num": 140,
+      "title": "Không vượt khỏi phàm tục, tất cả đều chỉ là bụi trần"
+    },
+    {
+      "num": 141,
+      "title": "Lấy vợ sinh con nơi đất khách"
+    },
+    {
+      "num": 142,
+      "title": "Người mới của nhân loại ở vùng đất bí mật"
+    },
+    {
+      "num": 143,
+      "title": "Giết người ngoài hành tinh"
+    },
+    {
+      "num": 144,
+      "title": "Tiểu Chung, bảo vật nhiều vô kể"
+    },
+    {
+      "num": 145,
+      "title": "Săn giết sinh vật siêu phàm"
+    },
+    {
+      "num": 146,
+      "title": "Nụ hôn siêu phàm"
+    },
+    {
+      "num": 147,
+      "title": "So tài cao thấp với Phật Đà"
+    },
+    {
+      "num": 148,
+      "title": "Trở Thành Yêu Ma"
+    },
+    {
+      "num": 149,
+      "title": "Người lái đò Vũ Hóa"
+    },
+    {
+      "num": 150,
+      "title": "Giao dịch với Liệt Tiên"
+    },
+    {
+      "num": 151,
+      "title": "Gặp lại người quen, kẻ thù càng thêm đỏ mắt"
+    },
+    {
+      "num": 152,
+      "title": "Lại gặp yêu tiên áo đỏ"
+    },
+    {
+      "num": 153,
+      "title": "Hẹn ước chốn nhân gian"
+    },
+    {
+      "num": 154,
+      "title": "Biến Động Ở Vùng Ngoài"
+    },
+    {
+      "num": 155,
+      "title": "Tất cả chỉ vì tạo hóa"
+    },
+    {
+      "num": 156,
+      "title": "Đêm dài muôn thuở vẫn chưa tàn"
+    },
+    {
+      "num": 157,
+      "title": "Gặp lại"
+    },
+    {
+      "num": 158,
+      "title": "Thực lực hoàn toàn bại lộ"
+    },
+    {
+      "num": 159,
+      "title": "Người yêu chưa thành đôi"
+    },
+    {
+      "num": 160,
+      "title": "Có người từ Cựu Thổ theo tới"
+    },
+    {
+      "num": 161,
+      "title": "Không còn là tiên"
+    },
+    {
+      "num": 162,
+      "title": "Thật sự không định giăng bẫy câu cá"
+    },
+    {
+      "num": 163,
+      "title": "Địa Tiên nổ tung"
+    },
+    {
+      "num": 164,
+      "title": "Kỳ vật khiến chư tiên thèm muốn"
+    },
+    {
+      "num": 165,
+      "title": "Biến đổi trong nội cảnh"
+    },
+    {
+      "num": 166,
+      "title": "Địa Tiên Tuyền"
+    },
+    {
+      "num": 167,
+      "title": "Tạo Hóa"
+    },
+    {
+      "num": 168,
+      "title": "Chém Siêu Phàm"
+    },
+    {
+      "num": 169,
+      "title": "Kim Bảng Câu Cá"
+    },
+    {
+      "num": 170,
+      "title": "Vạn Pháp Đều Mục Nát"
+    },
+    {
+      "num": 171,
+      "title": "Tấm kinh văn trên phiến đá nhuốm máu các vị tiên"
+    },
+    {
+      "num": 172,
+      "title": "Bồi dưỡng bộ rễ mạnh nhất"
+    },
+    {
+      "num": 173,
+      "title": "Đại phương sĩ cuối cùng của thời hiện thế"
+    },
+    {
+      "num": 174,
+      "title": "Hồ Ly Tinh Ngô Nhân"
+    },
+    {
+      "num": 175,
+      "title": "Hồ Vương Nhân"
+    },
+    {
+      "num": 176,
+      "title": "Đổi lại hai người một thú"
+    },
+    {
+      "num": 177,
+      "title": "Nguồn gốc căn bệnh Thiên Nhân Ngũ Suy"
+    },
+    {
+      "num": 178,
+      "title": "Tiên nhân múa"
+    },
+    {
+      "num": 179,
+      "title": "Bí pháp đỉnh cao"
+    },
+    {
+      "num": 180,
+      "title": "Yêu Ma Đại Loạn"
+    },
+    {
+      "num": 181,
+      "title": "Trần Gánh Tội Thay Người Suốt Bao Năm"
+    },
+    {
+      "num": 182,
+      "title": "Mấy cảnh giới lớn trên con đường tu hành thời cổ đại"
+    },
+    {
+      "num": 183,
+      "title": "Chương một trăm tám mươi ba: Đặt chân vào cõi siêu phàm"
+    },
+    {
+      "num": 184,
+      "title": "Người đưa đò sợ đến dựng tóc gáy"
+    },
+    {
+      "num": 185,
+      "title": "Liên Minh Báo Thù"
+    },
+    {
+      "num": 186,
+      "title": "Lão Chung vượt khỏi thế tục"
+    },
+    {
+      "num": 187,
+      "title": "Triệu và Ngô"
+    },
+    {
+      "num": 188,
+      "title": "Kỳ cảnh của Vương Siêu Phàm"
+    },
+    {
+      "num": 189,
+      "title": "Xem Ngô có đẹp không"
+    },
+    {
+      "num": 190,
+      "title": "Đối đầu với hậu nhân của gia tộc tu tiên hàng đầu"
+    },
+    {
+      "num": 191,
+      "title": "Chương một trăm chín mươi mốt: Đánh khóc cả đám thiên tài"
+    },
+    {
+      "num": 192,
+      "title": "Con đường bắt chước Phật Đà"
+    },
+    {
+      "num": 193,
+      "title": "Máu nhuộm vùng đất bí ẩn"
+    },
+    {
+      "num": 194,
+      "title": "Lột Xác Giữa Tuyệt Cảnh"
+    },
+    {
+      "num": 195,
+      "title": "Đại thanh toán của Vương Nhiên Đăng"
+    },
+    {
+      "num": 196,
+      "title": "Săn giết cường giả siêu phàm"
+    },
+    {
+      "num": 197,
+      "title": "Đại diệt sạch"
+    },
+    {
+      "num": 198,
+      "title": "Nằm không cũng thắng"
+    },
+    {
+      "num": 199,
+      "title": "Vương tạc"
+    },
+    {
+      "num": 200,
+      "title": "Chương thứ hai trăm: Chí bảo"
+    },
+    {
+      "num": 201,
+      "title": "Tiên nhân ban thưởng hậu hĩnh"
+    },
+    {
+      "num": 202,
+      "title": "Thần thoại đang lụi tàn"
+    },
+    {
+      "num": 203,
+      "title": "Ánh hào quang cuối cùng, khúc ca tuyệt mệnh"
+    },
+    {
+      "num": 204,
+      "title": "Đều đang chuẩn bị"
+    },
+    {
+      "num": 205,
+      "title": "Hành trình nơi bí địa kết thúc"
+    },
+    {
+      "num": 206,
+      "title": "Chiến hạm tiêu diệt Địa Tiên"
+    },
+    {
+      "num": 207,
+      "title": "Báo Đáp"
+    },
+    {
+      "num": 208,
+      "title": "Tu hành quá nhanh"
+    },
+    {
+      "num": 209,
+      "title": "Tiệc tối"
+    },
+    {
+      "num": 210,
+      "title": "Thích nghi với thời đại chung sống cùng các vị tiên"
+    },
+    {
+      "num": 211,
+      "title": "Tinh thần xuất khiếu"
+    },
+    {
+      "num": 212,
+      "title": "Muốn săn giết người siêu phàm"
+    },
+    {
+      "num": 213,
+      "title": "Trận chiến siêu phàm đầu tiên trên Tân Tinh vội vã khép lại"
+    },
+    {
+      "num": 214,
+      "title": "Bàn luận sôi nổi và hủy diệt"
+    },
+    {
+      "num": 215,
+      "title": "Sự khinh miệt của bậc vương giả"
+    },
+    {
+      "num": 216,
+      "title": "Tư chất Địa Tiên"
+    },
+    {
+      "num": 217,
+      "title": "Trộm lấy nội cảnh"
+    },
+    {
+      "num": 218,
+      "title": "Sự kiện lớn mang tính bước ngoặt"
+    },
+    {
+      "num": 219,
+      "title": "Siêu phàm đã bại"
+    },
+    {
+      "num": 220,
+      "title": "Màn lớn vén mở"
+    },
+    {
+      "num": 221,
+      "title": "Phản kích siêu tài phiệt"
+    },
+    {
+      "num": 222,
+      "title": "Tiếng sấm kinh hoàng giữa đêm"
+    },
+    {
+      "num": 223,
+      "title": "Đầu tư vào Vương Huyên"
+    },
+    {
+      "num": 224,
+      "title": "Sánh ngang với truyền thuyết thời cổ đại"
+    },
+    {
+      "num": 225,
+      "title": "Cơn bão"
+    },
+    {
+      "num": 226,
+      "title": "Một đêm tiến thêm tám trăm dặm"
+    },
+    {
+      "num": 227,
+      "title": "Kẻ nội gián"
+    },
+    {
+      "num": 228,
+      "title": "Quyết chiến đã sẵn sàng"
+    },
+    {
+      "num": 229,
+      "title": "Đại chiến Mục Thành"
+    },
+    {
+      "num": 230,
+      "title": "Chiếm thế thượng phong trước"
+    },
+    {
+      "num": 231,
+      "title": "Đêm náo động"
+    },
+    {
+      "num": 232,
+      "title": "Trận quyết chiến rực rỡ"
+    },
+    {
+      "num": 233,
+      "title": "Có gì mà không dám"
+    },
+    {
+      "num": 234,
+      "title": "Kim Cang nổi giận, Bồ Tát cúi đầu"
+    },
+    {
+      "num": 235,
+      "title": "Kiếm chỉ thẳng vào nhà họ Tôn"
+    },
+    {
+      "num": 236,
+      "title": "Chân Kinh Thích Ca"
+    },
+    {
+      "num": 237,
+      "title": "Thế cục phức tạp"
+    },
+    {
+      "num": 238,
+      "title": "Cây muốn lặng mà gió chẳng ngừng"
+    },
+    {
+      "num": 239,
+      "title": "Chư Tiên Có Lời Mời"
+    },
+    {
+      "num": 240,
+      "title": "Bù đắp điểm yếu"
+    },
+    {
+      "num": 241,
+      "title": "Tích trữ lương thực"
+    },
+    {
+      "num": 242,
+      "title": "Xúc phạm thần linh"
+    },
+    {
+      "num": 243,
+      "title": "Bắt đầu cuộc săn rồng"
+    },
+    {
+      "num": 244,
+      "title": "Ai nấy đều vui"
+    },
+    {
+      "num": 245,
+      "title": "Đánh tan thần thoại"
+    },
+    {
+      "num": 246,
+      "title": "Hang rồng ổ cọp"
+    },
+    {
+      "num": 247,
+      "title": "Khiến các vị tiên động lòng"
+    },
+    {
+      "num": 248,
+      "title": "Tai họa của Liệt Tiên"
+    },
+    {
+      "num": 249,
+      "title": "Mẫu Hạm Khởi Động Lại"
+    },
+    {
+      "num": 250,
+      "title": "Ra tay trước chiếm thế thượng phong"
+    },
+    {
+      "num": 251,
+      "title": "Chủ nhân thực sự của kho báu bí mật nhà Tôn Gia"
+    },
+    {
+      "num": 252,
+      "title": "Kiếm Tiên Chết Rồi"
+    },
+    {
+      "num": 253,
+      "title": "Lại một con đường bí mật nữa"
+    },
+    {
+      "num": 254,
+      "title": "Thế giới bí ẩn"
+    },
+    {
+      "num": 255,
+      "title": "Siêu phàm trở về"
+    },
+    {
+      "num": 256,
+      "title": "Nhân gian đã đổi thay"
+    },
+    {
+      "num": 257,
+      "title": "Khởi Đầu Của Vạn Pháp"
+    },
+    {
+      "num": 258,
+      "title": "Tìm lối đi cho con đường siêu phàm"
+    },
+    {
+      "num": 259,
+      "title": "Bí khố đều đã bị chiếm giữ"
+    },
+    {
+      "num": 260,
+      "title": "Thiên hạ đã chẳng còn chốn bình yên"
+    },
+    {
+      "num": 261,
+      "title": "Gặp Tiên"
+    },
+    {
+      "num": 262,
+      "title": "Vệ sĩ tiên nhân"
+    },
+    {
+      "num": 263,
+      "title": "Thiên Dược"
+    },
+    {
+      "num": 264,
+      "title": "Bốn phương dậy sóng"
+    },
+    {
+      "num": 265,
+      "title": "Tiên huyết văng tung tóe"
+    },
+    {
+      "num": 266,
+      "title": "Dạy cho Liệt Tiên một bài học"
+    },
+    {
+      "num": 267,
+      "title": "Chém Đứt Tiên Mệnh"
+    },
+    {
+      "num": 268,
+      "title": "Thí Tiên"
+    },
+    {
+      "num": 269,
+      "title": "Can thiệp vào thế gian, ngược lại còn bị săn giết"
+    },
+    {
+      "num": 270,
+      "title": "Chương hai trăm bảy mươi: Chúng ta chính là ngươi của tương lai"
+    },
+    {
+      "num": 271,
+      "title": "Thế giới siêu phàm sụp đổ"
+    },
+    {
+      "num": 272,
+      "title": "Thứ đó thật sự xuất hiện rồi"
+    },
+    {
+      "num": 273,
+      "title": "Xung quanh toàn là những kẻ đáng gờm"
+    },
+    {
+      "num": 274,
+      "title": "Loại sinh vật giống Sợ Linh"
+    },
+    {
+      "num": 275,
+      "title": "Sắp tung con át chủ bài"
+    },
+    {
+      "num": 276,
+      "title": "Thứ hai trăm bảy mươi sáu chương: Quả nhiên… quân bài chủ lực!"
+    },
+    {
+      "num": 277,
+      "title": "Dùng kiếm chém chiến hạm"
+    },
+    {
+      "num": 278,
+      "title": "Dạy dỗ đến khi hiểu chuyện"
+    },
+    {
+      "num": 279,
+      "title": "Tiên Thai"
+    },
+    {
+      "num": 280,
+      "title": "Tu vi tăng tiến"
+    },
+    {
+      "num": 281,
+      "title": "Thế gian đẹp đến nao lòng"
+    },
+    {
+      "num": 282,
+      "title": "Tiên Giới"
+    },
+    {
+      "num": 283,
+      "title": "Thời đại mới, yêu quái mới, thần tiên mới"
+    },
+    {
+      "num": 284,
+      "title": "Mọi thứ đã sẵn sàng"
+    },
+    {
+      "num": 285,
+      "title": "Máu trời, mệnh trời"
+    },
+    {
+      "num": 286,
+      "title": "Con cá nhảy khỏi dòng sông, đổi lại số phận"
+    },
+    {
+      "num": 287,
+      "title": "Ma Thai"
+    },
+    {
+      "num": 288,
+      "title": "Thu hoạch lớn"
+    },
+    {
+      "num": 289,
+      "title": "Chương thứ hai trăm tám mươi chín: Ta là Trịnh Võ"
+    },
+    {
+      "num": 290,
+      "title": "Công tử vô song"
+    },
+    {
+      "num": 291,
+      "title": "Giáo tổ của thế giới hiện thực"
+    },
+    {
+      "num": 292,
+      "title": "Ngăn Cách Muôn Vật"
+    },
+    {
+      "num": 293,
+      "title": "Chương 293 Cuối cùng cũng được bước vào phòng sách của lão Chung"
+    },
+    {
+      "num": 294,
+      "title": "Vô số bí điển"
+    },
+    {
+      "num": 295,
+      "title": "Chí bảo nhập vào mệnh thổ"
+    },
+    {
+      "num": 296,
+      "title": "Ai đang đốt vàng mã bên ngoài màn đêm"
+    },
+    {
+      "num": 297,
+      "title": "Lái thuyền tiến vào vùng trời sâu"
+    },
+    {
+      "num": 298,
+      "title": "Yêu Ma Hoành Hành"
+    },
+    {
+      "num": 299,
+      "title": "Cảnh tượng máu tanh thời cổ đại tái hiện"
+    },
+    {
+      "num": 300,
+      "title": "Động tĩnh rất lớn"
+    },
+    {
+      "num": 301,
+      "title": "Đuổi cùng giết tận"
+    },
+    {
+      "num": 302,
+      "title": "Lạc lối giữa thời đại lớn"
+    },
+    {
+      "num": 303,
+      "title": "Nhà vợ cũ"
+    },
+    {
+      "num": 304,
+      "title": "Sát ý dâng trào"
+    },
+    {
+      "num": 305,
+      "title": "Khó lòng gặp lại"
+    },
+    {
+      "num": 306,
+      "title": "Thời đại biến đổi dữ dội"
+    },
+    {
+      "num": 307,
+      "title": "Định đường, đón sinh cơ"
+    },
+    {
+      "num": 308,
+      "title": "Thay trời đổi đất"
+    },
+    {
+      "num": 309,
+      "title": "Vùng đất hư vô, sự sống mới"
+    },
+    {
+      "num": 310,
+      "title": "Đóa hoa trường sinh vĩnh viễn không tàn úa"
+    },
+    {
+      "num": 311,
+      "title": "Tái tạo càn khôn"
+    },
+    {
+      "num": 312,
+      "title": "Thiên hạ diệt yêu"
+    },
+    {
+      "num": 313,
+      "title": "Thiên hạ hưởng ứng (Xin vé tháng bảo đảm!)"
+    },
+    {
+      "num": 314,
+      "title": "Con gái của Vương Huyên"
+    },
+    {
+      "num": 315,
+      "title": "Trở về quê cũ"
+    },
+    {
+      "num": 316,
+      "title": "Hạt giống mùa xuân, tiên nữ mùa thu"
+    },
+    {
+      "num": 317,
+      "title": "Cưới đi"
+    },
+    {
+      "num": 318,
+      "title": "Vén Màn Bí Ẩn"
+    },
+    {
+      "num": 319,
+      "title": "Bình thản nhìn xuống"
+    },
+    {
+      "num": 320,
+      "title": "Chương ba trăm hai mươi: Lại rung chuyển!"
+    },
+    {
+      "num": 321,
+      "title": "Trương, Yêu, Phương cũng bị chấn động"
+    },
+    {
+      "num": 322,
+      "title": "Ảnh Hưởng Đến Tất Cả"
+    },
+    {
+      "num": 323,
+      "title": "Chiếu vào hiện thực"
+    },
+    {
+      "num": 324,
+      "title": "Đến lúc ra tay thì phải ra tay"
+    },
+    {
+      "num": 325,
+      "title": "Hóa Kiếp"
+    },
+    {
+      "num": 326,
+      "title": "Thành tiên chẳng khác nào cỏ dại dưới ngọn lửa kiếp nạn"
+    },
+    {
+      "num": 327,
+      "title": "Địa Tiên"
+    },
+    {
+      "num": 328,
+      "title": "Yêu Hoàng gặp Lão Trương"
+    },
+    {
+      "num": 329,
+      "title": "Phương Vũ Trúc"
+    },
+    {
+      "num": 330,
+      "title": "Khế Ước Mới Của Hiện Thế"
+    },
+    {
+      "num": 331,
+      "title": "Ước hẹn Vương bản sơ khởi"
+    },
+    {
+      "num": 332,
+      "title": "Lặng lẽ khai thiên lập địa"
+    },
+    {
+      "num": 333,
+      "title": "Cuộn Tranh Vàng Lưu Danh Vương"
+    },
+    {
+      "num": 334,
+      "title": "Đơn Đấu Với Cả Thế Giới"
+    },
+    {
+      "num": 335,
+      "title": "Vương đại nhân có chỉ số thù hận tăng vọt"
+    },
+    {
+      "num": 336,
+      "title": "Thế giới mới nơi dị vực"
+    },
+    {
+      "num": 337,
+      "title": "Mạnh hơn cả Ma Tổ"
+    },
+    {
+      "num": 338,
+      "title": "Tận cùng của ngọn lửa thần thoại"
+    },
+    {
+      "num": 339,
+      "title": "Giao lưu với một nền văn minh thần thoại khác"
+    },
+    {
+      "num": 340,
+      "title": "Kinh văn làm củi, văn minh hóa thành ngọn lửa"
+    },
+    {
+      "num": 341,
+      "title": "Xưa nay chỉ có một người"
+    },
+    {
+      "num": 342,
+      "title": "Tranh Đạo"
+    },
+    {
+      "num": 343,
+      "title": "Lấy dao cắt thịt, ngâm thơ tỏ chí"
+    },
+    {
+      "num": 344,
+      "title": "Tặng một tiên tử, chút lòng thành chẳng đáng là bao"
+    },
+    {
+      "num": 345,
+      "title": "Ước Nguyện Thiên Hạ Vô Địch"
+    },
+    {
+      "num": 346,
+      "title": "Ao Máu Lôi Trạch"
+    },
+    {
+      "num": 347,
+      "title": "Đến lúc làm rung chuyển một phen rồi"
+    },
+    {
+      "num": 348,
+      "title": "Thảm kịch cả đám cùng tụt cấp"
+    },
+    {
+      "num": 349,
+      "title": "Uy Chấn Thiên"
+    },
+    {
+      "num": 350,
+      "title": "Trong nhà có mỏ tiên"
+    },
+    {
+      "num": 351,
+      "title": "Giết một nghìn ba trăm hai mươi bảy lần"
+    },
+    {
+      "num": 352,
+      "title": "Đến vì ngôi vương"
+    },
+    {
+      "num": 353,
+      "title": "Vương giả quái vật của Nhân tộc, ai dám tranh phong"
+    },
+    {
+      "num": 354,
+      "title": "Chém đầu pháp thân Yêu Hoàng"
+    },
+    {
+      "num": 355,
+      "title": "Kiếm Luân Chém Quần Hùng"
+    },
+    {
+      "num": 356,
+      "title": "Điệu múa của yêu tiên"
+    },
+    {
+      "num": 357,
+      "title": "Lá Cờ Chém Thân"
+    },
+    {
+      "num": 358,
+      "title": "Tuyệt Thế"
+    },
+    {
+      "num": 359,
+      "title": "Khiêu vũ cùng ba đống lửa của ba vị Vương đáng sợ"
+    },
+    {
+      "num": 360,
+      "title": "Kẻ đến xưng tôn làm tổ"
+    },
+    {
+      "num": 361,
+      "title": "Di tích tinh thần"
+    },
+    {
+      "num": 362,
+      "title": "Chiếu sáng bầu trời đêm siêu phàm"
+    },
+    {
+      "num": 363,
+      "title": "Địa ngục tinh thần"
+    },
+    {
+      "num": 364,
+      "title": "Thần câu cô độc vô địch"
+    },
+    {
+      "num": 365,
+      "title": "Báu vật tối thượng dưới đống tro tàn"
+    },
+    {
+      "num": 366,
+      "title": "Cửa ải cuối cùng, một bước vượt lên bất hủ"
+    },
+    {
+      "num": 367,
+      "title": "Nơi cả nền văn minh thần thoại cùng bay lên"
+    },
+    {
+      "num": 368,
+      "title": "Sự thật về nguồn gốc thần thoại"
+    },
+    {
+      "num": 369,
+      "title": "Trồng thuốc trời trong hố thiên thạch"
+    },
+    {
+      "num": 370,
+      "title": "Gặp nhau nơi hư vô"
+    },
+    {
+      "num": 371,
+      "title": "Giấc mộng lớn soi chiếu hiện thực"
+    },
+    {
+      "num": 372,
+      "title": "Có thể bước vào chốn khuê phòng, cũng có thể ra ngoài gánh vác đại sự"
+    },
+    {
+      "num": 373,
+      "title": "Giết được tuyệt thế"
+    },
+    {
+      "num": 374,
+      "title": "Kết hợp chính và kỳ"
+    },
+    {
+      "num": 375,
+      "title": "Có thể xuống bếp nấu ăn"
+    },
+    {
+      "num": 376,
+      "title": "Ghế dành cho các cặp đôi"
+    },
+    {
+      "num": 377,
+      "title": "Cũng từng có một người mở ra nội cảnh đặc biệt"
+    },
+    {
+      "num": 378,
+      "title": "Nguyện cùng năm cùng tháng cùng ngày chết"
+    },
+    {
+      "num": 379,
+      "title": "Bạn cùng phòng của tôi là thiên tiên"
+    },
+    {
+      "num": 380,
+      "title": "Lão câu cá thả mồi trên mặt trăng sắp phá sản"
+    },
+    {
+      "num": 381,
+      "title": "Người xưa từ thời thượng cổ tìm đến"
+    },
+    {
+      "num": 382,
+      "title": "Quán rượu thời không hỗn loạn"
+    },
+    {
+      "num": 383,
+      "title": "Bắc Băng Dương năm 1982"
+    },
+    {
+      "num": 384,
+      "title": "Nguồn gốc bản chất của siêu phàm xuất hiện"
+    },
+    {
+      "num": 385,
+      "title": "Sinh một đứa con đi"
+    },
+    {
+      "num": 386,
+      "title": "Vực sâu nuốt chửng thần thoại"
+    },
+    {
+      "num": 387,
+      "title": "Giáo tổ họ Vương phá cửa ải"
+    },
+    {
+      "num": 388,
+      "title": "Đời người có điều hối tiếc"
+    },
+    {
+      "num": 389,
+      "title": "Dưới gầm trời này, đâu chẳng là đất của vua"
+    },
+    {
+      "num": 390,
+      "title": "Ý hứng phai tàn"
+    },
+    {
+      "num": 391,
+      "title": "Hơi ngà say"
+    },
+    {
+      "num": 392,
+      "title": "Ngàn năm tu được cùng…"
+    },
+    {
+      "num": 393,
+      "title": "Chí bảo run rẩy"
+    },
+    {
+      "num": 394,
+      "title": "Tấm lòng rộng lớn"
+    },
+    {
+      "num": 395,
+      "title": "Hồng Trần Có Duyên"
+    },
+    {
+      "num": 396,
+      "title": "Bát canh nấm độc của dì Vương, thứ có thể đầu độc cả những vị tiên tuyệt thế"
+    },
+    {
+      "num": 397,
+      "title": "Tuyến trên tuyến dưới đều đang đánh Trịnh Tuyệt Thế"
+    },
+    {
+      "num": 398,
+      "title": "Kiếm Tiên Tử lại gặp độc thủ"
+    },
+    {
+      "num": 399,
+      "title": "Tiên Giới"
+    },
+    {
+      "num": 400,
+      "title": "Cả thế giới đều phát điên"
+    },
+    {
+      "num": 401,
+      "title": "Tân Ước chém tuyệt thế"
+    },
+    {
+      "num": 402,
+      "title": "Hội chứng sợ chí bảo của lão Trịnh"
+    },
+    {
+      "num": 403,
+      "title": "Tương lai khó lường"
+    },
+    {
+      "num": 404,
+      "title": "Lên mộ lão Trịnh"
+    },
+    {
+      "num": 405,
+      "title": "Không tìm thấy người này"
+    },
+    {
+      "num": 406,
+      "title": "Con tàu cổ đến từ vùng sâu thẳm vũ trụ"
+    },
+    {
+      "num": 407,
+      "title": "Tiên Đô đã chết"
+    },
+    {
+      "num": 408,
+      "title": "Song phi cùng cánh"
+    },
+    {
+      "num": 409,
+      "title": "Ấu thể Vương Huyên"
+    },
+    {
+      "num": 410,
+      "title": "Vị khách quý đến từ thế giới bên ngoài"
+    },
+    {
+      "num": 411,
+      "title": "Một tay giết rồng"
+    },
+    {
+      "num": 412,
+      "title": "Nền văn minh mới"
+    },
+    {
+      "num": 413,
+      "title": "Nhân vật nổi tiếng trên bảng đen"
+    },
+    {
+      "num": 414,
+      "title": "Nguồn gốc chân thực không tồn tại, hay chưa từng rời xa chúng ta"
+    },
+    {
+      "num": 415,
+      "title": "Hồi kết cuộc va chạm đầu tiên giữa các nền văn minh"
+    },
+    {
+      "num": 416,
+      "title": "Rời đi và biến cố bất thường"
+    },
+    {
+      "num": 417,
+      "title": "Đêm nay không ngủ"
+    },
+    {
+      "num": 418,
+      "title": "Thổi tan màn sương, tiến gần đến chân tướng"
+    },
+    {
+      "num": 419,
+      "title": "Bận lòng chuyện hôn nhân"
+    },
+    {
+      "num": 420,
+      "title": "Người chống lại giao ước cũ mà vẫn sống sót"
+    },
+    {
+      "num": 421,
+      "title": "Chí bảo trấn áp thế gian"
+    },
+    {
+      "num": 422,
+      "title": "Ai mới là người quyết định ở nhân gian"
+    },
+    {
+      "num": 423,
+      "title": "Ai mới là người quyết định vận mệnh của chư tiên"
+    },
+    {
+      "num": 424,
+      "title": "Đêm giết chóc"
+    },
+    {
+      "num": 425,
+      "title": "Đạo lữ siêu tuyệt thế"
+    },
+    {
+      "num": 426,
+      "title": "Hoa Hồng Trắng, Hoa Hồng Đỏ"
+    },
+    {
+      "num": 427,
+      "title": "Tìm cầu bản thân"
+    },
+    {
+      "num": 428,
+      "title": "Lĩnh Vực Cấm Kỵ"
+    },
+    {
+      "num": 429,
+      "title": "Người thật đã xuất hiện"
+    },
+    {
+      "num": 430,
+      "title": "Nghĩ kỹ mới thấy đáng sợ"
+    },
+    {
+      "num": 431,
+      "title": "Bản thân cũng bị chứng minh là không tồn tại"
+    },
+    {
+      "num": 432,
+      "title": "Tâm thái sụp đổ"
+    },
+    {
+      "num": 433,
+      "title": "Cự long và con kiến"
+    },
+    {
+      "num": 434,
+      "title": "Chém đứt ánh sáng tâm linh"
+    },
+    {
+      "num": 435,
+      "title": "Hóa hư thành thực, chân tướng"
+    },
+    {
+      "num": 436,
+      "title": "Bông hoa trong lòng"
+    },
+    {
+      "num": 437,
+      "title": "Đứng ở tuyến đầu của lý thuyết thần thoại"
+    },
+    {
+      "num": 438,
+      "title": "Giấc mộng đã tỉnh"
+    },
+    {
+      "num": 439,
+      "title": "Cuộc biến đổi của thời đại lớn bắt đầu lộ diện"
+    },
+    {
+      "num": 440,
+      "title": "Viễn Chinh Bằng Chiến Hạm"
+    },
+    {
+      "num": 441,
+      "title": "Thần thoại đại bại"
+    },
+    {
+      "num": 442,
+      "title": "Kẻ biến ước mơ thành hiện thực"
+    },
+    {
+      "num": 443,
+      "title": "Lời kể của kẻ săn cá voi"
+    },
+    {
+      "num": 444,
+      "title": "Cá Voi Chết, Vạn Vật Sinh"
+    },
+    {
+      "num": 445,
+      "title": "Con ngựa trở về nhân gian"
+    },
+    {
+      "num": 446,
+      "title": "Gặp lại nơi mật địa"
+    },
+    {
+      "num": 447,
+      "title": "Không có ý tốt"
+    },
+    {
+      "num": 448,
+      "title": "Đón các cô trở về nhà"
+    },
+    {
+      "num": 449,
+      "title": "Hiện Thế Mục Nát"
+    },
+    {
+      "num": 450,
+      "title": "Một lần ra đi, đã là hơn hai nghìn năm"
+    },
+    {
+      "num": 451,
+      "title": "Người bạn hay người yêu"
+    },
+    {
+      "num": 452,
+      "title": "Sinh một đứa con mang huyết mạch siêu phàm đi!"
+    },
+    {
+      "num": 453,
+      "title": "Con tàu mới lên đường"
+    },
+    {
+      "num": 454,
+      "title": "Không nhịn được mà xoa đầu chó"
+    },
+    {
+      "num": 455,
+      "title": "Vũ trụ mà chư tiên không thể quản tới"
+    },
+    {
+      "num": 456,
+      "title": "Vùng đất bất tử"
+    },
+    {
+      "num": 457,
+      "title": "Cường giả nổi danh của Đế Cung lần lượt ngã xuống"
+    },
+    {
+      "num": 458,
+      "title": "Hạt Giống Được Chú Ý – Địa Ngục Cấp"
+    },
+    {
+      "num": 459,
+      "title": "Thành thần hay cưới vợ sinh con"
+    },
+    {
+      "num": 460,
+      "title": "Độc nhất vô nhị"
+    },
+    {
+      "num": 461,
+      "title": "Cuốn Sách Năm Tháng"
+    },
+    {
+      "num": 462,
+      "title": "Kẻ phá giới cùng săn giết cường giả tuyệt đỉnh"
+    },
+    {
+      "num": 463,
+      "title": "Những năm tháng tuyệt vọng cuối thời thần thoại"
+    },
+    {
+      "num": 464,
+      "title": "Cầu Bại Không Lời Giải"
+    },
+    {
+      "num": 465,
+      "title": "Nguồn cội duy nhất của siêu phàm"
+    },
+    {
+      "num": 466,
+      "title": "Xé bỏ giao ước cũ"
+    },
+    {
+      "num": 467,
+      "title": "Đại hội cũng là con mồi"
+    },
+    {
+      "num": 468,
+      "title": "Tất Cả Đều Là Thợ Săn Đỉnh Cao"
+    },
+    {
+      "num": 469,
+      "title": "Đại loạn trong giới siêu phàm"
+    },
+    {
+      "num": 470,
+      "title": "Chiếc vòng gia truyền là báu vật tối cao"
+    },
+    {
+      "num": 471,
+      "title": "Săn giết thần linh tối cao"
+    },
+    {
+      "num": 472,
+      "title": "Vương Huyên giết thần"
+    },
+    {
+      "num": 473,
+      "title": "Trên Thần Cảm, không có lời giải"
+    },
+    {
+      "num": 474,
+      "title": "Mười hai đoạn đường chưa từng có ai đặt chân"
+    },
+    {
+      "num": 475,
+      "title": "Chưa từng có tiền lệ"
+    },
+    {
+      "num": 476,
+      "title": "Kẻ thất bại được muôn người chú ý"
+    },
+    {
+      "num": 477,
+      "title": "Một Đao Chém Đôi Thần Minh Tối Cường"
+    },
+    {
+      "num": 478,
+      "title": "Thời loạn thần thoại"
+    },
+    {
+      "num": 479,
+      "title": "Đứng đầu bảng chiến tích"
+    },
+    {
+      "num": 480,
+      "title": "Thoái ẩn, từ nay không còn gặp lại chốn giang hồ"
+    },
+    {
+      "num": 481,
+      "title": "Khoa chỉnh hình hay khoa thần kinh"
+    },
+    {
+      "num": 482,
+      "title": "Ngọt ngào đến mức phát ngấy"
+    },
+    {
+      "num": 483,
+      "title": "Tiếng ve kêu một đời, chẳng qua chỉ là một mùa thu"
+    },
+    {
+      "num": 484,
+      "title": "Chí bảo đã có chủ"
+    },
+    {
+      "num": 485,
+      "title": "Tiến gần đến nguồn gốc chân thực, bắt sống sinh vật"
+    },
+    {
+      "num": 486,
+      "title": "Sắp bước vào Niết Bàn lần thứ mười ba"
+    },
+    {
+      "num": 487,
+      "title": "Bí mật của chí bảo Dưỡng Sinh Lô"
+    },
+    {
+      "num": 488,
+      "title": "Ai có thể kiềm chế hắn ở nhân gian (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 489,
+      "title": "Một mình đối mặt với ác long"
+    },
+    {
+      "num": 490,
+      "title": "Đại chiến trong nội cảnh địa"
+    },
+    {
+      "num": 491,
+      "title": "Siêu Tuyệt Thế bỏ mạng"
+    },
+    {
+      "num": 492,
+      "title": "Ai đang đồ long"
+    },
+    {
+      "num": 493,
+      "title": "Đón Kiếm Tiên Tử"
+    },
+    {
+      "num": 494,
+      "title": "Đệ nhất nhân cận cổ, Khương Thanh Dao"
+    },
+    {
+      "num": 495,
+      "title": "Thắng lớn rồi"
+    },
+    {
+      "num": 496,
+      "title": "Trong mắt ánh lên ánh sáng nóng bỏng"
+    },
+    {
+      "num": 497,
+      "title": "Thiên Hạ Đệ Nhất Kiếm Kinh"
+    },
+    {
+      "num": 498,
+      "title": "Một lớn một nhỏ"
+    },
+    {
+      "num": 499,
+      "title": "Con gái của Vương"
+    },
+    {
+      "num": 500,
+      "title": "Không ai cưỡng lại nổi sức hấp dẫn của việc trẻ mãi không già"
+    },
+    {
+      "num": 501,
+      "title": "Không hề đề phòng"
+    },
+    {
+      "num": 502,
+      "title": "Tặng Yêu Chủ một nụ cười rạng rỡ"
+    },
+    {
+      "num": 503,
+      "title": "Đệ đệ này không nên giữ lại lâu"
+    },
+    {
+      "num": 504,
+      "title": "Ngọn núi Bất Chu, hồ máu tinh thần"
+    },
+    {
+      "num": 505,
+      "title": "Chủ nhân của Mạc Thiên Kính"
+    },
+    {
+      "num": 506,
+      "title": "Ngã rẽ thần thoại"
+    },
+    {
+      "num": 507,
+      "title": "Đối đầu bằng chí bảo"
+    },
+    {
+      "num": 508,
+      "title": "Yêu Chủ là chiếc áo bông nhỏ đen lòng của các người sao?"
+    },
+    {
+      "num": 509,
+      "title": "Chị em ruột hay chồng nuôi từ bé?"
+    },
+    {
+      "num": 510,
+      "title": "Hoàng hôn của siêu phàm không gì ngăn nổi"
+    },
+    {
+      "num": 511,
+      "title": "Đại Kết Giới Sụp Đổ"
+    },
+    {
+      "num": 512,
+      "title": "Hồi kết"
+    },
+    {
+      "num": 513,
+      "title": "Cùng bàn bạc con đường thần thoại mới"
+    },
+    {
+      "num": 514,
+      "title": "Ngự Đạo"
+    },
+    {
+      "num": 515,
+      "title": "Kiếm Tử Tiêu Hợp Đạo"
+    },
+    {
+      "num": 516,
+      "title": "Ngự Khắp Vạn Đạo Trong Thiên Hạ"
+    },
+    {
+      "num": 517,
+      "title": "Phiêu bạt giữa biển sao"
+    },
+    {
+      "num": 518,
+      "title": "Nguyên Thần Bất Diệt"
+    },
+    {
+      "num": 519,
+      "title": "Ác Long ngửa bài"
+    },
+    {
+      "num": 520,
+      "title": "Vì tất cả những người siêu phàm của thời đại này"
+    },
+    {
+      "num": 521,
+      "title": "Chiến trường khác"
+    },
+    {
+      "num": 522,
+      "title": "Quyết chiến đến cùng"
+    },
+    {
+      "num": 523,
+      "title": "Chém Huyên hay Đồ Long"
+    },
+    {
+      "num": 524,
+      "title": "Vạn Linh Phục Thiên"
+    },
+    {
+      "num": 525,
+      "title": "Địa Ngục"
+    },
+    {
+      "num": 526,
+      "title": "Chưa từng hối hận"
+    },
+    {
+      "num": 527,
+      "title": "Đập chết hắn"
+    },
+    {
+      "num": 528,
+      "title": "Kẻ giết rồng không phải ác long"
+    },
+    {
+      "num": 529,
+      "title": "Tai họa Sấm Linh"
+    },
+    {
+      "num": 530,
+      "title": "Danh tiếng lẫy lừng và nguy cơ lớn nhất"
+    },
+    {
+      "num": 531,
+      "title": "Đệ Ngũ Bách Tam Thập Nhất Chương: Chí Thần Chí Thánh Chí Hung"
+    },
+    {
+      "num": 532,
+      "title": "Thời đại cũ khép lại"
+    },
+    {
+      "num": 533,
+      "title": "Thần thoại vĩnh viễn lụi tàn"
+    },
+    {
+      "num": 534,
+      "title": "Sau Nội Cảnh"
+    },
+    {
+      "num": 535,
+      "title": "Tro tàn của đống lửa tối cao"
+    },
+    {
+      "num": 536,
+      "title": "Nơi khởi nguồn của đại kết giới"
+    },
+    {
+      "num": 537,
+      "title": "Con đường bí mật ngoài thế gian được lát bằng máu thần tối cao"
+    },
+    {
+      "num": 538,
+      "title": "Con đường dẫn đến thế giới siêu phàm"
+    },
+    {
+      "num": 539,
+      "title": "Ánh sáng rực rỡ cuối cùng của thời đại siêu phàm"
+    },
+    {
+      "num": 540,
+      "title": "Sau khi vũ trụ lớn sửa lại sai lệch, con đường phía trước sẽ đi về đâu?"
+    },
+    {
+      "num": 541,
+      "title": "Con trai"
+    },
+    {
+      "num": 542,
+      "title": "Con đường khác"
+    },
+    {
+      "num": 543,
+      "title": "Điệu múa cuối cùng nơi nhân gian"
+    },
+    {
+      "num": 544,
+      "title": "Biển Mẹ Đại Đạo"
+    },
+    {
+      "num": 545,
+      "title": "Ngấu nghiến chờ ăn"
+    },
+    {
+      "num": 546,
+      "title": "Kẻ thù đứng sau thời đại này"
+    },
+    {
+      "num": 547,
+      "title": "Những kẻ tàn nhẫn đã tranh đấu suốt ba nghìn năm"
+    },
+    {
+      "num": 548,
+      "title": "Khép lại thiên truyện cũ (Đêm giao thừa tiễn năm cũ, chúc mọi người đại cát đại lợi)"
+    },
+    {
+      "num": 549,
+      "title": "Mỗi người một ngả"
+    },
+    {
+      "num": 550,
+      "title": "Không còn dấu vết"
+    },
+    {
+      "num": 551,
+      "title": "Hôn lễ"
+    },
+    {
+      "num": 552,
+      "title": "Chí Bảo Tiêu Dao Chu Run Rẩy"
+    },
+    {
+      "num": 553,
+      "title": "Ba năm"
+    },
+    {
+      "num": 554,
+      "title": "Thiên địa phía sau đường hầm thiên thạch"
+    },
+    {
+      "num": 555,
+      "title": "Tỉnh giấc"
+    },
+    {
+      "num": 556,
+      "title": "Thiên chương mới – Thời đại đã khác"
+    },
+    {
+      "num": 557,
+      "title": "Bí bảo thần bí xuất thế"
+    },
+    {
+      "num": 558,
+      "title": "Năm tháng xóa đi chuyện cũ"
+    },
+    {
+      "num": 559,
+      "title": "Ánh huy hoàng cuối cùng"
+    },
+    {
+      "num": 560,
+      "title": "Ngựa không dừng vó"
+    },
+    {
+      "num": 561,
+      "title": "Giải quyết xong một tâm nguyện"
+    },
+    {
+      "num": 562,
+      "title": "Trở về quỹ đạo vốn có của thế giới"
+    },
+    {
+      "num": 563,
+      "title": "Hiện thực"
+    },
+    {
+      "num": 564,
+      "title": "Thần du thực sự"
+    },
+    {
+      "num": 565,
+      "title": "Cõi hồng trần, đâu đâu cũng là cảnh đẹp"
+    },
+    {
+      "num": 566,
+      "title": "Người phi phàm sống sót qua đêm đông giá rét của thời đại siêu phàm"
+    },
+    {
+      "num": 567,
+      "title": "Dạo bước giữa vũ trụ"
+    },
+    {
+      "num": 568,
+      "title": "Vùng đất kỳ lạ"
+    },
+    {
+      "num": 569,
+      "title": "Chí Cao Thần"
+    },
+    {
+      "num": 570,
+      "title": "Thế giới thay đổi quá nhanh"
+    },
+    {
+      "num": 571,
+      "title": "Chương mới – Một trong những cội nguồn văn minh hàng đầu"
+    },
+    {
+      "num": 572,
+      "title": "Mưu đồ lớn lao"
+    },
+    {
+      "num": 573,
+      "title": "Vùng đất trọng yếu của Ngự Đạo"
+    },
+    {
+      "num": 574,
+      "title": "Cuộc đối đầu giữa những chí bảo Ngự Đạo"
+    },
+    {
+      "num": 575,
+      "title": "Có được ắt có mất"
+    },
+    {
+      "num": 576,
+      "title": "Thiên 28: Gió nổi mây vần"
+    },
+    {
+      "num": 577,
+      "title": "Trở về thế giới hiện thực"
+    },
+    {
+      "num": 578,
+      "title": "Vô tình vô nghĩa"
+    },
+    {
+      "num": 579,
+      "title": "Cội nguồn chân thực"
+    },
+    {
+      "num": 580,
+      "title": "Sớm ngày thoát ế"
+    },
+    {
+      "num": 581,
+      "title": "Đánh xuyên đại vũ trụ"
+    },
+    {
+      "num": 582,
+      "title": "Ngày cưới đã định"
+    },
+    {
+      "num": 583,
+      "title": "Thiên Ngoại Có Địch Đến"
+    },
+    {
+      "num": 584,
+      "title": "Máu thiêu đốt"
+    },
+    {
+      "num": 585,
+      "title": "Chư thần thức tỉnh"
+    },
+    {
+      "num": 586,
+      "title": "Đại quân áp sát"
+    },
+    {
+      "num": 587,
+      "title": "Kết thúc huy hoàng"
+    },
+    {
+      "num": 588,
+      "title": "Thiên thần đầy trời, trận chiến cuối cùng tại Thần Tiên Quán"
+    },
+    {
+      "num": 589,
+      "title": "Chí bảo run rẩy"
+    },
+    {
+      "num": 590,
+      "title": "Trận đại chiến trong đêm đen mùa đông siêu phàm"
+    },
+    {
+      "num": 591,
+      "title": "Nguyên thần trở về, giết địch"
+    },
+    {
+      "num": 592,
+      "title": "Thần thoại va chạm với khoa học kỹ thuật"
+    },
+    {
+      "num": 593,
+      "title": "Một người chính là thần thoại"
+    },
+    {
+      "num": 594,
+      "title": "Báu vật tối cao bị hủy hoại"
+    },
+    {
+      "num": 595,
+      "title": "Trận chiến cuối cùng khép lại"
+    },
+    {
+      "num": 596,
+      "title": "Sau trận chiến"
+    },
+    {
+      "num": 597,
+      "title": "Con đường mới"
+    },
+    {
+      "num": 598,
+      "title": "Chuẩn bị cho hôn lễ"
+    },
+    {
+      "num": 599,
+      "title": "Vùng đất chết bị hủy diệt"
+    },
+    {
+      "num": 600,
+      "title": "Hôn lễ vẫn diễn ra đúng hẹn"
+    },
+    {
+      "num": 601,
+      "title": "Thành hôn"
+    },
+    {
+      "num": 602,
+      "title": "Ngủ xuân chẳng biết trời sáng"
+    },
+    {
+      "num": 603,
+      "title": "Lắng nghe những lời cấm kỵ"
+    },
+    {
+      "num": 604,
+      "title": "Mùa đông khắc nghiệt đã đến"
+    },
+    {
+      "num": 605,
+      "title": "Sân khấu lớn dần hiện ra từ màn sương"
+    },
+    {
+      "num": 606,
+      "title": "Kẻ Trải Nghiệm và Kẻ Sa Đọa cùng xuất hiện"
+    },
+    {
+      "num": 607,
+      "title": "Nghề nghiệp nguy hiểm"
+    },
+    {
+      "num": 608,
+      "title": "Cổ Kim, đứng thứ tư trong lịch sử"
+    },
+    {
+      "num": 609,
+      "title": "Vòng lặp kỳ dị trên Mặt Trăng"
+    },
+    {
+      "num": 610,
+      "title": "Chiếc hộp gỗ đen đáng sợ"
+    },
+    {
+      "num": 611,
+      "title": "Thiên truyện – Chương 64: Thế giới khởi động lại hai lần"
+    },
+    {
+      "num": 612,
+      "title": "Mạnh đến mức chẳng có đối thủ"
+    },
+    {
+      "num": 613,
+      "title": "Nguyên thần và thân xác hợp làm một"
+    },
+    {
+      "num": 614,
+      "title": "Đại hội Dao Trì lần đầu"
+    },
+    {
+      "num": 615,
+      "title": "Con cái sắp chào đời"
+    },
+    {
+      "num": 616,
+      "title": "Sự bình thường không bình thường"
+    },
+    {
+      "num": 617,
+      "title": "Ra đi thanh thản"
+    },
+    {
+      "num": 618,
+      "title": "Toàn là đám câu cá lão luyện"
+    },
+    {
+      "num": 619,
+      "title": "Cả giáo phái cùng bay lên tiên"
+    },
+    {
+      "num": 620,
+      "title": "Thiên 73: Loạn và đau thương"
+    },
+    {
+      "num": 621,
+      "title": "Bao vây tiêu diệt"
+    },
+    {
+      "num": 622,
+      "title": "Lang thang giữa tinh không"
+    },
+    {
+      "num": 623,
+      "title": "Từng chứng tỏ bản thân tại trung tâm thế giới siêu phàm"
+    },
+    {
+      "num": 624,
+      "title": "Sóng săn cá voi nổi lên"
+    },
+    {
+      "num": 625,
+      "title": "Trận chiến đầu tiên giữa hai vũ trụ"
+    },
+    {
+      "num": 626,
+      "title": "Kiếm tiên quyết đấu sinh mệnh cơ giới"
+    },
+    {
+      "num": 627,
+      "title": "Tam Tuyệt Thiên"
+    },
+    {
+      "num": 628,
+      "title": "Thần thoại chính là khoa học kỹ thuật"
+    },
+    {
+      "num": 629,
+      "title": "Nỗi đau của con người, Đại Xích Thiên Đao thất bại"
+    },
+    {
+      "num": 630,
+      "title": "Gió lớn nổi lên giữa vũ trụ"
+    },
+    {
+      "num": 631,
+      "title": "Mục đích thực sự"
+    },
+    {
+      "num": 632,
+      "title": "Truyền thuyết hóa thành hiện thực"
+    },
+    {
+      "num": 633,
+      "title": "Vũ trụ trò chơi chân thực"
+    },
+    {
+      "num": 634,
+      "title": "Sự thật về những kẻ trải nghiệm"
+    },
+    {
+      "num": 635,
+      "title": "Đâm chết hết thảy"
+    },
+    {
+      "num": 636,
+      "title": "Không thần ma nào không thể chém giết"
+    },
+    {
+      "num": 637,
+      "title": "Lấy Chí Bảo Làm Vật Tế"
+    },
+    {
+      "num": 638,
+      "title": "Dâng nhầm lễ, trao nhầm tình"
+    },
+    {
+      "num": 639,
+      "title": "Chương mới 92: Người trải nghiệm lão Vương"
+    },
+    {
+      "num": 640,
+      "title": "Tất cả đều chết bất đắc kỳ tử"
+    },
+    {
+      "num": 641,
+      "title": "Giữa phồn hoa rực rỡ, trăng lặn không tiếng động"
+    },
+    {
+      "num": 642,
+      "title": "Báo tin khắp vũ trụ"
+    },
+    {
+      "num": 643,
+      "title": "Mười vạn người tụ hội, mở cánh cửa trời"
+    },
+    {
+      "num": 644,
+      "title": "Đạo lý phải dùng chiến trận để giành lấy"
+    },
+    {
+      "num": 645,
+      "title": "Vật cấm giết đến phát điên"
+    },
+    {
+      "num": 646,
+      "title": "Thế giới phía sau cánh cửa"
+    },
+    {
+      "num": 647,
+      "title": "Mười vạn tiên ma viễn chinh"
+    },
+    {
+      "num": 648,
+      "title": "Chí bảo hóa hình"
+    },
+    {
+      "num": 649,
+      "title": "Thế giới tinh thần tối cao"
+    },
+    {
+      "num": 650,
+      "title": "Thời gian cuốn đi một thế hệ"
+    },
+    {
+      "num": 651,
+      "title": "Săn tìm chí bảo"
+    },
+    {
+      "num": 652,
+      "title": "Sinh linh vô địch"
+    },
+    {
+      "num": 653,
+      "title": "Thời khắc sinh tử"
+    },
+    {
+      "num": 654,
+      "title": "Ngọt ngào"
+    },
+    {
+      "num": 655,
+      "title": "Đánh gãy một chân của chí bảo"
+    },
+    {
+      "num": 656,
+      "title": "Truy sát hạng ba của Thế giới Trung Ương"
+    },
+    {
+      "num": 657,
+      "title": "Ký Ức Nhục Nhã Của Chí Bảo"
+    },
+    {
+      "num": 658,
+      "title": "Sáu vị bá chủ vượt giới"
+    },
+    {
+      "num": 659,
+      "title": "Con đường tinh tú của Tân Thánh"
+    },
+    {
+      "num": 660,
+      "title": "Dưỡng Sinh Chủ"
+    },
+    {
+      "num": 661,
+      "title": "Năm tháng vô tình, đời người trăm năm"
+    },
+    {
+      "num": 662,
+      "title": "Điểm cuối cuộc đời của một thế hệ"
+    },
+    {
+      "num": 663,
+      "title": "Chư tiên cũng có điều hối tiếc"
+    },
+    {
+      "num": 664,
+      "title": "Lại đến lúc liều mạng tranh giành tương lai"
+    },
+    {
+      "num": 665,
+      "title": "Ngồi xe lăn cũng phải thành tiên"
+    },
+    {
+      "num": 666,
+      "title": "Tạm biệt những người bạn cũ"
+    },
+    {
+      "num": 667,
+      "title": "Thế gian thanh tĩnh"
+    },
+    {
+      "num": 668,
+      "title": "Cha mẹ của người phi thường"
+    },
+    {
+      "num": 669,
+      "title": "Cẩn thận với chí bảo"
+    },
+    {
+      "num": 670,
+      "title": "Gặp lại nữ thần Triệu"
+    },
+    {
+      "num": 671,
+      "title": "Vùng đất không luật lệ"
+    },
+    {
+      "num": 672,
+      "title": "Con đường thứ tư"
+    },
+    {
+      "num": 673,
+      "title": "Vũ hóa thành tiên"
+    },
+    {
+      "num": 674,
+      "title": "Chương mới 127: Băng qua vũ trụ, lên đường đến phương xa"
+    },
+    {
+      "num": 675,
+      "title": "Trải nghiệm đầu tiên ở thế giới mới"
+    },
+    {
+      "num": 676,
+      "title": "Thiên ngoại huyền phù"
+    },
+    {
+      "num": 677,
+      "title": "Không được chào đón"
+    },
+    {
+      "num": 678,
+      "title": "Chỉ có điều gì là không đổi"
+    },
+    {
+      "num": 679,
+      "title": "Duyên phận"
+    },
+    {
+      "num": 680,
+      "title": "Thiên ngoại lai khách"
+    },
+    {
+      "num": 681,
+      "title": "Chiếu thư khai thiên nhuốm máu"
+    },
+    {
+      "num": 682,
+      "title": "Hiện thực"
+    },
+    {
+      "num": 683,
+      "title": "Kinh hoàng ập đến"
+    },
+    {
+      "num": 684,
+      "title": "Lục Nhân Giáp"
+    },
+    {
+      "num": 685,
+      "title": "Học viên được cử đến đào tạo"
+    },
+    {
+      "num": 686,
+      "title": "Niết Bàn bằng Lôi Hỏa Lục Kiếp Pháp"
+    },
+    {
+      "num": 687,
+      "title": "Thiên Tân – Chương 140: Vùng Đất Phi Thăng"
+    },
+    {
+      "num": 688,
+      "title": "Chuyến phiêu lưu kỳ diệu"
+    },
+    {
+      "num": 689,
+      "title": "Thiên địa mới – Chương 142: Đến Tiên Giới uống rượu mừng"
+    },
+    {
+      "num": 690,
+      "title": "Nói ra có khi các ngươi cũng chẳng tin"
+    },
+    {
+      "num": 691,
+      "title": "Kẻ gan lì"
+    },
+    {
+      "num": 692,
+      "title": "Thiên 145: Ức hiếp"
+    },
+    {
+      "num": 693,
+      "title": "Năm vóc sát đất"
+    },
+    {
+      "num": 694,
+      "title": "Thiên Long Cửu Thiên"
+    },
+    {
+      "num": 695,
+      "title": "Tất cả đều đang vượt kiếp"
+    },
+    {
+      "num": 696,
+      "title": "Thời không đan xen"
+    },
+    {
+      "num": 697,
+      "title": "Nơi tế trời"
+    },
+    {
+      "num": 698,
+      "title": "Những kẻ phá vỡ giới hạn ở các tinh vực"
+    },
+    {
+      "num": 699,
+      "title": "Động lòng"
+    },
+    {
+      "num": 700,
+      "title": "Thiên 153: Phong cảnh đẹp mê hồn"
+    },
+    {
+      "num": 701,
+      "title": "Thiên ngoại không có kẻ yếu"
+    },
+    {
+      "num": 702,
+      "title": "Ai đã vô địch thiên hạ?"
+    },
+    {
+      "num": 703,
+      "title": "Thời khắc săn giết cấp Vương"
+    },
+    {
+      "num": 704,
+      "title": "Phần mới – Chương 157: Quét sạch chiến trường bàn cờ"
+    },
+    {
+      "num": 705,
+      "title": "Sân săn của một người"
+    },
+    {
+      "num": 706,
+      "title": "Kinh văn lưu chuyển, chẳng thấy kẻ địch"
+    },
+    {
+      "num": 707,
+      "title": "Thiên Cấp"
+    },
+    {
+      "num": 708,
+      "title": "Đến lúc cần chú mới thấy thiếu chú"
+    },
+    {
+      "num": 709,
+      "title": "Đại Lang, đến giờ uống thuốc rồi"
+    },
+    {
+      "num": 710,
+      "title": "Thế giới kỳ lạ"
+    },
+    {
+      "num": 711,
+      "title": "Nguồn gốc của vùng đất cô lập giữa biển thời không"
+    },
+    {
+      "num": 712,
+      "title": "Sức hấp dẫn không thể cưỡng lại"
+    },
+    {
+      "num": 713,
+      "title": "Trộm hậu viện của Chân Thánh"
+    },
+    {
+      "num": 714,
+      "title": "Bao trọn sân"
+    },
+    {
+      "num": 715,
+      "title": "Tình cờ đi ngang"
+    },
+    {
+      "num": 716,
+      "title": "Trở về với đầy ắp chiến lợi phẩm"
+    },
+    {
+      "num": 717,
+      "title": "Thiên mới 170: Thân phận đáng ngờ"
+    },
+    {
+      "num": 718,
+      "title": "Chú thúc đi đâu mất rồi?"
+    },
+    {
+      "num": 719,
+      "title": "Cổ hiền"
+    },
+    {
+      "num": 720,
+      "title": "Chương mới – 2 năm 8 tháng"
+    },
+    {
+      "num": 721,
+      "title": "Thiên ngoại có Thánh"
+    },
+    {
+      "num": 722,
+      "title": "Ba món đồ cấm đứng đầu"
+    },
+    {
+      "num": 723,
+      "title": "Vốn định lặng lẽ rời đi"
+    },
+    {
+      "num": 724,
+      "title": "Vua chuyên lật nắp, sờ đầu chụt chụt"
+    },
+    {
+      "num": 725,
+      "title": "Cánh cửa luôn rộng mở vì ngươi"
+    },
+    {
+      "num": 726,
+      "title": "Lần đầu đặt chân đến quý địa"
+    },
+    {
+      "num": 727,
+      "title": "Thiên ngoại kỳ vật khiến người kinh ngạc"
+    },
+    {
+      "num": 728,
+      "title": "Đây là cảm giác rung động sao"
+    },
+    {
+      "num": 729,
+      "title": "Tiến vào bí cảnh, tìm lại cố nhân"
+    },
+    {
+      "num": 730,
+      "title": "Quê hương của Thánh Nhân"
+    },
+    {
+      "num": 731,
+      "title": "Sự thật về bí cảnh thời không"
+    },
+    {
+      "num": 732,
+      "title": "Vượt khỏi thế gian, thánh huyết vẫn tuôn trào"
+    },
+    {
+      "num": 733,
+      "title": "Cố ra mặt sẽ mất mạng"
+    },
+    {
+      "num": 734,
+      "title": "Phá cảnh và kinh ngạc đến ngây người"
+    },
+    {
+      "num": 735,
+      "title": "Thiên 188: Trung tâm phong ba"
+    },
+    {
+      "num": 736,
+      "title": "Ngồi yên trong nhà, tổ chim từ trên trời rơi xuống"
+    },
+    {
+      "num": 737,
+      "title": "Yêu tâm cũng là máu thịt"
+    },
+    {
+      "num": 738,
+      "title": "Đa Phúc Vận có thêm một đứa con"
+    },
+    {
+      "num": 739,
+      "title": "Đạo hữu, ngươi hồ đồ rồi"
+    },
+    {
+      "num": 740,
+      "title": "Một người giữ ải"
+    },
+    {
+      "num": 741,
+      "title": "Yêu quái nổi tiếng nhất biển thiên thạch"
+    },
+    {
+      "num": 742,
+      "title": "Một yêu ngang trời"
+    },
+    {
+      "num": 743,
+      "title": "Tinh không vụt tắt"
+    },
+    {
+      "num": 744,
+      "title": "Sự đối lập giữa các nền văn minh"
+    },
+    {
+      "num": 745,
+      "title": "Danh yêu và sự quan tâm"
+    },
+    {
+      "num": 746,
+      "title": "Nhà ăn Thiên Đình, mở cửa suốt ngày đêm"
+    },
+    {
+      "num": 747,
+      "title": "Thánh Sơn"
+    },
+    {
+      "num": 748,
+      "title": "Vì muốn sống"
+    },
+    {
+      "num": 749,
+      "title": "Một món quà bất ngờ"
+    },
+    {
+      "num": 750,
+      "title": "Tất cả đều vì tương lai"
+    },
+    {
+      "num": 751,
+      "title": "Dị biến"
+    },
+    {
+      "num": 752,
+      "title": "Ba hoa tụ đỉnh, ngũ khí triều nguyên"
+    },
+    {
+      "num": 753,
+      "title": "Thiên truyện mới – Năm thứ 11 của thời đại Tinh Hà rực rỡ"
+    },
+    {
+      "num": 754,
+      "title": "Những tộc lớn hàng đầu vũ trụ"
+    },
+    {
+      "num": 755,
+      "title": "Phong thái của Nhị Đại Vương vẫn như xưa"
+    },
+    {
+      "num": 756,
+      "title": "Để bảo vệ quý tộc"
+    },
+    {
+      "num": 757,
+      "title": "Lễ rửa tội bằng máu và lửa"
+    },
+    {
+      "num": 758,
+      "title": "Một mình khiêu chiến cả tộc"
+    },
+    {
+      "num": 759,
+      "title": "Phong tình bên kia"
+    },
+    {
+      "num": 760,
+      "title": "Cuộc đời nơi đâu cũng có bất ngờ"
+    },
+    {
+      "num": 761,
+      "title": "Sức hấp dẫn khiến người ta chẳng nỡ dừng lại"
+    },
+    {
+      "num": 762,
+      "title": "Vui đến quên đường về"
+    },
+    {
+      "num": 763,
+      "title": "Cả thế giới đã đảo lộn"
+    },
+    {
+      "num": 764,
+      "title": "Đắc thủ"
+    },
+    {
+      "num": 765,
+      "title": "Nước chảy thành dòng"
+    },
+    {
+      "num": 766,
+      "title": "Màn bẽ mặt trước bàn dân thiên hạ quy mô lớn"
+    },
+    {
+      "num": 767,
+      "title": "Sách Vàng Sách Ngọc"
+    },
+    {
+      "num": 768,
+      "title": "Chương mới – Khúc phổ trên đồng cỏ ly ly"
+    },
+    {
+      "num": 769,
+      "title": "Lĩnh vực Chân Thánh tương lai sẽ có tên ngươi"
+    },
+    {
+      "num": 770,
+      "title": "Cực hạn – Mười con quạ"
+    },
+    {
+      "num": 771,
+      "title": "Bị tuổi trẻ va trúng eo"
+    },
+    {
+      "num": 772,
+      "title": "Kẻ thắng lớn nhất"
+    },
+    {
+      "num": 773,
+      "title": "Câu dị nhân"
+    },
+    {
+      "num": 774,
+      "title": "Cướp mất thứ người khác yêu quý nhất"
+    },
+    {
+      "num": 775,
+      "title": "Dị nhân đa bảo Lê Lâm"
+    },
+    {
+      "num": 776,
+      "title": "Bận đánh từng người bạn thân"
+    },
+    {
+      "num": 777,
+      "title": "Nghi là Thánh nhân vẫn lạc"
+    },
+    {
+      "num": 778,
+      "title": "Càng lên càng mê"
+    },
+    {
+      "num": 779,
+      "title": "Ghi lại những năm tháng tươi đẹp của Dị Nhân"
+    },
+    {
+      "num": 780,
+      "title": "Vượt qua kiếp nạn của bậc Thánh mà vẫn sống sót"
+    },
+    {
+      "num": 781,
+      "title": "Mong rằng sang kỷ nguyên tiếp theo, chúng ta vẫn có thể gặp lại cảnh tượng hôm nay"
+    },
+    {
+      "num": 782,
+      "title": "Chương mới (235): Kẻ sống sót cuối cùng"
+    },
+    {
+      "num": 783,
+      "title": "Hoàn cảnh của Vương Ngự Thánh"
+    },
+    {
+      "num": 784,
+      "title": "Ước mơ thuở thiếu thời cuối cùng cũng thành hiện thực"
+    },
+    {
+      "num": 785,
+      "title": "Thế giới phía sau hiện thực (Gộp hai chương làm một)"
+    },
+    {
+      "num": 786,
+      "title": "Gặp lại người quen nơi đất khách"
+    },
+    {
+      "num": 787,
+      "title": "Phá hạn và Ngự Đạo hóa thống nhất"
+    },
+    {
+      "num": 788,
+      "title": "Kiếp nạn khi Cổ Kim trở về"
+    },
+    {
+      "num": 789,
+      "title": "Ngoại giao gấu trúc"
+    },
+    {
+      "num": 790,
+      "title": "Nam nữ hỗn hợp song đả"
+    },
+    {
+      "num": 791,
+      "title": "Sát ý khó nguôi, bước vào cung điện đồng khổng lồ"
+    },
+    {
+      "num": 792,
+      "title": "Chỉ trong chớp mắt, người đã sắp chẳng còn ai"
+    },
+    {
+      "num": 793,
+      "title": "Bất Bại Chân Tiên Khổng Thập Quyền"
+    },
+    {
+      "num": 794,
+      "title": "Sự cố liên tiếp tại đấu trường"
+    },
+    {
+      "num": 795,
+      "title": "Chân Tiên phấn khích khi đối mặt với Siêu Tuyệt Thế"
+    },
+    {
+      "num": 796,
+      "title": "Chân Tiên đối đầu Siêu Tuyệt Thế"
+    },
+    {
+      "num": 797,
+      "title": "Chương mới – Vắt kiệt lợi ích từ cường giả tuyệt đỉnh"
+    },
+    {
+      "num": 798,
+      "title": "Dị nhân ra mặt"
+    },
+    {
+      "num": 799,
+      "title": "Nhà ai chẳng có dị nhân"
+    },
+    {
+      "num": 800,
+      "title": "Lâu đài trên không"
+    },
+    {
+      "num": 801,
+      "title": "Một trận chiến thành danh"
+    },
+    {
+      "num": 802,
+      "title": "Danh tiếng và đãi ngộ"
+    },
+    {
+      "num": 803,
+      "title": "Có tài nguyên thì lập tức dùng"
+    },
+    {
+      "num": 804,
+      "title": "Chương mới – Chiếc điện thoại kỳ quặc"
+    },
+    {
+      "num": 805,
+      "title": "Chụp một tấm ảnh cho vận mệnh"
+    },
+    {
+      "num": 806,
+      "title": "Thế giới phía sau cánh cửa"
+    },
+    {
+      "num": 807,
+      "title": "Chương mới – Bắt người hóa thú"
+    },
+    {
+      "num": 808,
+      "title": "Thiên địa rộng lớn, mở ra trang mới"
+    },
+    {
+      "num": 809,
+      "title": "Hàng xóm bên cạnh họ Vương"
+    },
+    {
+      "num": 810,
+      "title": "Một mình vui chẳng bằng mọi người cùng vui"
+    },
+    {
+      "num": 811,
+      "title": "Thiên tư của Dị Nhân"
+    },
+    {
+      "num": 812,
+      "title": "Muôn Sao Vây Quanh Mặt Trăng"
+    },
+    {
+      "num": 813,
+      "title": "Thiên 267: Biết được sự thật, chỉ muốn tự nhốt mình lại"
+    },
+    {
+      "num": 814,
+      "title": "Chương mới – Một khu vườn khiến muôn tộc cùng bật cười"
+    },
+    {
+      "num": 815,
+      "title": "Vẫn còn tạo hóa"
+    },
+    {
+      "num": 816,
+      "title": "Được chào đón quá mức"
+    },
+    {
+      "num": 817,
+      "title": "Người qua để lại dấu"
+    },
+    {
+      "num": 818,
+      "title": "Đại hội"
+    },
+    {
+      "num": 819,
+      "title": "Ngựa ô trỗi dậy"
+    },
+    {
+      "num": 820,
+      "title": "Song tú cùng tỏa sáng"
+    },
+    {
+      "num": 821,
+      "title": "Kẻ ngổ ngáo trong buổi đại hội"
+    },
+    {
+      "num": 822,
+      "title": "Muốn vác cả người đi"
+    },
+    {
+      "num": 823,
+      "title": "Thiên ngoại có người đến Chương 277: Thiên ngoại có người đến"
+    },
+    {
+      "num": 824,
+      "title": "Đón nhận bất ngờ mới"
+    },
+    {
+      "num": 825,
+      "title": "Chụp bao tải Ngự Đạo"
+    },
+    {
+      "num": 826,
+      "title": "Xin lỗi, đánh nhầm người rồi"
+    },
+    {
+      "num": 827,
+      "title": "Chương mới – Tự mình gánh lấy tất cả"
+    },
+    {
+      "num": 828,
+      "title": "Chiếc điện thoại kỳ dị đáng sợ"
+    },
+    {
+      "num": 829,
+      "title": "Ăn một gậy của lão Tôn đây!"
+    },
+    {
+      "num": 830,
+      "title": "Quý nữ (5X)"
+    },
+    {
+      "num": 831,
+      "title": "Ba lần đánh Bạch Cốt Tinh"
+    },
+    {
+      "num": 832,
+      "title": "Đã đến lúc kết thúc"
+    },
+    {
+      "num": 833,
+      "title": "Tề Thiên Đại Thánh chân chính"
+    },
+    {
+      "num": 834,
+      "title": "Khúc dạo đầu mới – Chương 288: Chân Thánh xuất hành"
+    },
+    {
+      "num": 835,
+      "title": "Thiên Ngoại Lai Khách (Chương 289: Tân Thiên)"
+    },
+    {
+      "num": 836,
+      "title": "Thiên 290: Còn ngang ngược hơn cả người điên"
+    },
+    {
+      "num": 837,
+      "title": "Sánh vai Tôn Ngộ Không"
+    },
+    {
+      "num": 838,
+      "title": "Một đời yêu nghiệt Khổng Nhị"
+    },
+    {
+      "num": 839,
+      "title": "Phản rồi"
+    },
+    {
+      "num": 840,
+      "title": "Hẹn xuống Địa Ngục không?"
+    },
+    {
+      "num": 841,
+      "title": "Buổi hội ngộ khép lại"
+    },
+    {
+      "num": 842,
+      "title": "Bắt gặp dấu vết của số phận"
+    },
+    {
+      "num": 843,
+      "title": "Thiên hạ siêu phàm đều phụ ta"
+    },
+    {
+      "num": 844,
+      "title": "Thiên tượng kinh động tinh không"
+    },
+    {
+      "num": 845,
+      "title": "Cực âm, cực dương"
+    },
+    {
+      "num": 846,
+      "title": "Cực thiện, cực ác"
+    },
+    {
+      "num": 847,
+      "title": "Trong lòng có ánh sáng, dù chết vẫn hướng về sự sống"
+    },
+    {
+      "num": 848,
+      "title": "Có ta ở đây, các ngươi vẫn còn tồn tại"
+    },
+    {
+      "num": 849,
+      "title": "Tuổi trẻ, hãy cứ nâng chén ngâm thơ, cầm kiếm đi khắp chân trời"
+    },
+    {
+      "num": 850,
+      "title": "Thành lớn giữa hàng chục vùng sao"
+    },
+    {
+      "num": 851,
+      "title": "Thiên 305: Lai lịch bất phàm"
+    },
+    {
+      "num": 852,
+      "title": "Người xưa gặp lại"
+    },
+    {
+      "num": 853,
+      "title": "Chọc giận Đại Thánh Gia"
+    },
+    {
+      "num": 854,
+      "title": "Vô"
+    },
+    {
+      "num": 855,
+      "title": "Đại Thánh ra tay"
+    },
+    {
+      "num": 856,
+      "title": "Chương mới – Chống lại trời xanh"
+    },
+    {
+      "num": 857,
+      "title": "Đại náo Thiên cung"
+    },
+    {
+      "num": 858,
+      "title": "Tình cờ gặp Tôn Tứ Côn"
+    },
+    {
+      "num": 859,
+      "title": "Dị Tổ Tây Thiên và Đại Thánh"
+    },
+    {
+      "num": 860,
+      "title": "Đến bờ bên kia của vận mệnh"
+    },
+    {
+      "num": 861,
+      "title": "Hoa Quả Sơn, dã thánh ở đâu?"
+    },
+    {
+      "num": 862,
+      "title": "Kêu gọi đấng tối cao hiển thánh"
+    },
+    {
+      "num": 863,
+      "title": "Chân Thánh giáng lâm"
+    },
+    {
+      "num": 864,
+      "title": "Thiên địa chấn động nơi tinh không"
+    },
+    {
+      "num": 865,
+      "title": "Điện thoại kỳ vật bị ép đến mức tự đóng mình"
+    },
+    {
+      "num": 866,
+      "title": "Vượt qua biển ánh sáng siêu phàm tàn khốc đến nhường nào"
+    },
+    {
+      "num": 867,
+      "title": "Thánh nhân chân chính truy sát, món đồ hại người trong điện thoại"
+    },
+    {
+      "num": 868,
+      "title": "Danh sách cấm giết"
+    },
+    {
+      "num": 869,
+      "title": "Hai mươi năm tháng ngày tươi đẹp"
+    },
+    {
+      "num": 870,
+      "title": "Câu cá đêm, bắt được Vương Thánh"
+    },
+    {
+      "num": 871,
+      "title": "Đi ngược dòng thế lớn ngoài cõi đời"
+    },
+    {
+      "num": 872,
+      "title": "Cho ta một điểm tựa, ta có thể bẩy tung cả cha của Chân Thánh"
+    },
+    {
+      "num": 873,
+      "title": "Vương Giáo Tổ phản kích"
+    },
+    {
+      "num": 874,
+      "title": "Hoa Quả Sơn, cuộc đại săn giết của Thánh Tôn"
+    },
+    {
+      "num": 875,
+      "title": "Đứng ở phía đối lập với dòng chảy lịch sử"
+    },
+    {
+      "num": 876,
+      "title": "Đến cả đạo trường Chân Thánh cũng phải quét sạch"
+    },
+    {
+      "num": 877,
+      "title": "Chương mới – Số lượng Chân Thánh còn sống"
+    },
+    {
+      "num": 878,
+      "title": "Danh sách tất sát khó lường"
+    },
+    {
+      "num": 879,
+      "title": "Thiên Ngoại Tân Thiên – Chương 333: Câu Cá Giữa Tinh Hải"
+    },
+    {
+      "num": 880,
+      "title": "Năm thứ 237 kể từ khi thần thoại lụi tàn"
+    },
+    {
+      "num": 881,
+      "title": "Khiến vật kỳ lạ hình điện thoại kinh ngạc"
+    },
+    {
+      "num": 882,
+      "title": "Vượt đến bờ bên kia của tinh không"
+    },
+    {
+      "num": 883,
+      "title": "Nơi vạn tộc đến chầu"
+    },
+    {
+      "num": 884,
+      "title": "Thử kiếm tại đạo tràng của Chân Thánh"
+    },
+    {
+      "num": 885,
+      "title": "Gặp lại Kiếm Tiên Tử Khương Thanh Dao"
+    },
+    {
+      "num": 886,
+      "title": "Tung tích người xưa"
+    },
+    {
+      "num": 887,
+      "title": "Thánh nhân chọn người tài"
+    },
+    {
+      "num": 888,
+      "title": "Mối ân oán giữa nhà họ Vương và những sinh vật cấp Cấm Kỵ"
+    },
+    {
+      "num": 889,
+      "title": "Điện thoại kỳ lạ từng có mặt tại hiện trường"
+    },
+    {
+      "num": 890,
+      "title": "Nhìn thấy quá khứ"
+    },
+    {
+      "num": 891,
+      "title": "Luận đạo"
+    },
+    {
+      "num": 892,
+      "title": "Chân Tiên gây chuyện dọn sạch sân đấu"
+    },
+    {
+      "num": 893,
+      "title": "Một người áp đảo hai đạo tràng"
+    },
+    {
+      "num": 894,
+      "title": "Mảnh vỡ của vũ trụ trung tâm cũ"
+    },
+    {
+      "num": 895,
+      "title": "Hỗn Độn Kim Liên chỉ là vật che mắt"
+    },
+    {
+      "num": 896,
+      "title": "Một phần thi thể trong điện thoại"
+    },
+    {
+      "num": 897,
+      "title": "Một bức thư gửi từ tương lai"
+    },
+    {
+      "num": 898,
+      "title": "Điều đáng sợ nhất là lặng lẽ nhìn vào vực sâu tinh không"
+    },
+    {
+      "num": 899,
+      "title": "Con thuyền ý thức và máu quy tắc"
+    },
+    {
+      "num": 900,
+      "title": "Khúc ca cuối cùng"
+    },
+    {
+      "num": 901,
+      "title": "Từng chụp ảnh Chân Thánh"
+    },
+    {
+      "num": 902,
+      "title": "Chưa từng có"
+    },
+    {
+      "num": 903,
+      "title": "Năm tháng đổi thay"
+    },
+    {
+      "num": 904,
+      "title": "Truyền thuyết bước vào hiện thực"
+    },
+    {
+      "num": 905,
+      "title": "Kiểm tra thực lực"
+    },
+    {
+      "num": 906,
+      "title": "Hậu viện của Ngũ Kiếp Sơn"
+    },
+    {
+      "num": 907,
+      "title": "Người còn giống Khổng Huyên hơn cả Vương Huyên"
+    },
+    {
+      "num": 908,
+      "title": "Đã biết tất cả"
+    },
+    {
+      "num": 909,
+      "title": "Cuộc tụ họp của những người phá hạn lần thứ tư ở Nguyệt Cung"
+    },
+    {
+      "num": 910,
+      "title": "Tư chất thành Chân Thánh"
+    },
+    {
+      "num": 911,
+      "title": "Một vạn tám nghìn mối duyên"
+    },
+    {
+      "num": 912,
+      "title": "Thiên mới – Kẻ kết liễu sức mạnh Nhất Khư"
+    },
+    {
+      "num": 913,
+      "title": "Khiến thời gian cũng phải rung động"
+    },
+    {
+      "num": 914,
+      "title": "Người xưa của vũ trụ mẹ ở ngay bên cạnh"
+    },
+    {
+      "num": 915,
+      "title": "Người kiểm định siêu thần và Tôn Ngộ Không"
+    },
+    {
+      "num": 916,
+      "title": "Tận cùng thần thoại"
+    },
+    {
+      "num": 917,
+      "title": "Địa ngục kỳ diệu"
+    },
+    {
+      "num": 918,
+      "title": "Thánh ngã xuống"
+    },
+    {
+      "num": 919,
+      "title": "Làm lung lay nền móng tồn tại của thế giới siêu phàm"
+    },
+    {
+      "num": 920,
+      "title": "Đại liên minh thiên tài các thời đại"
+    },
+    {
+      "num": 921,
+      "title": "Hoàng thành, Thánh miếu sâu không lường được"
+    },
+    {
+      "num": 922,
+      "title": "Thiên Loạn"
+    },
+    {
+      "num": 923,
+      "title": "Thiên Loạn Thành"
+    },
+    {
+      "num": 924,
+      "title": "Sánh vai cùng truyền thuyết"
+    },
+    {
+      "num": 925,
+      "title": "Cái giá phải trả khi phá vỡ quy tắc Địa Ngục"
+    },
+    {
+      "num": 926,
+      "title": "Cách hiểu mới về Đại Pháp Tinh Thần Bệnh, vượt xa sức tưởng tượng"
+    },
+    {
+      "num": 927,
+      "title": "Thuộc tính thần bí lại xuất hiện"
+    },
+    {
+      "num": 928,
+      "title": "Thật và giả"
+    },
+    {
+      "num": 929,
+      "title": "Thiên địa mới – Chương 383: Địa Ngục náo loạn"
+    },
+    {
+      "num": 930,
+      "title": "Thiên 384: Địa ngục là một nơi tốt"
+    },
+    {
+      "num": 931,
+      "title": "Thần Chiếu, chẳng lẽ ngươi chính là...?"
+    },
+    {
+      "num": 932,
+      "title": "Thiên Loạn Thành, một mình đánh thẳng vào đại thành"
+    },
+    {
+      "num": 933,
+      "title": "Chương mới"
+    },
+    {
+      "num": 934,
+      "title": "Nữ tiên số một suốt sáu kỷ nguyên"
+    },
+    {
+      "num": 935,
+      "title": "Kỳ tích không thể tái hiện"
+    },
+    {
+      "num": 936,
+      "title": "Cả người đều ngây dại"
+    },
+    {
+      "num": 937,
+      "title": "Vua Kẻ Lang Thang – Khổng Huyên"
+    },
+    {
+      "num": 938,
+      "title": "Người chết tỏ vẻ tâm trạng rất ổn định"
+    },
+    {
+      "num": 939,
+      "title": "Cuộc đại chiến giữa những kẻ lang thang và các đạo tràng Chân Thánh"
+    },
+    {
+      "num": 940,
+      "title": "Chương mới – Đại sự kiện bắt đầu"
+    },
+    {
+      "num": 941,
+      "title": "Kẻ phá giới hạn lần thứ năm đã xuất hiện"
+    },
+    {
+      "num": 942,
+      "title": "Hắn cho quá nhiều rồi"
+    },
+    {
+      "num": 943,
+      "title": "Chương mới – Trận chiến đảo lộn mọi nhận thức vốn có"
+    },
+    {
+      "num": 944,
+      "title": "Thổi đến nổ tung thật rồi"
+    },
+    {
+      "num": 945,
+      "title": "Thiên đồ của Thánh Nhân thời xưa (Chương 399: Thiên đồ của Thánh Nhân thời xưa)"
+    },
+    {
+      "num": 946,
+      "title": "Giám định sư 5 lần phá hạn"
+    },
+    {
+      "num": 947,
+      "title": "Địa ngục rộng lớn như thế, ta muốn đi khắp nơi ngắm nhìn"
+    },
+    {
+      "num": 948,
+      "title": "Thưởng hoa"
+    },
+    {
+      "num": 949,
+      "title": "Thiên chương mới – Lão gia cưỡi trâu ngao du thiên hạ"
+    },
+    {
+      "num": 950,
+      "title": "“Đại hội” địa ngục"
+    },
+    {
+      "num": 951,
+      "title": "Thần hoa vừa hé nở"
+    },
+    {
+      "num": 952,
+      "title": "Đóa hoa hoang dại"
+    },
+    {
+      "num": 953,
+      "title": "Yêu Nữ Khác Thường"
+    },
+    {
+      "num": 954,
+      "title": "Thời khắc săn giết Huyên"
+    },
+    {
+      "num": 955,
+      "title": "Vừa ra tay đã tung đòn chí mạng"
+    },
+    {
+      "num": 956,
+      "title": "Trận quyết chiến cấp Vương"
+    },
+    {
+      "num": 957,
+      "title": "Đánh tan liên minh phá hạn lần thứ năm"
+    },
+    {
+      "num": 958,
+      "title": "Sứ giả nơi sâu thẳm địa ngục"
+    },
+    {
+      "num": 959,
+      "title": "Hóa kẻ thù thành cha vợ"
+    },
+    {
+      "num": 960,
+      "title": "Gây nghiệt"
+    },
+    {
+      "num": 961,
+      "title": "Dị biến kinh người"
+    },
+    {
+      "num": 962,
+      "title": "Phế tích Hoàng Thành cổ"
+    },
+    {
+      "num": 963,
+      "title": "Thiên ngoại còn có một trung tâm siêu phàm? Điện thoại kỳ vật chấn động đến ngây người"
+    },
+    {
+      "num": 964,
+      "title": "Ai đang độ kiếp"
+    },
+    {
+      "num": 965,
+      "title": "Thiên chương mới – Chương 419"
+    },
+    {
+      "num": 966,
+      "title": "Thiên Kiếp Chân Tiên Chưa Từng Có Trong Lịch Sử"
+    },
+    {
+      "num": 967,
+      "title": "Ba món Thánh vật chưa từng nghe nói"
+    },
+    {
+      "num": 968,
+      "title": "Cuối cùng cũng viên mãn"
+    },
+    {
+      "num": 969,
+      "title": "Thiên kiếp qua đi, chém giết quần tiên"
+    },
+    {
+      "num": 970,
+      "title": "Quét sạch địch bốn phương"
+    },
+    {
+      "num": 971,
+      "title": "Đại Quân Địa Ngục"
+    },
+    {
+      "num": 972,
+      "title": "Ai đang tái sinh nơi địa ngục"
+    },
+    {
+      "num": 973,
+      "title": "Một trận chiến khiến Địa Ngục lặng im"
+    },
+    {
+      "num": 974,
+      "title": "Một đêm"
+    },
+    {
+      "num": 975,
+      "title": "Khí thế nuốt trọn địa ngục"
+    },
+    {
+      "num": 976,
+      "title": "Cuộc gặp gỡ, Vương Trạch Thịnh"
+    },
+    {
+      "num": 977,
+      "title": "Con thế nào, cha thế ấy"
+    },
+    {
+      "num": 978,
+      "title": "Khí phách tuổi trẻ"
+    },
+    {
+      "num": 979,
+      "title": "Hoàng hôn địa ngục"
+    },
+    {
+      "num": 980,
+      "title": "Nền văn minh rực rỡ"
+    },
+    {
+      "num": 981,
+      "title": "Cuộc gặp gỡ khó tin"
+    },
+    {
+      "num": 982,
+      "title": "Biết được sự thật, suýt chút nữa nước mắt đã rơi"
+    },
+    {
+      "num": 983,
+      "title": "Nhiệt tình như lửa"
+    },
+    {
+      "num": 984,
+      "title": "Tướng mạo xung khắc với Chân Thánh Yêu Đình"
+    },
+    {
+      "num": 985,
+      "title": "Thiên Ngoại Tân Thiên – Chương 439: Cậu của Vương Huyên và dì út của hắn"
+    },
+    {
+      "num": 986,
+      "title": "Lời nguyền số mệnh xuất hiện"
+    },
+    {
+      "num": 987,
+      "title": "Thế giới phía sau cảnh hoàng hôn kỳ lạ"
+    },
+    {
+      "num": 988,
+      "title": "Cảnh giới Cực Đạo"
+    },
+    {
+      "num": 989,
+      "title": "Thiếu niên Chân Thánh"
+    },
+    {
+      "num": 990,
+      "title": "Nhà tù của thần thoại"
+    },
+    {
+      "num": 991,
+      "title": "Bỉ Ngạn"
+    },
+    {
+      "num": 992,
+      "title": "Thời đại Cựu Thánh thứ tư"
+    },
+    {
+      "num": 993,
+      "title": "Cuộc đối đầu giữa những tồn tại siêu thánh"
+    },
+    {
+      "num": 994,
+      "title": "Miền đất tận cùng"
+    },
+    {
+      "num": 995,
+      "title": "Ngôi nhà của những Thánh vật"
+    },
+    {
+      "num": 996,
+      "title": "Vĩnh biệt điện thoại kỳ vật"
+    },
+    {
+      "num": 997,
+      "title": "Tái ngộ và nhìn thấy ánh mặt trời lần nữa"
+    },
+    {
+      "num": 998,
+      "title": "Khổng Huyên đã chết"
+    },
+    {
+      "num": 999,
+      "title": "Đục xuyên địa ngục"
+    },
+    {
+      "num": 1000,
+      "title": "Địa ngục khiến người ta bồn chồn và nghẹt thở"
+    },
+    {
+      "num": 1001,
+      "title": "Thiên hạ đều biết"
+    },
+    {
+      "num": 1002,
+      "title": "Thu hoạch đầy tay"
+    },
+    {
+      "num": 1003,
+      "title": "Không Thể Đoán Trước"
+    },
+    {
+      "num": 1004,
+      "title": "Uốn nắn quỹ đạo Địa Ngục (Thượng)"
+    },
+    {
+      "num": 1005,
+      "title": "Uốn nắn quỹ đạo Địa Ngục (Hạ)"
+    },
+    {
+      "num": 1006,
+      "title": "Thay cha anh trả nợ"
+    },
+    {
+      "num": 1007,
+      "title": "Gặp chó đi ngang cũng không tha"
+    },
+    {
+      "num": 1008,
+      "title": "Chém giết Dị Nhân"
+    },
+    {
+      "num": 1009,
+      "title": "Tiêu vong"
+    },
+    {
+      "num": 1010,
+      "title": "Vô lực xoay chuyển tình thế"
+    },
+    {
+      "num": 1011,
+      "title": "Danh sách tử sát"
+    },
+    {
+      "num": 1012,
+      "title": "Kết thúc chuyến đi địa ngục"
+    },
+    {
+      "num": 1013,
+      "title": "Cuộc gọi của ông chủ Cổ"
+    },
+    {
+      "num": 1014,
+      "title": "Cuộc gặp gỡ giữa hai món đồ cổ"
+    },
+    {
+      "num": 1015,
+      "title": "Treo cao trên đỉnh trời"
+    },
+    {
+      "num": 1016,
+      "title": "Bãi biển nắng vàng, mỹ nhân kiều diễm"
+    },
+    {
+      "num": 1017,
+      "title": "Có sinh linh Lục Phá hay không"
+    },
+    {
+      "num": 1018,
+      "title": "Bị bắt quả tang"
+    },
+    {
+      "num": 1019,
+      "title": "Cùng Dị Nhân Song Tu"
+    },
+    {
+      "num": 1020,
+      "title": "Kiếp nạn của Chân Thánh"
+    },
+    {
+      "num": 1021,
+      "title": "Thiên họa trước mặt, thánh nhân hay phàm nhân cũng chẳng khác gì nhau"
+    },
+    {
+      "num": 1022,
+      "title": "Muốn mang sính lễ đến Yêu Đình"
+    },
+    {
+      "num": 1023,
+      "title": "Thiên mới – Chương 477"
+    },
+    {
+      "num": 1024,
+      "title": "Chú dượng vô song"
+    },
+    {
+      "num": 1025,
+      "title": "Mọi chuyện đã thành sự thật"
+    },
+    {
+      "num": 1026,
+      "title": "Chân danh Vương Huyên"
+    },
+    {
+      "num": 1027,
+      "title": "Chớp mắt đã 30 năm"
+    },
+    {
+      "num": 1028,
+      "title": "Độc nhất vô nhị"
+    },
+    {
+      "num": 1029,
+      "title": "Phía sau có Chân Thánh"
+    },
+    {
+      "num": 1030,
+      "title": "Gặp lại người xưa, mừng vui khôn xiết"
+    },
+    {
+      "num": 1031,
+      "title": "Tiếng đàn trời, mở đường cho lần phá 6"
+    },
+    {
+      "num": 1032,
+      "title": "Sáng tỏ lòng mình, vượt qua thiên kiếp"
+    },
+    {
+      "num": 1033,
+      "title": "Xưa nay chưa từng có"
+    },
+    {
+      "num": 1034,
+      "title": "Đánh ngược lại thiên kiếp một trận"
+    },
+    {
+      "num": 1035,
+      "title": "Độc nhất giữa muôn đời"
+    },
+    {
+      "num": 1036,
+      "title": "Ảnh hưởng sâu xa vô cùng"
+    },
+    {
+      "num": 1037,
+      "title": "Lời thề trong Tân Ước Siêu Phàm thuở trước"
+    },
+    {
+      "num": 1038,
+      "title": "Người quen ở Đấu Thú Thành"
+    },
+    {
+      "num": 1039,
+      "title": "Tán Thánh giáng sấm kinh thiên"
+    },
+    {
+      "num": 1040,
+      "title": "Quái vật thoát khỏi cuộc thanh trừng của Danh Sách Tất Sát"
+    },
+    {
+      "num": 1041,
+      "title": "Lần đầu tiên cao thủ từ Mẫu Vũ Trụ hội tụ"
+    },
+    {
+      "num": 1042,
+      "title": "Ra tay!"
+    },
+    {
+      "num": 1043,
+      "title": "Đại Thánh"
+    },
+    {
+      "num": 1044,
+      "title": "Những Dị Nhân Lần Lượt Ra Tay"
+    },
+    {
+      "num": 1045,
+      "title": "Đạo thống Chân Thánh đẫm máu"
+    },
+    {
+      "num": 1046,
+      "title": "Quái Vật Tối Cao"
+    },
+    {
+      "num": 1047,
+      "title": "Ác Thánh sắp phát điên"
+    },
+    {
+      "num": 1048,
+      "title": "Đấu Thú Cung diệt vong"
+    },
+    {
+      "num": 1049,
+      "title": "Hợp sức chém Thánh"
+    },
+    {
+      "num": 1050,
+      "title": "Đón năm mới, chia thịt thánh"
+    },
+    {
+      "num": 1051,
+      "title": "Thiên ngoại thiên – Chương 507: Đôi bên cùng vui"
+    },
+    {
+      "num": 1052,
+      "title": "Kỳ vật điện thoại lên đường"
+    },
+    {
+      "num": 1053,
+      "title": "Điện thoại kỳ vật ngẩn người"
+    },
+    {
+      "num": 1054,
+      "title": "Cổ lão bản có lời mời"
+    },
+    {
+      "num": 1055,
+      "title": "Thế giới Ngự Đạo mới"
+    },
+    {
+      "num": 1056,
+      "title": "Con trai ruột của Vương Ngự Thánh"
+    },
+    {
+      "num": 1057,
+      "title": "Thương Nghị mắt ưng mặt sói"
+    },
+    {
+      "num": 1058,
+      "title": "Niềm hạnh phúc ngập tràn"
+    },
+    {
+      "num": 1059,
+      "title": "Quá sức vô lý"
+    },
+    {
+      "num": 1060,
+      "title": "Thiên 516 – Chân Thánh buông câu"
+    },
+    {
+      "num": 1061,
+      "title": "Bỉ Ngạn không có số mệnh"
+    },
+    {
+      "num": 1062,
+      "title": "Bậc tối cao giải đáp thắc mắc"
+    },
+    {
+      "num": 1063,
+      "title": "Chương mới – Cuộc hội ngộ của bạn cũ và bạn mới"
+    },
+    {
+      "num": 1064,
+      "title": "Qua lại đều là kẻ năm lần phá hạn"
+    },
+    {
+      "num": 1065,
+      "title": "Nơi dừng chân cuối cùng của các Cựu Thánh"
+    },
+    {
+      "num": 1066,
+      "title": "Thần thoại giả dối và những bệnh nhân giữa đời thực"
+    },
+    {
+      "num": 1067,
+      "title": "Thế giới chân thực dưới góc nhìn của kẻ phá hạn tầng 6"
+    },
+    {
+      "num": 1068,
+      "title": "Vòng lặp quái dị từ 17 kỷ nguyên trước"
+    },
+    {
+      "num": 1069,
+      "title": "Thần Vương"
+    },
+    {
+      "num": 1070,
+      "title": "Miếu Cố"
+    },
+    {
+      "num": 1071,
+      "title": "Một thế giới mới rực rỡ mà đẫm máu"
+    },
+    {
+      "num": 1072,
+      "title": "Lắng nghe lời chí cao"
+    },
+    {
+      "num": 1073,
+      "title": "Tuyết đen vừa xuất hiện"
+    },
+    {
+      "num": 1074,
+      "title": "Tiễn người về cõi vĩnh hằng, tay vẫn vương hương thơm"
+    },
+    {
+      "num": 1075,
+      "title": "Khi truyền thuyết kinh hoàng trở thành hiện thực"
+    },
+    {
+      "num": 1076,
+      "title": "Bia ranh giới vũ trụ siêu phàm"
+    },
+    {
+      "num": 1077,
+      "title": "Tương lai đã được định đoạt"
+    },
+    {
+      "num": 1078,
+      "title": "Người quen cũ nơi vũ trụ bên ngoài"
+    },
+    {
+      "num": 1079,
+      "title": "Sinh linh tối cao đối đầu"
+    },
+    {
+      "num": 1080,
+      "title": "Đi ngược dòng lớn"
+    },
+    {
+      "num": 1081,
+      "title": "Đối thủ trên bàn cờ của những sinh linh tối cao (Thượng)"
+    },
+    {
+      "num": 1082,
+      "title": "Bàn cờ đối thủ của những sinh linh tối cao (Hạ)"
+    },
+    {
+      "num": 1083,
+      "title": "Thiên tai mang tính hủy diệt"
+    },
+    {
+      "num": 1084,
+      "title": "Những nhân vật lớn đích thân ra mặt"
+    },
+    {
+      "num": 1085,
+      "title": "Lĩnh vực mạnh nhất, thái độ đầy áp chế"
+    },
+    {
+      "num": 1086,
+      "title": "Chư Thánh chứng kiến"
+    },
+    {
+      "num": 1087,
+      "title": "Đạo tranh khiến người ta nghẹt thở"
+    },
+    {
+      "num": 1088,
+      "title": "Thiên mới 544 – Có Vương chống đỡ"
+    },
+    {
+      "num": 1089,
+      "title": "Mãi mãi đáng tin cậy"
+    },
+    {
+      "num": 1090,
+      "title": "Thiên hạ đại thế, kẻ nổi bật ắt gặp họa"
+    },
+    {
+      "num": 1091,
+      "title": "Trận chiến đẫm máu nghìn năm bắt đầu"
+    },
+    {
+      "num": 1092,
+      "title": "Một người giết trăm người"
+    },
+    {
+      "num": 1093,
+      "title": "Giơ đao nhìn khắp bốn phía, chẳng thấy một bóng người"
+    },
+    {
+      "num": 1094,
+      "title": "Liên tiếp tiêu diệt, 14 khu vực phá cảnh"
+    },
+    {
+      "num": 1095,
+      "title": "Vương Huyên có địch thủ"
+    },
+    {
+      "num": 1096,
+      "title": "Cảnh tượng kỳ diệu nơi tận cùng chân thực, sáu lần phá giới hạn"
+    },
+    {
+      "num": 1097,
+      "title": "Mười năm"
+    },
+    {
+      "num": 1098,
+      "title": "Cơn bão dữ dội cuối cùng ập đến"
+    },
+    {
+      "num": 1099,
+      "title": "Ra tay trước thời hạn"
+    },
+    {
+      "num": 1100,
+      "title": "Một người áp đảo Thánh Thành"
+    },
+    {
+      "num": 1101,
+      "title": "Kiểm chứng trong lĩnh vực tối thượng"
+    },
+    {
+      "num": 1102,
+      "title": "Trận đồ cấp 6 phá"
+    },
+    {
+      "num": 1103,
+      "title": "Chém Thánh Nhân đời trước"
+    },
+    {
+      "num": 1104,
+      "title": "Ai có thể tranh phong"
+    },
+    {
+      "num": 1105,
+      "title": "Thiên hạ chú mục"
+    },
+    {
+      "num": 1106,
+      "title": "Trận quyết chiến cuối cùng"
+    },
+    {
+      "num": 1107,
+      "title": "Mệnh Vận Thiền sáu lần phá hạn?"
+    },
+    {
+      "num": 1108,
+      "title": "Xảy ra chuyện lớn rồi"
+    },
+    {
+      "num": 1109,
+      "title": "Ta đang đứng trong lĩnh vực Lục Phá"
+    },
+    {
+      "num": 1110,
+      "title": "Năm tháng bình yên"
+    },
+    {
+      "num": 1111,
+      "title": "Chí cao đánh thuê trùng"
+    },
+    {
+      "num": 1112,
+      "title": "Khép lại trong máu đỏ"
+    },
+    {
+      "num": 1113,
+      "title": "San bằng chiến trường"
+    },
+    {
+      "num": 1114,
+      "title": "Thiên mới 570 – Nguồn gốc của Nhân Quả Tàm và Vận Mệnh Thiền"
+    },
+    {
+      "num": 1115,
+      "title": "Nhận thức về giới siêu phàm bị đảo lộn"
+    },
+    {
+      "num": 1116,
+      "title": "Cả nhà họ Vương"
+    },
+    {
+      "num": 1117,
+      "title": "Thân phận và chỗ dựa mạnh nhất của vương hệ"
+    },
+    {
+      "num": 1118,
+      "title": "Đại vương vượt giới tuần núi"
+    },
+    {
+      "num": 1119,
+      "title": "Dự cảm chẳng lành"
+    },
+    {
+      "num": 1120,
+      "title": "Thiên truyện mới 576: Đại Vương giết thẳng vào đạo tràng Chân Thánh"
+    },
+    {
+      "num": 1121,
+      "title": "Thánh Chân thanh toán ân oán"
+    },
+    {
+      "num": 1122,
+      "title": "Thứ Thanh Cung nổ tung"
+    },
+    {
+      "num": 1123,
+      "title": "Câu lấy sinh linh tối cao"
+    },
+    {
+      "num": 1124,
+      "title": "Thứ Thanh Cung đẹp nhất khi lặng im, điềm đạm và biết giữ mình"
+    },
+    {
+      "num": 1125,
+      "title": "Tương lai đã không còn"
+    },
+    {
+      "num": 1126,
+      "title": "Chọn bạn đời"
+    },
+    {
+      "num": 1127,
+      "title": "Loạn, chỉ một chữ"
+    },
+    {
+      "num": 1128,
+      "title": "Có thêm một đứa cháu trai ruột"
+    },
+    {
+      "num": 1129,
+      "title": "Ngoại tình ở Trung tâm Siêu phàm"
+    },
+    {
+      "num": 1130,
+      "title": "Vạch trần thân phận"
+    },
+    {
+      "num": 1131,
+      "title": "Cả người ngây dại"
+    },
+    {
+      "num": 1132,
+      "title": "Điều phải đến, cuối cùng cũng đã đến"
+    },
+    {
+      "num": 1133,
+      "title": "Toàn lĩnh vực 6 phá"
+    },
+    {
+      "num": 1134,
+      "title": "Phá Vỡ Truyền Thuyết Lịch Sử"
+    },
+    {
+      "num": 1135,
+      "title": "Trăm năm trôi qua"
+    },
+    {
+      "num": 1136,
+      "title": "Rốt cuộc, vẫn là Đại Vương một mình gánh hết mọi chuyện"
+    },
+    {
+      "num": 1137,
+      "title": "Vương Ngự Thánh chịu cú sốc nặng nề"
+    },
+    {
+      "num": 1138,
+      "title": "Người một nhà, không để người khác gánh họa thay"
+    },
+    {
+      "num": 1139,
+      "title": "Thời đại siêu phàm lớn đến nghẹt thở"
+    },
+    {
+      "num": 1140,
+      "title": "Thời đại biến động"
+    },
+    {
+      "num": 1141,
+      "title": "Chư thế đều là mở đầu"
+    },
+    {
+      "num": 1142,
+      "title": "Liệu có trở thành Cựu Thánh?"
+    },
+    {
+      "num": 1143,
+      "title": "Đến từ bờ bên kia của thần thoại"
+    },
+    {
+      "num": 1144,
+      "title": "Ngay cả chó máy đi ngang qua cũng ăn hai cái tát"
+    },
+    {
+      "num": 1145,
+      "title": "Vương Trạch Thịnh đặt chân đến trung tâm siêu phàm"
+    },
+    {
+      "num": 1146,
+      "title": "Lão Vương quá sơ suất"
+    },
+    {
+      "num": 1147,
+      "title": "Trận chiến đầu tiên đầy kinh hoàng tại trung tâm siêu phàm"
+    },
+    {
+      "num": 1148,
+      "title": "Vương Ngự Thánh còn có cả cha ư?"
+    },
+    {
+      "num": 1149,
+      "title": "Chân thân Cựu Thánh tái hiện, vẫn còn cơ hội tranh đấu"
+    },
+    {
+      "num": 1150,
+      "title": "Lão Vương, đại phản diện"
+    },
+    {
+      "num": 1151,
+      "title": "Cựu Thánh ra mặt cũng vô ích (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 1152,
+      "title": "Thông gia"
+    },
+    {
+      "num": 1153,
+      "title": "Đối đầu với cựu thánh"
+    },
+    {
+      "num": 1154,
+      "title": "Chỉ vì giữa biển người, ta nhìn nàng thêm một lần"
+    },
+    {
+      "num": 1155,
+      "title": "Một đao chém đứt quyền lực tối cao"
+    },
+    {
+      "num": 1156,
+      "title": "Đề phòng đủ đường, cuối cùng vẫn không đề phòng được lão Vương từ vũ trụ bên cạnh"
+    },
+    {
+      "num": 1157,
+      "title": "Không và Có"
+    },
+    {
+      "num": 1158,
+      "title": "Người đứng đầu bảng"
+    },
+    {
+      "num": 1159,
+      "title": "Thanh trừng sinh linh Bỉ Ngạn"
+    },
+    {
+      "num": 1160,
+      "title": "Đọ sức giữa các thời đại, ai mà chẳng có cha là Chân Thánh?"
+    },
+    {
+      "num": 1161,
+      "title": "Thực lực của phe Bỉ Ngạn"
+    },
+    {
+      "num": 1162,
+      "title": "Bối cảnh hùng mạnh nhất trung tâm siêu phàm"
+    },
+    {
+      "num": 1163,
+      "title": "Trời sinh một cặp"
+    },
+    {
+      "num": 1164,
+      "title": "Ba thân phận Khổng Huyên, Lục Nhân Giáp và Tôn Ngộ Không bị bại lộ"
+    },
+    {
+      "num": 1165,
+      "title": "Sáu lần diệt vong, sáu lần hồi sinh"
+    },
+    {
+      "num": 1166,
+      "title": "Vương pháp phá cấm kỵ"
+    },
+    {
+      "num": 1167,
+      "title": "Thiên Nhãn Ngô Điệp"
+    },
+    {
+      "num": 1168,
+      "title": "Liên tiếp bùng nổ"
+    },
+    {
+      "num": 1169,
+      "title": "Chân danh Vương Huyên"
+    },
+    {
+      "num": 1170,
+      "title": "Thánh Chương"
+    },
+    {
+      "num": 1171,
+      "title": "Chữa trị sinh linh Bỉ Ngạn"
+    },
+    {
+      "num": 1172,
+      "title": "Gánh vác đại đạo"
+    },
+    {
+      "num": 1173,
+      "title": "Một lời thành sự thật"
+    },
+    {
+      "num": 1174,
+      "title": "Trận chiến cuối cùng khép lại"
+    },
+    {
+      "num": 1175,
+      "title": "Chương mới – Cuộc mật hội của những sinh linh tối cao và biến cố sắp xảy ra"
+    },
+    {
+      "num": 1176,
+      "title": "Nhà họ Vương đoàn tụ"
+    },
+    {
+      "num": 1177,
+      "title": "Chân Thánh Yêu Đình cười tươi như hoa nở"
+    },
+    {
+      "num": 1178,
+      "title": "Cuộc đấu giữa hai cha con tuyệt thế"
+    },
+    {
+      "num": 1179,
+      "title": "Năm ấy, lão Vương luôn chắp tay sau lưng"
+    },
+    {
+      "num": 1180,
+      "title": "Cuộc đại chiến cha con"
+    },
+    {
+      "num": 1181,
+      "title": "Tiếp nối con đường phá hạn cấp 6"
+    },
+    {
+      "num": 1182,
+      "title": "Mở ra thế giới mới cho thần thoại"
+    },
+    {
+      "num": 1183,
+      "title": "Cảnh tượng được mong chờ từ lâu"
+    },
+    {
+      "num": 1184,
+      "title": "Buổi sum họp ấm áp"
+    },
+    {
+      "num": 1185,
+      "title": "Điều phải đến, cuối cùng cũng đã đến"
+    },
+    {
+      "num": 1186,
+      "title": "Vượt qua muôn trùng vũ trụ mục nát"
+    },
+    {
+      "num": 1187,
+      "title": "Rối ren khó lường"
+    },
+    {
+      "num": 1188,
+      "title": "Ngoại Thánh, Tà Thần, Ác Linh"
+    },
+    {
+      "num": 1189,
+      "title": "Toàn là đám câu cá"
+    },
+    {
+      "num": 1190,
+      "title": "Cuộc săn lùng của chư Thánh"
+    },
+    {
+      "num": 1191,
+      "title": "Ma"
+    },
+    {
+      "num": 1192,
+      "title": "Thiên mới 648 – Tin tức đáng sợ ẩn giấu trong danh sách tất sát"
+    },
+    {
+      "num": 1193,
+      "title": "Đối thoại với sinh linh đứng sau Bảng Tất Sát"
+    },
+    {
+      "num": 1194,
+      "title": "Qua bao kỷ nguyên, hoa vẫn tựa thuở nào"
+    },
+    {
+      "num": 1195,
+      "title": "Hủy diệt danh sách diệt sát cấp 6 phá"
+    },
+    {
+      "num": 1196,
+      "title": "Thiên tiên trần trụi giữa cơn thoái triều của thần thoại"
+    },
+    {
+      "num": 1197,
+      "title": "Thiên địa đổi thay (Chương mới – Chương 653: Đổi trời thay đất)"
+    },
+    {
+      "num": 1198,
+      "title": "Bản thân ở Trung tâm Siêu phàm cũ 23 Kỷ Nguyên trước"
+    },
+    {
+      "num": 1199,
+      "title": "Trung tâm siêu phàm đều là giả dối"
+    },
+    {
+      "num": 1200,
+      "title": "Đạo, Không, Vô, Hữu"
+    },
+    {
+      "num": 1201,
+      "title": "Chư Thánh rời đi, biến mất"
+    },
+    {
+      "num": 1202,
+      "title": "Vùng đất cũ dưới màn đêm vạn cổ"
+    },
+    {
+      "num": 1203,
+      "title": "Đom đóm đầy trời bên ngoài thần thoại"
+    },
+    {
+      "num": 1204,
+      "title": "Bị trung tâm siêu phàm ruồng bỏ"
+    },
+    {
+      "num": 1205,
+      "title": "Một nhóm nhỏ những kẻ nắm giữ tương lai"
+    },
+    {
+      "num": 1206,
+      "title": "Mẹ vợ nhìn con rể"
+    },
+    {
+      "num": 1207,
+      "title": "Những nhân vật lớn đến từ các thời đại khác nhau"
+    },
+    {
+      "num": 1208,
+      "title": "Khởi động lại cội nguồn"
+    },
+    {
+      "num": 1209,
+      "title": "Khí thế của một vị Quân Vương Chân Thánh"
+    },
+    {
+      "num": 1210,
+      "title": "Bất đắc dĩ trở thành đại ca dẫn đầu"
+    },
+    {
+      "num": 1211,
+      "title": "Mười lăm màu"
+    },
+    {
+      "num": 1212,
+      "title": "Chí Bảo Lục Phá"
+    },
+    {
+      "num": 1213,
+      "title": "Chân Thân Gánh Đạo Đã Định"
+    },
+    {
+      "num": 1214,
+      "title": "Thần Linh Pháp Hội"
+    },
+    {
+      "num": 1215,
+      "title": "Một đêm kỳ diệu"
+    },
+    {
+      "num": 1216,
+      "title": "Chư Tổ Cùng Xuất Hiện"
+    },
+    {
+      "num": 1217,
+      "title": "Diệu không thể tả"
+    },
+    {
+      "num": 1218,
+      "title": "Chư Thần Và Thú Hoàng"
+    },
+    {
+      "num": 1219,
+      "title": "Vén màn sương mù về chân tướng Bỉ Ngạn"
+    },
+    {
+      "num": 1220,
+      "title": "Vượt qua Bỉ Ngạn"
+    },
+    {
+      "num": 1221,
+      "title": "Khi Thú Hoàng gặp phải Vương Lão Lại"
+    },
+    {
+      "num": 1222,
+      "title": "Nghĩa địa của những kẻ phá vỡ sáu lần"
+    },
+    {
+      "num": 1223,
+      "title": "Kẻ cướp chưa bao giờ đi đường thường"
+    },
+    {
+      "num": 1224,
+      "title": "Còn có vương pháp hay không"
+    },
+    {
+      "num": 1225,
+      "title": "Vác theo 14 cái chân dài bỏ chạy"
+    },
+    {
+      "num": 1226,
+      "title": "Ma cuồng chặt chân, đột phá cảnh giới thứ năm"
+    },
+    {
+      "num": 1227,
+      "title": "Thiên Kiếm Dàn Trận, San Bằng Tất Cả"
+    },
+    {
+      "num": 1228,
+      "title": "Săn giết Dị Nhân"
+    },
+    {
+      "num": 1229,
+      "title": "Con gái của vật lạ trong điện thoại"
+    },
+    {
+      "num": 1230,
+      "title": "Đào tận hang ổ của Lão Tải Đạo"
+    },
+    {
+      "num": 1231,
+      "title": "Đào được một kẻ phá vỡ sáu lần trong hố trời"
+    },
+    {
+      "num": 1232,
+      "title": "Những sinh linh tối cao bị xẻo mất thận, chặt cụt chân"
+    },
+    {
+      "num": 1233,
+      "title": "Điều đáng sợ nhất chẳng qua là đứt đoạn truyền thừa"
+    },
+    {
+      "num": 1234,
+      "title": "Bàn tay trắng bệch giữa màn sương mù của cảnh giới 6 Phá"
+    },
+    {
+      "num": 1235,
+      "title": "Biến Đổi Kinh Hoàng Của Thần Thoại"
+    },
+    {
+      "num": 1236,
+      "title": "Kỷ Nguyên Mới – Chương 692: Thời Đại Lớn Sau Biến Cố"
+    },
+    {
+      "num": 1237,
+      "title": "Không bao giờ trở lại như xưa"
+    },
+    {
+      "num": 1238,
+      "title": "Chiếm trọn thiện cảm của thiên hạ"
+    },
+    {
+      "num": 1239,
+      "title": "Sinh linh tối cao phát điên"
+    },
+    {
+      "num": 1240,
+      "title": "Thời Đại Thành Thần Lập Tổ"
+    },
+    {
+      "num": 1241,
+      "title": "Cảnh tượng chưa từng có trong giới siêu phàm"
+    },
+    {
+      "num": 1242,
+      "title": "Uy lực của cảnh giới 6 phá"
+    },
+    {
+      "num": 1243,
+      "title": "Thần Liên"
+    },
+    {
+      "num": 1244,
+      "title": "Sổ ghi tên người chết của nhà họ Vương"
+    },
+    {
+      "num": 1245,
+      "title": "Sáu trung tâm siêu phàm"
+    },
+    {
+      "num": 1246,
+      "title": "Ông chủ Vương nổi giận"
+    },
+    {
+      "num": 1247,
+      "title": "Quan tài sắp không đè nổi đại ca nữa"
+    },
+    {
+      "num": 1248,
+      "title": "Thiếu niên mặc đồng phục tung hoành biển sao"
+    },
+    {
+      "num": 1249,
+      "title": "Thiên chương mới – Chém đứt số mệnh, hóa sinh một con người mới"
+    },
+    {
+      "num": 1250,
+      "title": "Trước hết giữ lễ, sau mới dùng binh"
+    },
+    {
+      "num": 1251,
+      "title": "Năm mười tám tuổi"
+    },
+    {
+      "num": 1252,
+      "title": "Ngự Đạo Ngũ Phá Đỉnh Phong"
+    },
+    {
+      "num": 1253,
+      "title": "Lại thêm một bộ kinh văn Lục Phá"
+    },
+    {
+      "num": 1254,
+      "title": "Cản đường thành đạo"
+    },
+    {
+      "num": 1255,
+      "title": "Lằn ranh tuyệt đối không thể vượt qua"
+    },
+    {
+      "num": 1256,
+      "title": "Siêu phàm vỡ đê"
+    },
+    {
+      "num": 1257,
+      "title": "Thần thoại bị định dạng lại"
+    },
+    {
+      "num": 1258,
+      "title": "Chư Thánh lui bước"
+    },
+    {
+      "num": 1259,
+      "title": "Đại tiệc cấp Thánh"
+    },
+    {
+      "num": 1260,
+      "title": "Khí thế của kẻ phá vỡ sáu lần"
+    },
+    {
+      "num": 1261,
+      "title": "Cuộc đại di cư của Thần Thoại Trung Tâm, năm thứ 150"
+    },
+    {
+      "num": 1262,
+      "title": "Cuộc tương phùng tình cờ sau hàng chục, hàng trăm kỷ nguyên"
+    },
+    {
+      "num": 1263,
+      "title": "Cuộc va chạm giữa những trung tâm siêu phàm khác nhau"
+    },
+    {
+      "num": 1264,
+      "title": "Tận mắt trải qua một trang sử huy hoàng mới"
+    },
+    {
+      "num": 1265,
+      "title": "Dị Nhân Vương Huyên"
+    },
+    {
+      "num": 1266,
+      "title": "Năm 1503"
+    },
+    {
+      "num": 1267,
+      "title": "Chương cuối – Hồi 11: Đại ca dẫn đầu vang danh khắp hai trung tâm siêu phàm"
+    },
+    {
+      "num": 1268,
+      "title": "Hồi cuối – Chương 12: Vương cách vách tái xuất giang hồ"
+    },
+    {
+      "num": 1269,
+      "title": "Hồi kết – Chương 13: Đệ tử chung của Vô và Ma"
+    },
+    {
+      "num": 1270,
+      "title": "Cảnh giới Phá Sáu không giấu được nữa"
+    },
+    {
+      "num": 1271,
+      "title": "Chương cuối – Hồi 16: Bóng tối đối ứng với cội nguồn siêu phàm"
+    },
+    {
+      "num": 1272,
+      "title": "Sự thật bên dưới cội nguồn thần thoại"
+    },
+    {
+      "num": 1273,
+      "title": "Hồi kết – Chương 18: Đặt chân đến ga cuối"
+    },
+    {
+      "num": 1274,
+      "title": "Hồi kết – Chương 19: Vạn vật đều ngủ, chỉ mình ta tỉnh"
+    },
+    {
+      "num": 1275,
+      "title": "Quái vật cùng cảnh giới Lục Phá giết ra khỏi cội nguồn siêu phàm"
+    },
+    {
+      "num": 1276,
+      "title": "Lái thuyền vượt muôn cõi, tìm kiếm chân thực"
+    },
+    {
+      "num": 1277,
+      "title": "Trên chiếc ô đen vĩnh tịch, nhìn thấy chân thực"
+    },
+    {
+      "num": 1278,
+      "title": "Sự thật về vùng đất chân thực"
+    },
+    {
+      "num": 1279,
+      "title": "Hồi cuối – Chương 24: Kẻ mất ngủ trầm trọng trong thời đại Vĩnh Tịch trở về quê nhà"
+    },
+    {
+      "num": 1280,
+      "title": "Cơ duyên lớn nhất của giới siêu phàm"
+    },
+    {
+      "num": 1281,
+      "title": "Chương cuối – Hồi 26: Mỗi kỷ nguyên mở ra một trang mới"
+    },
+    {
+      "num": 1282,
+      "title": "Một chén trà trong, một tầng trời"
+    },
+    {
+      "num": 1283,
+      "title": "Chung thiên cuối cùng – Chương 28: Kinh văn bị trấn áp dưới tầng trời thứ 36"
+    },
+    {
+      "num": 1284,
+      "title": "Từ thuở xa xưa, tất cả cũng chỉ là một trang giấy úa vàng này"
+    },
+    {
+      "num": 1285,
+      "title": "Hồi kết – Chương 30: Cảnh tượng kỳ diệu khi đốn ngộ trong lĩnh vực 6 Phá"
+    },
+    {
+      "num": 1286,
+      "title": "Hồi kết – Chương 31: Một người “bao vây” cả nhóm dị nhân cấp cao"
+    },
+    {
+      "num": 1287,
+      "title": "Hòa thân"
+    },
+    {
+      "num": 1288,
+      "title": "Hồi kết – Chương 33: Kẻ phản diện lớn nhất thế gian"
+    },
+    {
+      "num": 1289,
+      "title": "Hồi kết – Chương 34: Kết cục tốt đẹp nhất"
+    },
+    {
+      "num": 1290,
+      "title": "Biết gì nói nấy"
+    },
+    {
+      "num": 1291,
+      "title": "Nơi ước mơ cất cánh"
+    },
+    {
+      "num": 1292,
+      "title": "Đời này chẳng còn điều gì nuối tiếc"
+    },
+    {
+      "num": 1293,
+      "title": "Hồi cuối – Chương 38: Bờ Bên Kia"
+    },
+    {
+      "num": 1294,
+      "title": "Cuộc vui cuồng nhiệt nơi thế giới mới"
+    },
+    {
+      "num": 1295,
+      "title": "Thiên địa mới – Chương 40: Bỉ Ngạn tạm thời vẫn có thể xưng vương"
+    },
+    {
+      "num": 1296,
+      "title": "Tuổi trẻ cuồng nhiệt"
+    },
+    {
+      "num": 1297,
+      "title": "Hồi kết – Chương 42: Đại ma đầu tuyệt thế Vương Huyên"
+    },
+    {
+      "num": 1298,
+      "title": "Hố khổng lồ Quy Chân"
+    },
+    {
+      "num": 1299,
+      "title": "Tấm Bia Đá Tuyệt Vọng"
+    },
+    {
+      "num": 1300,
+      "title": "Trận khởi động ở cảnh giới Lục Phá"
+    },
+    {
+      "num": 1301,
+      "title": "Một lần nữa tiến vào Bỉ Ngạn"
+    },
+    {
+      "num": 1302,
+      "title": "Giới tu hành này đúng là rối ren thật!"
+    },
+    {
+      "num": 1303,
+      "title": "Quá sơ suất rồi"
+    },
+    {
+      "num": 1304,
+      "title": "Cuộc va chạm bất ngờ giữa các bậc Thánh"
+    },
+    {
+      "num": 1305,
+      "title": "Chương cuối – Thêm một người đàn ông độc thân đắt giá bậc nhất"
+    },
+    {
+      "num": 1306,
+      "title": "Chung thiên – Chương 51: Chân chính vũ hóa và đăng tiên"
+    },
+    {
+      "num": 1307,
+      "title": "Hồi cuối – Chương 52: Yêu ma quỷ quái trên con đường trở về chân thực"
+    },
+    {
+      "num": 1308,
+      "title": "Hồi kết – Chương 53: Đại phản diện mạnh nhất xuất hiện"
+    },
+    {
+      "num": 1309,
+      "title": "Những kẻ mạnh nhất qua mọi thời đại cùng hội tụ"
+    },
+    {
+      "num": 1310,
+      "title": "Đừng vội"
+    },
+    {
+      "num": 1311,
+      "title": "Hồi kết – Chương 56: Đục thủng liên minh những kẻ mạnh nhất"
+    },
+    {
+      "num": 1312,
+      "title": "Kẻ thù cuối cùng sẽ là gì?"
+    },
+    {
+      "num": 1313,
+      "title": "Hồi kết – Chương 58: Tổ sư đi ngang qua cũng phải đánh cho một trận"
+    },
+    {
+      "num": 1314,
+      "title": "Chung cuộc – Chương 59: Đại Vương gánh hết mọi chuyện"
+    },
+    {
+      "num": 1315,
+      "title": "Hồi cuối – Chương 60: Trên con đường trở về chân thực"
+    },
+    {
+      "num": 1316,
+      "title": "Hồi kết – Chương 61: Những chuyện bí mật ít người biết trong lĩnh vực Chân Thánh"
+    },
+    {
+      "num": 1317,
+      "title": "Mối họa còn sót lại từ vùng đất Quy Chân"
+    },
+    {
+      "num": 1318,
+      "title": "Trạm Dịch Quy Chân"
+    },
+    {
+      "num": 1319,
+      "title": "Hồi cuối – Chương 64: Yêu ma quỷ quái trên con đường chân thực"
+    },
+    {
+      "num": 1320,
+      "title": "Tiêu Dao Du trăm kỷ"
+    },
+    {
+      "num": 1321,
+      "title": "Người dẫn đầu trên con đường trở về chân thật"
+    },
+    {
+      "num": 1322,
+      "title": "Khí thế áp đảo"
+    },
+    {
+      "num": 1323,
+      "title": "Hồi cuối – Chương 68: Thật lòng cầu bại"
+    },
+    {
+      "num": 1324,
+      "title": "Người đứng đầu muôn giới"
+    },
+    {
+      "num": 1325,
+      "title": "Chân Vương"
+    },
+    {
+      "num": 1326,
+      "title": "Điều phải đến, cuối cùng cũng đã đến"
+    },
+    {
+      "num": 1327,
+      "title": "Mọi cội nguồn thần thoại đều lụi tắt"
+    },
+    {
+      "num": 1328,
+      "title": "Lên đường giữa đêm dài vô tận"
+    },
+    {
+      "num": 1329,
+      "title": "Một mình tìm kiếm ánh sáng giữa đêm dài vĩnh viễn"
+    },
+    {
+      "num": 1330,
+      "title": "Đến kẻ dị thường cũng phải thấy dị thường"
+    },
+    {
+      "num": 1331,
+      "title": "Cội nguồn siêu phàm xưa"
+    },
+    {
+      "num": 1332,
+      "title": "Người quét mộ"
+    },
+    {
+      "num": 1333,
+      "title": "Hồi cuối – Chương 78: Một giấc ngủ kéo dài hàng trăm triệu năm"
+    },
+    {
+      "num": 1334,
+      "title": "Mùa vạn vật hồi sinh của kỷ nguyên mới"
+    },
+    {
+      "num": 1335,
+      "title": "Tiện đường ngứa tay"
+    },
+    {
+      "num": 1336,
+      "title": "Đến cả Chân Thánh cũng dám túm cổ"
+    },
+    {
+      "num": 1337,
+      "title": "Tiện đường chém Thánh"
+    },
+    {
+      "num": 1338,
+      "title": "Ngày gặp lại"
+    },
+    {
+      "num": 1339,
+      "title": "Thắp sáng vùng trời sâu thẳm"
+    },
+    {
+      "num": 1340,
+      "title": "Hồi cuối – Chương 85: Ngắm hoa và Vương Ngư Nhi"
+    },
+    {
+      "num": 1341,
+      "title": "Biên niên sử diệt sạch đám câu cá"
+    },
+    {
+      "num": 1342,
+      "title": "Những tháng ngày tươi đẹp"
+    },
+    {
+      "num": 1343,
+      "title": "Hồi kết – Chương 88: Mầm họa từ con đường Quy Chân bắt đầu lộ diện"
+    },
+    {
+      "num": 1344,
+      "title": "Chương cuối 89: Hiện thế xưng vương, thế này cũng được sao?"
+    },
+    {
+      "num": 1345,
+      "title": "Câu cá giữa biển sao"
+    },
+    {
+      "num": 1346,
+      "title": "Hồi cuối – Chương 91: Xông vào tổng bộ Liên Minh Vật Phẩm Cấm Kỵ"
+    },
+    {
+      "num": 1347,
+      "title": "Xin thủ lĩnh chịu chết"
+    },
+    {
+      "num": 1348,
+      "title": "Danh sách tử sát tìm đến cửa"
+    },
+    {
+      "num": 1349,
+      "title": "Hồi cuối – Chương 94: Vô tình trở thành bậc đại năng"
+    },
+    {
+      "num": 1350,
+      "title": "Kẻ chống lưng cho Lê Lâm"
+    },
+    {
+      "num": 1351,
+      "title": "Ông chú hờ tiện nghi lại là cường giả đứng đầu"
+    },
+    {
+      "num": 1352,
+      "title": "Biến cố kinh hoàng tại khởi nguồn siêu phàm"
+    },
+    {
+      "num": 1353,
+      "title": "Chung Thiên – Chương 98: Nướng Thận Chân Thánh Bồi Bổ Một Chút"
+    },
+    {
+      "num": 1354,
+      "title": "Bàn đạo, áp đảo ba cõi"
+    },
+    {
+      "num": 1355,
+      "title": "Chương cuối – Kẻ kết thúc"
+    },
+    {
+      "num": 1356,
+      "title": "Đại chiến khắp vũ trụ, giết đến trời long đất lở"
+    },
+    {
+      "num": 1357,
+      "title": "Hồi cuối – Chương 102: Vặt trụi cả da"
+    },
+    {
+      "num": 1358,
+      "title": "Kết cục, toàn quân bị diệt"
+    },
+    {
+      "num": 1359,
+      "title": "Chương cuối – Từ thuở xa xưa đến tận tương lai, chẳng qua cũng chỉ là 15 trang giấy rách"
+    },
+    {
+      "num": 1360,
+      "title": "“Mối họa còn sót lại” giáng lâm"
+    },
+    {
+      "num": 1361,
+      "title": "Quái vật dưới cội nguồn siêu phàm xuất thế"
+    },
+    {
+      "num": 1362,
+      "title": "Kẻ hiệu lệnh thiên hạ"
+    },
+    {
+      "num": 1363,
+      "title": "Chương cuối – Giấc mơ thuở thiếu thời đã được nâng lên một tầm cao mới và trở thành hiện thực"
+    },
+    {
+      "num": 1364,
+      "title": "Hóa ra là ngươi"
+    },
+    {
+      "num": 1365,
+      "title": "Chương cuối – Quyết tâm nâng đỡ những lão già nhiệt huyết"
+    },
+    {
+      "num": 1366,
+      "title": "Con thuyền cô độc vượt muôn vàn thế giới"
+    },
+    {
+      "num": 1367,
+      "title": "Tiến thêm một tầng cao"
+    },
+    {
+      "num": 1368,
+      "title": "Dị vực đều đang truyền tụng danh tiếng của Vương"
+    },
+    {
+      "num": 1369,
+      "title": "Hồi kết – Chương 114: Áp lực đáng sợ của đại ma đầu"
+    },
+    {
+      "num": 1370,
+      "title": "Kết thúc – Chương 115: Công đức viên mãn"
+    },
+    {
+      "num": 1371,
+      "title": "Đôi bên cùng hướng về nhau"
+    },
+    {
+      "num": 1372,
+      "title": "Biệt đội lão niên nhiệt huyết"
+    },
+    {
+      "num": 1373,
+      "title": "Một mình đối đầu chư tổ"
+    },
+    {
+      "num": 1374,
+      "title": "Hồi cuối – Chương 119: Thiếu niên mang theo cả lũ bùn đất trong cơn lốc xoáy"
+    },
+    {
+      "num": 1375,
+      "title": "Mục tiêu mới của Đoàn quân Thiên đình"
+    },
+    {
+      "num": 1376,
+      "title": "Những vị tổ sư cưỡi gió vượt sóng"
+    },
+    {
+      "num": 1377,
+      "title": "Hoạt hình Già Thiên chính thức lên sóng Tencent Video ngày 3 tháng 5"
+    },
+    {
+      "num": 1378,
+      "title": "Nguy cơ xuất hiện"
+    },
+    {
+      "num": 1379,
+      "title": "Bị ép đặt chân vào vùng đất chưa từng biết đến"
+    },
+    {
+      "num": 1380,
+      "title": "Hồi kết – Chương 125: Mầm Đạo đầu tiên sau Mệnh Thổ"
+    },
+    {
+      "num": 1381,
+      "title": "Vương Chân Vương"
+    },
+    {
+      "num": 1382,
+      "title": "Sinh ra đã mang lòng phản nghịch"
+    },
+    {
+      "num": 1383,
+      "title": "Hồi cuối – Chương 128: Đại hội tối cao"
+    },
+    {
+      "num": 1384,
+      "title": "Chương cuối 129: Thuận theo dòng chảy lớn của lịch sử"
+    },
+    {
+      "num": 1385,
+      "title": "Chương cuối 130: Cuộc xung đột giữa những cội nguồn siêu phàm tối cao"
+    },
+    {
+      "num": 1386,
+      "title": "Chân Vương giáng thế"
+    },
+    {
+      "num": 1387,
+      "title": "Trận đại chiến giữa những Chúa Tể của nguồn gốc siêu phàm"
+    },
+    {
+      "num": 1388,
+      "title": "Chân Vương đổ máu"
+    },
+    {
+      "num": 1389,
+      "title": "Chương cuối – Sáu vị Chân Vương đồng loạt xuất thế"
+    },
+    {
+      "num": 1390,
+      "title": "Trận chiến hỗn loạn giữa sáu vị Chân Vương"
+    },
+    {
+      "num": 1391,
+      "title": "Vua ngã xuống"
+    },
+    {
+      "num": 1392,
+      "title": "Tổn hại đạo trời"
+    },
+    {
+      "num": 1393,
+      "title": "Chân Vương Giải Mật"
+    },
+    {
+      "num": 1394,
+      "title": "Biệt đội lão tướng nhiệt huyết xuất sơn"
+    },
+    {
+      "num": 1395,
+      "title": "Hồi kết (Chương 140: Sự thật tàn khốc)"
+    },
+    {
+      "num": 1396,
+      "title": "Năm tháng dài lâu"
+    },
+    {
+      "num": 1397,
+      "title": "Đối thoại với vùng đất Quy Chân"
+    },
+    {
+      "num": 1398,
+      "title": "Khép lại những mối nhân quả"
+    },
+    {
+      "num": 1399,
+      "title": "Thế gian này đã khác"
+    },
+    {
+      "num": 1400,
+      "title": "Nghịch Thiên Đổi Mệnh"
+    },
+    {
+      "num": 1401,
+      "title": "Chân Vương đời sau chẳng biết giữ đạo thánh"
+    },
+    {
+      "num": 1402,
+      "title": "Chân Vương của Schrödinger"
+    },
+    {
+      "num": 1403,
+      "title": "Chân Vương tiết lộ bí mật"
+    },
+    {
+      "num": 1404,
+      "title": "Hồi kết – Chương 149: Ngửa bài"
+    },
+    {
+      "num": 1405,
+      "title": "Hồi cuối – Chương 150: Ba đại tai chủ"
+    },
+    {
+      "num": 1406,
+      "title": "Chương cuối – Có thêm một đứa con đã ba nghìn tuổi"
+    },
+    {
+      "num": 1407,
+      "title": "Khắp thế gian đều biết tân vương"
+    },
+    {
+      "num": 1408,
+      "title": "Chuẩn bị cho đại kiếp Âm Lục tồi tệ nhất"
+    },
+    {
+      "num": 1409,
+      "title": "Hồi kết – Chương 154: Một kỷ nguyên nữa khép lại"
+    },
+    {
+      "num": 1410,
+      "title": "Sáu cội nguồn lớn cùng hội tụ"
+    },
+    {
+      "num": 1411,
+      "title": "Độc nhất vô nhị"
+    },
+    {
+      "num": 1412,
+      "title": "270 Kỷ Khổ Tu"
+    },
+    {
+      "num": 1413,
+      "title": "Dùng kiếm thử sức các vị Vương"
+    },
+    {
+      "num": 1414,
+      "title": "Uy hiếp 13 vùng khởi nguồn"
+    },
+    {
+      "num": 1415,
+      "title": "Thái Thượng Ác Hoàng (Thượng)"
+    },
+    {
+      "num": 1416,
+      "title": "Thái Thượng Ác Hoàng (Hạ)"
+    },
+    {
+      "num": 1417,
+      "title": "Hồi cuối – Chương 162: Không còn lựa chọn nào khác"
+    },
+    {
+      "num": 1418,
+      "title": "Vô địch đương thời"
+    },
+    {
+      "num": 1419,
+      "title": "Hồi kết – Chương 164: Vương Chủ"
+    },
+    {
+      "num": 1420,
+      "title": "Ảnh hưởng của vị tai chủ ở hiện thế"
+    },
+    {
+      "num": 1421,
+      "title": "Giấc mộng dài nhất"
+    },
+    {
+      "num": 1422,
+      "title": "Kỷ Nguyên Cuối Cùng"
+    },
+    {
+      "num": 1423,
+      "title": "Vùng đất chân thực giáng lâm"
+    },
+    {
+      "num": 1424,
+      "title": "Tai Chủ ra tay"
+    },
+    {
+      "num": 1425,
+      "title": "Chương cuối – Hiển Thánh Giữa Nhân Gian"
+    },
+    {
+      "num": 1426,
+      "title": "Điểm dừng chân cuối cùng"
+    },
+    {
+      "num": 1427,
+      "title": "Đặt chân đến vùng đất chân thực"
+    },
+    {
+      "num": 1428,
+      "title": "Hồi kết – Chương 173: Giết tai chủ, luyện thành chân hình"
+    },
+    {
+      "num": 1429,
+      "title": "Tất cả đều vì trở về chân thực"
+    },
+    {
+      "num": 1430,
+      "title": "Hồi kết – Chương 175: Một trận chiến chấn động thế gian"
+    },
+    {
+      "num": 1431,
+      "title": "Hồi cuối – Chương 176: Giết xuyên toàn bộ"
+    },
+    {
+      "num": 1432,
+      "title": "Đại kết cục"
+    },
+    {
+      "num": 1433,
+      "title": "Ngoại truyện – Đạo Ngoài Và Hậu Viện (Miễn Phí)"
+    }
+  ],
+  "slug": "tham_khong_bi_ngan",
+  "title": "Thâm Không Bỉ Ngạn",
+  "author": "Thần Đông",
+  "synopsis": "Truyện khoa huyễn – huyền huyễn vũ trụ của Thần Đông (辰東), đã hoàn thành. Vương Huyên bước lên con đường siêu phàm từ Cựu Thổ, rồi đi sâu vào tinh không bao la: những cuộc chạm trán với các thế lực cổ xưa, Yêu Đình, Minh Huyết Giáo, những bí cảnh, pháp khí và đạo thống nối nhau qua nhiều thời đại. Mạch truyện chia thành ba chặng lớn (cựu thiên, tân thiên, chung thiên), hào hùng, nhiều thiết lập, giọng văn trầm và có chiều sâu về số phận nhân loại trong dòng thời gian.",
+  "coverColor": "#1b2a41"
+}
