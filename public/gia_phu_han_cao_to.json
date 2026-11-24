@@ -1,0 +1,3094 @@
+{
+  "totalChapters": 771,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Thằng nhóc này chẳng giống trẫm chút nào"
+    },
+    {
+      "num": 2,
+      "title": "Thái tử nhà hàng xóm"
+    },
+    {
+      "num": 3,
+      "title": "Hai tên vô lại lớn nhỏ"
+    },
+    {
+      "num": 4,
+      "title": "Làm thế nào để trở thành một vị chư hầu vương đạt chuẩn"
+    },
+    {
+      "num": 5,
+      "title": "Anh em hòa thuận, kính nhường nhau"
+    },
+    {
+      "num": 6,
+      "title": "Yến tiệc gia đình"
+    },
+    {
+      "num": 7,
+      "title": "Người hát là Lưu Bang, ai là người soạn nhạc?"
+    },
+    {
+      "num": 8,
+      "title": "Những ông anh chẳng đáng tin của ta"
+    },
+    {
+      "num": 9,
+      "title": "Chuyên gia phá nhà"
+    },
+    {
+      "num": 10,
+      "title": "Ông chú nhiệt tình, tốt bụng"
+    },
+    {
+      "num": 11,
+      "title": "Người vĩ đại nhất"
+    },
+    {
+      "num": 12,
+      "title": "Vị vua nhân nghĩa"
+    },
+    {
+      "num": 13,
+      "title": "Vòng xoáy"
+    },
+    {
+      "num": 14,
+      "title": "Người bảo vệ các chư hầu Đại Hán"
+    },
+    {
+      "num": 15,
+      "title": "Thượng Phương"
+    },
+    {
+      "num": 16,
+      "title": "Hầu tước Vũ Dương"
+    },
+    {
+      "num": 17,
+      "title": "Ba điều ước"
+    },
+    {
+      "num": 18,
+      "title": "Cơn sóng gió mới"
+    },
+    {
+      "num": 19,
+      "title": "Mỗi người nói một kiểu"
+    },
+    {
+      "num": 20,
+      "title": "Bi kịch chốn nhân gian"
+    },
+    {
+      "num": 21,
+      "title": "Trong đám người hình như có thứ gì kỳ lạ trà trộn vào"
+    },
+    {
+      "num": 22,
+      "title": "Hỏi cho ra lẽ"
+    },
+    {
+      "num": 23,
+      "title": "Sinh nhầm thời đại"
+    },
+    {
+      "num": 24,
+      "title": "Sửa sai làm lại"
+    },
+    {
+      "num": 25,
+      "title": "Thời đại này vẫn còn một vị Hàn vương thông minh"
+    },
+    {
+      "num": 26,
+      "title": "Tạo phản"
+    },
+    {
+      "num": 27,
+      "title": "Ta từng bắt sống Bạch Khởi"
+    },
+    {
+      "num": 28,
+      "title": "Sao ngươi biết?"
+    },
+    {
+      "num": 29,
+      "title": "Học thuyết Hoàng Lão"
+    },
+    {
+      "num": 30,
+      "title": "Vui mừng quá sớm!"
+    },
+    {
+      "num": 31,
+      "title": "Hàn Tín múa kiếm, ý đồ nhắm vào Bái Công"
+    },
+    {
+      "num": 32,
+      "title": "Lưu Trường múa kiếm, nhắm vào Khoái Triệt"
+    },
+    {
+      "num": 33,
+      "title": "Thế nào mới gọi là Ngự sử đại phu?"
+    },
+    {
+      "num": 34,
+      "title": "Hàn Tín đến rồi! Công tử chết rồi!"
+    },
+    {
+      "num": 35,
+      "title": "Đôi bạn"
+    },
+    {
+      "num": 36,
+      "title": "Tương lai là của ngươi"
+    },
+    {
+      "num": 37,
+      "title": "Ngươi là ai? Ngươi đã làm gì con trai ta rồi?"
+    },
+    {
+      "num": 38,
+      "title": "Dù sao cũng phải có người chịu trách nhiệm"
+    },
+    {
+      "num": 39,
+      "title": "Bành Việt"
+    },
+    {
+      "num": 40,
+      "title": "Kẻ thù cả đời của công tử Trường"
+    },
+    {
+      "num": 41,
+      "title": "Công tử mừng rỡ như điên"
+    },
+    {
+      "num": 42,
+      "title": "Xin được xử tử"
+    },
+    {
+      "num": 43,
+      "title": "Công tử thật cao thượng!!"
+    },
+    {
+      "num": 44,
+      "title": "Hiền nhân! Công tử Trường!"
+    },
+    {
+      "num": 45,
+      "title": "Đều tại Hàn Phi"
+    },
+    {
+      "num": 46,
+      "title": "Có cha nào thì có con nấy"
+    },
+    {
+      "num": 47,
+      "title": "Xin nấu Loan Xá Nhân"
+    },
+    {
+      "num": 48,
+      "title": "Đang định tìm ngươi"
+    },
+    {
+      "num": 49,
+      "title": "Ai đi gọi thái y lệnh đến đây?"
+    },
+    {
+      "num": 50,
+      "title": "Ngươi chính là Lưu Trường đấy à?"
+    },
+    {
+      "num": 51,
+      "title": "Thế này gọi là chiến thuật"
+    },
+    {
+      "num": 52,
+      "title": "Cái mũ của Anh Bố"
+    },
+    {
+      "num": 53,
+      "title": "Cha và con"
+    },
+    {
+      "num": 54,
+      "title": "Triệu Vương Lưu Như Ý"
+    },
+    {
+      "num": 55,
+      "title": "Lão thợ xây Tiêu Hà"
+    },
+    {
+      "num": 56,
+      "title": "Cái Công"
+    },
+    {
+      "num": 57,
+      "title": "Kiếm Thánh công tử Trường"
+    },
+    {
+      "num": 58,
+      "title": "Chuyện này quá đáng giá!"
+    },
+    {
+      "num": 59,
+      "title": "Con trai ta, Lưu Trường có tố chất làm chư hầu vương"
+    },
+    {
+      "num": 60,
+      "title": "Thái tử mưu phản là vì sao?"
+    },
+    {
+      "num": 61,
+      "title": "Hoàng hậu đánh người rồi!"
+    },
+    {
+      "num": 62,
+      "title": "Trở mặt như chong chóng"
+    },
+    {
+      "num": 63,
+      "title": "Mượn dao giết người"
+    },
+    {
+      "num": 64,
+      "title": "Vu oan giá họa"
+    },
+    {
+      "num": 65,
+      "title": "Những thằng nhóc ngốc nghếch nhà họ Lưu"
+    },
+    {
+      "num": 66,
+      "title": "Suýt nữa ta tưởng người ngồi bên cạnh là cha vợ mình!"
+    },
+    {
+      "num": 67,
+      "title": "Trưởng tỷ như mẹ"
+    },
+    {
+      "num": 68,
+      "title": "Người trẻ tuổi đừng quá ngông cuồng!"
+    },
+    {
+      "num": 69,
+      "title": "Cái chết của chư hầu vương"
+    },
+    {
+      "num": 70,
+      "title": "Trái tim của người dũng cảm"
+    },
+    {
+      "num": 71,
+      "title": "Một đấng nam nhi phải biết tự lập tự cường"
+    },
+    {
+      "num": 72,
+      "title": "Ta, Lưu Trường, trước nay không bao giờ nói khoác"
+    },
+    {
+      "num": 73,
+      "title": "Gió cát nơi đây quá lớn"
+    },
+    {
+      "num": 74,
+      "title": "Thì ra là công tử Trường! Ngưỡng mộ đã lâu!"
+    },
+    {
+      "num": 75,
+      "title": "Loan Bố! Chém hắn!"
+    },
+    {
+      "num": 76,
+      "title": "Đây là pháo nổ!"
+    },
+    {
+      "num": 77,
+      "title": "Ta thích thế"
+    },
+    {
+      "num": 78,
+      "title": "Ngươi vội vã gọi ta về chỉ để xem cái này thôi à?"
+    },
+    {
+      "num": 79,
+      "title": "Đền chiến xa cho ta!"
+    },
+    {
+      "num": 80,
+      "title": "Chẳng có ai khiến người ta yên tâm"
+    },
+    {
+      "num": 81,
+      "title": "Đến đây chỉ để múa kiếm giúp người vui vẻ thôi"
+    },
+    {
+      "num": 82,
+      "title": "Cút về bụng mẹ ngươi đi!"
+    },
+    {
+      "num": 83,
+      "title": "Các ngươi còn kém xa lắm"
+    },
+    {
+      "num": 84,
+      "title": "Hắn thật sự tạo phản rồi"
+    },
+    {
+      "num": 85,
+      "title": "Muốn giết Phàn Khoái"
+    },
+    {
+      "num": 86,
+      "title": "Công tử cứu mạng!"
+    },
+    {
+      "num": 87,
+      "title": "Là Cái Công muốn giết ta sao?"
+    },
+    {
+      "num": 88,
+      "title": "Huynh trưởng! Huynh học theo đệ đi!"
+    },
+    {
+      "num": 89,
+      "title": "Cậu! Trả xe cho ta!"
+    },
+    {
+      "num": 90,
+      "title": "Cha hiền con thảo"
+    },
+    {
+      "num": 91,
+      "title": "Lưu Trường dùng kế hay làm thiên hạ yên ổn"
+    },
+    {
+      "num": 92,
+      "title": "Trường à, đừng làm mất mặt tổ sư của con!"
+    },
+    {
+      "num": 93,
+      "title": "Đành miễn cưỡng làm Thánh của cả hai phái vậy"
+    },
+    {
+      "num": 94,
+      "title": "Cút về đây cho lão tử!"
+    },
+    {
+      "num": 95,
+      "title": "Lời nhắn của Hàn Tín"
+    },
+    {
+      "num": 96,
+      "title": "Người thầy giỏi, học trò xuất sắc"
+    },
+    {
+      "num": 97,
+      "title": "Không được cười!"
+    },
+    {
+      "num": 98,
+      "title": "Ngươi có cho hay không?"
+    },
+    {
+      "num": 99,
+      "title": "Gốc rễ nằm ở đây!"
+    },
+    {
+      "num": 100,
+      "title": "Binh pháp mới của Hoài Âm Hầu"
+    },
+    {
+      "num": 101,
+      "title": "Hiền vương chính thức lên sàn"
+    },
+    {
+      "num": 102,
+      "title": "Các hiền vương đều lên sân!"
+    },
+    {
+      "num": 103,
+      "title": "Đường Vương và kế sách trị nước"
+    },
+    {
+      "num": 104,
+      "title": "Anh, huynh đừng đi!"
+    },
+    {
+      "num": 105,
+      "title": "Tào Tặc"
+    },
+    {
+      "num": 106,
+      "title": "Khi trưởng thành ắt có biến đổi"
+    },
+    {
+      "num": 107,
+      "title": "Ba thành tựu lớn"
+    },
+    {
+      "num": 108,
+      "title": "Thái tử phi"
+    },
+    {
+      "num": 109,
+      "title": "Nhất định phải trị cho tên gian tặc Tào Tham một trận!"
+    },
+    {
+      "num": 110,
+      "title": "Đánh không lại thì gia nhập"
+    },
+    {
+      "num": 111,
+      "title": "Nước Đường thiếu đủ thứ"
+    },
+    {
+      "num": 112,
+      "title": "Có con ắt có cha"
+    },
+    {
+      "num": 113,
+      "title": "Thái tử thành thân!"
+    },
+    {
+      "num": 114,
+      "title": "Ngươi viết nhật ký, ta đọc báo"
+    },
+    {
+      "num": 115,
+      "title": "Công tử học bắn cung"
+    },
+    {
+      "num": 116,
+      "title": "Trường à, trẫm phải đi rồi"
+    },
+    {
+      "num": 117,
+      "title": "Cuối cùng cũng phải có người gác nỗi đau sang một bên"
+    },
+    {
+      "num": 118,
+      "title": "Ta vẫn là ta"
+    },
+    {
+      "num": 119,
+      "title": "Nhìn kiểu gì cũng thấy chướng mắt"
+    },
+    {
+      "num": 120,
+      "title": "Thế nào gọi là ép người khác bằng đạo đức?"
+    },
+    {
+      "num": 121,
+      "title": "Làm phiền rồi, xin cáo từ!"
+    },
+    {
+      "num": 122,
+      "title": "Ta đã già, nhưng con trai ta vẫn còn trẻ mà!"
+    },
+    {
+      "num": 123,
+      "title": "Thế này mà gọi là xá nhân à?"
+    },
+    {
+      "num": 124,
+      "title": "Anh trai ta nhát gan, nhưng là người tốt"
+    },
+    {
+      "num": 125,
+      "title": "Quan đình lừa"
+    },
+    {
+      "num": 126,
+      "title": "Chị ơi, tuyệt đối đừng lấy hắn mà!"
+    },
+    {
+      "num": 127,
+      "title": "Các ngươi không nhìn thấy ta sao??"
+    },
+    {
+      "num": 128,
+      "title": "Tranh cãi mãi mãi không bao giờ chấm dứt"
+    },
+    {
+      "num": 129,
+      "title": "Giải thích thế nào là nhổ lông nhạn khi nhạn bay qua"
+    },
+    {
+      "num": 130,
+      "title": "Ta đâu phải không hiểu"
+    },
+    {
+      "num": 131,
+      "title": "Ngươi là ai vậy???"
+    },
+    {
+      "num": 132,
+      "title": "Sở Mặc"
+    },
+    {
+      "num": 133,
+      "title": "Đường Vương, kẻ phản diện bước ra từ sách giáo khoa"
+    },
+    {
+      "num": 134,
+      "title": "Hổ con"
+    },
+    {
+      "num": 135,
+      "title": "Tôi thật sự không có ý gì khác đâu"
+    },
+    {
+      "num": 136,
+      "title": "Tần Mặc làm được, Sở Mặc ta lại không làm được sao??"
+    },
+    {
+      "num": 137,
+      "title": "Thần muốn đàn hặc Đường Vương Trường!"
+    },
+    {
+      "num": 138,
+      "title": "Chắc chắn là do Trần Bình làm!!"
+    },
+    {
+      "num": 139,
+      "title": "Không giả vờ nữa, ngửa bài luôn"
+    },
+    {
+      "num": 140,
+      "title": "Trường An có ba món ngon tuyệt đỉnh"
+    },
+    {
+      "num": 141,
+      "title": "Chỉ cần ngươi có ngựa, ngươi chính là huynh đệ tốt nhất của Lưu Trường ta"
+    },
+    {
+      "num": 142,
+      "title": "Ta ngày ngày bận trăm công nghìn việc, quả thực mệt mỏi vô cùng!"
+    },
+    {
+      "num": 143,
+      "title": "Sức nhổ núi"
+    },
+    {
+      "num": 144,
+      "title": "Tương Kính Như Tân"
+    },
+    {
+      "num": 145,
+      "title": "Quản Trọng Lạc Nghị"
+    },
+    {
+      "num": 146,
+      "title": "Bức thư của Mặc Đốn"
+    },
+    {
+      "num": 147,
+      "title": "Quý Bố"
+    },
+    {
+      "num": 148,
+      "title": "Muốn báo thù không? Trường?"
+    },
+    {
+      "num": 149,
+      "title": "Qua cầu rút ván (Chương gộp 2 trong 1)"
+    },
+    {
+      "num": 150,
+      "title": "Thư hồi âm của Lưu Trường gửi Mạo Đốn (2 chương gộp 1)"
+    },
+    {
+      "num": 151,
+      "title": "Ngươi tưởng mình đang đối mặt với ai?!"
+    },
+    {
+      "num": 152,
+      "title": "Lưu Trường khiến sứ giả Hung Nô bẽ mặt ngay tại chỗ"
+    },
+    {
+      "num": 153,
+      "title": "Cả trên dưới Đường Quốc đều chẳng ra gì!"
+    },
+    {
+      "num": 154,
+      "title": "Người đâu, chuẩn bị rượu cho Tề Vương!"
+    },
+    {
+      "num": 155,
+      "title": "Bệ hạ rốt cuộc muốn giết ai?"
+    },
+    {
+      "num": 156,
+      "title": "Con trai trưởng và Đường Vương, bệ hạ thương ai hơn?"
+    },
+    {
+      "num": 157,
+      "title": "Ai mà biết được?"
+    },
+    {
+      "num": 158,
+      "title": "Săn bắn"
+    },
+    {
+      "num": 159,
+      "title": "Có phủ đệ riêng đúng là khác hẳn các chư hầu vương khác!"
+    },
+    {
+      "num": 160,
+      "title": "Vương phủ Đường? Không, ổ trộm cướp!"
+    },
+    {
+      "num": 161,
+      "title": "Mẹ Và Con"
+    },
+    {
+      "num": 162,
+      "title": "10.000 cách chết của Khoái Triệt"
+    },
+    {
+      "num": 163,
+      "title": "Chỉ cần ta không biết xấu hổ"
+    },
+    {
+      "num": 164,
+      "title": "Gian tặc, ăn một gậy của lão phu!"
+    },
+    {
+      "num": 165,
+      "title": "Sư phụ của sư phụ ta, chưa chắc đã là sư phụ ta"
+    },
+    {
+      "num": 166,
+      "title": "Người anh trai ngây thơ ngốc nghếch của ta, phải thay đổi huynh ấy thế nào đây?"
+    },
+    {
+      "num": 167,
+      "title": "Thành Trường An thực sự trông như thế nào?"
+    },
+    {
+      "num": 168,
+      "title": "Ban đầu không phải kẻ ngang ngược, chỉ là không được lòng quần thần"
+    },
+    {
+      "num": 169,
+      "title": "Thiên hạ đã khổ vì Đường quá lâu rồi"
+    },
+    {
+      "num": 170,
+      "title": "Dựng nên một nước chư hầu trên mảnh đất đầy lòng phản trắc"
+    },
+    {
+      "num": 171,
+      "title": "Đường Quốc lại có thêm một người tài"
+    },
+    {
+      "num": 172,
+      "title": "Đệ nhất tướng quốc của Đại Hán"
+    },
+    {
+      "num": 173,
+      "title": "Hỏng rồi, ta trở thành Như Ý mất rồi!\\"
+    },
+    {
+      "num": 174,
+      "title": "Quả nhân lại nghĩ ra một kế hay!"
+    },
+    {
+      "num": 175,
+      "title": "Một cái tát vang dội"
+    },
+    {
+      "num": 176,
+      "title": "Ngươi muốn cả dòng họ cùng ngươi diệt vong sao?"
+    },
+    {
+      "num": 177,
+      "title": "Phụng chiếu đánh giặc"
+    },
+    {
+      "num": 178,
+      "title": "Đại Hán đệ nhất ác nhân"
+    },
+    {
+      "num": 179,
+      "title": "Chỉ nhắm vào người già yếu"
+    },
+    {
+      "num": 180,
+      "title": "Cả nhà đều có máu phản nghịch"
+    },
+    {
+      "num": 181,
+      "title": "Ngươi đúng là con trai của Cao Hoàng Đế thật đấy!"
+    },
+    {
+      "num": 182,
+      "title": "Biến động ở Trường An"
+    },
+    {
+      "num": 183,
+      "title": "Triệu Vương không được!"
+    },
+    {
+      "num": 184,
+      "title": "Ngươi là bạo quân như Tần Vương!"
+    },
+    {
+      "num": 185,
+      "title": "Chúc mừng Đường Vương có thêm người hầu mới"
+    },
+    {
+      "num": 186,
+      "title": "Dượng! Người bình tĩnh lại đi!!"
+    },
+    {
+      "num": 187,
+      "title": "Bệ hạ tuấn tú, người cầm đao đứng bên cạnh mới thật sự là anh hùng!"
+    },
+    {
+      "num": 188,
+      "title": "Giả Nghị kinh hoàng"
+    },
+    {
+      "num": 189,
+      "title": "Vị đại thánh nhân trưởng thành nhờ trước tác, lập nên học phái"
+    },
+    {
+      "num": 190,
+      "title": "Vị đại thiện nhân Lưu Trường thích làm việc thiện"
+    },
+    {
+      "num": 191,
+      "title": "Ỷ mạnh hiếp yếu"
+    },
+    {
+      "num": 192,
+      "title": "Sao không đến bái kiến quả nhân?"
+    },
+    {
+      "num": 193,
+      "title": "Yến tiệc sinh tử"
+    },
+    {
+      "num": 194,
+      "title": "Đường Vương không ai có thể thay thế"
+    },
+    {
+      "num": 195,
+      "title": "Kẻ phản nghịch số một thiên hạ công nhận"
+    },
+    {
+      "num": 196,
+      "title": "Tào Thù"
+    },
+    {
+      "num": 197,
+      "title": "Ta đã trưởng thành, các ngươi có thể lui rồi"
+    },
+    {
+      "num": 198,
+      "title": "Rốt cuộc ai mới là man di??"
+    },
+    {
+      "num": 199,
+      "title": "Thiên hạ này, ai mà chẳng thông Đường?"
+    },
+    {
+      "num": 200,
+      "title": "Bởi vì ta thật sự có một học cung!"
+    },
+    {
+      "num": 201,
+      "title": "Lần sau nhớ tự mình viết lấy nhé"
+    },
+    {
+      "num": 202,
+      "title": "Dần dần bị đồng hóa của Giả Sinh"
+    },
+    {
+      "num": 203,
+      "title": "Phản tặc phải diễn thế nào? Chỉ cần biết tiết chế một chút là được"
+    },
+    {
+      "num": 204,
+      "title": "Ta nhất định phải bắt sống Triệu Đà!"
+    },
+    {
+      "num": 205,
+      "title": "Ta là tổ tông của ngươi!!!"
+    },
+    {
+      "num": 206,
+      "title": "Trói về đây cho ta, lão già!"
+    },
+    {
+      "num": 207,
+      "title": "Đại Kỳ Thánh Và Tiểu Kỳ Thánh"
+    },
+    {
+      "num": 208,
+      "title": "Những con chó săn của Pháp gia"
+    },
+    {
+      "num": 209,
+      "title": "Trương Bất Nghi và Triệu Bình thế hệ thứ hai"
+    },
+    {
+      "num": 210,
+      "title": "Thằng nhóc tên Lưu An này là ai vậy??"
+    },
+    {
+      "num": 211,
+      "title": "Yến tiệc của các bậc hiền tài"
+    },
+    {
+      "num": 212,
+      "title": "Ngươi cứ nói có giúp hay không?!"
+    },
+    {
+      "num": 213,
+      "title": "Mẫu hậu, muốn đánh con thì cứ đánh Lưu An"
+    },
+    {
+      "num": 214,
+      "title": "Đường Vương thật thà chất phác"
+    },
+    {
+      "num": 215,
+      "title": "Ta, Lưu Trường, một lời đáng giá ngàn vàng!!"
+    },
+    {
+      "num": 216,
+      "title": "Thiếu niên từng mượn cừu, sau này sẽ không bao giờ đến nữa"
+    },
+    {
+      "num": 217,
+      "title": "Khi ta rời đi"
+    },
+    {
+      "num": 218,
+      "title": "Hạ Hầu Táo, đâm chết hắn!"
+    },
+    {
+      "num": 219,
+      "title": "Đây là do Như Ý làm đấy!"
+    },
+    {
+      "num": 220,
+      "title": "Vậy thì cứ thử xem"
+    },
+    {
+      "num": 221,
+      "title": "Có muốn cùng tham gia không?"
+    },
+    {
+      "num": 222,
+      "title": "Nước Đường"
+    },
+    {
+      "num": 223,
+      "title": "Đại Đường đất thiêng sinh người tài"
+    },
+    {
+      "num": 224,
+      "title": "Quần thần hiền tài tụ hội trong triều"
+    },
+    {
+      "num": 225,
+      "title": "Không ai hiểu chuyện trị nước hơn quả nhân"
+    },
+    {
+      "num": 226,
+      "title": "Mạnh lên rồi, nhưng chưa hoàn toàn mạnh"
+    },
+    {
+      "num": 227,
+      "title": "Hoài bão lớn lao của Đường Vương"
+    },
+    {
+      "num": 228,
+      "title": "Mãnh Hổ"
+    },
+    {
+      "num": 229,
+      "title": "Đường Vương Lưu Trường đã thoát cương"
+    },
+    {
+      "num": 230,
+      "title": "Hàn Tín"
+    },
+    {
+      "num": 231,
+      "title": "Cuộc đối đầu giữa hai người tài giỏi"
+    },
+    {
+      "num": 232,
+      "title": "Binh pháp của ngài là do Sở Bá Vương dạy phải không?"
+    },
+    {
+      "num": 233,
+      "title": "Đường Vương tạo phản rồi!!!"
+    },
+    {
+      "num": 234,
+      "title": "Trái tim tan nát của người mẹ"
+    },
+    {
+      "num": 235,
+      "title": "Đại vương dũng mãnh đứng đầu mười vạn quân"
+    },
+    {
+      "num": 236,
+      "title": "Không trộm cừu nhà ta mà còn muốn đi sao?"
+    },
+    {
+      "num": 237,
+      "title": "Bàn về nhà Tần"
+    },
+    {
+      "num": 238,
+      "title": "Gã võ biền này hóa ra cũng khá được việc"
+    },
+    {
+      "num": 239,
+      "title": "Bài toán khó nhất khiến các sử quan đau đầu"
+    },
+    {
+      "num": 240,
+      "title": "Đại Hán đâu đâu cũng có những vị vua hiền đức"
+    },
+    {
+      "num": 241,
+      "title": "Lão hôn quân rồi"
+    },
+    {
+      "num": 242,
+      "title": "Nghề nguy hiểm nhất nước Đường: Tiều phu"
+    },
+    {
+      "num": 243,
+      "title": "Như Ý, đứng dậy múa một điệu cho quả nhân xem!"
+    },
+    {
+      "num": 244,
+      "title": "Một cái bẫy bắt Đường Vương sơ sài đến mức không thể sơ sài hơn"
+    },
+    {
+      "num": 245,
+      "title": "Huynh đệ tốt, tên của huynh là gì?"
+    },
+    {
+      "num": 246,
+      "title": "Thế tử bình an? Thái tử bình an?"
+    },
+    {
+      "num": 247,
+      "title": "Cứu Tề Vương Lưu Phì"
+    },
+    {
+      "num": 248,
+      "title": "Các ngươi đúng là một lũ phản tặc!"
+    },
+    {
+      "num": 249,
+      "title": "Không giống cha!"
+    },
+    {
+      "num": 250,
+      "title": "Kẻ địch ở ngay trong cung Vị Ương"
+    },
+    {
+      "num": 251,
+      "title": "Tất cả đều là vì tốt cho con"
+    },
+    {
+      "num": 252,
+      "title": "Ta ngả bài đây, ta tạo phản rồi!"
+    },
+    {
+      "num": 253,
+      "title": "Giá mà biết trước thế này, quả nhân đã chẳng tạo phản"
+    },
+    {
+      "num": 254,
+      "title": "Nỗi sợ hãi bị Cao Hoàng Đế chi phối"
+    },
+    {
+      "num": 255,
+      "title": "Quần hiền thần cũng có dăm bảy loại"
+    },
+    {
+      "num": 256,
+      "title": "Quả nhân không cần điềm lành"
+    },
+    {
+      "num": 257,
+      "title": "Bao giờ ngươi lên ngôi?"
+    },
+    {
+      "num": 258,
+      "title": "Đường Vương nâng đỉnh"
+    },
+    {
+      "num": 259,
+      "title": "Thời gian trôi nhanh như bóng câu qua cửa sổ"
+    },
+    {
+      "num": 260,
+      "title": "Thói nhỏ nhen cha truyền con nối"
+    },
+    {
+      "num": 261,
+      "title": "Hiền vương Trường biết dùng người"
+    },
+    {
+      "num": 262,
+      "title": "Tập hợp những thói xấu của hôn quân thiên hạ"
+    },
+    {
+      "num": 263,
+      "title": "Hơi phóng đại một chút"
+    },
+    {
+      "num": 264,
+      "title": "Pháp sư theo chủ nghĩa thất bại"
+    },
+    {
+      "num": 265,
+      "title": "Người đến đầu quân đông như mây"
+    },
+    {
+      "num": 266,
+      "title": "Hảo hán tử giỏi thay!"
+    },
+    {
+      "num": 267,
+      "title": "Kiêm luôn chức chư hầu vương"
+    },
+    {
+      "num": 268,
+      "title": "Khi đạo lớn được thi hành"
+    },
+    {
+      "num": 269,
+      "title": "Vị vua mạnh mẽ đến thế, sao có thể khóc được?"
+    },
+    {
+      "num": 270,
+      "title": "Sao không ăn thịt cháo?"
+    },
+    {
+      "num": 271,
+      "title": "Đại vương của ta đúng là một kẻ man rợ"
+    },
+    {
+      "num": 272,
+      "title": "Gặp kẻ mạnh thì yếu, gặp kẻ yếu thì mạnh"
+    },
+    {
+      "num": 273,
+      "title": "Đó là tiếng hát của Cao Hoàng Đế"
+    },
+    {
+      "num": 274,
+      "title": "Bệ hạ mưu phản rồi!"
+    },
+    {
+      "num": 275,
+      "title": "Hơi khó giải quyết"
+    },
+    {
+      "num": 276,
+      "title": "Trương Bất Nghi! Khiêu khích bọn họ!"
+    },
+    {
+      "num": 277,
+      "title": "Khiêu khích cũng không phải kiểu đó!"
+    },
+    {
+      "num": 278,
+      "title": "Bản tính của những bậc hiền tài"
+    },
+    {
+      "num": 279,
+      "title": "Hầu tước chuyên gánh tội số một Đại Hán"
+    },
+    {
+      "num": 280,
+      "title": "Mất núi Kỳ Liên, khiến đàn gia súc chẳng thể sinh sôi"
+    },
+    {
+      "num": 281,
+      "title": "Trần Bình bày mưu, Hàn Tín cầm quân, Lưu Trường chém giết"
+    },
+    {
+      "num": 282,
+      "title": "Phi Tướng Long Thành"
+    },
+    {
+      "num": 283,
+      "title": "Vị đại thiện nhân An vui làm việc thiện"
+    },
+    {
+      "num": 284,
+      "title": "Cứu sứ giả Đại Hán"
+    },
+    {
+      "num": 285,
+      "title": "Không cầu tiên, thì tính là hôn quân kiểu gì?"
+    },
+    {
+      "num": 286,
+      "title": "Việc gì cũng phải so với Tần Hoàng"
+    },
+    {
+      "num": 287,
+      "title": "Đại vương nhà ta đúng là người man di"
+    },
+    {
+      "num": 288,
+      "title": "Gian tướng Chu Xương"
+    },
+    {
+      "num": 289,
+      "title": "Đắc tội với Đại vương rồi mà còn muốn đi sao?"
+    },
+    {
+      "num": 290,
+      "title": "Khắp thiên hạ, đâu chẳng là đất của nhà Hán"
+    },
+    {
+      "num": 291,
+      "title": "Hỏng rồi, ta thành cậu ruột mất rồi!"
+    },
+    {
+      "num": 292,
+      "title": "Hàn Tín dạy ra Hạng Vũ, Trương Lương dạy ra Trần Bình"
+    },
+    {
+      "num": 293,
+      "title": "Thế lớn đã mất"
+    },
+    {
+      "num": 294,
+      "title": "Trên có vua u mê, dưới có gian thần"
+    },
+    {
+      "num": 295,
+      "title": "Bảy anh em nhà họ Lưu"
+    },
+    {
+      "num": 296,
+      "title": "Đường, Lệ, Ẩn, U, Trụ, Đãng, Thứ, Càn, Hoang, Hoặc, Mậu, Tức, Chuyên, Túng, Hư, Nguyện"
+    },
+    {
+      "num": 297,
+      "title": "Triệu Quốc Chu Tướng Không thể đứng dậy"
+    },
+    {
+      "num": 298,
+      "title": "Tài năng của Giả Nghị được tôi luyện từ gian khó"
+    },
+    {
+      "num": 299,
+      "title": "Chưa Từng Nghe Nói Đến"
+    },
+    {
+      "num": 300,
+      "title": "Còn không từ quan, sớm muộn gì cũng bị ghi vào Liệt truyện gian thần"
+    },
+    {
+      "num": 301,
+      "title": "Đánh không lại thì mách phụ huynh"
+    },
+    {
+      "num": 302,
+      "title": "Quả nhân từng viết 《Luận Quý Túc》, viết xong khiến thiên hạ kinh ngạc"
+    },
+    {
+      "num": 303,
+      "title": "Quan Sơn Hải"
+    },
+    {
+      "num": 304,
+      "title": "Quân tử hòa hợp nhưng không nhất thiết phải đồng lòng, quả nhân mới là quân tử lớn nhất"
+    },
+    {
+      "num": 305,
+      "title": "Đại vương rộng lượng"
+    },
+    {
+      "num": 306,
+      "title": "Ta mới là cậu ruột của Đại vương!"
+    },
+    {
+      "num": 307,
+      "title": "Bậc hiền tài học rộng hiểu nhiều, càng lớn càng ra dáng thánh nhân"
+    },
+    {
+      "num": 308,
+      "title": "Trương Thích Chi"
+    },
+    {
+      "num": 309,
+      "title": "Nguy!!!!"
+    },
+    {
+      "num": 310,
+      "title": "Ba vị thánh cờ của Đại Hán"
+    },
+    {
+      "num": 311,
+      "title": "Chỉ là mang đến để khoe với ngươi một chút"
+    },
+    {
+      "num": 312,
+      "title": "Tình cha như núi"
+    },
+    {
+      "num": 313,
+      "title": "Chớ động! Động là mất nước!"
+    },
+    {
+      "num": 314,
+      "title": "Người con ngoan của mẫu hậu"
+    },
+    {
+      "num": 315,
+      "title": "Thế nào mới gọi là bất ngờ đây??"
+    },
+    {
+      "num": 316,
+      "title": "Một cước đá trúng tấm sắt"
+    },
+    {
+      "num": 317,
+      "title": "Nhà nghiên cứu kinh điển chân chính và kẻ giả danh học giả kinh điển"
+    },
+    {
+      "num": 318,
+      "title": "Đây mới là con ruột của Thái hậu!"
+    },
+    {
+      "num": 319,
+      "title": "Hiền tài Nam Bắc, một thời ngang tài ngang sức"
+    },
+    {
+      "num": 320,
+      "title": "Mưu hay của Lưu Lang định đoạt thiên hạ"
+    },
+    {
+      "num": 321,
+      "title": "Đánh xong rồi đi"
+    },
+    {
+      "num": 322,
+      "title": "Bọn chúng lấy đâu ra gan đó vậy???"
+    },
+    {
+      "num": 323,
+      "title": "Ăn thịt, uống rượu, đánh Trương Việt"
+    },
+    {
+      "num": 324,
+      "title": "Kiệt, Trụ nghe xong cũng phải tự thẹn"
+    },
+    {
+      "num": 325,
+      "title": "Đây là ý của Triệu Vương"
+    },
+    {
+      "num": 326,
+      "title": "Hình mẫu minh quân cho hậu thế"
+    },
+    {
+      "num": 327,
+      "title": "Đi nhầm vào con đường chính đạo"
+    },
+    {
+      "num": 328,
+      "title": "Trọng phụ không cần đa lễ!"
+    },
+    {
+      "num": 329,
+      "title": "Hiền tài sắp kéo đến"
+    },
+    {
+      "num": 330,
+      "title": "Từ hôm nay trở đi, cai rượu!"
+    },
+    {
+      "num": 331,
+      "title": "Vắt kiệt nguồn lợi, nhưng phải tính đường lâu dài"
+    },
+    {
+      "num": 332,
+      "title": "Chỉ có kẻ vô lại mới trị được kẻ vô lại"
+    },
+    {
+      "num": 333,
+      "title": "Ngươi đừng sợ, quả nhân không phải Triệu Vương"
+    },
+    {
+      "num": 334,
+      "title": "Vui đến quên cả đường về Trường An"
+    },
+    {
+      "num": 335,
+      "title": "Báo thù cho phụ thân!"
+    },
+    {
+      "num": 336,
+      "title": "Vớt người giăng lưới"
+    },
+    {
+      "num": 337,
+      "title": "Đại vương Trường dốc hết sức trưởng thành"
+    },
+    {
+      "num": 338,
+      "title": "Cảm nhận như chính mình trải qua"
+    },
+    {
+      "num": 339,
+      "title": "Lỗ Công nước Triệu"
+    },
+    {
+      "num": 340,
+      "title": "Làm người phải rộng lượng, đừng ham hư danh!"
+    },
+    {
+      "num": 341,
+      "title": "Định sẽ bị người đời chê cười"
+    },
+    {
+      "num": 342,
+      "title": "Hoài Âm Hầu! Ngài có biết đánh trận không?!"
+    },
+    {
+      "num": 343,
+      "title": "Chia quân thành ba trăm ngả"
+    },
+    {
+      "num": 344,
+      "title": "Bậc quân tử Đại Hán Trương Bất Nghi"
+    },
+    {
+      "num": 345,
+      "title": "Con chó nhà Giang Đông Vương Lưu Kiến"
+    },
+    {
+      "num": 346,
+      "title": "Xin Đại Vương đăng cơ!!!"
+    },
+    {
+      "num": 347,
+      "title": "Khoái Triệt bị giết vì nuôi chó!"
+    },
+    {
+      "num": 348,
+      "title": "Thế chẳng phải làm hoàng đế cũng như không sao?"
+    },
+    {
+      "num": 349,
+      "title": "Không bao giờ được ăn món thịt dê ngon như thế nữa"
+    },
+    {
+      "num": 350,
+      "title": "Một bạo quân thực thi nhân chính"
+    },
+    {
+      "num": 351,
+      "title": "Cậu, chú đều có nỗi khổ riêng"
+    },
+    {
+      "num": 352,
+      "title": "Hung Nô dời về phía Tây"
+    },
+    {
+      "num": 353,
+      "title": "Kế thừa có thứ tự, đời đời trung thành"
+    },
+    {
+      "num": 354,
+      "title": "Thái tử An và Đại tướng quân chinh phạt phương Bắc"
+    },
+    {
+      "num": 355,
+      "title": "Hiền tài lại tụ hội, lễ nghĩa vua tôi"
+    },
+    {
+      "num": 356,
+      "title": "Tốt!! Đại cát!!!"
+    },
+    {
+      "num": 357,
+      "title": "Bức tranh Tứ hiếu Đại Hán"
+    },
+    {
+      "num": 358,
+      "title": "Cuộc đời sướng như truyện của một vị Triệt hầu"
+    },
+    {
+      "num": 359,
+      "title": "A Trường và sách lụa Hoàng Lão"
+    },
+    {
+      "num": 360,
+      "title": "Hiền tài khắp Trường An bắt nạt ta già yếu, chẳng còn sức chống đỡ"
+    },
+    {
+      "num": 361,
+      "title": "Ba người tài cai quản miền Tây Nam"
+    },
+    {
+      "num": 362,
+      "title": "Suýt nữa thì chết già"
+    },
+    {
+      "num": 363,
+      "title": "Hãy trân trọng đứa em trai tốt bụng của ngươi"
+    },
+    {
+      "num": 364,
+      "title": "Trông chẳng giống bậc quân vương"
+    },
+    {
+      "num": 365,
+      "title": "Khi thiên tử tự tay phê duyệt tấu chương"
+    },
+    {
+      "num": 366,
+      "title": "Ta may mắn biết bao"
+    },
+    {
+      "num": 367,
+      "title": "Ai bảo Tứ lang không giống cha?"
+    },
+    {
+      "num": 368,
+      "title": "Bệ hạ anh minh!!!"
+    },
+    {
+      "num": 369,
+      "title": "Tất cả đều bị Khúc Nghị hầu lừa gạt"
+    },
+    {
+      "num": 370,
+      "title": "Trương Bất Nghi"
+    },
+    {
+      "num": 371,
+      "title": "Nhân tài có thể trọng dụng"
+    },
+    {
+      "num": 372,
+      "title": "Không ổn! Là Tuyên Nghĩa!!"
+    },
+    {
+      "num": 373,
+      "title": "Ta chính là Sở Thái Tử"
+    },
+    {
+      "num": 374,
+      "title": "Làm quan thì phải làm Chấp Kim Ngô"
+    },
+    {
+      "num": 375,
+      "title": "Kẻ thù cả đời của Thái tử An"
+    },
+    {
+      "num": 376,
+      "title": "Sao lại là ngươi nữa vậy?!"
+    },
+    {
+      "num": 377,
+      "title": "Ngài định bao giờ đi khoét mũi Lưu Hầu?"
+    },
+    {
+      "num": 378,
+      "title": "Ngày tháng trôi qua, năm chẳng đợi người"
+    },
+    {
+      "num": 379,
+      "title": "Điển tích sai lệch, Chu Lệ Vương ngoảnh đầu nhìn lại"
+    },
+    {
+      "num": 380,
+      "title": "Chúng ta thật sự quá giỏi!"
+    },
+    {
+      "num": 381,
+      "title": "Sao lại có chuyện vô lý như vậy?!"
+    },
+    {
+      "num": 382,
+      "title": "Ngài tưởng người đang đấu trí với ngài là ai?!"
+    },
+    {
+      "num": 383,
+      "title": "Hoàng đế Đại Hán không phải người"
+    },
+    {
+      "num": 384,
+      "title": "Loạn thế sinh anh hùng"
+    },
+    {
+      "num": 385,
+      "title": "Hóa ra là tên nhóc nhà ngươi!"
+    },
+    {
+      "num": 386,
+      "title": "Đại chiến nội bộ phái Pháp gia"
+    },
+    {
+      "num": 387,
+      "title": "Đây là triều đình, không phải nước Đường!"
+    },
+    {
+      "num": 388,
+      "title": "Trời không có hai mặt trời"
+    },
+    {
+      "num": 389,
+      "title": "Thế này thì mặt dày quá rồi đấy!!!"
+    },
+    {
+      "num": 390,
+      "title": "Tai họa Vu cổ"
+    },
+    {
+      "num": 391,
+      "title": "Trường An thì có thể xảy ra chuyện lớn gì chứ?"
+    },
+    {
+      "num": 392,
+      "title": "Trường An xảy ra chuyện lớn!"
+    },
+    {
+      "num": 393,
+      "title": "Triệu Bình"
+    },
+    {
+      "num": 394,
+      "title": "Vô tình va phải"
+    },
+    {
+      "num": 395,
+      "title": "Hoặc là nguyền rủa chết trẫm, hoặc là trẫm giết ngươi!"
+    },
+    {
+      "num": 396,
+      "title": "Chân truyền của Tuân Tử, Đại vương trưởng thành"
+    },
+    {
+      "num": 397,
+      "title": "Nghe một lời của người, uổng công đọc sách mười năm"
+    },
+    {
+      "num": 398,
+      "title": "Đạo đời xoay vần, tuần hoàn rồi lại bắt đầu"
+    },
+    {
+      "num": 399,
+      "title": "Là người không biết chữ, chứ không phải kẻ ngốc"
+    },
+    {
+      "num": 400,
+      "title": "Đổi quốc hiệu thành Đường, ta chính là Đường Thủy Hoàng!"
+    },
+    {
+      "num": 401,
+      "title": "Vệ Mãn Triều Tiên"
+    },
+    {
+      "num": 402,
+      "title": "Đạo trời vận hành có quy luật, chẳng vì vua Nghiêu mà tồn tại, cũng chẳng vì vua Kiệt mà mất đi"
+    },
+    {
+      "num": 403,
+      "title": "Cảm ơn các ngươi nhé!!"
+    },
+    {
+      "num": 404,
+      "title": "Ta chỉ là trời sinh thần lực mà thôi"
+    },
+    {
+      "num": 405,
+      "title": "Thiên hạ nào có chuyện làm Thái tử hai năm mà đã sốt ruột đến thế?"
+    },
+    {
+      "num": 406,
+      "title": "《Sổ tay nuôi lợn nhà》"
+    },
+    {
+      "num": 407,
+      "title": "Người cha hiền từ, đứa con hiếu thảo"
+    },
+    {
+      "num": 408,
+      "title": "Trong Hà Nội xảy ra nạn đói thì chuyển dân đến Hà Đông"
+    },
+    {
+      "num": 409,
+      "title": "Trương Bất Nghi, bốn đời ba lần làm tướng quốc"
+    },
+    {
+      "num": 410,
+      "title": "Tân tướng nhậm chức"
+    },
+    {
+      "num": 411,
+      "title": "Tầm Tiên Cầu Đạo"
+    },
+    {
+      "num": 412,
+      "title": "Hắn là đại đế, trẫm cũng là đại đế"
+    },
+    {
+      "num": 413,
+      "title": "Lớn lên thành bậc thánh hiền"
+    },
+    {
+      "num": 414,
+      "title": "Thời đại của những bậc hiền tài"
+    },
+    {
+      "num": 415,
+      "title": "Không có ý gì khác"
+    },
+    {
+      "num": 416,
+      "title": "Triệu U Linh Vương"
+    },
+    {
+      "num": 417,
+      "title": "Người ngoài cuộc như có thần trợ giúp"
+    },
+    {
+      "num": 418,
+      "title": "Nay đã khác mười hai kẻ kia"
+    },
+    {
+      "num": 419,
+      "title": "Chuột và hổ"
+    },
+    {
+      "num": 420,
+      "title": "Ngươi nghe hiểu chưa?"
+    },
+    {
+      "num": 421,
+      "title": "Từ nay không còn cha nữa"
+    },
+    {
+      "num": 422,
+      "title": "Một đường tiến về phía Tây"
+    },
+    {
+      "num": 423,
+      "title": "Đánh trận phải có cha con cùng ra trận"
+    },
+    {
+      "num": 424,
+      "title": "Uy thế của tướng quốc"
+    },
+    {
+      "num": 425,
+      "title": "Công đức của thiên tử"
+    },
+    {
+      "num": 426,
+      "title": "Không đày một Thái tử đi lưu đày thì còn gọi gì là Tần Vương nữa?"
+    },
+    {
+      "num": 427,
+      "title": "Vị thần sức mạnh phương Đông xé xác Zeus bằng tay không"
+    },
+    {
+      "num": 428,
+      "title": "Bức tượng sống lại"
+    },
+    {
+      "num": 429,
+      "title": "Thời đại bành trướng"
+    },
+    {
+      "num": 430,
+      "title": "Người ở phía Đông Nam nước Hàn"
+    },
+    {
+      "num": 431,
+      "title": "Các huynh đệ, muốn được phong hầu không?"
+    },
+    {
+      "num": 432,
+      "title": "Người tốt bụng, thích làm việc thiện – Đại thiện nhân họ Lữ"
+    },
+    {
+      "num": 433,
+      "title": "Một vị thần tiên đáng giá bao nhiêu công lao?"
+    },
+    {
+      "num": 434,
+      "title": "Đây mà cũng gọi là thịnh thế sao?"
+    },
+    {
+      "num": 435,
+      "title": "Đây gọi là con đường lâu dài"
+    },
+    {
+      "num": 436,
+      "title": "Nhìn thế nào cũng chẳng giống một bậc hùng chủ"
+    },
+    {
+      "num": 437,
+      "title": "Thầy"
+    },
+    {
+      "num": 438,
+      "title": "Đây mới gọi là làm thừa tướng chứ!!"
+    },
+    {
+      "num": 439,
+      "title": "Dám bắt nạt con trai ta???"
+    },
+    {
+      "num": 440,
+      "title": "Ngài xem con dấu này có đẹp không?"
+    },
+    {
+      "num": 441,
+      "title": "Quá giống rồi"
+    },
+    {
+      "num": 442,
+      "title": "Dấu ấn của ngươi"
+    },
+    {
+      "num": 443,
+      "title": "Đáng lẽ không nên lớn"
+    },
+    {
+      "num": 444,
+      "title": "Chân tể tướng thực sự"
+    },
+    {
+      "num": 445,
+      "title": "Thể trạng của Lưu Trường"
+    },
+    {
+      "num": 446,
+      "title": "Mượn ngươi để quảng cáo một phen"
+    },
+    {
+      "num": 447,
+      "title": "Thái tử mưu phản là vì cớ gì?"
+    },
+    {
+      "num": 448,
+      "title": "Thái tử ngang ngược"
+    },
+    {
+      "num": 449,
+      "title": "Không có thì tự mình tạo ra!"
+    },
+    {
+      "num": 450,
+      "title": "Vì việc của vua, có gì phải sợ"
+    },
+    {
+      "num": 451,
+      "title": "Chẳng qua cũng chỉ đến thế"
+    },
+    {
+      "num": 452,
+      "title": "Hối hận cũng đã muộn"
+    },
+    {
+      "num": 453,
+      "title": "Không thể hóa thành biển, nhưng cũng đủ làm dịu cơn khát"
+    },
+    {
+      "num": 454,
+      "title": "Đại trượng phu"
+    },
+    {
+      "num": 455,
+      "title": "Đại trưởng công chúa Đại Hán"
+    },
+    {
+      "num": 456,
+      "title": "Nhưng sao biết được sự cao quý của viên ngục lại?"
+    },
+    {
+      "num": 457,
+      "title": "Người trước ngã xuống, người sau tiến lên"
+    },
+    {
+      "num": 458,
+      "title": "Tên binh sĩ mặc giáp kia có thể làm Lang trung lệnh không?"
+    },
+    {
+      "num": 459,
+      "title": "Cha con chúng ta đều không thù dai"
+    },
+    {
+      "num": 460,
+      "title": "Thề không làm người!!!"
+    },
+    {
+      "num": 461,
+      "title": "Làm một việc nhỏ"
+    },
+    {
+      "num": 462,
+      "title": "Vốn tưởng Hạ Hầu Táo đã là vô địch thiên hạ"
+    },
+    {
+      "num": 463,
+      "title": "Trẫm thật sự đã phải bỏ ra quá nhiều rồi"
+    },
+    {
+      "num": 464,
+      "title": "Ta tin ngươi cái quỷ!"
+    },
+    {
+      "num": 465,
+      "title": "Đây là Thái úy hay Huyện úy vậy??"
+    },
+    {
+      "num": 466,
+      "title": "Đệ đệ của ta chẳng dễ dàng gì!"
+    },
+    {
+      "num": 467,
+      "title": "Gánh nặng của vua tôi"
+    },
+    {
+      "num": 468,
+      "title": "Phong thái của đám hiền tài"
+    },
+    {
+      "num": 469,
+      "title": "Cùng một giuộc"
+    },
+    {
+      "num": 470,
+      "title": "Chỉ là lợi ích nhất thời"
+    },
+    {
+      "num": 471,
+      "title": "Người như Tây Đình Vương rất nhỏ nhen"
+    },
+    {
+      "num": 472,
+      "title": "Dòng sông"
+    },
+    {
+      "num": 473,
+      "title": "Lão Lục Trong Tông Thất"
+    },
+    {
+      "num": 474,
+      "title": "Hiền tài lại tụ hội đông đủ"
+    },
+    {
+      "num": 475,
+      "title": "Thứ bậc trong nhà"
+    },
+    {
+      "num": 476,
+      "title": "Uy thế của Thượng Phương, lấy đó tế tướng quốc"
+    },
+    {
+      "num": 477,
+      "title": "Hả hê rửa được nỗi nhục!"
+    },
+    {
+      "num": 478,
+      "title": "Hình phạt nổ tan xác"
+    },
+    {
+      "num": 479,
+      "title": "Thằng nhãi này thật quá đáng!"
+    },
+    {
+      "num": 480,
+      "title": "Sao không đến sớm hơn?!"
+    },
+    {
+      "num": 481,
+      "title": "Có bạn từ phương xa đến, đánh hai mươi roi, đuổi đến biệt viện"
+    },
+    {
+      "num": 482,
+      "title": "Đúng là không uổng công đến đây!"
+    },
+    {
+      "num": 483,
+      "title": "Ba mươi tuổi dựng nên sự nghiệp"
+    },
+    {
+      "num": 484,
+      "title": "An Lăng"
+    },
+    {
+      "num": 485,
+      "title": "Hoài Âm Hầu nhất định sẽ vui lắm đây"
+    },
+    {
+      "num": 486,
+      "title": "Anh hùng có cùng suy nghĩ"
+    },
+    {
+      "num": 487,
+      "title": "Người thầy cũng như cha"
+    },
+    {
+      "num": 488,
+      "title": "Không giống người"
+    },
+    {
+      "num": 489,
+      "title": "Thánh án"
+    },
+    {
+      "num": 490,
+      "title": "Chuyện khổ nạn của Thái tử nước Sở"
+    },
+    {
+      "num": 491,
+      "title": "Hoàng đế đến rồi"
+    },
+    {
+      "num": 492,
+      "title": "Hoàng đế phong An làm Đại tướng quân chinh phạt phương Bắc"
+    },
+    {
+      "num": 493,
+      "title": "Loan Bố"
+    },
+    {
+      "num": 494,
+      "title": "Hầu Thiên Ngưu"
+    },
+    {
+      "num": 495,
+      "title": "Người chuyên nghiệp thì phải làm việc chuyên nghiệp"
+    },
+    {
+      "num": 496,
+      "title": "Hình như trẫm đã biết đáp án chính xác"
+    },
+    {
+      "num": 497,
+      "title": "Triệu U Linh Thứ Lệ Vương"
+    },
+    {
+      "num": 498,
+      "title": "Đừng đắc tội với trẫm!!"
+    },
+    {
+      "num": 499,
+      "title": "Thương nhân và nhà nông không thể cùng tồn tại"
+    },
+    {
+      "num": 500,
+      "title": "Đến gánh tội thay"
+    },
+    {
+      "num": 501,
+      "title": "Đối đãi bằng lòng chân thành"
+    },
+    {
+      "num": 502,
+      "title": "Cả Nhà Đoàn Tụ"
+    },
+    {
+      "num": 503,
+      "title": "Có mắt như mù"
+    },
+    {
+      "num": 504,
+      "title": "Cái này thì không được học theo đâu"
+    },
+    {
+      "num": 505,
+      "title": "Sự hành hạ đến từ những kẻ học rộng tài cao"
+    },
+    {
+      "num": 506,
+      "title": "Lòng tham lấn át nỗi sợ"
+    },
+    {
+      "num": 507,
+      "title": "Thành phố không ngủ của Đại Hán"
+    },
+    {
+      "num": 508,
+      "title": "Ta không phải thương nhân!"
+    },
+    {
+      "num": 509,
+      "title": "Cái chết của Thiền Vu"
+    },
+    {
+      "num": 510,
+      "title": "Có kẻ còn dữ hơn"
+    },
+    {
+      "num": 511,
+      "title": "Cho ngươi một cơ hội trở thành chư hầu của Đại Hán!"
+    },
+    {
+      "num": 512,
+      "title": "Có lẽ ông ấy thật sự không còn trên đời nữa rồi"
+    },
+    {
+      "num": 513,
+      "title": "Sắc phong Hoài Nam Vương"
+    },
+    {
+      "num": 514,
+      "title": "Thiên tử một lòng vì dân"
+    },
+    {
+      "num": 515,
+      "title": "Đã đến thì cứ đến, còn mang quà cáp làm gì nữa!"
+    },
+    {
+      "num": 516,
+      "title": "Đệ đệ ta, Á Phu, có tố chất của một mãnh tướng"
+    },
+    {
+      "num": 517,
+      "title": "Khải Hoàn"
+    },
+    {
+      "num": 518,
+      "title": "Bệ hạ, vẫn khỏe chứ?"
+    },
+    {
+      "num": 519,
+      "title": "Tài ngoại giao của Lão gia nhà họ Lưu"
+    },
+    {
+      "num": 520,
+      "title": "Cao thấp lập tức phân định"
+    },
+    {
+      "num": 521,
+      "title": "Nhưng lại rất hữu dụng"
+    },
+    {
+      "num": 522,
+      "title": "Quan lại Đại Hán chúng ta đều là một lũ điên"
+    },
+    {
+      "num": 523,
+      "title": "Lưu Kính Đến Rồi!!!"
+    },
+    {
+      "num": 524,
+      "title": "Tào Trất không phụ lòng người được giao phó"
+    },
+    {
+      "num": 525,
+      "title": "Sự dịu dàng của Hoàng đế Đại Hán"
+    },
+    {
+      "num": 526,
+      "title": "Đường không nhặt của rơi, đêm chẳng cần đóng cửa"
+    },
+    {
+      "num": 527,
+      "title": "Hảo Hán Lưu Lão Thất"
+    },
+    {
+      "num": 528,
+      "title": "Trưởng lão gia – bậc thầy tranh biện"
+    },
+    {
+      "num": 529,
+      "title": "Giết lợn trước, rồi mới trị thiên hạ"
+    },
+    {
+      "num": 530,
+      "title": "Thế nào mới gọi là dũng sĩ"
+    },
+    {
+      "num": 531,
+      "title": "Y thuật kỳ lạ của người Thân Độc"
+    },
+    {
+      "num": 532,
+      "title": "Truyền thừa không dứt"
+    },
+    {
+      "num": 533,
+      "title": "Đường thủy"
+    },
+    {
+      "num": 534,
+      "title": "Đất rung núi chuyển!!"
+    },
+    {
+      "num": 535,
+      "title": "Hóa ra Lệ Vương chính là ta sao???"
+    },
+    {
+      "num": 536,
+      "title": "Không ai có thể thay thế"
+    },
+    {
+      "num": 537,
+      "title": "Gió nổi mây vần"
+    },
+    {
+      "num": 538,
+      "title": "Mẹ"
+    },
+    {
+      "num": 539,
+      "title": "Tỉnh lại"
+    },
+    {
+      "num": 540,
+      "title": "Thái úy đánh người rồi!!!"
+    },
+    {
+      "num": 541,
+      "title": "Triệu Vương mưu phản!"
+    },
+    {
+      "num": 542,
+      "title": "Kẻ ngốc và người chẳng vui vẻ gì"
+    },
+    {
+      "num": 543,
+      "title": "Sao không học tập Tứ ca một chút?"
+    },
+    {
+      "num": 544,
+      "title": "Con khỉ biết lái thuyền"
+    },
+    {
+      "num": 545,
+      "title": "Bao giờ con mới viết sách Hoài Nam Tử thế?"
+    },
+    {
+      "num": 546,
+      "title": "Thiên hạ nằm trong lòng trẫm"
+    },
+    {
+      "num": 547,
+      "title": "Dưa Đông Lăng"
+    },
+    {
+      "num": 548,
+      "title": "Còn phải xem là ai viết"
+    },
+    {
+      "num": 549,
+      "title": "Trẫm chỉ cần gật đầu"
+    },
+    {
+      "num": 550,
+      "title": "Bậc thầy học vấn số một Đại Hán"
+    },
+    {
+      "num": 551,
+      "title": "Thái úy Hạ Hầu chưa bao giờ khiến người ta thất vọng"
+    },
+    {
+      "num": 552,
+      "title": "Không tốn chút công sức nào"
+    },
+    {
+      "num": 553,
+      "title": "Kẻ tàn nhẫn số một Đại Hán"
+    },
+    {
+      "num": 554,
+      "title": "Kẻ vô dụng"
+    },
+    {
+      "num": 555,
+      "title": "Không ngờ tới phải không!"
+    },
+    {
+      "num": 556,
+      "title": "Đáng tiếc thay, chỉ tiếc mỗi tước vị ấy thôi"
+    },
+    {
+      "num": 557,
+      "title": "Đại trượng phu phải có khí lượng"
+    },
+    {
+      "num": 558,
+      "title": "Ngươi thay trẫm đi hỏi một tiếng"
+    },
+    {
+      "num": 559,
+      "title": "Dưới gầm trời"
+    },
+    {
+      "num": 560,
+      "title": "Hàn Tín"
+    },
+    {
+      "num": 561,
+      "title": "Hổ phụ sinh con hèn"
+    },
+    {
+      "num": 562,
+      "title": "Cách đưa tin đặc biệt"
+    },
+    {
+      "num": 563,
+      "title": "Hạ Hầu Tứ tài trí hơn người"
+    },
+    {
+      "num": 564,
+      "title": "Không giống cha hắn"
+    },
+    {
+      "num": 565,
+      "title": "Người già rồi, trí nhớ kém"
+    },
+    {
+      "num": 566,
+      "title": "Ngọa Long Phượng Sồ"
+    },
+    {
+      "num": 567,
+      "title": "Ngươi chính là nhân tài mà chúng ta đang cần!"
+    },
+    {
+      "num": 568,
+      "title": "Kết nghĩa huynh đệ cùng họ!"
+    },
+    {
+      "num": 569,
+      "title": "Anh em thuận hòa"
+    },
+    {
+      "num": 570,
+      "title": "Ta không làm!!!"
+    },
+    {
+      "num": 571,
+      "title": "Ông nội!!"
+    },
+    {
+      "num": 572,
+      "title": "Thầy phong thủy"
+    },
+    {
+      "num": 573,
+      "title": "Người thầy"
+    },
+    {
+      "num": 574,
+      "title": "Cô con gái cao lớn, khỏe mạnh"
+    },
+    {
+      "num": 575,
+      "title": "Bắt được một con dê thì phải tranh thủ vặt cho sạch lông"
+    },
+    {
+      "num": 576,
+      "title": "Truyền thừa"
+    },
+    {
+      "num": 577,
+      "title": "Tin tưởng không chút nghi ngờ"
+    },
+    {
+      "num": 578,
+      "title": "Đúng là uống đến lú lẫn rồi"
+    },
+    {
+      "num": 579,
+      "title": "Thời đại thái bình thịnh trị"
+    },
+    {
+      "num": 580,
+      "title": "Suýt nữa thì không bịa tiếp được"
+    },
+    {
+      "num": 581,
+      "title": "Khi ấy ta còn chưa trưởng thành!"
+    },
+    {
+      "num": 582,
+      "title": "Đây đúng là một bậc thánh hiền!"
+    },
+    {
+      "num": 583,
+      "title": "Thuật xem đất của phái Công Dương"
+    },
+    {
+      "num": 584,
+      "title": "Trời cao hơn ba thước"
+    },
+    {
+      "num": 585,
+      "title": "Đại Hán Khúc Nghị Hầu"
+    },
+    {
+      "num": 586,
+      "title": "Đều tại lão già Khúc Nghịch Văn Hiến Hầu kia!"
+    },
+    {
+      "num": 587,
+      "title": "Lấy thêm vài món"
+    },
+    {
+      "num": 588,
+      "title": "Cách cai trị độc đáo của Hàn Tín"
+    },
+    {
+      "num": 589,
+      "title": "Thuốc mạnh"
+    },
+    {
+      "num": 590,
+      "title": "Ngày hôm ấy, Thái tử thân bại danh liệt"
+    },
+    {
+      "num": 591,
+      "title": "Thành gia lập nghiệp"
+    },
+    {
+      "num": 592,
+      "title": "Khúc cao khó tìm tri âm"
+    },
+    {
+      "num": 593,
+      "title": "Mặc gia đáng sợ đến mức nào"
+    },
+    {
+      "num": 594,
+      "title": "Của ta, của ta, tất cả đều là của ta!"
+    },
+    {
+      "num": 595,
+      "title": "Đại Hán Hồng Liệt"
+    },
+    {
+      "num": 596,
+      "title": "Không phải minh quân"
+    },
+    {
+      "num": 597,
+      "title": "Hạ Hầu Táo"
+    },
+    {
+      "num": 598,
+      "title": "Mùa đông ấm áp"
+    },
+    {
+      "num": 599,
+      "title": "Đến cả Trương Bất Nghi cũng trông giống một vị quan tốt"
+    },
+    {
+      "num": 600,
+      "title": "Làm trái gia huấn"
+    },
+    {
+      "num": 601,
+      "title": "Nhân tài đông đúc!"
+    },
+    {
+      "num": 602,
+      "title": "Trẫm chính là người như thế đấy"
+    },
+    {
+      "num": 603,
+      "title": "Thế nào mới gọi là Đổng Tử chứ?"
+    },
+    {
+      "num": 604,
+      "title": "Thiên tử đang ăn, ngươi lại dám xoay mâm"
+    },
+    {
+      "num": 605,
+      "title": "Trương Bất Nghi và Triều Thác trong tương lai"
+    },
+    {
+      "num": 606,
+      "title": "Tần Hoàng, Hán Văn"
+    },
+    {
+      "num": 607,
+      "title": "Gần mực thì đen"
+    },
+    {
+      "num": 608,
+      "title": "Gặp lại người xưa"
+    },
+    {
+      "num": 609,
+      "title": "Hầu Thủy Quân Qua Qua"
+    },
+    {
+      "num": 610,
+      "title": "Thống nhất thiên hạ đúng nghĩa thời Xuân Thu"
+    },
+    {
+      "num": 611,
+      "title": "Chỉ dùng người nhà"
+    },
+    {
+      "num": 612,
+      "title": "Nghe nói là hậu duệ của người nước Hạ"
+    },
+    {
+      "num": 613,
+      "title": "Công tử Tứ được phong đất lập nước"
+    },
+    {
+      "num": 614,
+      "title": "Vẫn là lão gia đáng sợ hơn"
+    },
+    {
+      "num": 615,
+      "title": "Chôn cất tiết kiệm!!!"
+    },
+    {
+      "num": 616,
+      "title": "Cả bài viết đều nồng nặc mùi ăn thịt người"
+    },
+    {
+      "num": 617,
+      "title": "Hái cỏ linh lăng"
+    },
+    {
+      "num": 618,
+      "title": "Trưởng lão gia là người biết nói lý lẽ"
+    },
+    {
+      "num": 619,
+      "title": "Vu khống! Ngươi đang vu khống ta đấy!!!"
+    },
+    {
+      "num": 620,
+      "title": "Hối hận cũng đã muộn"
+    },
+    {
+      "num": 621,
+      "title": "Cuộc đối đầu lần thứ hai giữa hai bậc thánh hiền"
+    },
+    {
+      "num": 622,
+      "title": "Cứ nhất quyết không chịu buông tha cổng thành"
+    },
+    {
+      "num": 623,
+      "title": "Người có thể trị được Triều Thác đã trở về"
+    },
+    {
+      "num": 624,
+      "title": "Công chúa Đại Hán"
+    },
+    {
+      "num": 625,
+      "title": "Người cha dịu dàng"
+    },
+    {
+      "num": 626,
+      "title": "Tiệm cắt tóc của Trương Sinh"
+    },
+    {
+      "num": 627,
+      "title": "Người ông râu dê"
+    },
+    {
+      "num": 628,
+      "title": "Ai chép của ai?"
+    },
+    {
+      "num": 629,
+      "title": "Muốn học à? Ta dạy cho!"
+    },
+    {
+      "num": 630,
+      "title": "A Anh, ngươi làm thật đấy à?"
+    },
+    {
+      "num": 631,
+      "title": "Trong lòng có mãnh hổ, trên đầu cài hoa hồng"
+    },
+    {
+      "num": 632,
+      "title": "Hoàng đế ra trận"
+    },
+    {
+      "num": 633,
+      "title": "Đội quân hùng mạnh nhất Đại Hán"
+    },
+    {
+      "num": 634,
+      "title": "Từ khi nhà Tần diệt vong, Đại Hán đã trải qua ba đời hoàng đế"
+    },
+    {
+      "num": 635,
+      "title": "Trách nhiệm của chư hầu"
+    },
+    {
+      "num": 636,
+      "title": "Không diễn nữa, gia nhập nhà Hán thôi!!!"
+    },
+    {
+      "num": 637,
+      "title": "Bá Vương tái xuất"
+    },
+    {
+      "num": 638,
+      "title": "Thần linh"
+    },
+    {
+      "num": 639,
+      "title": "Trường và An"
+    },
+    {
+      "num": 640,
+      "title": "Đã đến rồi thì phải làm cho đáng"
+    },
+    {
+      "num": 641,
+      "title": "Ngươi đến rồi à~~"
+    },
+    {
+      "num": 642,
+      "title": "Làm phiền rồi, cáo từ!"
+    },
+    {
+      "num": 643,
+      "title": "Ta đến, ta thấy, ta chinh phục"
+    },
+    {
+      "num": 644,
+      "title": "Câu trả lời của hoàng đế"
+    },
+    {
+      "num": 645,
+      "title": "Đứa trẻ này điên rồi sao?"
+    },
+    {
+      "num": 646,
+      "title": "Cuộc khai sáng văn hóa đến từ lão gia họ An"
+    },
+    {
+      "num": 647,
+      "title": "Ba lão già bất tử"
+    },
+    {
+      "num": 648,
+      "title": "Trường An của trẫm đâu rồi??"
+    },
+    {
+      "num": 649,
+      "title": "Học theo ta thì chết, bắt chước ta cũng chết"
+    },
+    {
+      "num": 650,
+      "title": "Xé xác một kẻ"
+    },
+    {
+      "num": 651,
+      "title": "Vui buồn không để lộ trên mặt, mà thể hiện qua nắm đấm và chân tay"
+    },
+    {
+      "num": 652,
+      "title": "Sức mạnh của đồng tiền"
+    },
+    {
+      "num": 653,
+      "title": "Giàu có đủ sức trị nước"
+    },
+    {
+      "num": 654,
+      "title": "Tiệc nhà"
+    },
+    {
+      "num": 655,
+      "title": "Dẹp phiên! Dẹp phiên！"
+    },
+    {
+      "num": 656,
+      "title": "Bắt tay với nhau, cùng có lợi"
+    },
+    {
+      "num": 657,
+      "title": "Rau hẹ của Đại Hán"
+    },
+    {
+      "num": 658,
+      "title": "Trợ công"
+    },
+    {
+      "num": 659,
+      "title": "Phản ứng của các chư hầu vương"
+    },
+    {
+      "num": 660,
+      "title": "Chính sách bất nhân"
+    },
+    {
+      "num": 661,
+      "title": "Thái úy hồi triều"
+    },
+    {
+      "num": 662,
+      "title": "Nhìn bằng con mắt của người cha"
+    },
+    {
+      "num": 663,
+      "title": "Một gia đình lương thiện"
+    },
+    {
+      "num": 664,
+      "title": "Vương Điềm Khải"
+    },
+    {
+      "num": 665,
+      "title": "Từ xưa đến nay, người theo Pháp gia hiếm ai được chết yên lành"
+    },
+    {
+      "num": 666,
+      "title": "Công không phải kẻ quan lại tàn độc"
+    },
+    {
+      "num": 667,
+      "title": "Dốc hết sức mình"
+    },
+    {
+      "num": 668,
+      "title": "Nghĩ lớn gặp nhau"
+    },
+    {
+      "num": 669,
+      "title": "Định chế"
+    },
+    {
+      "num": 670,
+      "title": "Thái Bộc"
+    },
+    {
+      "num": 671,
+      "title": "Không giống cha, ắt sẽ mất mạng"
+    },
+    {
+      "num": 672,
+      "title": "Kẻ được trời ưu ái"
+    },
+    {
+      "num": 673,
+      "title": "Sinh không được ăn cỗ năm đỉnh"
+    },
+    {
+      "num": 674,
+      "title": "Kiếm báu phải qua tôi luyện mới sắc bén"
+    },
+    {
+      "num": 675,
+      "title": "Hoa mai thơm ngát nhờ trải qua giá rét"
+    },
+    {
+      "num": 676,
+      "title": "Bước vào thì dễ, cút ra mới khó"
+    },
+    {
+      "num": 677,
+      "title": "Hắn vẫn còn là một đứa trẻ mà!!"
+    },
+    {
+      "num": 678,
+      "title": "Người nắm giữ giang sơn, há phải sợ Trần Bình?"
+    },
+    {
+      "num": 679,
+      "title": "Người có thể giữ yên thiên hạ nhà họ Lưu, chính là Thái tử!!"
+    },
+    {
+      "num": 680,
+      "title": "Uy danh vang xa"
+    },
+    {
+      "num": 681,
+      "title": "Hiền tài khắp thiên hạ"
+    },
+    {
+      "num": 682,
+      "title": "Đồ trẻ ranh"
+    },
+    {
+      "num": 683,
+      "title": "Pháp gia thành thật"
+    },
+    {
+      "num": 684,
+      "title": "Đây chính là thời thái bình thịnh trị sao?"
+    },
+    {
+      "num": 685,
+      "title": "Cách nghĩ của Lưu Trường khi tìm cách giải quyết"
+    },
+    {
+      "num": 686,
+      "title": "Dù chỉ là căn phòng tồi tàn"
+    },
+    {
+      "num": 687,
+      "title": "Nồi Đen Họ Lữ"
+    },
+    {
+      "num": 688,
+      "title": "Ngươi à, càng ngày càng giống Tiểu Trần Bình rồi"
+    },
+    {
+      "num": 689,
+      "title": "Ta triệu tập quận trưởng, chỉ vì ba việc"
+    },
+    {
+      "num": 690,
+      "title": "Kẻ đứng sau màn"
+    },
+    {
+      "num": 691,
+      "title": "Không phải ngoại vương"
+    },
+    {
+      "num": 692,
+      "title": "Đồng tình, lại thêm một tầng đồng tình"
+    },
+    {
+      "num": 693,
+      "title": "Hiếm khi làm được chút việc đứng đắn"
+    },
+    {
+      "num": 694,
+      "title": "Người thích hợp nhất để đảm nhiệm chức Ngự sử đại phu"
+    },
+    {
+      "num": 695,
+      "title": "Ai Có Thể Kế Nhiệm?"
+    },
+    {
+      "num": 696,
+      "title": "Điềm tĩnh như nước"
+    },
+    {
+      "num": 697,
+      "title": "Ngô Vương có tài cán gì?"
+    },
+    {
+      "num": 698,
+      "title": "Là con ruột thật đấy à??"
+    },
+    {
+      "num": 699,
+      "title": "Gia pháp"
+    },
+    {
+      "num": 700,
+      "title": "Đây chính là chiến công quân sự đấy!!"
+    },
+    {
+      "num": 701,
+      "title": "Thư hồi âm của vua An Tức"
+    },
+    {
+      "num": 702,
+      "title": "Nuôi hổ thành họa?"
+    },
+    {
+      "num": 703,
+      "title": "Lữ Trĩ"
+    },
+    {
+      "num": 704,
+      "title": "Thịt trong bàn gỗ"
+    },
+    {
+      "num": 705,
+      "title": "Doanh Liễu Tế theo chiều ngược lại"
+    },
+    {
+      "num": 706,
+      "title": "Tự chuốc lấy hậu quả?"
+    },
+    {
+      "num": 707,
+      "title": "Kiêu binh hãn tướng"
+    },
+    {
+      "num": 708,
+      "title": "Con đường cầu học"
+    },
+    {
+      "num": 709,
+      "title": "Như cá gặp nước"
+    },
+    {
+      "num": 710,
+      "title": "Chỉ nhổ lông một con dê thôi!!"
+    },
+    {
+      "num": 711,
+      "title": "Nhân tài Tam công!!"
+    },
+    {
+      "num": 712,
+      "title": "Mãnh hổ ra khỏi lồng"
+    },
+    {
+      "num": 713,
+      "title": "Lòng hiếu thảo nơi thánh triều"
+    },
+    {
+      "num": 714,
+      "title": "Nước Đường, vua của các ngươi đã trở về rồi!"
+    },
+    {
+      "num": 715,
+      "title": "Hòa thuận, yên bình"
+    },
+    {
+      "num": 716,
+      "title": "Bọn trộm ngựa"
+    },
+    {
+      "num": 717,
+      "title": "Đồng nghiệp à"
+    },
+    {
+      "num": 718,
+      "title": "Là đến triều bái"
+    },
+    {
+      "num": 719,
+      "title": "Đại Tế Tửu"
+    },
+    {
+      "num": 720,
+      "title": "Cũng chẳng dễ dàng gì"
+    },
+    {
+      "num": 721,
+      "title": "Đến thăm"
+    },
+    {
+      "num": 722,
+      "title": "Người Trường An sâu không lường được"
+    },
+    {
+      "num": 723,
+      "title": "Tư chất kém cỏi"
+    },
+    {
+      "num": 724,
+      "title": "Thanh kiếm đeo bên mình"
+    },
+    {
+      "num": 725,
+      "title": "Chỉ có thể mắng người tốt"
+    },
+    {
+      "num": 726,
+      "title": "Mưu công khai và mưu ngầm"
+    },
+    {
+      "num": 727,
+      "title": "Già mà không chết thì đúng là tai họa!"
+    },
+    {
+      "num": 728,
+      "title": "Quả nhân đến từ Trường An, miền Tây Thổ...."
+    },
+    {
+      "num": 729,
+      "title": "Người đắc đạo giả"
+    },
+    {
+      "num": 730,
+      "title": "Kẻ mất lòng người"
+    },
+    {
+      "num": 731,
+      "title": "Vị trưởng lão hiền lành, hòa nhã"
+    },
+    {
+      "num": 732,
+      "title": "Vắt kiệt giá trị của mọi thứ"
+    },
+    {
+      "num": 733,
+      "title": "Quả nhiên ngài đã suy tính chu toàn"
+    },
+    {
+      "num": 734,
+      "title": "Ba thế hệ ông cháu"
+    },
+    {
+      "num": 735,
+      "title": "Khiến hương khói nghìn năm không dứt"
+    },
+    {
+      "num": 736,
+      "title": "Chí hướng của kẻ hiệp nghĩa"
+    },
+    {
+      "num": 737,
+      "title": "Trụ cột phương Bắc trong tương lai"
+    },
+    {
+      "num": 738,
+      "title": "Đến hỏi thăm một tiếng"
+    },
+    {
+      "num": 739,
+      "title": "Tin tưởng tuyệt đối!"
+    },
+    {
+      "num": 740,
+      "title": "Tướng quân Thần Hành Hạ Hầu Táo"
+    },
+    {
+      "num": 741,
+      "title": "Diệu kế"
+    },
+    {
+      "num": 742,
+      "title": "Gấu đực"
+    },
+    {
+      "num": 743,
+      "title": "Trường Quân Sự"
+    },
+    {
+      "num": 744,
+      "title": "Dã tâm của nước Tây Đình"
+    },
+    {
+      "num": 745,
+      "title": "Ta dự đoán học phái các ngươi sẽ diệt vong!"
+    },
+    {
+      "num": 746,
+      "title": "Chuyện gì thế này?"
+    },
+    {
+      "num": 747,
+      "title": "Đã khác xưa, phải nhìn bằng con mắt khác"
+    },
+    {
+      "num": 748,
+      "title": "Cơn bão mới đã nổi lên"
+    },
+    {
+      "num": 749,
+      "title": "Hàn Anh sang sứ Triệu"
+    },
+    {
+      "num": 750,
+      "title": "Đến nước Hạ của ta đi!!"
+    },
+    {
+      "num": 751,
+      "title": "Trường An có hào kiệt"
+    },
+    {
+      "num": 752,
+      "title": "Chiêu mộ người tài"
+    },
+    {
+      "num": 753,
+      "title": "Tình nghĩa sâu đậm"
+    },
+    {
+      "num": 754,
+      "title": "Nguyện bái ngài làm nghĩa phụ"
+    },
+    {
+      "num": 755,
+      "title": "Lưu Hữu"
+    },
+    {
+      "num": 756,
+      "title": "Tể tướng mới"
+    },
+    {
+      "num": 757,
+      "title": "Kẻ này cực kỳ độc ác!"
+    },
+    {
+      "num": 758,
+      "title": "Quá mức xuất sắc"
+    },
+    {
+      "num": 759,
+      "title": "Cách giải quyết"
+    },
+    {
+      "num": 760,
+      "title": "Ba nghìn môn khách, không một kẻ tầm thường"
+    },
+    {
+      "num": 761,
+      "title": "Người An Tức gây ra chuyện này!!"
+    },
+    {
+      "num": 762,
+      "title": "Đã có người thích hợp"
+    },
+    {
+      "num": 763,
+      "title": "Là tốt hay xấu"
+    },
+    {
+      "num": 764,
+      "title": "Hai vị hiền vương"
+    },
+    {
+      "num": 765,
+      "title": "Hổ phụ không sinh khuyển tử"
+    },
+    {
+      "num": 766,
+      "title": "Lời trẻ con không kiêng dè"
+    },
+    {
+      "num": 767,
+      "title": "Nỗi nhục của Đại Hán!"
+    },
+    {
+      "num": 768,
+      "title": "Phù Khâu Bá: Phiên bản chuyên dụng cho Thân Độc"
+    },
+    {
+      "num": 769,
+      "title": "Chẳng có chuyện gì tốt lành đâu"
+    },
+    {
+      "num": 770,
+      "title": "Tranh nhau chịu chết"
+    },
+    {
+      "num": 771,
+      "title": "Lão gian xảo"
+    }
+  ],
+  "slug": "gia_phu_han_cao_to",
+  "title": "Gia Phụ Hán Cao Tổ",
+  "author": "Lịch Sử Hệ Chi Lang",
+  "synopsis": "Truyện lịch sử xuyên không thời Hán sơ của Lịch Sử Hệ Chi Lang (历史系之狼), đã hoàn thành. Lưu Trường xuyên đến đầu nhà Hán, trở thành con trai của Hán Cao Tổ Lưu Bang khi đế chế vừa lập. Thấy các thế lực quanh mình tranh nhau ngôi vị, cậu chọn sống an nhàn buông xuôi, nhưng giữa những biến động trong cung với Lữ Hậu, Hàn Tín, Tiêu Hà, Trương Lương… cậu lại từng bước làm thay đổi cả thời đại bằng những trò quậy phá đầy hài hước.",
+  "coverColor": "#6b3a2e"
+}
