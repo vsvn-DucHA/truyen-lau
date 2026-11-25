@@ -1,0 +1,4266 @@
+{
+  "totalChapters": 1064,
+  "chapters": [
+    {
+      "num": 1,
+      "title": "Trò chơi chân thực 100% thì chân thực đến mức nào?"
+    },
+    {
+      "num": 2,
+      "title": "Nơi trú ẩn số 404"
+    },
+    {
+      "num": 3,
+      "title": "Tên này làm thật đấy à?"
+    },
+    {
+      "num": 4,
+      "title": "Sở Quang và kẹo mút"
+    },
+    {
+      "num": 5,
+      "title": "Thiên Tai Thứ Tư"
+    },
+    {
+      "num": 6,
+      "title": "Những người chơi thử nghiệm đầu tiên"
+    },
+    {
+      "num": 7,
+      "title": "Muốn giàu thì trước tiên phải chặt cây"
+    },
+    {
+      "num": 8,
+      "title": "Trò chơi này còn có cả ăn uống nữa cơ!"
+    },
+    {
+      "num": 9,
+      "title": "Trình tự gen và cấp bậc người chơi"
+    },
+    {
+      "num": 10,
+      "title": "Trò chơi này đúng là đỉnh của chóp!"
+    },
+    {
+      "num": 11,
+      "title": "Nhiệm Vụ Hằng Ngày"
+    },
+    {
+      "num": 12,
+      "title": "Bãi đỗ xe phủ đầy cỏ"
+    },
+    {
+      "num": 13,
+      "title": "“Lam Sắc Thiên Sứ”"
+    },
+    {
+      "num": 14,
+      "title": "Gã lái buôn gian xảo đến từ Cự Thạch Thành"
+    },
+    {
+      "num": 15,
+      "title": "Lệnh trưng dụng"
+    },
+    {
+      "num": 16,
+      "title": "Cách chơi của một trò chơi sandbox"
+    },
+    {
+      "num": 17,
+      "title": "Được giúp ngài san sẻ nỗi lo là vinh hạnh của chúng tôi!"
+    },
+    {
+      "num": 18,
+      "title": "Rõ ràng là tôi đặt chỗ trước mà"
+    },
+    {
+      "num": 19,
+      "title": "Tham vọng của đội trưởng đội xây dựng"
+    },
+    {
+      "num": 20,
+      "title": "Bộ lạc dị chủng!"
+    },
+    {
+      "num": 21,
+      "title": "Thế lực thù địch! Mở khóa tình báo mới!"
+    },
+    {
+      "num": 22,
+      "title": "Bắt được ấu trùng đỉa biến dị"
+    },
+    {
+      "num": 23,
+      "title": "Lại Có Thêm Hai Tân Binh Đáng Yêu"
+    },
+    {
+      "num": 24,
+      "title": "Từ giờ trở đi, ngươi chính là đầu bếp của nơi trú ẩn!"
+    },
+    {
+      "num": 25,
+      "title": "Không đủ nhân lực"
+    },
+    {
+      "num": 26,
+      "title": "Bản cập nhật phiên bản alpha0.2"
+    },
+    {
+      "num": 27,
+      "title": "Mùa đông khắc nghiệt sắp đến!"
+    },
+    {
+      "num": 28,
+      "title": "24 người chơi mới! Viện binh đến nơi!"
+    },
+    {
+      "num": 29,
+      "title": "Cuộc sống nơi đất hoang bắt đầu từ việc khuân gạch"
+    },
+    {
+      "num": 30,
+      "title": "Thế này thì phạm pháp quá rồi còn gì"
+    },
+    {
+      "num": 31,
+      "title": "Đụng độ bọn cướp! Trận chiến đầu tiên của người chơi!"
+    },
+    {
+      "num": 32,
+      "title": "Tài năng khắc sâu trong xương tủy"
+    },
+    {
+      "num": 33,
+      "title": "Giọt máu đầu tiên！"
+    },
+    {
+      "num": 34,
+      "title": "Chúng tôi là công ty làm ăn đàng hoàng"
+    },
+    {
+      "num": 35,
+      "title": "Cầu xin ngài đấy, cho tôi lên chuyển gạch đi mà!"
+    },
+    {
+      "num": 36,
+      "title": "Trang trại Brown! Cứ điểm NPC mới!"
+    },
+    {
+      "num": 37,
+      "title": "Kẻ Bò Trườn!"
+    },
+    {
+      "num": 38,
+      "title": "Bắn tôi đi!"
+    },
+    {
+      "num": 39,
+      "title": "Cuối cùng cũng có NPC mới rồi?"
+    },
+    {
+      "num": 40,
+      "title": "Nâng cấp và thiên phú mới"
+    },
+    {
+      "num": 41,
+      "title": "Nhà phát hành game cũng có tâm quá đi mất!"
+    },
+    {
+      "num": 42,
+      "title": "Xin cô tự trọng một chút!"
+    },
+    {
+      "num": 43,
+      "title": "Người chơi giỏi đã bắt đầu biết kiếm việc cho NPC làm rồi"
+    },
+    {
+      "num": 44,
+      "title": "Thương nhân đến từ thành phố lân cận"
+    },
+    {
+      "num": 45,
+      "title": "Thị Trấn Hồng Hà Không Sản Xuất Lương Thực"
+    },
+    {
+      "num": 46,
+      "title": "Nhật ký nhà phát triển: Phiên bản alpha 0.3！"
+    },
+    {
+      "num": 47,
+      "title": "Làm một tay hoạch định am hiểu lòng người"
+    },
+    {
+      "num": 48,
+      "title": "Phiên bản Alpha 0.3 chính thức ra mắt! Mở khóa cách chơi mới!"
+    },
+    {
+      "num": 49,
+      "title": "Sở Quang đang âm thầm tính một ván cờ lớn"
+    },
+    {
+      "num": 50,
+      "title": "Những người chơi chăm chỉ"
+    },
+    {
+      "num": 51,
+      "title": "Hệ thống kinh tế của Phế Thổ OL"
+    },
+    {
+      "num": 52,
+      "title": "Trò chơi này đúng là bị ngươi chơi đến mức thấu hiểu rồi"
+    },
+    {
+      "num": 53,
+      "title": "Cứ coi như là phúc lợi dành cho người chơi đi"
+    },
+    {
+      "num": 54,
+      "title": "NPC thứ hai lên sóng, mở khóa cách chơi mới: bày sạp bán hàng!"
+    },
+    {
+      "num": 55,
+      "title": "Thợ săn và thợ săn"
+    },
+    {
+      "num": 56,
+      "title": "Hiệu quả của thuốc kháng sinh"
+    },
+    {
+      "num": 57,
+      "title": "Bông tuyết đầu tiên trên vùng đất hoang"
+    },
+    {
+      "num": 58,
+      "title": "Người đàn ông này sâu không lường được!"
+    },
+    {
+      "num": 59,
+      "title": "Đám người chơi này càng ngày càng biết cách vào tù rồi"
+    },
+    {
+      "num": 60,
+      "title": "Có kẻ mang tiền đến tận cửa"
+    },
+    {
+      "num": 61,
+      "title": "Khắc tinh của đỉa biến dị"
+    },
+    {
+      "num": 62,
+      "title": "Ngươi đã cứu cả nhà chúng ta"
+    },
+    {
+      "num": 63,
+      "title": "Cá lớn nuốt cá bé, cá bé nuốt tép (1/4)"
+    },
+    {
+      "num": 64,
+      "title": "Tuyệt chiêu giấu đáy hòm (2/4)"
+    },
+    {
+      "num": 65,
+      "title": "Bản cập nhật alpha0.4! Hệ thống ban đêm chính thức ra mắt! (3/4)"
+    },
+    {
+      "num": 66,
+      "title": "Quy luật rừng xanh! (4/4)"
+    },
+    {
+      "num": 67,
+      "title": "Máy phát điện và bộ khung trợ lực"
+    },
+    {
+      "num": 68,
+      "title": "Tay tác giả chó má lại bày trò gì đây?"
+    },
+    {
+      "num": 69,
+      "title": "Bị bầy dê béo bao vây?"
+    },
+    {
+      "num": 70,
+      "title": "Dọn dẹp chiến trường"
+    },
+    {
+      "num": 71,
+      "title": "Bốc trúng cái búa gì thế này?"
+    },
+    {
+      "num": 72,
+      "title": "Chuyện buôn phân chim"
+    },
+    {
+      "num": 73,
+      "title": "Mùa màng bội thu trước mùa đông"
+    },
+    {
+      "num": 74,
+      "title": "Làm thợ mộc chẳng phải cứ có tay là làm được sao?"
+    },
+    {
+      "num": 75,
+      "title": "Quản kho kiêm luôn việc đồng áng"
+    },
+    {
+      "num": 76,
+      "title": "Cách chơi của phó bản mới"
+    },
+    {
+      "num": 77,
+      "title": "Lứa tân thủ thứ năm"
+    },
+    {
+      "num": 78,
+      "title": "Ôm cây đợi thỏ"
+    },
+    {
+      "num": 79,
+      "title": "Ông chủ lòng dạ đen tối nhất lịch sử"
+    },
+    {
+      "num": 80,
+      "title": "Rốt cuộc kẻ nào mới là người tập kích ban đêm?"
+    },
+    {
+      "num": 81,
+      "title": "Đánh hội đồng và buổi đấu giá!"
+    },
+    {
+      "num": 82,
+      "title": "Đạo luật số 0 của Khu Công Nghiệp! Nghề nghiệp sinh hoạt được tăng sức mạnh cấp Sử Thi?"
+    },
+    {
+      "num": 83,
+      "title": "Người chơi hệ sinh hoạt với những ý tưởng trên trời dưới đất"
+    },
+    {
+      "num": 84,
+      "title": "Cua Kìm Nứt! Loài Nguy Hiểm Xuất Hiện"
+    },
+    {
+      "num": 85,
+      "title": "Cách sử dụng Nha Nha đúng nhất"
+    },
+    {
+      "num": 86,
+      "title": "Nhà máy thép số 81 và “Nhiệm vụ riêng”"
+    },
+    {
+      "num": 87,
+      "title": "Tranh cãi về tính cân bằng"
+    },
+    {
+      "num": 88,
+      "title": "Da với hổ (Cầu đăng ký)"
+    },
+    {
+      "num": 89,
+      "title": "Thủ lĩnh, phe ta đang nắm lợi thế cực lớn!"
+    },
+    {
+      "num": 90,
+      "title": "Nghệ thuật chính là nổ tung!"
+    },
+    {
+      "num": 91,
+      "title": "Muốn trách thì hãy trách kỹ năng của mình mất quá nhiều thời gian khởi động đi"
+    },
+    {
+      "num": 92,
+      "title": "Không ai giỏi lục lọi hơn người chơi (Cầu đặt mua)"
+    },
+    {
+      "num": 93,
+      "title": "Dấu Ấn Máu"
+    },
+    {
+      "num": 94,
+      "title": "Tin chiến thắng, đại thắng và tiền tuyến của phiên bản mới!"
+    },
+    {
+      "num": 95,
+      "title": "Nhật ký, manh mối và nguồn gốc"
+    },
+    {
+      "num": 96,
+      "title": "Tầng hầm thứ hai của Nơi Trú Ẩn 404!"
+    },
+    {
+      "num": 97,
+      "title": "Trường hình thành hình thái"
+    },
+    {
+      "num": 98,
+      "title": "Cập nhật phiên bản Alpha 0.5! Hệ thống người chơi hoàn toàn mới!"
+    },
+    {
+      "num": 99,
+      "title": "Tầng B2 đúng là sướng hết nấc!"
+    },
+    {
+      "num": 100,
+      "title": "Người chơi hăng hái khám phá và đoàn thương buôn vượt gió tuyết mà đến"
+    },
+    {
+      "num": 101,
+      "title": "Ngươi đang lợi dụng BUG đấy à?"
+    },
+    {
+      "num": 102,
+      "title": "Một lượng lớn tân binh đang tiến đến!"
+    },
+    {
+      "num": 103,
+      "title": "Những người chơi chăm chỉ có thể tự chăm sóc bản thân"
+    },
+    {
+      "num": 104,
+      "title": "Thêm nhiều NPC hơn, hệ thống tương tác cũng phong phú hơn"
+    },
+    {
+      "num": 105,
+      "title": "Không trồng thứ gì đó thì thấy khó chịu, Ba huynh"
+    },
+    {
+      "num": 106,
+      "title": "Hang ổ của bướm ma quỷ (Cầu đăng ký)"
+    },
+    {
+      "num": 107,
+      "title": "Tuy là sâu hại, nhưng toàn thân đều là báu vật"
+    },
+    {
+      "num": 108,
+      "title": "Những người du mục đến từ vùng đất hoang"
+    },
+    {
+      "num": 109,
+      "title": "Sắp xếp chỗ ở cho dân chạy nạn"
+    },
+    {
+      "num": 110,
+      "title": "Đại nhân, tôi muốn mượn ngài chút giống"
+    },
+    {
+      "num": 111,
+      "title": "Chim ruồi! Và cả buổi đấu giá nữa!"
+    },
+    {
+      "num": 112,
+      "title": "NPC đến chợ của người chơi bày hàng rồi à?"
+    },
+    {
+      "num": 113,
+      "title": "Càng to càng có lý!"
+    },
+    {
+      "num": 114,
+      "title": "Có thể dùng kẹo làm tiền công không?"
+    },
+    {
+      "num": 115,
+      "title": "Cập nhật phiên bản Alpha 0.6!"
+    },
+    {
+      "num": 116,
+      "title": "Ngân hàng đầu tiên của Phế Thổ OL chính thức mở cửa!"
+    },
+    {
+      "num": 117,
+      "title": "Hy vọng hàng xóm của chúng ta có thể cho lũ chó sói kia ăn no"
+    },
+    {
+      "num": 118,
+      "title": "Nơi trú ẩn dưới trung tâm thương mại, trò chơi này chân thực quá rồi!"
+    },
+    {
+      "num": 119,
+      "title": "Phiên bản Alpha 0.61! Điều chỉnh lớn cách chơi phó bản!"
+    },
+    {
+      "num": 120,
+      "title": "Cảm giác giàu lên chỉ sau một đêm"
+    },
+    {
+      "num": 121,
+      "title": "Phần thưởng bốn chữ số và quyền khám phá di tích"
+    },
+    {
+      "num": 122,
+      "title": "Nhiệm vụ: Giải phóng phố Bet"
+    },
+    {
+      "num": 123,
+      "title": "Cuộc chiến trừng phạt"
+    },
+    {
+      "num": 124,
+      "title": "Những kẻ đó sẽ không bao giờ quay trở lại nữa!"
+    },
+    {
+      "num": 125,
+      "title": "Trật tự mới!"
+    },
+    {
+      "num": 126,
+      "title": "Khải hoàn! Tiệc mừng chiến thắng!"
+    },
+    {
+      "num": 127,
+      "title": "Bộ luật đầu tiên của phố Bet!"
+    },
+    {
+      "num": 128,
+      "title": "LV10! Giai đoạn thứ hai của chuỗi gen!"
+    },
+    {
+      "num": 129,
+      "title": "Ván này không lỗ!"
+    },
+    {
+      "num": 130,
+      "title": "Vũ khí chuyên dụng của đội cảnh vệ"
+    },
+    {
+      "num": 131,
+      "title": "Cuộc chạm trán bất ngờ trên phố số 76!"
+    },
+    {
+      "num": 132,
+      "title": "Khí hóa củi gỗ và động cơ hơi nước!"
+    },
+    {
+      "num": 133,
+      "title": "Huấn luyện đội cảnh vệ!"
+    },
+    {
+      "num": 134,
+      "title": "Vị khách phương xa"
+    },
+    {
+      "num": 135,
+      "title": "Sao có thể gọi là phái lao động? Đó phải gọi là sự kiện giới hạn thời gian!"
+    },
+    {
+      "num": 136,
+      "title": "Phóng viên chiến trường Tiểu Thất và đạo diễn Sở"
+    },
+    {
+      "num": 137,
+      "title": "Bản cập nhật alpha 0.7! Phần hai của bản mở rộng chính thức ra mắt!"
+    },
+    {
+      "num": 138,
+      "title": "Trailer game khiến người xem há hốc mồm!"
+    },
+    {
+      "num": 139,
+      "title": "Người quản lý khiến người ta ấn tượng sâu sắc"
+    },
+    {
+      "num": 140,
+      "title": "Kính chào các bạn! Những cư dân của Nơi trú ẩn số 404!"
+    },
+    {
+      "num": 141,
+      "title": "Tại sao nhà bếp của chúng ta không thể làm chút đồ ăn tử tế như người bình thường vậy?"
+    },
+    {
+      "num": 142,
+      "title": "Ngoài cung cấp lao động thuê ngoài, chúng tôi còn có thêm dịch vụ gia tăng giá trị"
+    },
+    {
+      "num": 143,
+      "title": "Đáp án phiên bản mới là đầu bếp?!"
+    },
+    {
+      "num": 144,
+      "title": "Kẻ thù của chúng ta rốt cuộc là ai?"
+    },
+    {
+      "num": 145,
+      "title": "Kẻ Tự Nổ Và Thương Vong Ngoài Dự Kiến"
+    },
+    {
+      "num": 146,
+      "title": "Hắn Là Bạn Tốt Của Chúng Ta, Phải Tăng Tiền!"
+    },
+    {
+      "num": 147,
+      "title": "Cập nhật bản dữ liệu! Máy chủ bị lỗi BUG rồi?"
+    },
+    {
+      "num": 148,
+      "title": "Tất cả đều vì ngoại hối"
+    },
+    {
+      "num": 149,
+      "title": "Quân Đoàn！"
+    },
+    {
+      "num": 150,
+      "title": "Pháo kích và thương vong"
+    },
+    {
+      "num": 151,
+      "title": "Nhiệm vụ: Nợ máu phải trả bằng máu!"
+    },
+    {
+      "num": 152,
+      "title": "Bọn họ xứng đáng!"
+    },
+    {
+      "num": 153,
+      "title": "Những người sống sót ở thành phố Thanh Tuyền"
+    },
+    {
+      "num": 154,
+      "title": "Những người bạn mãi mãi"
+    },
+    {
+      "num": 155,
+      "title": "NPC sắp không đủ dùng rồi"
+    },
+    {
+      "num": 156,
+      "title": "Sứ giả đến từ Cự Thạch Thành"
+    },
+    {
+      "num": 157,
+      "title": "Mùa xuân của hệ trí lực sắp đến rồi sao?"
+    },
+    {
+      "num": 158,
+      "title": "Thông báo phiên bản Alpha 0.8! Hệ thống cứ điểm hoàn toàn mới và lối chơi SLG?"
+    },
+    {
+      "num": 159,
+      "title": "Trưởng khoa, tiền không đủ tiêu rồi!"
+    },
+    {
+      "num": 160,
+      "title": "Đây có lẽ là khẩu AK đắt nhất thế giới"
+    },
+    {
+      "num": 161,
+      "title": "Khẩu súng này có tên là Liềm"
+    },
+    {
+      "num": 162,
+      "title": "Các người phát tài rồi!"
+    },
+    {
+      "num": 163,
+      "title": "Lên đường về phía vùng đất hoang!"
+    },
+    {
+      "num": 164,
+      "title": "Trang Trại Trường Cửu và manh mối mở khóa tầng B3！"
+    },
+    {
+      "num": 165,
+      "title": "Cuộc vui của dân đen và dân đỏ"
+    },
+    {
+      "num": 166,
+      "title": "Đây là bộ giáp mà chính tay ngài Quản Lý từng mặc, đắt hơn một chút cũng là chuyện dễ hiểu"
+    },
+    {
+      "num": 167,
+      "title": "Tin tức từ phương Bắc và đợt dân lưu lạc thứ hai"
+    },
+    {
+      "num": 168,
+      "title": "Trò chơi này chắc tuyển nhầm một tay thiết kế game của hãng Paradox rồi"
+    },
+    {
+      "num": 169,
+      "title": "Dây chuyền sản xuất vũ khí đầu tiên của Nơi Trú Ẩn Số 404 chính thức đi vào hoạt động!"
+    },
+    {
+      "num": 170,
+      "title": "Bác sĩ và thợ săn tiền thưởng"
+    },
+    {
+      "num": 171,
+      "title": "Kẻ phản bội của Học Viện"
+    },
+    {
+      "num": 172,
+      "title": "Nhân viên cấp D và tình báo về Học Viện"
+    },
+    {
+      "num": 173,
+      "title": "Công việc của những người dân lưu vong"
+    },
+    {
+      "num": 174,
+      "title": "Điểm tập kết mới và việc di dời nhà máy thép"
+    },
+    {
+      "num": 175,
+      "title": "Nguyên lý, phương pháp, kết luận"
+    },
+    {
+      "num": 176,
+      "title": "Cảm ơn món quà từ thiên nhiên"
+    },
+    {
+      "num": 177,
+      "title": "Phân viện học viện và chiến thuật của người chơi"
+    },
+    {
+      "num": 178,
+      "title": "Ý kiến của anh không tệ, lần cập nhật sau tôi sẽ cân nhắc thử"
+    },
+    {
+      "num": 179,
+      "title": "Bọ ngựa bắt ve, chim sẻ rình phía sau"
+    },
+    {
+      "num": 180,
+      "title": "Tên đỏ! Nhiệm vụ truy nã!"
+    },
+    {
+      "num": 181,
+      "title": "Đoàn lính đánh thuê Rắn Đen! Diệt sạch!"
+    },
+    {
+      "num": 182,
+      "title": "Giáp máy chiến đấu! Và chiếc vali màu đen!"
+    },
+    {
+      "num": 183,
+      "title": "Kế hoạch Ark"
+    },
+    {
+      "num": 184,
+      "title": "Lần thức tỉnh đầu tiên của người chơi"
+    },
+    {
+      "num": 185,
+      "title": "Quả nhiên vẫn là Âu Hoàng đáng ghét hơn"
+    },
+    {
+      "num": 186,
+      "title": "Easter egg khiến người mắc chứng ám ảnh cưỡng chế phát điên"
+    },
+    {
+      "num": 187,
+      "title": "Bây giờ là năm nào?"
+    },
+    {
+      "num": 188,
+      "title": "Sĩ quan quân đội và nhà sinh vật học"
+    },
+    {
+      "num": 189,
+      "title": "Nhìn cho kỹ, người chơi là phải dùng như thế này"
+    },
+    {
+      "num": 190,
+      "title": "Phiên bản Alpha 0.9! Hệ thống nghề nghiệp hoàn toàn mới và cách chơi nâng cấp độ thành thạo kỹ năng!"
+    },
+    {
+      "num": 191,
+      "title": "Lối ra mới của nơi trú ẩn và đường hầm không tồn tại trên bản đồ"
+    },
+    {
+      "num": 192,
+      "title": "Hay là chúng ta chế tạo pháo 88 mm đi!"
+    },
+    {
+      "num": 193,
+      "title": "Loài nấm nhầy kỳ lạ"
+    },
+    {
+      "num": 194,
+      "title": "Lại có thêm một lứa tân binh non choẹt vào game rồi"
+    },
+    {
+      "num": 195,
+      "title": "Bị tên thiết kế game chó má nhắm vào rồi!"
+    },
+    {
+      "num": 196,
+      "title": "Bị đám cướp bắt làm tù binh rồi???"
+    },
+    {
+      "num": 197,
+      "title": "Chiến dịch Đoạn Kiếm！"
+    },
+    {
+      "num": 198,
+      "title": "Hệ thống chiến dịch được nâng cấp toàn diện"
+    },
+    {
+      "num": 199,
+      "title": "Nghi binh, tập kích, chi viện và kỷ lục diệt quái đầu tiên toàn máy chủ!"
+    },
+    {
+      "num": 200,
+      "title": "Đề nghị các vị chuyển nhà đến đây thì hơn"
+    },
+    {
+      "num": 201,
+      "title": "Là thần tích, thưa ngài"
+    },
+    {
+      "num": 202,
+      "title": "Tổng kết chiến dịch! Quyền quản lý nơi trú ẩn số 117"
+    },
+    {
+      "num": 203,
+      "title": "Mọi người đều phải nhịn đói qua mùa đông, dựa vào đâu mà nhà các người có nhiều lương thực đến thế?!"
+    },
+    {
+      "num": 204,
+      "title": "Kế hoạch di dời và viện binh"
+    },
+    {
+      "num": 205,
+      "title": "Trận chiến ác liệt tại doanh trại Đông Liễu!"
+    },
+    {
+      "num": 206,
+      "title": "Anh Nước, hôm nay chúng ta đi đâu hiến mạng đây?"
+    },
+    {
+      "num": 207,
+      "title": "Sinh vật khó tin và điểm kỳ dị công nghệ"
+    },
+    {
+      "num": 208,
+      "title": "Bọn họ mới là những chiến binh thực thụ!"
+    },
+    {
+      "num": 209,
+      "title": "Đồng bạc thế hệ thứ hai và hệ thống huy chương"
+    },
+    {
+      "num": 210,
+      "title": "Trận bão tuyết ập đến bất ngờ"
+    },
+    {
+      "num": 211,
+      "title": "Điều lệ thời chiến！"
+    },
+    {
+      "num": 212,
+      "title": "Tăng giá rồi à? Thử nghiệm kín mà, quen là được!"
+    },
+    {
+      "num": 213,
+      "title": "Mùa xuân của hệ Trí Tuệ lại sắp đến rồi sao?"
+    },
+    {
+      "num": 214,
+      "title": "Hội chứng sợ thiếu hỏa lực"
+    },
+    {
+      "num": 215,
+      "title": "Bọn họ sẽ trở thành đôi mắt của ngươi"
+    },
+    {
+      "num": 216,
+      "title": "Những người thức tỉnh mới và công tác chuẩn bị chiến tranh"
+    },
+    {
+      "num": 217,
+      "title": "Tầng thứ chín của di tích nhà kính! Người thức tỉnh hệ Cảm Nhận và hệ Trí Tuệ đầu tiên toàn máy chủ!"
+    },
+    {
+      "num": 218,
+      "title": "Độ giật rất lớn! Nhưng cũng rất mạnh!"
+    },
+    {
+      "num": 219,
+      "title": "Thiên phú mới! Và sự kiện năm mới!"
+    },
+    {
+      "num": 220,
+      "title": "Đại chiến mỹ thực!"
+    },
+    {
+      "num": 221,
+      "title": "Năm Mới"
+    },
+    {
+      "num": 222,
+      "title": "Thế này thì yên bình quá rồi"
+    },
+    {
+      "num": 223,
+      "title": "Đột kích! Tổng động viên!"
+    },
+    {
+      "num": 224,
+      "title": "Cách dùng pháo phòng không chính xác nhất"
+    },
+    {
+      "num": 225,
+      "title": "Sao lại đầu hàng rồi?!"
+    },
+    {
+      "num": 226,
+      "title": "Tang lễ"
+    },
+    {
+      "num": 227,
+      "title": "Tuy tiền phát ra nhiều hơn, nhưng đây là chuyện tốt"
+    },
+    {
+      "num": 228,
+      "title": "Con rắn cuối cùng cũng bò ra khỏi hang!"
+    },
+    {
+      "num": 229,
+      "title": "Sấm Xuân"
+    },
+    {
+      "num": 230,
+      "title": "Trận Mưa Lửa Từ Trên Trời Rơi Xuống"
+    },
+    {
+      "num": 231,
+      "title": "Trận này đánh mà cứ như nhà giàu! (Cảm ơn minh chủ bạc “Chim Cánh Cụt Chỉ Ở Bắc Cực” đã thưởng!)"
+    },
+    {
+      "num": 232,
+      "title": "Tiêu diệt! Tù binh! Chiến lợi phẩm!"
+    },
+    {
+      "num": 233,
+      "title": "Nhiều người như vậy rốt cuộc từ đâu chui ra thế?"
+    },
+    {
+      "num": 234,
+      "title": "Động cơ đốt nhiên liệu"
+    },
+    {
+      "num": 235,
+      "title": "Lối chơi Thuần Thú Sư! Hệ Trí Tuệ lại được tăng sức mạnh nữa rồi?!"
+    },
+    {
+      "num": 236,
+      "title": "Hệ thống thú cưng chính thức ra mắt!"
+    },
+    {
+      "num": 237,
+      "title": "Người không thể, ít nhất cũng không nên"
+    },
+    {
+      "num": 238,
+      "title": "Cách thuần hóa dị chủng và chuẩn bị cho vụ cày cấy mùa xuân！"
+    },
+    {
+      "num": 239,
+      "title": "Cập nhật phiên bản Alpha 1.0! Lối chơi nghề nghiệp đời sống được tăng cường vượt bậc!"
+    },
+    {
+      "num": 240,
+      "title": "Phần ba của bản mở rộng chính thức ra mắt! Cuộc viếng thăm của người bạn cũ"
+    },
+    {
+      "num": 241,
+      "title": "Chúng tôi đưa ra hai phương án cùng có lợi, chọn phương án nào anh cũng sẽ lời to!"
+    },
+    {
+      "num": 242,
+      "title": "Đã là đôi bên cùng có lợi, vậy tất nhiên phải lấy hết cả hai!"
+    },
+    {
+      "num": 243,
+      "title": "Lại có thêm một lứa tân thủ hăng hái gia nhập"
+    },
+    {
+      "num": 244,
+      "title": "Cách sử dụng người Chuột chính xác nhất!"
+    },
+    {
+      "num": 245,
+      "title": "Nghĩa Địa Của Nền Văn Minh"
+    },
+    {
+      "num": 246,
+      "title": "Gửi lời kính trọng và biết ơn sâu sắc nhất đến những con người đáng kính ấy"
+    },
+    {
+      "num": 247,
+      "title": "Cuộc “khảo sát thị trường” của anh Phương"
+    },
+    {
+      "num": 248,
+      "title": "Anh Quang giả, anh Bánh Vẽ thật"
+    },
+    {
+      "num": 249,
+      "title": "Hình hài ban đầu của thương hội và tin tức từ trấn Hồng Hà"
+    },
+    {
+      "num": 250,
+      "title": "Trồng một ruộng bắp thôi mà cũng được thông báo toàn máy chủ?!"
+    },
+    {
+      "num": 251,
+      "title": "Không gian thương bất gian"
+    },
+    {
+      "num": 252,
+      "title": "Chợ nhân tài"
+    },
+    {
+      "num": 253,
+      "title": "Đây là một dấu hiệu tốt!"
+    },
+    {
+      "num": 254,
+      "title": "Ngài vừa nhìn đã biết là người có số phát tài"
+    },
+    {
+      "num": 255,
+      "title": "Tổng kết bản cập nhật! Giao dịch và dự trữ ngoại hối!"
+    },
+    {
+      "num": 256,
+      "title": "Viễn chinh đến trấn Hồng Hà！"
+    },
+    {
+      "num": 257,
+      "title": "Cuộc chạm trán bất ngờ trên tuyến đường vành đai số 5"
+    },
+    {
+      "num": 258,
+      "title": "Bắn tỉa, cuồng hóa, thân phận không rõ"
+    },
+    {
+      "num": 259,
+      "title": "Kỹ sư đến từ Tập đoàn"
+    },
+    {
+      "num": 260,
+      "title": "Làn Sóng Và Nhiệm Vụ Tầng B4!"
+    },
+    {
+      "num": 261,
+      "title": "Công Hội Thợ Săn! Tác Phẩm Nghệ Thuật Của Đằng Đằng!"
+    },
+    {
+      "num": 262,
+      "title": "Cập nhật phiên bản Alpha 1.1! Và điểm hồi sinh mới!"
+    },
+    {
+      "num": 263,
+      "title": "Hình hài ban đầu của tổ kiến mẹ và mẫu vật cần thu thập"
+    },
+    {
+      "num": 264,
+      "title": "Đáp án của phiên bản này là bán mặt nạ phòng độc?!"
+    },
+    {
+      "num": 265,
+      "title": "Khứu giác kinh doanh của Muỗi và người chơi mới lên sóng!"
+    },
+    {
+      "num": 266,
+      "title": "Cách đối phó với làn sóng!"
+    },
+    {
+      "num": 267,
+      "title": "Trận chặn đánh tại phố số 65!"
+    },
+    {
+      "num": 268,
+      "title": "Quái Thú Khâu Vá Và Bộ Giáp Bị Bắt Làm Tù Binh"
+    },
+    {
+      "num": 269,
+      "title": "Người chơi đàng hoàng ai thèm nhớ tên chính thức?"
+    },
+    {
+      "num": 270,
+      "title": "Hộp đen, công nghệ đảo ngược và niềm vui bất ngờ (Cảm ơn minh chủ «Phồn Thương» đã thưởng)"
+    },
+    {
+      "num": 271,
+      "title": "Thứ có thể tái chế không chỉ có rác, đương nhiên cả xác chết cũng vậy"
+    },
+    {
+      "num": 272,
+      "title": "Người mang gối đến đúng lúc xuất hiện"
+    },
+    {
+      "num": 273,
+      "title": "Ở đây đâu đâu cũng là tiền!"
+    },
+    {
+      "num": 274,
+      "title": "Vừa làm lương thực, vừa làm thức ăn chăn nuôi"
+    },
+    {
+      "num": 275,
+      "title": "Uy danh lẫy lừng của “Đoàn Quân Tử Thần”"
+    },
+    {
+      "num": 276,
+      "title": "Các người dọn sạch cả vốn liếng ra đây rồi à?"
+    },
+    {
+      "num": 277,
+      "title": "Tử Thần Gầm Thét!"
+    },
+    {
+      "num": 278,
+      "title": "Sào Huyệt Mẫu Thể Sụp Đổ!"
+    },
+    {
+      "num": 279,
+      "title": "Thức tỉnh lần thứ hai!"
+    },
+    {
+      "num": 280,
+      "title": "Tên rác rưởi có bảng thuộc tính vượt mức giới hạn"
+    },
+    {
+      "num": 281,
+      "title": "Chụp ảnh trong game thôi mà cũng phải tốn tiền?!"
+    },
+    {
+      "num": 282,
+      "title": "Con đường phía trước"
+    },
+    {
+      "num": 283,
+      "title": "Mở khóa tầng B4!"
+    },
+    {
+      "num": 284,
+      "title": "Gửi đến phiên bản Alpha sắp khép lại!"
+    },
+    {
+      "num": 285,
+      "title": "Cập nhật phiên bản Beta 0.1! Lối chơi thương nhân đường dài và hệ thống binh đoàn hoàn toàn mới!"
+    },
+    {
+      "num": 286,
+      "title": "Ngươi đã là một người chơi trưởng thành, đã đến lúc học cách tự bảo vệ nhà chính rồi"
+    },
+    {
+      "num": 287,
+      "title": "Người biết điều thường có vận may không tệ, bất kể là NPC hay người chơi"
+    },
+    {
+      "num": 288,
+      "title": "Trận chiến ác liệt giữa rừng sâu"
+    },
+    {
+      "num": 289,
+      "title": "“Huyết thanh thức tỉnh”!"
+    },
+    {
+      "num": 290,
+      "title": "Trận đầu tiên của Binh Đoàn Rừng Rậm và Binh Đoàn Thiêu Đốt!"
+    },
+    {
+      "num": 291,
+      "title": "Ngươi cũng bị kết án à?"
+    },
+    {
+      "num": 292,
+      "title": "Bạc cũng đổi được thành tiền rồi?!"
+    },
+    {
+      "num": 293,
+      "title": "Phiên bản Beta 0.2! Nền tảng giao dịch chính thức ra mắt!"
+    },
+    {
+      "num": 294,
+      "title": "Những người chơi bên ngoài trò chơi"
+    },
+    {
+      "num": 295,
+      "title": "Lòng người đổi thay rồi!"
+    },
+    {
+      "num": 296,
+      "title": "Đoàn Kỵ Sĩ Gấu Trắng！"
+    },
+    {
+      "num": 297,
+      "title": "Quá khứ, hiện tại, tương lai"
+    },
+    {
+      "num": 298,
+      "title": "Hệ thống binh đoàn nâng cấp!"
+    },
+    {
+      "num": 299,
+      "title": "Kế hoạch Bắc phạt"
+    },
+    {
+      "num": 300,
+      "title": "Thật sự không được thì cứ tưởng tượng mình là tên lửa"
+    },
+    {
+      "num": 301,
+      "title": "Chuẩn bị chiến tranh"
+    },
+    {
+      "num": 302,
+      "title": "Đây rõ ràng không phải việc con người có thể làm"
+    },
+    {
+      "num": 303,
+      "title": "Muốn cắt rau hẹ, cần gì phải dùng dao?"
+    },
+    {
+      "num": 304,
+      "title": "Ăn no bụng rồi mới ra tiền tuyến"
+    },
+    {
+      "num": 305,
+      "title": "Khởi động bản mở rộng! Mục tiêu: Tây Châu!"
+    },
+    {
+      "num": 306,
+      "title": "Lợi kiếm rời vỏ! (Chúc mừng năm mới!)"
+    },
+    {
+      "num": 307,
+      "title": "Nã pháo vào tọa độ của ông đây!"
+    },
+    {
+      "num": 308,
+      "title": "Đại thắng ở huyện Thanh Thạch!"
+    },
+    {
+      "num": 309,
+      "title": "Dọn dẹp chiến trường và mai phục"
+    },
+    {
+      "num": 310,
+      "title": "Một trận thành danh！"
+    },
+    {
+      "num": 311,
+      "title": "Chiều sâu chiến lược giành được bằng chiến đấu"
+    },
+    {
+      "num": 312,
+      "title": "Đương nhiên là bay qua rồi!"
+    },
+    {
+      "num": 313,
+      "title": "Tuy không có máy bay vận tải, nhưng tàu lượn cũng dùng được"
+    },
+    {
+      "num": 314,
+      "title": "Chiến dịch Dũng Sĩ!"
+    },
+    {
+      "num": 315,
+      "title": "Một đêm không ngủ của bộ tộc Răng Thị"
+    },
+    {
+      "num": 316,
+      "title": "Đạn xuyên không đủ sâu? Vậy thì lấy sức nổ bù vào!"
+    },
+    {
+      "num": 317,
+      "title": "Phi đao từ trên trời rơi xuống"
+    },
+    {
+      "num": 318,
+      "title": "Công ty game này kinh doanh rộng đến mức nào vậy!"
+    },
+    {
+      "num": 319,
+      "title": "Sao không hợp tác sâu hơn một chút cho rồi?"
+    },
+    {
+      "num": 320,
+      "title": "Thu hoạch ngoài dự liệu！"
+    },
+    {
+      "num": 321,
+      "title": "Quản lý cấp cao được điều đến và chuyến bay đầu tiên của H-1!"
+    },
+    {
+      "num": 322,
+      "title": "Xem ra ngay cả ông trời cũng đứng về phía chúng ta!"
+    },
+    {
+      "num": 323,
+      "title": "Cầu vồng xuyên qua tầng mây"
+    },
+    {
+      "num": 324,
+      "title": "Không bao giờ rút lui!"
+    },
+    {
+      "num": 325,
+      "title": "Đại thắng ở Tùng Lâm Dục!"
+    },
+    {
+      "num": 326,
+      "title": "Đống chiến lợi phẩm chất cao như núi"
+    },
+    {
+      "num": 327,
+      "title": "Cạn ly vì chiến thắng của Liên Minh!"
+    },
+    {
+      "num": 328,
+      "title": "Pháo kích và chiến tranh tâm lý"
+    },
+    {
+      "num": 329,
+      "title": "Quân địch áp sát thành"
+    },
+    {
+      "num": 330,
+      "title": "Chiến dịch chặt đầu!"
+    },
+    {
+      "num": 331,
+      "title": "Chiếm đóng Tây Châu!"
+    },
+    {
+      "num": 332,
+      "title": "Cho dù là hai vạn con heo, cũng phải mất một lúc mới bắt được chứ?"
+    },
+    {
+      "num": 333,
+      "title": "Thanh nhiên liệu giấu dưới tầng hầm"
+    },
+    {
+      "num": 334,
+      "title": "Cuồng ma xây dựng cơ sở hạ tầng"
+    },
+    {
+      "num": 335,
+      "title": "Thiên đường ẩn sâu trong đường hầm"
+    },
+    {
+      "num": 336,
+      "title": "Gã biên kịch chó má lại mò đến cắt rau hẹ rồi!"
+    },
+    {
+      "num": 337,
+      "title": "A Quang sâu không lường được"
+    },
+    {
+      "num": 338,
+      "title": "Ngay cả người chơi may mắn cũng có lúc đen đủi"
+    },
+    {
+      "num": 339,
+      "title": "Do mạng máy chủ gặp trục trặc, sàn giao dịch bạc tạm ngừng hoạt động một ngày"
+    },
+    {
+      "num": 340,
+      "title": "Buổi đấu giá với những dòng chảy ngầm cuộn trào!"
+    },
+    {
+      "num": 341,
+      "title": "Hóa ra trò chơi này thật sự do người ngoài hành tinh làm ra?!"
+    },
+    {
+      "num": 342,
+      "title": "Cuộc cải cách"
+    },
+    {
+      "num": 343,
+      "title": "Pa Yi có trí nhớ siêu phàm"
+    },
+    {
+      "num": 344,
+      "title": "Khắp nơi đều là “Thể Tiến Hóa”"
+    },
+    {
+      "num": 345,
+      "title": "Thành chủ Bình Minh Thành, sẽ do ngươi đảm nhiệm!"
+    },
+    {
+      "num": 346,
+      "title": "Nhiên liệu hàng không là một vấn đề lớn"
+    },
+    {
+      "num": 347,
+      "title": "Công nghệ thay đổi cả thế giới！"
+    },
+    {
+      "num": 348,
+      "title": "Đi đường của người khác, để người khác không còn đường mà đi"
+    },
+    {
+      "num": 349,
+      "title": "Thành Đá ngầm cuộn sóng dữ"
+    },
+    {
+      "num": 350,
+      "title": "Cuộc đối đầu giữa những kẻ thức tỉnh!"
+    },
+    {
+      "num": 351,
+      "title": "Du học?"
+    },
+    {
+      "num": 352,
+      "title": "Chi bằng các vị cho chúng tôi vay một khoản tiền cược?"
+    },
+    {
+      "num": 353,
+      "title": "Thời buổi này, kẻ mắc nợ mới là ông lớn"
+    },
+    {
+      "num": 354,
+      "title": "Bóng tối bên trong bức tường khổng lồ"
+    },
+    {
+      "num": 355,
+      "title": "Có khả năng nào là anh đã dùng chùa sức mạnh tính toán của máy chủ nhà phát hành không?"
+    },
+    {
+      "num": 356,
+      "title": "Các người góp kỹ thuật, chúng tôi góp nhân lực, đôi bên cùng có lợi"
+    },
+    {
+      "num": 357,
+      "title": "Phen này đúng là mất mặt chết đi được rồi"
+    },
+    {
+      "num": 358,
+      "title": "Liên minh phải có kênh truyền tiếng nói của riêng mình"
+    },
+    {
+      "num": 359,
+      "title": "《Nhật Báo Người Sống Sót》"
+    },
+    {
+      "num": 360,
+      "title": "Đây chính là vật phẩm nhiệm vụ quý giá"
+    },
+    {
+      "num": 361,
+      "title": "Cuộc sống thường ngày của người chơi và tin tức từ Tập đoàn"
+    },
+    {
+      "num": 362,
+      "title": "Có bạn từ phương xa đến"
+    },
+    {
+      "num": 363,
+      "title": "Các anh đúng là quá hào phóng!"
+    },
+    {
+      "num": 364,
+      "title": "Giá rẻ là một trong những ưu điểm của vũ khí chúng tôi"
+    },
+    {
+      "num": 365,
+      "title": "Cập nhật phiên bản Beta 0.3!\\"
+    },
+    {
+      "num": 366,
+      "title": "Dù sao cũng là hàng của Thành phố Lý Tưởng, đắt cũng có cái lý của nó"
+    },
+    {
+      "num": 367,
+      "title": "Lời mời của người quản lý Nơi trú ẩn số 101"
+    },
+    {
+      "num": 368,
+      "title": "“Phương pháp”"
+    },
+    {
+      "num": 369,
+      "title": "Con người phức tạp cũng chính là ở điểm này"
+    },
+    {
+      "num": 370,
+      "title": "Con bài mặc cả nhuốm máu"
+    },
+    {
+      "num": 371,
+      "title": "Quyền lực và nghĩa vụ"
+    },
+    {
+      "num": 372,
+      "title": "Người đàn ông luôn bị ngài chuốc say đến bất tỉnh"
+    },
+    {
+      "num": 373,
+      "title": "Thật ra, ngươi không đổi ý cũng được mà"
+    },
+    {
+      "num": 374,
+      "title": "Quân Đoàn Và Trái Tim Sắt Thép!"
+    },
+    {
+      "num": 375,
+      "title": "Gã lập trình chó má lại bày trò mới gì nữa đây?"
+    },
+    {
+      "num": 376,
+      "title": "Đánh nghi binh, thăm dò và lá chắn!"
+    },
+    {
+      "num": 377,
+      "title": "Sát cơ trong bóng tối"
+    },
+    {
+      "num": 378,
+      "title": "Chiến tranh đã bắt đầu"
+    },
+    {
+      "num": 379,
+      "title": "Chiếc khí cầu đó, chắc đáng giá lắm nhỉ?"
+    },
+    {
+      "num": 380,
+      "title": "Điểm yếu của Steel Heart"
+    },
+    {
+      "num": 381,
+      "title": "「Vườn không nhà trống」"
+    },
+    {
+      "num": 382,
+      "title": "Mật danh Tê Tê?"
+    },
+    {
+      "num": 383,
+      "title": "Nguồn gốc của hỗn loạn"
+    },
+    {
+      "num": 384,
+      "title": "Nơi trú ẩn số 79"
+    },
+    {
+      "num": 385,
+      "title": "Đợi tôi lên diễn đàn gọi người!"
+    },
+    {
+      "num": 386,
+      "title": "Chiến thuật biển người, bản nâng cấp!"
+    },
+    {
+      "num": 387,
+      "title": "Anh em tốt, cho mượn cái đầu dùng một lát!"
+    },
+    {
+      "num": 388,
+      "title": "Diệt Khẩu"
+    },
+    {
+      "num": 389,
+      "title": "「Chai trôi dạt ngoài quỹ đạo」"
+    },
+    {
+      "num": 390,
+      "title": "Thành Lý Tưởng"
+    },
+    {
+      "num": 391,
+      "title": "Ôm Lấy Sự Tiến Hóa"
+    },
+    {
+      "num": 392,
+      "title": "Trận chiến đẫm máu trong màn sương"
+    },
+    {
+      "num": 393,
+      "title": "Kế thừa quyền hạn (Chương thứ hai!)"
+    },
+    {
+      "num": 394,
+      "title": "Thú cưỡi cấp SSSR, bán theo cân cũng đâu có quá đáng nhỉ?"
+    },
+    {
+      "num": 395,
+      "title": "Kế hoạch “Kỵ binh Sói” và đội trăm người “Tê Tê”!"
+    },
+    {
+      "num": 396,
+      "title": "Mười hai chiếc hộp đen và sứ giả đến từ sa mạc"
+    },
+    {
+      "num": 397,
+      "title": "Lăng Vân!"
+    },
+    {
+      "num": 398,
+      "title": "Dụ rắn ra khỏi hang"
+    },
+    {
+      "num": 399,
+      "title": "Đã đến lúc kiểm tra khả năng huy động lực lượng"
+    },
+    {
+      "num": 400,
+      "title": "Ra tiền tuyến!"
+    },
+    {
+      "num": 401,
+      "title": "Bùng Cháy!"
+    },
+    {
+      "num": 402,
+      "title": "Thời khắc phản công!"
+    },
+    {
+      "num": 403,
+      "title": "Vinh quang sau trận chiến đẫm máu"
+    },
+    {
+      "num": 404,
+      "title": "Hồi kết của chiến dịch (Đại chương)"
+    },
+    {
+      "num": 405,
+      "title": "Phần thưởng dành cho những người anh hùng không chỉ có chiến lợi phẩm, mà còn có tiếng vỗ tay và hoa tươi"
+    },
+    {
+      "num": 406,
+      "title": "Giới thiệu bản cập nhật mới và tín hiệu liên lạc từ bờ Đông"
+    },
+    {
+      "num": 407,
+      "title": "Những người được truyền cảm hứng từ các anh hùng"
+    },
+    {
+      "num": 408,
+      "title": "Khải hoàn! Và những người chơi trong lễ mừng (Đại chương)"
+    },
+    {
+      "num": 409,
+      "title": "“Chia phần chiến lợi phẩm” và luận công ban thưởng!"
+    },
+    {
+      "num": 410,
+      "title": "Tang lễ và vị khách phương xa"
+    },
+    {
+      "num": 411,
+      "title": "Doanh nghiệp chơi lớn! (Cảm ơn minh chủ bạc «NightChicK3n»!)"
+    },
+    {
+      "num": 412,
+      "title": "Nhật Thực, đây chính là cơ hội của chúng ta!"
+    },
+    {
+      "num": 413,
+      "title": "Năng lực xây dựng cơ sở hạ tầng đáng kinh ngạc"
+    },
+    {
+      "num": 414,
+      "title": "Bắt đầu kiếm tiền từ gia công thuê!"
+    },
+    {
+      "num": 415,
+      "title": "Mồi lửa được thắp lên lần nữa！"
+    },
+    {
+      "num": 416,
+      "title": "Phiên bản Beta 0.4 – Hệ thống «Thương mại đường biển»"
+    },
+    {
+      "num": 417,
+      "title": "Ông đây nói là rút thăm, chứ có nói là ngẫu nhiên đâu"
+    },
+    {
+      "num": 418,
+      "title": "Sức mạnh thực sự không nằm ở cấp độ, mà nằm ở trái tim dũng cảm"
+    },
+    {
+      "num": 419,
+      "title": "Bản đồ mới này cũng quá đỉnh rồi!"
+    },
+    {
+      "num": 420,
+      "title": "Thứ sắp được đem ra đấu giá tiếp theo là món đồ đến từ Đằng Đằng Tiểu Ốc"
+    },
+    {
+      "num": 421,
+      "title": "Chơi trò chơi ảo trong một trò chơi thực tế ảo hoàn toàn chân thực"
+    },
+    {
+      "num": 422,
+      "title": "Diễn tập quân sự"
+    },
+    {
+      "num": 423,
+      "title": "Chúng ta không xuất khẩu hàng hóa, nhưng có thể xuất khẩu tiêu chuẩn"
+    },
+    {
+      "num": 424,
+      "title": "Lời hứa xuất quân và thân phận nước chư hầu"
+    },
+    {
+      "num": 425,
+      "title": "Tê tê lập công lớn"
+    },
+    {
+      "num": 426,
+      "title": "Không thể không khen một câu, A Quang đúng là quá tinh tế!"
+    },
+    {
+      "num": 427,
+      "title": "Cơn bão quét ngang sa mạc! (Chương dài vạn chữ)"
+    },
+    {
+      "num": 428,
+      "title": "Chưa bao giờ đánh một trận giàu có đến thế!"
+    },
+    {
+      "num": 429,
+      "title": "Bạn của tôi, không phải ai trên đời này cũng..."
+    },
+    {
+      "num": 430,
+      "title": "Đô Thành Trù Phú"
+    },
+    {
+      "num": 431,
+      "title": "Nghe nói đây là nơi “Thần Bầu Trời” ngã xuống"
+    },
+    {
+      "num": 432,
+      "title": "Ốc đảo dưới chân núi và sự thật đằng sau truyền thuyết"
+    },
+    {
+      "num": 433,
+      "title": "Trò chơi chân thực hoàn toàn, thậm chí còn có thể làm game ngay trong game"
+    },
+    {
+      "num": 434,
+      "title": "Cuộc Đọ Sức Của Những Đối Thủ Xứng Tầm"
+    },
+    {
+      "num": 435,
+      "title": "Tình bạn"
+    },
+    {
+      "num": 436,
+      "title": "Lập trường, chính là chính nghĩa!"
+    },
+    {
+      "num": 437,
+      "title": "Đó là ý chỉ của thần linh"
+    },
+    {
+      "num": 438,
+      "title": "Lửa cháy trên bờ đê"
+    },
+    {
+      "num": 439,
+      "title": "Muốn đối phó với thần côn, đương nhiên phải dùng cách còn thần côn hơn"
+    },
+    {
+      "num": 440,
+      "title": "Tên đã lên dây, không thể không bắn"
+    },
+    {
+      "num": 441,
+      "title": "Thời khắc phản công"
+    },
+    {
+      "num": 442,
+      "title": "Mật danh Lạc Hà!"
+    },
+    {
+      "num": 443,
+      "title": "Cuộc đụng độ giữa sắt thép và máu thịt"
+    },
+    {
+      "num": 444,
+      "title": "Lần này hết đường chạy rồi"
+    },
+    {
+      "num": 445,
+      "title": "Ánh sáng hủy diệt tất cả"
+    },
+    {
+      "num": 446,
+      "title": "Nơi mọi thứ bắt đầu"
+    },
+    {
+      "num": 447,
+      "title": "Trăm năm cô độc"
+    },
+    {
+      "num": 448,
+      "title": "“Tình yêu” vĩnh cửu"
+    },
+    {
+      "num": 449,
+      "title": "「Thái Thản」 thức tỉnh"
+    },
+    {
+      "num": 450,
+      "title": "Không có gì là không thể đánh bại"
+    },
+    {
+      "num": 451,
+      "title": "Thành Sư Tử hân hoan chào đón quân đồng minh"
+    },
+    {
+      "num": 452,
+      "title": "Bất ngờ ở tầng B6"
+    },
+    {
+      "num": 453,
+      "title": "Sự tiến hóa mất kiểm soát"
+    },
+    {
+      "num": 454,
+      "title": "Anh bạn à, mới mấy ngày không gặp, sao đã mặc váy rồi?"
+    },
+    {
+      "num": 455,
+      "title": "Thần thú cấp SSSR có gì đó không đúng lắm"
+    },
+    {
+      "num": 456,
+      "title": "Tối hậu thư"
+    },
+    {
+      "num": 457,
+      "title": "Ta, Tê Tê, nhất định sẽ không phụ lòng mong đợi của ngài!"
+    },
+    {
+      "num": 458,
+      "title": "Cái đầu người này đem tới mà diễn cũng chẳng thèm diễn"
+    },
+    {
+      "num": 459,
+      "title": "Phương pháp huấn luyện mang đậm bản sắc Liên Minh"
+    },
+    {
+      "num": 460,
+      "title": "Đám tân binh đợt này cũng có chút bản lĩnh đấy!"
+    },
+    {
+      "num": 461,
+      "title": "Bình gas từ trên trời rơi xuống, chẳng khác nào hình ảnh của những ngày tháng xưa kia"
+    },
+    {
+      "num": 462,
+      "title": "Thật ra đây là một trò chơi nuôi dưỡng nhân vật"
+    },
+    {
+      "num": 463,
+      "title": "Đám người chơi kỳ cựu này, chẳng có ai ra dáng người cả"
+    },
+    {
+      "num": 464,
+      "title": "Đòn tấn công chớp nhoáng!"
+    },
+    {
+      "num": 465,
+      "title": "Nay đã khác xưa"
+    },
+    {
+      "num": 466,
+      "title": "Đúng là chẳng coi anh em như người ngoài!"
+    },
+    {
+      "num": 467,
+      "title": "Trận chiến đẫm máu tại Cao điểm số 330!"
+    },
+    {
+      "num": 468,
+      "title": "Các ngươi đang tìm thứ này phải không?"
+    },
+    {
+      "num": 469,
+      "title": "Đây lại là BUG quái quỷ gì nữa vậy?"
+    },
+    {
+      "num": 470,
+      "title": "Đại bàng tung cánh giữa trời cao"
+    },
+    {
+      "num": 471,
+      "title": "Trò chơi này thật sự có BUG sao??"
+    },
+    {
+      "num": 472,
+      "title": "Năng lực đặc biệt của Tiểu Vũ"
+    },
+    {
+      "num": 473,
+      "title": "Người nhân bản đương nhiên cũng là con người, vì thế có thể dùng để thắng lợi hai lần"
+    },
+    {
+      "num": 474,
+      "title": "Giải cứu và rơi máy bay"
+    },
+    {
+      "num": 475,
+      "title": "Súng đạn vô tình chạm ngòi"
+    },
+    {
+      "num": 476,
+      "title": "Kẻ được công nhận mới là tù binh"
+    },
+    {
+      "num": 477,
+      "title": "Hay là để tên Phương Trường kia nghĩ hộ một kế dở hơi nhỉ?"
+    },
+    {
+      "num": 478,
+      "title": "Nhòm ngó số vàng trong túi bạn cũ, làm thế thì chẳng nghĩa khí chút nào"
+    },
+    {
+      "num": 479,
+      "title": "Làm một cuộc giao dịch đi"
+    },
+    {
+      "num": 480,
+      "title": "Sống lại một lần nữa (Phần 1)"
+    },
+    {
+      "num": 481,
+      "title": "Đây là hình phạt dành cho chút tư tâm của cậu (Chương thứ hai!)"
+    },
+    {
+      "num": 482,
+      "title": "Máy bay đâu rồi? Một chiếc máy bay to đùng như thế biến đi đâu mất rồi?"
+    },
+    {
+      "num": 483,
+      "title": "So với nói đây là một cuộc thí nghiệm, chi bằng gọi nó là một bản kế hoạch vĩ đại"
+    },
+    {
+      "num": 484,
+      "title": "Một ngày bình thường nơi hậu phương"
+    },
+    {
+      "num": 485,
+      "title": "Tướng quân Griffin bị dồn vào đường cùng"
+    },
+    {
+      "num": 486,
+      "title": "Giải phóng Vương quốc Chồn Mật (Cảm ơn 「Schrödinger x」 đã thưởng Bạch Ngân Minh Chủ!)"
+    },
+    {
+      "num": 487,
+      "title": "Đoàn quân xương khô tiến quân như chẻ tre"
+    },
+    {
+      "num": 488,
+      "title": "Đây là câu trả lời cho tối hậu thư"
+    },
+    {
+      "num": 489,
+      "title": "Kéo dài thân máy bay và sải cánh, bỏ động cơ"
+    },
+    {
+      "num": 490,
+      "title": "Phi công của Liên Minh còn có cả vệ sĩ nữa!"
+    },
+    {
+      "num": 491,
+      "title": "Cái kết chẳng dễ dàng gì mới có được"
+    },
+    {
+      "num": 492,
+      "title": "Xử lý chiến lợi phẩm"
+    },
+    {
+      "num": 493,
+      "title": "Khí cầu đến từ Khải Toàn Thành!"
+    },
+    {
+      "num": 494,
+      "title": "Vừa hay đủ một bàn mạt chược"
+    },
+    {
+      "num": 495,
+      "title": "Cuộc “trùng phùng” cách nhau một thế kỷ rưỡi"
+    },
+    {
+      "num": 496,
+      "title": "Súng sáng và tên ngầm"
+    },
+    {
+      "num": 497,
+      "title": "Cái chết của Griffin"
+    },
+    {
+      "num": 498,
+      "title": "Đây là chiến thắng thuộc về chúng ta"
+    },
+    {
+      "num": 499,
+      "title": "Tất cả bọn họ rồi sẽ thất bại dưới tay chúng ta (Chương thứ hai)"
+    },
+    {
+      "num": 500,
+      "title": "Kết thúc bản mở rộng «Cát Vàng Vạn Dặm»"
+    },
+    {
+      "num": 501,
+      "title": "Nơi nền văn minh bắt đầu sụp đổ"
+    },
+    {
+      "num": 502,
+      "title": "Huy hiệu hình ngọn lửa"
+    },
+    {
+      "num": 503,
+      "title": "Tên trông mặt mũi sáng sủa như cậu sao lại lẻn vào đây được?"
+    },
+    {
+      "num": 504,
+      "title": "Những người sống sót trên tàu Khai Thác Giả"
+    },
+    {
+      "num": 505,
+      "title": "Bóng tối chôn sâu dưới lòng đất"
+    },
+    {
+      "num": 506,
+      "title": "Muộn màng"
+    },
+    {
+      "num": 507,
+      "title": "Quy Khư, Quy Không"
+    },
+    {
+      "num": 508,
+      "title": "Người thứ tám"
+    },
+    {
+      "num": 509,
+      "title": "Hãy cảm thấy vinh dự đi, vốn dĩ thứ này được chuẩn bị cho Tài Quyết Giả Hiệu"
+    },
+    {
+      "num": 510,
+      "title": "Cơn bão sắp tan"
+    },
+    {
+      "num": 511,
+      "title": "Quyết định không hẹn mà cùng"
+    },
+    {
+      "num": 512,
+      "title": "Dương mưu"
+    },
+    {
+      "num": 513,
+      "title": "Cuộc phiêu lưu không để lại tiếc nuối"
+    },
+    {
+      "num": 514,
+      "title": "Chúc mừng sự ra đời của một khu định cư mới"
+    },
+    {
+      "num": 515,
+      "title": "Tiền sửa đường ống nước cũng định bắt tôi trả à?"
+    },
+    {
+      "num": 516,
+      "title": "Đó là lời nguyền của quê hương ta, vận rủi sẽ bám lấy mái chèo của chúng!"
+    },
+    {
+      "num": 517,
+      "title": "Về nhà"
+    },
+    {
+      "num": 518,
+      "title": "Lại tiến thêm một bước trên con đường không làm người"
+    },
+    {
+      "num": 519,
+      "title": "Tiến Hóa"
+    },
+    {
+      "num": 520,
+      "title": "Nuốt chửng và lựa chọn"
+    },
+    {
+      "num": 521,
+      "title": "Mở cửa tầng B6, “Phòng thí nghiệm sinh vật”!"
+    },
+    {
+      "num": 522,
+      "title": "Lần này trở về từ tiền tuyến, việc ta muốn làm có thể gói gọn trong một chuyện"
+    },
+    {
+      "num": 523,
+      "title": "Làm một tên cướp lịch sự"
+    },
+    {
+      "num": 524,
+      "title": "Ánh bình minh của thành phố Ánh Bình Minh, nơi vạn nước quy tụ"
+    },
+    {
+      "num": 525,
+      "title": "Ta sẽ cân nhắc tự thưởng cho mình vài ngày nghỉ"
+    },
+    {
+      "num": 526,
+      "title": "Lễ hội Ngày Chiến Thắng"
+    },
+    {
+      "num": 527,
+      "title": "Sự ô uế đang âm thầm lan rộng"
+    },
+    {
+      "num": 528,
+      "title": "Chúng ta là người một nhà mà!"
+    },
+    {
+      "num": 529,
+      "title": "Kỳ nghỉ ba ngày"
+    },
+    {
+      "num": 530,
+      "title": "Bố, cho con mượn ít tiền!"
+    },
+    {
+      "num": 531,
+      "title": "Cập nhật phiên bản Beta 0.5！"
+    },
+    {
+      "num": 532,
+      "title": "Nợ nần là một lưỡi dao"
+    },
+    {
+      "num": 533,
+      "title": "Bậc thầy thẻ bài Sở Quang"
+    },
+    {
+      "num": 534,
+      "title": "Thùng thuốc súng bùng cháy (Cảm ơn minh chủ bạc «Luân Hồi Thiên Biến» đã hào phóng ủng hộ!)"
+    },
+    {
+      "num": 535,
+      "title": "Con trai ta có tiền đồ rồi!"
+    },
+    {
+      "num": 536,
+      "title": "Cọng rơm cuối cùng đè chết con lạc đà"
+    },
+    {
+      "num": 537,
+      "title": "Vô vàn khả năng trong tương lai"
+    },
+    {
+      "num": 538,
+      "title": "Mỗi khả năng đều là sự tiếp nối của những ngày tháng đã qua"
+    },
+    {
+      "num": 539,
+      "title": "Món nợ cuối cùng cũng đến ngày thanh toán"
+    },
+    {
+      "num": 540,
+      "title": "Đã quá muộn rồi, sinh vật hữu cơ"
+    },
+    {
+      "num": 541,
+      "title": "Điểm kết thúc của luân hồi là niết bàn"
+    },
+    {
+      "num": 542,
+      "title": "Sự sụp đổ của tòa nhà lớn"
+    },
+    {
+      "num": 543,
+      "title": "Thành phố thứ năm của Liên Minh"
+    },
+    {
+      "num": 544,
+      "title": "Con đường là do chính mình chọn"
+    },
+    {
+      "num": 545,
+      "title": "Nó là AI vô hình, còn tôi là hữu hình"
+    },
+    {
+      "num": 546,
+      "title": "Pháo quỹ đạo chiến lược đặt trên không gian"
+    },
+    {
+      "num": 547,
+      "title": "Đóng chiếc đinh cuối cùng lên cỗ quan tài này"
+    },
+    {
+      "num": 548,
+      "title": "Công nghiệp quân sự Cự Thạch bị người chơi “vọc hỏng”"
+    },
+    {
+      "num": 549,
+      "title": "Những con chuột dưới bóng bức tường khổng lồ"
+    },
+    {
+      "num": 550,
+      "title": "Bắt cóc và phản sát"
+    },
+    {
+      "num": 551,
+      "title": "Các người chết sạch thì càng tốt cho chúng tôi"
+    },
+    {
+      "num": 552,
+      "title": "Thời thế đã đổi"
+    },
+    {
+      "num": 553,
+      "title": "Mùi máu"
+    },
+    {
+      "num": 554,
+      "title": "Lại một năm mới nữa"
+    },
+    {
+      "num": 555,
+      "title": "Dịch bệnh bùng cháy trên ngọn đuốc"
+    },
+    {
+      "num": 556,
+      "title": "Tiến quân về phương Nam"
+    },
+    {
+      "num": 557,
+      "title": "Cuộc chiến vì «Đức Tin»"
+    },
+    {
+      "num": 558,
+      "title": "Sinh mệnh và đức tin méo mó"
+    },
+    {
+      "num": 559,
+      "title": "Chủ nô và Dị nhân"
+    },
+    {
+      "num": 560,
+      "title": "Hỗn chiến trong đêm tối"
+    },
+    {
+      "num": 561,
+      "title": "Xuống đây nào, ngươi!"
+    },
+    {
+      "num": 562,
+      "title": "Vì chưa tới 20mm, nên đương nhiên vẫn là súng"
+    },
+    {
+      "num": 563,
+      "title": "Chúng tôi đến đây chính là để chịu chết!"
+    },
+    {
+      "num": 564,
+      "title": "Cuộc chiến đẫm máu và lửa!"
+    },
+    {
+      "num": 565,
+      "title": "Trận chiến đẫm máu giữa rừng!"
+    },
+    {
+      "num": 566,
+      "title": "Hai manh mối"
+    },
+    {
+      "num": 567,
+      "title": "Chỗ quỷ quái này cũng gặp được người quen sao?"
+    },
+    {
+      "num": 568,
+      "title": "Tinh Hà thẳng tính"
+    },
+    {
+      "num": 569,
+      "title": "Đến cả tên tôi mà cũng không biết, thế mà cũng dám lên máy bay à?"
+    },
+    {
+      "num": 570,
+      "title": "Dị nhân đột biến có dấu hiệu thức tỉnh?"
+    },
+    {
+      "num": 571,
+      "title": "Khởi nguồn của hỗn loạn"
+    },
+    {
+      "num": 572,
+      "title": "Chúng ta chưa bao giờ bạc đãi những người giúp đỡ mình"
+    },
+    {
+      "num": 573,
+      "title": "Bị lộ rồi?"
+    },
+    {
+      "num": 574,
+      "title": "Cách “phá đảo nhanh” nhiệm vụ"
+    },
+    {
+      "num": 575,
+      "title": "Kinh phí đang bốc cháy!"
+    },
+    {
+      "num": 576,
+      "title": "Phúc âm đến từ địa ngục"
+    },
+    {
+      "num": 577,
+      "title": "Phương án số 03"
+    },
+    {
+      "num": 578,
+      "title": "Tòa Dị giáo của Ngọn Đuốc"
+    },
+    {
+      "num": 579,
+      "title": "Xung đột leo thang"
+    },
+    {
+      "num": 580,
+      "title": "Tự chui đầu vào rọ"
+    },
+    {
+      "num": 581,
+      "title": "Đây là sự hy sinh cần thiết"
+    },
+    {
+      "num": 582,
+      "title": "Cứ mạnh tay là có kỳ tích"
+    },
+    {
+      "num": 583,
+      "title": "Không ngờ lại là một lão già ngủ đông"
+    },
+    {
+      "num": 584,
+      "title": "Cuộc đời của Du Nhĩ"
+    },
+    {
+      "num": 585,
+      "title": "Không ai biết bọn họ muốn đi đâu"
+    },
+    {
+      "num": 586,
+      "title": "Vị thần linh ảo"
+    },
+    {
+      "num": 587,
+      "title": "Ta không làm người nữa! (Cảm ơn minh chủ bạc “Thế Giới Đường” đã thưởng!!!)"
+    },
+    {
+      "num": 588,
+      "title": "Sương mù nổi lên"
+    },
+    {
+      "num": 589,
+      "title": "Cùng xuống địa ngục đi!"
+    },
+    {
+      "num": 590,
+      "title": "Một con chó hoang, cũng xứng làm đối thủ của người quản lý đại nhân sao?"
+    },
+    {
+      "num": 591,
+      "title": "Thiên đường của ngươi thì cứ giữ lại mà tự mình đến đó đi"
+    },
+    {
+      "num": 592,
+      "title": "Phá kỷ lục rồi!"
+    },
+    {
+      "num": 593,
+      "title": "Thiên Quốc Giáng Lâm"
+    },
+    {
+      "num": 594,
+      "title": "Hoạt động mới ra mắt! Kế hoạch dập lửa!"
+    },
+    {
+      "num": 595,
+      "title": "Trận chiến trong những con hẻm ở thành phố Cẩm Hà!"
+    },
+    {
+      "num": 596,
+      "title": "Cái nồi này đổ cũng trơ trẽn quá rồi đấy!"
+    },
+    {
+      "num": 597,
+      "title": "Đoàn quân xương khô đã đến!"
+    },
+    {
+      "num": 598,
+      "title": "Tiếng gầm của Chimera!"
+    },
+    {
+      "num": 599,
+      "title": "Chiến trường chẳng khác nào cối xay thịt"
+    },
+    {
+      "num": 600,
+      "title": "Tàn tích của Thành phố Điểm Kỳ Dị"
+    },
+    {
+      "num": 601,
+      "title": "Những người sống sót"
+    },
+    {
+      "num": 602,
+      "title": "Giáp sinh vật chất"
+    },
+    {
+      "num": 603,
+      "title": "Mồi nhử quen thuộc đến lạ"
+    },
+    {
+      "num": 604,
+      "title": "Mưa máu nở rộ giữa không trung"
+    },
+    {
+      "num": 605,
+      "title": "Đứng dậy cho ta!"
+    },
+    {
+      "num": 606,
+      "title": "Trận chiến giữa những kẻ mạnh nhất"
+    },
+    {
+      "num": 607,
+      "title": "Buổi sáng sau đêm dài"
+    },
+    {
+      "num": 608,
+      "title": "Xua tan mọi bóng tối"
+    },
+    {
+      "num": 609,
+      "title": "Đầu hàng? Ta đã tuyên chiến với chúng nó bao giờ à?"
+    },
+    {
+      "num": 610,
+      "title": "Sự hồi sinh của Kỳ Điểm Thành"
+    },
+    {
+      "num": 611,
+      "title": "Cái giá của sự mạnh lên"
+    },
+    {
+      "num": 612,
+      "title": "Cảnh tượng tràn đầy sức sống"
+    },
+    {
+      "num": 613,
+      "title": "Bản cập nhật không chính thức"
+    },
+    {
+      "num": 614,
+      "title": "Nếu là ngài, nhất định ngài sẽ biết cách sử dụng tốt món di sản này"
+    },
+    {
+      "num": 615,
+      "title": "Hầm trú ẩn số 100!"
+    },
+    {
+      "num": 616,
+      "title": "「Cây」 và 「Người Cây」"
+    },
+    {
+      "num": 617,
+      "title": "Kẻ đáng thương không thể nhìn thấy thế giới mới"
+    },
+    {
+      "num": 618,
+      "title": "Chuyện cũ ở nơi trú ẩn số 100"
+    },
+    {
+      "num": 619,
+      "title": "Khép lại ân oán trăm năm trước"
+    },
+    {
+      "num": 620,
+      "title": "Chúng ta không phải người tốt nhất, cũng chẳng phải kẻ xấu nhất"
+    },
+    {
+      "num": 621,
+      "title": "Người máy sinh học này dùng tốt quá rồi!"
+    },
+    {
+      "num": 622,
+      "title": "Ý tưởng tồi tệ này biết đâu lại thật sự có tác dụng"
+    },
+    {
+      "num": 623,
+      "title": "Làn sương mù khác thường"
+    },
+    {
+      "num": 624,
+      "title": "Lần này thứ được tăng cường là não bộ à?"
+    },
+    {
+      "num": 625,
+      "title": "Đấu sĩ đồng hóa?"
+    },
+    {
+      "num": 626,
+      "title": "Chiến thuật vô lý nhất mà trước giờ chưa từng thấy"
+    },
+    {
+      "num": 627,
+      "title": "Cửa ải mang độ khó Địa Ngục đã tồn tại từ ngày mở máy chủ"
+    },
+    {
+      "num": 628,
+      "title": "Ngài!"
+    },
+    {
+      "num": 629,
+      "title": "Tiến sâu vào địa ngục!"
+    },
+    {
+      "num": 630,
+      "title": "Địa Ngục Sụp Đổ!"
+    },
+    {
+      "num": 631,
+      "title": "Gaia"
+    },
+    {
+      "num": 632,
+      "title": "Tạm biệt nhé, đồng loại chưa từng gặp mặt của tôi"
+    },
+    {
+      "num": 633,
+      "title": "Hồi kết của “Làn Sóng Trỗi Dậy”"
+    },
+    {
+      "num": 634,
+      "title": "Chiếc bánh vẽ cách chúng ta năm năm ánh sáng"
+    },
+    {
+      "num": 635,
+      "title": "Phiên bản Beta 0.6! Hệ thống nuôi dưỡng cá thể phụ!"
+    },
+    {
+      "num": 636,
+      "title": "Ngươi đã là một người làm game trưởng thành rồi, phải học cách tự trả lương cho mình thôi"
+    },
+    {
+      "num": 637,
+      "title": "Những cá thể phụ bị người chơi vọc đến hỏng cả rồi"
+    },
+    {
+      "num": 638,
+      "title": "Tôi thật sự là người quản lý!"
+    },
+    {
+      "num": 639,
+      "title": "Vật liệu tự phục hồi！"
+    },
+    {
+      "num": 640,
+      "title": "Chúng ta có thể thành lập một đặc khu ở Đầm Lầy Bàng Hoàng"
+    },
+    {
+      "num": 641,
+      "title": "Một sự hiểu lầm do trùng hợp ngẫu nhiên"
+    },
+    {
+      "num": 642,
+      "title": "Hãy để cơn bão ập đến dữ dội hơn nữa! 「Phụt——!"
+    },
+    {
+      "num": 643,
+      "title": "Ngài đã đánh giá thấp sức ảnh hưởng của mình"
+    },
+    {
+      "num": 644,
+      "title": "Dù sao cũng là bạn cũ hợp tác lâu năm, chẳng lẽ lại cho ít hơn cả người ngoài sao?"
+    },
+    {
+      "num": 645,
+      "title": "Đứa con bất hiếu ở phương Bắc"
+    },
+    {
+      "num": 646,
+      "title": "Chuyện này không liên quan đến đúng hay sai, đơn giản chỉ là lựa chọn của họ"
+    },
+    {
+      "num": 647,
+      "title": "Lễ ăn mừng ngày kết thúc làn sóng!"
+    },
+    {
+      "num": 648,
+      "title": "Cho không à?"
+    },
+    {
+      "num": 649,
+      "title": "Trận “hải chiến” đầu tiên của người chơi kể từ ngày mở máy chủ"
+    },
+    {
+      "num": 650,
+      "title": "Đây vốn là một cuộc chờ đợi chẳng có kết quả"
+    },
+    {
+      "num": 651,
+      "title": "Cuộc sống thường ngày của Người quản lý"
+    },
+    {
+      "num": 652,
+      "title": "Người chơi thông minh không chỉ biết tự vẽ bánh, mà còn chủ động nướng bánh giúp người khác nữa"
+    },
+    {
+      "num": 653,
+      "title": "Ta là Tê Tê, ta lại quay về rồi!"
+    },
+    {
+      "num": 654,
+      "title": "Người đến không chỉ có sứ giả, mà còn có cả rắc rối"
+    },
+    {
+      "num": 655,
+      "title": "Vậy thì cứ đến đây! Chúng ta không cần thứ hòa bình bố thí"
+    },
+    {
+      "num": 656,
+      "title": "Chúng Ta Đã Từng Gặp Nhau Ở Đâu Rồi Phải Không?"
+    },
+    {
+      "num": 657,
+      "title": "Bến cảng của người chơi"
+    },
+    {
+      "num": 658,
+      "title": "Khu rừng mưa đầy rẫy hiểm nguy"
+    },
+    {
+      "num": 659,
+      "title": "Các người cứ xây thêm vài khu định cư đi, tuyệt đối đừng khách sáo"
+    },
+    {
+      "num": 660,
+      "title": "Chuyến trở về đầy ắp hàng hóa của tàu Ngưu Mã"
+    },
+    {
+      "num": 661,
+      "title": "Đó là một vùng đất đang «sống»!"
+    },
+    {
+      "num": 662,
+      "title": "Sao đám quái vật này cứ kéo đến từng đợt thế?"
+    },
+    {
+      "num": 663,
+      "title": "Cảng Khoai Tây tràn đầy sức sống"
+    },
+    {
+      "num": 664,
+      "title": "Ở đây quả nhiên vàng bạc đầy đất"
+    },
+    {
+      "num": 665,
+      "title": "Tầm nhìn lớn của lão huynh Phương Trường"
+    },
+    {
+      "num": 666,
+      "title": "Thức ăn kiếm được bằng sức lao động mới là thứ mang lại phẩm giá"
+    },
+    {
+      "num": 667,
+      "title": "Điểm đến tiếp theo! Cảng Khoai Tây Chiên!"
+    },
+    {
+      "num": 668,
+      "title": "Giúp tôi với, nể tình chúng ta đều là cư dân nơi trú ẩn!"
+    },
+    {
+      "num": 669,
+      "title": "Bóng ma dưới đáy biển sâu"
+    },
+    {
+      "num": 670,
+      "title": "“Nghệ thuật” là sức sản xuất hàng đầu."
+    },
+    {
+      "num": 671,
+      "title": "Tình cảnh quen thuộc đến lạ."
+    },
+    {
+      "num": 672,
+      "title": "Nàng và những đứa con của nàng"
+    },
+    {
+      "num": 673,
+      "title": "Cơn thịnh nộ của Đế quốc"
+    },
+    {
+      "num": 674,
+      "title": "Chuyện này thì liên quan gì đến chúng ta?"
+    },
+    {
+      "num": 675,
+      "title": "Từ Quán Rượu Một Người Đến Quán Rượu Giai Nhân"
+    },
+    {
+      "num": 676,
+      "title": "Sự thật chìm dưới đáy biển"
+    },
+    {
+      "num": 677,
+      "title": "Trận chiến khốc liệt dưới đáy biển sâu!"
+    },
+    {
+      "num": 678,
+      "title": "Thuyền nhỏ đổi thuyền lớn"
+    },
+    {
+      "num": 679,
+      "title": "Con đường càng đi càng rộng mở"
+    },
+    {
+      "num": 680,
+      "title": "Ông đây giờ đã là người của Liên Minh, có giỏi thì động vào ông thử xem?!"
+    },
+    {
+      "num": 681,
+      "title": "Đừng để máu bắn lên người tôi"
+    },
+    {
+      "num": 682,
+      "title": "Cơn bão sắp ập đến"
+    },
+    {
+      "num": 683,
+      "title": "Cuộc hỗn chiến do một sự nhầm lẫn tai hại"
+    },
+    {
+      "num": 684,
+      "title": "Cảm ơn tổ tiên đã ban tặng?"
+    },
+    {
+      "num": 685,
+      "title": "Có qua có lại mới toại lòng nhau"
+    },
+    {
+      "num": 686,
+      "title": "Thế này mà gọi là phản kích á?!"
+    },
+    {
+      "num": 687,
+      "title": "Đổ bộ, kiểm soát, chiến đấu trong phố!"
+    },
+    {
+      "num": 688,
+      "title": "Chiếm đóng Phủ Tổng Đốc!"
+    },
+    {
+      "num": 689,
+      "title": "Cảng Kim Gia Luân chao đảo giữa sóng gió"
+    },
+    {
+      "num": 690,
+      "title": "Đi theo ta! Đi lấy vũ khí của các ngươi!"
+    },
+    {
+      "num": 691,
+      "title": "Thưa ngài Quản Lý đáng kính, khi ngài nhận được bản báo cáo này, trận chiến đã kết thúc"
+    },
+    {
+      "num": 692,
+      "title": "Mảnh đất nuôi dưỡng hỗn loạn"
+    },
+    {
+      "num": 693,
+      "title": "“Thế Giới Động Vật” và “Kinh Thánh”."
+    },
+    {
+      "num": 694,
+      "title": "Khoảng trống quyền lực"
+    },
+    {
+      "num": 695,
+      "title": "Cảng Kim Gia Luân nghênh đón quân vương sư"
+    },
+    {
+      "num": 696,
+      "title": "Kẻ địch không những không đầu hàng, thậm chí còn muốn chơi một ván lớn"
+    },
+    {
+      "num": 697,
+      "title": "Đội “tinh nhuệ” vừa chạm trán đã tan tác"
+    },
+    {
+      "num": 698,
+      "title": "Con sói xám không chịu hành động theo lẽ thường"
+    },
+    {
+      "num": 699,
+      "title": "Lui quân 100 cây số là giới hạn cuối cùng để ngừng bắn."
+    },
+    {
+      "num": 700,
+      "title": "Không tệ, con trai ta cuối cùng cũng nên thân rồi"
+    },
+    {
+      "num": 701,
+      "title": "Vùng đất mặn màu mỡ."
+    },
+    {
+      "num": 702,
+      "title": "Hôm nay, tiền tuyến không có chiến sự"
+    },
+    {
+      "num": 703,
+      "title": "Thơm thật đấy!"
+    },
+    {
+      "num": 704,
+      "title": "Đêm định đoạt vận mệnh của cảng Kim Gia Luân"
+    },
+    {
+      "num": 705,
+      "title": "Lệnh cấm vận thủng lỗ chỗ"
+    },
+    {
+      "num": 706,
+      "title": "Ánh bình minh vừa nhô lên từ bến tàu đã chiếu sáng cảng biển."
+    },
+    {
+      "num": 707,
+      "title": "Thế giới chỉ có Đế Quốc bị tổn thương đã thành hiện thực"
+    },
+    {
+      "num": 708,
+      "title": "Hoàn toàn biến thành hình dạng của Liên Minh"
+    },
+    {
+      "num": 709,
+      "title": "Nước!"
+    },
+    {
+      "num": 710,
+      "title": "“Cua” và “Cá lớn”"
+    },
+    {
+      "num": 711,
+      "title": "Bị chơi một vố"
+    },
+    {
+      "num": 712,
+      "title": "Kế hoạch luôn không theo kịp những thay đổi"
+    },
+    {
+      "num": 713,
+      "title": "Liên Bang Tan Rã."
+    },
+    {
+      "num": 714,
+      "title": "Hóa ra chính tôi là người lật bàn"
+    },
+    {
+      "num": 715,
+      "title": "Lời thề từ hai trăm năm trước"
+    },
+    {
+      "num": 716,
+      "title": "Ngọn lửa có thể lây lan"
+    },
+    {
+      "num": 717,
+      "title": "Đoàn kết chính là sức mạnh"
+    },
+    {
+      "num": 718,
+      "title": "Cỗ máy chiến tranh khởi động!"
+    },
+    {
+      "num": 719,
+      "title": "Mang cái chết đến cho kẻ thù của Liên Minh"
+    },
+    {
+      "num": 720,
+      "title": "Trận chiến Thập Phong Sơn！"
+    },
+    {
+      "num": 721,
+      "title": "Cập nhật Beta 0.7! Đại chiến Thiên Đường chính thức bắt đầu!"
+    },
+    {
+      "num": 722,
+      "title": "Người của tôi đâu? Vừa nãy còn ở đây mà!"
+    },
+    {
+      "num": 723,
+      "title": "Đã đến rồi thì ở lại làm việc luôn đi"
+    },
+    {
+      "num": 724,
+      "title": "Nghề cũ của Liên Minh"
+    },
+    {
+      "num": 725,
+      "title": "Đế quốc “buông xuôi” và đám “thùng cơm” của Thành phố Lý Tưởng"
+    },
+    {
+      "num": 726,
+      "title": "Trận chiến tại núi Đoạn Nhận!"
+    },
+    {
+      "num": 727,
+      "title": "Doanh Nghiệp Và Quân Đoàn Nội Bộ Lục Đục?"
+    },
+    {
+      "num": 728,
+      "title": "Nhìn cho kỹ, ta chỉ làm mẫu một lần thôi!"
+    },
+    {
+      "num": 729,
+      "title": "Hang Động Ngập Tràn Máu Thịt"
+    },
+    {
+      "num": 730,
+      "title": "Anh Hùng Đích Thực！"
+    },
+    {
+      "num": 731,
+      "title": "Thắng lợi bước đầu"
+    },
+    {
+      "num": 732,
+      "title": "Bên cạnh vị tiên sinh ấy, ta nhìn thấy một khả năng khác"
+    },
+    {
+      "num": 733,
+      "title": "Cuộc sống thường ngày của “linh vật may mắn” đứng đầu liên quân"
+    },
+    {
+      "num": 734,
+      "title": "Chúa Tể Dịch Bệnh!"
+    },
+    {
+      "num": 735,
+      "title": "A Nhĩ Pháp Nguyên Trùng"
+    },
+    {
+      "num": 736,
+      "title": "Lá bài tẩy cuối cùng"
+    },
+    {
+      "num": 737,
+      "title": "Giai Đoạn Thứ Tư Của Thiên Quốc!"
+    },
+    {
+      "num": 738,
+      "title": "Trận quyết chiến định đoạt vận mệnh vùng đất này!"
+    },
+    {
+      "num": 739,
+      "title": "Vật Tế Dâng Lên Vì Đức Tin"
+    },
+    {
+      "num": 740,
+      "title": "Huyết Sơn thất thủ!"
+    },
+    {
+      "num": 741,
+      "title": "Nắm đấm mạnh ngang pháo điện từ"
+    },
+    {
+      "num": 742,
+      "title": "Mở đường đột phá từ tuyến phía Bắc"
+    },
+    {
+      "num": 743,
+      "title": "LV61! Giai đoạn thứ bảy của chuỗi gen!"
+    },
+    {
+      "num": 744,
+      "title": "Cảng Khoai Tây và tình hình chiến sự ở tuyến phía Nam"
+    },
+    {
+      "num": 745,
+      "title": "Cảng Kim Gia Luân rối tung lên"
+    },
+    {
+      "num": 746,
+      "title": "Ta chính là cơn sóng dữ!"
+    },
+    {
+      "num": 747,
+      "title": "Dùng làn sóng chống lại làn sóng!"
+    },
+    {
+      "num": 748,
+      "title": "Chiến tuyến nở rộ khắp nơi"
+    },
+    {
+      "num": 749,
+      "title": "Tình hình tiền tuyến vô cùng khả quan"
+    },
+    {
+      "num": 750,
+      "title": "Làn gió mới thổi đến vùng đất hoang"
+    },
+    {
+      "num": 751,
+      "title": "721 Hiệu Địa"
+    },
+    {
+      "num": 752,
+      "title": "Buổi hội học tập ở vùng đầm lầy và biến động lớn tại vùng biển phía Nam"
+    },
+    {
+      "num": 753,
+      "title": "Trận chiến khốc liệt trên đảo Sa Châu!"
+    },
+    {
+      "num": 754,
+      "title": "Bước ngoặt ở chiến tuyến phía Nam"
+    },
+    {
+      "num": 755,
+      "title": "Công Ty Bách Việt Lên Sàn!"
+    },
+    {
+      "num": 756,
+      "title": "Cuồng hoan!"
+    },
+    {
+      "num": 757,
+      "title": "Điều không ngờ tới mới là chuyện thường tình của cuộc đời"
+    },
+    {
+      "num": 758,
+      "title": "Hy vọng nhú lên từ lòng đất"
+    },
+    {
+      "num": 759,
+      "title": "Bức thư ngoài dự liệu"
+    },
+    {
+      "num": 760,
+      "title": "Muốn cỏ mọc tốt, trước tiên phải châm lửa đốt một trận"
+    },
+    {
+      "num": 761,
+      "title": "Gần son thì đỏ, gần mực thì đen"
+    },
+    {
+      "num": 762,
+      "title": "Đều do cùng một nhóm huấn luyện viên dạy ra"
+    },
+    {
+      "num": 763,
+      "title": "Tiến triển ở chiến tuyến phía Nam và phía Bắc"
+    },
+    {
+      "num": 764,
+      "title": "Muốn lừa được đối thủ, trước tiên phải lừa được chính mình"
+    },
+    {
+      "num": 765,
+      "title": "Đổ bộ lên Bắc Đảo!"
+    },
+    {
+      "num": 766,
+      "title": "Hồi kết của cuộc nội chiến"
+    },
+    {
+      "num": 767,
+      "title": "Một hòn đá khuấy động ngàn tầng sóng"
+    },
+    {
+      "num": 768,
+      "title": "Chiến lợi phẩm phong phú!"
+    },
+    {
+      "num": 769,
+      "title": "Hủy diệt bao giờ cũng nhanh hơn xây dựng rất nhiều"
+    },
+    {
+      "num": 770,
+      "title": "Laxi tiến vào thành"
+    },
+    {
+      "num": 771,
+      "title": "Niềm vui nỗi buồn của mỗi người vốn chẳng giống nhau"
+    },
+    {
+      "num": 772,
+      "title": "Hay là chúng ta cũng vay một ít?"
+    },
+    {
+      "num": 773,
+      "title": "Mượn của các người á? Đừng hòng!"
+    },
+    {
+      "num": 774,
+      "title": "Máu chảy thành sông."
+    },
+    {
+      "num": 775,
+      "title": "Diễn tập đổ bộ"
+    },
+    {
+      "num": 776,
+      "title": "Công tước Niha Khắc sẵn sàng vì bạn bè mà đâm hai nhát sau lưng"
+    },
+    {
+      "num": 777,
+      "title": "Đổ bộ lên Bờ Biển Chết!"
+    },
+    {
+      "num": 778,
+      "title": "Cuộc chiến đẫm máu trên bờ biển!"
+    },
+    {
+      "num": 779,
+      "title": "Lạ thật, sao cánh cửa tự mở rồi?"
+    },
+    {
+      "num": 780,
+      "title": "Ngọn đuốc cùng đường bí lối."
+    },
+    {
+      "num": 781,
+      "title": "Loạn quyền đánh chết lão điên."
+    },
+    {
+      "num": 782,
+      "title": "“Không ai hiểu A Quang hơn tôi”"
+    },
+    {
+      "num": 783,
+      "title": "Trong ứng ngoài hợp"
+    },
+    {
+      "num": 784,
+      "title": "Sinh vật cao cấp mà các ngươi vẫn luôn tự hào... yếu quá đấy."
+    },
+    {
+      "num": 785,
+      "title": "Nghĩ theo hướng tích cực đi, ít nhất vẫn còn cái não"
+    },
+    {
+      "num": 786,
+      "title": "Tiêu diệt toàn bộ!"
+    },
+    {
+      "num": 787,
+      "title": "Người Willant muốn hái quả trên cây người khác trồng"
+    },
+    {
+      "num": 788,
+      "title": "Vớ được món hời lớn rồi!"
+    },
+    {
+      "num": 789,
+      "title": "Luận chứng tính khả thi của “Thang máy vũ trụ không cần quỹ đạo”"
+    },
+    {
+      "num": 790,
+      "title": "Thế mà thật sự đào được thứ đó rồi sao?!"
+    },
+    {
+      "num": 791,
+      "title": "Địa ngục lúc nào cũng giống nhau đến lạ"
+    },
+    {
+      "num": 792,
+      "title": "Sự sụp đổ của “Nhân Hoàng”"
+    },
+    {
+      "num": 793,
+      "title": "Những dòng chảy ngầm sau chiến thắng"
+    },
+    {
+      "num": 794,
+      "title": "Tuy rằng giá quay thưởng không tăng, nhưng ta cũng đâu có nói là sẽ không chỉnh tỷ lệ trúng thưởng!"
+    },
+    {
+      "num": 795,
+      "title": "Thang máy không gian này, quyết định xây ở chỗ các anh rồi"
+    },
+    {
+      "num": 796,
+      "title": "Âm mưu của các phe"
+    },
+    {
+      "num": 797,
+      "title": "Một lô vũ khí gây ra sóng gió"
+    },
+    {
+      "num": 798,
+      "title": "Thành Voi Ma Mút dưới ánh bình minh"
+    },
+    {
+      "num": 799,
+      "title": "Ăn thêm ba bữa mỗi ngày chẳng phải là phần thưởng sao?"
+    },
+    {
+      "num": 800,
+      "title": "Người tốt khó sống lâu trong thời loạn"
+    },
+    {
+      "num": 801,
+      "title": "Tên của chúng ta đều sẽ được khắc lên tấm bia bất diệt này"
+    },
+    {
+      "num": 802,
+      "title": "Bằng chứng xác thực"
+    },
+    {
+      "num": 803,
+      "title": "Chuyện thường ngày ở Ban Đối ngoại Liên Minh"
+    },
+    {
+      "num": 804,
+      "title": "Luôn đi trước phiên bản mãi mãi"
+    },
+    {
+      "num": 805,
+      "title": "Kẻ địch này sao còn có lương tâm hơn cả người nhà mình thế?"
+    },
+    {
+      "num": 806,
+      "title": "Hạt giống thù hận"
+    },
+    {
+      "num": 807,
+      "title": "Con người luôn tạo ra thần linh theo hình dáng của chính mình"
+    },
+    {
+      "num": 808,
+      "title": "Hiệu ứng dây chuyền"
+    },
+    {
+      "num": 809,
+      "title": "Bị người ta nẫng tay trên?"
+    },
+    {
+      "num": 810,
+      "title": "Con muỗi châm dầu vào lửa"
+    },
+    {
+      "num": 811,
+      "title": "Những quân cờ của các nhân vật lớn"
+    },
+    {
+      "num": 812,
+      "title": "Cánh buồm bốc cháy"
+    },
+    {
+      "num": 813,
+      "title": "Tây Phàm thất thủ"
+    },
+    {
+      "num": 814,
+      "title": "Viện binh đang trên đường tới"
+    },
+    {
+      "num": 815,
+      "title": "Kết thúc đẫm máu"
+    },
+    {
+      "num": 816,
+      "title": "Địa ngục và thiên đường chỉ cách nhau vài nghìn cây số"
+    },
+    {
+      "num": 817,
+      "title": "Nghĩa vụ của Liên Minh"
+    },
+    {
+      "num": 818,
+      "title": "Trừng phạt và hòa giải"
+    },
+    {
+      "num": 819,
+      "title": "Sắp gần đất xa trời."
+    },
+    {
+      "num": 820,
+      "title": "Mùi xác chết đã bắt đầu bốc ra khỏi quan tài."
+    },
+    {
+      "num": 821,
+      "title": "“Hoàng đế cuối cùng” của Tây Lam"
+    },
+    {
+      "num": 822,
+      "title": "Người có đức tin thành kính không dễ chết đến thế."
+    },
+    {
+      "num": 823,
+      "title": "Chúng ta đều là cái giá phải trả."
+    },
+    {
+      "num": 824,
+      "title": "Ta là cha ngươi, Tê Tê đây!"
+    },
+    {
+      "num": 825,
+      "title": "Đế Chế Sụp Đổ."
+    },
+    {
+      "num": 826,
+      "title": "Đông Thi học đòi"
+    },
+    {
+      "num": 827,
+      "title": "Kiếm tuốt khỏi vỏ, đôi bên căng thẳng!"
+    },
+    {
+      "num": 828,
+      "title": "Chi bằng đầu quân cho Liên Minh."
+    },
+    {
+      "num": 829,
+      "title": "Thế mạng"
+    },
+    {
+      "num": 830,
+      "title": "Tiếng súng xé toạc màn đêm."
+    },
+    {
+      "num": 831,
+      "title": "“Dịch vụ hậu mãi” của Liên Minh."
+    },
+    {
+      "num": 832,
+      "title": "Thoát Khỏi Hang Hổ"
+    },
+    {
+      "num": 833,
+      "title": "Người nhà đã đến"
+    },
+    {
+      "num": 834,
+      "title": "Nóng vội thì hỏng việc"
+    },
+    {
+      "num": 835,
+      "title": "Ngọn lửa tham vọng"
+    },
+    {
+      "num": 836,
+      "title": "Con Tê Tê Bị Oan, Bị Tống Vào Ngục"
+    },
+    {
+      "num": 837,
+      "title": "Một sức mạnh khổng lồ đang dần hình thành!"
+    },
+    {
+      "num": 838,
+      "title": "Gậy Ông Đập Lưng Ông"
+    },
+    {
+      "num": 839,
+      "title": "Kẻ trung thành sẽ là người chết đầu tiên"
+    },
+    {
+      "num": 840,
+      "title": "Đếm ngược đến chiến tranh"
+    },
+    {
+      "num": 841,
+      "title": "Quân đoàn phương Nam chơi chẳng đẹp chút nào"
+    },
+    {
+      "num": 842,
+      "title": "Chiếc vương miện nhuốm máu"
+    },
+    {
+      "num": 843,
+      "title": "Pháo hoa nở rộ trên mặt đất"
+    },
+    {
+      "num": 844,
+      "title": "Hạm đội không rõ lai lịch"
+    },
+    {
+      "num": 845,
+      "title": "Cập nhật bản mở rộng! 「Man Di xâm lược」！"
+    },
+    {
+      "num": 846,
+      "title": "Quân đoàn phương Tây muốn âm thầm phát tài"
+    },
+    {
+      "num": 847,
+      "title": "Khởi đầu hỗn loạn"
+    },
+    {
+      "num": 848,
+      "title": "Sắt thép tung vó, lao nhanh như bay!"
+    },
+    {
+      "num": 849,
+      "title": "Thép đang bốc cháy!"
+    },
+    {
+      "num": 850,
+      "title": "Săn giết dưới lòng biển"
+    },
+    {
+      "num": 851,
+      "title": "Cối xay thịt ở Lý Đức Bố Nhĩ"
+    },
+    {
+      "num": 852,
+      "title": "Đội quân thiết giáp của Liên Minh!"
+    },
+    {
+      "num": 853,
+      "title": "Thành vỡ"
+    },
+    {
+      "num": 854,
+      "title": "Ngọn lửa thực sự có thể thiêu rụi cả cánh đồng"
+    },
+    {
+      "num": 855,
+      "title": "Sói, Rắn và Chó"
+    },
+    {
+      "num": 856,
+      "title": "Con người mới là tương lai"
+    },
+    {
+      "num": 857,
+      "title": "Đây chính là chúng ta"
+    },
+    {
+      "num": 858,
+      "title": "Xung phong cảm tử!"
+    },
+    {
+      "num": 859,
+      "title": "Đòn tập kích bất ngờ"
+    },
+    {
+      "num": 860,
+      "title": "Đại thắng ở huyện Acaale!"
+    },
+    {
+      "num": 861,
+      "title": "Bầu trời thép!"
+    },
+    {
+      "num": 862,
+      "title": "Khác biệt giữa thắng lớn và thắng nhỏ"
+    },
+    {
+      "num": 863,
+      "title": "Súng sáng dễ tránh, tên ngầm khó phòng"
+    },
+    {
+      "num": 864,
+      "title": "Những số phận hoàn toàn khác nhau."
+    },
+    {
+      "num": 865,
+      "title": "Cuộc đọ sức ngang tài ngang sức"
+    },
+    {
+      "num": 866,
+      "title": "Điên cuồng"
+    },
+    {
+      "num": 867,
+      "title": "Chiến tranh sinh hóa"
+    },
+    {
+      "num": 868,
+      "title": "Quân địch áp sát thành"
+    },
+    {
+      "num": 869,
+      "title": "Rơi xuống!"
+    },
+    {
+      "num": 870,
+      "title": "Phản công!"
+    },
+    {
+      "num": 871,
+      "title": "Thiên Cung sụp đổ."
+    },
+    {
+      "num": 872,
+      "title": "Muôn Ma Quỷ Nhảy Múa"
+    },
+    {
+      "num": 873,
+      "title": "Cuộc chiến trường kỳ"
+    },
+    {
+      "num": 874,
+      "title": "Vết sẹo"
+    },
+    {
+      "num": 875,
+      "title": "Không phải người chơi nào cũng là cao thủ."
+    },
+    {
+      "num": 876,
+      "title": "Trận chiến đầu tiên của binh đoàn sa mạc"
+    },
+    {
+      "num": 877,
+      "title": "Đấu trí với không khí"
+    },
+    {
+      "num": 878,
+      "title": "Rắn thật sự chui ra khỏi hang rồi sao?."
+    },
+    {
+      "num": 879,
+      "title": "Cá lớn ở Cảng Vĩnh Dạ hơi nhiều."
+    },
+    {
+      "num": 880,
+      "title": "Tính toán trùng hợp ngoài ý muốn"
+    },
+    {
+      "num": 881,
+      "title": "Lấy độc trị độc"
+    },
+    {
+      "num": 882,
+      "title": "Ảo ảnh"
+    },
+    {
+      "num": 883,
+      "title": "Tan thành mây khói."
+    },
+    {
+      "num": 884,
+      "title": "Bắt cóc."
+    },
+    {
+      "num": 885,
+      "title": "Tấm màn che đậy bị xé toạc"
+    },
+    {
+      "num": 886,
+      "title": "Bánh mì hay tín ngưỡng"
+    },
+    {
+      "num": 887,
+      "title": "Mưa lớn chôn vùi tất cả."
+    },
+    {
+      "num": 888,
+      "title": "Chiến lực của người chơi qua đường."
+    },
+    {
+      "num": 889,
+      "title": "Con cá lớn ở Vĩnh Dạ Cảng."
+    },
+    {
+      "num": 890,
+      "title": "Đêm dài rồi cũng sẽ qua"
+    },
+    {
+      "num": 891,
+      "title": "Hạt lửa đang dần bùng lên"
+    },
+    {
+      "num": 892,
+      "title": "Nền Tảng Của Niềm Tin"
+    },
+    {
+      "num": 893,
+      "title": "Những nơi từng đi qua năm ấy"
+    },
+    {
+      "num": 894,
+      "title": "Cuộc đại di cư"
+    },
+    {
+      "num": 895,
+      "title": "Những người Willant đến từ phương xa"
+    },
+    {
+      "num": 896,
+      "title": "Dù là công dân tương lai"
+    },
+    {
+      "num": 897,
+      "title": "Khả năng tự sửa sai"
+    },
+    {
+      "num": 898,
+      "title": "Ta không phải vạn phu trưởng của các ngươi"
+    },
+    {
+      "num": 899,
+      "title": "Cơ hội luôn dành cho kẻ có chuẩn bị"
+    },
+    {
+      "num": 900,
+      "title": "Hãy để chúng tôi gặp Người Quản Lý!"
+    },
+    {
+      "num": 901,
+      "title": "Liên minh không phải cỗ máy ước nguyện."
+    },
+    {
+      "num": 902,
+      "title": "Dư chấn của sự việc."
+    },
+    {
+      "num": 903,
+      "title": "Cầu mới và cầu thay đổi."
+    },
+    {
+      "num": 904,
+      "title": "Chiến dịch Gió Bắc."
+    },
+    {
+      "num": 905,
+      "title": "Ủy mị."
+    },
+    {
+      "num": 906,
+      "title": "Người thông minh thật sự và kẻ thích tỏ ra khôn ngoan."
+    },
+    {
+      "num": 907,
+      "title": "Tập đoàn quan chức văn phòng đáp lễ"
+    },
+    {
+      "num": 908,
+      "title": "Nước cờ hiểm của Quân đoàn Phương Nam"
+    },
+    {
+      "num": 909,
+      "title": "Nguồn gốc của mâu thuẫn."
+    },
+    {
+      "num": 910,
+      "title": "Chúng ta chính là đến để giải quyết vấn đề này."
+    },
+    {
+      "num": 911,
+      "title": "Rốt cuộc ai mới là kẻ bị phục kích?"
+    },
+    {
+      "num": 912,
+      "title": "Ánh sáng bừng lên nơi chân trời."
+    },
+    {
+      "num": 913,
+      "title": "“Hải Khiếu” tan tành ngay trên bãi biển."
+    },
+    {
+      "num": 914,
+      "title": "Cái giá phải trả cho việc liên tục thăm dò."
+    },
+    {
+      "num": 915,
+      "title": "Chúng ta sẽ kề vai chiến đấu."
+    },
+    {
+      "num": 916,
+      "title": "Nơi xuất quân, người đông như mắc cửi."
+    },
+    {
+      "num": 917,
+      "title": "Trung Thành!"
+    },
+    {
+      "num": 918,
+      "title": "Ngày khải hoàn cũng chính là bình minh!."
+    },
+    {
+      "num": 919,
+      "title": "Nội gián leo lên làm thủ lĩnh."
+    },
+    {
+      "num": 920,
+      "title": "Tan đàn xẻ nghé!"
+    },
+    {
+      "num": 921,
+      "title": "Đổ bộ cảng Vĩnh Dạ!"
+    },
+    {
+      "num": 922,
+      "title": "NPC này cũng chân thực quá rồi đấy!"
+    },
+    {
+      "num": 923,
+      "title": "Chấn động bốn phương"
+    },
+    {
+      "num": 924,
+      "title": "「Vũ khí quyết chiến」."
+    },
+    {
+      "num": 925,
+      "title": "Sự điên cuồng của con thú cùng đường"
+    },
+    {
+      "num": 926,
+      "title": "Hầm trú ẩn số 3"
+    },
+    {
+      "num": 927,
+      "title": "Tương kế tựu kế, con tê tê"
+    },
+    {
+      "num": 928,
+      "title": "「Sứ Mệnh Quyết Chiến」"
+    },
+    {
+      "num": 929,
+      "title": "Vô chiêu thắng kỳ chiêu"
+    },
+    {
+      "num": 930,
+      "title": "Ánh bình minh của người Willant"
+    },
+    {
+      "num": 931,
+      "title": "Viên gạch đầu tiên sụp đổ"
+    },
+    {
+      "num": 932,
+      "title": "Cuộc liên minh chưa từng có trong suốt trăm năm!"
+    },
+    {
+      "num": 933,
+      "title": "Nơi này chính là bến đỗ của hắn"
+    },
+    {
+      "num": 934,
+      "title": "Hẹn ngày gặp lại"
+    },
+    {
+      "num": 935,
+      "title": "Chiếm lĩnh đầu mối công nghiệp!"
+    },
+    {
+      "num": 936,
+      "title": "Hoang Vu"
+    },
+    {
+      "num": 937,
+      "title": "Kỳ quan của người Willant"
+    },
+    {
+      "num": 938,
+      "title": "Lý tưởng thì đẹp đẽ, hiện thực lại phũ phàng"
+    },
+    {
+      "num": 939,
+      "title": "Để muông thú chạy nhảy"
+    },
+    {
+      "num": 940,
+      "title": "Sức mạnh của 1,5 tỷ đồng bạc"
+    },
+    {
+      "num": 941,
+      "title": "Thời khắc quyết định vận mệnh vùng đất hoang"
+    },
+    {
+      "num": 942,
+      "title": "Thủ Lĩnh Tối Cao Và Người Quản Lý"
+    },
+    {
+      "num": 943,
+      "title": "Quá khứ và hiện tại"
+    },
+    {
+      "num": 944,
+      "title": "Giết sạch!"
+    },
+    {
+      "num": 945,
+      "title": "Cứu rỗi!"
+    },
+    {
+      "num": 946,
+      "title": "Ánh sáng và bóng tối"
+    },
+    {
+      "num": 947,
+      "title": "Tan cuộc"
+    },
+    {
+      "num": 948,
+      "title": "Anh em tương tàn"
+    },
+    {
+      "num": 949,
+      "title": "Thành toàn"
+    },
+    {
+      "num": 950,
+      "title": "Đêm Lưỡi Lê！"
+    },
+    {
+      "num": 951,
+      "title": "Anh hùng"
+    },
+    {
+      "num": 952,
+      "title": "Trả Lại"
+    },
+    {
+      "num": 953,
+      "title": "Mùa vạn vật hồi sinh"
+    },
+    {
+      "num": 954,
+      "title": "Binh Lâm Thành Hạ"
+    },
+    {
+      "num": 955,
+      "title": "Quân đoàn phương Nam đã đến lúc cạn dầu tắt đèn"
+    },
+    {
+      "num": 956,
+      "title": "Sự điên cuồng của kẻ cùng đường"
+    },
+    {
+      "num": 957,
+      "title": "Vặn Vẹo!"
+    },
+    {
+      "num": 958,
+      "title": "Dã tâm tan thành tro bụi"
+    },
+    {
+      "num": 959,
+      "title": "Vị khách không mời"
+    },
+    {
+      "num": 960,
+      "title": "Cuộc chạm trán thăm dò"
+    },
+    {
+      "num": 961,
+      "title": "Trật tự hậu chiến"
+    },
+    {
+      "num": 962,
+      "title": "Thiên Nhân"
+    },
+    {
+      "num": 963,
+      "title": "Dòng chảy ngầm giữa không gian sâu thẳm"
+    },
+    {
+      "num": 964,
+      "title": "Truyền thụ tất cả những gì mình biết"
+    },
+    {
+      "num": 965,
+      "title": "Lão già này nổ vàng rồi!"
+    },
+    {
+      "num": 966,
+      "title": "Mùa thu hoạch thắng lợi"
+    },
+    {
+      "num": 967,
+      "title": "Thời buổi này, NPC cũng bắt đầu tranh nhiệm vụ với người chơi rồi"
+    },
+    {
+      "num": 968,
+      "title": "Nhiệm Vụ Bí Mật Trong Đường Cống?"
+    },
+    {
+      "num": 969,
+      "title": "Bắt giữ"
+    },
+    {
+      "num": 970,
+      "title": "Báo ứng"
+    },
+    {
+      "num": 971,
+      "title": "Khủng hoảng cuối cùng lại ập đến?"
+    },
+    {
+      "num": 972,
+      "title": "Vòng xoay"
+    },
+    {
+      "num": 973,
+      "title": "Canh lợn đợi thỏ"
+    },
+    {
+      "num": 974,
+      "title": "Bính"
+    },
+    {
+      "num": 975,
+      "title": "Lưỡi kiếm sắc bén chĩa thẳng vào khoảng không vũ trụ"
+    },
+    {
+      "num": 976,
+      "title": "Khởi động giếng đúc thẳng đứng!"
+    },
+    {
+      "num": 977,
+      "title": "Nghĩa Địa Không Gian"
+    },
+    {
+      "num": 978,
+      "title": "Nơi Trú Ẩn Số 13"
+    },
+    {
+      "num": 979,
+      "title": "Hy Sinh"
+    },
+    {
+      "num": 980,
+      "title": "Đan xen"
+    },
+    {
+      "num": 981,
+      "title": "Điểm Đứt Gãy"
+    },
+    {
+      "num": 982,
+      "title": "「Bóng ma」"
+    },
+    {
+      "num": 983,
+      "title": "Ngã rẽ định mệnh"
+    },
+    {
+      "num": 984,
+      "title": "Đường vòng"
+    },
+    {
+      "num": 985,
+      "title": "Độ lệch"
+    },
+    {
+      "num": 986,
+      "title": "Trạng Thái Chồng Chập"
+    },
+    {
+      "num": 987,
+      "title": "Lối ra khỏi mê cung"
+    },
+    {
+      "num": 988,
+      "title": "Trở về"
+    },
+    {
+      "num": 989,
+      "title": "Cộng Hưởng"
+    },
+    {
+      "num": 990,
+      "title": "Đến như đã hẹn"
+    },
+    {
+      "num": 991,
+      "title": "Trạm Cuối"
+    },
+    {
+      "num": 992,
+      "title": "Khoảng nghỉ giữa chương"
+    },
+    {
+      "num": 993,
+      "title": "Cuộc hội ngộ sau bao ngày xa cách"
+    },
+    {
+      "num": 994,
+      "title": "Đổ bộ"
+    },
+    {
+      "num": 995,
+      "title": "Bái kiến Thủy Tổ đại nhân?"
+    },
+    {
+      "num": 996,
+      "title": "Hậu Duệ"
+    },
+    {
+      "num": 997,
+      "title": "Bất đồng"
+    },
+    {
+      "num": 998,
+      "title": "Dấu hiệu hé lộ"
+    },
+    {
+      "num": 999,
+      "title": "Người đại diện"
+    },
+    {
+      "num": 1000,
+      "title": "Cây Cây Insov"
+    },
+    {
+      "num": 1001,
+      "title": "Bị “người ngoài hành tinh” bắt cóc?"
+    },
+    {
+      "num": 1002,
+      "title": "Tâm và tâm"
+    },
+    {
+      "num": 1003,
+      "title": "Ta nhìn thấy ngươi rồi"
+    },
+    {
+      "num": 1004,
+      "title": "Hai con đường"
+    },
+    {
+      "num": 1005,
+      "title": "“Tâm thắng vạn vật”"
+    },
+    {
+      "num": 1006,
+      "title": "Xoắn Ốc"
+    },
+    {
+      "num": 1007,
+      "title": "Câu chuyện khắc trên phiến đá"
+    },
+    {
+      "num": 1008,
+      "title": "Dùng linh năng tìm đường"
+    },
+    {
+      "num": 1009,
+      "title": "Phá vỡ bức tường thứ tư!"
+    },
+    {
+      "num": 1010,
+      "title": "Trở về nhà"
+    },
+    {
+      "num": 1011,
+      "title": "Chỉ trong chớp mắt, vượt năm năm ánh sáng"
+    },
+    {
+      "num": 1012,
+      "title": "Để thằng nhóc này một mình thể hiện hết rồi"
+    },
+    {
+      "num": 1013,
+      "title": "Phát hiện khiến cả thế giới chấn động!"
+    },
+    {
+      "num": 1014,
+      "title": "Tòa Tháp Nối Liền Với Bầu Trời!"
+    },
+    {
+      "num": 1015,
+      "title": "Bị tên nhóc đó làm cho phải trầm trồ rồi!"
+    },
+    {
+      "num": 1016,
+      "title": "Cuộc giao lưu giữa hai nền văn minh"
+    },
+    {
+      "num": 1017,
+      "title": "Tận cùng của vũ trụ là ăn ngon"
+    },
+    {
+      "num": 1018,
+      "title": "Ăn no quá cũng là một vấn đề"
+    },
+    {
+      "num": 1019,
+      "title": "Mầm non của Cây Thánh"
+    },
+    {
+      "num": 1020,
+      "title": "Giao dịch và lời đề nghị"
+    },
+    {
+      "num": 1021,
+      "title": "Kẻ chinh phục rừng già!"
+    },
+    {
+      "num": 1022,
+      "title": "「Phân Chảy Thành Sông」"
+    },
+    {
+      "num": 1023,
+      "title": "Mất trọng lực"
+    },
+    {
+      "num": 1024,
+      "title": "Hồi Ức"
+    },
+    {
+      "num": 1025,
+      "title": "Truyền lửa"
+    },
+    {
+      "num": 1026,
+      "title": "Khoét thủng lớp màng vũ trụ"
+    },
+    {
+      "num": 1027,
+      "title": "Đến từ hư không"
+    },
+    {
+      "num": 1028,
+      "title": "「Kẻ mắc kẹt giữa bức tường」"
+    },
+    {
+      "num": 1029,
+      "title": "Tiếng vọng trên bức tường"
+    },
+    {
+      "num": 1030,
+      "title": "Kẻ Quan Sát"
+    },
+    {
+      "num": 1031,
+      "title": "Món quà từ hư không"
+    },
+    {
+      "num": 1032,
+      "title": "Thanh kiếm treo trên đỉnh đầu"
+    },
+    {
+      "num": 1033,
+      "title": "Đã đến lúc kết thúc mọi chuyện rồi"
+    },
+    {
+      "num": 1034,
+      "title": "「Thiên Lôi」"
+    },
+    {
+      "num": 1035,
+      "title": "Ngày Phán Xét"
+    },
+    {
+      "num": 1036,
+      "title": "Ánh sáng thanh tẩy tất cả"
+    },
+    {
+      "num": 1037,
+      "title": "Chiến thắng thuộc về tất cả những người sống sót"
+    },
+    {
+      "num": 1038,
+      "title": "Tấn công Thiên Quốc"
+    },
+    {
+      "num": 1039,
+      "title": "Thiên Đường Sụp Đổ！"
+    },
+    {
+      "num": 1040,
+      "title": "Kết thúc đợt thử nghiệm Beta!"
+    },
+    {
+      "num": 1041,
+      "title": "Lũ sâu bọ"
+    },
+    {
+      "num": 1042,
+      "title": "Giáo sư"
+    },
+    {
+      "num": 1043,
+      "title": "Sinh Mệnh Thể Hoàn Chỉnh"
+    },
+    {
+      "num": 1044,
+      "title": "Bí mật chôn sâu dưới lòng đất"
+    },
+    {
+      "num": 1045,
+      "title": "Điểm kết thúc cũng là điểm khởi đầu"
+    },
+    {
+      "num": 1046,
+      "title": "Những cảnh quay hậu trường"
+    },
+    {
+      "num": 1047,
+      "title": "Lịch sử đã sang trang mới"
+    },
+    {
+      "num": 1048,
+      "title": "Bức màn của ngày cũ cũng chính là lời mở đầu cho một kỷ nguyên mới"
+    },
+    {
+      "num": 1049,
+      "title": "Cởi bỏ áo giáp"
+    },
+    {
+      "num": 1050,
+      "title": "Người nhà"
+    },
+    {
+      "num": 1051,
+      "title": "Có những con đường ngay từ đầu đã định sẵn kết cục tử vong (Chờ cập nhật)"
+    },
+    {
+      "num": 1052,
+      "title": "Đám Tang Và Đám Cưới"
+    },
+    {
+      "num": 1053,
+      "title": "Đại phản diện dừng bước tại Tân Thủ Thôn"
+    },
+    {
+      "num": 1054,
+      "title": "Kế Hoạch Sắp Xếp"
+    },
+    {
+      "num": 1055,
+      "title": "Cứ làm thôi, nghĩ nhiều làm gì!"
+    },
+    {
+      "num": 1056,
+      "title": "Tiến Bước Hướng Tới Phồn Vinh"
+    },
+    {
+      "num": 1057,
+      "title": "Ngửa bài"
+    },
+    {
+      "num": 1058,
+      "title": "Thử nghiệm công khai chấn động ập đến!"
+    },
+    {
+      "num": 1059,
+      "title": "Giấu kín công lao và danh tiếng"
+    },
+    {
+      "num": 1060,
+      "title": "Cuộc sống thử nghiệm công khai bắt đầu từ LV0!"
+    },
+    {
+      "num": 1061,
+      "title": "“Gặp Mặt Ngoài Đời”"
+    },
+    {
+      "num": 1062,
+      "title": "Cuộc đời là một chuyến phiêu lưu"
+    },
+    {
+      "num": 1063,
+      "title": "Mỗi cuộc phiêu lưu đều có điểm kết thúc (Hoàn thành)"
+    },
+    {
+      "num": 1064,
+      "title": "Ngoại truyện 3"
+    }
+  ],
+  "slug": "tro_choi_nay_qua_chan_that",
+  "title": "Trò Chơi Này Chân Thực Quá",
+  "author": "Thần Tinh LL",
+  "synopsis": "Sở Quang xuyên đến một thế giới hoang tàn sau tận thế, mở được hệ thống nơi trú ẩn và triệu hồi những \"người chơi\" tưởng rằng mình đang thử nghiệm một tựa game thực tế ảo. Từ chặt cây, đánh quái đến dựng căn cứ, lập liên minh và chinh chiến khắp vùng đất chết, đám người chơi quậy phá khiến cả phế thổ chẳng còn nghiêm túc nổi.",
+  "coverColor": "#5a4a2e"
+}
